@@ -1,0 +1,12 @@
+*~
+.*
+
+*.pyc
+*.RData
+*.Rhistory
+
+source__*
+
+!.gitignore
+
+
