@@ -1,0 +1,211 @@
+country_iso,index_table,country,party_name,label,country_nr,country_name,codebook_entry
+BGR,1101,Bulgaria,Bulgarian Socialist Party,CfB,1,Bulgaria,1
+BGR,1102,Bulgaria,National Movement for Stability and Progress,NMSS,1,Bulgaria,1
+BGR,1103,Bulgaria,Movement for Rights and Freedoms,MrF,1,Bulgaria,1
+BGR,1104,Bulgaria,Union of Democratic Forces,UDF,1,Bulgaria,1
+BGR,1105,Bulgaria,National Union Attack,NUA,1,Bulgaria,1
+BGR,1106,Bulgaria,Democrats for a Strong Bulgaria,DSB,1,Bulgaria,1
+BGR,1107,Bulgaria,Bulgarian People's Union,BPU,1,Bulgaria,0
+BGR,1108,Bulgaria,Citizens for European Development of Bulgaria,CEDB,1,Bulgaria,0
+CZE,1201,Czech-Republic,Civic Democratic Party,ODS,2,Czech Republic,1
+CZE,1202,Czech-Republic,Czech Social Democratic Party,CSSD,2,Czech Republic,1
+CZE,1203,Czech-Republic,Communist Party of Bohemia and Moravia,KSCM,2,Czech Republic,1
+CZE,1204,Czech-Republic,Christian and Democratic Union,KDU-CSL,2,Czech Republic,1
+CZE,1205,Czech-Republic,Green Party,SZ,2,Czech Republic,1
+EST,1301,Estonia,Estonian Reform Party,RE,3,Estonia,1
+EST,1302,Estonia,Estonian Centre Party,EK,3,Estonia,1
+EST,1303,Estonia,Pro Patria and Res Publica Union,IrL,3,Estonia,1
+EST,1304,Estonia,Social Democratic Party,SDE,3,Estonia,1
+EST,1305,Estonia,Estonian Greens,Er,3,Estonia,1
+EST,1306,Estonia,Estonian People's Union,RL,3,Estonia,1
+HUN,1401,Hungary,Hungarian Socialist Party,MSZP,4,Hungary,1
+HUN,1402,Hungary,Fidesz - Hungarian Civic Union,FIDESZ,4,Hungary,1
+HUN,1403,Hungary,Union of Free Democrats,SZDSZ,4,Hungary,1
+HUN,1404,Hungary,Hungarian Democratic Forum,MDF,4,Hungary,1
+HUN,1405,Hungary,Christian Democratic People's Party,KDNP,4,Hungary,1
+HUN,1406,Hungary,Hungarian Justice and Life Party,MIEP,4,Hungary,0
+LVA,1501,Latvia,People's Party,TP,5,Latvia,1
+LVA,1502,Latvia,Union of Greens and Peasants,LZS,5,Latvia,1
+LVA,1503,Latvia,New Era,JL,5,Latvia,1
+LVA,1504,Latvia,Harmony Centre,SC,5,Latvia,1
+LVA,1505,Latvia,Latvia's First Party / Latvia's Way,LPP,5,Latvia,1
+LVA,1506,Latvia,Fatherland and Freedom,TB/LNNK,5,Latvia,1
+LVA,1507,Latvia,For Human Rights in United Latvia,PCTVL,5,Latvia,1
+LVA,1508,Latvia,Latvian Social Democratic Workers' Party,LSdSP,5,Latvia,1
+LTU,1601,Lithuania,Lithuanian Social Democratic Party,LSDP,6,Lithuania,1
+LTU,1602,Lithuania,Fatherland Union,TS-LK,6,Lithuania,1
+LTU,1603,Lithuania,New Union - Social Liberals,NS,6,Lithuania,1
+LTU,1604,Lithuania,Order and Justice - Liberal Democrats,TiT,6,Lithuania,1
+LTU,1605,Lithuania,Liberals' Movement of the Republic of Lithuania,LrLS,6,Lithuania,1
+LTU,1606,Lithuania,Labour Party,DP,6,Lithuania,1
+LTU,1607,Lithuania,Liberal and Centre Union,LCS,6,Lithuania,1
+LTU,1608,Lithuania,Lithuanian Peasant Popular Union,LVLS,6,Lithuania,1
+LTU,1609,Lithuania,Lithuanian Poles' Electoral Alliance,AWPL,6,Lithuania,1
+LTU,1610,Lithuania,Civic Democratic Party,PDP,6,Lithuania,1
+MDA,1701,Moldova,Communist Party of the Republic of Moldova,PCRM,7,Moldova,1
+MDA,1702,Moldova,Party Alliance Our Moldova,PAMN,7,Moldova,1
+MDA,1703,Moldova,Democratic Party of Moldova,PDM,7,Moldova,1
+MDA,1704,Moldova,Social-Liberal Party,PSL,7,Moldova,1
+MDA,1705,Moldova,Christian Democratic People's Party,PPCD,7,Moldova,1
+MDA,1706,Moldova,Socialist Party from Moldova,PSM,7,Moldova,1
+MDA,1707,Moldova,Party of Socialists from Republic of Moldova,PSRM,7,Moldova,1
+POL,1801,Poland,Law and Justice,PIS,8,Poland,1
+POL,1802,Poland,Civic Platform,PO,8,Poland,1
+POL,1803,Poland,Left and Democrats,LiD,8,Poland,1
+POL,1804,Poland,Self-Defense of the Republic of Poland,SrP,8,Poland,1
+POL,1805,Poland,League of Polish Families,LPr,8,Poland,1
+POL,1806,Poland,Polish People's Party,PSL,8,Poland,1
+ROU,1901,Romania,Social Democratic Party,PSD,9,Romania,1
+ROU,1902,Romania,Democratic Party,PD,9,Romania,1
+ROU,1903,Romania,National Liberal Party,PNL,9,Romania,1
+ROU,1904,Romania,Great Romania Party,PrM,9,Romania,1
+ROU,1905,Romania,Conservative Party,PC,9,Romania,1
+ROU,1906,Romania,Democratic Alliance of Hungarians in Romania,UDMr,9,Romania,1
+ROU,1907,Romania,New Generation Party,PNG,9,Romania,1
+ROU,1908,Romania,Liberal Democratic Party,PLD,9,Romania,1
+ROU,1909,Romania,Christian Democratic National Peasant's Party,PNTCD,9,Romania,1
+ROU,1910,Romania,National Iniziative Party,PIN,9,Romania,1
+RUS,2001,Russia,Unified Russia,ER,10,Russia,1
+RUS,2002,Russia,Communist Party of the Russian Federation,KPRF,10,Russia,1
+RUS,2003,Russia,Liberal-Democratic Party of Russia,LDPR,10,Russia,1
+RUS,2004,Russia,Fair Russia,SR,10,Russia,1
+RUS,2005,Russia,Union of Rightist Forces,SPS,10,Russia,1
+RUS,2006,Russia,Rodina Motherland-National Patriotic Union,Rodina,10,Russia,0
+SVK,2101,Slovakia,Christian Democratic Movement,KDH,11,Slovakia,1
+SVK,2102,Slovakia,People's Party - Movement for a Democratic Slovakia,HZDS,11,Slovakia,1
+SVK,2103,Slovakia,Slovak Democratic and Christian Union,SDKU,11,Slovakia,1
+SVK,2104,Slovakia,Direction - Social Democracy,Smer,11,Slovakia,1
+SVK,2105,Slovakia,Party of the Hungarian Coalition,MKP,11,Slovakia,1
+SVK,2106,Slovakia,Slovak National Party,SNS,11,Slovakia,1
+SVN,2201,Slovenia,Liberal Democracy of Slovenia,LDS,12,Slovenia,1
+SVN,2202,Slovenia,Slovenian Democratic Party,SDS,12,Slovenia,1
+SVN,2203,Slovenia,Social Democrats,SD,12,Slovenia,1
+SVN,2204,Slovenia,Slovenian People's Party,SLS,12,Slovenia,1
+SVN,2205,Slovenia,New Slovenia - Christian People's Party,NS,12,Slovenia,1
+SVN,2206,Slovenia,Slovenian National Party,SNS,12,Slovenia,1
+SVN,2207,Slovenia,Democratic Pensioners' Party of Slovenia,DSUS,12,Slovenia,1
+UKR,2301,Ukraine,Party of Regions,PRU,13,Ukraine,1
+UKR,2302,Ukraine,Bloc Yulia Tymoshenko,BJUP,13,Ukraine,1
+UKR,2303,Ukraine,People's Union Our Ukraine,NSNU,13,Ukraine,1
+UKR,2304,Ukraine,Socialist Party of Ukraine,SPU,13,Ukraine,1
+UKR,2305,Ukraine,Communist Party of Ukraine,KPU,13,Ukraine,1
+UKR,2306,Ukraine,Bloc of Yuri Lutsenko People's Self-Defense,NS,13,Ukraine,1
+UKR,2307,Ukraine,Progressive Socialist Party of Ukraine,PSPU,13,Ukraine,1
+UKR,2308,Ukraine,People's Bloc Lytvyn,NBL,13,Ukraine,1
+UKR,2309,Ukraine,Viche Party,PV,13,Ukraine,1
+UKR,2310,Ukraine,Bloc of Borys Tarasyk,BBT-UP,13,Ukraine,1
+UKR,2311,Ukraine,Green Party,PZU,13,Ukraine,1
+AUT,2401,Austria,Social Democratic Party of Austria,SPO,14,Austria,1
+AUT,2402,Austria,Austrian People's Party,OVP,14,Austria,1
+AUT,2403,Austria,The Greens,GRUNE,14,Austria,1
+AUT,2404,Austria,Freedom Party of Austria,FPO,14,Austria,1
+AUT,2405,Austria,Alliance for the Future of Austria,BZO,15,Austria,1
+BEL,2501,Belgium,Christian-Democratic & Flemish,CD&V,15,Belgium,1
+BEL,2502,Belgium,New Flemish Alliance,N-VA,15,Belgium,1
+BEL,2503,Belgium,Reform Movement,MR,15,Belgium,1
+BEL,2504,Belgium,Flemish Interest,VB,15,Belgium,1
+BEL,2505,Belgium,Flemish Liberals and Democrats,VLD,15,Belgium,1
+BEL,2506,Belgium,Socialist Party,PS,15,Belgium,1
+BEL,2507,Belgium,Socialist Party. Different,SPA,15,Belgium,1
+BEL,2508,Belgium,Humanist Democratic Centre,CDH,15,Belgium,1
+BEL,2509,Belgium,Ecologists,ECOLO,15,Belgium,1
+BEL,2510,Belgium,List Dedecker,LDD,15,Belgium,1
+BEL,2511,Belgium,The Flemish Greens,GROEN,15,Belgium,1
+BEL,2512,Belgium,National Front,FN,15,Belgium,1
+BEL,2513,Belgium,Spirit,SPIRIT,15,Belgium,0
+DNK,2601,Denmark,Denmark's Liberal Party,V,16,Denmark,1
+DNK,2602,Denmark,Social Democracy,S,16,Denmark,1
+DNK,2603,Denmark,Danish People's Party,DF,16,Denmark,1
+DNK,2604,Denmark,Socialist People's Party,SF,16,Denmark,1
+DNK,2605,Denmark,Conservative People's Party,KF,16,Denmark,1
+DNK,2606,Denmark,Radical Liberals,RV,16,Denmark,1
+DNK,2607,Denmark,Unity List - The Red-Greens,EL,16,Denmark,1
+DNK,2608,Denmark,New Alliance,NA,16,Denmark,0
+FIN,2701,Finland,Finnish Centre,KESK,17,Finland,1
+FIN,2702,Finland,National Coalition Party,KOK,17,Finland,1
+FIN,2703,Finland,Finnish Social Democratic Party,SDP,17,Finland,1
+FIN,2704,Finland,Left Alliance,VAS,17,Finland,1
+FIN,2705,Finland,Green Alliance,VIHR,17,Finland,1
+FIN,2706,Finland,Finnish Christian Democrats,KD,17,Finland,1
+FIN,2707,Finland,Swedish People's Party in Finland,SFP,17,Finland,1
+FIN,2708,Finland,True Finns,PS,17,Finland,1
+FRA,2801,France,Union for a Popular Movement,UMP,18,France,1
+FRA,2802,France,Socialist Party,PS,18,France,1
+FRA,2803,France,Democratic Movement,MoDem,18,France,1
+FRA,2804,France,French Communist Party,PCF,18,France,1
+FRA,2805,France,National Front,FN,18,France,1
+FRA,2806,France,The Greens,VERTS,18,France,1
+FRA,2807,France,Movement for France,MPF,18,France,1
+FRA,2808,France,New Centre,NC,18,France,0
+FRA,2809,France,Party of the Radical Left,PRG,18,France,0
+DEU,2901,Germany,Christian Democracy Union,CDU,19,Germany,1
+DEU,2902,Germany,Christian Social Union,CSU,19,Germany,1
+DEU,2903,Germany,Social Democratic Party of Germany,SPD,19,Germany,1
+DEU,2904,Germany,Free Democratic Party,FDP,19,Germany,1
+DEU,2905,Germany,"The Left (Party of Democratic Socialism, PDS)",DIE LINKE,19,Germany,1
+DEU,2906,Germany,Alliance 90/The Greens,GRUNE,19,Germany,1
+GRC,3001,Greece,New Democracy,ND,20,Greece,1
+GRC,3002,Greece,Panhellenic Socialist Movement,PASOK,20,Greece,1
+GRC,3003,Greece,Communist Party of Greece,KKE,20,Greece,1
+GRC,3004,Greece,"Coalition of the Left, the Movements and the Ecology",SYN,20,Greece,1
+GRC,3005,Greece,Popular Orthodox Rally,LAOS,20,Greece,1
+IRL,3101,Ireland,Soldiers of Destiny,FF,21,Ireland,1
+IRL,3102,Ireland,Family of the Irish,FG,21,Ireland,1
+IRL,3103,Ireland,Labour Party,LAB,21,Ireland,1
+IRL,3104,Ireland,We Ourselves,SF,21,Ireland,1
+IRL,3105,Ireland,Green Party,GP,21,Ireland,1
+IRL,3106,Ireland,Progressive Democrats,PD,21,Ireland,1
+IRL,3107,Ireland,Communist,SP,21,Ireland,1
+ITA,3201,Italy,Left Democrats,Left_Dem,22,Italy,1
+ITA,3202,Italy,Communist Refoundation Party,PRC,22,Italy,1
+ITA,3203,Italy,Italian Democratic Socialists,SDI,22,Italy,1
+ITA,3204,Italy,Party of Italian Communists,PdCI,22,Italy,1
+ITA,3205,Italy,Italy of Values,IdV,22,Italy,1
+ITA,3206,Italy,Green Federation,VERDI,22,Italy,1
+ITA,3207,Italy,National Alliance,AN,22,Italy,1
+ITA,3208,Italy,Union of Christian and Centre Democrats,UDC,22,Italy,1
+ITA,3209,Italy,Go Italy,FI,22,Italy,0
+ITA,3210,Italy,North League,LN,22,Italy,0
+ITA,3211,Italy,Communist Refoundation Party,RI,22,Italy,0
+NLD,3301,Netherlands,Christian Democratic Appeal,CDA,23,the Netherlands,1
+NLD,3302,Netherlands,Labour Party,PvdA,23,the Netherlands,1
+NLD,3303,Netherlands,Socialist Party,SP,23,the Netherlands,1
+NLD,3304,Netherlands,People's Party for Freedom and Democracy,VVD,23,the Netherlands,1
+NLD,3305,Netherlands,Freedom Party,PVV,23,the Netherlands,1
+NLD,3306,Netherlands,Green Left,GL,23,the Netherlands,1
+NLD,3307,Netherlands,Christian Union,CU,23,the Netherlands,1
+NLD,3308,Netherlands,Democrats 66,D66,23,the Netherlands,1
+NLD,3309,Netherlands,Party for the Animals,PvdD,23,the Netherlands,1
+NLD,3310,Netherlands,List Rita Verdonk,VERDONK,23,the Netherlands,1
+NLD,3311,Netherlands,Reformed Political Party,SGP,23,the Netherlands,1
+PRT,3401,Portugal,Socialist Party,PS,24,Portugal,1
+PRT,3402,Portugal,Social Democratic Party,PSD,24,Portugal,1
+PRT,3403,Portugal,Portuguese Communist Party,PCP,24,Portugal,1
+PRT,3404,Portugal,Ecological Party The Greens,PEV,24,Portugal,1
+PRT,3405,Portugal,Democratic Social Centre,CDS-PP,24,Portugal,1
+PRT,3406,Portugal,Left Bloc,BE,24,Portugal,1
+ESP,3501,Spain,Spanish Socialist Workers' Party,PSOE,25,Spain,1
+ESP,3502,Spain,People's Party,PP,25,Spain,1
+ESP,3503,Spain,United Left,IU,25,Spain,1
+ESP,3504,Spain,Convergence and Union of Catalonia,CiU,25,Spain,1
+ESP,3505,Spain,Republican Left of Catalonia,ERC,25,Spain,1
+ESP,3506,Spain,Basque National Party,EAJ-PNV,25,Spain,1
+ESP,3507,Spain,Aragonese Council,CHA,25,Spain,1
+ESP,3508,Spain,Navarre Yes,Na-Bai,25,Spain,1
+ESP,3509,Spain,Galician Nationalist Block,BNG,25,Spain,0
+ESP,3510,Spain,Canary Coalition,CC,25,Spain,0
+ESP,3511,Spain,Basque Solidarity,EA,25,Spain,0
+ESP,3512,Spain,Initiative for Catalonia Greens,ICV,25,Spain,0
+SWE,3601,Sweden,Social Democratic Workers' Party,SAP,26,Sweden,1
+SWE,3602,Sweden,Moderate Rally Party,M,26,Sweden,1
+SWE,3603,Sweden,Centre Party,C,26,Sweden,1
+SWE,3604,Sweden,Liberal People's Party,FP,26,Sweden,1
+SWE,3605,Sweden,Christian Democrats,KD,26,Sweden,1
+SWE,3606,Sweden,Left Party,VP,26,Sweden,1
+SWE,3607,Sweden,Environment Party The Greens,MP,26,Sweden,1
+SWE,3608,Sweden,Sweden Democrats,Sweden Democrats,26,Sweden,1
+GBR,3701,UK,Labour Party,LAB,27,uk,1
+GBR,3702,UK,Conservative Party,CON,27,uk,1
+GBR,3703,UK,Liberal Democrats,LD,27,uk,1
+GBR,3704,UK,Scottish National Party,SNP,27,uk,1
+GBR,3705,UK,Party of Wales,PC,27,uk,1
