@@ -1,0 +1,226 @@
+country,id,accronym,party_name,party_name_english
+Belgium,2101,N-VA,Nieuw-Vlaams Alliantie,New Flemish Alliance
+Belgium,2102,VB,Vlaams Belang,Flemish Interest
+Belgium,2103,CD&V,Christen-Democratisch en Vlaams,"Christian, Democratic and Flemish"
+Belgium,2104,VLD,Open Vlaamse Liberalen en Democraten,Open Flemish Liberals and Democrats
+Belgium,2105,PS,Parti Socialiste,Socialist Party
+Belgium,2106,MR,Mouvement Réformateur,Reformist Movement
+Belgium,2107,SP.A,Socialistische Partij Anders,Socialist Party Different
+Belgium,2108,UF,Union des Francophones,Union of Francophones
+Belgium,2109,ProDG,Pro Deutschsprachige Gemeinschaft,Pro German-speaking Community
+Bosnia and Herzegovina,7901,SDP,Socijaldemokratska Partija Bosne i Hercegovine,Social Democratic Party of Bosnia and Herzegovina
+Bosnia and Herzegovina,7902,SDA,Stranka Demokratske Akcije,Party for Democratic Action
+Bosnia and Herzegovina,7903,SBB BIH,Savez za Bolju Budućnost,Union for a Better Future
+Bosnia and Herzegovina,7904,SBiH,Stranka za Bosnu i Hercegovinu,Party for Bosnia and Herzegovina
+Bosnia and Herzegovina,7905,DNZ BIH,Demokratska Narodna Zajednica,Democratic People's Union of BiH
+Bosnia and Herzegovina,7906,ASDA,Stranka Demokratske Aktivnosti,Party of Democrativ Activity
+Bosnia and Herzegovina,7907,HDZ BIH,Hrvatska Demokratska Zajednica BiH,Croatian Democratic Union of BiH
+Bosnia and Herzegovina,7908,HDZ1990,Hrvatska demokratska zajednica 1990,Croatian Democratic Union 1990
+Bosnia and Herzegovina,7909,HSP- BiH,Hrvatska Stranka Prava,Croatian Party of Right
+Bosnia and Herzegovina,7910,NSRZB,Narodna Stranka Radom za Boljitak,People's Party Work for Betterment
+Bosnia and Herzegovina,7911,SNSD,Savez Nezavisnih Socijaldemokrata,Alliance of Independent Social Democrats
+Bosnia and Herzegovina,7912,SDS,Srpska Demokratska Stranka,Serbian Democratic Party
+Bosnia and Herzegovina,7913,PDP,Partija Demokratskog Progresa,Party of Democratic Progress
+Bosnia and Herzegovina,7914,DNS,Demokratski Narodni Savez,Democratic People's Alliance
+Bosnia and Herzegovina,7915,DP,Demokratska Partija Dragan Čavić,Democratic Party Dragan Čavić
+Bosnia and Herzegovina,7916,SRS RS,Srpska Radikalna Stranka RS,Serb Radical Party RS
+Bulgaria,8001,GERB,Grazhdani za Evropejsko razvitie na Balgaria,Citizens for European Development of Bulgaria
+Bulgaria,8002,BSP,Balgarska socialisticheska partia,Bulgarian Socialist Party
+Bulgaria,8003,SDS,Sayuz na demokratichnite sili,Union of Democratic Forces
+Bulgaria,8004,DSB,Demokrati za silna Balgaria,Democrats for a Strong Bulgaria
+Bulgaria,8005,Ataka,Partia Ataka,Party Attack
+Bulgaria,8006,DPS,Dvizhenie za prava i svobodi,Movement for Rights and Freedoms
+Croatia,8101,HDZ,Hrvatska demokratska zajednica,Croatian Democratic Union
+Croatia,8102,SDP,Socijaldemokratska partija Hrvatske,Social Democratic Party of Croatia
+Croatia,8103,HNS,Hrvatska narodna stranka - liberalni demokrati,Croatian People's Party - Liberal Democrats
+Croatia,8104,HSS,Hrvatska seljačka stranka,Croatian Peasant Party
+Croatia,8105,HSP,Hrvatska stranka prava,Croatian Party of Rights
+Croatia,8106,SDSS,Samostalna demokratska srpska stranka,Independent Democratic Serbian Party
+Croatia,8107,DPS,Demokratska partija Srba,Democratic party of Serbs
+Croatia,8108,NSS,Nova srpska stranka,New Serbian party
+Croatia,8109,SDAH,Stranka demokratske akcije Hrvatske,Party of Democratic Action of Croatia
+Croatia,8110,HDSSB,Hrvatski demokratski sabor Slavonije i Baranje,Croatian Democratic Assembly of Slavonia and Baranja
+Croatia,8111,IDS,Istarski demokratski sabor,Istrian Democratic Assembly
+Croatia,8112,PGS,Primorsko-goranski savez,Alliance of Primorje-Gorski Kotar
+Croatia,8113,ARS,"Autonomna regionalna stranka Hrvatskog primorja, Gorskog kotara, otoka i Rijeke ","Autonomous Regional Party of the Croatian Primorje, Gorski kotar (Mountain district) and the island of Rijeka."
+Croatia,8114,MDS,Međimurski demokratski savez,Medjimur Democratic Union
+Denmark,1301,V,Venstre,The Liberal Party
+Denmark,1302,SD,Socialdemokraterne,The Social Democrates
+Denmark,1303,DF,Dansk Folkeparti,Danish People´s Party
+Denmark,1304,SF,Socialistisk Folkeparti,Socialist People´s Party
+Denmark,1305,K,Det Konservative Folkeparti,The Conservative Peoples Party
+Denmark,1306,FLFL,Fólkaflokkurin,Conservative Party
+Denmark,1307,SBFL,Sambandsflokkurin,Unionist´s Party
+Denmark,1308,JVFL,Javnaðarflokkurin,Social Democratic Party
+Denmark,1309,SJFL,Sjálvstýrisflokkurin,Self Government Party
+Denmark,1310,TJFL,Tjóðveldisflokkurin,Republican Party
+Denmark,1311,MFL,Miðflokkurin,The Centre Party
+Denmark,1312,IA,Inuit Ataqatigiit,Community of the People
+Denmark,1313,D,Demokraatit,Democrats
+Denmark,1314,A,Atassut,Feeling of Community
+Denmark,1315,S,Siumut,Forward
+Estonia,8301,IRL,Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union
+Estonia,8302,EK,Eesti Keskerakond,Estonian Center Party
+Estonia,8303,RE,Eesti Reformierakond,Estonian Reform Party
+Estonia,8304,SDE,Sotsiaaldemokraatlik Erakond,Social Democratic Party
+Estonia,8305,VEE,Vene Erakond Eestis,Russian Party in Estonia
+Finland,1401,Kok,Kansallinen Kokoomus,National Coalition Party
+Finland,1402,PS,Perussuomalaiset,True Finns
+Finland,1403,Kesk,Suomen Keskusta,Center Party of Finland
+Finland,1404,SDP,Suomen Sosialidemokraattinen Puolue,Social Democratic Party of Finland
+Finland,1405,Vas,Vasemmistoliitto,Left Alliance
+Finland,1406,Vihr,Vihreä liitto,Green League
+Finland,1407,SFP,Svenska folkpartiet i Finland/ Suomen ruotsalainen kansanpuolue,Swedish People's Party in Finland
+Finland,1408,AF,Ålands Framtid,Future of Aland
+France,3101,UMP,Union pour un mouvement populaire,Union for a Popular Movement
+France,3102,PS,Parti socialiste,Socialist Party
+France,3103,FN,Front national,National Front
+France,3104,PNC,Parti de la nation corse/Partitu di a Nazione Corsa,Party of the corse nation
+France,3105,CL,Corsica Libera,Free Corsica
+France,3106,Unser,Unser Land - Le Parti Alsacien,Our Land - the Alsatian party
+France,3107,UDB,Union Démocratique Bretonne/Unvaniezh Demokratel Breizh,Breton Democratic Union
+France,3108,PÒc,Parti Occitan,Occitan Party
+Italy,3201,PdL,Popolo della libertà,The People of Freedom
+Italy,3202,PD,Partito Democratico,Democratic Party
+Italy,3203,LN,Lega Nord,Northern League
+Italy,3204,PNE,Progetto NordEst,North-East Project
+Italy,3205,MPA,Movimento per le Autonomie,Movement for Autonomy
+Italy,3206,NS,Noi Sud – Libertà e Autonomia,We the South – Freedom and Autonomy
+Italy,3207,SVP,Südtiroler Volkspartei/Partito Popolare Sudtirolese,South Tyrolean People's Party
+Italy,3208,UpT,Unione per il Trentino,Union for Trentino
+Italy,3209,PATT,Partito Autonomista Trentino Tirolese,Trentino Tyrolean Autonomist Party
+Italy,3210,STF,Süd-Tiroler Freiheit/Libertà Sud-Tirolese,South Tyrolean Freedom
+Italy,3211,BU,BürgerUnion/Unione per il Sudtirolo,Union for South Tyrol
+Italy,3212,UV,Union Valdôtaine,Valdotanian Union
+Italy,3213,ALPE,Autonomie Liberté Participation Écologie,"Autonomy, Liberty, Participation, Ecology"
+Italy,3214,PSd'Az,Partitu Sardu/Partito Sardo d'Azione,Sardinian Action Party
+Italy,3215,UDS,Unione Democratica Sarda – Progetto Nazionalitario,Sardinian Democratic Union
+Kosovo,9901,PDK,Partia Demokratike e Kosovës,Democratic Party of Kosovo
+Kosovo,9902,LDK,Lidhja Demokratike e Kosovës,Democratic League of Kosovo
+Kosovo,9903,VV,Lëvizja Vetëvendosje,Self-Determination Movement
+Kosovo,9904,AAK,Aleanca për Ardhmërinë e Kosovës,Alliance for the Future of Kosovo
+Kosovo,9905,KKR,Koalicioni për Kosovë të,New Kosovo Coalition
+Kosovo,9906,SLS,Samostalna liberalna stranka,Independent Liberal Party
+Kosovo,9907,JSL,Jedinstvena srpska lista,Unique Serbian List
+Kosovo,9908,SDSKIM,Srpska demokratska stranka Kosova i Metohije,Serb Democratic Party of Kosovo and Metohija
+Kosovo,9909,NDS,Nova demokratska stranka,New Democratic Party
+Kosovo,9910,BSDAK,Bošnjačka stranka demokratske akcije Kosova,Bosniak Party of Democratic Action of Kosovo
+Kosovo,9911,KV,Koalicija Vakat,Vakat Coalition
+Kosovo,9912,KDTP,Kosova Demokratik Türk Partisi,Kosovo Turkish Democratic Party
+Kosovo,9913,GIG,Građanska inicijativa Goranaca,Civic Initiative of Gorani
+Latvia,8701,PS,Pilsoniskā Savienība,Civic Union
+Latvia,8702,JL,Jaunais Laikas,New Era Party
+Latvia,8703,SCP,Sabiedrība Citai Politikai,Society for Other Politics
+Latvia,8704,SDPS,Sociāldemokrātiska Partija 'Saskaņa',Social Democratic Party 'Harmony'
+Latvia,8705,LSP,Latvijas Sociālistiskā Partija,Latvian Socialist Party
+Latvia,8706,LZS,Centriska Partija - Latvijas Zemnieku Savienība,Centre Party - Latvian Peasants' Union
+Latvia,8707,LZP,Latvijas Zaļā Partija,Latvian Green Party
+Latvia,8708,VL,Visu Latvijai,All For Latvia
+Latvia,8709,TB-LNNK,Tēvzemei un Brīvībai/LNNK,Fatherland and Freedom
+Latvia,8710,TP,Tautas Partija,People's Party
+Latvia,8711,LPP-LC,Latvijas Pirmā Partija - Latvijas Ceļš,Latvia's First Party - Latvia's Way
+Latvia,8712,PCTVL,Par Cilvēka Tiesībām Vienotā Latvija,For Human Rights in United Latvia
+Lithuania,8801,TS-LKD,Tėvynės Sąjunga - Lietuvos Krikščionys Demokratai,Homeland Union - Christian Democrats of Lithuania
+Lithuania,8802,TPP,Tautos Prisikėlimo Partija,National Revival Party
+Lithuania,8803,TT,Tvarka ir teisingumas,Order and Justice
+Lithuania,8804,LSDP,Lietuvos socialdemokratu partija,Social Democratic Party of Lithuania
+Lithuania,8805,DP,Darbo partija,Labour Party
+Lithuania,8806,LLRA,Lietuvos lenku rinkimu akcija,Election Action of Lithuania's Poles
+Lithuania,8807,LRS,Lietuvos rusų sąjunga,Lithuanian Russian Union
+Macedonia,8901,VMRO-DPMNE,Vnatrešna makedonska revolucionerna organizacija - Demokratska partija za makedonsko nacionalno edinstvo,Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity
+Macedonia,8902,SDSM,Socijaldemokratski sojuz na Makedonija,Social Democratic Union of Macedonia
+Macedonia,8903,DUI,Demokratska unija za integracija,Democratic Union for Integration
+Macedonia,8904,DPA,Demokratska unija na Albancite,Democratic Party of Albanians
+Macedonia,8905,NDP,Nacionalna demokratska prerodba,National Democratic Revival
+Macedonia,8906,DPT,Demokratska Partija na Turcite na Makedonija,Democratic Party of Turks
+Macedonia,8907,DPSM,Demokratska Partija na Srbite vo Makedonija,Democratic Party of Serbs in Macedonia
+Moldova,9001,PCRM,Partidul Comuniştilor din Republica Moldova,Party of Communists of the Republic of Moldova
+Moldova,9002,PLDM,Partidul Liberal Democrat din Moldova,Liberal Democratic Party of Moldova
+Moldova,9003,PDM,Partidul Democrat din Moldova,Democratic Party of Moldova
+Moldova,9004,PL,Partidul Liberal,Liberal Party
+Moldova,9005,MSR,"Mişcarea social-politica ""Ravnopravie""","Social-political Movement ""Ravnopravie (Equality)"""
+Montenegro,9101,DPS CG,Demokratska partija socijalista Crne Gore,Democratic Party of Socialists of Montenegro
+Montenegro,9102,SNP CG,Socijalistička narodna partija Crne Gore,Socialist People's Party of Montenegro
+Montenegro,9103,NOVA,Nova srpska demokratija,New Serbian Democracy
+Montenegro,9104,DUA,Demokratska unija Albanaca,Democratic Union of Albanians
+Montenegro,9105,FORCA,Nova demokratska snaga - FORCA,New Democratic Power -FORCA
+Montenegro,9106,DSCG,Demokratski savez u Crnoj Gori,Democratic League in Montenegro
+Montenegro,9107,KS-P,Albanska koalicija perspektiva,Albanian Coalition Perspective
+Montenegro,9108,HGI,Hrvatska građanska inicijativa,Croatian Civic Initiative
+Montenegro,9109,BS,Bošnjačka stranka,Bosniak Party
+Montenegro,9110,SDP CG,Socijaldemokratska partija Crne Gore,Social Democratic Party of Montenegro
+Poland,9201,PO,Platforma Obywatelska,Civic Platform
+Poland,9202,PiS,Prawo i Sprawiedliwość,Law and Justice
+Poland,9203,SLD,Sojusz Lewicy Demokratycznej,Democratic Left Alliance
+Poland,9204,PSL,Polskie Stronnictwo Ludowe,Polish People's Party
+Poland,9205,MN,Komitet Wyborczy Mniejszość Niemiecka,German Minority Electoral Committee
+Poland,9206,RAS,Ruch Autonomii Śląska,Silesian Autonomy Movement
+Romania,9301,PSD,Partidul Social Democrat,Social Democratic Party
+Romania,9302,PD-L,Partidul Democrat-Liberal,Democratic Liberal Party
+Romania,9303,PNL,Partidul Naţional Liberal,National Liberal Party
+Romania,9304,PRM,Partidul România Mare,Greater Romania Party
+Romania,9305,UDMR,Uniunea Democrată Maghiară din România/Romániai Magyar Demokrata Szövetség,Democratic Union of Hungarians in Romania
+Romania,9306,PCM-MPP,Partidul Civic Maghiar/Magyar Polgári Párt,Hungarian Civic Party
+Romania,9307,FDGR,Forumul Democrat al Germanilor din România/ Demokratisches Forum der Deutschen in Rumänien,Democratic Forum of Germans in Romania
+Serbia,9501,DS,Demokratska stranka,Democratic Party
+Serbia,9502,SNS,Srpska napredna stranka,Serbian Progressive Party
+Serbia,9503,SRS,Srpska radikalna stranka,Serbian Radical Party
+Serbia,9504,DSS,Demokratska stranka Srbije,Democratic Party of Serbia
+Serbia,9505,SPS,Socijalistička partija Srbije,Socialist Party of Serbia
+Serbia,9506,LDP,Liberalno-demokratska partija,Liberal Democratic Party
+Serbia,9507,SVM,Savez vojvođanskih Mađara,Alliance of Vojvodina Hungarians
+Serbia,9508,DSVM,Demokratska stranka vojvođanskih Mađara,Democratic Party of Vojvodina Hungarians
+Serbia,9509,SDP,Sandžacka demokratska partija,Sandzak Democratic Party
+Serbia,9510,SDA,Stranka demokratske akcije Sandžaka,Party of Democratic Action of Sandzak
+Serbia,9511,BDZ,Bošnjacka demokratska zajednica,Bosniak Democratic Community
+Serbia,9512,PDD,Partija za demokratsko delovanje,Party for Democratic Action
+Serbia,9513,DPA,Demokratska partija Albanaca,Democratic Party of Albanians
+Serbia,9514,DSHV,Demokratski savez Hrvata u Vojvodini,Democratic Alliance of Croats in Vojvodina
+Slovakia,9601,SMER-SD,Smer - sociálna demokracia,Social Democratic Party
+Slovakia,9602,SDKÚ-DS,Slovenská demokratická a kresťanská únia – Demokratická strana,Slovak Democratic and Christian Union – Democratic Party
+Slovakia,9603,KDH,Kresťanskodemokratické hnutie,Christian Democratic Movement
+Slovakia,9604,SaS,Sloboda a Solidarita,Freedom and Solidarity
+Slovakia,9605,SNS,Slovenská národná strana,Slovak National Party
+Slovakia,9606,Most-Híd,Most–Híd,Bridge
+Slovakia,9607,SMK-MKP,Strana maďarskej koalície/ Magyar Koalíció Pártja,Party of the Hungarian Coalition
+Spain,3301,PSOE,Partido Socialista Obrero Español,The Socialist Party
+Spain,3302,PSOE(CA),Partido Socialista Obrero Español al nível de las comunidades autónomas,The Socialist Party at the level of the autonomous communities
+Spain,3303,PP,Partido Popular,The People’s Party
+Spain,3304,PP(CA),Partido Popular al nível de las comunidades autónomas,The People’s Party at the level of the autonomous communities
+Spain,3305,UPyD,Unión Progreso y Democracia,Union Progress and Democracy
+Spain,3306,CiU,Convergencia i Unió,Convergence and Union
+Spain,3307,SI,Solidaritat Catalana per la Independencia,Catalan Solidarity for Independence
+Spain,3308,ERC,Esquerra Republicana de Catalunya,Republican Left of Catalonia
+Spain,3309,BNG,Bloque Nacionalista Galego,Galician Nationalist Block
+Spain,3310,PNV,Partido Nacionalista Vasco/Euzko Alderdi Jeltzalea,Basque Nationalist Party
+Spain,3311,Aralar,Aralar,Aralar
+Spain,3312,EA,Eusko Alkartasuna,Basque Solidarity
+Spain,3313,Bildu,La coalición Bildu,Bildu coalition
+Spain,3314,NA-BAI,Nafarroa Bai,Navarra Yes
+Spain,3315,UPN,Unión del pueblo Navarra,Navarrese People's Union
+Turkey,7401,AKP,Adalet ve Kalkinma Partisi,Justice and Development Party
+Turkey,7402,CHP,Cumhuriyet Halk Partisi,Republican People's Party
+Turkey,7403,MHP,Milliyetçi Hareket Partisi,National Movement Party
+Turkey,7404,BDP,Barış ve Demokrasi Partisi,Peace and Democracy Party
+Ukraine,9801,PR,Partia rehioniv,Party of Regions
+Ukraine,9802,BJUT,Blok Julii Tymoshenko,Bloc Yulia Tymoshenko
+Ukraine,9803,NUNS,Blok Nasha Ukraina - Narodna samooborona,Bloc Our Ukraine - People's Self-Defense
+Ukraine,9804,KPU,Komunistychna partia Ukrainy,Communist Party of Ukraine
+Ukraine,9805,Rukh,Narodnyi rukh Ukrainy,People's Movement of Ukraine
+Ukraine,9806,Soiuz,Soiuz,Union
+Ukraine,9807,Russkoe edinstvo,Russkoe edinstvo,Russian Unity
+Ukraine,9808,Sylna Ukraina,Sylna Ukraina,Strong Ukraine
+United Kingdom,5101,Con,The Conservative Party,The Conservative Party
+United Kingdom,5102,Con(region),"The Conservative Party, regional position","The Conservative Party, regional position"
+United Kingdom,5103,Lab,The Labour Party,The Labour Party
+United Kingdom,5104,Lab(region),"The Labour Party, regional position","The Labour Party, regional position"
+United Kingdom,5105,LD,Liberal Democrats,Liberal Democrats
+United Kingdom,5106,SNP,Scottish National Party,Scottish National Party
+United Kingdom,5107,SGP,Scots Green Pairty,Scottish Green Party
+United Kingdom,5108,PC,Plaid Cymru,The Party of Wales
+United Kingdom,5109,SF,Sinn Fein,Sinn Fein
+United Kingdom,5110,SDLP,Social Democratic & Labour Party,Social Democratic & Labour Party
+United Kingdom,5111,DUP,Democratic Unionist Party,Democratic Unionist Party
+United Kingdom,5112,UUP,Ulster Unionist Party,Ulster Unionist Party
+United Kingdom,5113,Alliance,Alliance Party of Northern Ireland,Alliance Party of Northern Ireland
+United Kingdom,5114,TUV,Traditional Unionist Voice,Traditional Unionist Voice
