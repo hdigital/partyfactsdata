@@ -28,7 +28,7 @@ Party Facts import requires ISO3 country codes. `country.csv` includes the respe
 
 ```R
 # minimal example -- works only for values that are valid R variable names
-recode <- c(a = "aa", z = "zz")
+recode <- c(a = "aa", z = "zz", "a 1" = NA)
 sapply(letters, function(.) ifelse(. %in% names(recode), recode[[.]], .))
 ```
 
