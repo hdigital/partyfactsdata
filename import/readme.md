@@ -9,7 +9,7 @@ Files are UTF-8 encoded.
 Import of data into the Party Facts database is done by the project maintainers.
 
 
-# R packages
+# R packages and snippets
 
 Most of the data preparation is done in R. Some scripts may require additional packages.
 
@@ -22,6 +22,14 @@ lapply(packages, function(pack) {
   require(pack, character.only=TRUE, quietly=TRUE)
 })
 update.packages(ask=FALSE)
+```
+
+Party Facts import requires ISO3 country codes. `country.csv` includes the respective information. Some country names may need to be recoded -- see snippet.
+
+```R
+# minimal example -- works only for values that are valid R variable names
+recode <- c(a = "aa", z = "zz")
+sapply(letters, function(.) ifelse(. %in% names(recode), recode[[.]], .))
 ```
 
 
