@@ -32,7 +32,7 @@ Template for dataset readme.md files
 ```Markdown
 ## Source
 
- * (...)
+ * (...) reference in APSR style
 
 ## Credits (optional)
 
