@@ -1,192 +1,192 @@
-"NATID","NATION","PARTYID","PARTY","ENAME","NAME","CMPCODE","iso3","id"
-13,"Austria",1,"SPO","Sozialistische Partei","Socialist Party",42320,"AUT",13001
-13,"Austria",2,"OVP","Osterreichische Volkspartei","Austrian Peoples Party",42520,"AUT",13002
-13,"Austria",3,"FPO","Die Freiheitlichen","Freedom Party",42420,"AUT",13003
-13,"Austria",4,"GREEN","Die Grune Alternative","Green Alternative",42110,"AUT",13004
-13,"Austria",5,"KPO","Kommunistische Partei","Communist Party",,"AUT",13005
-13,"Austria",6,"LIB","Liberales Forum","Liberal Party",,"AUT",13006
-1,"Belgium",1,"PCB","Parti Communiste Belge","Belgian Communist Party",,"BEL",1001
-1,"Belgium",2,"PS","Parti Socialiste","Socialist Party (Wallon)",21322,"BEL",1002
-1,"Belgium",3,"SP","Socialistiche Partij","Socialist Party (Flemish)",21321,"BEL",1003
-1,"Belgium",4,"ECOLO","Ecolo","Ecologists (Wallon)",,"BEL",1004
-1,"Belgium",5,"AGALV","Agalev","Ecologists (Flemish)",,"BEL",1005
-1,"Belgium",6,"PVV","Vlaamse Liberalen en Demokraten","Liberal Party (Flemish)",21421,"BEL",1006
-1,"Belgium",7,"PRL","Parti Reformateur Liberal","Liberal Party (Wallon)",21422,"BEL",1007
-1,"Belgium",8,"PSC","Parti Social Chretien","Christian Social Party",21522,"BEL",1008
-1,"Belgium",9,"CVP","Christelijke Volkspartij","Christian Peoples Party",21521,"BEL",1009
-1,"Belgium",10,"VU","Volksunie","Peoples Union",21913,"BEL",1010
-1,"Belgium",11,"FDFRW","Front Democratique Francophone","Francophone Democratic Front",21912,"BEL",1011
-1,"Belgium",12,"VB","Vlaams Bloc","Flemish Bloc",,"BEL",1012
-1,"Belgium",13,"ROSS","Rossem","Rossem",,"BEL",1013
-1,"Belgium",14,"UDRT","Union Democratique pour le Respect pour du Trav","Democratic Union for the Respect of Labour (Wal",,"BEL",1014
-1,"Belgium",15,"RVAD","Respect Voor Arbeid en Demokratie","Democratic Union for the Respect of Labour (Fle",,"BEL",1015
-2,"Denmark",1,"S","Socialdemokratiet","Social Democrats",13320,"DNK",2001
-2,"Denmark",2,"RV","Radikale Venstre","Radical Party",13410,"DNK",2002
-2,"Denmark",3,"KF","Konservative Folkparti","Conservatives",13620,"DNK",2003
-2,"Denmark",4,"CD","Centrum Demokraterne","Centre Democrats",13330,"DNK",2004
-2,"Denmark",5,"RETS","Retsforbundet","Justice Party",13952,"DNK",2005
-2,"Denmark",6,"SF","Socialistisk Folkparti","Socialist Peoples Party",13230,"DNK",2006
-2,"Denmark",7,"GRONN","De Gronne","The Greens",,"DNK",2007
-2,"Denmark",9,"DKP","Danmarks Kommunistiske Parti","Danish Communist Party",13220,"DNK",2009
-2,"Denmark",10,"FK","Faelles Kurs","Common Course",13221,"DNK",2010
-2,"Denmark",11,"KRF","Kristeligt Folkparti","Christian Peoples Party",13520,"DNK",2011
-2,"Denmark",12,"V","Venstre","Liberals",13420,"DNK",2012
-2,"Denmark",13,"FP","Fremskridtsparteiet","Progress Party",13951,"DNK",2013
-2,"Denmark",14,"RODGRN","Rod Gronne Enhedslisten","Red/Green Unity List",,"DNK",2014
-2,"Denmark",15,"VS","Venstre Socialisterne","Left Socialist Party",13210,"DNK",2015
-14,"Finland",1,"SDEM","Sosiaalidemokraattinen Puolue","Social Democrats",14320,"FIN",14001
-14,"Finland",2,"NC","Kansallinen Kokoomus","National Coalition",14620,"FIN",14002
-14,"Finland",3,"CP","Finlands Centern","Center Party",14810,"FIN",14003
-14,"Finland",4,"FPDU","Suomen Kansan Demokraattinen Liitto","Finnish Peoples Democratic Union",14221,"FIN",14004
-14,"Finland",5,"RURAL","Maaseudun Puolue","Rural Party",,"FIN",14005
-14,"Finland",6,"SPP","Svenska Folkpartiet","Swedish Peoples Party",14951,"FIN",14006
-14,"Finland",7,"DA","Demokraattinen Vaihtoehto","Democratic Alternative",,"FIN",14007
-14,"Finland",8,"GREEN","Vihrea Liitto","Green Party",14110,"FIN",14008
-14,"Finland",9,"CL","Suomen Kristillinen Liitto","Christian League",14520,"FIN",14009
-14,"Finland",10,"LPP","Liberaalinen Kansanpuolue","Liberal Peoples Party",,"FIN",14010
-14,"Finland",11,"PP","Elakelaisten Puolue","Pensioners Party",,"FIN",14011
-14,"Finland",12,"YOUNG","Nuorsuomalainen Puolue","Young Peoples Party",,"FIN",14012
-14,"Finland",13,"WOMEN","Naisten Puolue","Womens Party",,"FIN",14013
-6,"France",1,"PCF","Parti Communiste Francais","French Communist Party",31220,"FRA",6001
-6,"France",2,"PS","Parti Socialiste","Socialist Party",31320,"FRA",6002
-6,"France",3,"MRG","Movement des Radicaux de Gauche","Radical Left Movement",,"FRA",6003
-6,"France",4,"PSU","Parti Socialiste Unifiee","Unified Socialist Party",,"FRA",6004
-6,"France",5,"VERTS","Les Verts","The Greens",,"FRA",6005
-6,"France",6,"UDFPR","UDF Parti Republican","Republican Party",,"FRA",6006
-6,"France",7,"UDFCDS","UDF Centre Democrat et Social","Social and Democratic Center",,"FRA",6007
-6,"France",8,"UDFRAD","UDF Radicaux","Radicals",,"FRA",6008
-6,"France",9,"RPR","Rassemblement pour la Republique","Rally for the Republic",31621,"FRA",6009
-6,"France",10,"FN","Front National","National Front",,"FRA",6010
-6,"France",11,"GECOLO","Generation Ecologie","Ecology Generation",,"FRA",6011
-6,"France",12,"MPF","Movement pour la France","Movement for France",,"FRA",6012
-3,"Germany",1,"CDU","Christlich  Demokratische Union","Christian Democratic Union",41521,"DEU",3001
-3,"Germany",2,"SPD","Sozialdemokratische Partei Deutschlands","Social Democratic Party",41320,"DEU",3002
-3,"Germany",3,"FDP","Freie Demokratische Partei","Free Democratic Party",41420,"DEU",3003
-3,"Germany",5,"GRUN","Die Grunen","The Greens",41111,"DEU",3005
-3,"Germany",6,"REP","Republikaaner","Republican Party",,"DEU",3006
-3,"Germany",7,"PDS","Partei der Demokratischen Sozialismus","Party of Democratic Socialism",41221,"DEU",3007
-3,"Germany",8,"KPD","Deutsche Kommunistische Partei","German Communist Party",,"DEU",3008
-3,"Germany",9,"CSU","Christlich  Soziale Union","Christian Social Union",41521,"DEU",3009
-4,"Greece",1,"PASOK","Panellenio Sosialistiko Kinema","Pan Hellenic Socialist Movement",34313,"GRC",4001
-4,"Greece",2,"ND","Nea Dimokratia","New Democracy",34511,"GRC",4002
-4,"Greece",3,"SAP","Synapismos Aristeras kai tis Proodou/(KKI)","Left Progressive Alliance/(KKI)",34211,"GRC",4003
-4,"Greece",4,"KKE","Kommounistiko Komma Elladas/(KKE)","Communist Party of Greece (exterior)",34210,"GRC",4004
-4,"Greece",5,"DIANA","Demokratike Ananeose","DIANA Democratic Renewal",,"GRC",4005
-4,"Greece",6,"IE","Ecologi Enallaktiki","Ecologists Alternatives",,"GRC",4006
-4,"Greece",7,"NAP","Neo Aristero Revma","New Left Current",,"GRC",4007
-4,"Greece",8,"POLAN","Politiki Anixi","Political Spring",,"GRC",4008
-4,"Greece",9,"DKK","Dimokratico Kinonico Kinime","Democratic Social Movement",,"GRC",4009
-7,"Ireland",1,"FF","Fianna Fail","Warriors of Destiny",53620,"IRL",7001
-7,"Ireland",2,"FG","Fine Gael","Tribe of Gaels",53520,"IRL",7002
-7,"Ireland",3,"LAB","Labour","Labour",53320,"IRL",7003
-7,"Ireland",4,"WP","Workers Party","Workers Party",53220,"IRL",7004
-7,"Ireland",5,"GREEN","Greens","Greens",,"IRL",7005
-7,"Ireland",6,"PDP","Progressive Democratic Party","Progressive Democratic Party",53420,"IRL",7006
-7,"Ireland",7,"SF","Sinn Fein","Ourselves",,"IRL",7007
-7,"Ireland",8,"DS","Democratic Socialist Party","Democratic Socialist Party",,"IRL",7008
-7,"Ireland",9,"DL","Democratic Left Party","Democratic Left Party",,"IRL",7009
-8,"Italy",1,"DC/PP","Partito Popolare","Christian Democrats/Popular Party",32520,"ITA",8001
-8,"Italy",2,"PDS","Partito Democratico della Sinistra","Democratic Party of the Left",32220,"ITA",8002
-8,"Italy",3,"RC","Partito Rifondazione Communista","Refounded Communists",,"ITA",8003
-8,"Italy",4,"PSI","Socialisi Italiani","Italian Socialists",32320,"ITA",8004
-8,"Italy",5,"MSI/AN","Allainza Nationale","National Alliance",32710,"ITA",8005
-8,"Italy",6,"PRI","Partito Repubblicano Italiano","Republican Party",32410,"ITA",8006
-8,"Italy",7,"PSDI","Partito Socialista Democratica Italiano","Italian Social Democratic Party",32330,"ITA",8007
-8,"Italy",8,"VERDI","Le Liste Verdi","The Green List",32110,"ITA",8008
-8,"Italy",9,"PAN","Panella Lista","Pannella List",,"ITA",8009
-8,"Italy",10,"PLI","Partito Liberale Italiano","Liberal Party",32420,"ITA",8010
-8,"Italy",12,"LEGA","Lega Nord","Northern League",,"ITA",8012
-8,"Italy",13,"RETE","La Rete","The Network",,"ITA",8013
-8,"Italy",14,"PR","Partito Radicale","Radical Party",32310,"ITA",8014
-8,"Italy",15,"CCD","Centro Cristiana Democratico","Christian Democratic Center",,"ITA",8015
-8,"Italy",16,"FORZA","Forza Italia","Go Italy",,"ITA",8016
-8,"Italy",17,"DP","Democrazia Proletaria","Proletarian Democracy",32211,"ITA",8017
-8,"Italy",18,"CU","Union della Centro Democratico","Union of the Democratic Center",,"ITA",8018
-9,"Luxembou",1,"CSVP","Creschtlech sozial vollekspartei","Christian Social Peoples Party",23520,"LUX",9001
-9,"Luxembou",2,"LSAP","Letzbuerger Sozialistesch Arbechterpartei","Socialist Labor Party",23320,"LUX",9002
-9,"Luxembou",3,"DP","Democratesch Partei","Liberal Party",23420,"LUX",9003
-9,"Luxembou",4,"KPL","Kommunistesch Partei vu Letzbuerg","Communist Party of Luxembourg",23220,"LUX",9004
-9,"Luxembou",5,"DGA","Di Greng Alternativ","Green Alternative",23112,"LUX",9005
-9,"Luxembou",6,"GLEI","Greng Lescht Ekologesch Initiativ","Green Left Ecological Initiattive",23111,"LUX",9006
-9,"Luxembou",7,"ADR","Aktiounskomitee fir Democratie","Action Committee for Democracy and Pensions",,"LUX",9007
-9,"Luxembou",8,"NBEW","National Bewegong","National Movement",,"LUX",9008
-10,"Netherla",1,"CDA","Christen Democratish Appel","Christian Democratic Appeal",22521,"NLD",10001
-10,"Netherla",2,"PVDA","Partij van der Arbeid","Labour Party",22320,"NLD",10002
-10,"Netherla",3,"VVD","Volkspartij voor Vrijheid en Democratie","Liberal Party",22420,"NLD",10003
-10,"Netherla",4,"D66","Democraten 66","Democrats 66",22330,"NLD",10004
-10,"Netherla",5,"LINKS","Groen Links","Green Left",22110,"NLD",10005
-10,"Netherla",6,"SGP","Staatkundig Gereformeerde Partij","Political Reformed Party",,"NLD",10006
-10,"Netherla",7,"GPV","Gereformed Politiek Verbond","Reformed Political Union",,"NLD",10007
-10,"Netherla",8,"RPF","Reformed Political Federation","Reformed Political Federation",,"NLD",10008
-10,"Netherla",9,"CD","Centrumdemokraten","Center Democrats",,"NLD",10009
-10,"Netherla",10,"PPR","Politieke Partij Radikalen","Radical Political Party",22310,"NLD",10010
-10,"Netherla",11,"PSP","Pacifistische Socialistische Partij","Pacifistic Socialist Party",,"NLD",10011
-10,"Netherla",12,"CPN","Communistische Partij van Nederland","Communist Party",,"NLD",10012
-10,"Netherla",13,"EVP","Evangelische Volkspartij","Evangelical Peoples Party",,"NLD",10013
-15,"Norway",1,"AKP","Kommunistiske Parti","Communist Party",12220,"NOR",15001
-15,"Norway",2,"SV","Sosialistisk Venstreparti","Socialist Left",12221,"NOR",15002
-15,"Norway",3,"NAP","Norsk Arbeiderparti","Norwegian Labour party",12320,"NOR",15003
-15,"Norway",4,"SP","Senter Parti","Center (Agrarian) Party",12810,"NOR",15004
-15,"Norway",5,"KFP","Kristelig Folkeparti","Christian Peoples Party",12520,"NOR",15005
-15,"Norway",6,"H_YRE","Hoyre","Right (Conservatives)",12620,"NOR",15006
-15,"Norway",7,"FP","Fremskrittspartiet","Progress Party",12951,"NOR",15007
-15,"Norway",8,"V","Venstre","Liberals",12420,"NOR",15008
-12,"Portugal",1,"CDU","Coligaco Democratica Unitaria","Unified Democratic Coalition",35992,"PRT",12001
-12,"Portugal",2,"CDS","Centre Social Democrats","Social Democratic Center",35314,"PRT",12002
-12,"Portugal",3,"PPM","Partido Popular Monarquico","Popular Monarchist Party",35710,"PRT",12003
-12,"Portugal",4,"PRD","Partido Renovador Democratico","Democratic Renewal Party",35312,"PRT",12004
-12,"Portugal",5,"PS","Partido Socialista Portugesa","Socialist Party",35311,"PRT",12005
-12,"Portugal",6,"PSD","Partido Social Democrata","Social Democratic Party",35313,"PRT",12006
-12,"Portugal",7,"PSN","Partido Solidariedade Nacional","National Solidarity Party",,"PRT",12007
-12,"Portugal",8,"PSR","Partido Socialista Revolucionario","Revolutionary Socialist Party",,"PRT",12008
-12,"Portugal",9,"PCTP","Partido Comunista","Communist Party",35220,"PRT",12009
-12,"Portugal",10,"PDC","Partido Democracia Cristao","Christian Democratic Party",,"PRT",12010
-12,"Portugal",11,"UDP","Uniao Democratico Popolar","Popular Democratic Union",35210,"PRT",12011
-12,"Portugal",12,"MDP","Moviements Democratico Portuges","Democratic Movement",35310,"PRT",12012
-12,"Portugal",13,"VERDES","Os Verdes","The Greens",35110,"PRT",12013
-5,"Spain",1,"PSOE","Partido Socialista Obrero Espanol","Spanish Socialist Workers Party",33320,"ESP",5001
-5,"Spain",2,"PP","Partido Popular","Popular Party",33610,"ESP",5002
-5,"Spain",3,"CDS","Centro Democratico Social","Democratic and Social Center",33512,"ESP",5003
-5,"Spain",4,"IU","Izqueirda Unida","United Left",33220,"ESP",5004
-5,"Spain",5,"CIU","Convergencia I Unio","Convergence and Union",33611,"ESP",5005
-5,"Spain",6,"PNV","Partido Nacionalista Vasco","Basque Nationalist Party",,"ESP",5006
-5,"Spain",7,"EA","Euzko Alkastasuna","Basque Unity",33991,"ESP",5007
-5,"Spain",8,"HB","Herri Batasuna","United People",,"ESP",5008
-5,"Spain",9,"EE","Eukadiko Eskerra","Basque Left",33951,"ESP",5009
-5,"Spain",10,"PAR","Partido Aragones Regionalista","Aragonese Regionalist Party",33954,"ESP",5010
-5,"Spain",11,"ERC","Esquerra Republicana de Catalunya","Catalan Republican Left",33955,"ESP",5011
-5,"Spain",12,"UV","Union Valencia","Valencian Union",,"ESP",5012
-5,"Spain",14,"BNPG","Bloque Nacionalista Popolar Galego","Galician Nationalist Block",,"ESP",5014
-5,"Spain",15,"VERDE","Partido Verde","Green Party",,"ESP",5015
-5,"Spain",16,"VE","Verdes Ecologistas","Ecologist Greens",,"ESP",5016
-5,"Spain",17,"PA","Partido Andalucista","Andalusian Party",,"ESP",5017
-16,"Sweden",1,"V","Vanstrepartiet","Left Party",11220,"SWE",16001
-16,"Sweden",2,"SD","Socialdemocratistiska","Social Democrats",11320,"SWE",16002
-16,"Sweden",3,"CP","Centerpartiet","Center Party",11810,"SWE",16003
-16,"Sweden",4,"FPL","Folkpartiet Liberalerna","Liberal Peoples Party",11420,"SWE",16004
-16,"Sweden",5,"MOD","Moderate Coalition Party","Moderata Samlingspartiet",11620,"SWE",16005
-16,"Sweden",6,"KDS","Kristen Demokratisk Samling","Christian Democratic Community Party",11520,"SWE",16006
-16,"Sweden",7,"GRONA","Miljopartiet Grona","Green Ecology Party",11110,"SWE",16007
-16,"Sweden",8,"NYDEM","Ny Democratia","New Democrcy",11951,"SWE",16008
-17,"Switzerl",1,"CDPP","Christlich Demokratische Volkspartei","Christian Democratic Peoples Party",43520,"CHE",17001
-17,"Switzerl",2,"LIB","Liberale Partei","Liberal Party",,"CHE",17002
-17,"Switzerl",3,"RADDEM","Parti Radical-democratique","Radical Democrats",43420,"CHE",17003
-17,"Switzerl",4,"SDEM","Sozialdemokratische Partei","Social Democrats",43320,"CHE",17004
-17,"Switzerl",5,"SPP","Schweizerische Volkspartei","Swiss Peoples Party",43810,"CHE",17005
-17,"Switzerl",6,"PPP","Evangelische Volkspartei","Protestant Peoples Party",,"CHE",17006
-17,"Switzerl",7,"LAB","Partei der Arbeit der Schweiz","Labour Party (communist)",,"CHE",17007
-17,"Switzerl",8,"INDEP","Alliance des Independents","Independents Party",,"CHE",17008
-17,"Switzerl",9,"NAPF","Schweizer Demokraten","Swiss Democrats",,"CHE",17009
-17,"Switzerl",10,"ASP","Partito Socialista Autonomo","Autonomous Socialist Party",,"CHE",17010
-17,"Switzerl",11,"GREEN","Grune Partei der Schweiz","Green Party",,"CHE",17011
-17,"Switzerl",12,"ALTGR","Grune Alternative Schwiez","Alternative Greens",,"CHE",17012
-17,"Switzerl",13,"FREE","Freiheits Partei","Freedom Party",,"CHE",17013
-17,"Switzerl",14,"TICI","Lega dei Ticinesi","Ticino League",,"CHE",17014
-11,"UnitedKd",1,"TORY","Conservative Party","Conservative Party",51620,"GBR",11001
-11,"UnitedKd",2,"LAB","Labour","Labour",51320,"GBR",11002
-11,"UnitedKd",3,"SDLP","Social Democratic Labour Party","Social Democratic Labour Party",,"GBR",11003
-11,"UnitedKd",4,"SLD","Social and Liberal Democrats","Social and Liberal Democrats",51991,"GBR",11004
-11,"UnitedKd",5,"SNP","Scottish National Party","Scottish National Party",,"GBR",11005
-11,"UnitedKd",6,"CYMRU","Plaid Cymru","Welsh Nationalist Party",,"GBR",11006
-11,"UnitedKd",7,"GREEN","Green Party","Green Party",,"GBR",11007
-11,"UnitedKd",8,"UNION","Unionist","Unionist",52620,"GBR",11008
+"NATID","PARTYID","PARTY","ENAME","NAME","CMPCODE","id","natid_name","iso3"
+13,3,"FPO","Die Freiheitlichen","Freedom Party",42420,13003,"Austria","AUT"
+13,4,"GREEN","Die Grune Alternative","Green Alternative",42110,13004,"Austria","AUT"
+13,5,"KPO","Kommunistische Partei","Communist Party",,13005,"Austria","AUT"
+13,6,"LIB","Liberales Forum","Liberal Party",,13006,"Austria","AUT"
+13,2,"OVP","Osterreichische Volkspartei","Austrian Peoples Party",42520,13002,"Austria","AUT"
+13,1,"SPO","Sozialistische Partei","Socialist Party",42320,13001,"Austria","AUT"
+1,5,"AGALV","Agalev","Ecologists (Flemish)",,1005,"Belgium","BEL"
+1,9,"CVP","Christelijke Volkspartij","Christian Peoples Party",21521,1009,"Belgium","BEL"
+1,4,"ECOLO","Ecolo","Ecologists (Wallon)",,1004,"Belgium","BEL"
+1,11,"FDFRW","Front Democratique Francophone","Francophone Democratic Front",21912,1011,"Belgium","BEL"
+1,1,"PCB","Parti Communiste Belge","Belgian Communist Party",,1001,"Belgium","BEL"
+1,7,"PRL","Parti Reformateur Liberal","Liberal Party (Wallon)",21422,1007,"Belgium","BEL"
+1,2,"PS","Parti Socialiste","Socialist Party (Wallon)",21322,1002,"Belgium","BEL"
+1,8,"PSC","Parti Social Chretien","Christian Social Party",21522,1008,"Belgium","BEL"
+1,6,"PVV","Vlaamse Liberalen en Demokraten","Liberal Party (Flemish)",21421,1006,"Belgium","BEL"
+1,13,"ROSS","Rossem","Rossem",,1013,"Belgium","BEL"
+1,15,"RVAD","Respect Voor Arbeid en Demokratie","Democratic Union for the Respect of Labour (Fle",,1015,"Belgium","BEL"
+1,3,"SP","Socialistiche Partij","Socialist Party (Flemish)",21321,1003,"Belgium","BEL"
+1,14,"UDRT","Union Democratique pour le Respect pour du Trav","Democratic Union for the Respect of Labour (Wal",,1014,"Belgium","BEL"
+1,12,"VB","Vlaams Bloc","Flemish Bloc",,1012,"Belgium","BEL"
+1,10,"VU","Volksunie","Peoples Union",21913,1010,"Belgium","BEL"
+17,12,"ALTGR","Grune Alternative Schwiez","Alternative Greens",,17012,"Switzerland","CHE"
+17,10,"ASP","Partito Socialista Autonomo","Autonomous Socialist Party",,17010,"Switzerland","CHE"
+17,1,"CDPP","Christlich Demokratische Volkspartei","Christian Democratic Peoples Party",43520,17001,"Switzerland","CHE"
+17,13,"FREE","Freiheits Partei","Freedom Party",,17013,"Switzerland","CHE"
+17,11,"GREEN","Grune Partei der Schweiz","Green Party",,17011,"Switzerland","CHE"
+17,8,"INDEP","Alliance des Independents","Independents Party",,17008,"Switzerland","CHE"
+17,7,"LAB","Partei der Arbeit der Schweiz","Labour Party (communist)",,17007,"Switzerland","CHE"
+17,2,"LIB","Liberale Partei","Liberal Party",,17002,"Switzerland","CHE"
+17,9,"NAPF","Schweizer Demokraten","Swiss Democrats",,17009,"Switzerland","CHE"
+17,6,"PPP","Evangelische Volkspartei","Protestant Peoples Party",,17006,"Switzerland","CHE"
+17,3,"RADDEM","Parti Radical-democratique","Radical Democrats",43420,17003,"Switzerland","CHE"
+17,4,"SDEM","Sozialdemokratische Partei","Social Democrats",43320,17004,"Switzerland","CHE"
+17,5,"SPP","Schweizerische Volkspartei","Swiss Peoples Party",43810,17005,"Switzerland","CHE"
+17,14,"TICI","Lega dei Ticinesi","Ticino League",,17014,"Switzerland","CHE"
+3,1,"CDU","Christlich  Demokratische Union","Christian Democratic Union",41521,3001,"Germany","DEU"
+3,9,"CSU","Christlich  Soziale Union","Christian Social Union",41521,3009,"Germany","DEU"
+3,3,"FDP","Freie Demokratische Partei","Free Democratic Party",41420,3003,"Germany","DEU"
+3,5,"GRUN","Die Grunen","The Greens",41111,3005,"Germany","DEU"
+3,8,"KPD","Deutsche Kommunistische Partei","German Communist Party",,3008,"Germany","DEU"
+3,7,"PDS","Partei der Demokratischen Sozialismus","Party of Democratic Socialism",41221,3007,"Germany","DEU"
+3,6,"REP","Republikaaner","Republican Party",,3006,"Germany","DEU"
+3,2,"SPD","Sozialdemokratische Partei Deutschlands","Social Democratic Party",41320,3002,"Germany","DEU"
+2,4,"CD","Centrum Demokraterne","Centre Democrats",13330,2004,"Denmark","DNK"
+2,9,"DKP","Danmarks Kommunistiske Parti","Danish Communist Party",13220,2009,"Denmark","DNK"
+2,10,"FK","Faelles Kurs","Common Course",13221,2010,"Denmark","DNK"
+2,13,"FP","Fremskridtsparteiet","Progress Party",13951,2013,"Denmark","DNK"
+2,7,"GRONN","De Gronne","The Greens",,2007,"Denmark","DNK"
+2,3,"KF","Konservative Folkparti","Conservatives",13620,2003,"Denmark","DNK"
+2,11,"KRF","Kristeligt Folkparti","Christian Peoples Party",13520,2011,"Denmark","DNK"
+2,5,"RETS","Retsforbundet","Justice Party",13952,2005,"Denmark","DNK"
+2,14,"RODGRN","Rod Gronne Enhedslisten","Red/Green Unity List",,2014,"Denmark","DNK"
+2,2,"RV","Radikale Venstre","Radical Party",13410,2002,"Denmark","DNK"
+2,1,"S","Socialdemokratiet","Social Democrats",13320,2001,"Denmark","DNK"
+2,6,"SF","Socialistisk Folkparti","Socialist Peoples Party",13230,2006,"Denmark","DNK"
+2,12,"V","Venstre","Liberals",13420,2012,"Denmark","DNK"
+2,15,"VS","Venstre Socialisterne","Left Socialist Party",13210,2015,"Denmark","DNK"
+5,14,"BNPG","Bloque Nacionalista Popolar Galego","Galician Nationalist Block",,5014,"Spain","ESP"
+5,3,"CDS","Centro Democratico Social","Democratic and Social Center",33512,5003,"Spain","ESP"
+5,5,"CIU","Convergencia I Unio","Convergence and Union",33611,5005,"Spain","ESP"
+5,7,"EA","Euzko Alkastasuna","Basque Unity",33991,5007,"Spain","ESP"
+5,9,"EE","Eukadiko Eskerra","Basque Left",33951,5009,"Spain","ESP"
+5,11,"ERC","Esquerra Republicana de Catalunya","Catalan Republican Left",33955,5011,"Spain","ESP"
+5,8,"HB","Herri Batasuna","United People",,5008,"Spain","ESP"
+5,4,"IU","Izqueirda Unida","United Left",33220,5004,"Spain","ESP"
+5,17,"PA","Partido Andalucista","Andalusian Party",,5017,"Spain","ESP"
+5,10,"PAR","Partido Aragones Regionalista","Aragonese Regionalist Party",33954,5010,"Spain","ESP"
+5,6,"PNV","Partido Nacionalista Vasco","Basque Nationalist Party",,5006,"Spain","ESP"
+5,2,"PP","Partido Popular","Popular Party",33610,5002,"Spain","ESP"
+5,1,"PSOE","Partido Socialista Obrero Espanol","Spanish Socialist Workers Party",33320,5001,"Spain","ESP"
+5,12,"UV","Union Valencia","Valencian Union",,5012,"Spain","ESP"
+5,16,"VE","Verdes Ecologistas","Ecologist Greens",,5016,"Spain","ESP"
+5,15,"VERDE","Partido Verde","Green Party",,5015,"Spain","ESP"
+14,9,"CL","Suomen Kristillinen Liitto","Christian League",14520,14009,"Finland","FIN"
+14,3,"CP","Finlands Centern","Center Party",14810,14003,"Finland","FIN"
+14,7,"DA","Demokraattinen Vaihtoehto","Democratic Alternative",,14007,"Finland","FIN"
+14,4,"FPDU","Suomen Kansan Demokraattinen Liitto","Finnish Peoples Democratic Union",14221,14004,"Finland","FIN"
+14,8,"GREEN","Vihrea Liitto","Green Party",14110,14008,"Finland","FIN"
+14,10,"LPP","Liberaalinen Kansanpuolue","Liberal Peoples Party",,14010,"Finland","FIN"
+14,2,"NC","Kansallinen Kokoomus","National Coalition",14620,14002,"Finland","FIN"
+14,11,"PP","Elakelaisten Puolue","Pensioners Party",,14011,"Finland","FIN"
+14,5,"RURAL","Maaseudun Puolue","Rural Party",,14005,"Finland","FIN"
+14,1,"SDEM","Sosiaalidemokraattinen Puolue","Social Democrats",14320,14001,"Finland","FIN"
+14,6,"SPP","Svenska Folkpartiet","Swedish Peoples Party",14951,14006,"Finland","FIN"
+14,13,"WOMEN","Naisten Puolue","Womens Party",,14013,"Finland","FIN"
+14,12,"YOUNG","Nuorsuomalainen Puolue","Young Peoples Party",,14012,"Finland","FIN"
+6,10,"FN","Front National","National Front",,6010,"France","FRA"
+6,11,"GECOLO","Generation Ecologie","Ecology Generation",,6011,"France","FRA"
+6,12,"MPF","Movement pour la France","Movement for France",,6012,"France","FRA"
+6,3,"MRG","Movement des Radicaux de Gauche","Radical Left Movement",,6003,"France","FRA"
+6,1,"PCF","Parti Communiste Francais","French Communist Party",31220,6001,"France","FRA"
+6,2,"PS","Parti Socialiste","Socialist Party",31320,6002,"France","FRA"
+6,4,"PSU","Parti Socialiste Unifiee","Unified Socialist Party",,6004,"France","FRA"
+6,9,"RPR","Rassemblement pour la Republique","Rally for the Republic",31621,6009,"France","FRA"
+6,7,"UDFCDS","UDF Centre Democrat et Social","Social and Democratic Center",,6007,"France","FRA"
+6,6,"UDFPR","UDF Parti Republican","Republican Party",,6006,"France","FRA"
+6,8,"UDFRAD","UDF Radicaux","Radicals",,6008,"France","FRA"
+6,5,"VERTS","Les Verts","The Greens",,6005,"France","FRA"
+11,6,"CYMRU","Plaid Cymru","Welsh Nationalist Party",,11006,"United Kingdom","GBR"
+11,7,"GREEN","Green Party","Green Party",,11007,"United Kingdom","GBR"
+11,2,"LAB","Labour","Labour",51320,11002,"United Kingdom","GBR"
+11,3,"SDLP","Social Democratic Labour Party","Social Democratic Labour Party",,11003,"United Kingdom","GBR"
+11,4,"SLD","Social and Liberal Democrats","Social and Liberal Democrats",51991,11004,"United Kingdom","GBR"
+11,5,"SNP","Scottish National Party","Scottish National Party",,11005,"United Kingdom","GBR"
+11,1,"TORY","Conservative Party","Conservative Party",51620,11001,"United Kingdom","GBR"
+11,8,"UNION","Unionist","Unionist",52620,11008,"United Kingdom","GBR"
+4,5,"DIANA","Demokratike Ananeose","DIANA Democratic Renewal",,4005,"Greece","GRC"
+4,9,"DKK","Dimokratico Kinonico Kinime","Democratic Social Movement",,4009,"Greece","GRC"
+4,6,"IE","Ecologi Enallaktiki","Ecologists Alternatives",,4006,"Greece","GRC"
+4,4,"KKE","Kommounistiko Komma Elladas/(KKE)","Communist Party of Greece (exterior)",34210,4004,"Greece","GRC"
+4,7,"NAP","Neo Aristero Revma","New Left Current",,4007,"Greece","GRC"
+4,2,"ND","Nea Dimokratia","New Democracy",34511,4002,"Greece","GRC"
+4,1,"PASOK","Panellenio Sosialistiko Kinema","Pan Hellenic Socialist Movement",34313,4001,"Greece","GRC"
+4,8,"POLAN","Politiki Anixi","Political Spring",,4008,"Greece","GRC"
+4,3,"SAP","Synapismos Aristeras kai tis Proodou/(KKI)","Left Progressive Alliance/(KKI)",34211,4003,"Greece","GRC"
+7,9,"DL","Democratic Left Party","Democratic Left Party",,7009,"Ireland","IRL"
+7,8,"DS","Democratic Socialist Party","Democratic Socialist Party",,7008,"Ireland","IRL"
+7,1,"FF","Fianna Fail","Warriors of Destiny",53620,7001,"Ireland","IRL"
+7,2,"FG","Fine Gael","Tribe of Gaels",53520,7002,"Ireland","IRL"
+7,5,"GREEN","Greens","Greens",,7005,"Ireland","IRL"
+7,3,"LAB","Labour","Labour",53320,7003,"Ireland","IRL"
+7,6,"PDP","Progressive Democratic Party","Progressive Democratic Party",53420,7006,"Ireland","IRL"
+7,7,"SF","Sinn Fein","Ourselves",,7007,"Ireland","IRL"
+7,4,"WP","Workers Party","Workers Party",53220,7004,"Ireland","IRL"
+8,15,"CCD","Centro Cristiana Democratico","Christian Democratic Center",,8015,"Italy","ITA"
+8,18,"CU","Union della Centro Democratico","Union of the Democratic Center",,8018,"Italy","ITA"
+8,1,"DC/PP","Partito Popolare","Christian Democrats/Popular Party",32520,8001,"Italy","ITA"
+8,17,"DP","Democrazia Proletaria","Proletarian Democracy",32211,8017,"Italy","ITA"
+8,16,"FORZA","Forza Italia","Go Italy",,8016,"Italy","ITA"
+8,12,"LEGA","Lega Nord","Northern League",,8012,"Italy","ITA"
+8,5,"MSI/AN","Allainza Nationale","National Alliance",32710,8005,"Italy","ITA"
+8,9,"PAN","Panella Lista","Pannella List",,8009,"Italy","ITA"
+8,2,"PDS","Partito Democratico della Sinistra","Democratic Party of the Left",32220,8002,"Italy","ITA"
+8,10,"PLI","Partito Liberale Italiano","Liberal Party",32420,8010,"Italy","ITA"
+8,14,"PR","Partito Radicale","Radical Party",32310,8014,"Italy","ITA"
+8,6,"PRI","Partito Repubblicano Italiano","Republican Party",32410,8006,"Italy","ITA"
+8,7,"PSDI","Partito Socialista Democratica Italiano","Italian Social Democratic Party",32330,8007,"Italy","ITA"
+8,4,"PSI","Socialisi Italiani","Italian Socialists",32320,8004,"Italy","ITA"
+8,3,"RC","Partito Rifondazione Communista","Refounded Communists",,8003,"Italy","ITA"
+8,13,"RETE","La Rete","The Network",,8013,"Italy","ITA"
+8,8,"VERDI","Le Liste Verdi","The Green List",32110,8008,"Italy","ITA"
+9,7,"ADR","Aktiounskomitee fir Democratie","Action Committee for Democracy and Pensions",,9007,"Luxembourg","LUX"
+9,1,"CSVP","Creschtlech sozial vollekspartei","Christian Social Peoples Party",23520,9001,"Luxembourg","LUX"
+9,5,"DGA","Di Greng Alternativ","Green Alternative",23112,9005,"Luxembourg","LUX"
+9,3,"DP","Democratesch Partei","Liberal Party",23420,9003,"Luxembourg","LUX"
+9,6,"GLEI","Greng Lescht Ekologesch Initiativ","Green Left Ecological Initiattive",23111,9006,"Luxembourg","LUX"
+9,4,"KPL","Kommunistesch Partei vu Letzbuerg","Communist Party of Luxembourg",23220,9004,"Luxembourg","LUX"
+9,2,"LSAP","Letzbuerger Sozialistesch Arbechterpartei","Socialist Labor Party",23320,9002,"Luxembourg","LUX"
+9,8,"NBEW","National Bewegong","National Movement",,9008,"Luxembourg","LUX"
+10,9,"CD","Centrumdemokraten","Center Democrats",,10009,"Netherlands","NLD"
+10,1,"CDA","Christen Democratish Appel","Christian Democratic Appeal",22521,10001,"Netherlands","NLD"
+10,12,"CPN","Communistische Partij van Nederland","Communist Party",,10012,"Netherlands","NLD"
+10,4,"D66","Democraten 66","Democrats 66",22330,10004,"Netherlands","NLD"
+10,13,"EVP","Evangelische Volkspartij","Evangelical Peoples Party",,10013,"Netherlands","NLD"
+10,7,"GPV","Gereformed Politiek Verbond","Reformed Political Union",,10007,"Netherlands","NLD"
+10,5,"LINKS","Groen Links","Green Left",22110,10005,"Netherlands","NLD"
+10,10,"PPR","Politieke Partij Radikalen","Radical Political Party",22310,10010,"Netherlands","NLD"
+10,11,"PSP","Pacifistische Socialistische Partij","Pacifistic Socialist Party",,10011,"Netherlands","NLD"
+10,2,"PVDA","Partij van der Arbeid","Labour Party",22320,10002,"Netherlands","NLD"
+10,8,"RPF","Reformed Political Federation","Reformed Political Federation",,10008,"Netherlands","NLD"
+10,6,"SGP","Staatkundig Gereformeerde Partij","Political Reformed Party",,10006,"Netherlands","NLD"
+10,3,"VVD","Volkspartij voor Vrijheid en Democratie","Liberal Party",22420,10003,"Netherlands","NLD"
+15,1,"AKP","Kommunistiske Parti","Communist Party",12220,15001,"Norway","NOR"
+15,7,"FP","Fremskrittspartiet","Progress Party",12951,15007,"Norway","NOR"
+15,6,"H_YRE","Hoyre","Right (Conservatives)",12620,15006,"Norway","NOR"
+15,5,"KFP","Kristelig Folkeparti","Christian Peoples Party",12520,15005,"Norway","NOR"
+15,3,"NAP","Norsk Arbeiderparti","Norwegian Labour party",12320,15003,"Norway","NOR"
+15,4,"SP","Senter Parti","Center (Agrarian) Party",12810,15004,"Norway","NOR"
+15,2,"SV","Sosialistisk Venstreparti","Socialist Left",12221,15002,"Norway","NOR"
+15,8,"V","Venstre","Liberals",12420,15008,"Norway","NOR"
+12,2,"CDS","Centre Social Democrats","Social Democratic Center",35314,12002,"Portugal","PRT"
+12,1,"CDU","Coligaco Democratica Unitaria","Unified Democratic Coalition",35992,12001,"Portugal","PRT"
+12,12,"MDP","Moviements Democratico Portuges","Democratic Movement",35310,12012,"Portugal","PRT"
+12,9,"PCTP","Partido Comunista","Communist Party",35220,12009,"Portugal","PRT"
+12,10,"PDC","Partido Democracia Cristao","Christian Democratic Party",,12010,"Portugal","PRT"
+12,3,"PPM","Partido Popular Monarquico","Popular Monarchist Party",35710,12003,"Portugal","PRT"
+12,4,"PRD","Partido Renovador Democratico","Democratic Renewal Party",35312,12004,"Portugal","PRT"
+12,5,"PS","Partido Socialista Portugesa","Socialist Party",35311,12005,"Portugal","PRT"
+12,6,"PSD","Partido Social Democrata","Social Democratic Party",35313,12006,"Portugal","PRT"
+12,7,"PSN","Partido Solidariedade Nacional","National Solidarity Party",,12007,"Portugal","PRT"
+12,8,"PSR","Partido Socialista Revolucionario","Revolutionary Socialist Party",,12008,"Portugal","PRT"
+12,11,"UDP","Uniao Democratico Popolar","Popular Democratic Union",35210,12011,"Portugal","PRT"
+12,13,"VERDES","Os Verdes","The Greens",35110,12013,"Portugal","PRT"
+16,3,"CP","Centerpartiet","Center Party",11810,16003,"Sweden","SWE"
+16,4,"FPL","Folkpartiet Liberalerna","Liberal Peoples Party",11420,16004,"Sweden","SWE"
+16,7,"GRONA","Miljopartiet Grona","Green Ecology Party",11110,16007,"Sweden","SWE"
+16,6,"KDS","Kristen Demokratisk Samling","Christian Democratic Community Party",11520,16006,"Sweden","SWE"
+16,5,"MOD","Moderate Coalition Party","Moderata Samlingspartiet",11620,16005,"Sweden","SWE"
+16,8,"NYDEM","Ny Democratia","New Democrcy",11951,16008,"Sweden","SWE"
+16,2,"SD","Socialdemocratistiska","Social Democrats",11320,16002,"Sweden","SWE"
+16,1,"V","Vanstrepartiet","Left Party",11220,16001,"Sweden","SWE"
