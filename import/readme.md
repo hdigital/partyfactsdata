@@ -32,6 +32,8 @@ recode <- c(a = "aa", z = "zz", "a 1" = NA)
 sapply(letters, function(.) ifelse(. %in% names(recode), recode[[.]], .))
 ```
 
+Please make usage of [Hadley Wickhams R Style Guide](http://adv-r.had.co.nz/Style.html) when writing code in R.  
+This will lead to more continuity across the import scripts.
 
 # Template
 
