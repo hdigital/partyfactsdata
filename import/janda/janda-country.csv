@@ -1,0 +1,54 @@
+id,country,short
+0,United States,USA
+1,United Kingdom,GBR
+2,Australia,AUS
+3,New Zealand,NZL
+4,Canada,CAN
+5,Ireland,IRL
+7,Rhodesia and Nyasaland,
+8,India,IND
+10,Austria,AUT
+11,France,FRA
+12,West Germany,DEU
+14,Greece,GRC
+17,Portugal,PRT
+20,Denmark,DNK
+22,Iceland,ISL
+24,Sweden,SWE
+26,Netherlands,NLD
+27,Luxembourg,LUX
+35,Ecuador,ECU
+36,Paraguay,PRY
+37,Peru,PER
+38,Uruguay,URY
+39,Venezuela,VEN
+41,Cuba,CUB
+42,Dominican Republic,DOM
+43,El Salvador,SLV
+44,Guatemala,GTM
+47,Nicaragua,NIC
+50,Burma,MMR
+51,Cambodia (now Kampuchea),KHM
+53,Indonesia,IDN
+56,North Korea,PRK
+58,Malaya (now Malaysia),MYS
+60,Albania,ALB
+61,Bulgaria,BGR
+63,East Germany,GDR
+64,Hungary,HUN
+67,U. S. S. R.,RUS
+74,Sudan,SDN
+75,Tunisia,TUN
+76,Lebanon,LBN
+77,Iran,IRN
+78,Turkey,TUR
+80,Dahomey (now Benin),BEN
+81,Ghana,GHA
+82,Guinea,GIN
+87,Upper Volta,BFA
+89,Togo,TGO
+91,Central African Republic,CAF
+92,Chad,TCD
+93,Congo-Brazzaville (now Congo Republic),COG
+96,Kenya,KEN
+98,Uganda,UGA
