@@ -1,0 +1,39 @@
+id,abbr,country,iso3
+1,BE,Belgium,BEL
+2,DK,Denmark,DNK
+3,GE,Germany,DEU
+4,GR,Greece,GRC
+5,ESP,Spain,ESP
+6,FR,France,FRA
+7,IRL,Ireland,IRL
+8,IT,Italy,ITA
+10,NL,Netherlands,NLD
+11,UK,United  Kingdom,GBR
+12,POR,Portugal,PRT
+13,AUS,Austria,AUT
+14,FIN,Finland,FIN
+16,SV,Sweden,SWE
+20,BUL,Bulgaria,BGR
+21,CZ,Czech Republic,CZE
+22,EST,Estonia,EST
+23,HUN,Hungary,HUN
+24,LAT,Latvia,LVA
+25,LITH,Lithuania,LTU
+26,POL,Poland,POL
+27,ROM,Romania,ROU
+28,SLO,Slovakia,SVK
+29,SLE,Slovenia,SVN
+30,BIH,Bosnia and Herzegovina,BIH
+31,CRO,Croatia,HRV
+32,MKD,Macedonia,MKD
+33,SER,Serbia,SRB
+34,TUR,Turkey,TUR
+35,NOR,Norway,NOR
+36,SWI,Switzerland,CHE
+37,MAL,Malta,MLT
+38,LUX,Luxembourg,LUX
+40,CYP,Cyprus,CYP
+41,ALB,Albania,ALB
+42,KOS,Kosovo,XKX
+43,MNE,Montenegro,MNE
+44,UKR,Ukraine,UKR
