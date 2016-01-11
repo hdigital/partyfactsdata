@@ -1,0 +1,1000 @@
+country,countryname,party,abbrev,orig_name,partyname,min_year,max_year
+sweden,Sweden,11110,MP,Miljöpartiet de Gröna,Green Ecology Party,1988,2010
+sweden,Sweden,11220,SKP,Vänsterpartiet,Left Party,1944,2010
+sweden,Sweden,11320,SAP,Socialdemokratiska Arbetareparti,Social Democratic Labour Party,1944,2010
+sweden,Sweden,11420,FP,Folkpartiet Liberalerna,Liberal People’s Party,1944,2010
+sweden,Sweden,11520,KDS,Kristdemokraterna,Christian Democrats,1985,2010
+sweden,Sweden,11620,,Moderata Samlingspartiet,Moderate Coalition Party,1944,2010
+sweden,Sweden,11710,SD,Sverigedemokraterna,Sweden Democrats,2010,2010
+sweden,Sweden,11810,,Centerpartiet,Centre Party,1944,2010
+sweden,Sweden,11951,NyD,Ny Demokrati,New Democracy,1991,1991
+norway,Norway,12220,NKP,Norges Kommunistiske Parti,Norwegian Communist Party,1945,1957
+norway,Norway,12221,,Sosialistisk Venstreparti,Socialist Left Party,1961,2009
+norway,Norway,12320,DnA,Det norske Arbeiderparti,Norwegian Labour Party,1945,2009
+norway,Norway,12410,,Det Liberale Folkeparti,Liberal People’s Party,1973,1973
+norway,Norway,12420,V,Venstre,Liberal Party,1945,2009
+norway,Norway,12520,KrF,Kristelig Folkeparti,Christian People’s Party,1945,2009
+norway,Norway,12620,H,Høyre,Conservative Party,1945,2009
+norway,Norway,12810,,Senterpartiet,Centre Party,1945,2009
+norway,Norway,12951,ALP,Fremskrittspartiet,Progress Party,1973,2009
+denmark,Denmark,13001,NY,Liberal Alliance,Liberal Alliance,2007,2011
+denmark,Denmark,13210,VS,Venstresocialisterne,Left Socialist Party,1968,1984
+denmark,Denmark,13220,DKP,Danmarks Kommunistiske Parti,Danish Communist Party,1945,1984
+denmark,Denmark,13221,FK,Fælles Kurs,Common Course,1987,1987
+denmark,Denmark,13229,EL,Enhedslisten - De Rød-Grønne,Red-Green Unity List,1994,2011
+denmark,Denmark,13230,SF,Socialistisk Folkeparti,Socialist People’s Party,1960,2011
+denmark,Denmark,13320,SD,Socialdemokratiet,Social Democratic Party,1945,2011
+denmark,Denmark,13330,CD,Centrum-Demokraterne,Centre Democrats,1973,2005
+denmark,Denmark,13410,RV,Det Radikale Venstre,Radical Party,1945,2011
+denmark,Denmark,13420,V,Venstre,Liberals,1945,2011
+denmark,Denmark,13421,DU,De Uafhængige,Independents’ Party,1953,1968
+denmark,Denmark,13422,LC,Liberalt Centrum,Liberal Centre,1966,1968
+denmark,Denmark,13520,KrF,Kristeligt Folkeparti,Christian People’s Party,1971,2005
+denmark,Denmark,13620,KF,Konservative Folkeparti,Conservative People’s Party,1945,2011
+denmark,Denmark,13720,DF,Dansk Folkeparti,Danish People’s Party,1998,2011
+denmark,Denmark,13951,FP,Fremkridtspartiet,Progress Party,1973,1998
+denmark,Denmark,13952,RF,Retsforbund,Justice Party,1945,1984
+denmark,Denmark,13953,DS,Dansk Samling,Danish Union,1945,1945
+finland,Finland,14110,VL,Vihreä Liitto,Green Union,1983,2011
+finland,Finland,14221,SKDL,Suomen Kansan Demokraattinen Liitto,Finnish People’s Democratic Union,1945,1987
+finland,Finland,14222,Deva,Demokraattinen Vaihtoehto,Democratic Alternative,1987,1987
+finland,Finland,14223,VAS,Vasemmistoliitto,Left Wing Alliance,1991,2011
+finland,Finland,14310,TPSL,Tyäväen ja Pienviljelijäin Sosialdemokraattinen Liitto,Social Democratic League of Workers and Smallholders,1958,1966
+finland,Finland,14320,SSDP,Suomen Sosialidemokraattinen Puolue,Finnish Social Democrats,1945,2011
+finland,Finland,14420,KE,Suomen Kansanpuolue,Finnish People’s Party,1945,1991
+finland,Finland,14430,NSP,Nuorsuomalainen Puolue,Young Finnish Party,1995,1995
+finland,Finland,14520,SKL,Suomen Kristillisdemokraatit,Christian Democrats in Finland,1970,2011
+finland,Finland,14620,KK,Kansallinen Kokoomus,National Coalition,1945,2011
+finland,Finland,14810,Maal,Keskustapuolue,Centre Party,1945,2011
+finland,Finland,14820,SPP,Perussuomalaiset,True Finns,1966,2011
+finland,Finland,14901,RKP/SFP,Ruotsalainen Kansanpuolue/Svenska Folkpartiet,Swedish People’s Party,1945,2011
+iceland,Iceland,15111,VGF,Vinstrihreyfing - Grænt Framboð,Left Green Movement,1999,2013
+iceland,Iceland,15220,So,Alþýðubandalagið,People’s Alliance,1946,1995
+iceland,Iceland,15320,A,Alþýðuflokkurinn,Social Democratic Party,1946,1995
+iceland,Iceland,15321,BJ,Bandalag Jafnaðarmanna,Social Democratic Federation,1983,1983
+iceland,Iceland,15322,SFVM,Samtök Frjálslyndra og Vinstri Manna,Union of Liberals and Leftists,1967,1974
+iceland,Iceland,15323,TfFf,Þjóðvaki - Hreyfing Fólksins,Awakening of the Nation,1995,1995
+iceland,Iceland,15328,S,Samfylkingin,The Alliance,1999,2013
+iceland,Iceland,15420,FF,Frjálslyndi Flokkurinn,Liberal Party,1999,2007
+iceland,Iceland,15430,B,Borgarahreyfingin,Citizens' Movement,2009,2009
+iceland,Iceland,15440,Bf,Björt framtið,Bright Future,2013,2013
+iceland,Iceland,15620,Sj,Sjálfstæðisflokkurinn,Independence Party,1946,2013
+iceland,Iceland,15621,Bf,Borgaraflokkurinn,Citizens’ Party,1987,1987
+iceland,Iceland,15710,Tf,þjodvarnarflokkurinn,National Preservation Party,1953,1953
+iceland,Iceland,15810,F,Framsóknarflokkurinn,Progressive Party,1946,2013
+iceland,Iceland,15951,Kv,Samtök um Kvennalista,Women’s Alliance,1983,1995
+iceland,Iceland,15952,Þ,Pírataflokkurinn,Pirate Party,2013,2013
+belgium,Belgium,21111,ECOLO,Écologistes Confédérés pour l’Organisation de Luttes Originales,Ecologists,1981,2010
+belgium,Belgium,21112,AGALEV,Groen!,Green!,1981,2010
+belgium,Belgium,21221,sp.a-SPIRIT,Socialistische Partij Anders - Spirit,Socialist Party Different - Spirit,2003,2007
+belgium,Belgium,21320,BSP/PSB,Belgische Socialistische Partij/Parti Socialiste Belge,Belgian Socialist Party,1946,1977
+belgium,Belgium,21321,SP,Socialistische Partij Anders,Socialist Party Different,1978,2010
+belgium,Belgium,21322,PS,Parti Socialiste,Francophone Socialist Party,1978,2010
+belgium,Belgium,21330,SPIRIT,"Sociaal, Progressief, International, Regionalistisch, Integraal-democratisch en Toekomstgericht","Social, Progressive, International, Regionalist, Integrally Democartic  and Forward-Looking",2007,2007
+belgium,Belgium,21420,LP/PL,Partij voor Vrijheid en Vooruitgang/Parti de la Liberté et du Progrès,Party of Liberty and Progress,1946,1968
+belgium,Belgium,21421,PVV,Vlaamse Liberalen en Demokraten,Flemish Liberals and Democrats,1971,2010
+belgium,Belgium,21422,PLP,Parti Réformateur Libéral,Liberal Reformation Party,1971,1991
+belgium,Belgium,21423,PRL-FDF,Parti Réformateur Libéral - Front Démocratique des Francophones,Liberal Reformation Party - Francophone Democratic Front,1995,1995
+belgium,Belgium,21424,PLP,Parti Libéral Démocratique et Pluraliste,Liberal Democratic and Pluralist Party,1971,1978
+belgium,Belgium,21425,PRL-FDF-MCC,Parti réformateur libéral - Front Démocratique des Francophones - Mouvement des Citoyens pour la Changement,Liberal Reformation Party - Francophone Democratic Front - Citizens’ Movement for Change,1999,1999
+belgium,Belgium,21426,MR,Mouvement Réformateur,Reform Movement,2003,2010
+belgium,Belgium,21430,LDD,Lijst Dedecker,List Dedecker,2007,2010
+belgium,Belgium,21520,PSC/CVP,Parti Social Chrétien/Christelijke Volkspartij,Francophone Christian Social Party and Flemish Christian People’s Party,1946,1965
+belgium,Belgium,21521,CVP,Christen-Democratisch en Vlaams,Christian Democratic and Flemish,1968,2010
+belgium,Belgium,21522,PSC,Parti Social Chrétien,Christian Social Party,1968,2010
+belgium,Belgium,21911,RW,Rassemblement Wallon,Walloon Rally,1968,1981
+belgium,Belgium,21912,FDF,Front Démocratique Francophones,Francophone Democratic Front of Francophones,1965,1991
+belgium,Belgium,21913,CVV,De Volksunie,Peoples’ Union,1954,1995
+belgium,Belgium,21914,VB,Vlaams Blok,Flemish Bloc,1978,2003
+belgium,Belgium,21915,VU-ID21,De Volksunie –Integrale Democratie voor de 21ste Eeuw,People’s Union - Complete Democracy for the 21st century,1999,1999
+belgium,Belgium,21916,N-VA,Nieuw-Vlaamse Alliantie,New Flemish Alliance,2003,2010
+belgium,Belgium,21917,VB,Vlaams Belang,Flemish Interest,2007,2010
+netherlands,Netherlands,22110,GL,GroenLinks,Green Left,1989,2012
+netherlands,Netherlands,22220,SP,Socialistische Partij,Socialist Party,1994,2012
+netherlands,Netherlands,22310,PPR,Politieke Partij Radicalen,Radical Political Party,1971,1986
+netherlands,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1946,2012
+netherlands,Netherlands,22330,D’66,Democraten‘66,Democrats‘66,1967,2012
+netherlands,Netherlands,22420,VVD,Volkspartij voor Vrijheid en Democratie,People’s Party for Freedom and Democracy,1946,2012
+netherlands,Netherlands,22430,LN,Leefbaar Nederland,Livable Netherlands,2002,2003
+netherlands,Netherlands,22521,CDA,Christen-Democratisch Appèl,Christian Democratic Appeal,1977,2012
+netherlands,Netherlands,22522,KVP,Katholieke Volkspartij,Catholic People’s Party,1946,1972
+netherlands,Netherlands,22523,ARP,Anti-Revolutionaire Partij,Anti-Revolutionary Party,1946,1972
+netherlands,Netherlands,22524,DS‘70,Democratisch Socialisten‘70,Democratic Socialists‘70,1971,1977
+netherlands,Netherlands,22525,CHU,Christelijk-Historische Unie,Christian Historical Union,1946,1972
+netherlands,Netherlands,22526,CU,ChristenUnie,Christian Union,2002,2012
+netherlands,Netherlands,22720,LPF,Lijst Pim Fortuyn,List Pim Fortuyn,2002,2003
+netherlands,Netherlands,22722,PVV,Partij voor de Vrijheid,Party of Freedom,2006,2012
+netherlands,Netherlands,22951,PvdD,Partij voor de Dieren,Party for the Animals,2006,2012
+netherlands,Netherlands,22952,SGP,Staatskundig Gereformeerde Partij,Reformed Political Party,2006,2012
+netherlands,Netherlands,22953,50PLUS,50Plus,50Plus,2012,2012
+luxembourg,Luxembourg,23111,GLEI,"Gréng Lëscht Ekologesch Initiativ/Liste Verte, Initiative Écologiste",Green Left Ecological Initiative,1989,1989
+luxembourg,Luxembourg,23112,GAP,Déi Gréng Alternativ/Parti de l'Alternative Verte,Green Alternative,1984,1989
+luxembourg,Luxembourg,23113,GLEI-GAP,Déi Gréng/Les Verts,The Greens,1994,2013
+luxembourg,Luxembourg,23220,KPL/PCL,Kommunistesch Partei vu Lëtzebuerg/Parti Communiste Luxembourgeois,Communist Party of Luxembourg,1945,1989
+luxembourg,Luxembourg,23230,,Déi Lénk/La Gauche,The Left,2009,2013
+luxembourg,Luxembourg,23320,LSAP/POSL,Lëtzebuerger Sozialistesch Arbechterpartei/Parti Ouvrier Socialiste Luxembourgeois,Socialist Workers’ Party of Luxembourg,1945,2013
+luxembourg,Luxembourg,23420,,Demokratesch Partei/Parti Démocratique,Democratic Party,1945,2013
+luxembourg,Luxembourg,23520,CSV/PCS,Chrëschtlech Sozial Vollekspartei/Parti Chrétien Social,Christian Social People’s Party,1945,2013
+luxembourg,Luxembourg,23951,ADR,Alternativ Demokratesch Reformpartei/Parti Réformiste d'Alternative Démocratique,Alternative Democatic Reform Party,1989,2013
+france,France,31021,FDG,Front de Gauche,Left Front,2012,2012
+france,France,31110,Les Verts,"Les Verts, Confédération Écologiste - Parti Écologiste",The Greens,1993,2012
+france,France,31111,GE,Generation Écologie,Ecology Generation,1997,1997
+france,France,31220,PCF,Parti Communiste Français,French Communist Party,1946,2007
+france,France,31230,PRG,Parti Radical de Gauche,Left Radical Party,2012,2012
+france,France,31320,SIFO,Parti Socialiste,Socialist Party,1946,2012
+france,France,31421,RRRS,Parti Radical,Radical Party,1946,2012
+france,France,31521,MRP,Mouvement Républicain Populaire,Popular Republican Movement,1946,1962
+france,France,31522,CD,Groupe Progrès et Démocratie Moderne,Progress and Modern Democracy,1967,1968
+france,France,31523,CDP,Centre Démocratie et Progrés,"Centre, Democracy and Progress",1973,1973
+france,France,31529,MR,Mouvement Réformateur,Reformers’ Movement,1973,1973
+france,France,31621,RPF,Union de la Nouvelle Majorite - Gaullists/Conservatives,Union for a New Majority - Gaullists/Conservatives,1946,1988
+france,France,31622,PRL,Centre National de Independants et Paysans - Conservatives,National Centre of Independents and Peasants - Conservatives,1946,1988
+france,France,31623,UDCA,Union de Defense Commercants et Artisans - Poujadists,Union for the Defence of Traders and Artisans - Poujadists,1956,1956
+france,France,31624,UDF,Mouvement Démocrate,Democratic Mouvement,1978,2012
+france,France,31625,RPR,Rassemblement pour la République,Rally for the Republic,1993,1997
+france,France,31626,UMP,Union pour un Mouvement Populaire,Union for a Popular Movement,2002,2012
+france,France,31630,NC,Nouveau Centre,New Centre,2012,2012
+france,France,31631,AC,Alliance Centriste,Centrist Alliance,2012,2012
+france,France,31720,FN,Front National,National Front,1986,2012
+italy,Italy,32021,RC,Rivoluzione Civile,Civil Revolution,2013,2013
+italy,Italy,32061,PdL,Il Popolo della Libertà,People of Freedom,2008,2013
+italy,Italy,32110,FdV,Federazione dei Verdi,Green Federation,1987,2006
+italy,Italy,32111,,Il Girasole,The Girasole (‘Sunflower'),2001,2001
+italy,Italy,32210,PdUP,Partito di Unità Proletaria per il Comunismo (Il Manifesto + Partito di Unità Proletaria),Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party),1976,1983
+italy,Italy,32211,DP,Democrazia Proletaria,Proletarian Democracy,1983,1987
+italy,Italy,32212,PRC,Partito della Rifondazione Comunista,Communist Refoundation Party,1992,2006
+italy,Italy,32213,PdCI,Partito dei Comunisti Italiani,Party of Italian Communists,2001,2006
+italy,Italy,32220,PCI,Partito Democratico della Sinistra,Democratic Party of the Left,1946,2001
+italy,Italy,32221,RnP,Rosa nel Pugno,Rose in the Fist,2006,2006
+italy,Italy,32230,SEL,Sinistra Ecologia Libertà,Left Ecology Freedom,2013,2013
+italy,Italy,32310,PR,Lista Pannella-Sgarbi,Pannella-Sgarbi List,1976,1996
+italy,Italy,32320,PSI,Partito Socialista Italiano,Italian Socialist Party,1946,1994
+italy,Italy,32321,RI,Rinnovamento Italiano,Italian Renewal,1996,1996
+italy,Italy,32322,PSI-PSDI,Partito Socialista Italiano-Partito Socialista Democratico Italiano Unificati,Unified Italian Socialist Party-Italian Democratic Socialist Party,1968,1968
+italy,Italy,32329,,L'Ulivo,Olive Tree,2001,2006
+italy,Italy,32330,PSLI,Partito Socialista Democratico Italiano,Italian Democratic Socialist Party,1948,1992
+italy,Italy,32410,PRI,Partito Repubblicano Italiano,Italian Republican Party,1946,1992
+italy,Italy,32420,PLI,Partito Liberale Italiano,Italian Liberal Party,1946,1992
+italy,Italy,32421,M-DL,Margherita - Democrazia è Libertà,Daisy - Democracy is Freedom,2001,2001
+italy,Italy,32440,PD,Partito Democratico,Democratic Party,2008,2013
+italy,Italy,32450,CD,Centro Democratico,Democratic Centre,2013,2013
+italy,Italy,32460,SC,Scelta Civica,Civic Choice,2013,2013
+italy,Italy,32520,DC,Partito Popolare Italiano,Italian Popular Party,1946,1996
+italy,Italy,32521,CCD,Centro Cristiano Democratico,Christian Democratic Centre,1996,1996
+italy,Italy,32522,,Biancofiore,White Flower,2001,2001
+italy,Italy,32528,PI,Patto per l’Italia,Pact for Italy,1994,1994
+italy,Italy,32529,AD,Alleanza Democratica,Democratic Alliance,1994,1996
+italy,Italy,32530,UDC,Unione di Centro,Union of the Center,2006,2013
+italy,Italy,32610,FI,Forza Italia,Go Italy,1994,2006
+italy,Italy,32611,NPSI,Nuovo Partito Socialista Italiano,New Italian Socialist Party,2001,2006
+italy,Italy,32629,,Casa delle Libertà,House of Freedom,2001,2001
+italy,Italy,32630,FDI-CDN,Fratelli d'Italia - Centrodestra Nazionale,Brothers of Italy - National Centre-right,2013,2013
+italy,Italy,32640,3L,Lista Lavoro e Libertà,Labour and Freedom List,2013,2013
+italy,Italy,32710,MSI,Movimento Sociale Italiano-Destra Nazionale,Italian Social Movement-National Right,1948,2006
+italy,Italy,32720,LN,Lega Nord,Northern League,1992,2013
+italy,Italy,32901,DE,Democrazia Europea,European Democracy,2001,2001
+italy,Italy,32902,IdV,Lista di Pietro - Italia del Valori,List Di Pietro - Italy of Values,2001,2008
+italy,Italy,32903,ALD,Autonomie Liberté Démocratie (Valle d’Aosta),Autonomy Liberty Democracy (Aosta Valley),2006,2006
+italy,Italy,32904,SVP,Südtiroler Volkspartei,South Tyrolean People’s Party,2006,2013
+italy,Italy,32906,,Vallée d'Aoste - Autonomie Prògres Fédéralisme,Autonomy Progress Federalism Aosta Valley,2013,2013
+italy,Italy,32951,LR,La Rete/Movimento per la Democrazia,The Network/Movement for Democracy,1992,1994
+italy,Italy,32952,InM,Italiani nel Mondo,Italy in the World,2006,2006
+italy,Italy,32953,P-UDEUR,Popolari Unione Democratica per l'Europa,Popular Democratic Union for Europe,2006,2006
+italy,Italy,32955,,L’Unione-Prodi,The Union – Prodi,2006,2006
+italy,Italy,32956,M5S,MoVimento 5 Stelle,Five Star Movement,2013,2013
+spain,Spain,33091,,Geroa Bai,Future Yes,2011,2011
+spain,Spain,33092,,Amaiur,Amaiur,2011,2011
+spain,Spain,33093,,Compromís-Q,Commitment-Q,2011,2011
+spain,Spain,33220,PCE,Izquierda Unida,United Left,1977,2011
+spain,Spain,33320,PSOE,Partido Socialista Obrero Español,Spanish Socialist Workers’ Party,1977,2011
+spain,Spain,33430,UCD,Unión de Centro Democrático,Union of the Democratic Centre/Centrist Bloc,1977,1982
+spain,Spain,33438,PDP,Partido Demócrata Popular,Popular Democratic Party,1982,1986
+spain,Spain,33439,PL,Partido Liberal,Liberal Party,1986,1986
+spain,Spain,33440,UPyD,"Unión, Progreso y Democracia","Union, Progress and Democracy",2011,2011
+spain,Spain,33512,CDS,Centro Democrático y Social,Centre Democrats,1982,1993
+spain,Spain,33610,AP,Partido Popular,Popular Party,1977,2011
+spain,Spain,33611,CiU,Convergència i Unió,Convergence and Union,1979,2011
+spain,Spain,33612,FAC,Foro Asturias,Forum Asturias,2011,2011
+spain,Spain,33901,EE,Euskadiko Ezkerra,Basque Left,1977,1989
+spain,Spain,33902,PNV/EAJ,Partido Nacionalista Vasco/Euzko Alderdi Jeltzalea,Basque Nationalist Party,1977,2011
+spain,Spain,33903,EA,Eusko Alkartasuna,Basque Solidarity,1989,2008
+spain,Spain,33904,PAR,Partido Aragonés,Aragonese Party,1977,2000
+spain,Spain,33905,ERC,Esquerra Republicana de Catalunya,Catalan Republican Left,1977,2011
+spain,Spain,33906,PA,Partido Andalucista,Andalusian Party,1977,2004
+spain,Spain,33907,CC,Coalición Canaria,Canarian Coalition,1993,2011
+spain,Spain,33908,BNG,Bloque Nacionalista Galego,Galician Nationalist Bloc,1996,2011
+spain,Spain,33909,CHA,Chunta Aragonesista,Aragonist Council,2004,2008
+spain,Spain,33910,UPN,Unión del Pueblo Navarro,Navarrese People's Union,2004,2008
+greece,Greece,34020,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,2004,2012
+greece,Greece,34210,KKE,Kommounistiko Komma Elladas,Communist Party of Greece,1974,2012
+greece,Greece,34211,SYN,Synaspismos tis Aristeras kai tis Proodou,Progressive Left Coalition,1989,2000
+greece,Greece,34213,DIMAR,Dimokratiki Aristera,Democratic Left,2012,2012
+greece,Greece,34313,PASOK,Panellinio Socialistiko Kinima,Panhellenic Socialist Movement,1974,2012
+greece,Greece,34314,DIKKI,Dimokratiko Kinoniko Kinima,Democratic Social Movement,1996,1996
+greece,Greece,34510,EK,Enosi Dimokratikou Kentrou,Union of the Democratic Centre,1974,1977
+greece,Greece,34511,ND,Nea Dimokratia,New Democracy,1974,2012
+greece,Greece,34512,Pola,Politiki Anixi,Political Spring,1993,1996
+greece,Greece,34610,EP,Ethniki Parataxis,National Alignment,1977,1977
+greece,Greece,34710,LAOS,Laikós Orthódoxos Synagermós,Popular Orthodox Rally,2007,2012
+greece,Greece,34720,XA,Chrysi Avgi,Golden Dawn,2012,2012
+greece,Greece,34730,ANEL,Anexartitoi Ellines,Independent Greeks,2012,2012
+portugal,Portugal,35110,PEV,Partido Ecologista ‘Os Verdes’,Ecologist Party ‘The Greens',1983,2011
+portugal,Portugal,35210,UDP,União Democrática Popular,Popular Democratic Union,1975,1987
+portugal,Portugal,35211,BE,Bloco de Esquerda,Left Bloc,1999,2011
+portugal,Portugal,35220,PCP,Partido Comunista Português,Portuguese Communist Party,1975,2011
+portugal,Portugal,35229,CDU,Coligação Democrática Unitária,Unified Democratic Coalition,1991,2005
+portugal,Portugal,35310,MDP,Movimento Democrático Português,Popular Democratic Movement,1975,1985
+portugal,Portugal,35311,PS,Partido Socialista,Socialist Party,1975,2011
+portugal,Portugal,35312,PRD,Partido Renovador Democrático,Democratic Renewal Party,1985,1987
+portugal,Portugal,35313,PPD,Partido Social Democrata,Social Democratic Party,1975,2011
+portugal,Portugal,35315,ID,Intervenção Democrática,Democratic Intervention,1987,1987
+portugal,Portugal,35316,ASDI,Associação dos Sociais Democratas Independentes,Association of Independent Social Democrats,1980,1980
+portugal,Portugal,35317,UEDS,União de Esquerda para a Democracia Socialista,Leftwing Union for the Socialist Democracy,1980,1980
+portugal,Portugal,35520,CDS,Centro Democrático Social-Partido Popular,Social Democratic Center-Popular Party,1975,2011
+portugal,Portugal,35710,PPM,Partido Popular Monárquico,Popular Monarchist Party,1976,1983
+portugal,Portugal,35951,PSN,Partido de Solidariedade Nacional,National Solidarity Party,1991,1991
+germany,Germany,41111,,Die Grünen,The Greens,1983,1987
+germany,Germany,41112,Greens/90,Grüne/Bündnis‘90,Greens/Alliance‘90,1990,1990
+germany,Germany,41113,90/Greens,Bündnis‘90/Die Grünen,Alliance‘90/Greens,1994,2013
+germany,Germany,41220,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,1949,1949
+germany,Germany,41221,PDS,Partei des Demokratischen Sozialismus,Party of Democratic Socialism,1990,2002
+germany,Germany,41222,L-PDS,Die Linke.PDS,The Left. Party of Democratic Socialism,2005,2005
+germany,Germany,41223,LINKE,Die Linke,The Left,2009,2013
+germany,Germany,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1949,2013
+germany,Germany,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1949,2013
+germany,Germany,41521,CDU/CSU,Christlich-Demokratische Union/Christlich-Soziale Union,Christian Democratic Union/Christian Social Union,1949,2013
+germany,Germany,41522,DZ,Deutsche Zentrumspartei,Centre Party,1949,1953
+germany,Germany,41620,DP,Deutsche Partei,German Party,1949,1957
+germany,Germany,41711,WAV,Wirtschaftliche Aufbauvereinigung,Economic Reconstruction League,1949,1949
+germany,Germany,41712,DRP,Deutsche Reichspartei,German Reich Party,1949,1949
+germany,Germany,41911,BP,Bayernpartei,Bavarian Party,1949,1949
+germany,Germany,41912,SSW,Südschleswigscher Wählerverband - Sydslesvigsk Vælgerforening,South Schleswig Voters’ Union,1949,1949
+germany,Germany,41951,GB/BHE,Gesamtdeutscher Block/Bund der Heimatvertriebenen und Entrechteten,Refugee Party,1953,1953
+germany,Germany,41952,,Piraten,Pirates,2013,2013
+germany,Germany,41953,AfD,Alternative für Deutschland,Alternative for Germany,2013,2013
+austria,Austria,42110,GA,Die Grünen,The Greens,1986,2008
+austria,Austria,42220,KPÖ,Kommunistische Partei Österreichs,Austrian Communist Party,2002,2008
+austria,Austria,42320,SPÖ,Sozialdemokratische Partei Österreichs,Austrian Social Democratic Party,1949,2008
+austria,Austria,42420,VdU,Die Freiheitlichen,Freedom Movement,1949,2008
+austria,Austria,42421,LIF,Liberales Forum,Liberal Forum,1994,1995
+austria,Austria,42520,ÖVP,Österreichische Volkspartei,Austrian People’s Party,1949,2008
+austria,Austria,42710,BZÖ,Bündnis Zukunft Österreich,Alliance for the Future of Austria,2006,2008
+switzerland,Switzerland,43110,,Föderation der Grünen Parteien der Schweiz/Fédération des partis écologistes de Suisse,Federation of Green Parties,1979,2011
+switzerland,Switzerland,43120,GLP,Grünliberale Partei der Schweiz,Green Liberal Party,2007,2011
+switzerland,Switzerland,43220,PdAS/PdTS,Partei der Arbeit der Schweiz/Parti suisse du travail,Swiss Labour Party,1991,2007
+switzerland,Switzerland,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz/Parti socialiste suisse,Social Democratic Party of Switzerland,1947,2011
+switzerland,Switzerland,43321,LdU/AdI,Landesring der Unabhängigen/Alliance des Indépendants,Independents’ Alliance,1947,1999
+switzerland,Switzerland,43420,FDP/PRD,Freisinnig-Demokratische Partei der Schweiz/Parti radical-démocratique suisse,Radical Democratic Party,1947,2011
+switzerland,Switzerland,43520,,Konservativ-Christlich Soziale Partei/Parti conservateur chrétien-social,Conservative Christian Social Party,1947,2011
+switzerland,Switzerland,43530,EVP/PEV,Evangelische Volkspartei der Schweiz/Parti Evangélique Suisse,Protestant People’s Party of Switzerland,1971,2011
+switzerland,Switzerland,43531,LPS/PLS,Liberale Partei der Schweiz/Parti libéral suisse,Liberal Party of Switzerland,1991,2003
+switzerland,Switzerland,43540,CSP/PCS,Christlich-soziale Partei/Parti Chrétien-Social,Christian Social Party,2007,2011
+switzerland,Switzerland,43710,NA/AN,Schweizer Demokraten/Démocrates suisses,Swiss Democrats,1971,2003
+switzerland,Switzerland,43711,EDU/UDF,Eidgenössisch-Demokratische Union/Union Démocratique Fédérale,Federal Democratic Union,1991,2007
+switzerland,Switzerland,43810,BGB/PAB,Schweizerische Volkspartei/Union démocratique du centre,Swiss People’s Party,1947,2011
+switzerland,Switzerland,43811,BDP/PBD,Bürgerlich-Demokratische Partei Schweiz/Parti Bourgeois Démocratique Suisse,Conservative Democratic Party of Switzerland,2011,2011
+switzerland,Switzerland,43901,LdT,Lega dei Ticinesi,Ticino League,2007,2011
+switzerland,Switzerland,43902,MCG,Mouvement Citoyens Genevios,Geneva Citizens' Movement,2011,2011
+switzerland,Switzerland,43951,,Freiheitspartei der Schweiz,Freedom Party of Switzerland,1987,1995
+great britain,Great Britain,51210,SF,Sinn Féin,Ourselves Alone,1997,2001
+great britain,Great Britain,51320,Labour,Labour Party,Labour Party,1945,2010
+great britain,Great Britain,51330,SDP,Social Democratic Party,Social Democratic Party,1983,1987
+great britain,Great Britain,51420,,Liberal Party,Liberal Party,1945,1987
+great britain,Great Britain,51421,LibDems,Liberal Democrats,Liberal Democrats,1992,2010
+great britain,Great Britain,51620,Conservatives,Conservative Party,Conservative Party,1945,2010
+great britain,Great Britain,51621,UUP,Ulster Unionist Party,Ulster Unionist Party,1992,2001
+great britain,Great Britain,51902,SNP,Scottish National Party,Scottish National Party,1992,2001
+great britain,Great Britain,51903,DUP,Democratic Unionist Party,Democratic Unionist Party,1992,2001
+great britain,Great Britain,51951,UKIP,United Kingdom Independence Party,United Kingdom Independence Party,2001,2001
+northern ireland,Northern Ireland,52320,NILP,Northern Ireland Labour Party,Northern Ireland Labour Party,1925,1969
+northern ireland,Northern Ireland,52620,UP,Unionist Party,Unionist Party,1921,1973
+northern ireland,Northern Ireland,52710,NP,Nationalist Party,Nationalist Party,1921,1969
+ireland,Ireland,53021,ULA,United Left Alliance,United Left Alliance,2011,2011
+ireland,Ireland,53110,Greens,Green Party/Comhaontas Glas,Green Party,1989,2011
+ireland,Ireland,53220,WP,Páirtí na nOibri,Workers’ Party,1981,1989
+ireland,Ireland,53221,DLP,Democratic Left Party,Democratic Left Party,1992,1997
+ireland,Ireland,53230,,Páirtí Sóisialach,Socialist Party,2011,2011
+ireland,Ireland,53320,Labour,Páirti Lucht Oibre,Labour Party,1948,2011
+ireland,Ireland,53420,PD,Progressive Democrats,Progressive Democrats,1987,2007
+ireland,Ireland,53520,,Fine Gael,Familiy of the Irish,1948,2011
+ireland,Ireland,53620,,Fianna Fáil,Soldiers of Destiny,1948,2011
+ireland,Ireland,53714,CnP,Clann na Poblachta,Republican Party,1948,1965
+ireland,Ireland,53810,CnT,Clann na Talmhan,Party of the Land,1948,1961
+ireland,Ireland,53951,,Sinn Féin,Ourselves Alone,1997,2011
+malta,Malta,54320,PL,Partit Laburista,Labour Party,1996,1998
+malta,Malta,54620,PN,Partit Nazzjonalista,Nationalist Party,1996,1998
+cyprus,Cyprus,55110,,Kinima Ikologon Perivallontiston,Ecological and Environmental Movement,2006,2011
+cyprus,Cyprus,55321,AKEL,Anorthotikó Kómma Ergazómenou Laóu,Progressive Party of the Working People,1996,2011
+cyprus,Cyprus,55322,EDEK,Ethniki Demokratiki Enosi Kyprou,United Democratic Union of Cyprus,1996,2011
+cyprus,Cyprus,55323,KISOS,Kinima Sosialdimokraton,Social Democrats' Movement,2001,2001
+cyprus,Cyprus,55421,KF,Komma Fileleftheron,Liberal Party,1996,1996
+cyprus,Cyprus,55422,DiKo,Dimokratikó Kómma,Democratic Party,1996,2011
+cyprus,Cyprus,55423,KED,Kinima ton Eleftheron Dimokratikon,Free Democrats Movement,1996,1996
+cyprus,Cyprus,55430,EVROKO,Evropaikó Kómma,European Party,2006,2011
+cyprus,Cyprus,55711,DISY,Dimokratikós Synagermós,Democratic Coalition,1996,2011
+united states,United States,61320,Democrats,Democratic Party,Democratic Party,1920,2012
+united states,United States,61620,Republicans,Republican Party,Republican Party,1920,2012
+united states,United States,61621,,La Follette Progressive Party,La Follette Progressive Party,1924,1924
+united states,United States,61622,,Progressive Party (H. Wallace),Progressive Party (H. Wallace),1948,1948
+united states,United States,61911,,State’s Rights Party,State’s Rights Party,1948,1948
+canada,Canada,62110,,Green Party,Green Party,2008,2011
+canada,Canada,62320,CCF,New Democratic Party,New Democratic Party,1945,2011
+canada,Canada,62420,LP,Liberal Party of Canada,Liberal Party of Canada,1945,2011
+canada,Canada,62620,PCP,Progressive Conservative Party,Progressive Conservative Party,1945,2000
+canada,Canada,62621,RPC,Reform Party of Canada,Reform Party of Canada,1993,1997
+canada,Canada,62622,CA,Canadian Reform Conservative Alliance,Canadian Reform Conservative Alliance,2000,2000
+canada,Canada,62623,CP,Conservative Party of Canada,Conservative Party of Canada,2004,2011
+canada,Canada,62901,BQ,Bloc Québécois,Quebec Bloc,1993,2011
+canada,Canada,62951,Socred,Social Credit,Social Credit,1945,1974
+australia,Australia,63110,,Australian Greens,Australian Greens,2004,2013
+australia,Australia,63320,ALP,Australian Labor Party,Australian Labor Party,1946,2013
+australia,Australia,63321,AD,Australian Democrats,Australian Democrats,1990,2001
+australia,Australia,63330,DLP,Democratic Labor Party,Democratic Labor Party,1955,1977
+australia,Australia,63410,PUP,Palmer United Party,Palmer United Party,2013,2013
+australia,Australia,63620,LPA,Liberal Party of Australia,Liberal Party of Australia,1946,2013
+australia,Australia,63621,LNP,Liberal National Party of Queensland,Liberal National Party of Queensland,2010,2013
+australia,Australia,63622,CLP,Country Liberal Party,Country Liberal Party,2013,2013
+australia,Australia,63710,,Katter's Australian Party,Katter's Australian Party,2013,2013
+australia,Australia,63810,CP,National Party of Australia,National Party of Australia,1946,2013
+new zealand,New Zealand,64110,Greens,Green Party of Aotearoa New Zealand,Green Party of Aotearoa New Zealand,1999,2011
+new zealand,New Zealand,64320,Labour,New Zealand Labour Party,New Zealand Labour Party,1946,2011
+new zealand,New Zealand,64321,Alliance,The Alliance,The Alliance,1993,1999
+new zealand,New Zealand,64420,ACT,ACT New Zealand,ACT New Zealand,1996,2011
+new zealand,New Zealand,64421,,United Future New Zealand,United Future New Zealand,2002,2011
+new zealand,New Zealand,64422,Progressive,Jim Anderton’s Progressive,Jim Anderton’s Progressive,2002,2008
+new zealand,New Zealand,64620,National,New Zealand National Party,New Zealand National Party,1946,2011
+new zealand,New Zealand,64621,NZF,New Zealand First Party,New Zealand First Party,1993,2011
+new zealand,New Zealand,64901,,Maori Party,Maori Party,2005,2011
+new zealand,New Zealand,64902,Mana,Mana Party,Mana Party,2011,2011
+new zealand,New Zealand,64951,,New Zealand Democratic Party,New Zealand Democratic Party,1954,1990
+japan,Japan,71220,JCP,Nihon Kyosan-to,Japanese Communist Party,1960,2005
+japan,Japan,71320,JSP,Shakai Minshu-to,Social Democratic Party,1960,2005
+japan,Japan,71321,DSP,Minshu-Shakai-to,Democratic Socialist Party,1960,1993
+japan,Japan,71322,SDF,Shaminren,Social Democratic Federation,1979,1990
+japan,Japan,71530,CGP,Shin Komei-to,New Clean Government Party,1967,2005
+japan,Japan,71620,LDP,Jiyu-Minshu-to,Liberal Democratic Party,1960,2005
+japan,Japan,71621,NLC,Shin-Jiyu-Kurabu,New Liberal Club,1976,1986
+japan,Japan,71622,JRP,Shinsei-to,Japan Renewal Party,1993,1993
+japan,Japan,71623,NFP,Sinshin-to,New Frontier Party,1996,1996
+japan,Japan,71624,DPJ,Minshu-to,Democratic Party of Japan,1996,2005
+japan,Japan,71625,LP,Jiyu-to,Liberal Party,2000,2000
+japan,Japan,71626,NCP,Hoshu-to,New Conservative Party,2000,2003
+japan,Japan,71630,PNP,Kokumin Shin-to,People's New Party,2005,2005
+japan,Japan,71640,,Mushozoku no Kai,Independent's Party,2003,2003
+japan,Japan,71951,NPH,Shin-to Sakigake,New Party Harbinger,1993,1996
+japan,Japan,71952,JNP,Nihon Shin-to,Japan New Party,1993,1993
+israel,Israel,72220,Maki,HaMiflega HaKomunistit HaYisraelit,Israel Communist Party,1949,1969
+israel,Israel,72221,MOKED,Moked,Focus,1973,1973
+israel,Israel,72222,PLP,Hareshima Ha’mitkademet le-Shalom,Progressive List for Peace,1984,1988
+israel,Israel,72223,SHELLI,Shalom le’Israel - Shivion le’Israel,Peace in Israel - Equality in Israel,1977,1981
+israel,Israel,72224,RAKAH,Reshima Kommunistit Hadasha,New Communist Party,1965,1973
+israel,Israel,72225,HADASH,Hadash/Balad,Democratic National Party,1977,1999
+israel,Israel,72310,RATZ,Hatnuah Lezhiot Ha’ezrach,Citizens’ Rights Movement,1973,1988
+israel,Israel,72311,MAPAM,Mifleget Ha’poalim Hameudet,United Workers’ Party,1949,1988
+israel,Israel,72312,,Am Ehad,One Nation,1999,1999
+israel,Israel,72320,AMT,Ma’arakh,Alignment,1969,1984
+israel,Israel,72322,RAFI,Reshimat Poalei Israel,Israel Workers’ List,1965,1965
+israel,Israel,72323,HaAvoda,Mifleget HaAvoda HaYisraelit,Israeli Labour Party,1965,1996
+israel,Israel,72324,Mapai,Mifleget Poalei Eretz Yisrael,Worker's Party of Eretz Israel,1949,1961
+israel,Israel,72325,,Ahdut Ha’avoda Poalei Zion,Unity of Labour/Workers of Zion,1955,1961
+israel,Israel,72326,MERETZ,Meretz,Meretz,1992,1999
+israel,Israel,72327,,,One Israel,1999,1999
+israel,Israel,72410,,H’Miflaga H’Liberalit H’Atzmaeet,Progressive and Independent Liberal Party,1965,1981
+israel,Israel,72411,,Miflaga Haliberalit,Liberal Party,1961,1961
+israel,Israel,72412,DASH,Hatnuah Hademokratit Le-shinui,Democratic Movement for Change,1977,1977
+israel,Israel,72413,SHINUI,Shinui,Change,1981,1984
+israel,Israel,72414,,Yahad,Together,1984,1984
+israel,Israel,72415,,,Centre Party,1999,1999
+israel,Israel,72420,,Zionim Klalim,General Zionists’,1949,1959
+israel,Israel,72425,,Ometz,Courage,1984,1984
+israel,Israel,72427,,Ha’Derech Ha’Shlishit,The Third Way,1996,1996
+israel,Israel,72428,,Yisrael Ba-Aliya,Israel for Immigration,1996,1999
+israel,Israel,72530,Mafdal,Mifleget Datit Leumit,National Religious Party,1955,1999
+israel,Israel,72531,,Hazit Datit Toratit,Religious Torah Front,1949,1988
+israel,Israel,72532,TAMI,Tenua le’Masoret Israel,Movement for Israel’s Tradition,1981,1984
+israel,Israel,72533,Shas,Shomrei Torah Sephardim,Sephardi Torah Guardians,1984,1999
+israel,Israel,72534,,Morasha,Heritage,1984,1984
+israel,Israel,72535,,Yahadut HaTorah HaMeukhedet,United Torah Judaism,1992,1999
+israel,Israel,72610,,Hamerkaz Hahofshi,Free Centre,1969,1969
+israel,Israel,72611,,Reshima Mamlachtit,State List,1969,1969
+israel,Israel,72612,Tehiya,Tenuat Hetehiya,Renaissance Movement,1981,1992
+israel,Israel,72613,Tzomet,HaTenua LeHithadashot Zionit Vevilti Miflagtaim,Crossroads - non-aligned movement for Zionist Renewal,1984,1992
+israel,Israel,72614,,Degel Hatorah,Torah Flag,1988,1988
+israel,Israel,72615,,Moledet,Homeland,1988,1996
+israel,Israel,72620,,Herut,Freedom,1949,1961
+israel,Israel,72621,Gahal,Gush-Herut Liberalim,Herut-Liberal Bloc,1965,1969
+israel,Israel,72622,Likud,HaLikud,The Consolidation,1973,1999
+israel,Israel,72623,,Shlomzion,Peace to Zion,1977,1977
+israel,Israel,72624,IL,HaIchud HaLeumi,National Union,1999,1999
+israel,Israel,72625,,Yisrael Beiteinu,Israel is Our Home,1999,1999
+israel,Israel,72901,,HaReshima Ha’aravit HaMeuchedet,United Arab List,1988,1996
+sri lanka,Sri Lanka,73310,SLFP,Sri Lanka Nidahas Pakshaya,Sri Lanka Freedom Party,1952,1977
+sri lanka,Sri Lanka,73330,UNP,Ekshat Jathika Pakshaya,United National Party,1947,1977
+turkey,Turkey,74321,CHP,Cumhuriyet Halk Partisi,Republican People’s Party,1950,2011
+turkey,Turkey,74322,HP,Halkçi Parti,Populist Party,1983,1983
+turkey,Turkey,74323,SHP,Sosyal Demokrat Halçi Parti,Social Democratic Populist Party,1987,1991
+turkey,Turkey,74324,DSP,Demokratik Sol Parti,Democratic Left Party,1991,1999
+turkey,Turkey,74325,BDP,Baris ve Demokrasi Partisi,Peace and Democracy Party,2011,2011
+turkey,Turkey,74326,DTP,Democratic Toplum Partisi,Democratic Society Party,2007,2007
+turkey,Turkey,74621,DP,Demokrat Parti,Democratic Party,1950,1957
+turkey,Turkey,74622,AP,Adalet Partisi,Justice Party,1961,1977
+turkey,Turkey,74623,ANAP,Anavatan Partisi,Motherland Party,1983,1999
+turkey,Turkey,74624,DYP,Dogru Yol Partisi,True Path Party,1987,1999
+turkey,Turkey,74625,MP,Millet Partisi,Nation Party,1965,1969
+turkey,Turkey,74626,BBP,Büyük Birlik Partisi,Grand Unity Party,1999,1999
+turkey,Turkey,74627,DTP,Demokrat Türkiye Partisi,Democratic Turkey Party,1999,1999
+turkey,Turkey,74628,AKP,Adalet ve Kalkinma Partisi,Justice and Development Party,2002,2011
+turkey,Turkey,74711,MDP,Milliyetçi Demokrasi Partisi,Nationalist Democratic Party,1983,1983
+turkey,Turkey,74712,MHP,Milliyetçi Hareket Partisi,National Action Party,1961,2011
+turkey,Turkey,74714,MSP,Millî Selamet Partisi,National Salvation Party,1973,1977
+turkey,Turkey,74715,RP,Refah Partisi,Welfare Party,1987,1995
+turkey,Turkey,74716,FP,Fazilet Partisi,Virtue Party,1999,1999
+albania,Albania,75220,PPS,Partia Socialiste e Shqipërisë,Albanian Socialist Party,1991,2001
+albania,Albania,75320,PSD,Partia Socialdemokrate ë Shqipërisë,Social Democratic Party of Albania,1991,2001
+albania,Albania,75421,AD,Partia Aleanca Demokratike,Democratic Alliance Party,1992,2001
+albania,Albania,75621,PP,Partia Popullore,People’s Party,1991,1991
+albania,Albania,75622,PUK,Partia e Unitetit Kombëtar,Party of National Unity,1992,1992
+albania,Albania,75623,PLL,Partia Lëvizja e Legalitetit,Legality Movement Party,1991,1997
+albania,Albania,75624,PD,Partia Demokratike e Shqipërisë,Democratic Party of Albania,1991,1997
+albania,Albania,75721,BK,E Djatha e Bashkuar e Shqipërisë,United Albanian Right,1996,1997
+albania,Albania,75722,PRSH,Partia Republikane Shqiptare,Albanian Republican Party,1991,1997
+albania,Albania,75810,PASH,Partia Agrare e Shqipërisë,Agrarian Party of Albania,1991,2001
+albania,Albania,75951,OMONIA,Partia Bashkimi për të Drejtat e Njeriut,Union for Human Rights Party,1991,2001
+armenia,Armenia,76041,HAK,Hay Azgayin Kongres,Armenian National Congress,2012,2012
+armenia,Armenia,76222,HKK,Hayastani Komunistakan Kusaktsutyun,Communist Party of Armenia,1995,1999
+armenia,Armenia,76321,HHD,Hay Heghapokhakan Dashnaktsutyun,Armenian Revolutionary Federation,1999,2012
+armenia,Armenia,76322,MAK,Miavorvac Ashkhatankayin Kusaktsutyun,United Labour Party,2003,2003
+armenia,Armenia,76420,OEK,Orinats' Yerkir,Rule of Law,1999,2012
+armenia,Armenia,76421,A,Ardarutyun,Justice,2003,2003
+armenia,Armenia,76430,,Zharangutyun,Heritage,2007,2012
+armenia,Armenia,76521,AIM,Azgayin Inknoroshum Miavorum,National Self-Determination Union,1995,1995
+armenia,Armenia,76610,HHK,Hayastani Hanrapetakan Kusaktsutyun,Republican Party of Armenia,2003,2012
+armenia,Armenia,76620,BHK,Bargavadj Hayastan Kusaktsutyun,Prosperous Armenia,2007,2012
+armenia,Armenia,76711,HA,Hanrapetutyun,Republic,1995,1995
+armenia,Armenia,76712,AZhM,Azgayin Zhoghovrdakan Miutyun,National Democratic Union,1995,1999
+armenia,Armenia,76901,,Shamiram,Semiramis (Women’s Movement),1995,1995
+armenia,Armenia,76902,IM,Iravunk ev Miabanutyun,Right and Unity,1999,1999
+armenia,Armenia,76903,M,Miasnutyun,Unity,1999,1999
+armenia,Armenia,76904,AM,Azgayin Miabanutyun,National Unity Party,2003,2003
+azerbaijan,Azerbaijan,77220,YAP,Yeni Azerbaycan Partiyasi,New Azerbaijan Party,1995,2000
+azerbaijan,Azerbaijan,77221,AVKP,Azerbaycan Vahid Kommunist Partiyasi,Azerbaijan United Communist Party,2000,2000
+azerbaijan,Azerbaijan,77420,AXC,Azerbaycan Xalq Cebhesi,Azerbaijan Popular Front,1995,2000
+azerbaijan,Azerbaijan,77430,ADPS,Azerbaycan Demokratik Sahibkarlar Partiyasi,Azerbaijan Democratic Entrepeneurs Party,1995,1995
+azerbaijan,Azerbaijan,77710,AMIP,Azerbaycan Milli Istiqlal Partiyasi,Azerbaijan National Independence Party,1995,2000
+azerbaijan,Azerbaijan,77951,VHP,Vatandas Hamrayliyi Partiyasi,Civil Solidarity Party,2000,2000
+belarus,Belarus,78211,PKB,Partiya Komunistau Belaruskaya,Party of Communists of Belarus,1995,1995
+belarus,Belarus,78212,APB,Agrarnaya Partiya Belarusi,Agrarian Party of Belarus,1995,1995
+belarus,Belarus,78213,BKhP,Belaruskaya Syalanskaya Partiya,Belarusan Peasants' Party,1995,1995
+belarus,Belarus,78214,BPR,Belaruski Patryatychny Rukh,Belarusan Patriotic Movement,1995,1995
+belarus,Belarus,78410,PNZ,Partiya Narodnaya Zgody,Party of People’s Consent,1995,1995
+belarus,Belarus,78430,ADPB,Abyadnanya Demakratychnaya Partiya Belarusi,United Democratic Party of Belarus,1995,1995
+belarus,Belarus,78710,BSDP,Belaruskaja Sacyjal-Demakratychnaya Partiya ‘Hramada’,Belarusian Social-Democratic Party ‘Hramada’,1995,1995
+belarus,Belarus,78901,BPZ-N,Belaruskaya Partiya Zhanchyn ‘Nadzeya',Party of Women ‘Nadzeja’,1995,1995
+bosnia-herzegovina,Bosnia-Herzegovina,79221,SK BiH-SDP,Savez komunista Bosne i Hercegovine-Socijalisticka demokratska partija,League of Communists of Bosnia and Herzegovina-Social Democratic Party,1990,1990
+bosnia-herzegovina,Bosnia-Herzegovina,79222,SRSJ,Savez reformskih snaga Jugoslavije,Alliance of Reform Forces of Yugoslavia,1990,1990
+bosnia-herzegovina,Bosnia-Herzegovina,79223,SPRS,Socijalisticka partija Republike Srpske,Socialist Party of the Republika Srpska,1996,1996
+bosnia-herzegovina,Bosnia-Herzegovina,79321,SDP BiH,Socijaldemokratska partija Bosne i Hercegovine,Social Democratic Party of Bosnia and Herzegovina,1998,2002
+bosnia-herzegovina,Bosnia-Herzegovina,79421,KCD BiH,Koalicija za cjelovitu i demokratsku Bosnu i Hercegovinu,Coalition for a United and Democratic Bosnia and Herzegovina,1998,1998
+bosnia-herzegovina,Bosnia-Herzegovina,79422,PDP RS,Partija demokratskog progresa Republike Srpske,Party of Democratic Progress of the Republika Srpska,2000,2002
+bosnia-herzegovina,Bosnia-Herzegovina,79423,NHI,Nova hrvatska inicijativa,New Croation Initiative,2000,2000
+bosnia-herzegovina,Bosnia-Herzegovina,79721,SRS RS,Srpska radikalna stranka Republike Srpske,Serbian Radical Party of the Republika Srpska,1998,1998
+bosnia-herzegovina,Bosnia-Herzegovina,79722,RS RS,Radikalna stranka Republike Srpske,Radical Party of the Republika Srpska,1998,1998
+bosnia-herzegovina,Bosnia-Herzegovina,79723,SBiH,Stranka za Bosnu i Hercegovinu,Party for Bosnia and Herzegovina,1996,2002
+bosnia-herzegovina,Bosnia-Herzegovina,79901,DNZ BiH,Demokratska narodna zajednica Bosne i Hercegovine,Democratic Peoples’ Union of Bosnia and Herzegovina,2000,2000
+bosnia-herzegovina,Bosnia-Herzegovina,79951,SDA,Stranka demokratske akcije,Party of Democratic Action,1990,2002
+bosnia-herzegovina,Bosnia-Herzegovina,79952,SDS,Srpska demokratska stranka,Serbian Democratic Party,1990,1990
+bosnia-herzegovina,Bosnia-Herzegovina,79953,HDZ BiH,Hrvatska demokratska zajednica Bosne i Hercegovine,Croatian Democratic Union of Bosnia and Herzegovina,1990,2002
+bosnia-herzegovina,Bosnia-Herzegovina,79954,MBO,Muslimanska bošnjacka organizacija,Muslim-Bosniac Organization,1990,1990
+bosnia-herzegovina,Bosnia-Herzegovina,79955,SDS,Srpska demokratska stranka,Serbian Democratic Party,1996,2002
+bulgaria,Bulgaria,80051,SK,Sinyata Koalitsiya,Blue Coalition,2009,2009
+bulgaria,Bulgaria,80110,PKE,Politicheski klub ‘Ekoglasnost',Political Club ‘Ekoglasnost',1994,1997
+bulgaria,Bulgaria,80220,BSP,Balgarska Socialisticheska Partiya,Bulgarian Socialist Party,1990,2013
+bulgaria,Bulgaria,80221,KzB,Koaliciya za Balgariya,Coalition for Bulgaria,2001,2009
+bulgaria,Bulgaria,80228,,"Koaliciya na Balgarska Socialisticheska Partiya, Balgarski Zemedelski Naroden Sayuz - Aleksandar Stambolijski i Politicheski klub 'Ekoglasnost'","Coalition of Bulgarian Socialist Party, Bulgarian Agrarian People’s Union - Alexandar Stambolijski and Political Club 'Ekoglasnost'",1991,1994
+bulgaria,Bulgaria,80229,DL,Demokratichna Levitsa,Democratic Left,1997,1997
+bulgaria,Bulgaria,80320,KEL,Koalicija Evrolevica,Euroleft Coalition,1997,1997
+bulgaria,Bulgaria,80410,SDS,Sayuz na Demokratichnite Sili,Union of Democratic Forces,1990,1994
+bulgaria,Bulgaria,80411,ODS,Obedineni Demokratichni Sili,United Democratic Forces,1997,2005
+bulgaria,Bulgaria,80510,GERB,Grazhdani za Evropeisko Razvitie Balgariya,Citizens for European Development of Bulgaria,2009,2013
+bulgaria,Bulgaria,80610,DSB,Demokrati za Silna Balgariya,Democrats for a Strong Bulgaria,2005,2005
+bulgaria,Bulgaria,80620,RZS,"Red, Zakonnost i Spravedlivost","Order, Law and Justice",2009,2009
+bulgaria,Bulgaria,80710,ATAKA,Nacionalno Obedinenie Ataka,National Union Attack,2005,2013
+bulgaria,Bulgaria,80810,BZNS,Balgarski Zemedelski Naroden Sayuz,Bulgarian Agrarian National Union,1990,1990
+bulgaria,Bulgaria,80811,NS,Naroden Sayuz,People’s Union,1994,1994
+bulgaria,Bulgaria,80812,BZNS-AS,Balgarski Zemedelski Naroden Sayuz - Aleksandar Stambolijski,Bulgarian Agrarian People’s Union - Alexandar Stambolijski,1994,1994
+bulgaria,Bulgaria,80813,BNS,Balgarski Naroden Sayuz,Bulgarian People's Union,2005,2005
+bulgaria,Bulgaria,80901,BBB,Balgarski Biznes Blok,Bulgarian Business Bloc,1994,1997
+bulgaria,Bulgaria,80902,NDSV,Nacionalno Dvizhenie Simeon Vtori,National Movement Simeon the Second,2001,2005
+bulgaria,Bulgaria,80951,DPS,Dvizhenie za Prava i Svobodi,Movement for Rights and Freedom,1990,2013
+bulgaria,Bulgaria,80952,ONS,Obedinenie za Nacionalno Spasenie,Union of National Salvation,1997,1997
+croatia,Croatia,81021,SDP-HSLS,Koalicija Socijaldemokratske partije Hrvatske i Hrvatske socijalno-liberalne stranke,Coalition of the Social Democratic Party of Croatia and the Croatian Social-liberal Party,2000,2000
+croatia,Croatia,81032,Kukuriku,Kukuriku koalicija,Kukuriku Coalition,2011,2011
+croatia,Croatia,81041,HSS-HSLS-PGS,Koalicija Hrvatske seljacke stranke i Hrvatske socijalno-liberalne stranke i Primorsko-Goranski Savez,"Coalition of the Croatian Peasant Party, the Croatian Social-liberal Party and the Primorian-Goranski Union",2007,2007
+croatia,Croatia,81042,HSLS-DC,Koalicija Hrvatske socijalno-liberalne stranke i Demokratskog centra,Coalition of the Croatian Social-liberal Party and the Democratic Centre,2003,2003
+croatia,Croatia,81111,SZH,Savez Zelenih Hrvatske,Green Alliance of Croatia,1990,1990
+croatia,Croatia,81112,ZAS,Zelena akcija – Split,Green Action of Split,1990,1990
+croatia,Croatia,81220,SKH-SDP,Socijaldemokratska Stranka Hrvatske-Stranka demokratskih promjena,Social Demokratic Party of Croatia - Party of Democratic Changes,1990,1995
+croatia,Croatia,81221,SSH,Socijalisticka stranka Hrvatske,Socialist Party of Croatia,1990,1990
+croatia,Croatia,81222,SSOH,Savez socijalisticke omladine Hrvatske,Union of Socialist Youth of Croatia,1990,1990
+croatia,Croatia,81223,SDP,Socijaldemokratska partija Hrvatska,Social Democratic Party of Croatia,1995,2007
+croatia,Croatia,81229,SKH-SDP-SSH,Savez komunista Hrvatske - Stranka demokratskih promjena i Socijalisticka stranka Hrvatske,League of Communists of Croatia - Party of Democratic Changes and Socialist Party of Croatia,1990,1990
+croatia,Croatia,81230,HL,Hrvatski laburisti - stranka rada,Croatian Labourists - Labour Party,2011,2011
+croatia,Croatia,81410,HSLS,Hrvatska socijalno-liberalna stranka,Croatian Social-Liberal Party,1992,1995
+croatia,Croatia,81411,LS,Liberalna stranka,Liberal Party,2000,2003
+croatia,Croatia,81420,KNS,Koalicija narodnog sporazuma,Coalition of People’s Accord,1990,1990
+croatia,Croatia,81430,HND,Hrvatski nezavisni demokrati,Croatian Independent Democrats,1995,1995
+croatia,Croatia,81440,,Nezavisna lista Ivana Grubišica,Independent List of Ivan Grubišic,2011,2011
+croatia,Croatia,81711,HDZ,Hrvatska demokratska zajednica,Croatian Democratic Union,1990,2011
+croatia,Croatia,81712,HNS,Hrvatska narodna stranka,Croatian People’s Party,1992,2007
+croatia,Croatia,81713,HSP,Hrvatska stranka prava,Croatian Party of Rights,1992,2003
+croatia,Croatia,81810,HSS,Hrvatska seljacka stranka,Croatian Peasant Party,1992,2011
+croatia,Croatia,81899,ZL,Zajednica lista,Joint List Bloc,1995,2000
+croatia,Croatia,81910,SDSS,Samostalna demokratska srpska stranka,Independent Democratic Serbian Party,2003,2011
+croatia,Croatia,81951,SNS,Srpska narodna stranka,Serbian People’s Party,1992,1992
+croatia,Croatia,81952,HDSSB,Hrvatski demokratski savez Slavonije i Baranje,Croatian Democratic Assembly of Slavonia and Baranja,2007,2011
+croatia,Croatia,81953,IDS,Istarski demokratski sabor,Istrian Democratic Assembly,1992,2007
+croatia,Croatia,81954,DA,Dalmatinska akcija,Dalmatian Action,1992,1992
+croatia,Croatia,81955,RiDS,Rijecki demokratski savez,Democratic Alliance of Rijeka,1992,1992
+croatia,Croatia,81956,SBHS,Slavonsko-Baranjska Hrvatska stranka,Croatian Party of Slavonia and Baranja,1995,1995
+croatia,Croatia,81957,HSU,Hrvatska stranka umirovljenika,Croatian Party of Pensioners,2003,2003
+croatia,Croatia,81959,DA-IDS-RDS,"Koalicija Dalmatinska akcija, Istarski demokratski savez i Rijecki demokratski savez","Coalititon of Dalmatian Action, Istrian Democratic Assembly and Democratic Alliance of Rijeka",1992,1992
+czech republic,Czech Republic,82110,SZ,Strana zelených,Green Party,2006,2013
+czech republic,Czech Republic,82220,KSC,Komunistická strana Czech a Moravy,Communist Party of Bohemia and Moravia,1990,2013
+czech republic,Czech Republic,82221,LB,Levý blok,Left Bloc,1992,1992
+czech republic,Czech Republic,82320,CSSD,Ceská strana sociálne demokratická,Czech Social Democratic Party,1992,2013
+czech republic,Czech Republic,82410,OF,Obcanské fórum,Civic Forum,1990,1990
+czech republic,Czech Republic,82412,ODA,Obcanská demokratická aliance,Civic Democratic Alliance,1992,1996
+czech republic,Czech Republic,82413,ODS,Obcanská demokratická strana,Civic Democratic Party,1992,2013
+czech republic,Czech Republic,82419,ODS-KDS,Obcanská demokratická strana - Krest'ansko-demokratická strana,Civic Democratic Party - Christian Democratic Party,1992,1992
+czech republic,Czech Republic,82420,LSU,Liberálne sociální unie,Liberal Social Union,1992,1992
+czech republic,Czech Republic,82421,US,Unie svobody,Freedom Union,1998,1998
+czech republic,Czech Republic,82430,ANO,ANO 2011,ANO 2011,2013,2013
+czech republic,Czech Republic,82520,CSL,Ceskoslovenská strana lidová,Czechoslovak People’s Party,1990,1990
+czech republic,Czech Republic,82521,KDS,Krest'ansko-demokratická strana,Christian Democratic Party,1992,1992
+czech republic,Czech Republic,82523,KDU-CSL,Krest'anská a demokratická unie - Ceská strana lidová,Christian and Democratic Union - Czech People's Party,1992,2013
+czech republic,Czech Republic,82524,KDU-CSL-US-DEU,Krest'anská a demokratická unie - Ceská strana lidová - Unie svobody - Demokratická unie,Christian and Democratic Union - Czech People's Party -  Freedom Union - Democratic Union,2002,2002
+czech republic,Czech Republic,82529,KDU,Krest'anská a demokratická unie,Christian and Democratic Union,1990,1990
+czech republic,Czech Republic,82530,TOP09,Tradice Odpovednost Prosperita 09,"Tradition, Responsibility, Prosperity 09",2010,2013
+czech republic,Czech Republic,82710,SPR-RSC,Sdruženi pro republiku - Republikánská strana Ceskoslovenska,Association for the Republic – Republican Party of Czechoslovakia,1992,2002
+czech republic,Czech Republic,82720,Úsvit,Úsvit prímé demokracie Tomia Okamury,Tomio Okamura's Dawn of Direct Democracy,2013,2013
+czech republic,Czech Republic,82901,DŽJ,Duchodci za životní jistoty,Pensioners for a Life Security,1996,1998
+czech republic,Czech Republic,82951,HSD-SMS,Hnutí za Samosprávnou Demokracii - Spolecnost pro Moravu a Slezsko,Movement for an Autonomous Democracy - Society for Moravia-Silesia,1990,1992
+czech republic,Czech Republic,82952,VV,Veci verejné,Public Affairs,2010,2010
+estonia,Estonia,83110,EER,Erakond Eestimaa Rohelise,Estonian Greens,2007,2011
+estonia,Estonia,83220,,Valimisliit ‘Kindel Kodu',Electoral Union ‘Secure Home',1992,1992
+estonia,Estonia,83320,ESDP,Eesti Sotsiaaldemokraatlik Partei,Estonian Social Democratic Party,1992,1992
+estonia,Estonia,83410,M,Rahvaerakond Mõõdukad,People’s Party Moderates,1992,2011
+estonia,Estonia,83411,K,Eesti Keskerakond,Estonian Center Party,1995,2011
+estonia,Estonia,83421,,Valimisliit ‘Rahvarinne',Electoral Union ‘Popular Front',1992,1992
+estonia,Estonia,83430,ER,Eesti Reformierakond,Estonian Reform Party,1995,2011
+estonia,Estonia,83610,VKRE,Vabariiklaste ja Konservatiivide Rahvaerakond ‘Parempoolsed',Republican and Conservative People’s Party ‘Right-wingers',1995,1995
+estonia,Estonia,83611,RP,Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,2003,2011
+estonia,Estonia,83612,ERL,Eestimaa Rahvaliit,Estonian People’s Union,2003,2011
+estonia,Estonia,83709,I/ERSP,Isamaa ja Eesti Rahvusliku Sõltumatuse Partei Liit,Electoral union Pro Patria and Estonian National Independence Party,1995,1995
+estonia,Estonia,83710,RKI,Erakond Isamaaliit,Pro Patria Union,1992,2003
+estonia,Estonia,83711,ERSP,Eesti Rahvusliku Sõltumatuse Partei,Estonian National Independence Party,1992,1992
+estonia,Estonia,83712,,Valimisliit ‘Eesti Kodanik',Electoral Union ‘Estonian Citizen',1992,1992
+estonia,Estonia,83713,KE,Eesti Koonderakond,Coalition Party,1995,1999
+estonia,Estonia,83719,KMÜ,Koonderakond ja Maarahva Ühendus,Coalition Party and Rural Union,1995,1995
+estonia,Estonia,83810,EME,Eesti Maarahva Erakond,Estonian Rural People’s Party,1999,1999
+estonia,Estonia,83901,,Valimisliit ‘Sõltumatud Kuningriiklased',Electoral Union ‘Independent Royalists',1992,1992
+estonia,Estonia,83951,,Valimisliit ‘Meie Kodu on Eestimaa',Electoral Union ‘Our Home is Estonia',1995,1995
+estonia,Estonia,83952,EÜRP,Eestimaa Ühendatud Rahvapartei,Estonian United People’s Party,1999,1999
+georgia,Georgia,84041,,Gaertianebuli Opozitsia (Erovnuli Sabcho/Memarjveneeba),United Opposition (National Council/Rights),2008,2008
+georgia,Georgia,84042,,Bidzina Ivanishvili - Kartuli Otsneba,Bidzina Ivanishvili - Georgian Dream,2012,2012
+georgia,Georgia,84095,,Mrgvali Magida -Tavisufali Saqar Tvelo,Round Table - Free Georgia,1990,1990
+georgia,Georgia,84110,Greens,Sak'art'velos Mtsvaneta Partia,Green Party of Georgia,1992,1992
+georgia,Georgia,84220,SKP,Sak'art'velos Komunisturi Partia,Communist Party of Georgia,1990,1990
+georgia,Georgia,84221,Mshvidoba,Saarchevno Blok ‘Mshvidoba’,Election Bloc ‘Peace’,1992,1992
+georgia,Georgia,84222,SMSP,Sak'art'velos Mshromelta Sotsialisturi Partia,Georgian Workers’ Socialist Party,1992,1992
+georgia,Georgia,84223,SSP,Sak'art'velos Sotsialisturi Partia,Socialist Party of Georgia,1995,1999
+georgia,Georgia,84321,SSDP,Sak'art'velos Sotsial-Demokratiuli Partia,Social Democratic Party of Georgia,1992,1992
+georgia,Georgia,84322,SSSK,Sak'art'velos Sotsialuri Samartlianobis Kavshiri,Georgian Social Justice Union,1992,1992
+georgia,Georgia,84323,SMK,Sak'art'velos Mokalaketa Kavshiri,Citizens’ Union of Georgia,1995,1999
+georgia,Georgia,84411,,Kartia – 91,Charter 91,1992,1992
+georgia,Georgia,84421,,Saarchevno Bloki ‘Tertmeti Oktomberi’,Election Bloc ‘Oktober 11’,1992,1992
+georgia,Georgia,84422,,Blok ‘Ertoba’,‘Unity' Bloc,1992,1992
+georgia,Georgia,84423,DP,Demokratiuli Partia,Democratic Party,1992,1992
+georgia,Georgia,84424,SSAK,Bloki ‘Sak'art'velos Aghordzineba’,Bloc ‘Georgia's Revival’,1995,2003
+georgia,Georgia,84425,BP,Bloki ‘Progresi’,Bloc ‘Progress’,1995,1995
+georgia,Georgia,84426,PKT,Politikuri Kavshiri ‘Tanadgoma’,Political Alliance ‘Support’,1995,1995
+georgia,Georgia,84427,SRKET,Sak'art'velos Reformatorta Kavshiri - Erovnuli Tankhmoba,Reformers' Union of Georgia - National Concord,1995,1995
+georgia,Georgia,84428,MGS,Mretsvelopba Gadaarchens Sak'art'velos,Industry will save Georgia,1999,2004
+georgia,Georgia,84429,SLP,Sak'art'velos Leiboristuli Partia,Georgian Labour Party,2003,2008
+georgia,Georgia,84430,BD,Bloki ‘Burjanadze - Demokratebi’,Burjanadze - Democrats Bloc,2003,2003
+georgia,Georgia,84431,AM,Akhali Memarjveneebi,New Rights,2003,2004
+georgia,Georgia,84432,AS,Saarchevno Bloki ‘Axali Sak'art'velostvis’,Election Bloc ‘For a New Georgia’,2003,2003
+georgia,Georgia,84440,Respublikelebi,Sak’art’velos Respublikuri Partia,Republican Party of Georgia,2008,2008
+georgia,Georgia,84521,SGK,Sak'art'velos Ghvtisshvilta Kavshiri,Union of God’s Children of Georgia,1992,1992
+georgia,Georgia,84530,KDM,K’ristianul-Demokratiuli Modzraoba,Christian-Democratic Movement,2008,2008
+georgia,Georgia,84710,KTK,Kartvel Traditsionalista Kavshiri,Union of Georgian Traditionalists,1992,1995
+georgia,Georgia,84711,EDP,Erovnul Demokratiuli Partia,National Democratic Party,1992,1995
+georgia,Georgia,84712,ICS,Ilia Chavchavadzis Sazogadoeba,Ilia Chavchavadze Society,1992,1992
+georgia,Georgia,84713,SSMKS,Sruliad Sak'art'velos Merab Kostavas Sazogadoeba,Merab Kostava Society,1992,1992
+georgia,Georgia,84714,SETAK,Sak'art'velos Erovnuli Tankhmobis da Aghorzinebis Kavshiri,Union of National Agreement and Revival of Georgia,1992,1992
+georgia,Georgia,84715,SEDP,Sak'art'velos Erovnuli Damoukideblobis Partia,Georgian National Independent Party,1992,1992
+georgia,Georgia,84716,S-NM,Ertiani Natsionaluri Modzraoba,United National Movement,2003,2012
+georgia,Georgia,84720,,Sakhalkho Fronti,Popular Front,1990,1990
+georgia,Georgia,84810,SSFK,Sruliad Sak'art'velos Fermerta Kavshiri,All-Georgian Farmers’ Union,1992,1992
+georgia,Georgia,84951,KMSP,Khalkhta Megobrobis da Samartlianobis Partia,People’s Friendship and Justice,1992,1992
+georgia,Georgia,84952,,Demokratiuli Saqartvelo,Democratic Georgia,1990,1990
+german democratic republic,German Democratic Republic,85111,Grüne-UFV,Grüne Partei-Unabhängiger Frauenverband,Green Party-Independent Women's League,1990,1990
+german democratic republic,German Democratic Republic,85112,B 90,Bündnis 90,Alliance 90,1990,1990
+german democratic republic,German Democratic Republic,85210,AVL,Aktionsbündnis Vereinigte Linke,United Left Action Alliance,1990,1990
+german democratic republic,German Democratic Republic,85221,PDS,Partei des Demokratischen Sozialismus,Party for Democratic Socialism,1990,1990
+german democratic republic,German Democratic Republic,85320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1990,1990
+german democratic republic,German Democratic Republic,85421,FDP,Freie Demokratische Partei,Free Democratic Party,1990,1990
+german democratic republic,German Democratic Republic,85422,LDP,Liberal-Demokratische Partei,Liberal Democratic Party,1990,1990
+german democratic republic,German Democratic Republic,85423,DFP,Deutsche Forumpartei,German Forum Party,1990,1990
+german democratic republic,German Democratic Republic,85424,NDPD,National-Demokratische Partei Deutschlands,National Democratic Party of Germany,1990,1990
+german democratic republic,German Democratic Republic,85429,BFD,Bund Freier Demokraten,Alliance of Free Democrats,1990,1990
+german democratic republic,German Democratic Republic,85521,CDU,Christlich Demokratische Union,Christian Democratic Union,1990,1990
+german democratic republic,German Democratic Republic,85522,DSU,Deutsche Soziale Union,German Social Union,1990,1990
+german democratic republic,German Democratic Republic,85523,DA,Demokratischer Aufbruch - ‘sozial und ökologisch’,Democratic Opening,1990,1990
+german democratic republic,German Democratic Republic,85524,DBD,Demokratische Bauernpartei Deutschlands,Democratic Peasants’ Party of Germany,1990,1990
+german democratic republic,German Democratic Republic,85901,DFD,Demokratischer Frauenbund Deutschlands,Democratic Women’s League,1990,1990
+hungary,Hungary,86061,FiDeSz-MPSz-KDNP,Szövetség Fiatal Demokraták Szövetsége - Magyar Polgári Szövetség - Kereszténydemokrata Néppárt,Alliance of Federation of Young Democrats - Hungarian Civic Union - Christian Democratic People's Party,2006,2014
+hungary,Hungary,86110,LMP,Lehet Más Politika!,Politics Can Be Different,2010,2014
+hungary,Hungary,86220,MSzP,Magyar Szocialista Párt,Hungarian Socialist Party,1990,2014
+hungary,Hungary,86221,DK,Demokratikus Koalícío,Democratic Coalition,2014,2014
+hungary,Hungary,86320,MSzDP,Magyarországi Szociáldemokrata Párt,Hungarian Social Democratic Party,1990,2010
+hungary,Hungary,86340,E14-PM,Együtt 2014 – Párbeszéd Magyarországért Választási Szövetség,Together 2014 -Dialogue for Hungary Electoral Alliance,2014,2014
+hungary,Hungary,86421,FiDeSz,Fiatal Demokraták Szövetsége - Magyar Polgári Szövetség,Federation of Young Democrats - Hungarian Civic Union,1990,2010
+hungary,Hungary,86422,SzDSz,Szabad Demokraták Szövetsége,Alliance of Free Democrats,1990,2006
+hungary,Hungary,86429,FiDeSz-MPP-MDF,FiDeSz-MPP-MDF-Szövetség,FiDeSz-MPP-MDF-Alliance,1998,2002
+hungary,Hungary,86521,MDF,Magyar Demokrata Fórum,Hungarian Democratic Forum,1990,2006
+hungary,Hungary,86522,KDNP,Kerezténydemokrata Néppárt,Christian Democratic People’s Party,1990,1998
+hungary,Hungary,86529,MDF-FiDeSz-MPP,MDF-FiDeSz-MPP-Szövetsége,MDF-FiDeSz-MPP-Alliance,1998,1998
+hungary,Hungary,86620,MIÉP,Magyar Igazság és Élet Párt,Hungarian Justice and Life Party,1998,1998
+hungary,Hungary,86710,Jobbik,Jobbik Magyarországért Mozgalom,Movement for a Better Hungary,2010,2014
+hungary,Hungary,86810,FKgP,Független Kisgazda Párt,Independent Smallholders’ Party,1990,2002
+hungary,Hungary,86811,ASz,Agrárszövetsége,Agrarian Alliance,1990,1990
+latvia,Latvia,87021,SC,Saskanas Centrs,Concord Centre,,
+latvia,Latvia,87062,,Vienotiba,Unity,,
+latvia,Latvia,87071,NA,Nacionala apvieniba ‘Visu Latvijai!' – ‘Apvieniba Tevzemei un brivibai - Latvijas Nacionalas neatkaribas kustiba',National Alliance ‘All For Latvia!' – ‘For Fatherland and Freedom - Latvian National Independence Movement',,
+latvia,Latvia,87110,ZZS,Zalo un Zemnieku savieniba,Greens' and Farmers’ Union,2002,2002
+latvia,Latvia,87220,SLAT,Saskana Latvijai - Atdzimšana Tautsaimniecibai,Harmony for Latvia - Rebirth of the Economy,1993,1993
+latvia,Latvia,87310,LSP,Latvijas Socialistiska partija,Latvian Socialist Party,1995,1995
+latvia,Latvia,87311,LSDA,Latvijas Socialdemokratu apvieniba,Latvian Social Democratic Alliance,1998,1998
+latvia,Latvia,87320,LVP,Latvijas Vienibas partija,Latvian Unity Party,1995,1995
+latvia,Latvia,87410,LC,Savieniba ‘Latvijas celš',Latvian Way Union,1993,2002
+latvia,Latvia,87411,DPS,Demokratiska partija ‘Saimnieks',Democratic Party ‘Saimnieks’,1995,1995
+latvia,Latvia,87420,LLP,Latvijas Liberala partija,Latvian Liberal Party,1993,1993
+latvia,Latvia,87421,TSP,Tautas Saskanas partija,National Harmony Party,1995,1998
+latvia,Latvia,87422,PCTVL,Par cilveka tiesibam vienota Latvija,For Human Rights in a United Latvia,2002,2002
+latvia,Latvia,87423,JL,Jaunais laiks,New Era,2002,2002
+latvia,Latvia,87430,DCP,Demokratiska centra partija,Democratic Centre Party,1993,1993
+latvia,Latvia,87431,JP,Jauna partija,New Party,1998,1998
+latvia,Latvia,87520,KDS,Kristigi demokratiska savieniba,Christian Democratic Union,1993,1993
+latvia,Latvia,87521,LPP,Latvijas Pirma partija,Latvia’s First Party,2002,2002
+latvia,Latvia,87610,TP,Tautas partija,People’s Party,1998,2002
+latvia,Latvia,87611,LNNK-LZP,Koalicija Latvijas Nacionala Konservativa Partija un Latvijas Zala Partija,Coalition Latvian National Conservative Party and Latvian Green Party,1995,1995
+latvia,Latvia,87710,LNNK,Latvijas Nacionalas neatkaribas kustiba,Latvian National Independence Movement,1993,1993
+latvia,Latvia,87721,TB,Tevzemei un brivibai,For Fatherland and Freedom,1993,1995
+latvia,Latvia,87722,TKL-ZP,Tautas Kustiba ‘Latvijai'-Zigerista partija,Popular Movement for Latvia-Zigerista Party,1995,1995
+latvia,Latvia,87723,TB-LNNK,Apvieniba Tevzemei un brivibai - Latvijas Nacionalas neatkaribas kustiba,For Fatherland and Freedom - Latvian National Independence Movement,1998,2002
+latvia,Latvia,87810,LZS,Latvijas Zemnieku savieniba,Latvian Farmers’ Union,1993,1993
+latvia,Latvia,87811,LZS-LKDS-LDP,"Koalicija Latvijas Zemnieku savieniba, Latvijas Kristîgi demokratu savieniba un Latgales demokratiska partija","Coalition of Latvian Farmers' Union, Latvian Christian Democratic Union and Democratic Party of Latgale",1995,1995
+latvia,Latvia,87951,L,Lidztiesiba,Equal Rights,1993,1993
+lithuania,Lithuania,88031,UdL,Koalicija ‘Už darba Lietuvai',Working for Lithuania,2004,2004
+lithuania,Lithuania,88041,UTT,Rolando Pakso Koalicijos ‘Už Tvarka ir teisinguma',Coalition of Rolandas Paksas ‘For Order and Justice',2004,2004
+lithuania,Lithuania,88042,,Koalicija Darbo partija + Jaunimas,Coalition Labour Party and Youth,2008,2008
+lithuania,Lithuania,88220,LDDP,Lietuvos demokratine darbo partija,Lithuanian Democratic Labour Party,1992,1996
+lithuania,Lithuania,88320,LSDP,Lietuvos socialdemokratu partija,Lithuanian Social Democratic Party,1992,2012
+lithuania,Lithuania,88321,BSDK,A. Brazausko socialdemokratine koalicija,A. Brazauskas Social Democratic Coalition,2000,2000
+lithuania,Lithuania,88410,NS,Naujoji sajunga (socialliberalai),New Union (Social Liberals),2000,2000
+lithuania,Lithuania,88420,LCJ,Lietuvos centro sajunga,Lithuanian Centre Union,1992,2000
+lithuania,Lithuania,88421,SK,Sajudis koalicija,Sajudis Coalition,1992,1992
+lithuania,Lithuania,88422,LLS,Lietuvos liberalu sajunga,Lithuanian Liberal Union,2000,2000
+lithuania,Lithuania,88430,LiCS,Liberalu ir centro sajunga,Liberal and Centre Union,2004,2008
+lithuania,Lithuania,88440,DP,Darbo Partija,Labour Party,2004,2012
+lithuania,Lithuania,88450,LRLS,Lietuvos respublikos Liberalu sajudis,Liberal Movement,2008,2012
+lithuania,Lithuania,88460,PTT,Partija tvarka ir teisingumas,Order and Justice,2008,2012
+lithuania,Lithuania,88521,LKDP,Lietuvos krikšcioniu demokratu partija,Lithuanian Christian Democratic Party,1992,2000
+lithuania,Lithuania,88522,LDP,Lietuvos demokratu partija,Lithuanian Democratic Party,1992,1996
+lithuania,Lithuania,88523,LPKTS,Lietuvos politiniu kaliniu ir tremtiniu sajunga,Lithuanian Union of Political Prisoners and Deportees,1992,1992
+lithuania,Lithuania,88529,LKDPK,Lietuvos krikšcioniu demokratu partija koalicija,Lithuanian Christian Democratic Party Coalition,1992,1992
+lithuania,Lithuania,88620,TS,Tevynes sajunga,Homeland Union,1996,2004
+lithuania,Lithuania,88621,TS-LKD,Tevynes sajunga- Lietuvos krikšcionys demokratai,Homeland Union - Lithuanian Christian Democrats,2008,2012
+lithuania,Lithuania,88630,TPP,Tautos prisikelimo partija,National Resurrection Party,2008,2008
+lithuania,Lithuania,88710,LTS,Lietuviu tautininku sajunga,Lithuanian National Union,1992,1992
+lithuania,Lithuania,88810,LVP,Lietuvos valstieciu partija,Lithuanian Peasants Party,2000,2000
+lithuania,Lithuania,88820,VNDS,Lietuvos valstieciu ir žaliuju sajunga,Lithuanian Peasant and Green Union,2004,2012
+lithuania,Lithuania,88951,LLS,Lietuvos lenku rinkimu akcija,Election Action of Lithuania’s Poles,1992,2012
+lithuania,Lithuania,88952,DK,Drasos kelias,The Way of Courage,2012,2012
+macedonia,Macedonia,89031,GROM,Graganska Opcija za Maekedonija,Coalition Civic Option for Macedonia,2014,2014
+macedonia,Macedonia,89221,SKM-PDP,Socijaldemokratski Sojuz na Makedonija,Social-Democratic League of Macedonia,1990,2014
+macedonia,Macedonia,89222,SRSM,Liberalna Partija,Liberal Party,1990,1994
+macedonia,Macedonia,89223,MDPSM,Mlada Demokratsko-Progresivna Stranka na Makedonija,Young Democratic Progressive Party of Macedonia,1990,1990
+macedonia,Macedonia,89224,LDP,Liberalno Demokratska Partija,Liberal Democratic Party,1998,2011
+macedonia,Macedonia,89227,SM,Sojuz na Makedonija,Union of Macedonia,1994,1994
+macedonia,Macedonia,89228,SPM/MDPSM/SRSM,Socijalisticka Partija na Makedonija/Mlada Demokratsko-Progresivna Stranka na Makedonija/Sojuz na Reformskite Sili na Makedonija,Joint Candidates of Socialist Party of Macedonia/Young Democratic Progressive Party of Macedonia/Alliance of Reform Forces of Macedonia,1990,1990
+macedonia,Macedonia,89229,SPM/MDPSM/SRSM/PCER,Socijalisticka Partija na Makedonija/Mlada Demokratsko-Progresivna Stranka na Makedonija/Sojuz na Reformskite Sili na Makedonija/Partija za Celosna Emancipacija na Romite,Joint Candidates of Socialist Party of Macedonia/Young Democratic Progressive Party of Macedonia/Alliance of Reform Forces of Macedonia/Party for the Complete Emancipation of the Roma,1990,1990
+macedonia,Macedonia,89230,NSDP,Nova Socijaldemokratska Partija,New Social Democratic Party,2006,2011
+macedonia,Macedonia,89320,SPM,Socijalisticka Partija na Makedonija,Socialist Party of Macedonia,1990,2011
+macedonia,Macedonia,89321,DA,Demokratska Alternativa,Democratic Alternative,1998,1998
+macedonia,Macedonia,89330,DOM,Demokratska Obnova na Makedonija,Democratic Renewal of Macedonia,2011,2011
+macedonia,Macedonia,89420,SJM,Stranka na Jugoslovenite vo Makedonija,Party of Yugoslavs in Macedonia,1990,1990
+macedonia,Macedonia,89430,LPM,Liberalna Partija na Makedonija,Liberal Party of Macedonia,2002,2006
+macedonia,Macedonia,89511,VMRO-NP,Vnatrešna Makedonska Revolucionerna Organizacija - Narodna Partija,Internal Macedonian Revolutionary Organization–People's Party,2006,2006
+macedonia,Macedonia,89710,VMRO-DPMNE,Vnatrešna Makedonska Revolucionerna Organizacija - Demokratska Partija za Makedonsko Nacionalno Edinstvo,Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity,1990,2014
+macedonia,Macedonia,89810,PEI,Partija za Evropska Idnina,Party for European Future,2011,2011
+macedonia,Macedonia,89910,DPA/PDSh,Demokratska partija na Albancite/Partia Demokratike Shqiptare,Democratic Party of Albanians,2002,2014
+macedonia,Macedonia,89920,DPT/TDP,Demokratska Partija na Turcite/Türk Demokratik Partisi,Democratic Party of Turks,2006,2006
+macedonia,Macedonia,89930,NDP/RDK,Nacionalna Demokratska Prerodba/Rilindja Demokratike Kombëtare,National Democratic Revival,2011,2014
+macedonia,Macedonia,89940,DUI/BDI,Demokratska unija za integracija/Bashkimi Demokratik për Integrim,Democratic Union for Integration,2002,2014
+macedonia,Macedonia,89951,PDPM,Partija za Demokratski Prosperitet,Party for Democratic Prosperity,1990,2002
+macedonia,Macedonia,89952,PDP,Narodna Demokratska Partija/Partisë Demokratike Popullore,People’s Democratic Party,1990,1998
+macedonia,Macedonia,89953,PCER,Partija za Celosna Emancipacija na Romite,Party for the Complete Emancipation of the Roma,1990,1990
+macedonia,Macedonia,89959,PDPM/PDP,Partija za Demokratski Prosperitet vo Makedonija/Partisë Demokratike Popullore,Joint Candidates of Party for Democratic Prosperity in Macedonia/People’s Democratic Party,1990,1990
+moldova,Moldova,90220,PSMUE,Blocul electoral Partidul Socialist si Miscarea ‘Unitate-Edinstvo’,Electoral Bloc of the Socialist Party and the Movement ‘Unity',1994,1994
+moldova,Moldova,90221,PCRM,Partidul Comunistilor din Republica Moldova,Party of Communists of the Republic of Moldova,1998,2010
+moldova,Moldova,90320,BMD,Blocul electoral ‘Moldova Democrata',Electoral Bloc ‘Democratic Moldova',2005,2005
+moldova,Moldova,90321,AMN,Alianta Moldova Noastra,Our Moldova Alliance,2009,2009
+moldova,Moldova,90330,PDM,Partidul Democrat din Moldova,Democratic Party of Moldova,2009,2010
+moldova,Moldova,90410,PFD,Partidul Fortelor Democratice,Party of Democratic Forces,1998,1998
+moldova,Moldova,90420,PMDP,Blocul Electoral ‘Pentru o Moldova Democratica si Prospera',Electoral Bloc ‘For a Democratic and Prosperous Moldova',1998,1998
+moldova,Moldova,90430,PLDM,Partidul Liberal Democrat din Moldova,Liberal Democratic Party of Moldova,2009,2010
+moldova,Moldova,90520,AFPCD,Partidul Popular Crestin si Democrat,Christian Democratic People’s Party,1994,2005
+moldova,Moldova,90610,CDM,Blocul Electoral ‘Conventia Democrata din Moldova',Electoral Bloc ‘Democratic Convention of Moldova',1998,1998
+moldova,Moldova,90620,PL,Partidul Liberal,Liberal Party,2009,2010
+moldova,Moldova,90810,PDAM,Partidul Democrat Agrar din Moldova,Agrarian Democratic Party of Moldova,1994,1994
+moldova,Moldova,90951,BTI,Blocul Taranilior si Intelectualilor,Bloc of Peasants and Intellectuals,1994,1994
+moldova,Moldova,90952,BEAB,Blocul Electoral ‘Alianta Braghis',Electoral Block ‘Braghis Alliance',2001,2001
+montenegro,Montenegro,91220,SKCG,Demokratska Partija Socijalista Crne Gore,Democratic Party of Socialists of Montenegro,1990,1996
+montenegro,Montenegro,91222,PSCG,Partija Socijalista Crne Gore,Socialist Party of Montenegro,1990,1990
+montenegro,Montenegro,91223,SP,Socijalisticka Partija,Socialist Party,1990,1990
+montenegro,Montenegro,91224,SNP CG,Socijalisticka Narodna Partija Crne Gore,Socialist People’s Party of Montenegro,1998,1998
+montenegro,Montenegro,91229,SRSCG,Savez Reformskih Snaga za Crnu Goru,Alliance of Reform Forces for Montenegro,1990,1990
+montenegro,Montenegro,91320,SDPR,Socijaldemokratska Partija Reformista,Social-Democratic Party of Reformists,1992,1992
+montenegro,Montenegro,91321,SDP CG,Socijaldemokratska Partija Crne Gore,Social Democratic Party of Montenegro,1996,1996
+montenegro,Montenegro,91322,DPSCG,Demokratska Partija Socijalista Crne Gore,Democratic Party of Socialists of Montenegro,1998,1998
+montenegro,Montenegro,91323,DZB,Da Živimo Bolje,For a Better Live,1998,1998
+montenegro,Montenegro,91420,LSCG,Liberalni Savez Crne Gore,Liberal Alliance of Montenegro,1990,2002
+montenegro,Montenegro,91710,NS,Narodna Stranka,People’s Party,1990,1996
+montenegro,Montenegro,91711,SRS,Srpska Radikalna Stranka,Serbian Radical Party,1992,1992
+montenegro,Montenegro,91951,SNR,Stranka Nacionalne Ravnopravnosti,Party of National Equality,1990,1990
+montenegro,Montenegro,91952,DSCG,Demokratski Savez u Crnoj Gori,Democratic League in Montenegro,1990,1990
+montenegro,Montenegro,91953,SDACG,Stranka Demokratske Akcije Crne Gore,Democratic Action Party of Montenegro,1996,1996
+montenegro,Montenegro,91959,DK,Demokratska Koalicija,Democratic Coalition,1990,1990
+poland,Poland,92021,LiD,Lewica i Demokraci,Left and Democrats,2007,2007
+poland,Poland,92210,SLD,Sojusz Lewicy Demokratycznej,Democratic Left Alliance,1991,2011
+poland,Poland,92211,SD,Stronnictwo Demokratyczne,Democratic Party,1991,1991
+poland,Poland,92212,SLD-UP,Koalicja Sojuszu Lewicky Demokratycznej i Unii Pracy,Coalion of the Democratic Left Alliance and the Union of Labour,2001,2001
+poland,Poland,92320,NSZZ,Niezalezny Samorzadny Zwiazek Zawodowy ‘Solidarnosc’,Independent Self-governing Trade Union ‘Solidarity’,1991,1991
+poland,Poland,92321,SP,Solidarnosc Pracy,Labour Solidarity,1991,1991
+poland,Poland,92322,UP,Unia Pracy,Union of Labour,1993,1997
+poland,Poland,92410,UD,Unia Demokratyczna,Democratic Union,1991,1993
+poland,Poland,92420,KLD,Kongres Liberalno-Demokratyczny,Liberal-Democratic Congress,1991,1991
+poland,Poland,92431,PPPP,Polska Partia Przyjaciol Piwa,Polish Beer-Lovers' Party,1991,1991
+poland,Poland,92432,UPR,Unia Polityki Realnej,Union of Real Politics,1991,1991
+poland,Poland,92433,PPG,Polski Program Gospodarczy (Duze Piwo),Polish Economic Program (Large Beer),1991,1991
+poland,Poland,92434,UW,Unia Wolnósci,Freedom Union,1997,1997
+poland,Poland,92435,PO,Platforma Obywatelska,Civic Platform,2001,2011
+poland,Poland,92436,PiS,Prawo i Sprawiedliwosc,Law and Justice,2001,2011
+poland,Poland,92440,RP,Ruch Palikota,Palikot's Movement,2011,2011
+poland,Poland,92520,ChDSP,Chrzescijansko-Demokratyczne Stronnictwo Pracy,Christian Democratic Labour Party,1991,1991
+poland,Poland,92521,POC,Porozumienie Obywatelskie Centrum,Centre Citizens’ Alliance,1991,1991
+poland,Poland,92522,PChD,Partia Chrzescijanskich Demokratów,Party of Christian Democrats,1991,1991
+poland,Poland,92523,RdR,Ruch dla Rzeczpospolitej,Movement for the Republic,1991,1991
+poland,Poland,92530,WAK,Wyborcza Akcja Katolickia,Catholic Electoral Action,1991,1991
+poland,Poland,92620,AWS,Akcja Wyborcza ‘Solidarnosc',Electoral Action ‘Solidarity',1997,1997
+poland,Poland,92621,ROP,Ruch Odbudowy Polski,Movement for the Reconstruction of Poland,1997,1997
+poland,Poland,92622,SRP,Samoobrona Rzeczypospolitej Polskiej,Self-Defence of the Polish Republic,2001,2005
+poland,Poland,92710,KPN,Konfederacja Polski Niepodleglej,Confederation for an Independent Poland,1991,1993
+poland,Poland,92711,PZZ,Polski Zwiazek Zachodni,Polish Western Union,1991,1991
+poland,Poland,92712,PX,Partia X,Party X,1991,1991
+poland,Poland,92713,LPR,Liga Polskich Rodzin,League of Polish Families,2001,2005
+poland,Poland,92810,PL,Porozumienie Ludowe,Peasant Accord,1991,1991
+poland,Poland,92811,PSL,Polskie Stronnictwo Ludowe,Polish Peasants' Party,1991,2011
+poland,Poland,92901,BBWR,Bezpartyjny Blok Wspierania Reform,Non-Party Bloc in Support of Reforms,1993,1993
+poland,Poland,92952,RAS,Ruch Autonomii Slaska,Movement for the Autonomy of Silesia,1991,1991
+poland,Poland,92953,MN,Mniejszosc Niemiecka,German Minority,1991,2011
+romania,Romania,93001,PSD-PUR,Uniunea Nationala PSD+PUR,National Union PSR+PUR,2004,2004
+romania,Romania,93002,PSD-PC,Alianta Politica Partidul Social Democrat + Partidul Conservator,Social Democratic Party + Conservative Party Alliance,2008,2008
+romania,Romania,93031,USL,Uniunea Social Liberala,Social Liberal Union,2012,2012
+romania,Romania,93041,ADA,Alianta Dreptate si Adevar,Justice and Truth Alliance,2004,2004
+romania,Romania,93061,ARD,Alianta România Dreapta,Right Romania Alliance,2012,2012
+romania,Romania,93111,MER,Miscarea Ecologista din România,Ecological Movement of Romania,1990,1990
+romania,Romania,93112,PER,Partidul Ecologist Român,Romanian Ecological Party,1990,1990
+romania,Romania,93221,FSN,Partidul Democrat - Frontul Salvarii Nationale,Democratic Party - National Salvation Front,1990,2000
+romania,Romania,93222,PSDR,Partidul Socialist Democratic Român,Romanian Socialist Democratic Party,1990,1990
+romania,Romania,93223,FDSN,Partidul Democratiei Sociale din România,Party of Social Democracy of Romania,1992,2000
+romania,Romania,93320,PSDR,Partidul Social Democrat Român,Romanian Social Democratic Party,1990,1990
+romania,Romania,93322,USD,Uniunea Social Democrat,Social Democratic Union,1996,1996
+romania,Romania,93411,CDR,Conventia Democrata România,Democratic Convention of Romania,1992,1996
+romania,Romania,93430,PNL,Partidul National Liberal,National Liberal Party,1990,2008
+romania,Romania,93521,PNTCD,Partidul National Taranesc Crestin si Democrat,Christian Democratic National Peasants’ Party,1990,1990
+romania,Romania,93523,PND,Partidul National Democrat,National Democratic Party,1990,1990
+romania,Romania,93524,FDRT,Frontul Democrat Român din Timisoara,Romanian Democratic Front from Timisoara,1990,1990
+romania,Romania,93529,GDC,Grupul Democrat de Centru,Democratic Group of the Centre,1990,1990
+romania,Romania,93530,PDL,Partidul Democrat Liberal,Democratic Liberal Party,2008,2008
+romania,Romania,93711,PUNR,Partidul Unitãtii Natiunii Române,Romanian National Unity Party,1990,1996
+romania,Romania,93712,PRM,Partidul România Mare,Greater Romania Party,1992,2004
+romania,Romania,93713,PSM,Partidul Socialist al Muncii,Socialist Labour Party,1992,1992
+romania,Romania,93714,PR,Partidul Republican,Republican Party,1990,1990
+romania,Romania,93719,AUR,Alianta pentru Unitatea Românilor,Romanian Unity Alliance,1990,1990
+romania,Romania,93810,PDAR,Partidul Democrat Agrar din România,Democratic Agrarian Party of Romania,1990,1992
+romania,Romania,93951,UDMR/RMDSz,Uniunea Democratã Maghiarã din România/ Romániai Magyar Demokrata Szövetség,Hungarian Democratic Alliance of Romania,1990,2012
+romania,Romania,93981,PP-DD,Partidul Poporului - Dan Dianconescu,People's Party - Dan Dianconescu,2012,2012
+russia,Russia,94221,KPRF,Kommunisticheskaya Partiya Rossijskoi Federatsii,Communist Party ot the Russian Federation,1993,2011
+russia,Russia,94222,APR,Agrarnaya Partiya Rossii,Agrarian Party of Russia,1993,2003
+russia,Russia,94223,ZR,Zhenshchiny Rossii,Women of Russia,1993,1995
+russia,Russia,94224,DM,Dostoinstvoi i Miloserdie,Dignity and Charity,1993,1993
+russia,Russia,94225,VN,Vlast Narodu!,Power to the People!,1995,1995
+russia,Russia,94310,Rodina,Rodina - Narodno-Patrioticheskij Soyuz,Motherland - People's Patriotic Union,2003,2003
+russia,Russia,94320,RDDR,Rossijskoe Dvizheniye Demokraticheskikh Reform,Russian Movement for Democratic Reform,1993,1993
+russia,Russia,94321,IBIR,Blok Ivana Rybkina,Ivan Rybkin’s Bloc,1995,1995
+russia,Russia,94421,DVR,Demokraticheskij Vybor Rossii,Russia’s Democratic Choice,1993,1995
+russia,Russia,94422,Yabloko,Rossijskaya Obyedinyonnaya Demokraticheskaya Partiya ‘Yabloko',Russian United Democratic Party ‘Yabloko',1993,2003
+russia,Russia,94423,PRES,Partiya Rossijskogo Edinstva I Soglasiya,Party of Russian Unity and Accord,1993,1993
+russia,Russia,94424,NDR,Nash Dom - Rossiya,Our Home - Russia,1995,1999
+russia,Russia,94425,VR,"Vpered, Rossiya!","Forward, Russia!",1995,1995
+russia,Russia,94426,PGL,Pamfilova - Gurov - V. Lysenko  Blok (Respublikanskaya Partija Rossii),Pamfilova - Gurov - V. Lysenko Bloc (Republican Party of Russia),1995,1995
+russia,Russia,94427,DVR-OD,Demokraticheskij Vybor Rossii – Ob’edinennye Demokraty,Russia’s Democratic Choice – United Democrats,1995,1995
+russia,Russia,94620,Yedinstvo,Mezhregional’noye Dvizhenie ‘Edinstvo',Inter-Regional Movement ‘Unity',1999,1999
+russia,Russia,94621,SPS,Soyuz Pravykh Sil,Union of Right Forces,1999,2003
+russia,Russia,94622,OVR,Otechestvo - Vsya Rossiya,Fatherland - All Russia,1999,1999
+russia,Russia,94710,BZ,Blok Zhirinovskogo,Zhirinovsky Bloc,1999,1999
+russia,Russia,94711,LDPR,Liberal’no Demokraticheskaya Partiya Rossii,Liberal Democratic Party of Russia,1993,2011
+russia,Russia,94712,DPR,Demokraticheskaya Partiya Rossii,Democratic Party of Russia,1993,1993
+russia,Russia,94713,KRO,Kongress Russkikh Obshchin,Congress of Russian Communities,1995,1995
+russia,Russia,94901,SR,Spravedlivaya Rossiya,Just Russia,2007,2011
+russia,Russia,94951,ER,Edinaya Rossiya,United Russia,2003,2011
+serbia,Serbia,95021,SPS/PUPS/JS,Socijalisticka Partija Srbije/Partija Ujedinjenih Penzionera Srbija/Jedinstvena Srbija,Socialist Party of Serbia/Party of United Pensioners of Serbia/United Serbia,2012,2014
+serbia,Serbia,95040,ZES,Za Evropsku Srbiju,For a European Serbia Alliance,2008,2008
+serbia,Serbia,95041,,Izbor za bolji život - Boris Tadic,Choice For a Better Life – Boris Tadic,2012,2012
+serbia,Serbia,95042,,Preokret – Cedomir Jovanovic,Turnover – Cedomir Jovanovic,2012,2012
+serbia,Serbia,95045,N/L/Z/V/Z/D,Nova demokratska stranka - Zeleni/Liga socijaldemokrata Vojvodine/Zajedno za Srbiju/Demokratska zajednica vojvodanskih Madara/Zajedno za Vojvodinu/Demokratska levica Roma,New Democratic Party-Greens/League of Social Democrats of Vojvodina/Together for Serbia/Democartic Fellowship of Vojvodina Hungarians/Together for Vojvodina/Democratic Left of Roma,2014,2014
+serbia,Serbia,95060,SPO/NS,Srpski Pokret Obnove/Nova Srbija,Serbian Renewal Movement/New Serbia,2003,2003
+serbia,Serbia,95065,DSS/NS,Demokratska Stranka Srbije/Nova Srbija,Democratic Party of Serbia/New Serbia,2007,2008
+serbia,Serbia,95070,,Pokrenimo Srbiju - Tomislav Nikolic,Let's get Serbia moving - Tomislav Nikolic,2012,2012
+serbia,Serbia,95071,SNS/SDPS/NS/SPO/PS,Aleksandar Vucic - Buducnost u koju verujemo,Aleksandar Vucic - The future in which we believe,2014,2014
+serbia,Serbia,95091,KV,Koalicija Vojvodina,Vojvodina Coalition,1997,1997
+serbia,Serbia,95221,SPS,Socijalisticka Partija Srbije,Socialist Party of Serbia,1990,2007
+serbia,Serbia,95222,SRSV,Reformska Demokartska - Stranka Vojvodine,Reformist Democratic Party of Vojvodina,1990,1992
+serbia,Serbia,95223,JUL,Jugoslovenska Levica,Yugoslav Left,1997,1997
+serbia,Serbia,95229,,"Koalicija Socijalisticke Partije Srbije, Jugoslovenske Levice i Nove Demokratije","Coalition of Socialist Party of Serbia, Yugoslav Left and New Democracy",1997,1997
+serbia,Serbia,95420,DEPOS,Demokratska Pokret Srbije,Democratic Movement of Serbia,1992,1993
+serbia,Serbia,95421,GSS,Gradanski Savez Srbije,Civic Alliance of Serbia,1993,1993
+serbia,Serbia,95422,ND,Nova Demokratija,New Democracy,1992,1997
+serbia,Serbia,95423,DOS,Demokratska Opozicija Srbije,Democratic Opposition of Serbia,2000,2000
+serbia,Serbia,95430,DS,Demokratska Stranka,Democratic Party,1990,2014
+serbia,Serbia,95431,LDP,Liberalno-Demokratska Partija,Liberal Democratic Party,2007,2008
+serbia,Serbia,95450,,G17 plus,G17plus,2003,2007
+serbia,Serbia,95451,URS,Ujedninjeni regioni Srbije – Mladan Dinkic,United Regions of Serbia – Mladan Dinkic,2012,2012
+serbia,Serbia,95710,SPO,Srpski Pokret Obnove,Serbian Renewal Movement,1990,1997
+serbia,Serbia,95711,SRS,Srpska Radikalna Stranka,Serbian Radical Party,1992,2008
+serbia,Serbia,95712,DSS,Demokratska Stranka Srbije,Democratic Party of Serbia,1993,2014
+serbia,Serbia,95720,,Nijedan od ponudjenih odgovora,None-of-the-above,2012,2012
+serbia,Serbia,95810,SSS,Seljacka Stranka Srbije,Peasants Party of Serbia,1990,1992
+serbia,Serbia,95901,MK,Madjarska Koalicija,Hungarian Coalition,2008,2008
+serbia,Serbia,95902,VMSZ,Vajdasági Magyar Szövetség – István Pásztor,Alliance of Vojvodina Hungarians – István Pásztor,2012,2014
+serbia,Serbia,95951,DZVM,Demokratska Zajednica Vojvodanskih Madara,Democratic Community of Magyars of Vojvodina,1990,1993
+serbia,Serbia,95952,SDA,Stranka Demokratske Akcije,Party of Democratic Action,1990,2014
+serbia,Serbia,95954,KAP,Koalicija Albanskih Partija,Coalition of Albanian Parties,1993,1993
+serbia,Serbia,95955,PVD/PDD,Partia për veprim demokratik/Partija za Demokratsko Delovanje,Party for Democratic Activity,1993,2014
+slovakia,Slovakia,96111,SZ,Strana zelených Slovenska,Green Party of Slovakia,1990,1990
+slovakia,Slovakia,96210,ZRS,Zdruzenie robotníkov Slovenska,Workers’ Association of Slovakia,1994,1994
+slovakia,Slovakia,96220,KSC,Strana demokratickej l’avice,Party of the Democratic Left,1990,2002
+slovakia,Slovakia,96221,SV,Spolocná Vol’ba,Common Choice,1994,1994
+slovakia,Slovakia,96222,KSS,Komunistická strana Slovenska,Communist Party of Slovakia,2002,2002
+slovakia,Slovakia,96420,DS,Demoratická Strana,Democratic Party,1990,1990
+slovakia,Slovakia,96421,DÚS,Demokratická Únia Slovenska,Democratic Union of Slovakia,1994,1994
+slovakia,Slovakia,96422,SOP,Strana obcianskeho porozumenia,Party of Civic Understanding,1998,1998
+slovakia,Slovakia,96423,Smer,Smer-Sociálna Demokracia,Direction-Social Democracy,2002,2012
+slovakia,Slovakia,96424,ANO,Aliancia nového obcana,Alliance of the New Citizen,2002,2002
+slovakia,Slovakia,96430,VPN,Verejnost' proti násiliu,Public Against Violence,1990,1990
+slovakia,Slovakia,96431,ADSR,Aliancia demokratov Slovenskej republiky,Alliance of Democrats of the Slovak Republic,1992,1992
+slovakia,Slovakia,96440,SaS,Sloboda a Solidarita,Freedom and Solidarity,2010,2012
+slovakia,Slovakia,96521,KDH,Krest'anskodemokratické hnutie,Christian Democratic Movement,1990,2012
+slovakia,Slovakia,96522,SDK,Slovenská demokratická koalicia,Slovak Democratic Coalition,1998,1998
+slovakia,Slovakia,96523,SDKÚ,Slovenská demokratická a krest’anská únia - Demokratická strana,Slovak Democratic and Christian Union - Democartic Party,2002,2012
+slovakia,Slovakia,96610,OKS,Obcianska konzervatívna strana,Civic Conservative Party,2010,2010
+slovakia,Slovakia,96620,OL'aNO,Obycajní Ludia a nezávislé osobnosti,Ordinary People and Independent Personalities,2012,2012
+slovakia,Slovakia,96710,SNS,Slovenská národná strana,Slovak National Party,1990,2012
+slovakia,Slovakia,96711,HZDS,Hnutie za demokratické Slovensko,Movement for a Democratic Slovakia,1992,2010
+slovakia,Slovakia,96712,NDS,Národnodemokratická strana - Nová alternatíva,National Democratic Party - New Alternative,1994,1994
+slovakia,Slovakia,96951,ESWS,Együttélés/Spolužitie/Wspólnota/Souižtí,Coexistence,1992,1994
+slovakia,Slovakia,96952,ESWS-MKdH,Strana mad'arskej koalície/Magyar koalícío partja,Party of the Hungarian Coalition,1990,2006
+slovakia,Slovakia,96953,MKdH/MKdM,Mad'arská krest'anskodemokratické hnutie/Magyar Kereszténydemokrata Mozgalom,Hungarian Christian Democratic Movement,1994,1994
+slovakia,Slovakia,96954,MOS/MPP,Mad’arská obcianska strana/Magyar Polgári Párt,Hungarian Civic Party,1994,1994
+slovakia,Slovakia,96955,,Most-Híd,Bridge,2010,2012
+slovenia,Slovenia,97110,ZS,Zeleni Slovenije,Greens of Slovenia,1990,1992
+slovenia,Slovenia,97220,ZKS,Zveza Komunistov Slovenije,League of Communists of Slovenia,1990,1990
+slovenia,Slovenia,97223,ZL,Združena Lista,"Unity, Asssociated List",1992,1992
+slovenia,Slovenia,97320,SDSS,Socialdemokratska Stranka Slovenije,Social-Democratic Party of Slovenia,1990,2000
+slovenia,Slovenia,97321,ZLSD,Združena Lista Socialninh Demokratov,Associated List of Social Democrats,1996,2000
+slovenia,Slovenia,97322,SD,Socialni Demokrati,Social Democratic Party,2004,2011
+slovenia,Slovenia,97330,SDS,Slovenska Demokratska Stranka,Slovenian Democratic Party,2004,2011
+slovenia,Slovenia,97340,PS,Lista Zorana Jankovica - Pozitivna Slovenija,Zoran Jankovic's List - Positive Slovenia,2011,2011
+slovenia,Slovenia,97421,LDS,Liberalna Democracija Slovenije,Liberal Democracy of Slovenia,1990,2011
+slovenia,Slovenia,97430,DSS,Demokratska Stranka Slovenje,Democratic Party of Slovenia,1990,1992
+slovenia,Slovenia,97440,,Zares,For Real,2008,2011
+slovenia,Slovenia,97450,LGV,Državljanska lista Gregorja Viranta,Gregor Virant's Civic List,2011,2011
+slovenia,Slovenia,97520,SKD,Slovenski Krscanski Demokrati,Slovenian Christian Democrats,1990,1996
+slovenia,Slovenia,97521,SLS,Slovenska Ljudska Stranka,Slovenian People's Party,1990,2011
+slovenia,Slovenia,97522,Nsi,Nova Slovenija Kršcanski Ljudska Stranka,New Slovenian Christian People’s Party,2000,2011
+slovenia,Slovenia,97620,SLS-SKD,Slovenska Ljudska Stranka,Slovenian People’s Party,2000,2000
+slovenia,Slovenia,97710,SNS,Slovenska Nacionalna Stranka,Slovenian National Party,1992,2011
+slovenia,Slovenia,97810,SKZ,Slovenska Kmecka Zveza,Slovenian Peasant League,1990,1990
+slovenia,Slovenia,97951,Desus,Demokraticna Stranka Upokojencev Slovenije,Democratic Party of Pensioners of Slovenia,1996,2011
+slovenia,Slovenia,97952,SMS,Stranka Mladih Slovenije,Party of Slovenian Youth,2000,2000
+ukraine,Ukraine,98081,LB,Blok Lytvyna,Lytvyn Bloc,2007,2007
+ukraine,Ukraine,98111,PZU,Partiya Zelenykh Ukrainy,Green Party of Ukraine,1998,1998
+ukraine,Ukraine,98221,KPU,Komunistychna Partiya Ukrainy,Communist Party of Ukraine,1994,2007
+ukraine,Ukraine,98321,SPU,Sotsialistychna Partiya Ukrainy,Socialist Party of Ukraine,1994,2007
+ukraine,Ukraine,98322,PSPU,Prohresyvna Sotsialistychna Partiya Ukrainy,Progressive Socialist Party of Ukraine,1998,1998
+ukraine,Ukraine,98323,SPU-SelPU,Blok Sotsialistychna Partiya Ukrainy ta Selyans’ka Partiya Ukrainy,Bloc Socialist Party of Ukraine and Peasant Party of Ukraine,1998,1998
+ukraine,Ukraine,98324,,Vseukrains`ke Ob'ednannya ‘Hromada',All-Ukrainian Association ‘Community',1998,1998
+ukraine,Ukraine,98325,SDPU,Sotsial-Demokratychna Partiya Ukrainy,Social Democractic Party of Ukraine,1994,1994
+ukraine,Ukraine,98421,MBR,Mizhregional`nyj Blok Reform,Interregional Reform Bloc,1994,1994
+ukraine,Ukraine,98422,PDVU,Partiya Demokratychnoho Vidrodzhennya Ukrainy,Party of Democratic Rebirth of Ukraine,1994,1994
+ukraine,Ukraine,98423,PT,Partiya Truda,Labour Party,1994,1994
+ukraine,Ukraine,98424,HKU,Hrazhdanskyj Konhres Ukrainy,Civic Congress of Ukraine,1994,1994
+ukraine,Ukraine,98426,NDPU,Narodno-Demokratychna Partiya Ukrainy,People’s Democratic Party of Ukraine,1998,1998
+ukraine,Ukraine,98427,SDPU(O),Sotsial-Demokratychna Partiya Ukrainy (Obyednana),Social Democratic Party of Ukraine (United),1998,2002
+ukraine,Ukraine,98428,,"Vpered, Ukraina","Forward, Ukraine!",1998,1998
+ukraine,Ukraine,98429,ZYU,Za Yedinu Ukrainu!,For a United Ukraine!,2002,2002
+ukraine,Ukraine,98521,KhDPU,Khrystyyans`ko-Demokratychna Partiya Ukrainy,Christian Democratic Party of Ukraine,1994,1998
+ukraine,Ukraine,98611,Rukh,Narodnyi Rukh Ukrainy,Popular Movement of Ukraine,1994,1998
+ukraine,Ukraine,98612,URP,Ukrainska Respublikanska Partiya,Ukrainian Republican Party,1994,1994
+ukraine,Ukraine,98613,DPU,Demokratychna Partiya Ukrainy,Democratic Party of Ukraine,1994,1994
+ukraine,Ukraine,98614,NF,Viborchyj Blok ‘Natsional`nyi Front',Electoral Bloc ‘National Front',1998,1998
+ukraine,Ukraine,98615,NU,‘Nasha Ukraina - Narodna Samooborona',‘Our Ukraine - People's Self-Defense',2002,2007
+ukraine,Ukraine,98616,JT,Viborchiy Blok Yuliyi Tymoshenko,Juliya Tymoshenko Election Bloc,2002,2007
+ukraine,Ukraine,98711,KUN,Konhres Ukrains`kykh Natsionalistiv,Congress of Ukrainian Nationalists,1994,1994
+ukraine,Ukraine,98712,UKRP,Ukrains`ka Konservatyvna Respublikans`ka Partiya,Ukrainian Conservative Republican Party,1994,1994
+ukraine,Ukraine,98713,UNA,Ukrains`ka Natsional`na Asambleya,Ukrainian National Assembly,1994,1994
+ukraine,Ukraine,98810,SelPU,Selyans’ka Partiya Ukrainy,Peasant Party of Ukraine,1994,1994
+ukraine,Ukraine,98811,APU,Ahrarna Partiya Ukrainy,Agrarian Party of Ukraine,1998,1998
+ukraine,Ukraine,98951,PEVK,Partiya Ekonomycheskoho Vozrozhdeniya Kryma,Party of Economic Revival of Crimea,1994,1994
+ukraine,Ukraine,98952,PR,Partiya Rehioniv,Party of Regions,2006,2007
+south korea,South Korea,113320,DLP,Minju Nodong Dang,Democratic Labour Party,2000,2008
+south korea,South Korea,113321,UPP,Tonghap Jinbo Dang,United Progressive Party,2012,2012
+south korea,South Korea,113420,DP,Minju Dang,Democratic Party,1992,1996
+south korea,South Korea,113421,NCNP,Sae Jungchi Kukmin Hoiee,National Congress for New Politics,1996,1996
+south korea,South Korea,113422,Uri,Uri Dang,Uri Party,2004,2004
+south korea,South Korea,113430,MDP,Saecheonnyeonminju Dang,Millenium Democratic Party,2000,2004
+south korea,South Korea,113440,UDP,Minju Dang,Democratic Party,2008,2012
+south korea,South Korea,113620,DLP,Minju Dayu Dang,Democratic Liberal Party,1992,1992
+south korea,South Korea,113621,NUP,Minjok T'ongil-tang,National Unification Party,1992,1992
+south korea,South Korea,113622,NKP,Shin Hankuk Dang,New Korea Party,1996,1996
+south korea,South Korea,113630,GNP,Saenuri Dang,New Frontier Party,2000,2012
+south korea,South Korea,113650,ULD,Jayu Minju Yonmaeng,United Liberal Party,1996,2004
+south korea,South Korea,113651,LFP,Jayou Seonjin Dang,Liberty Forward Party,2008,2012
+argentina,Argentina,150025,FpV,Frente para la Victoria,Front for Victory,,
+argentina,Argentina,150026,FAP,Frente Amplio Progressista,Broad Progressive Front,,
+argentina,Argentina,150301,UCR,Unión Cívica Radical,Civic Radical Union,,
+chile,Chile,155021,,Concertación de Partidos por la Democracia,Concert of Parties for Democracy,,
+chile,Chile,155025,PODEMOS,Juntos-Podemos-Más por Chile,Together we can do more for Chile,,
+chile,Chile,155061,,Allianza,Alliance,,
+mexico,Mexico,171031,AM,Alianza por México 2000,Alliance for Mexico 2000,2000,2000
+mexico,Mexico,171032,AM,Compromiso por México,Commitment for Mexico,2006,2012
+mexico,Mexico,171033,,Coalición ‘Por el Bien de Todos',Coalition ‘For the Good of All',2006,2006
+mexico,Mexico,171034,,Coalición 'Salvemos a México',Coalition 'We save Mexico',2009,2009
+mexico,Mexico,171035,,Movimiento Progresista,Progressive Movement,2012,2012
+mexico,Mexico,171101,PVEM,Partido Verde Ecologista de México,Mexican Green Ecologist Party,2003,2012
+mexico,Mexico,171201,PCM,Partido Comunista Mexicano,Mexican Communist Party,1979,1997
+mexico,Mexico,171202,PRT,Partido Revolucionario de los Trabajadores,Revolutionary Workers’ Party,1985,1985
+mexico,Mexico,171203,PSUM,Partido Socialista Unificado de México,Unified Socialist Party of Mexico,1982,1985
+mexico,Mexico,171301,PRI,Partido Revolucionario Institucional,Institutional Revolutionary Party,1946,2012
+mexico,Mexico,171302,PPS,Partido Popular Socialista,Popular Socialist Party,1970,1991
+mexico,Mexico,171303,PARM,Partido Auténtico de la Revolución Mexicana,Authentic Party of the Mexican Revolution,1970,1991
+mexico,Mexico,171304,PST,Partido del Frente Cardenista de Reconstucción Nacional,Party of the Cardenist Front of National Reconstruction,1979,1991
+mexico,Mexico,171305,PRD,Partido de la Revolución Democrática,Democratic Revolutionary Party,1991,2012
+mexico,Mexico,171306,PT,Partido del Trabajo,Labor Party,1994,2012
+mexico,Mexico,171307,FDN,Frente Democrático Nacional,National Democratic Front,1988,1988
+mexico,Mexico,171308,PMT,Partido Mexicano de los Trabajadores,Mexican Workers’ Party,1985,1985
+mexico,Mexico,171309,PANAL,Partido Nueva Alianza,New Alliance Party,2006,2012
+mexico,Mexico,171310,Alternativa,Partido Socialdemócrata,Social Democratic Party,2006,2009
+mexico,Mexico,171311,CD,Convergencia,Convergence,2003,2012
+mexico,Mexico,171601,PAN,Partido Acción Nacional,National Action Party,1946,2012
+brazil,Brazil,180230,,Para o Brasil Seguir Mudando,For Brazil to keep on changing,,
+brazil,Brazil,180310,,O Brasil pode mais,Brazil can do more,,
+south africa,South Africa,181210,EEF,Economic Freedom Fighters,Economic Freedom Fighters,2014,2014
+south africa,South Africa,181310,ANC,African National Congress,African National Congress,1994,2014
+south africa,South Africa,181410,DP,Democratic Party,Democratic Party,1994,1999
+south africa,South Africa,181411,DA,Democratic Alliance,Democratic Alliance,2004,2014
+south africa,South Africa,181420,COPE,Congress of the People,Congress of the People,2009,2014
+south africa,South Africa,181910,IFP,Inkatha Freedom Party,Inkatha Freedom Party,1999,2014
