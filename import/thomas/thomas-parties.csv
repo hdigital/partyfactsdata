@@ -1,0 +1,246 @@
+country,party,time
+Australia,Labour,1890
+Australia,Labour,1910
+Australia,Labour,1930
+Australia,Labour,1950
+Australia,Labour,1960
+Australia,Liberal,1910
+Australia,Liberal,1930
+Australia,Liberal,1950
+Australia,Liberal,1960
+Australia,Country,1910
+Australia,Country,1930
+Australia,Country,1950
+Australia,Country,1960
+Australia,Status quo,1890
+Australia,Status quo,1910
+Australia,Status quo,1930
+Australia,Status quo,1950
+Australia,Status quo,1960
+Austria,People's,1890
+Austria,People's,1920
+Austria,People's,1950
+Austria,People's,1960
+Austria,Socialist,1890
+Austria,Socialist,1920
+Austria,Socialist,1950
+Austria,Socialist,1960
+Austria,League of Independents,1920
+Austria,League of Independents,1950
+Austria,League of Independents,1960
+Austria,Status quo,1890
+Austria,Status quo,1920
+Austria,Status quo,1950
+Austria,Status quo,1960
+Canada,Liberal,1870
+Canada,Liberal,1890
+Canada,Liberal,1910
+Canada,Liberal,1930
+Canada,Liberal,1950
+Canada,Liberal,1960
+Canada,Progressive Conservative,1870
+Canada,Progressive Conservative,1890
+Canada,Progressive Conservative,1910
+Canada,Progressive Conservative,1930
+Canada,Progressive Conservative,1950
+Canada,Progressive Conservative,1960
+Canada,CCF/NDP,1930
+Canada,CCF/NDP,1950
+Canada,CCF/NDP,1960
+Canada,SocialCredit,1930
+Canada,SocialCredit,1950
+Canada,SocialCredit,1960
+Canada,Status quo,1870
+Canada,Status quo,1890
+Canada,Status quo,1910
+Canada,Status quo,1930
+Canada,Status quo,1950
+Canada,Status quo,1960
+France,Republican Federation,1870
+France,Republican Federation,1890
+France,Republican Federation,1910
+France,Republican Federation,1930
+France,Conservative ,1870
+France,Conservative ,1890
+France,Popular Republican Movement,1890
+France,Popular Republican Movement,1910
+France,Popular Republican Movement,1950
+France,Popular Republican Movement,1960
+France,Radical,1890
+France,Radical,1910
+France,Radical,1930
+France,Radical,1950
+France,Radical,1960
+France,SFIO,1890
+France,SFIO,1910
+France,SFIO,1930
+France,SFIO,1950
+France,SFIO,1960
+France,Democratic Republican Alliance,1910
+France,Democratic Republican Alliance,1930
+France,Republican Socialist,1930
+France,Communist,1930
+France,Communist,1950
+France,Communist,1960
+France,Union for the New Republic,1950
+France,Union for the New Republic,1960
+France,Status quo,1870
+France,Status quo,1890
+France,Status quo,1910
+France,Status quo,1930
+France,Status quo,1950
+France,Status quo,1960
+Germany,Christian Democratic,1870
+Germany,Christian Democratic,1890
+Germany,Christian Democratic,1910
+Germany,Christian Democratic,1950
+Germany,Christian Democratic,1960
+Germany,Social Democratic,1870
+Germany,Social Democratic,1890
+Germany,Social Democratic,1910
+Germany,Social Democratic,1950
+Germany,Social Democratic,1960
+Germany,Free Democratic,1870
+Germany,Free Democratic,1890
+Germany,Free Democratic,1910
+Germany,Free Democratic,1950
+Germany,Free Democratic,1960
+Germany,National Liberal,1870
+Germany,National Liberal,1890
+Germany,National Liberal,1910
+Germany,Free Democratic Conservative,1870
+Germany,Conservative,1870
+Germany,Conservative,1890
+Germany,Conservative,1910
+Germany,Nazi,1930
+Germany,Status quo,1870
+Germany,Status quo,1890
+Germany,Status quo,1910
+Germany,Status quo,1930
+Germany,Status quo,1950
+Germany,Status quo,1960
+Great Britain,Conservative,1870
+Great Britain,Conservative,1890
+Great Britain,Conservative,1910
+Great Britain,Conservative,1930
+Great Britain,Conservative,1950
+Great Britain,Conservative,1960
+Great Britain,Liberal,1870
+Great Britain,Liberal,1890
+Great Britain,Liberal,1910
+Great Britain,Liberal,1930
+Great Britain,Liberal,1950
+Great Britain,Liberal,1960
+Great Britain,Liberal Unionist,1890
+Great Britain,Irish Nationalist,1890
+Great Britain,Irish Nationalist,1910
+Great Britain,Labour,1910
+Great Britain,Labour,1930
+Great Britain,Labour,1950
+Great Britain,Labour,1960
+Great Britain,Status quo,1870
+Great Britain,Status quo,1890
+Great Britain,Status quo,1910
+Great Britain,Status quo,1930
+Great Britain,Status quo,1950
+Great Britain,Status quo,1960
+Italy,Christian Democratic,1920
+Italy,Christian Democratic,1950
+Italy,Christian Democratic,1960
+Italy,Communist,1920
+Italy,Communist,1950
+Italy,Communist,1960
+Italy,PSI,1920
+Italy,PSI,1950
+Italy,PSI,1960
+Italy,Constitutional Coalition,1920
+Italy,Fascist,1920
+Italy,Fascist,1930
+Italy,Fascist,1950
+Italy,Fascist,1960
+Italy,Status quo,1920
+Italy,Status quo,1930
+Italy,Status quo,1950
+Italy,Status quo,1960
+Japan,Progressive,1890
+Japan,Progressive,1920
+Japan,Progressive,1930
+Japan,Progressive,1950
+Japan,Liberal,1890
+Japan,Liberal,1920
+Japan,Liberal,1930
+Japan,Liberal,1950
+Japan,Government,1890
+Japan,Kokuminto,1920
+Japan,Socialist,1930
+Japan,Socialist,1960
+Japan,Left-Wing Socialist,1950
+Japan,Right-Wing Socialist,1950
+Japan,Liberal Democratic,1960
+Japan,Status quo,1890
+Japan,Status quo,1920
+Japan,Status quo,1930
+Japan,Status quo,1950
+Japan,Status quo,1960
+New Zealand,National,1890
+New Zealand,National,1910
+New Zealand,National,1930
+New Zealand,National,1950
+New Zealand,National,1960
+New Zealand,Liberal,1890
+New Zealand,Liberal,1910
+New Zealand,Labour,1910
+New Zealand,Labour,1930
+New Zealand,Labour,1950
+New Zealand,Labour,1960
+New Zealand,Status quo,1890
+New Zealand,Status quo,1910
+New Zealand,Status quo,1930
+New Zealand,Status quo,1950
+New Zealand,Status quo,1960
+Sweden,Social Democratic,1890
+Sweden,Social Democratic,1910
+Sweden,Social Democratic,1930
+Sweden,Social Democratic,1950
+Sweden,Social Democratic,1960
+Sweden,Liberal,1910
+Sweden,Liberal,1930
+Sweden,Liberal,1950
+Sweden,Liberal,1960
+Sweden,Conservative,1910
+Sweden,Conservative,1930
+Sweden,Conservative,1950
+Sweden,Conservative,1960
+Sweden,Centre,1930
+Sweden,Centre,1950
+Sweden,Centre,1960
+Sweden,Status quo,1890
+Sweden,Status quo,1910
+Sweden,Status quo,1930
+Sweden,Status quo,1950
+Sweden,Status quo,1960
+USSR,CPSU,1910
+USSR,CPSU,1920
+USSR,CPSU,1930
+USSR,CPSU,1950
+USSR,CPSU,1960
+USSR,Status quo,1910
+USSR,Status quo,1920
+United States,Democratic,1870
+United States,Democratic,1890
+United States,Democratic,1910
+United States,Democratic,1930
+United States,Democratic,1950
+United States,Democratic,1960
+United States,Republican,1870
+United States,Republican,1890
+United States,Republican,1910
+United States,Republican,1930
+United States,Republican,1950
+United States,Republican,1960
+United States,Status quo,1870
+United States,Status quo,1890
+United States,Status quo,1910
+United States,Status quo,1930
+United States,Status quo,1950
+United States,Status quo,1960
