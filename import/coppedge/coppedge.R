@@ -1,5 +1,4 @@
 library("dplyr")
-library("RCurl")
 
 coppedge_raw <- read.csv("coppedge-parties.csv", encoding = "UTF-8", as.is=TRUE)
 
