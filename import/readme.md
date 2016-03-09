@@ -16,7 +16,7 @@ For a detailed instruction how to contribute your dataset, see [our import guide
 Most of the data preparation is done in R. Some scripts may require additional packages.
 
 ```R
-packages <- c("dplyr", "tidyr", "RCurl", "readxl", "stringr")
+packages <- c("dplyr", "RCurl", "readxl", "stringr", "tidyr")
 lapply(packages, function(pack) {
   if ( ! pack %in% installed.packages()[,"Package"]) {
     install.packages(pack, repos="http://cran.r-project.org")
@@ -52,7 +52,7 @@ Template for dataset readme.md files
 
 ## Import
 
- * (...)
+ * (...) short description of data preparation pipeline
 
 ## Comments (optional)
 
