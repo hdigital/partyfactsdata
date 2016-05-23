@@ -21,7 +21,7 @@ We use two scripts here:
   The data is in long format: Each row contains a party in a round.
 
 * `ess-google-sheet.R`  
-  This script checks if all parties of `ess-parties.csv` occur in a Google Sheet [ESS party list](https://docs.google.com/spreadsheets/d/1-Z9-Ng1t500scPHk5ikDMtHXUq19Uq1VS_Nnvak1S9g/pub?output=csv) used for clean-up.  
+  This script checks if all parties of `ess-parties.csv` occur in a Google Sheet [ESS party list](https://docs.google.com/spreadsheets/d/1KN6_jhur5LVHBSZ4Ij5eZHgrL4X4O1W1_Gq55lpC5TU/pub?output=csv) used for clean-up.  
   It adds parties to this dataset when they are missing.
   It also does some data cleaning and exports the data into `ess.csv`.  
   This data is in wide format: Each row contains a party, with variables containing party names in each round.
