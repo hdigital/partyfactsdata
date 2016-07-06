@@ -11,7 +11,7 @@ country <- read.csv("../country.csv", as.is=TRUE) %>%
   select(country_name_short = name_short, country_name = name)
 recode <- c("Bosnia-Herzegovina" = "Bosnia and Herzegovina",
             "Great Britain" = "United Kingdom",
-            "South Korea" = "Korea, South")
+            "South Korea" = "Korea (South)")
 marpor$countryname <- sapply(marpor$countryname, function(.) ifelse(. %in% names(recode), recode[[.]], .))
 if( ! all(marpor$countryname %in% country$country_name)) {
   warning("Not all Manifesto country names in country data")
