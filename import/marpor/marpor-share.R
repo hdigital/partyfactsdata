@@ -7,7 +7,7 @@ pa_share <- marpor %>%
   group_by(party) %>%
   mutate(pervote_max = max(pervote, na.rm = TRUE)) %>%
   filter(pervote == pervote_max) %>%
-  distinct(party) %>%
+  distinct(party, .keep_all = TRUE) %>%
   mutate(pervote_max = round(pervote_max, 1)) %>%
   arrange(countryname, party) %>%
   select(party, pervote_max_year = year, pervote_max)

@@ -16,8 +16,7 @@ trend <- trend_raw %>%
          year_last = max(year, na.rm = TRUE),
          country = toupper(country)) %>%
   filter(vote == vote_max) %>%
-  distinct(party_id) %>%
+  distinct(party_id, .keep_all = TRUE) %>%
   select(country, party_id, party, cmp_id, electionyear, vote, year_first, year_last)
 
 write.csv(trend, "ches-party-info.csv", na="", row.names = FALSE, fileEncoding="utf-8")
-

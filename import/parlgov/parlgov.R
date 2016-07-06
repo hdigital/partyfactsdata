@@ -21,8 +21,8 @@ elec_share <- elec %>%
   group_by(party_id) %>%
   mutate(vote_share_max = max(vote_share, na.rm = TRUE)) %>%
   filter(vote_share == vote_share_max) %>%
-  distinct(party_id) %>%
-  ungroup(.) %>%
+  distinct(party_id, .keep_all = TRUE) %>%
+  ungroup() %>%
   mutate(vote_share_max = round(vote_share_max, 1),
          vote_share_max_year = substr(election_date, 1, 4)) %>%
   select(party_id, vote_share_max_year, vote_share_max)
