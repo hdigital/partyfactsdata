@@ -16,4 +16,7 @@ coppedge <- coppedge %>%
   filter(ignore_partyfacts == 0, year_first != year_last) %>% 
   select(-ignore_partyfacts)
 
+# filter Argentina parties more restrictivly
+coppedge <- coppedge[ ! with(coppedge, country == 'ARG' & year_last - year_first < 20) , ]
+
 write.csv(coppedge, "coppedge.csv", na='', fileEncoding = "utf-8", row.names = FALSE)
