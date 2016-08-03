@@ -9,7 +9,11 @@ http://kellogg.nd.edu/publications/workingpapers/WPS/244.pdf
 
 pdf converted into spreadsheet -- pdf --> html --> csv
 
-Uploaded to Google Sheets to edit and clean-up Coppedge party list. Import into repository with "coppedge-google-sheet.R" as "coppedge-parties.csv".
+Uploaded to Google Sheets to edit and clean-up Coppedge party list. Import into repository with `coppedge-google-sheet.R` as `coppedge-parties.csv`.
+
+## Comments
+
+Importing only parties with different start and end date. More restrictive import filter for Argentina -- `coppedge.R`
 
 ## Todo later
 
