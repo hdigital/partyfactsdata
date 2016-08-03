@@ -2,8 +2,6 @@ library("foreign")
 library("dplyr")
 library("stringr")
 
-rm(list = ls())
-
 # get local copy of data file
 url <- "http://www.lsu.edu/faculty/lray2/data/1996survey/1996survey.sav?export=sav"
 data_file_local <- "source__1996survey.sav"

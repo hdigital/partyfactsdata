@@ -1,7 +1,5 @@
 library('dplyr')
 
-rm(list = ls())
-
 # reading huber data and renaming 'id' to 'party_id'
 party_raw <- read.csv('huber_inglehart_1995.csv', as.is=TRUE)
 party <- party_raw %>% rename(party_id=id)
