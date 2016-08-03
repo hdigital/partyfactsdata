@@ -17,3 +17,5 @@ only parties included that won 2% of the national vote -- see `clea.R`
 see [Party Nationalization Datasets](http://www.electiondataarchive.org/datacenter.html) for party level data from CLEA
 
 _USA Parties_ -- Small splinter parties of major parties in the 19th century have been linked to the respective major parties based on information in Mackie and Rose (1991).
+
+`update-2016` -- includes backup of CLEA 2014 data in Party Facts and list of parties (CLEA 2014) not in CLEA 2016 data
