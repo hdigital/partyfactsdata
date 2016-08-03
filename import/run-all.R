@@ -4,7 +4,7 @@ dataset_ignore <- c('', 'ess', 'kurep')
 wd <- getwd()
 
 for (dataset in list.dirs(full.names = FALSE)) {
-  if(dataset %in% dataset_ignore) next
+  if(dataset %in% dataset_ignore | grepl('/', dataset, fixed = TRUE)) next
   print(paste("running --- ", dataset))
   setwd(paste(wd, dataset, sep = "/"))
   source(paste0(dataset, '.R'))
