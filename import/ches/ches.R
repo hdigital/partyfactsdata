@@ -1,7 +1,7 @@
 library("dplyr")
 
 party <- read.csv("ches-parties.csv", fileEncoding="utf-8", as.is=TRUE)
-country <- read.csv("ches-country.csv", as.is=TRUE)
+country <- read.csv("ches-country.csv", fileEncoding="utf-8", as.is=TRUE)
 info <- read.csv("ches-party-info.csv", fileEncoding="utf-8", as.is=TRUE)
 
 year_default <- 2014  # for countries not in trendfile
