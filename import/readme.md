@@ -13,18 +13,7 @@ For a detailed instruction how to contribute your dataset, see [our import guide
 
 # R packages and snippets
 
-Most of the data preparation is done in R. Some scripts may require additional packages.
-
-```R
-packages <- c("dplyr", "RCurl", "readxl", "stringr", "tidyr")
-lapply(packages, function(pack) {
-  if ( ! pack %in% installed.packages()[,"Package"]) {
-    install.packages(pack, repos="http://cran.r-project.org")
-  }
-  require(pack, character.only=TRUE, quietly=TRUE)
-})
-update.packages(ask=FALSE)
-```
+Most of the data preparation is done in R. Some scripts may require additional packages. We have a strong preference for [RStudio R packages](https://www.rstudio.com/products/rpackages/) (esp. [dplyr](https://github.com/hadley/dplyr)). `run-all.R` includes information about used packages.
 
 Party Facts import requires ISO3 country codes. `country.csv` includes the respective information. Some country names may need to be recoded -- see snippet.
 

@@ -1,3 +1,15 @@
+# install and load all required packages
+
+packages <- c("dplyr", "RCurl", "readxl", "stringr", "tidyr")
+lapply(packages, function(pack) {
+  if ( ! pack %in% installed.packages()[,"Package"]) {
+    install.packages(pack, repos="http://cran.r-project.org")
+  }
+  require(pack, character.only=TRUE, quietly=TRUE)
+})
+update.packages(ask=FALSE)
+
+
 # run import scripts in all sub-folders
 
 dataset_ignore <- c('', 'ess', 'kurep')
