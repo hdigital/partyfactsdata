@@ -26,12 +26,10 @@ country <- pf_country %>%
 vote <- read.csv("clea-national-vote.csv", fileEncoding = "utf-8", as.is=TRUE)
 party <- party %>% left_join(country) %>% inner_join(vote)
 
-# check country information and previous party list
+# check country information
 if(nrow(party %>% filter(is.na(country))) > 0) {
   warning("Not all country names cleaned-up for import")
 }
-clea14 <- read.csv("clea-2014/clea.csv", fileEncoding = "utf-8", as.is=TRUE)
-clea14 %>% filter( ! ctr_pty %in% party$ctr_pty) %>% .[['country']] %>% table
 
 # clean-up CLEA data for import
 party[party$ctr_pty == 380000035, "name_english"] <- NA
