@@ -1,19 +1,23 @@
 library(dplyr)
 
+clea_version <- "20161024"
 max_share <- 2.0
 
-# Stata exported csv file
-# clea <- read.csv("clea_20160523.csv", na.strings = "Missing data", as.is = TRUE)
-# saveRDS(clea, file="clea_20160523.Rda", ascii = TRUE)
+# Stata exported RDS file to save disk space
+if(FALSE) {
+  library(haven)
+  clea <- haven::read_dta(sprintf("source__clea/clea_%s.dta", clea_version))
+  saveRDS(clea, file=sprintf("source__clea/clea_%s.Rda", clea_version), ascii = TRUE)
+}
 
 # read CLEA data only once 
 if( ! exists("clea_raw")) {
-  clea_raw <- readRDS(file="source__clea/clea_20160523.Rda")
+  clea_raw <- readRDS(file=sprintf("source__clea/clea_20161024.Rda", clea_version))
 }
 clea <- clea_raw
+clea$pv1 <- as.integer(clea$pv1)
 
 # convert data types -- if necessary
-clea$pv1 <- as.integer(clea$pv1)
 
 pa_info <- clea %>%
   group_by(ctr, pty) %>% 

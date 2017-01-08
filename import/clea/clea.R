@@ -1,6 +1,6 @@
 library(dplyr)
 
-party_raw <- read.csv("source__clea/clea_20160523_appendix_II.csv",
+party_raw <- read.csv("source__clea/clea_20161024_appendix_II.csv",
                       fileEncoding = "utf-8", as.is=TRUE)
 
 # add CLEA data variable names to party information and clean-up data for import
@@ -19,7 +19,7 @@ recode <- c("Korea (South)" = "Korea",
             "United States" = "US")
 recode_country <- Vectorize(function(.) ifelse(. %in% names(recode), recode[[.]], .))
 country <- pf_country %>%
-  mutate(name = recode_country(name)) %>% 
+  mutate(name = recode_country(name)) %>%
   select(ctr_n = name, country = name_short)
 
 # add time and size information and select larger parties
@@ -32,7 +32,7 @@ if(nrow(party %>% filter(is.na(country))) > 0) {
 }
 
 # clean-up CLEA data for import
+party[nchar(party$abbr) > 25 & ! is.na(party$abbr), "abbr"] <- NA
 party[party$ctr_pty == 380000035, "name_english"] <- NA
-party[party$ctr_pty == 376000193, "abbr"] <- NA
 
 write.csv(party, 'clea.csv', na='', fileEncoding = "utf-8", row.names = FALSE)
