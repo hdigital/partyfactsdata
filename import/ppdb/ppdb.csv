@@ -1,0 +1,123 @@
+ctryid,country,ptyid,ptyname,share_year_first,year_first,year_last,country_short
+1,Australia,1001,Labor Party,47.0,2011,2014,AUS
+1,Australia,1002,Liberal Party,43.0,2011,2014,AUS
+1,Australia,1003,National Party,5.0,2011,2014,AUS
+1,Australia,1004,The Greens,1.0,2011,2014,AUS
+2,Austria,2001,Social Democratic Party,,2008,2014,AUT
+2,Austria,2002,People's Party,,2008,2014,AUT
+2,Austria,2003,Freedom Party,,2008,2014,AUT
+2,Austria,2004,The Greens,,2008,2014,AUT
+2,Austria,2005,Alliance for the Future,,2008,2014,AUT
+3,Belgium,3001,New Flemish Alliance,18.0,2011,2014,BEL
+3,Belgium,3002,Socialist Party,17.0,2011,2014,BEL
+3,Belgium,3003,Christian-Democrat and Flemish,,2010,2014,BEL
+3,Belgium,3004,Reform Movement,10.0,2011,2014,BEL
+3,Belgium,3005,Socialist Party Alternative,9.0,2011,2014,BEL
+3,Belgium,3006,Open Flemish Liberals and Democrats,9.0,2011,2014,BEL
+3,Belgium,3007,Flemish Interest,,2008,2014,BEL
+3,Belgium,3008,Democrat Humanist Centre,,2009,2014,BEL
+3,Belgium,3009,Ecolo,5.0,2011,2014,BEL
+3,Belgium,3010,Green,,2009,2014,BEL
+3,Belgium,3013,"Federalists, Democrats, Francophone",,2009,2014,BEL
+3,Belgium,3014,"Libertarian, Direct, Democratic",0.7,2011,2014,BEL
+4,Canada,4001,Liberal Party,11.0,2011,2014,CAN
+4,Canada,4002,New Democratic Party,33.0,2011,2014,CAN
+4,Canada,4003,Bloc Québécois,1.0,2011,2014,CAN
+4,Canada,4004,Conservative Party,,2004,2014,CAN
+4,Canada,4005,Green Party,,2006,2014,CAN
+5,Czech Republic,5001,Social Democratic Party,,2011,2014,CZE
+5,Czech Republic,5002,Civic Democratic Party,,2011,2014,CZE
+5,Czech Republic,5003,TOP 09,,2011,2014,CZE
+5,Czech Republic,5004,Communist Party,,2011,2014,CZE
+5,Czech Republic,5005,Christian Democratic Union,,2011,2014,CZE
+6,Denmark,6001,Social Democrats,,2005,2014,DNK
+6,Denmark,6002,Danish People's Party,13.0,2011,2014,DNK
+6,Denmark,6003,Social Liberal Party,,2007,2014,DNK
+6,Denmark,6004,Socialist People's Party,,2010,2014,DNK
+6,Denmark,6005,Red-Green Alliance,7.0,2011,2014,DNK
+6,Denmark,6006,Liberal Alliance,,2009,2014,DNK
+6,Denmark,6007,Conservatives,5.0,2011,2014,DNK
+6,Denmark,6008,Liberals,27.0,2011,2014,DNK
+8,France,8001,Socialist Party,,2011,2014,FRA
+8,France,8004,Union for a Popular Movement,,2011,2014,FRA
+9,Germany,9001,Christian Democratic Union,31.0,2011,2014,DEU
+9,Germany,9002,Social Democratic Party,24.0,2011,2014,DEU
+9,Germany,9003,Free Democratic Party,15.0,2011,2014,DEU
+9,Germany,9004,The Left,12.0,2011,2014,DEU
+9,Germany,9005,Alliance '90/The Greens,11.0,2011,2014,DEU
+9,Germany,9006,Christian Social Union,7.0,2011,2014,DEU
+9,Germany,9007,Pirate Party,0.0,2011,2014,DEU
+10,Hungary,10001,Fidesz - Hungarian Civic Alliance,,2010,2014,HUN
+10,Hungary,10002,Jobbik,,2010,2014,HUN
+10,Hungary,10003,Politics Can Be Different,,2010,2014,HUN
+10,Hungary,10005,Socialist Party,,2009,2014,HUN
+11,Ireland,11001,Fine Gael,,2002,2014,IRL
+11,Ireland,11002,Labour Party,,2011,2014,IRL
+11,Ireland,11003,Fianna Fáil,,2011,2014,IRL
+11,Ireland,11004,Sinn Féin,,2011,2014,IRL
+11,Ireland,11005,Green Party,,2011,2014,IRL
+12,Israel,12001,Kadima,23.0,2011,2014,ISR
+12,Israel,12002,Likud,23.0,2011,2014,ISR
+12,Israel,12003,Yisrael Beiteinu,13.0,2011,2014,ISR
+12,Israel,12004,Labor Party,7.0,2011,2014,ISR
+12,Israel,12005,Shas,9.0,2011,2014,ISR
+12,Israel,12006,Agudat Yisrael,3.0,2011,2014,ISR
+12,Israel,12008,Hadash,3.0,2011,2014,ISR
+12,Israel,12009,Meretz,3.0,2011,2014,ISR
+12,Israel,12010,National Religious Party,3.0,2011,2014,ISR
+12,Israel,12011,Balad,3.0,2011,2014,ISR
+13,Italy,13001,The People of Freedom,32.7,2011,2014,ITA
+13,Italy,13002,Northern League,9.4,2011,2014,ITA
+13,Italy,13004,Democratic Party,33.0,2011,2014,ITA
+13,Italy,13005,Italy of Values,2.0,2011,2014,ITA
+13,Italy,13006,Union of the Centre,6.0,2011,2014,ITA
+14,Netherlands,14001,People's Party for Freedom and Democracy,21.0,2011,2014,NLD
+14,Netherlands,14002,Labour Party,20.0,2011,2014,NLD
+14,Netherlands,14003,Party for Freedom,16.0,2011,2014,NLD
+14,Netherlands,14004,Socialist Party,10.0,2011,2014,NLD
+14,Netherlands,14005,Christian Democratic Appeal,12.0,2011,2014,NLD
+14,Netherlands,14006,Democrats 66,7.0,2011,2014,NLD
+14,Netherlands,14007,ChristianUnion,3.0,2011,2014,NLD
+14,Netherlands,14008,GreenLeft,7.0,2011,2014,NLD
+14,Netherlands,14009,Reformed Political Party,1.0,2011,2014,NLD
+14,Netherlands,14010,Party for the Animals,1.0,2011,2014,NLD
+14,Netherlands,14011,50PLUS,,2011,2014,NLD
+15,Norway,15001,Labour Party,,2011,2014,NOR
+15,Norway,15002,Progress Party,,2011,2014,NOR
+15,Norway,15003,Conservative Party,,2011,2014,NOR
+15,Norway,15004,Socialist Left Party,,2011,2014,NOR
+15,Norway,15005,Centre Party,,2011,2014,NOR
+15,Norway,15006,Christian Democratic Party,,2011,2014,NOR
+15,Norway,15007,Liberal Party,,2011,2014,NOR
+16,Poland,16001,Civic Platform,,2011,2014,POL
+16,Poland,16002,Law and Justice,,2011,2014,POL
+16,Poland,16003,Palikot's Movement,,2011,2014,POL
+16,Poland,16004,Polish People's Party,,2011,2014,POL
+16,Poland,16005,Democratic Left Alliance,,2011,2014,POL
+16,Poland,16006,United Poland,,2011,2014,POL
+17,Portugal,17001,Social Democratic Party,47.0,2011,2014,PRT
+17,Portugal,17002,Socialist Party,32.0,2011,2014,PRT
+17,Portugal,17003,People's Party,10.0,2011,2014,PRT
+17,Portugal,17004,Left Bloc,3.0,2011,2014,PRT
+17,Portugal,17005,Communist Party,6.0,2011,2014,PRT
+17,Portugal,17006,Ecologist Party 'The Greens',1.0,2011,2014,PRT
+18,Spain,18001,People's Party,53.0,2011,2014,ESP
+18,Spain,18003,Socialist Party,32.0,2011,2014,ESP
+18,Spain,18005,United Left,,2011,2014,ESP
+18,Spain,18006,Basque Nationalist Party,,2011,2014,ESP
+18,Spain,18007,Democratic Convergence of Catalonia,,2011,2014,ESP
+19,Sweden,19001,Social Democrats,32.0,2011,2014,SWE
+19,Sweden,19002,Left Party,5.0,2011,2014,SWE
+19,Sweden,19003,Green Party,7.0,2011,2014,SWE
+19,Sweden,19004,Centre Party,7.0,2011,2014,SWE
+19,Sweden,19005,Liberal People's Party,7.0,2011,2014,SWE
+19,Sweden,19006,Christian Democrats,5.0,2011,2014,SWE
+19,Sweden,19007,Moderate Party,31.0,2011,2014,SWE
+19,Sweden,19008,Sweden Democrats,6.0,2011,2014,SWE
+20,United Kingdom,20001,Conservative Party,,2005,2014,GBR
+20,United Kingdom,20002,Labour Party,,2010,2014,GBR
+20,United Kingdom,20003,Liberal Democrats,,2007,2014,GBR
+20,United Kingdom,20004,Scottish National Party,,2010,2014,GBR
+20,United Kingdom,20005,Plaid Cymru,,2010,2014,GBR
+20,United Kingdom,20006,Green Party,,2010,2014,GBR
+20,United Kingdom,20007,UK Independence Party,,2010,2014,GBR
