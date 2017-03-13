@@ -20,4 +20,6 @@ marpor <- marpor %>%
   left_join(country, by = c("countryname" = "country_name")) %>%
   arrange(countryname, party)
 
+marpor[marpor$abbrev == 'NDS-Z/LSV/ZZS/VMDK/ZZV/DLR', 'abbrev'] <- 'N/L/Z/V/Z/D'  # party short longer than 25 chars
+
 write.csv(marpor, "marpor.csv", na="", row.names = FALSE, fileEncoding="utf-8")
