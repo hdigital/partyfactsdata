@@ -1,6 +1,8 @@
 ## Source
 
-Volkens, Andrea / Lehmann, Pola / Matthieß, Theres / Merz, Nicolas / Regel, Sven / Werner, Annika (2015): The Manifesto Data Collection. Manifesto Project (MRG/CMP/MARPOR). Version 2015a. Berlin: Wissenschaftszentrum Berlin für Sozialforschung (WZB).
+Volkens, Andrea / Lehmann, Pola / Matthieß, Theres / Merz, Nicolas / Regel, Sven (2016): The Manifesto Data Collection. Manifesto Project (MRG/CMP/MARPOR). Version 2016b. Berlin: Wissenschaftszentrum Berlin für Sozialforschung (WZB).
+
+Volkens, Andrea / Lehmann, Pola / Matthieß, Theres / Merz, Nicolas / Regel, Sven with Werner / Annika (2016): The Manifesto Data Collection: South America. Version 2016b. Berlin: Wissenschaftszentrum Berlin für Sozialforschung (WZB).
 
 https://manifesto-project.wzb.eu/
 

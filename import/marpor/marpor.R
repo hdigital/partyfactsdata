@@ -1,6 +1,6 @@
 library("dplyr")
 
-marpor_raw <- read.csv("marpor-2015.csv", fileEncoding="utf-8", as.is=TRUE)
+marpor_raw <- read.csv("marpor-2016.csv", fileEncoding="utf-8", as.is=TRUE)
 marpor <- marpor_raw %>% select(-country)
 
 marpor_share <- read.csv("marpor-share.csv", fileEncoding="utf-8", as.is=TRUE)
