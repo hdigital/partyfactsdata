@@ -14,9 +14,11 @@ if(FALSE) {
 if( ! exists("clea_raw")) {
   clea_raw <- readRDS(file=sprintf("source__clea/clea_20161024.Rda", clea_version))
 }
-clea <- clea_raw
-clea$pv1 <- as.integer(clea$pv1)
-
+clea <- clea_raw %>%  
+  mutate(ctr_n = recode(ctr_n, UK='United Kingdom', US='United States of America'),
+         pv1 = as.integer(pv1),
+         mn = if_else(ctr == 840, 0, as.numeric(mn)))  # unify US election months
+         
 # convert data types -- if necessary
 
 pa_info <- clea %>%

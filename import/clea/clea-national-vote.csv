@@ -1937,28 +1937,6 @@
 "Turkey",792,"union party",49,1969,1969,2.8,1969,1,792000049
 "Turks and Caicos Islands",796,"People’s Democratic Movement",1,2007,2012,50.9,2012,2,796000001
 "Turks and Caicos Islands",796,"Progressive National Party",3,2007,2012,60.8,2007,2,796000003
-"UK",826,"anti-parnell nationalists",6,1892,1895,4.6,1892,2,826000006
-"UK",826,"conservative party",27,1832,2015,54.4,1931,46,826000027
-"UK",826,"conservatives (coalition)",28,1918,1918,32.7,1918,1,826000028
-"UK",826,"Green Party",41,1987,2015,3.9,2015,3,826000041
-"UK",826,"home rule party",43,1874,1880,4.6,1874,2,826000043
-"UK",826,"Labour and Co-operative",496,2015,2015,2.4,2015,1,826000496
-"UK",826,"labour party",56,1900,2015,48.6,1951,30,826000056
-"UK",826,"liberal democrat party",62,1992,2015,23,2010,6,826000062
-"UK",826,"liberal unionists",64,1886,1910,12.5,1886,7,826000064
-"UK",826,"liberal/labour alliance",65,1868,1910,2.7,1906,11,826000065
-"UK",826,"liberals",66,1832,2015,86.2,1859,41,826000066
-"UK",826,"liberals (coalition)",67,1918,1918,12.8,1918,1,826000067
-"UK",826,"national liberals",82,1922,1945,10,1922,4,826000082
-"UK",826,"nationalists",89,1885,1966,5.8,1885,19,826000089
-"UK",826,"referendum",441,1997,1997,2.6,1997,1,826000441
-"UK",826,"repealers",114,1832,1847,2.8,1832,3,826000114
-"UK",826,"scottish national party",121,1929,2015,4.7,2015,22,826000121
-"UK",826,"sinn féin",127,1918,2015,4.6,1918,13,826000127
-"UK",826,"social democratic party",131,1910,2015,11.6,1983,7,826000131
-"UK",826,"UK Independence Party",139,2015,2015,12.6,2015,1,826000139
-"UK",826,"unionists",145,1886,1974,3.8,1924,23,826000145
-"UK",826,"united kingdom independence party",458,1997,2010,3.1,2010,4,826000458
 "Ukraine",804,"-990",-990,1998,1998,49.7,1998,1,803999010
 "Ukraine",804,"Communist Party of Ukraine",5,1998,1998,12.8,1998,1,804000005
 "Ukraine",804,"Communist Party of Ukraine",26,2006,2007,5.6,2007,2,804000026
@@ -1970,6 +1948,72 @@
 "Ukraine",804,"Progressive Socialist Party of Ukraine",17,1998,2007,2.1,1998,2,804000017
 "Ukraine",804,"Social Democratic Party of Ukraine (United)",21,1998,1998,2.1,1998,1,804000021
 "Ukraine",804,"Socialist Party of Ukraine",43,2006,2007,5.9,2006,2,804000043
+"United Kingdom",826,"anti-parnell nationalists",6,1892,1895,4.6,1892,2,826000006
+"United Kingdom",826,"conservative party",27,1832,2015,54.4,1931,46,826000027
+"United Kingdom",826,"conservatives (coalition)",28,1918,1918,32.7,1918,1,826000028
+"United Kingdom",826,"Green Party",41,1987,2015,3.9,2015,3,826000041
+"United Kingdom",826,"home rule party",43,1874,1880,4.6,1874,2,826000043
+"United Kingdom",826,"Labour and Co-operative",496,2015,2015,2.4,2015,1,826000496
+"United Kingdom",826,"labour party",56,1900,2015,48.6,1951,30,826000056
+"United Kingdom",826,"liberal democrat party",62,1992,2015,23,2010,6,826000062
+"United Kingdom",826,"liberal unionists",64,1886,1910,12.5,1886,7,826000064
+"United Kingdom",826,"liberal/labour alliance",65,1868,1910,2.7,1906,11,826000065
+"United Kingdom",826,"liberals",66,1832,2015,86.2,1859,41,826000066
+"United Kingdom",826,"liberals (coalition)",67,1918,1918,12.8,1918,1,826000067
+"United Kingdom",826,"national liberals",82,1922,1945,10,1922,4,826000082
+"United Kingdom",826,"nationalists",89,1885,1966,5.8,1885,19,826000089
+"United Kingdom",826,"referendum",441,1997,1997,2.6,1997,1,826000441
+"United Kingdom",826,"repealers",114,1832,1847,2.8,1832,3,826000114
+"United Kingdom",826,"scottish national party",121,1929,2015,4.7,2015,22,826000121
+"United Kingdom",826,"sinn féin",127,1918,2015,4.6,1918,13,826000127
+"United Kingdom",826,"social democratic party",131,1910,2015,11.6,1983,7,826000131
+"United Kingdom",826,"UK Independence Party",139,2015,2015,12.6,2015,1,826000139
+"United Kingdom",826,"unionists",145,1886,1974,3.8,1924,23,826000145
+"United Kingdom",826,"united kingdom independence party",458,1997,2010,3.1,2010,4,826000458
+"United States of America",840,"abolition",7,1839,1850,2.2,1845,4,840000007
+"United States of America",840,"adams republican",10,1823,1980,22.8,1826,8,840000010
+"United States of America",840,"american (know nothing)",31,1844,1861,48.1,1855,17,840000031
+"United States of America",840,"american labor",43,1936,2014,2.4,1942,12,840000043
+"United States of America",840,"anti-broderick democrat",63,1854,1854,3.3,1854,1,840000063
+"United States of America",840,"anti-lecompton democrat",68,1858,1858,3.8,1858,1,840000068
+"United States of America",840,"conservative (old)",156,1864,1874,28.8,1869,9,840000156
+"United States of America",840,"constitutionalist",164,1806,1984,9.1,1806,3,840000164
+"United States of America",840,"democrat",180,1824,2014,68.2,1959,125,840000180
+"United States of America",840,"democratic republican",186,1790,1835,71,1803,34,840000186
+"United States of America",840,"farmer-labor",212,1920,1942,3.1,1932,12,840000212
+"United States of America",840,"federalist",218,1789,1980,31.8,1800,32,840000218
+"United States of America",840,"free soil",232,1847,1854,10.1,1848,8,840000232
+"United States of America",840,"fusion",244,1856,1998,3.4,1882,14,840000244
+"United States of America",840,"greenback",253,1874,1886,11.4,1878,7,840000253
+"United States of America",840,"hard democrat",258,1854,1854,4.1,1854,1,840000258
+"United States of America",840,"independent democrat",292,1839,1962,4.5,1859,46,840000292
+"United States of America",840,"jacksonian",362,1824,1932,19.5,1828,11,840000362
+"United States of America",840,"liberal republican",405,1870,1872,33.1,1872,2,840000405
+"United States of America",840,"liberty",410,1840,2010,2.8,1846,14,840000410
+"United States of America",840,"modern republican",583,1854,2014,65.2,1889,96,840000583
+"United States of America",840,"national progressive",447,1912,1934,2.5,1912,4,840000447
+"United States of America",840,"national republican",450,1824,1896,33.6,1831,11,840000450
+"United States of America",840,"national union",456,1865,1866,7.1,1865,2,840000456
+"United States of America",840,"opposition",488,1833,1860,14.5,1859,5,840000488
+"United States of America",840,"people's",506,1858,1976,6.3,1892,19,840000506
+"United States of America",840,"populist",529,1890,1992,4.5,1894,14,840000529
+"United States of America",840,"progressive",543,1910,2008,8.7,1912,19,840000543
+"United States of America",840,"prohibition",552,1870,1984,2.9,1886,57,840000552
+"United States of America",840,"redemption democrat",571,1843,1843,9.4,1843,1,840000571
+"United States of America",840,"socialist",616,1878,2010,6.9,1912,49,840000616
+"United States of America",840,"soft democrat",625,1854,1854,5.1,1854,1,840000625
+"United States of America",840,"southern rights democrat",629,1851,1862,12.1,1861,6,840000629
+"United States of America",840,"southern rights whig",630,1851,1851,4.6,1851,1,840000630
+"United States of America",840,"state rights",636,1833,1940,2.9,1851,4,840000636
+"United States of America",840,"state rights democrat",638,1826,1950,2.1,1831,14,840000638
+"United States of America",840,"state rights whig",639,1828,1859,12.3,1838,10,840000639
+"United States of America",840,"union (civil war)",693,1851,1865,27,1865,9,840000693
+"United States of America",840,"union democrat",695,1826,1861,8.5,1861,11,840000695
+"United States of America",840,"union republican",699,1861,1866,34,1863,6,840000699
+"United States of America",840,"union whig",701,1851,1853,2.3,1851,2,840000701
+"United States of America",840,"washington",734,1912,1916,5,1912,3,840000734
+"United States of America",840,"whig",739,1824,1863,61.6,1837,35,840000739
+"United States of America",840,"workingmen's party or league",760,1879,1912,21.8,1879,5,840000760
 "Uruguay",858,"Partido Colorado",7,1954,2014,50.5,1954,12,858000007
 "Uruguay",858,"Partido Comunista",8,1954,1958,2.7,1958,2,858000008
 "Uruguay",858,"Partido Demócrata Cristiano",11,1962,1984,18.3,1971,4,858000011
@@ -1986,66 +2030,6 @@
 "Uruguay",858,"Partido Unión Cívica del Uruguay",38,1954,1958,5,1954,2,858000038
 "Uruguay",858,"Partido Unión Patriótica",39,1962,1984,2.3,1962,3,858000039
 "Uruguay",858,"Unión Demócrata Reformista",44,1958,1958,2,1958,1,858000044
-"US",840,"abolition",7,1839,1850,28.6,1839,4,840000007
-"US",840,"adams republican",10,1823,1980,63.2,1826,15,840000010
-"US",840,"american (know nothing)",31,1844,1861,60.4,1854,25,840000031
-"US",840,"american labor",43,1936,2014,2.4,1942,12,840000043
-"US",840,"anti monopoly",59,1874,1886,36.1,1874,3,840000059
-"US",840,"anti-bank",772,1832,1832,2.1,1832,1,840000772
-"US",840,"anti-broderick democrat",63,1854,1854,3.5,1854,1,840000063
-"US",840,"anti-democrat-fusion",64,1878,1878,2.8,1878,1,840000064
-"US",840,"anti-lecompton democrat",68,1858,1858,4.1,1858,1,840000068
-"US",840,"anti-mason",70,1828,1843,3.1,1830,6,840000070
-"US",840,"coalition",137,1856,1856,2,1856,1,840000137
-"US",840,"conservative (old)",156,1864,1874,51.5,1865,12,840000156
-"US",840,"constitutional union",163,1860,1863,6.1,1860,3,840000163
-"US",840,"constitutionalist",164,1806,1984,12,1808,3,840000164
-"US",840,"democrat",180,1824,2014,2295.1,1833,281,840000180
-"US",840,"democratic republican",186,1790,1835,473.4,1821,79,840000186
-"US",840,"farmer-labor",212,1920,1942,17.6,1932,13,840000212
-"US",840,"federalist",218,1789,1980,191.3,1800,66,840000218
-"US",840,"free soil",232,1847,1854,13.1,1848,17,840000232
-"US",840,"fusion",244,1856,1998,11.9,1882,15,840000244
-"US",840,"greenback",253,1874,1886,11.6,1878,13,840000253
-"US",840,"greenback labor",255,1880,1884,2.4,1882,4,840000255
-"US",840,"hard democrat",258,1854,1854,4.3,1854,1,840000258
-"US",840,"independent democrat",292,1839,1962,6.6,1859,53,840000292
-"US",840,"independent republican",324,1867,1990,2.7,1936,51,840000324
-"US",840,"jacksonian",362,1824,1932,698.6,1833,24,840000362
-"US",840,"liberal",402,1882,2002,2.2,1882,40,840000402
-"US",840,"liberal republican",405,1870,1872,36.2,1872,3,840000405
-"US",840,"liberty",410,1840,2010,3.3,1844,19,840000410
-"US",840,"modern republican",583,1854,2014,70.7,1863,180,840000583
-"US",840,"national american",441,1859,1859,6,1859,1,840000441
-"US",840,"national progressive",447,1912,1934,2.6,1912,4,840000447
-"US",840,"national republican",450,1824,1896,60.4,1831,24,840000450
-"US",840,"national union",456,1865,1866,9.6,1865,2,840000456
-"US",840,"opposition",488,1833,1860,41.6,1858,6,840000488
-"US",840,"opposition democrat",489,1832,1859,17.5,1832,5,840000489
-"US",840,"people's",506,1858,1976,7.4,1862,23,840000506
-"US",840,"populist",529,1890,1992,4.5,1894,14,840000529
-"US",840,"progressive",543,1910,2008,21,1912,22,840000543
-"US",840,"prohibition",552,1870,1984,4.8,1886,80,840000552
-"US",840,"readjuster",570,1880,1882,2.1,1882,2,840000570
-"US",840,"redemption democrat",571,1843,1843,12.9,1843,1,840000571
-"US",840,"reform",574,1874,2014,2.1,1874,13,840000574
-"US",840,"socialist",616,1878,2010,10.6,1912,61,840000616
-"US",840,"soft democrat",625,1854,1854,5.4,1854,1,840000625
-"US",840,"southern rights democrat",629,1851,1862,28.4,1861,8,840000629
-"US",840,"southern rights whig",630,1851,1851,6.9,1851,1,840000630
-"US",840,"state rights",636,1833,1940,4.3,1851,4,840000636
-"US",840,"state rights democrat",638,1826,1950,4.7,1831,14,840000638
-"US",840,"state rights whig",639,1828,1859,13.8,1838,10,840000639
-"US",840,"states rights",640,1861,1861,4,1861,1,840000640
-"US",840,"union",692,1833,1942,2.1,1833,14,840000692
-"US",840,"union (civil war)",693,1851,1865,93.7,1862,15,840000693
-"US",840,"union and peace",694,1861,1861,2.9,1861,1,840000694
-"US",840,"union democrat",695,1826,1861,22,1861,12,840000695
-"US",840,"union republican",699,1861,1866,70,1864,12,840000699
-"US",840,"union whig",701,1851,1853,3.4,1851,2,840000701
-"US",840,"washington",734,1912,1916,5.3,1912,3,840000734
-"US",840,"whig",739,1824,1863,73.1,1840,84,840000739
-"US",840,"workingmen's party or league",760,1879,1912,21.8,1879,5,840000760
 "Vanuatu",548,"graon ma jastis party",3,2012,2016,4.1,2016,2,548000003
 "Vanuatu",548,"green confederation",4,2012,2016,2.1,2012,2,548000004
 "Vanuatu",548,"national united party",14,2012,2016,4.7,2012,2,548000014
