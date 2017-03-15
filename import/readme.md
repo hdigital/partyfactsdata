@@ -15,13 +15,7 @@ For a detailed instruction how to contribute your dataset, see [our import guide
 
 Most of the data preparation is done in R. Some scripts may require additional packages. We have a strong preference for [RStudio R packages](https://www.rstudio.com/products/rpackages/) (esp. [dplyr](https://github.com/hadley/dplyr)). `run-all.R` includes information about used packages.
 
-Party Facts import requires ISO3 country codes. `country.csv` includes the respective information. Some country names may need to be recoded -- see snippet.
-
-```R
-# minimal example -- works only for values that are valid R variable names
-recode <- c(a = "aa", z = "zz", "a 1" = NA)
-sapply(letters, function(.) ifelse(. %in% names(recode), recode[[.]], .))
-```
+Party Facts import requires ISO3 country codes. `country.csv` includes the respective information. Recode country names with the R-package `countrycode` 
 
 Please make usage of [Hadley Wickhams R Style Guide](http://adv-r.had.co.nz/Style.html) when writing code in R.  
 This will lead to more continuity across the import scripts.

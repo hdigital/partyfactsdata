@@ -1,34 +1,25 @@
 library(dplyr)
+library(readr)
+library(countrycode)
 
-party_raw <- read.csv("source__clea/clea_20161024_appendix_II.csv",
-                      fileEncoding = "utf-8", as.is=TRUE)
+party_raw <- read_csv("source__clea/clea_20161024_appendix_II.csv")
 
 # add CLEA data variable names to party information and clean-up data for import
 party <- party_raw
 names(party) <- c('ctr_n', 'pty', 'abbr', 'name', 'name_english', 'information')
-party$pty <- as.integer(party$pty)
-party[party$ctr_n == "United Kingdom", "ctr_n"] <- "UK"
-party[party$ctr_n == "United States of America", "ctr_n"] <- "US"
-
-# create dataset for adding Party Facts country short code to CLEA data
-pf_country <- read.csv("country.csv", fileEncoding = 'utf-8', as.is = TRUE)
-recode <- c("Korea (South)" = "Korea",
-            "Russia" = "Russian Federation",
-            "Saint Vincent and the Grenadines" = "St. Vincent and the Grenadines",
-            "United Kingdom" = "UK",
-            "United States" = "US")
-recode_country <- Vectorize(function(.) ifelse(. %in% names(recode), recode[[.]], .))
-country <- pf_country %>%
-  mutate(name = recode_country(name)) %>%
-  select(ctr_n = name, country = name_short)
 
 # add time and size information and select larger parties
-vote <- read.csv("clea-national-vote.csv", fileEncoding = "utf-8", as.is=TRUE)
-party <- party %>% left_join(country) %>% inner_join(vote)
+vote <- read_csv("clea-national-vote.csv")
+party <- party %>%
+  mutate(pty = as.integer(pty)) %>%
+  inner_join(vote)
 
-# check country information
-if(nrow(party %>% filter(is.na(country))) > 0) {
-  warning("Not all country names cleaned-up for import")
+# add Party Facts country codes
+party <- party %>%
+  mutate(country = countrycode(ctr_n, 'country.name', 'iso3c',
+                            custom_match = c(Kosovo='XKX', Zambia='ZWB')))
+if(any(is.na(party$country))) {
+  warning("Country name clean-up needed")
 }
 
 # clean-up CLEA data for import
