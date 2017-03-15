@@ -1,10 +1,11 @@
-library("dplyr")
+library(dplyr)
+library(readr)
 library(countrycode)
 
-marpor_raw <- read.csv("marpor-2016.csv", fileEncoding="utf-8", as.is=TRUE)
+marpor_raw <- read_csv("marpor-2016.csv")
 marpor <- marpor_raw %>% select(-country)
 
-marpor_share <- read.csv("marpor-share.csv", fileEncoding="utf-8", as.is=TRUE)
+marpor_share <- read_csv("marpor-share.csv")
 marpor <- marpor %>% left_join(marpor_share)
 
 # add Party Facts country codes
@@ -15,6 +16,7 @@ if(any(is.na(marpor$country))) {
   warning("Country name clean-up needed")
 }
 
-marpor[marpor$abbrev == 'NDS-Z/LSV/ZZS/VMDK/ZZV/DLR', 'abbrev'] <- 'N/L/Z/V/Z/D'  # party short longer than 25 chars
+# replace party short longer than 25 chars
+marpor[nchar(marpor$abbrev) > 25 & ! is.na(marpor$abbrev), "abbrev"] <- NA
 
 write.csv(marpor, "marpor.csv", na="", row.names = FALSE, fileEncoding="utf-8")
