@@ -205,7 +205,7 @@ id,name_short,name,description,comment,continent,region,iso2,iso3,iso_numeric,ma
 208,IDN,Indonesia,"","",Asia,"South East Asia",ID,IDN,360,"",""
 209,MHL,"Marshall Islands","","",Oceania,Pacific,MH,MHL,584,"",""
 210,GEO,Georgia,"","",Asia,"South West Asia",GE,GEO,268,"",""
-211,ZWB,Zambia,"","",Africa,"Southern Africa",ZM,ZWB,894,"",""
+211,ZMB,Zambia,"","",Africa,"Southern Africa",ZM,ZWB,894,"",""
 212,HTI,Haiti,"","",Americas,"West Indies",HT,HTI,332,"",""
 213,ATF,"French Southern and Antarctic Lands","","","Indian Ocean","Southern Indian Ocean",TF,ATF,260,"",""
 214,PAN,Panama,"","",Americas,"Central America",PA,PAN,591,"",""

@@ -17,7 +17,7 @@ party <- party %>%
 # add Party Facts country codes
 party <- party %>%
   mutate(country = countrycode(ctr_n, 'country.name', 'iso3c',
-                            custom_match = c(Kosovo='XKX', Zambia='ZWB')))
+                            custom_match = c(Kosovo='XKX', Zambia='ZMB')))
 if(any(is.na(party$country))) {
   warning("Country name clean-up needed")
 }
