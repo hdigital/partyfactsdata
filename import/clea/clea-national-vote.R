@@ -1,22 +1,23 @@
 library(dplyr)
 
-clea_version <- "20161024"
+clea_version <- '20161024'
 max_share <- 2.0
 
 # Stata exported RDS file to save disk space
 if(FALSE) {
   library(haven)
-  clea <- haven::read_dta(sprintf("source__clea/clea_%s.dta", clea_version))
-  saveRDS(clea, file=sprintf("source__clea/clea_%s.Rda", clea_version), ascii = TRUE)
+  clea <- haven::read_dta(sprintf('source__clea/clea_%s.dta', clea_version))
+  saveRDS(clea, file=sprintf('source__clea/clea_%s.Rda', clea_version), ascii = TRUE)
 }
 
 # read CLEA data only once 
-if( ! exists("clea_raw")) {
-  clea_raw <- readRDS(file=sprintf("source__clea/clea_20161024.Rda", clea_version))
+if( ! exists('clea_raw')) {
+  clea_raw <- readRDS(file=sprintf('source__clea/clea_%s.Rda', clea_version))
 }
-clea <- clea_raw %>%  
+clea <- clea_raw %>%
+  filter(pv1 > 0) %>% 
   mutate(ctr_n = recode(ctr_n, UK='United Kingdom', US='United States of America'),
-         pv1 = as.integer(pv1),
+         pv1 = as.numeric(pv1),
          mn = if_else(ctr == 840, 0, as.numeric(mn)))  # unify US election months
          
 # convert data types -- if necessary
@@ -34,9 +35,9 @@ pa_name <- clea %>%
 
 elec <- clea %>% 
   group_by(ctr, yr, mn, pty) %>%
-  summarize(pv1 = sum(as.numeric(pv1), na.rm=T)) %>%
+  summarize(pv1 = sum(pv1, na.rm=T)) %>%
   group_by(ctr, yr, mn) %>%
-  mutate(pv1_share = round(pv1 / sum(as.numeric(pv1)) * 100, 1))
+  mutate(pv1_share = round(pv1 / sum(pv1) * 100, 1))
 
 pa_share <- elec %>%
   group_by(ctr, pty) %>%
@@ -59,7 +60,7 @@ elec_out <- pa_name %>%
   arrange(ctr_n,  yr, mn, -pv1_share)
 
 write.csv(elec_out, 'source__clea/clea_national_vote.csv',
-          na = '', fileEncoding = "utf-8", row.names = FALSE)
+          na = '', fileEncoding = 'utf-8', row.names = FALSE)
 
 
 ## Party information for Party Facts data import
@@ -68,6 +69,6 @@ write.csv(elec_out, 'source__clea/clea_national_vote.csv',
 # higher threshold because of votes not in 'pv1' parties
 party_out <- party %>%
   mutate(ctr_pty = ctr*1000000 + pty) %>%
-  filter(pty < 3996, pv1_share_max >= max_share)
+  filter(pty > 0, pty < 4000, pv1_share_max >= max_share)
 
-write.csv(party_out, 'clea-national-vote.csv', na='', fileEncoding = "utf-8", row.names = FALSE)
+write.csv(party_out, 'clea-national-vote.csv', na='', fileEncoding = 'utf-8', row.names = FALSE)
