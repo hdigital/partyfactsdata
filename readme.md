@@ -14,3 +14,5 @@ The [Party Facts project](http://partyfacts.herokuapp.com/) aims to offer a gate
 The _import_ folder contains all external datasets.
 
 You may submit your own dataset there.
+
+![Party Facts world map](worldmap.png)
