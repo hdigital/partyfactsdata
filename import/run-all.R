@@ -1,6 +1,6 @@
 # install and load all required packages
 
-packages <- c("countrycode", "dplyr", "RCurl", "readr", "readxl", "stringr", "tidyr")
+packages <- c("tidyverse", "countrycode", "RCurl", "readxl")
 lapply(packages, function(pack) {
   if ( ! pack %in% installed.packages()[,"Package"]) {
     install.packages(pack, repos="http://cran.r-project.org")

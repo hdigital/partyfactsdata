@@ -13,12 +13,22 @@ For a detailed instruction how to contribute your dataset, see [our import guide
 
 # R packages and snippets
 
-Most of the data preparation is done in R. Some scripts may require additional packages. We have a strong preference for [RStudio R packages](https://www.rstudio.com/products/rpackages/) (esp. [dplyr](https://github.com/hadley/dplyr)). `run-all.R` includes information about used packages.
+Most of the data preparation is done in R. Some scripts may require additional packages. We have a strong preference for [RStudio R packages](https://www.rstudio.com/products/rpackages/) (esp. [tidyverse](http://tidyverse.org/)). `run-all.R` includes information about used packages.
 
-Party Facts import requires ISO3 country codes. `country.csv` includes the respective information. Recode country names with the R-package `countrycode` 
+Please use the [tidyverse R Style Guide](http://style.tidyverse.org/) when writing code in R.  
 
-Please make usage of [Hadley Wickhams R Style Guide](http://adv-r.had.co.nz/Style.html) when writing code in R.  
-This will lead to more continuity across the import scripts.
+Party Facts import requires ISO3 country codes. `country.csv` includes the respective information. Recode country names with the R-package `countrycode`
+
+```r
+# Example country recoding from Marpor import
+marpor <- marpor %>%
+  mutate(country = countrycode(countryname, 'country.name', 'iso3c',
+                            custom_match = c(`Northern Ireland`='NIR')))
+if(any(is.na(marpor$country))) {
+  warning("Country name clean-up needed")
+}
+```
+
 
 # Template
 
