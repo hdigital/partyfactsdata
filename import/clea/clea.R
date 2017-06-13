@@ -1,8 +1,11 @@
-library(dplyr)
-library(readr)
+library(tidyverse)
+library(stringr)
 library(countrycode)
 
-party_raw <- read_csv("source__clea/clea_20161024_appendix_II.csv")
+clea_version <- '20170530'
+
+path <- str_interp("source__clea/clea_${clea_version}/clea_${clea_version}_appendix_II.csv")
+party_raw <- read_csv(path)
 
 # add CLEA data variable names to party information and clean-up data for import
 party <- party_raw
@@ -24,6 +27,5 @@ if(any(is.na(party$country))) {
 
 # clean-up CLEA data for import
 party[nchar(party$abbr) > 25 & ! is.na(party$abbr), "abbr"] <- NA
-party[party$ctr_pty == 380000035, "name_english"] <- NA
 
-write.csv(party, 'clea.csv', na='', fileEncoding = "utf-8", row.names = FALSE)
+write_csv(party, 'clea.csv', na = '')

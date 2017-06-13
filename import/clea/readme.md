@@ -1,15 +1,15 @@
 ## Source
 
-Kollman, Ken, Allen Hicken, Daniele Caramani, David Backer, and David Lublin. 2016. “Constituency-Level Elections Archive (CLEA). 2016 Version (20161024). Produced and Distributed by Ann Arbor, MI: Center for Political Studies, University of Michigan.”
+Kollman, Ken, Allen Hicken, Daniele Caramani, David Backer, and David Lublin. 2017. “Constituency-Level Elections Archive (CLEA). 2017 Version (20170530). Produced and Distributed by Ann Arbor, MI: Center for Political Studies, University of Michigan.”
 
 http://www.electiondataarchive.org
 
 
 ## Import
 
-party information from csv export of "clea_20161024_appendix_II.xlsx"
+party information from csv export of "clea_20170530_appendix_II.xlsx"
 
-size, first/last year, number of elections by party extracted from "clea_20161024.dta" -- see `clea-national-vote.R`
+size, first/last year, number of elections by party extracted from "clea_20170530.dta" -- see `clea-national-vote.R`
 
 
 ## Comments
