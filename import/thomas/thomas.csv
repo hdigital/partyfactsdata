@@ -1,55 +1,55 @@
-"country","party","year_first","year_last","country_short","id"
-"Australia","Country",1910,1960,"AUS",1
-"Australia","Labour",1890,1960,"AUS",2
-"Australia","Liberal",1910,1960,"AUS",3
-"Austria","League of Independents",1920,1960,"AUT",4
-"Austria","People's",1890,1960,"AUT",5
-"Austria","Socialist",1890,1960,"AUT",6
-"Canada","CCF/NDP",1930,1960,"CAN",7
-"Canada","Liberal",1870,1960,"CAN",8
-"Canada","Progressive Conservative",1870,1960,"CAN",9
-"Canada","SocialCredit",1930,1960,"CAN",10
-"France","Communist",1930,1960,"FRA",11
-"France","Conservative ",1870,1890,"FRA",12
-"France","Democratic Republican Alliance",1910,1930,"FRA",13
-"France","Popular Republican Movement",1890,1960,"FRA",14
-"France","Radical",1890,1960,"FRA",15
-"France","Republican Federation",1870,1930,"FRA",16
-"France","Republican Socialist",1930,1930,"FRA",17
-"France","SFIO",1890,1960,"FRA",18
-"France","Union for the New Republic",1950,1960,"FRA",19
-"Germany","Christian Democratic",1870,1960,"DEU",20
-"Germany","Conservative",1870,1910,"DEU",21
-"Germany","Free Democratic",1870,1960,"DEU",22
-"Germany","Free Democratic Conservative",1870,1870,"DEU",23
-"Germany","National Liberal",1870,1910,"DEU",24
-"Germany","Nazi",1930,1930,"DEU",25
-"Germany","Social Democratic",1870,1960,"DEU",26
-"Italy","Christian Democratic",1920,1960,"ITA",27
-"Italy","Communist",1920,1960,"ITA",28
-"Italy","Constitutional Coalition",1920,1920,"ITA",29
-"Italy","Fascist",1920,1960,"ITA",30
-"Italy","PSI",1920,1960,"ITA",31
-"Japan","Government",1890,1890,"JPN",32
-"Japan","Kokuminto",1920,1920,"JPN",33
-"Japan","Left-Wing Socialist",1950,1950,"JPN",34
-"Japan","Liberal",1890,1950,"JPN",35
-"Japan","Liberal Democratic",1960,1960,"JPN",36
-"Japan","Progressive",1890,1950,"JPN",37
-"Japan","Right-Wing Socialist",1950,1950,"JPN",38
-"Japan","Socialist",1930,1960,"JPN",39
-"New Zealand","Labour",1910,1960,"NZL",40
-"New Zealand","Liberal",1890,1910,"NZL",41
-"New Zealand","National",1890,1960,"NZL",42
-"Russia","CPSU",1910,1960,"RUS",43
-"Sweden","Centre",1930,1960,"SWE",44
-"Sweden","Conservative",1910,1960,"SWE",45
-"Sweden","Liberal",1910,1960,"SWE",46
-"Sweden","Social Democratic",1890,1960,"SWE",47
-"United Kingdom","Conservative",1870,1960,"GBR",48
-"United Kingdom","Irish Nationalist",1890,1910,"GBR",49
-"United Kingdom","Labour",1910,1960,"GBR",50
-"United Kingdom","Liberal",1870,1960,"GBR",51
-"United Kingdom","Liberal Unionist",1890,1890,"GBR",52
-"United States","Democratic",1870,1960,"USA",53
-"United States","Republican",1870,1960,"USA",54
+country,party,year_first,year_last,country_short,id
+Australia,Country,1910,1960,AUS,1
+Australia,Labour,1890,1960,AUS,2
+Australia,Liberal,1910,1960,AUS,3
+Austria,League of Independents,1920,1960,AUT,4
+Austria,People's,1890,1960,AUT,5
+Austria,Socialist,1890,1960,AUT,6
+Canada,CCF/NDP,1930,1960,CAN,7
+Canada,Liberal,1870,1960,CAN,8
+Canada,Progressive Conservative,1870,1960,CAN,9
+Canada,SocialCredit,1930,1960,CAN,10
+France,Communist,1930,1960,FRA,11
+France,Conservative,1870,1890,FRA,12
+France,Democratic Republican Alliance,1910,1930,FRA,13
+France,Popular Republican Movement,1890,1960,FRA,14
+France,Radical,1890,1960,FRA,15
+France,Republican Federation,1870,1930,FRA,16
+France,Republican Socialist,1930,1930,FRA,17
+France,SFIO,1890,1960,FRA,18
+France,Union for the New Republic,1950,1960,FRA,19
+Germany,Christian Democratic,1870,1960,DEU,20
+Germany,Conservative,1870,1910,DEU,21
+Germany,Free Democratic,1870,1960,DEU,22
+Germany,Free Democratic Conservative,1870,1870,DEU,23
+Germany,National Liberal,1870,1910,DEU,24
+Germany,Nazi,1930,1930,DEU,25
+Germany,Social Democratic,1870,1960,DEU,26
+Italy,Christian Democratic,1920,1960,ITA,27
+Italy,Communist,1920,1960,ITA,28
+Italy,Constitutional Coalition,1920,1920,ITA,29
+Italy,Fascist,1920,1960,ITA,30
+Italy,PSI,1920,1960,ITA,31
+Japan,Government,1890,1890,JPN,32
+Japan,Kokuminto,1920,1920,JPN,33
+Japan,Left-Wing Socialist,1950,1950,JPN,34
+Japan,Liberal,1890,1950,JPN,35
+Japan,Liberal Democratic,1960,1960,JPN,36
+Japan,Progressive,1890,1950,JPN,37
+Japan,Right-Wing Socialist,1950,1950,JPN,38
+Japan,Socialist,1930,1960,JPN,39
+New Zealand,Labour,1910,1960,NZL,40
+New Zealand,Liberal,1890,1910,NZL,41
+New Zealand,National,1890,1960,NZL,42
+Russia,CPSU,1910,1960,RUS,43
+Sweden,Centre,1930,1960,SWE,44
+Sweden,Conservative,1910,1960,SWE,45
+Sweden,Liberal,1910,1960,SWE,46
+Sweden,Social Democratic,1890,1960,SWE,47
+United Kingdom,Conservative,1870,1960,GBR,48
+United Kingdom,Irish Nationalist,1890,1910,GBR,49
+United Kingdom,Labour,1910,1960,GBR,50
+United Kingdom,Liberal,1870,1960,GBR,51
+United Kingdom,Liberal Unionist,1890,1890,GBR,52
+United States,Democratic,1870,1960,USA,53
+United States,Republican,1870,1960,USA,54

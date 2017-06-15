@@ -22,7 +22,7 @@ ctryid,country,ptyid,ptyname,share_year_first,year_first,year_last,country_short
 3,Belgium,3014,"Libertarian, Direct, Democratic",0.7,2011,2014,BEL
 4,Canada,4001,Liberal Party,11,2011,2014,CAN
 4,Canada,4002,New Democratic Party,33,2011,2014,CAN
-4,Canada,4003,Bloc Québécois,1,2011,2014,CAN
+4,Canada,4003,Bloc Québécois,1,2011,2014,CAN
 4,Canada,4004,Conservative Party,,2004,2014,CAN
 4,Canada,4005,Green Party,,2006,2014,CAN
 5,Czech Republic,5001,Social Democratic Party,,2011,2014,CZE
@@ -53,8 +53,8 @@ ctryid,country,ptyid,ptyname,share_year_first,year_first,year_last,country_short
 10,Hungary,10005,Socialist Party,,2009,2014,HUN
 11,Ireland,11001,Fine Gael,,2002,2014,IRL
 11,Ireland,11002,Labour Party,,2011,2014,IRL
-11,Ireland,11003,Fianna Fáil,,2011,2014,IRL
-11,Ireland,11004,Sinn Féin,,2011,2014,IRL
+11,Ireland,11003,Sinn Féin,,2011,2014,IRL
+11,Ireland,11004,Sinn FÃƒÂ©in,,2011,2014,IRL
 11,Ireland,11005,Green Party,,2011,2014,IRL
 12,Israel,12001,Kadima,23,2011,2014,ISR
 12,Israel,12002,Likud,23,2011,2014,ISR
@@ -100,7 +100,7 @@ ctryid,country,ptyid,ptyname,share_year_first,year_first,year_last,country_short
 17,Portugal,17003,People's Party,10,2011,2014,PRT
 17,Portugal,17004,Left Bloc,3,2011,2014,PRT
 17,Portugal,17005,Communist Party,6,2011,2014,PRT
-17,Portugal,17006,Ecologist Party 'The Greens',1,2011,2014,PRT
+17,Portugal,17006,"Ecologist Party ""The Greens""",1,2011,2014,PRT
 18,Spain,18001,People's Party,53,2011,2014,ESP
 18,Spain,18003,Socialist Party,32,2011,2014,ESP
 18,Spain,18005,United Left,,2011,2014,ESP
