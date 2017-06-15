@@ -13,7 +13,7 @@ if ( ! exists("ess_round_raw")) {
 }
 
 # Import country data files and select relevant variables, later needed for ISO country codes
-country_list_raw <- read.csv("../country.csv", encoding="utf-8")
+country_list_raw <- read.csv("country.csv", encoding="utf-8")
 country_list <- select(country_list_raw, name, iso3)
 
 
