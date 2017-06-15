@@ -1,6 +1,13 @@
-library("dplyr")
+library(tidyverse)
 
-coppedge_raw <- read.csv("coppedge-parties.csv", encoding = "UTF-8", as.is=TRUE)
+coppedge_parties <- "coppedge-parties.csv"
+
+if( ! file.exists(coppedge_parties)) {
+  url <- "https://docs.google.com/spreadsheets/d/1KwaCELyZ4qhVwSYPYl5z_DK2gO_UTmDgfFvxKvHbekk/pub?output=csv"
+  download.file(url, coppedge_parties, mode="wb")
+}
+
+coppedge_raw <- read_csv(coppedge_parties)
 
 # remove duplicates and add first/last year
 coppedge <- coppedge_raw %>%
@@ -13,10 +20,10 @@ coppedge <- coppedge_raw %>%
 
 # filter parties to ignore and short lived parties
 coppedge <- coppedge %>%
-  filter(ignore_partyfacts == 0, year_first != year_last) %>% 
+  filter(ignore_partyfacts == 0, year_first != year_last) %>%
   select(-ignore_partyfacts)
 
 # filter Argentina parties more restrictivly
-coppedge <- coppedge[ ! with(coppedge, country == 'ARG' & year_last - year_first < 20) , ]
+coppedge <- coppedge[ ! with(coppedge, country == "ARG" & year_last - year_first < 20) , ]
 
-write.csv(coppedge, "coppedge.csv", na='', fileEncoding = "utf-8", row.names = FALSE)
+write.csv(coppedge, "coppedge.csv", na = "")
