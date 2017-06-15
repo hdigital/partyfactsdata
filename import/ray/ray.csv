@@ -20,6 +20,20 @@ NATID,NATION,PARTYID,PARTY,ENAME,NAME,CMPCODE,id,iso3
 1,Belgium,14,UDRT,Union Democratique pour le Respect pour du Trav,Democratic Union for the Respect of Labour (Wal,NaN,1014,BEL
 1,Belgium,12,VB,Vlaams Bloc,Flemish Bloc,NaN,1012,BEL
 1,Belgium,10,VU,Volksunie,Peoples Union,21913,1010,BEL
+17,Switzerl,12,ALTGR,Grune Alternative Schwiez,Alternative Greens,NaN,17012,CHE
+17,Switzerl,10,ASP,Partito Socialista Autonomo,Autonomous Socialist Party,NaN,17010,CHE
+17,Switzerl,1,CDPP,Christlich Demokratische Volkspartei,Christian Democratic Peoples Party,43520,17001,CHE
+17,Switzerl,13,FREE,Freiheits Partei,Freedom Party,NaN,17013,CHE
+17,Switzerl,11,GREEN,Grune Partei der Schweiz,Green Party,NaN,17011,CHE
+17,Switzerl,8,INDEP,Alliance des Independents,Independents Party,NaN,17008,CHE
+17,Switzerl,7,LAB,Partei der Arbeit der Schweiz,Labour Party (communist),NaN,17007,CHE
+17,Switzerl,2,LIB,Liberale Partei,Liberal Party,NaN,17002,CHE
+17,Switzerl,9,NAPF,Schweizer Demokraten,Swiss Democrats,NaN,17009,CHE
+17,Switzerl,6,PPP,Evangelische Volkspartei,Protestant Peoples Party,NaN,17006,CHE
+17,Switzerl,3,RADDEM,Parti Radical-democratique,Radical Democrats,43420,17003,CHE
+17,Switzerl,4,SDEM,Sozialdemokratische Partei,Social Democrats,43320,17004,CHE
+17,Switzerl,5,SPP,Schweizerische Volkspartei,Swiss Peoples Party,43810,17005,CHE
+17,Switzerl,14,TICI,Lega dei Ticinesi,Ticino League,NaN,17014,CHE
 3,Germany,1,CDU,Christlich  Demokratische Union,Christian Democratic Union,41521,3001,DEU
 3,Germany,9,CSU,Christlich  Soziale Union,Christian Social Union,41521,3009,DEU
 3,Germany,3,FDP,Freie Demokratische Partei,Free Democratic Party,41420,3003,DEU
@@ -83,6 +97,14 @@ NATID,NATION,PARTYID,PARTY,ENAME,NAME,CMPCODE,id,iso3
 6,France,6,UDFPR,UDF Parti Republican,Republican Party,NaN,6006,FRA
 6,France,8,UDFRAD,UDF Radicaux,Radicals,NaN,6008,FRA
 6,France,5,VERTS,Les Verts,The Greens,NaN,6005,FRA
+11,UnitedKd,6,CYMRU,Plaid Cymru,Welsh Nationalist Party,NaN,11006,GBR
+11,UnitedKd,7,GREEN,Green Party,Green Party,NaN,11007,GBR
+11,UnitedKd,2,LAB,Labour,Labour,51320,11002,GBR
+11,UnitedKd,3,SDLP,Social Democratic Labour Party,Social Democratic Labour Party,NaN,11003,GBR
+11,UnitedKd,4,SLD,Social and Liberal Democrats,Social and Liberal Democrats,51991,11004,GBR
+11,UnitedKd,5,SNP,Scottish National Party,Scottish National Party,NaN,11005,GBR
+11,UnitedKd,1,TORY,Conservative Party,Conservative Party,51620,11001,GBR
+11,UnitedKd,8,UNION,Unionist,Unionist,52620,11008,GBR
 4,Greece,5,DIANA,Demokratike Ananeose,DIANA Democratic Renewal,NaN,4005,GRC
 4,Greece,9,DKK,Dimokratico Kinonico Kinime,Democratic Social Movement,NaN,4009,GRC
 4,Greece,6,IE,Ecologi Enallaktiki,Ecologists Alternatives,NaN,4006,GRC
@@ -118,6 +140,27 @@ NATID,NATION,PARTYID,PARTY,ENAME,NAME,CMPCODE,id,iso3
 8,Italy,3,RC,Partito Rifondazione Communista,Refounded Communists,NaN,8003,ITA
 8,Italy,13,RETE,La Rete,The Network,NaN,8013,ITA
 8,Italy,8,VERDI,Le Liste Verdi,The Green List,32110,8008,ITA
+9,Luxembou,7,ADR,Aktiounskomitee fir Democratie,Action Committee for Democracy and Pensions,NaN,9007,LUX
+9,Luxembou,1,CSVP,Creschtlech sozial vollekspartei,Christian Social Peoples Party,23520,9001,LUX
+9,Luxembou,5,DGA,Di Greng Alternativ,Green Alternative,23112,9005,LUX
+9,Luxembou,3,DP,Democratesch Partei,Liberal Party,23420,9003,LUX
+9,Luxembou,6,GLEI,Greng Lescht Ekologesch Initiativ,Green Left Ecological Initiattive,23111,9006,LUX
+9,Luxembou,4,KPL,Kommunistesch Partei vu Letzbuerg,Communist Party of Luxembourg,23220,9004,LUX
+9,Luxembou,2,LSAP,Letzbuerger Sozialistesch Arbechterpartei,Socialist Labor Party,23320,9002,LUX
+9,Luxembou,8,NBEW,National Bewegong,National Movement,NaN,9008,LUX
+10,Netherla,9,CD,Centrumdemokraten,Center Democrats,NaN,10009,NLD
+10,Netherla,1,CDA,Christen Democratish Appel,Christian Democratic Appeal,22521,10001,NLD
+10,Netherla,12,CPN,Communistische Partij van Nederland,Communist Party,NaN,10012,NLD
+10,Netherla,4,D66,Democraten 66,Democrats 66,22330,10004,NLD
+10,Netherla,13,EVP,Evangelische Volkspartij,Evangelical Peoples Party,NaN,10013,NLD
+10,Netherla,7,GPV,Gereformed Politiek Verbond,Reformed Political Union,NaN,10007,NLD
+10,Netherla,5,LINKS,Groen Links,Green Left,22110,10005,NLD
+10,Netherla,10,PPR,Politieke Partij Radikalen,Radical Political Party,22310,10010,NLD
+10,Netherla,11,PSP,Pacifistische Socialistische Partij,Pacifistic Socialist Party,NaN,10011,NLD
+10,Netherla,2,PVDA,Partij van der Arbeid,Labour Party,22320,10002,NLD
+10,Netherla,8,RPF,Reformed Political Federation,Reformed Political Federation,NaN,10008,NLD
+10,Netherla,6,SGP,Staatkundig Gereformeerde Partij,Political Reformed Party,NaN,10006,NLD
+10,Netherla,3,VVD,Volkspartij voor Vrijheid en Democratie,Liberal Party,22420,10003,NLD
 15,Norway,1,AKP,Kommunistiske Parti,Communist Party,12220,15001,NOR
 15,Norway,7,FP,Fremskrittspartiet,Progress Party,12951,15007,NOR
 15,Norway,6,H_YRE,Hoyre,Right (Conservatives),12620,15006,NOR
@@ -147,46 +190,3 @@ NATID,NATION,PARTYID,PARTY,ENAME,NAME,CMPCODE,id,iso3
 16,Sweden,8,NYDEM,Ny Democratia,New Democrcy,11951,16008,SWE
 16,Sweden,2,SD,Socialdemocratistiska,Social Democrats,11320,16002,SWE
 16,Sweden,1,V,Vanstrepartiet,Left Party,11220,16001,SWE
-9,Luxembou,7,ADR,Aktiounskomitee fir Democratie,Action Committee for Democracy and Pensions,NaN,9007,
-17,Switzerl,12,ALTGR,Grune Alternative Schwiez,Alternative Greens,NaN,17012,
-17,Switzerl,10,ASP,Partito Socialista Autonomo,Autonomous Socialist Party,NaN,17010,
-10,Netherla,9,CD,Centrumdemokraten,Center Democrats,NaN,10009,
-10,Netherla,1,CDA,Christen Democratish Appel,Christian Democratic Appeal,22521,10001,
-17,Switzerl,1,CDPP,Christlich Demokratische Volkspartei,Christian Democratic Peoples Party,43520,17001,
-10,Netherla,12,CPN,Communistische Partij van Nederland,Communist Party,NaN,10012,
-9,Luxembou,1,CSVP,Creschtlech sozial vollekspartei,Christian Social Peoples Party,23520,9001,
-11,UnitedKd,6,CYMRU,Plaid Cymru,Welsh Nationalist Party,NaN,11006,
-10,Netherla,4,D66,Democraten 66,Democrats 66,22330,10004,
-9,Luxembou,5,DGA,Di Greng Alternativ,Green Alternative,23112,9005,
-9,Luxembou,3,DP,Democratesch Partei,Liberal Party,23420,9003,
-10,Netherla,13,EVP,Evangelische Volkspartij,Evangelical Peoples Party,NaN,10013,
-17,Switzerl,13,FREE,Freiheits Partei,Freedom Party,NaN,17013,
-9,Luxembou,6,GLEI,Greng Lescht Ekologesch Initiativ,Green Left Ecological Initiattive,23111,9006,
-10,Netherla,7,GPV,Gereformed Politiek Verbond,Reformed Political Union,NaN,10007,
-11,UnitedKd,7,GREEN,Green Party,Green Party,NaN,11007,
-17,Switzerl,11,GREEN,Grune Partei der Schweiz,Green Party,NaN,17011,
-17,Switzerl,8,INDEP,Alliance des Independents,Independents Party,NaN,17008,
-9,Luxembou,4,KPL,Kommunistesch Partei vu Letzbuerg,Communist Party of Luxembourg,23220,9004,
-11,UnitedKd,2,LAB,Labour,Labour,51320,11002,
-17,Switzerl,7,LAB,Partei der Arbeit der Schweiz,Labour Party (communist),NaN,17007,
-17,Switzerl,2,LIB,Liberale Partei,Liberal Party,NaN,17002,
-10,Netherla,5,LINKS,Groen Links,Green Left,22110,10005,
-9,Luxembou,2,LSAP,Letzbuerger Sozialistesch Arbechterpartei,Socialist Labor Party,23320,9002,
-17,Switzerl,9,NAPF,Schweizer Demokraten,Swiss Democrats,NaN,17009,
-9,Luxembou,8,NBEW,National Bewegong,National Movement,NaN,9008,
-17,Switzerl,6,PPP,Evangelische Volkspartei,Protestant Peoples Party,NaN,17006,
-10,Netherla,10,PPR,Politieke Partij Radikalen,Radical Political Party,22310,10010,
-10,Netherla,11,PSP,Pacifistische Socialistische Partij,Pacifistic Socialist Party,NaN,10011,
-10,Netherla,2,PVDA,Partij van der Arbeid,Labour Party,22320,10002,
-17,Switzerl,3,RADDEM,Parti Radical-democratique,Radical Democrats,43420,17003,
-10,Netherla,8,RPF,Reformed Political Federation,Reformed Political Federation,NaN,10008,
-17,Switzerl,4,SDEM,Sozialdemokratische Partei,Social Democrats,43320,17004,
-11,UnitedKd,3,SDLP,Social Democratic Labour Party,Social Democratic Labour Party,NaN,11003,
-10,Netherla,6,SGP,Staatkundig Gereformeerde Partij,Political Reformed Party,NaN,10006,
-11,UnitedKd,4,SLD,Social and Liberal Democrats,Social and Liberal Democrats,51991,11004,
-11,UnitedKd,5,SNP,Scottish National Party,Scottish National Party,NaN,11005,
-17,Switzerl,5,SPP,Schweizerische Volkspartei,Swiss Peoples Party,43810,17005,
-17,Switzerl,14,TICI,Lega dei Ticinesi,Ticino League,NaN,17014,
-11,UnitedKd,1,TORY,Conservative Party,Conservative Party,51620,11001,
-11,UnitedKd,8,UNION,Unionist,Unionist,52620,11008,
-10,Netherla,3,VVD,Volkspartij voor Vrijheid en Democratie,Liberal Party,22420,10003,

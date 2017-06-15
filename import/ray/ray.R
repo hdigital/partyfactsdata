@@ -1,6 +1,7 @@
 library("tidyverse")
 library("stringr")
 library("haven")
+library("countrycode")
 
 # get local copy of data file
 url <- "http://www.lsu.edu/faculty/lray2/data/1996survey/1996survey.sav?export=sav"
@@ -13,11 +14,10 @@ if( ! file.exists(data_file_local)) {
 ray_raw <- read_spss("source__1996survey.sav")
 ray <- ray_raw %>%
   select(NATID:CMPCODE) %>%  # select party information
-  mutate_each(funs(str_trim), PARTY, ENAME, NAME) %>%  # trim white space
-  mutate(id = as.integer(NATID) * 1000 + PARTYID)  # create unique party id
-
-# add country ISO codes
-country <- read_csv("../country.csv") %>% select(name, iso3)
-ray <- ray %>% left_join(country, by = c("NATION" = "name")) %>% arrange(iso3, PARTY)
+  mutate_at(vars(PARTY, ENAME, NAME), str_trim) %>%  # trim white space
+  mutate(id = as.integer(NATID) * 1000 + PARTYID,    # create unique party id
+         iso3 = countrycode(NATION, "country.name", "iso3c",
+                            custom_match = c(Netherla="NLD", "UnitedKd"="GBR"))) %>%
+  arrange(iso3, PARTY)
 
 write_csv(ray, "ray.csv", na = "")
