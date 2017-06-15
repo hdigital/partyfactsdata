@@ -1,12 +1,18 @@
-library('dplyr')
+library('tidyverse')
+library('dbplyr')
 
-url <- 'http://www.parlgov.org/static/data/development-utf-8/'
-tables <- c('view_party.csv', 'view_election.csv', 'party.csv')
-lapply(tables, function(x) download.file(paste0(url, x),  x) )
+url <- 'http://www.parlgov.org/static/data/parlgov-development.db'
+db_file <- 'source__parlgov.db'
+if( ! file.exists(db_file)) {
+  download.file(url, db_file, mode = "wb")
+}
 
-party <- read.csv('view_party.csv', fileEncoding='utf-8', as.is=TRUE)
-elec <- read.csv('view_election.csv', fileEncoding='utf-8', as.is=TRUE)
-party_raw <- read.csv('party.csv', fileEncoding='utf-8', as.is=TRUE)
+con <- DBI::dbConnect(RSQLite::SQLite(), db_file)
+tbl_parlgov <- function(table) tbl(con, table) %>% as_tibble()
+
+party <- tbl_parlgov('view_party')
+elec <- tbl_parlgov('view_election')
+party_raw <- tbl_parlgov('party')
 
 # calculate first and last year each party
 elec_year <- elec %>%
@@ -38,5 +44,4 @@ parlgov <- party %>%
   arrange(country_name_short, party_name)
 
 # create import file and remove downloaded source files
-write.csv(parlgov, 'parlgov.csv', na='', fileEncoding='utf-8', row.names = FALSE)
-lapply(tables, file.remove)
+write_csv(parlgov, 'parlgov.csv', na = '')
