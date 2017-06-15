@@ -9,14 +9,9 @@ Poguntke, Thomas et al. 2016. “Party Rules, Party Resources and the Politics o
 
 ## Import
 
-`PPDB-Round_1a-1.tab` from [PPDB Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0NM7KZ)
+`PPDB-Round_1a-1.sav` from [PPDB Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0NM7KZ)
 
 
 ## Comments
 
-Recoding party names
-
- * "Ecologist Party \"The Greens\"" --> "Ecologist Party 'The Greens'"
- * fixing unicode issues
-    - CAN -- Bloc Québécois
-    - IRL -- Fianna Fáil,
+ * recoding party names with unicode issus -- see `ppdb.R`
