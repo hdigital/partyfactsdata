@@ -1,6 +1,6 @@
 # install and load all required packages
 
-packages <- c("tidyverse", "countrycode", "RCurl", "readxl")
+packages <- c("tidyverse", "countrycode", "RCurl")
 lapply(packages, function(pack) {
   if ( ! pack %in% installed.packages()[,"Package"]) {
     install.packages(pack, repos="http://cran.r-project.org")
@@ -12,14 +12,14 @@ update.packages(ask=FALSE)
 
 # run import scripts in all sub-folders
 
-dataset_ignore <- c('', 'ess', 'kurep')
+dataset_ignore <- c("", "ess", "kurep")
 wd <- getwd()
 
 for (dataset in list.dirs(full.names = FALSE)) {
-  if(dataset %in% dataset_ignore | grepl('/', dataset, fixed = TRUE)) next
+  if(dataset %in% dataset_ignore | grepl("/", dataset, fixed = TRUE)) next
   print(paste("running --- ", dataset))
   setwd(paste(wd, dataset, sep = "/"))
-  source(paste0(dataset, '.R'))
+  source(paste0(dataset, ".R"))
 }
 
 setwd(wd)
