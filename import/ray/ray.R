@@ -1,17 +1,17 @@
-library("tidyverse")
-library("stringr")
-library("haven")
-library("countrycode")
+library(tidyverse)
+library(stringr)
+library(haven)
+library(countrycode)
 
 # get local copy of data file
 url <- "http://www.lsu.edu/faculty/lray2/data/1996survey/1996survey.sav?export=sav"
 data_file_local <- "source__1996survey.sav"
 if( ! file.exists(data_file_local)) {
-  download.file(url, data_file_local, mode="wb")
+  download.file(url, data_file_local, mode = "wb")
 }
 
 # read, select and clean data
-ray_raw <- read_spss("source__1996survey.sav")
+ray_raw <- haven::read_spss(data_file_local)
 ray <- ray_raw %>%
   select(NATID:CMPCODE) %>%  # select party information
   mutate_at(vars(PARTY, ENAME, NAME), str_trim) %>%  # trim white space

@@ -22,8 +22,8 @@ Party Facts import requires ISO3 country codes. `country.csv` includes the respe
 ```r
 # Example country recoding from Marpor import
 marpor <- marpor %>%
-  mutate(country = countrycode(countryname, 'country.name', 'iso3c',
-                            custom_match = c(`Northern Ireland`='NIR')))
+  mutate(country = countrycode(countryname, "country.name", "iso3c",
+                            custom_match = c(`Northern Ireland`="NIR")))
 if(any(is.na(marpor$country))) {
   warning("Country name clean-up needed")
 }

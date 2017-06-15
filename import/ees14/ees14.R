@@ -1,11 +1,10 @@
-library('dplyr')
+library(tidyverse)
+library(countrycode)
 
-ees <- read.csv('parties-ees-ches-ess.csv', fileEncoding = 'utf-8', as.is=TRUE)
+ees_raw <- read_csv("parties-ees-ches-ess.csv")
 
-country <- read.csv('../country.csv', fileEncoding = 'utf-8', as.is=TRUE)
-country <- country %>% select(iso2, country_iso3 = iso3)
+ees <- ees_raw %>%
+  mutate(country_iso3 = countrycode(country, "iso2c", "iso3c",
+                                    custom_match = c(UK="GBR")))
 
-ees[ees$country == 'UK', 'country'] <- 'GB'
-ees <- ees %>% left_join(country, by = c('country' = 'iso2'))
-
-write.csv(ees, 'ees14.csv', na='', fileEncoding = 'utf-8', row.names = FALSE)
+write_csv(ees, "ees14.csv", na = "")

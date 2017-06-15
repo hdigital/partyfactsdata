@@ -1,4 +1,4 @@
-library("dplyr")
+library(dplyr)
 
 party <- read.csv("ches-parties.csv", fileEncoding="utf-8", as.is=TRUE)
 country <- read.csv("ches-country.csv", fileEncoding="utf-8", as.is=TRUE)

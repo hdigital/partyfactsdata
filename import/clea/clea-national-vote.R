@@ -1,26 +1,26 @@
 library(tidyverse)
 library(stringr)
 
-clea_version <- '20170530'
+clea_version <- "20170530"
 max_share <- 2.0
 
-path <- str_interp('source__clea/clea_${clea_version}')
+path <- str_interp("source__clea/clea_${clea_version}")
 
 # Stata exported RDS file to save disk space
-clea_rdata <- str_interp('${path}/clea_${clea_version}.Rds')
+clea_rdata <- str_interp("${path}/clea_${clea_version}.Rds")
 if( ! file.exists(clea_rdata)) {
   library(haven)
-  clea <- haven::read_dta(str_interp('${path}/clea_${clea_version}_stata.zip'))
+  clea <- haven::read_dta(str_interp("${path}/clea_${clea_version}_stata.zip"))
   saveRDS(clea, file = clea_rdata, ascii = TRUE)
 }
 
 # read CLEA data only once
-if( ! exists('clea_raw')) {
-  clea_raw <- readRDS(file=str_interp('${path}/clea_${clea_version}.Rds'))
+if( ! exists("clea_raw")) {
+  clea_raw <- readRDS(file=str_interp("${path}/clea_${clea_version}.Rds"))
 }
 clea <- clea_raw %>%
   filter(pv1 > 0) %>%
-  mutate(ctr_n = recode(ctr_n, UK='United Kingdom', US='United States of America'),
+  mutate(ctr_n = recode(ctr_n, UK="United Kingdom", US="United States of America"),
          pv1 = as.numeric(pv1),
          mn = if_else(ctr == 840, 0, as.numeric(mn)))  # unify US election months
 
@@ -63,16 +63,16 @@ elec_out <- pa_name %>%
   group_by() %>%
   arrange(ctr_n,  yr, mn, -pv1_share)
 
-write.csv(elec_out, 'source__clea/clea_national_vote.csv',
-          na = '', fileEncoding = 'utf-8', row.names = FALSE)
+write.csv(elec_out, "source__clea/clea_national_vote.csv",
+          na = "", fileEncoding = "utf-8", row.names = FALSE)
 
 
 ## Party information for Party Facts data import
 
 # filter none, others, alliances, independents
-# higher threshold because of votes not in 'pv1' parties
+# higher threshold because of votes not in "pv1" parties
 party_out <- party %>%
   mutate(ctr_pty = ctr*1000000 + pty) %>%
   filter(pty > 0, pty < 4000, pv1_share_max >= max_share)
 
-write_csv(party_out, 'clea-national-vote.csv', na = '')
+write_csv(party_out, "clea-national-vote.csv", na = "")

@@ -1,10 +1,9 @@
-library(dplyr)
-library(readr)
+library(tidyverse)
 
 marpor <- read_csv("source__MPDataset_MPDS2016b.csv")
 
 pa_share <- marpor %>%
-  select(party, country, countryname, date, pervote) %>% 
+  select(party, country, countryname, date, pervote) %>%
   mutate(year = date %/% 100) %>%
   group_by(party) %>%
   mutate(pervote_max = max(pervote, na.rm = TRUE)) %>%
@@ -14,4 +13,4 @@ pa_share <- marpor %>%
   arrange(party) %>%
   select(party, pervote_max_year = year, pervote_max)
 
-write.csv(pa_share, "marpor-share.csv", na="", row.names = FALSE, fileEncoding = "utf-8")
+write_csv(pa_share, "marpor-share.csv", na = "")

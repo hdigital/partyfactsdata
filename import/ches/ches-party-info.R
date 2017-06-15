@@ -1,12 +1,11 @@
-library("dplyr")
-library("stringr")
+library(tidyverse)
 
 url <- "http://www.chesdata.eu/1999-2014/1999-2014_CHES_dataset_means.csv"
-file_name <- paste0("source__", str_replace(url, ".+/", ""))
+file_name <- "source__1999-2014_CHES_dataset_means.csv"
 if( ! file.exists(file_name)) {
-  download.file(url, file_name, mode="wb")
+  download.file(url, file_name, mode = "wb")
 }
-trend_raw <- read.csv(file_name, fileEncoding="utf-8", as.is=TRUE)
+trend_raw <- read_csv(file_name)
 
 trend <- trend_raw %>%
   group_by(party_id) %>%
@@ -19,4 +18,4 @@ trend <- trend_raw %>%
   distinct(party_id, .keep_all = TRUE) %>%
   select(country, party_id, party, cmp_id, electionyear, vote, year_first, year_last)
 
-write.csv(trend, "ches-party-info.csv", na="", row.names = FALSE, fileEncoding="utf-8")
+write_csv(trend, "ches-party-info.csv", na = "")
