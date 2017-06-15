@@ -1,13 +1,13 @@
 library(tidyverse)
 
-coppedge_parties <- "coppedge-parties.csv"
+parties_file <- "coppedge-parties.csv"
 
-if( ! file.exists(coppedge_parties)) {
+if( ! file.exists(parties_file)) {
   url <- "https://docs.google.com/spreadsheets/d/1KwaCELyZ4qhVwSYPYl5z_DK2gO_UTmDgfFvxKvHbekk/pub?output=csv"
-  download.file(url, coppedge_parties, mode="wb")
+  download.file(url, parties_file, mode="wb")
 }
 
-coppedge_raw <- read_csv(coppedge_parties)
+coppedge_raw <- read_csv(parties_file)
 
 # remove duplicates and add first/last year
 coppedge <- coppedge_raw %>%
