@@ -20,8 +20,7 @@ if( ! exists("clea_raw")) {
 }
 clea <- clea_raw %>%
   filter(pv1 > 0) %>%
-  mutate(ctr_n = recode(ctr_n, UK="United Kingdom", US="United States of America"),
-         pv1 = as.numeric(pv1),
+  mutate(pv1 = as.numeric(pv1),
          mn = if_else(ctr == 840, 0, as.numeric(mn)))  # unify US election months
 
 # convert data types -- if necessary
