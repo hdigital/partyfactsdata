@@ -56,6 +56,8 @@ Inclusion criteria
 Every political science dataset dealing with parties and elections may
 be added to the Party Facts project.
 
+Smaller parties are removed during the import process (5% or 1% threshold).
+
 Format
 ------
 
@@ -106,6 +108,7 @@ Your Script
 In Party Facts, we import a list of parties extracted from a dataset.
 Ideally, you provide a script in which the party list is extracted from
 the dataset including the information needed for a Party Facts import.
+Smaller parties are removed with the script (5% or 1% threshold). 
 We prefer R scripts but Stata or other scripts may work as well.
 
 The script helps to understand the origin of the party list and allows
