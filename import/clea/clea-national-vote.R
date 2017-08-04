@@ -20,8 +20,12 @@ if( ! exists("clea_raw")) {
 }
 clea <- clea_raw %>%
   filter(pv1 > 0) %>%
-  mutate(pv1 = as.numeric(pv1),
-         mn = if_else(ctr == 840, 0, as.numeric(mn)))  # unify US election months
+  mutate(pv1 = as.numeric(pv1))
+
+# unify US election years to even years and no month
+clea <- clea %>%
+  mutate(yr = if_else(ctr == 840 & yr %% 2 != 0, yr-1, yr),
+         mn = if_else(ctr == 840, 0, as.numeric(mn)))
 
 # convert data types -- if necessary
 
