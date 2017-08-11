@@ -1,0 +1,657 @@
+ejpr_id,country,name_english,name,name_short,first_pdy_year,last_pdy_year,max_vote
+at_bzo01,AUT,Alliance for the Future of Austria,Bündnis Zukunft Österreich,BZÖ,2006,2013,10.7
+at_du01,AUT,Independents-Lugner's List,Die Unabhängigen– Liste Lugner,DU,1999,1999,1
+at_fpo01,AUT,Freedom Party of Austria,Freiheitliche Partei Österreichs,FPÖ,1994,2013,26.9
+at_fritz01,AUT,Citizen Forum/List Fritz Dinkhauser,Bürgerforum Österreich/Liste Fritz Dinkhauser,FRITZ,2008,2008,1.8
+at_ga01,AUT,The Greens-Green Alternative,Die Grünen-Die Grüne Alternative,GA,1994,2013,11.5
+at_kpo01,AUT,Communist Party of Austria,Kommunistische Partei Österreichs,KPÖ,1994,2006,1
+at_lif01,AUT,Liberal Forum,Liberales Forum,LIF,1994,2008,6
+at_martin01,AUT,"List of Dr. Martin – For Democracy, Control and Justice","Liste ‘Dr. Martin – Für Demokratie, Kontrolle und Gerechtigkeit’",Martin,2006,2006,2.8
+at_n01,AUT,"Neutrals-Civic Initiative ""No"" for Immediate Departure from the EU",Die Neutralen-Bürgerinitiative Nein zur EU Austritt Jetzt,N,1994,1999,1.1
+at_ovp01,AUT,Austrian People's Party,Österreichische Volkspartei,ÖVP,1994,2013,42.3
+at_spo01,AUT,Social Democratic Party of Austria,Sozialdemokratische Partei Österreichs,SPÖ,1994,2013,38.1
+at_frank01,AUT,Team Frank Stronach,Team Frank Stronach,FRANK,2013,2013,5.8
+at_neos01,AUT,New Austria and Liberal Forum,NEOS Das Neue Österreich und Liberales Forum,NEOS,2013,2013,4.8
+au_lab01,AUS,Labor Party,Labor Party,Lab,1993,2013,44.9
+au_lib01,AUS,Liberal Party,Liberal Party,Lib,1993,2013,40.5
+au_nat01,AUS,National Party,National Party,Nat,1993,2013,8.2
+au_ln01,AUS,Liberal-National Coalition,Liberal-National Coalition,LN,1998,1998,39.5
+au_lnp01,AUS,Liberal-National Party ( Queensland),Liberal-National,LNP,2010,2013,9.1
+au_on01,AUS,One Nation,One Nation,ON,1998,2013,8.4
+au_dem01,AUS,Democrat,Democrat,Dem,1993,2013,6.8
+au_gr01,AUS,Green,Green,G,2001,2013,11.8
+au_ff01,AUS,Family First,Family First,FF,2004,2013,2.3
+au_pup01,AUS,Palmer United Party,Palmer United Party,PUP,2013,2013,5.5
+au_kap01,AUS,Katter's Australian Party,Katter's Australian Party,KAP,2013,2013,1
+au_independent01,AUS,Independent Candidates,Independent Candidates,no acronym,2004,2013,2.5
+au_other01,AUS,Other,Other,no acronym,1993,2013,8.8
+be_agalev01,BEL,Green,Groen,G,1991,2014,7
+be_cvp01,BEL,Christian Democratic and Flemish,Christen-Democratisch en Vlaams,CD&V,1991,2014,18.5
+be_ecolo01,BEL,EcoIogists,,ECOLO,1991,2014,7.4
+be_fdf-ppw01,BEL,Francophone Democratic Front,,FDF-PPW,1991,2014,1.8
+be_fn-nf01,BEL,National Front,Nationaal Front,FN-NF,1991,2010,2.3
+be_ldd01,BEL,De Decker's List,Lijst De Decker,LDD,2007,2014,4
+be_mr01,BEL,Reform Movement,,MR,2003,2014,12.5
+be_nva01,BEL,New Flemish Alliance,Nieuw-Vlaams Alliantie,N-VA,2010,2014,20.3
+be_other01,BEL,Other,Other,Other,1991,2014,3.1
+be_ovld01,BEL,Open Flemish Liberals and Democrats (Open VLD),Open Vlaamse Liberalen Demokraten,Open VLD,1995,2014,15.4
+be_prl01,BEL,Liberal Reform Party,,PRL,1991,1999,10.3
+be_ps01,BEL,Socialist Party,,PS,1991,2014,13.7
+be_psc01,BEL,Democrat Humanist Centre,,CDH,1991,2014,7.7
+be_pvda01,BEL,Labour Party,Partij van de Arbeid,PVDA,2010,2014,1.8
+be_ptb01,BEL,Labour Party,,PTB,2010,2014,2
+be_pvv01,BEL,Party of Liberty and Progress,Partij voor Vrijheid en Vooruitgang,PVV,1991,1991,12
+be_rossem01,BEL,Better Seeking Alternatives than Doing Nothing in Apathy,Beter Alternatieven Nastreven Als Apathisch Nietsdoen,BANAAN,1991,1995,3.2
+be_sp01,BEL,Socialist Party-Differently,Socialistische Partij Anders,sp.a,1991,2014,14.9
+be_v01,BEL,Vivant,Vivant,V,1999,2003,2.1
+be_vb01,BEL,Flemish Block,Vlaams Blok,VB,1991,2014,12
+be_vu01,BEL,People's Union,Volksunie,VU,1991,2003,5.9
+be_pp01,BEL,People's Party,Parti Populaire,PP,2010,2014,1.5
+bg_other01,BGR,-,-,Other,2005,2014,8.9
+bg_dps01,BGR,Movement for Rights and Freedoms,Dvizehnie za Prava i Svobodi,DPS,2005,2014,14.8
+bg_dsb01,BGR,Democrats for Strong Bulgaria,Demokrati za Silna Bulgaria,DSB,2005,2013,6.4
+bg_gerb01,BGR,Citizens for a European Development of Bulgaria,Grazhdani za Evropeisko Razvitie na Bulgaria,GERB,2009,2014,39.9
+bg_kb01,BGR,Coalition for Bulgaria,Koalitsia za Bulgaria,KB,2005,2014,30.9
+bg_ka01,BGR,Coalition Attack,Koalitsiya 'Ataka',KA,2005,2014,9.4
+bg_bns01,BGR,Coalition Bulgarian People's Union,Koalitsiya Bulgarski Naroden Suyoz,BNS,2005,2005,5.2
+bg_lider01,BGR,Liberal Initiative for Democratic European Development,Liberalna initsiativa za demokratichno Evropesko razvitie,LIDER,2009,2013,3.3
+bg_ndsv01,BGR,National Movement for Stability and Progress,Nacionalno dviženie za stabilnost i văzhod,NDSV,2005,2009,19.9
+bg_ods01,BGR,United Democratic Forces,Obedineni Demokratichni Sili,ODS,2005,2005,7.7
+bg_sk01,BGR,Blue Coalition,Sinyata Koalitzia,SK,2009,2009,6.8
+bg_rzs01,BGR,"Order, Law and Justice","Red, Zakonnost I Spravedlivost",RZS,2009,2013,4.1
+bg_nfsb01,BGR,National Front for the Salvation of Bulgaria,Natzionalen Front za Spasenie na Bulgaria,NFSB,2013,2013,3.7
+bg_dbg01,BGR,Bulgaria for Citizens Movement,Dvizhenie Bulgariya na grazhdanite,DBG,2013,2013,3.3
+bg_vmro01,BGR,Bulgarian National Movement,Bulgarsko Natsionalno Dvizhenie,VMRO,2013,2013,1.9
+bg_ssd01,BGR,Center-Freedom and Dignity,Center-svoboda i dostojnstvo,SSD,2013,2013,1.6
+bg_sds01,BGR,Union of Democratic Forces,Sayuz na demokratichnite sili,SDS,2013,2013,1.4
+bg_gn01,BGR,People's Voice,Glas Naroden,GN,2013,2014,1.3
+bg_bbt01,BGR,Bulgaria without Censorship,Bulgaria Without Censorship-VMRO-BNU-Gergovden,BBT,2014,2014,5.7
+bg_rb01,BGR,Reformist Bloc,Reformatorski Blok,RB,2014,2014,8.9
+bg_abv01,BGR,ABV-Alternative for Bulgarian Renaissance,Alternativa Za Bulgarsko Vuzrazhdane,ABV,2014,2014,4.1
+bg_d2101,BGR,Movement21,Dvizhenie 21,D21,2014,2014,1.2
+bg_pf01,BGR,Patriotic Front,Patriotichen Front,PF,2014,2014,7.3
+ca_bqu01,CAN,Bloc Québécois,Bloc Québécois,BQ,1993,2011,13.5
+ca_con01,CAN,Conservative,Conservative,Con,2004,2011,39.6
+ca_gr01,CAN,Green Party of Canada,Green Party of Canada,GP,1993,2011,6.8
+ca_lib01,CAN,Liberal,Liberal,Lib,1993,2011,41.3
+ca_np01,CAN,National Party,National Party,NP,1993,1993,1.4
+ca_ndem01,CAN,New Democratic,New Democratic,ND,1993,2011,30.6
+ca_pc01,CAN,Progressive Conservative,Progressive Conservative,PC,1993,2000,18.7
+ca_ref01,CAN,Reform Party of Canada / Canadian Alliance,Reform Party of Canada / Canadian Alliance,RPC/RP,1993,2000,25.5
+ch_dach01,CHE,Alternative Greens,Die andere Schweiz,DACH,1991,1991,1.3
+ch_bdp01,CHE,Conservative Democratic Party of Switzerland,"Bürgerlich-Demokratische Partei Schweiz, sometimes translated into English as Civic Democratic Party of Switzerland",BDP,2011,2011,5.4
+ch_cvp01,CHE,Christian Democratic People's Party,Christlich-demokratische Volkspartei,CVP/PDC,1991,2011,18.2
+ch_pda01,CHE,Communist Party,Partei der Arbeit,PdA/PST,1991,1999,1.2
+ch_evp01,CHE,Evangelical People’s Party,"Evangelische Volkspartei, sometimes translated into English as Protestant People’s Party.",EVP/PEV,1999,2011,2.4
+ch_edu01,CHE,Federal Democratic Union,Eidgenössisch-Demokratische Union,EDU/UDF,1991,1995,1.3
+ch_fga01,CHE,Feminist Green Alternative,Feministische-Grüne-Alternative,FGA,1995,1995,1.5
+ch_fps01,CHE,Freedom Party,Freiheitspartei,FPS/PSL,1995,2003,4
+ch_glp01,CHE,Green Liberal Party of Switzerland,Grünliberale Partei Schweiz,GLP/VL,2007,2011,5.4
+ch_gps01,CHE,Green Party,Grüne Partei der Schweiz,GPS/PES,1991,2011,9.6
+ch_ldu01,CHE,Independent's Party,Landesring der Unabhangigen,LdU,1991,1999,2.8
+ch_lot01,CHE,League of the Tessins,Lega dei Ticinesi,LdT,1991,2011,1.4
+ch_lps01,CHE,Liberal Party,Liberale Partei der Schweiz,LPS/PLS,1991,2007,3
+ch_fdp01,CHE,FDP/The Liberals,FDP/Die Liberalen,FDP/PLR,1991,2011,21
+ch_sps01,CHE,Social Democrats,Sozialdemokratische Partei,SPS/PSS,1991,2011,23.3
+ch_sd01,CHE,Swiss Democrats,Schweizer Demokraten,SD,1991,2007,3.3
+ch_ap01,CHE,Swiss Motorists’ Party,Autopartei,AP,1991,1991,5.1
+ch_svp01,CHE,Swiss People’s Party,Schweizerische Volkspartei,SVP/UDC,1991,2011,28.9
+ch_other01,CHE,-,-,Others,1991,1991,3.6
+cy_disy01,CYP,Democratic Rally,Democratiko Synagermo,DISY,2001,2013,34.3
+cy_edi01,CYP,United Democrats,Enomenoi Demokrates,EDI,2001,2006,2.6
+cy_diko01,CYP,Democratic Party,Demokratiko Komma,DIKO,2001,2013,17.9
+cy_akel01,CYP,Progressive Party of the Working People,Anorthotiko Komma Ergazomenou Laou,AKEL,2001,2013,34.7
+cy_edek01,CYP,United Central Democratic Union,Eniaias Demokratikis Enosis Kentrou,EDEK,2001,2006,8.9
+cy_neo01,CYP,New Horizons,Neoi Orizontes,NEO,2001,2001,3
+cy_adik01,CYP,Fighting Democratic Movement,Agonistiko Dimokratiko Kinima,ADIK,2001,2001,2.2
+cy_kop01,CYP,Ecologists-Environmental Movement,Kinima Oikologon Perivallontiston,KOP,2001,2013,2.2
+cy_evroko01,CYP,European Party,Evropaiko Komma,EVROKO,2006,2013,5.8
+cy_fcm01,CYP,Free Citizens Movement,Kinima Eleftheroi Polites,KEP,2006,2006,1.2
+cy_elam01,CYP,National Popular Front (ELAM),Ethiniko Laiko Metopo,ELAM,2013,2013,1.1
+cz_ods01,CZE,Civic Democratic Party,Občanská demokratická strana,ODS,1992,2013,35.4
+cz_kdu-csl01,CZE,Christian and Democratic Union-Czech People's Party,Křesťanská a demokratická unie-Československá strana lidová,KDU-ČSL,1992,2013,14.3
+cz_oda01,CZE,Civic Democratic Alliance,Občanská demokratická aliance,ODA,1992,2006,6.4
+cz_cssd01,CZE,Czech Social Democratic Party,Česká strana sociálně demokratická,ČSSD,1992,2013,32.3
+cz_kscm01,CZE,Communist Party of Bohemia and Moravia,Komunistická strana Čech a Moravy,KSČM,1996,2013,18.5
+cz_lb01,CZE,Left Bloc Coalition,Koalice Levý blok,LB,1992,1992,14
+cz_spr-rsc01,CZE,Association for the Republic-Republican Party of Czechoslovakia,Sdružení pro republiku-Republikánská strana Československa,SPR-RSČ,1992,2010,8
+cz_us01,CZE,Freedom Union,Unie svobodyUnie svobody-Demokratická unie,US,1998,2006,8.6
+cz_vv01,CZE,Public Affairs,Věci veřejné,VV,2010,2010,10.9
+cz_top0901,CZE,"TOP09 (Tradition, Responsibility, Prosperity 09)",TOP09 (Tradice Odpovědnost Prosperita 09),TOP09,2010,2013,16.7
+cz_spoz01,CZE,Party of Citizens' Rights: Zemanites,Strana Práv Občanů ZEMANOVCI,SPOZ,2010,2013,4.3
+cz_suv01,CZE,Sovereignty-Bloc of Jana Bobosikova,Suverenita-blok J.Bobošíkové,SUV,2002,2010,3.7
+cz_szzj01,CZE,Party for Life Certainty,Strana za životní jistoty,SZZJ,1992,2002,3.8
+cz_deu01,CZE,Democratic Union,Demokratická unie,DEU,1996,1998,2.8
+cz_sz01,CZE,Party of Greens,Strana zelených,SZ,1998,2013,6.3
+cz_hsd-sms01,CZE,Movement for Self-Governing Democracy-Society for Moravia and Silesia,Hnutí za samosprávnou demokracii-Společnost pro Moravu a Slezsko,HSD-SMS,1992,1992,5.9
+cz_spp01,CZE,Party of the Friends of Beer,Strana přátel piva,SPP,1992,1992,1.3
+cz_scpzr01,CZE,"Party of Czechoslovak Entrepreneurs, Skilled Trades and Farmers","Strana československých podnikatelů, živnostníků a rolníků",SČPŽR,1992,1992,3.1
+cz_hzss01,CZE,Movement for Social Justice,Hnutí za sociální spravedlnost,HZSS,1992,1992,1.1
+cz_lsu01,CZE,Liberal Social Union,Liberálně sociální unie,LSU,1992,1992,6.5
+cz_oh01,CZE,Civic Democratic Alliance,Občanské hnutí,OH,1992,1992,4.6
+cz_kan01,CZE,Club of Engaged Non-Partisans,Klub angažovaných nestraníků,KAN,1992,1992,2.7
+cz_nei01,CZE,Independent Initiative,Nezávislá iniciativa,NEI,1992,1992,1.4
+cz_csns01,CZE,Czech National Social Party,Česká strana národně sociální,ČSNS,1996,2010,2
+cz_sn01,CZE,Union of Independents,Sdružení nezávislých,SN,2002,2002,2.8
+cz_snk-ed01,CZE,SNK European Democrats,SNK Evropští demokraté,SNK-ED,2006,2006,2.1
+cz_pirati01,CZE,Czech Pirate Party,Česká pirátská strana,Piráti,2010,2013,2.7
+cz_ds-ss01,CZE,Workers Party Social Justice,Dělnická strana sociální spravedlnosti,DS-SS,2010,2013,1.1
+cz_sso01,CZE,Party of Free Citizens,Strana svobodných občanů,SSO,2010,2013,2.5
+cz_ano01,CZE,Akce nespokojených občanů 2011,Action of Dissatisfied Citizens 2011,ANO 2011,2013,2013,18.7
+cz_usvit01,CZE,Dawn of Direct Democracy of Tomio Okamura,Úsvit Přímé Demokracie Tomia Okamury,Usvit,2013,2013,6.9
+cz_other01,CZE,Others,,Other,1992,2013,1.3
+de_g01,DEU,Alliance 90-Greens,Bundnis 90-Die Grunen,G,1994,2013,10.7
+de_cdu01,DEU,Christian Democratic Union,Christlich Demokratische Union,CDU,1994,2013,34.2
+de_csu01,DEU,Christian Social Union,Christlich Soziale Union,CSU,1994,2013,9
+de_fdp01,DEU,Free Democrats,Freie Demokratische Partei,FDP,1994,2013,14.6
+de_npd01,DEU,National Democratic Party,Nationaldemokratische Partei Deutschlands,NPD,1998,2013,1.6
+de_pds01,DEU,Party of Democratic Socialism,Partei des Demokratischen Sozialismus,PDS,1994,2005,8.7
+de_linke01,DEU,The Left,Die Linke,Linke,2009,2013,11.9
+de_rep01,DEU,Republicans,Republikaner,REP,1994,2013,1.9
+de_spd01,DEU,Social Democrats,Sozialdemokratische Partei Deutschlands,SPD,1994,2013,40.9
+de_dvu01,DEU,German People's Union,Deutsche Volksunion ,DVU,1998,1998,1.2
+de_piraten01,DEU,Pirate Party,Piraten,Piraten,2005,2013,2.2
+de_afd01,DEU,Alternative for Germany,Alternative für Deutschland,AfD,2013,2013,4.7
+de_other01,DEU,-,-,Other,1994,2013,1.6
+dk_cd01,DNK,The Centre Democrats,Centrum-Demokraterne,CD,1994,2005,4.3
+dk_df01,DNK,Danish People's Party,Dansk Folkeparti,DF,1998,2011,13.9
+dk_el01,DNK,The Unity List,Enhedslisten,EL,1994,2011,6.7
+dk_frp01,DNK,The Progress Party,Fremskridtspartiet,FRP,1994,2001,6.4
+dk_in_ot01,DNK,Independents,Uafhængig,no acronym,1994,1994,1
+dk_kd01,DNK,Christian Democrats,Kristendemokraterne,KD,1994,2011,2.5
+dk_kf01,DNK,The Conservative People’s Party,Det Konservative Folkeparti,KF,1994,2011,15
+dk_la01,DNK,The Liberal Alliance,The Liberal Alliance,LA,2007,2011,5
+dk_rv01,DNK,The Social-Liberal Party,Det radikale Venstre,RV,1994,2011,9.5
+dk_sd01,DNK,The Social Democratic Party,Socialdemokratiet,SD,1994,2011,35.9
+dk_sf01,DNK,The Socialist People’s Party,Socialistisk Folkeparti,SF,1994,2011,13
+dk_v01,DNK,The Liberal Party,Venstre,V,1994,2011,31.2
+ee_me01,EST,People's Union  of Estonia,Eestimaa Rahvaliit,ERL,1999,2011,7.3
+ee_s01,EST,Blue Party,Eesti Sinine Erakond,S,1999,1999,1.6
+ee_er01,EST,Estonian Greens,Eestimaa Rohelised,ER,2007,2015,7.1
+ee_eurp01,EST,United People's Party of Estonia,Eestimaa Ühendatud Rahvapartei,EÜRP,1999,2003,6.1
+ee_irl01,EST,Pro Patria and Res Publica Union,Isamaa ja Res Publica Liit,IRL,2007,2015,20.5
+ee_il01,EST,Pro Patria Union,Isamaaliit,IL,1999,2003,16.1
+ee_kee01,EST,Centre Party,Keskerakond,KeE,1999,2015,26.1
+ee_koe01,EST,Constitution Party,Konstitutsioonierakond,KoE,2007,2007,1
+ee_ek01,EST,Coalition Party,Eestil Koonderakond,EKD,1999,1999,7.6
+ee_krp01,EST,Christian People's Party,Kristlik Rahvapartei,KRP,1999,2011,2.4
+ee_m01,EST,Moderates,Mõõdukad,M,1999,2003,15.2
+ee_rl01,EST,People's Union,,RL,2003,2003,13
+ee_re01,EST,Reform Party,,RE,1999,2015,28.6
+ee_rp01,EST,Res Publica,Res Publica,RP,2003,2003,24.6
+ee_sdtp01,EST,Social Democratic Labour Party,,SDTP,2003,2015,17.1
+ee_vee01,EST,Russian Party of Estonia,,VEE,1999,2011,2
+ee_ekre01,EST,Conservative People’s Party,Eesti Konservatiivne Rahvaerakond,EKRE,2015,2015,8.1
+ee_eva01,EST,Estonian Free Party,Eesti Vabaerakond,EVA,2015,2015,8.7
+ee_other01,EST,-,-,Other,1999,2003,2.3
+ee_independent01,EST,-,-,Independents,2007,2015,2.8
+es_ciu01,ESP,Convergence and Union,Convergencia i Unió,CiU,1993,2011,4.9
+es_erc01,ESP,Catalonian Left Republicans,Esquerra Republicana de Cataluña,ERC,1993,2011,2.5
+es_bng01,ESP,Galician Nationalist Block,Bloque Nacionalista Gallego,BNG,1996,2011,1.3
+es_cc01,ESP,Canary Coalition,Coalición Canaria,CC,1993,2011,1.1
+es_iu01,ESP,United Left,Izquierda Unida,IU,1993,2011,10.5
+es_pnv01,ESP,Basque Nationalist Party,Partido Nacionalista Vasco,PNV/EAJ,1993,2011,1.6
+es_pp01,ESP,Popular Party,Partido Popular,PP,1993,2011,44.6
+es_psoe01,ESP,Spanish Socialist Party,Partido Socialista Obrero Español,PSOE,1993,2011,43.9
+es_upd01,ESP,Progress and Democracy Union,Unión Progreso y Democracia,UPD,2008,2011,4.7
+es_amaiur01,ESP,Amiaur,Amiaur,AMAIUR,2011,2011,1.4
+es_other01,ESP,-,-,Other,1993,2011,5.7
+fi_sdp01,FIN,Social Democratic Party,Sosialidemokraattinen Puolue,SDP,1991,2015,28.3
+fi_sfp01,FIN,Swedish People’s Party,Svenska Folkpartiet,SFP,1991,2015,5.8
+fi_kesk01,FIN,Centre Party,Suomen Keskusta,KESK,1991,2015,24.8
+fi_kok01,FIN,National Coalition,Kansallinen Kokoomus,KOK,1991,2015,22.3
+fi_vas01,FIN,Left-Wing Alliance,Vasemmistoliitto,VAS,1991,2015,11.2
+fi_kd01,FIN,Christian Democrats,Kristillisdemokraatit,KD,1991,2015,5.3
+fi_ps01,FIN,True Finns,Perussuomalaiset,PS,1999,2015,19.1
+fi_vihr01,FIN,Green League,Vihrea Liitto,VIHR,1991,2015,8.5
+fi_smp01,FIN,Finnish Rural Party,Suomen maaseudun puolue,SMP,1991,1995,4.8
+fi_nuors01,FIN,Progressive Finnish Party,Nuorsuomalainen Puolue,NUORS,1995,1999,2.8
+fi_rem01,FIN,Reform Group,Remonttiryhma,REM,1999,1999,1.1
+fi_other01,FIN,-,-,Other,1991,2015,2.9
+fr_extremegauche01,FRA,Extreme Left,Extrême gauche,extremegauche,1993,2012,3.4
+fr_pc01,FRA,Communist Party,Parti communiste,PC,1993,2007,9.9
+fr_ps01,FRA,Socialist Party,Parti socialiste,PS,1993,2012,29.3
+fr_diversgauche01,FRA,Other-Left,Divers gauche,DVG,1993,2012,3.4
+fr_v01,FRA,Greens,Les Verts,V,1993,2012,7.8
+fr_ecologistes01,FRA,Other-Ecologists,Autres écologistes,DVE,1993,2012,2.7
+fr_udf01,FRA,Union for French Democracy,Union pour la Démocratie française,UDF,1993,2012,19.6
+fr_rpr01,FRA,Rally for the Republic,Rassemblement pour la République,RPR,1993,1997,20.2
+fr_diversdroite01,FRA,Other-Right,Divers droite,DVD,1993,2012,5.5
+fr_fn01,FRA,National Front,Front national,FN,1993,2012,14.9
+fr_pr01,FRA,Republican Alliance,Pôle républicain,PR,2002,2002,1.2
+fr_cpnt01,FRA,"Hunting, Fishing, Nature , Tradition","Chasse, Pêche, Nature, Tradition",CPNT,2002,2007,1.6
+fr_ump01,FRA,Union for a Popular Movement,Union pour un mouvement populaire,UMP,2002,2012,39.5
+fr_mnr01,FRA,Republican National Movement,Mouvement national républicain,MNR,2002,2002,1.3
+fr_nouveaucentre01,FRA,New Centre,Nouveau centre,NC,2007,2012,2.2
+fr_mpf01,FRA,Movement for France,Mouvement pour la France,MPF,2007,2007,1.2
+fr_fdg01,FRA,Left Front/Alliance of the Overseas,Front de gauche,FdG,2012,2012,6.9
+fr_rdg01,FRA,Left Radicals,Parti des Radicaux de gauche,RdG,2007,2012,1.6
+fr_radical01,FRA,Radical Party,Parti radical,Radical,2012,2012,1.2
+fr_other01,FRA,-,-,Other,1993,2012,1.9
+gb_con01,GBR,Conservatives,Conservatives,Con,1992,2010,41.9
+gb_lab01,GBR,Labour,Labour,Lab,1992,2010,43.2
+gb_libdem01,GBR,Liberal Democrats,Liberal Democrats,LibDem,1992,2010,23
+gb_snp01,GBR,Scottish National Party,Scottish National Party,SNP,1992,2010,2
+gb_ukip01,GBR,UK Independence Party,UK Independence Party,UKIP,2005,2010,3.1
+gb_green01,GBR,Green Party,Green Party,Green,1992,2005,1
+gb_other01,GBR,Other,Other,Other,1992,2010,4.6
+gb_bnp01,GBR,British National Party,British National Party,BNP,2010,2010,1.9
+gr_other01,GRC,Others,,no acronym,1993,2015,2.1
+gr_nd01,GRC,New Democracy,Nea Dimokratia,ND,1993,2015,45.4
+gr_pasok01,GRC,Pan-Hellenic Socialist Movement,Panellinio Sosialistiko Kinima,PASOK,1993,2015,46.9
+gr_polan01,GRC,Political Spring,Politiki Anixi,POLAN,1993,1996,4.9
+gr_kke01,GRC,Communist Party of Greece,Kommounistiko Komma Elladas,KKE,1993,2015,8.5
+gr_syn01,GRC,Coalition of the Left and Progress,Synaspismos tis Aristeras kai tis Proodou,SYN,1993,2000,5.1
+gr_laos01,GRC,Popular Orthodox Rally,Laikos Orthodoxos Synagermos,LAOS,2004,2015,5.6
+gr_syriza01,GRC,Coalition of the Radical Left,Synaspismos tis Rizospastikis Aristeras,SYRIZA,2004,2015,36.3
+gr_op01,GRC,Ecologists Greens,Oikologoi Prasinoi,OP,2007,2012,2.9
+gr_dikki01,GRC,Democratic Social Movement/ Dimokratiko Koinoniko Kinima (DIKKI),Dimokratiko Koinoniko Kinima,DIKKI,1996,2004,4.4
+gr_xa01,GRC,Golden Dawn,Chrysi Avgi,HA,2012,2015,7
+gr_anel01,GRC,Independent Hellenes,Anexartitoi Ellines,ANEL,2012,2015,10.6
+gr_dimar01,GRC,Democratic Left,Dimokratiki Aristera,DIMAR,2012,2012,6.2
+gr_dx01,GRC,Recreate Greece,Dimiourgia Xana,DX,2012,2012,2.1
+gr_d-fs01,GRC,Action-Liberal Alliance,Drasi-Fileleftheri Symmakhia,D-FS,2012,2012,1.8
+gr_dx-d-fs01,GRC,Recreate Greece-Action-Liberal Alliance,Dimiourgia Xana-Drasi-Fileleftheri Symmakhia,DX-D-FS,2012,2012,1.6
+gr_antarsya01,GRC,Anticapitalist Left Cooperation for the Overthrow (UNITY),Antikapitalistiki Aristeri Synergasia gia tin Anatropi,ANTARSYA,2012,2015,1.2
+gr_ek01,GRC,Union of Centrists,Enosi Kentroon,EK,1996,2015,1.8
+gr_disy01,GRC,Democratic Alliance,Dimokratiki Symmachia,DISY,2012,2012,2.5
+gr_tp01,GRC,The River,To Potami,TP,2015,2015,6
+gr_kidiso01,GRC,Movement of Democratic Socialists,Kinima Dimokraton Sosialiston,KIDISO,2015,2015,2.5
+gr_tag01,GRC,Teleia-Apostolos Gkletsos,Teleia-Apostolos Gkletsos,T-AG,2015,2015,1.8
+hr_other01,HRV,Other,-,-,2003,2011,6.9
+hr_eth01,HRV,Ethnic Constituencies,-,-,2003,2011,3.2
+hr_hdssb01,HRV,Croatian Democratic Alliance of Slavonia and Baranja and allies (HDSSB-HDSSD-ZH),Hrvatski Demokratski Savez Slavonije I Baranje,HDSSB,2007,2011,2.8
+hr_hdz01,HRV,Croatian Democratic Union,Hrvatska Demokratska Zajednica,HDZ,2003,2011,36.6
+hr_hl-sr01,HRV,Croatian Labourists – Labour Party,Hrvatski Laburisti-Stranka Rada,HL-SR,2011,2011,5
+hr_hns01,HRV,Croatian People's Party-Liberal Democrats,Hrvatska Narodna Stranka-Liberalni Demokrati,HNS,2003,2007,7.9
+hr_hrast01,HRV,Croatian Growth - Movement for a Successful Croatia,Hrast-Pokret za Uspješnu Hrvatsku,HRAST,2011,2011,1.2
+hr_hsls01,HRV,Croation Social-Liberal Party,Hrvatska Socijalno Liberalna Stranka,HSLS,2003,2011,3.9
+hr_hsp01,HRV,Croatian Party of Rights,Hrvatska Stranka Prava,HSP,2003,2011,6.2
+hr_hsp-as01,HRV,Croatian Party of Rights-Dr. Ante Starčević,Hrvatska Stranka Prava Dr. Ante Starčević,HSP-AS,2011,2011,2.7
+hr_hss01,HRV,Croatian Peasant Party,Hrvatska Seljačka Stranka,HSS,2003,2011,7
+hr_hsu01,HRV,Croatian Party of Pensioners,Hrvatska Stranka Umirovljenika,HSU,2003,2007,4.1
+hr_ids01,HRV,Istrian Democratic Assembly,Istarski Demokratski Sabor,IDS,2007,2007,1.5
+hr_sdp01,HRV,Social Democratic Party of Croatia,Socijaldemokratska Partija Hrvatske,SDP,2003,2011,39.4
+hr_su01,HRV,Party of Pensioners,Stranka Umirovljenika,SU,2007,2011,2.8
+hr_ind-mb01,HRV,Independent List of Milan Bandic,Neovisna Lista - Milan Bandić,Ind-MB,2011,2011,1
+hr_ind-ig01,HRV,Independent List of Ivan Grubsic,Neovisna Lista - Ivan Grubišić,Ind-IG,2011,2011,2.7
+hu_mdf01,HUN,Hungarian Democratic Forum,Magyar Demokrata Fórum,MDF,1994,2006,11.7
+hu_fkgp01,HUN,Independent Smallholders Party,Független Kisgazdapárt,FKGP,1994,2002,13.2
+hu_kdnp01,HUN,Christian-Democratic People's Party,"Keresztenydemokrata
+ Neppitrt (KDNP)",KDNP,1994,1998,7
+hu_mszp01,HUN,Hungarian Socialist Party,Magyar Szocialista Pirt,MSZP,1994,2010,43.2
+hu_szdsz01,HUN,Alliance of Free Democrats,Szabad Demokrathk Szovetstge,SZDSZ,1994,2006,19.7
+hu_fidesz-mpp01,HUN,Alliance of Young Democrats-Hungarian Civic Party,Fiatal Demokraták Szövetsége-Magyar Polgári Párt,Fidesz-MPP,1994,2014,52.7
+hu_miep01,HUN,Party of Hungarian Justice and Life,Magyar Igazságés Élet Párt,MIÉP,1994,2002,5.5
+hu_mp01,HUN,Workers Party,Munkáspárt,MP,1994,2014,4
+hu_miep-jobbik01,HUN,Party of Hungarian Justice and Life-Jobbik The Third Way,Magyar Igazság és Élet Pártja/Jobbik a Harmadik Út,MIÉP-Jobbik,2006,2014,20.2
+hu_centrum01,HUN,Unifing for Hungary Centre,Összefogás Magyarországért Centrum,Centrum,2002,2006,3.9
+hu_kp01,HUN,Party of the Republic,Köztársaságpárt,KP,1994,1994,2.6
+hu_asz01,HUN,Agrarian Alliance,Agrárszövetség,ASZ,1994,1994,2.1
+hu_lmp01,HUN,Politics Can be Different,Lehet Más a Politika,LMP,2010,2014,7.5
+hu_o01,HUN,Unity (MSZP-EGYÜTT-DK-PM-MLP),Összefogás (MSZP-EGYÜTT-DK-PM-MLP),O,2014,2014,25.6
+hu_others01,HUN,-,-,Other,1994,2014,2.8
+ie_fg01,IRL,Fine Gael,Fine Gael,FG,1992,2011,36.1
+ie_lp01,IRL,Labour Party,Labour Party,LP,1992,2011,19.4
+ie_dl01,IRL,Democratic Left,Democratic Left,DL,1992,1997,2.8
+ie_ff01,IRL,Fianna Fáil,Fianna Fáil,FF,1992,2011,41.6
+ie_pds01,IRL,Progressive Democrats,Progressive Democrats,PDs,1992,2007,4.7
+ie_gp01,IRL,Green Party,Green Party,GP,1992,2011,4.7
+ie_sf01,IRL,Sinn Féin,Sinn Féin,SF,1992,2011,9.9
+ie_np01,IRL,National Party,National Party,NP,1997,1997,1.1
+ie_others01,IRL,Others and independents,Others,Others,1992,2007,10
+ie_ula01,IRL,United Left Alliance,United Left Alliance,ULA,2011,2011,2.7
+il_likud01,ISR,Likud,Likud,Likud,1992,2015,29.4
+il_shas01,ISR,Sephardi Torah Guardians,Shas,Shas,1992,2015,13
+il_tehiya01,ISR,Renaissance Movement,Tehiya,Tehiya,1992,1992,1.2
+il_tsomet01,ISR,Crossroads,Tsomet,Tsomet,1992,1992,6.4
+il_nrp01,ISR,National Religious Party,National Religious Party,NRP,1996,1999,7.9
+il_moledet01,ISR,Moledet,Moledet,Moledet,1992,1992,2.4
+il_yba01,ISR,Yisrael Ba'aliya,Yisrael Ba'aliya,YBA,1996,2003,5.7
+il_yh01,ISR,Yahadut Ha'thora,Yahadut Ha'thora,YH,1992,2006,4.7
+il_thirdway01,ISR,The Third Way,The Third Way,ThirdWay,1996,2006,3.2
+il_labour01,ISR,Labour,Labour,Labour,1992,2015,34.7
+il_meretz01,ISR,Meretz,Meretz,Meretz,1992,2015,9.6
+il_cp01,ISR,Centre Party,Centre Party,CP,1999,1999,5
+il_shinui01,ISR,Shinui,Shinui,Shinui,1999,2006,12.3
+il_kadima01,ISR,Kadima,Kadima,Kadima,2006,2013,22.5
+il_yb01,ISR,Israel Our Home,Yisrael Beiteinu,Israel,1999,2006,9
+il_utj01,ISR,United Torah Judaism,United Torah Judaism,UTJ,2009,2015,5.2
+il_home01,ISR,The Jewish Home,The Jewish Home,Home,2009,2015,9.1
+il_gil01,ISR,Pensioners of Israel to the Knesset,Gimla'ey Yisrael LaKnesset,GIL,1996,1996,5.9
+il_adp01,ISR,Arab Democratic Party,Arab Democratic Party,ADP,1992,1996,2.9
+il_raam01,ISR,Ra'am,Ra'am,Raam,1999,2003,3.5
+il_raam-taal01,ISR,Ra'am/Ta'al,Ra'am/Ta'al,Raam-Taal,2006,2013,3.7
+il_yb-israel01,ISR,National Unity – Israel our Home,National Unity – Israel our Home,YB-Israel,2009,2015,11.7
+il_natu-nrp01,ISR,National Union/NRP,National Union/NRP,NatU-NRP,1992,2009,7.1
+il_hadash01,ISR,Hadash,Hadash,Hadash,1992,2003,4.2
+il_balad01,ISR,Balad,Balad,Balad,1999,2013,2.6
+il_ae01,ISR,Am Ehad,Am Ehad,AE,1999,2003,2.8
+il_yeshatid01,ISR,There Is A Future,Yesh Atid,YeshAtid,2013,2015,14.3
+il_hatnua01,ISR,Movement,HaTnua,HaTnua,2013,2013,5
+il_ol01,ISR,Strength to Israel,Otzma Leyisrael,OL,2013,2013,1.8
+il_as01,ISR,Whole Nation,Am Shalem,AS,2013,2013,1.2
+il_ay02,ISR,Green Leaf,Ale Yarok,AY,2006,2015,1.3
+il_k01,ISR,All of Us,Kulanu,K,2015,2015,7.5
+il_y02,ISR,Together,Yachad,Y,2015,2015,3
+il_jl01,ISR,Joint List,al-Qa'imah al-Mushtarkah,JL,2015,2015,10.5
+il_other01,ISR,Others,Others,Others,1992,2015,4.8
+is_cm01,ISL,Civic Movement,Borgarahreyfingin,CM,2009,2009,7.2
+is_im01,ISL,Iceland Movement,Íslandshreyfingin,IM,2007,2007,3.3
+is_ip01,ISL,Independence Party,Sjálfstæðisflokkur,IP,1991,2013,40.7
+is_lg01,ISL,Left-Greens,Vinstri græn,LG,1999,2013,21.7
+is_f01,ISL,Liberals,Frjálslyndir,F,1991,1991,1.2
+is_lp01,ISL,Liberal Party,Frjálslyndi flokkurinn,LP,1999,2009,7.4
+is_nf01,ISL,New Force,Nýtt afl,NF,2003,2003,1
+is_nphp01,ISL,Thjodarflokkur-National Party (NP).Flokkur mannsins-Humanist Party (HP),Thjodarflokkur.Flokkur mannsins,NPHP,1991,1991,1.8
+is_pa01,ISL,People's Alliance,Althydubandalag,PA,1991,1995,14.4
+is_pm01,ISL,People's Movement,Thjodvaki - hreyfing f6lksins,PM,1995,1995,7.1
+is_pp01,ISL,Progressive Party,Framsóknarflokkur,PP,1991,2013,24.4
+is_sda01,ISL,Social Democratic Alliance,Samfylking,SDA,1999,2013,31
+is_sdp01,ISL,Social Democrats,Althqduflokkur,SDP,1991,1995,15.5
+is_wa01,ISL,Women's Alliance,Samtok um kvennalista,WA,1991,1995,8.3
+is_dm01,ISL,Iceland Democratic Party,Lýðræðisvaktarinnar,IDP,2009,2013,2.5
+is_bf01,ISL,Bright Future,Bjartar framtíðar,BF,2013,2013,8.2
+is_d01,ISL,Dawn,"Dögunar – stjórnmálasamtaka um réttlæti, sanngirni og lýðræði",D,2013,2013,3.1
+is_h01,ISL,Households Party,Flokks heimilanna,HP,2013,2013,3
+is_rgpp01,ISL,Right-Green People's Party,"Hægri grænna, flokks fólksins",RGPP,2013,2013,1.7
+is_pp02,ISL,Pirates,Pirata,P,2013,2013,5.1
+is_r01,ISL,Rainbow,"Regnbogans, fyrir sjálfstæði Íslands og sjálfbæra þróun",R,2013,2013,1.1
+it_ad01,ITA,Democratic Alliance,Alleanza Democratica,AD,1994,1994,1.2
+it_an01,ITA,National Alliance,Alleanza Nazionale,AN,1994,2006,15.7
+it_ccd-cdu01,ITA,Christian Democratic Centre-United Christian Democrats,Centro Cristiano Democratico-Cristiani Democratici Uniti,CCD-CDU,1996,2001,5.8
+it_ci01,ITA,Italian Communists,Comunisti Italiani,CI,2006,2006,2.3
+it_ds01,ITA,Democrats of the Left,Democratici di Sinistra,DS,2001,2001,16.6
+it_dc01,ITA,Christian Democratic Party,Democrazia Cristiana,DC,1987,1992,34.3
+it_de01,ITA,European Democracy,Democrazia Europea,DE,2001,2001,2.4
+it_dp01,ITA,Proletarian Democracy,Democrazia Proletaria,DP,1987,1987,1.7
+it_ffid01,ITA,Act to Stop the Decline,Fare Per Fermare Il Declino,FFiD,2013,2013,1.1
+it_verdi01,ITA,Green Federation,Federazione dei Verdi,Verdi,1987,2006,2.8
+it_fi01,ITA,Go Italy!,Forza Italia,FI,1994,2006,29.4
+it_fdi01,ITA,Brothers of Italy,Fratelli d'Italia,FdL,2013,2013,1.9
+it_g01,ITA,Sunflower,Il Girasole,G,2001,2001,2.2
+it_pdl02,ITA,People of Freedom,Il Popolo della Libertà,PdL,2008,2013,37.2
+it_d-ft01,ITA,The Right-Tricolor Flame,La Destra - Fiamma Tricolore,D-FT,2008,2013,2.4
+it_rete01,ITA,The Network,La Rete Italia,Rete,1992,1992,1.9
+it_sa01,ITA,The Left-The Rainbow,La Sinistra-L'Arcolbaleno,SA,2008,2008,3.1
+it_ll01,ITA,League of Lombardi,Lega Lombarda,LL,1987,1992,8.7
+it_ln01,ITA,Northern League,Lega Nord,LN,1994,2013,10.1
+it_idv01,ITA,Di Pietro List-Italy of Values,Lista DiPietro-Italia dei Valori,IdV,2001,2008,4.4
+it_lp01,ITA,Pannella List,Lista PanneIIa,LP,1992,2001,3.5
+it_u01,ITA,The Olive Tree,L'Ulivo,U,2006,2006,30.4
+it_m01,ITA,Daisy,Margherita,M,2001,2001,14.5
+it_m5s01,ITA,5 Star Movement,Movimento 5 Stelle Beppegrilloit,M5S,2013,2013,25.1
+it_mpa01,ITA,Movement for Autonomies,Movimento per le Autonomie,MpA,2008,2008,1.1
+it_msi-dn01,ITA,Sociale Movement-National Right,Movimento Sociale-Destra Nazionale,MSI-DN,1987,1992,5.9
+it_pr01,ITA,Radical Party,Partido Radicale,PR,1987,1987,2.6
+it_pci01,ITA,Italian Communist Party,Partito Comunista Italiano,PCI,1987,1987,26.6
+it_pd01,ITA,Democratic Party,Partito Democratico,PD,2008,2013,33.1
+it_pds01,ITA,Democratic Party of the Left,Partito Democratico della Sinistra,PDS,1992,1996,21.1
+it_pli01,ITA,Liberal Party of Italy,Partito Liberale Italiano,PLI,1987,1992,2.9
+it_ppi01,ITA,Popular Party of Italy,Partito Popolare Italiano,PPI,1994,1994,11.1
+it_pri01,ITA,Italian Republican Party,Partito Repubblicano Italiano,PRI,1987,1992,4.4
+it_psdi01,ITA,Social Democratic Party,Partito Socialdemocratico,PSDI,1987,1994,3
+it_psi01,ITA,Italian Socialist Party,Partito Socialista Italiano,PSI,1987,2008,14.3
+it_ps01,ITA,Segni Pact,Patto Segni,PS,1994,1994,4.7
+jp_cgp01,JPN,Clean Government Party (Komei-to),Komeitō,CGP,1993,2012,14.8
+jp_dpj01,JPN,Democratic Party of Japan,Minshutō,DPJ,1996,2012,42.4
+jp_dsp01,JPN,Democratic Socialist Party,Minshu Shakaitō,DSP,1993,1993,3.5
+jp_jcp01,JPN,Japan/Japanese Communist Party,Nihon Kyōsantō,JCP,1993,2012,13.1
+jp_jnp01,JPN,Japan New Party,Nihon Shintō,JNP,1993,1993,8.1
+jp_jrp01,JPN,Japan Renewal Party,Shinseitō,JRP,1993,1993,10.1
+jp_jrp02,JPN,Japan Restoration Party,Nippon Ishin no Kai,JRP,2012,2012,20.4
+jp_ldp01,JPN,Liberal Democratic Party,Jiyū Minshutō,LDP,1993,2012,38.2
+jp_lp01,JPN,Liberal Party,Jiyūtō,LP,2000,2000,11
+jp_nfp01,JPN,New Frontier Party,Shinshintō,NFP,1996,1996,28
+jp_npn01,JPN,New Party Nippon,Shintō Nippon,NPN,2005,2012,2.4
+jp_nsp01,JPN,New Socialist Party,Shin Shakaitō,NSP,1996,1996,1.7
+jp_pnp01,JPN,People's New Party,Kokumin Shintō,PNP,2005,2012,1.7
+jp_nps01,JPN,New Party Sakigake,Shintō Sakigake,NPS,1993,1996,2.6
+jp_sdp01,JPN,Social Democratic Party of Japan,Shakai Minshutō,SDP,1993,2012,15.4
+jp_tpj01,JPN,Tomorrow Party of Japan,Nippon Mirai no Tō,TPJ,2012,2012,5.7
+jp_yp01,JPN,Your Party,Minna no Tō,YP,2009,2012,8.7
+jp_ll01,JPN,Liberal League,Jiyu Rengo,LL,1996,2000,1.1
+jp_independent01,JPN,Independent,none,independent,1993,1993,6.9
+jp_other01,JPN,Other,none,other,1993,2005,1.3
+lt_abapkudl01,LTU,Coalition of Algirdas Brazauskas and Artūras Paulauskas 'Working for Lithuania',Algirdo Brazausko ir Artūro Paulausko koalicija'Už darbą Lietuvai',ABAPKUDL,2004,2004,20.6
+lt_abskk01,LTU,Social Democratic Coalition of Algirdas Brazauskas,Algirdo Brazausko socialdemokratų koalicija,ABSKK,2000,2000,31.1
+lt_dp01,LTU,Labour Party,Darbo partija,DP,2004,2012,28.4
+lt_fp01,LTU,Frontas Party,Fronto partija,FP,2008,2012,3.2
+lt_jlntpks01,LTU,"Coalition of Young Lithuania, New Nationalists and Union of Political Prisoners","Jaunoji Lietuva, Naujieji tautininkai, Politinių kalinių sąjunga",JLNTPKS,2000,2000,1.1
+lt_kdpj01,LTU,Coalition of Labour Party + Youth,Koalicija Darbo partija + Jaunimas,KDPJ,2008,2008,9
+lt_kds01,LTU,Christian Democratic Union,Krikščionių demokratų sąjunga,KDS,2000,2000,4.2
+lt_lcs01,LTU,Liberal and Centre Union,Liberalų ir centro sąjunga,LCS,2008,2012,5.3
+lt_lcs02,LTU,Lithuanian Centre Union,Lietuvos centro sąjunga,LCS,2000,2000,2.9
+lt_tt01,LTU,Order and Justice,Tvarka ir teisingumas,TT,2008,2012,12.7
+lt_lkdp01,LTU,Lithuanian Christian Democratic Party,Lietuvos krikščionių demokratų partija,LKDP,2000,2004,3.1
+lt_llra01,LTU,Electoral Action of Lithuanian Poles,Lietuvos lenkų rinkimų akcija,LLRA,2000,2012,6.1
+lt_lls01,LTU,Liberal Union,Lietuvos liberalų sąjunga,LLS,2000,2004,17.2
+lt_lls02,LTU,Lithuanian Freedom Union,Lietuvos laisvės sąjunga,LLS,2000,2004,1.3
+lt_lrls01,LTU,Liberal Movement of Lithuanian Republic,Lietuvos Respublikos Liberalų sąjūdis,LRLS,2008,2012,9
+lt_lsdp01,LTU,Lithuanian Social Democratic Party,Lietuvos socialdemokratų partija,LSDP,2008,2012,19.2
+lt_lsutl01,LTU,"People’s Union ""For Just Lithuania""","Liaudies sąjunga ""Už teisingą Lietuvą""",LSUTL,2000,2000,1.5
+lt_lvls01,LTU,Lithuanian Peasant and Greens Union,"Lietuvos valstiečių ir žaliųjų sąjunga,",LVZS,2008,2012,4.1
+lt_lvp01,LTU,Lithuanian Peasants’ Party,Lietuvos valstiečių partija,LVP,2000,2000,4.1
+lt_nks01,LTU,Union of Moderate Conservatives,Nuosaikiųjų konservatorių sąjunga,NKS,2000,2000,2
+lt_nssl01,LTU,New Union (Social Liberals),Naujoji sąjunga/ socialliberalai,NSSL,2000,2008,19.6
+lt_other01,LTU,Other and independent,Kiti ir nepriklausomas,Other,2008,2012,5.3
+lt_rpkutt01,LTU,Coalition of Rolandas Paksas 'For Order and Justice',"Rolando Pakso koalicija ""Už tvarką ir teisingumą""",RPKUTT,2004,2004,11.4
+lt_tpp01,LTU,Nation's Resurrection Party,Tautos prisikėlimo partija,TPP,2008,2008,15.1
+lt_tslk01,LTU,Homeland Union (Lithuanian Conservatives),Tėvynės sąjunga/ Lietuvos konservatoriai,TS/LK,2000,2004,14.8
+lt_tslkd01,LTU,Homeland Union/Lithuanian Christian Democrats (TSLKD),Tėvynės sąjunga/Lietuvos krikščionys demokratai–,TSLKD,2008,2012,19.7
+lt_kkss01,LTU,Christian Conservative Social Union,Krikščionių konservatorių socialinė sąjunga,KKSS,2004,2004,2
+lt_dk01,LTU,Way of Courage,Drąsos kelias,DK,2012,2012,8.3
+lt_st01,LTU,Union Yes,Sąjunga Taip,ST,2012,2012,1.8
+lu_csv01,LUX,Christian Social Party,Chrestlech-Sozial Vollekspartei,CSV,1994,2013,38
+lu_lsap01,LUX,Socialist Workers' Party,Letzebuerger Sozialistesch Arbechterparteil,LSAP,1994,2013,25.4
+lu_dp01,LUX,Democratic Party,Demokratesch Partei,DP,1994,2013,22.4
+lu_g01,LUX,The Greens,Déi Gréng,G,1994,2013,11.7
+lu_l01,LUX,The Left,Déi Lénk,L,1999,2013,4.5
+lu_adr01,LUX,Alternative Democratic Reform Party,Alternativ Demokratesch Reformpartei,ADR,1994,2013,10.4
+lu_kpl01,LUX,Communist Party,Kommunistesch Partei vu  Lëtzebuergi,KPL,1994,2013,1.7
+lu_pirat01,LUX,Prirate Party,Piratepartei Lëtzebuerg,Pirat,2013,2013,3
+lu_pid01,LUX,Party for Integral Democracy,Partei fir Integral Demokratie,PID,2013,2013,1.7
+lu_other01,LUX,Others,,no acronym,1994,1999,4.4
+lv_dpkdslzp01,LVA,"Alliance of the Labour Party, Christian Democratic Union and Latvian Green Party","Darba partijas, Kristīgi demokrātiskā savienība un Latvijas Zaļā partija",DP/KDS/LZP,1998,1998,2.3
+lv_dps01,LVA,"Democratic Party ""Master""","Demokrātiskā partija ""Saimnieks""",DPS,1998,1998,1.6
+lv_jl01,LVA,New Era,Jaunais laiks,JL,2002,2006,23.9
+lv_jp01,LVA,New Party,Jaunā Partija,JP,1998,1998,7.3
+lv_lc01,LVA,Latvia's Way,Latvijas celš,LC,1998,2002,18.1
+lv_lpp01,LVA,First Party of Latvia,Latvijas Pirmā Partija,LPP,2002,2002,9.5
+lv_lpplc01,LVA,Latvia's First Party/Latvian Way,Latvijas Pirmā Partija/Latvijas Ceļš,LPP/LC,2006,2006,8.6
+lv_lsdsp01,LVA,Latvian Social Democratic Workers' Party,Latvijas Sociāldemokrātiskā Strādnieku Partija,LSDSP,1998,2002,12.8
+lv_lzs01,LVA,Latvian Farmers' Union,Latvijas Zemnieku savienība,LZS,1998,1998,2.5
+lv_other01,LVA,Others,Pārējie,Others,1998,2014,11.4
+lv_pctvl01,LVA,For Human Rights in United Latvia,Par cilvēka tiesībām vienotā Latvijā,PCTVL,2002,2014,19
+lv_plg01,LVA,Light of Latgale,Latgales Gaisma,PLG,2002,2002,1.6
+lv_sc01,LVA,Harmony Centre,Saskaņas Centrs,SC,2006,2014,28.6
+lv_sdlp01,LVA,Social Democratic Party of Welfare,Sociāldemokrātiskā Labklājības partija,SDLP,2002,2002,1.3
+lv_sds01,LVA,Union of Social Democrats,Sociāldemokrātu savienība,SDS,2002,2002,1.5
+lv_tblnnk01,LVA,For Fatherland and Freedom,Tēvzemei un Brīvībai/LNNK,TB/LNNK,1998,2006,14.7
+lv_tkl01,LVA,Popular Movement for Latvia,Tautas Kustība Latvijai,TKL,1998,1998,1.7
+lv_tp01,LVA,People's Party,Tautas partija,TP,1998,2006,21.2
+lv_tsp01,LVA,National Harmony Party,Tautas Saskaņas partija,TSP,1998,1998,14.1
+lv_zzs01,LVA,Union of Greens and Farmers,Zaļo un Zemnieku Savienība,ZZS,2002,2014,20.1
+lv_zrp01,LVA,Zatler's Reform Party,Zatlera Reformu partija,ZRP,2011,2011,21
+lv_v01,LVA,Unity,Vienotība,V,2010,2014,31.9
+lv_na01,LVA,National Union,Nacionālā apvienība,NA,2010,2014,16.7
+lv_pll01,LVA,For a Good Latvia,Par Labu Latviju!,PLL,2010,2010,7.8
+lv_nsl01,LVA,For Latvia from the Heart,No sirds Latvijai,NSL,2014,2014,6.9
+lv_lra01,LVA,Latvian Association of Regions,Latvijas Reģionu Apvienība,LRA,2014,2014,6.7
+lv_vl02,LVA,United Latvia,"Partija ""Vienoti Latvijai""",VL,2014,2014,1.2
+mt_pn01,MLT,Nationalist Party,Partit Nazzjonalista,PN,1992,2013,51.8
+mt_mlp01,MLT,Malta Labour Party,Partit Laburista,MLP,1992,2013,54.8
+mt_ad01,MLT,Green Party,Alternattiva Demokratika,AD,1992,2013,1.8
+nl_cda01,NLD,Christian Democratic Appeal,Christen Democratisch Appèl,CDA,1994,2012,28.6
+nl_pvda01,NLD,Labour Party,Partij van de Arbeid,PvdA,1994,2012,29
+nl_vvd01,NLD,People’s Party for Freedom and Democracy,Volkspartij voor Vrijheid en Democratie,VVD,1994,2012,26.6
+nl_d6601,NLD,Democrats 66,Democraten 66,D66,1994,2012,15.5
+nl_lpf01,NLD,Lijst Pim Fortuyn,List Pim Fortuyn,LPF,2002,2006,17
+nl_cu01,NLD,Christian Union,ChristenUnie,CU,2002,2012,4
+nl_gl01,NLD,Green Left,Groen Links,GL,1994,2012,7.3
+nl_sgp01,NLD,Political Reformed Party,Staatkundig Gereformeerde Partij,SGP,1994,2012,2.1
+nl_rpf01,NLD,Reformed Political Federation,Gereformeerde Politieke Federatie,RPF,1994,1998,2
+nl_aov01,NLD,General Association of Elderly People,Algemeen Ouderen Verbond,AOV,1994,1994,3.6
+nl_sp01,NLD,Socialist Party,Socialistische Partij,SP,1994,2012,16.6
+nl_u50plus01,NLD,50+,50+,50+,2012,2012,1.9
+nl_ln01,NLD,Livable Netherlands,Leefbaar Nederlands,LN,2002,2002,1.6
+nl_pvv01,NLD,Freedom Party/Group Wilders,Partij voor de Vrijheid,PW,2006,2012,15.5
+nl_pvdd01,NLD,Animal Rights Party,Partij voor de Dieren,PvdD,2006,2012,1.9
+nl_gpv01,NLD,Reformed Political Union,Reformed Political Union,GPV,1994,1994,1.3
+nl_cd01,NLD,Centre Democrats,Centre Democrats,CD,1994,1998,2.5
+nl_other01,NLD,Other,,Other,1994,2012,2
+no_dna01,NOR,Labour Party,Det Norske Arbeiderpati,DNA,1993,2013,36.9
+no_krf01,NOR,Christian People's Party,Kristelig Folkeparti,KRF,1993,2013,13.7
+no_sp01,NOR,Centre Party,Senterpartiet,SP,1993,2013,16.7
+no_v01,NOR,Liberal Party,Venstre,V,1993,2013,5.9
+no_h01,NOR,Høyre,Conservative,H,1993,2013,26.8
+no_sv01,NOR,Socialistic Left Party,Sosialistisk Venstreparti,SV,1993,2013,12.5
+no_frp01,NOR,Progress Party,Fremskrittspartiet,FRP,1993,2013,22.9
+no_rv01,NOR,Red Election Alliance,Rød Valgallianse,RV,1993,2005,1.7
+no_pp01,NOR,Retired People's Party,Pensjonistpartiet,PP,1993,2013,1
+no_mdg01,NOR,Environmental Party of the Greens,Miljøpartiet De Grønne,MDG,1993,2013,2.8
+no_kp01,NOR,Coastal Party,Kystpartiet,KP,1997,2013,1.7
+no_r01,NOR,Red,Rødt,R,2009,2013,1.4
+no_others,NOR,Others,andre,no acronym,1993,2013,1.3
+nz_n01,NZL,National Party,National Party,N,1993,2014,47.9
+nz_nzf01,NZL,New Zealand First,New Zealand First,NZF,1993,2014,13.4
+nz_l01,NZL,Labour Party,Labour Party,L,1993,2014,41.3
+nz_m01,NZL,Māori Party,Māori Party,M,2005,2014,2.4
+nz_a01,NZL,New Zealand Alliance Party,New Zealand Alliance Party,A,1993,2005,18.2
+nz_pc01,NZL,Progressive Party,Progressive Coalition,PC,2002,2002,1.7
+nz_pp01,NZL,Progressive Party,Progressive Party,PP,2005,2008,1.2
+nz_cc01,NZL,Christian Coalition,Christian Coalition,CC,1996,1996,4.3
+nz_fnz01,NZL,Future New Zealand,Future New Zealand,FNZ,1999,1999,1.1
+nz_act01,NZL,Association of Consumers and Taxpayers,Association of Consumers and Taxpayers,ACT,1996,2014,7.1
+nz_ch01,NZL,Christian Heritage New Zealand,Christian Heritage New Zealand,CH,1993,2005,2.4
+nz_g01,NZL,Green Party,Green Party,G,1999,2014,11.1
+nz_uf01,NZL,United Future,United Future,UF,2002,2008,6.7
+nz_cp01,NZL,Conservative Party of New Zealand,Conservative Party of New Zealand,CP,2011,2014,4
+nz_lc01,NZL,Legalize Cannabis,Legalize Cannabis,LC,1996,2005,1.7
+nz_mm01,NZL,Mana Maori,Mana Maori,MM,1996,2014,1.4
+nz_other01,NZL,Other,Other,Other,1993,2014,2.5
+pl_aws01,POL,Electoral Action Solidarity,Akcja Wyborcza Solidarność,AWS,1997,2001,33.8
+pl_bbwr01,POL,Non-Party Bloc in Support of Reforms,Bezpartyjny Blok Wspierania Reform,BBWR,1993,1993,5.4
+pl_chd01,POL,Christian Democracy,ChrzeScijanska Demokracja,ChD,1899,1899,2.4
+pl_kdr01,POL,Coalition for the Republic,Koalicja dla Rzeczypospolitej,KDR,1993,1993,2.7
+pl_kld01,POL,Liberal-Democratic Congress,Kongres Liberalno-Demokratyczny,KLD,1899,1993,7.5
+pl_kpeir01,POL,National Party of the Retired and Pensioners,Krajowa Partia Emerytów i Rencistów,KPEiR,1997,1997,2.2
+pl_kpeirrp01,POL,National Alliance of the Polish Republic's Retired and Pensioners,Krajowe Porozumienie Emerytów i Rencistów Rzeczypospolitej Polskiej,KPEiRRP,1997,1997,1.6
+pl_kpn01,POL,Confederation for an Independent Poland,Konfederacja Polski Niepodleglej,KPN,1899,1993,7.5
+pl_lpr01,POL,League of Polish Families,Liga Polskich Rodzin,LPR,2001,2007,8
+pl_mn01,POL,Germany Minority,Mniejszość Niemiecka,MN,1899,2011,1.2
+pl_nchd-bdp01,POL,National Christian Democratic-Bloc for Poland,Narodowo Chrześcijańsko Demokratyczny-Blok dla Polski,NChD-BdP,1997,1997,1.4
+pl_npjkm01,POL,New Right of Janusz Korwin-Mikke,Nowa Prawica – Janusza Korwin-Mikke,NPJKM,2011,2011,1.1
+pl_nszz01,POL,Independent Self-governed Trade Union ‘Solidarity’,Niezalezny Samorzadny Zwiazek Zawodowy ‘Solidarność,NSZZ,1899,1993,5.1
+pl_other01,POL,Other,Inny,Other,1899,2007,7.3
+pl_pchd01,POL,Party of Christian Democrats,Partia Chrześcijańskich Demokratów,PChD,1899,1899,1.1
+pl_pd01,POL,Democratic Party-democrats.pl,Partia Demokratyczna-demokraci.pl,PD,2005,2005,2.5
+pl_pis01,POL,Law and Justice,Prawo i Sprawiedliwość,PiS,2001,2011,32.1
+pl_pjkm01,POL,Janusz Korwin-Mikke Platform,Platforma Janusza Korwin-Mikke,PJKM,2005,2005,1.6
+pl_pjn01,POL,Poland First,Polska Jest Najważniejsza,PJN,2011,2011,2.2
+pl_pl01,POL,Agrarian Alliance,porozumienie Ludowe,PL,1899,1993,5.5
+pl_po01,POL,Civic Platform,Platforma Obywatelska,PO,2001,2011,41.5
+pl_poc01,POL,Civic Alliance ‘Center’,porozumienie Obywatelskie Centrum,POC,1899,1993,8.7
+pl_pppp01,POL,Polish Beer-Lovers Party,Polska Patia Przyjacid Piwa,PPPP,1899,1993,3.3
+pl_psl01,POL,Polish Peasant Party,Polskie Stronnictwo Ludowe,PSL,1899,2011,15.5
+pl_px01,POL,Party X,Partia X,PX,1899,1993,2.7
+pl_rop01,POL,Movement for the Rebirth of Poland,Ruch Odrodzenia Polski,ROP,1997,1997,5.6
+pl_rp01,POL,Patriotic Movement,Ruch Patriotyczny,RP,2005,2005,1.1
+pl_rp02,POL,Palikot's Movement,Ruch Palikota,RP,2011,2011,10
+pl_sd01,POL,Democratic Party,Stronnictwo Demokratyczne,SD,1899,1899,1.4
+pl_sdpl01,POL,Polish Social Democracy,Socjaldemokracja Polska,SdPl,2005,2005,3.9
+pl_sld01,POL,Alliance of Democratic Left,Sojusz Lewicy Demokratycznej,SLD,1899,2011,41
+pl_sp01,POL,Solidarity of Labor,Solidarność Pracy,SP,1899,1899,2.1
+pl_srp02,POL,Self-Defence of the Republic of Poland (Samoobrona),Samoobrona Rzeczypospolitej Polskiej,SO,1993,2011,11.4
+pl_ud01,POL,Democratic Union,Unia Demokratyczna,UD,1899,2005,13.4
+pl_up01,POL,Labour Union,Unia Pracy,UP,1993,1997,7.3
+pl_upr01,POL,Union of Real Politics,Unia Polityki Realnej,UPR,1899,1993,3.2
+pt_be01,PRT,Bloc of the Left,Bloco da Esquerda,BE,1999,2011,10.1
+pt_cdu01,PRT,United Democratic Coalition,Caligacao Democratica Unitaria,CDU,1991,1995,8.8
+pt_cds-pp01,PRT,Democratic Social Centre/People’s Party,Centro Democratico Social/Partido Popular,CDS/PP,1995,2011,12.2
+pt_pctp-mrpp01,PRT,Communist Party of the Portuguese Workers,Partido Comunista dos Trabalhadores Portugueses,PCTP/MRPP,1991,2011,1.2
+pt_pcp-pev01,PRT,Portuguese Communist Party/Greens,Partido Comunista Portugues/Partido Ecologista ‘Os Verdes’,PCP/PEV,1999,2011,9
+pt_psn01,PRT,Party of National Solidarity,Partido de Solidariedade Nacional,PSN,1991,1999,1.7
+pt_cds01,PRT,Centre Social Democrats,Partido do Centro Democritico Social,CDS,1991,1991,4.4
+pt_psd01,PRT,Social Democratic Party,Partido Social Democrata,PSD,1991,2011,50.4
+pt_ps01,PRT,Socialist Party,Partido Socialista,PS,1991,2011,46.4
+pt_psr01,PRT,Revolutionary Socialist Party,Partido Socialista Revolucionario,PSR,1991,1995,1.1
+pt_pan01,PRT,Party for the Animals and Nature,Partidopelos Animais e a Natureza,PAN,2011,2011,1.1
+ro_da01,ROU,Justice and Truth Alliance,Alianta Dreptate si Adevar,DA,2004,2004,31.3
+ro_otherethnic01,ROU,Ethnic minorities other than Hungarians,,Other-Ethnic,2008,2008,3.5
+ro_other01,ROU,-,-,Other,2004,2012,8.9
+ro_pd-l01,ROU,Democrat-Liberal Party,Partidul Democrat-Liberal,PD-L,2008,2008,32.3
+ro_pnl01,ROU,National Liberal Party,Partidul National Liberal,PNL,2008,2008,18.6
+ro_pntcd01,ROU,National Peasant Christian-Democrat Party,Partidul National Taranesc Crestin Democrat,PNTCD,2004,2004,1.8
+ro_prm01,ROU,Greater Romania Party,Partidul Romania Mare,PRM,2004,2008,12.9
+ro_psd_pc01,ROU,PSD+PC Alliance,Alianta Politica PSD+PC,AP PSD+PC,2008,2008,33.1
+ro_psd_pur01,ROU,National Union PSD+PUR,Uniunea Nationala PSD+PUR,NU PSD+PUR,2004,2004,36.6
+ro_udmr01,ROU,Democratic Union of Magyars in Romania,Uniunea Democrata a Maghiarilor din Romania,UDMR/RMDSz,2004,2012,6.2
+ro_usl01,ROU,Social Liberal Union,Uniunea Social Liberală,USL,2012,2012,58.6
+ro_ard01,ROU,Right Romania Alliance,Alianţa România Dreaptă,ARD,2012,2012,16.5
+ro_ppdd01,ROU,Popular Party Dan Diaconescu,Partidul Poprului-Dan Diaconescu,PPDD,2012,2012,13.9
+se_c01,SWE,Centre Party,Centerpartiet,C,1991,2014,8.5
+se_kd01,SWE,Christian Democrats,Kristdemokraterna,KD,1991,2014,11.8
+se_fi01,SWE,Feminist Initiative,Feministiskt initiativ,FI,2010,2014,3.1
+se_mp01,SWE,Green Party,Miljöpartiet de gröna,MP,1991,2014,7.3
+se_v01,SWE,Left Party,Vänsterpartiet,V,1991,2014,12
+se_m01,SWE,Moderate Party,Moderata samlingspartiet,M,1991,2014,30.1
+se_nyd01,SWE,New Democracy,Ny Demokrati,NYD,1991,1994,6.7
+se_fp01,SWE,People's Party Liberals,Folkpartiet liberalerna,FP,1991,2014,13.4
+se_s01,SWE,Social Democrats,Socialdemokraterna,S,1991,2014,45.2
+se_sd01,SWE,Sweden Democrats,Sverigedemokraterna,SD,2002,2014,12.9
+se_other01,SWE,-,-,Other,1991,2014,2.8
+si_as01,SVN,Active Slovenia,Aktivna Slovenija,AS,2004,2004,3
+si_desus01,SVN,Democratic Party of Pensioners of Slovenia,Demokratična stranka upokojencev Slovenije,DeSUS,2000,2014,10.2
+si_lds01,SVN,Liberal Democracy of Slovenia,Liberalna demokracija Slovenije,LDS,2000,2011,36.2
+si_nsi01,SVN,New Slovenia/Christian People's Party,Nova Slovenija/krščanska ljudska stranka,N.Si,2000,2014,9.1
+si_sd01,SVN,Social Democrats,Socialni demokrati,SD,2000,2014,30.4
+si_sds01,SVN,Slovenian Democratic Party,Slovenska demokratska stranka,SDS,2000,2014,29.3
+si_sjn01,SVN,Slovenia is ours,Slovenija je nača,SJN,2004,2004,2.6
+si_sls01,SVN,Slovene People's Party,Slovenska ljudska stranka,SLS,2000,2014,9.5
+si_sms01,SVN,Party of Youth-Green Europe,Stranka mladih - Zeleni Evrope,SMS-Zeleni,2000,2011,4.3
+si_sns01,SVN,Slovenian National Party,Slovenska nacionalna stranka,SNS,2000,2014,6.3
+si_zares01,SVN,Zares-Social Liberals,Zares-socialno-liberalni,Zares,2008,2011,9.4
+si_ps01,SVN,Zoran Janković List - Positive Slovenija,Lista Zorana Jankovića - Pozitivna Slovenija,LZJPS,2011,2014,28.5
+si_dl01,SVN,Civic List,Državljanska Lista Gregorja Viranta,DL,2011,2014,8.4
+si_trs01,SVN,The Party for Sustainable Development of Slovenia,Stranka za Trajnostni Razvoj Slovenije,TRS,2011,2011,1.2
+si_zl01,SVN,Unified Left,"Koalicija Združena Levica (DSD, IDS In Stranka TRS)",ZL,2014,2014,6
+si_pirat01,SVN,Pirate Party,Piratska Stranka,Pirat,2014,2014,1.3
+si_smc01,SVN,Party of Miro Cerar,Stranka Mira Cerarja,SMC,2014,2014,34.6
+si_zaab01,SVN,Alliance of Alenka Bratušek,Zavezništvo Alenke Bratušek,ZAAB,2014,2014,4.3
+sk_other,SVK,Other,ostatne strany,Other,1994,2012,1.5
+sk_99oh01,SVK,99% Civic Voice,99 % - občiansky hlas,99%OH,2012,2012,1.6
+sk_ano01,SVK,Alliance of a New Citizen,Aliancia nového občana,ANO,2002,2006,8
+sk_ds01,SVK,Democratic Party,Demokratická strana,DS,1994,1994,3.4
+sk_du01,SVK,Democratic Union,Demokratická únia,DÚ,1994,1994,8.6
+sk_hzd01,SVK,Movement for Democracy,Hnutie za demokraciu,HZD,2002,2006,3.3
+sk_hzds01,SVK,Movement for Democratic Slovakia,Hnutie za demokratické Slovensko,HZDS,1994,2012,35
+sk_hzcs01,SVK,Movement for a Prosperous Czechia and Slovakia,Hnutie za prosperujúce česko a Slovensko,HZČS,1994,1994,1.1
+sk_kss02,SVK,Communist Party of Slovakia,Komunistická  strana Slovenska,KSS,1994,2012,6.3
+sk_kdh01,SVK,Christian Democratic Movement,Kresťansko demokratické hnutie,KDH,1994,2012,10.1
+sk_ksu01,SVK,Christian Social Union,Kresťansko-sociálna únia,KSÚ,1994,1994,2
+sk_lsns01,SVK,People's Party Our Slovakia,Ľudová strana Naše Slovensko,ĽSNS,2010,2012,1.6
+sk_mosthid01,SVK,Bridge,Most-Híd,Most-Híd,2010,2012,8.1
+sk_ns01,SVK,New Slovakia,Nové Slovensko,NS,1994,1994,1.3
+sk_olano01,SVK,Ordinary People and Independents,Obyčajní Ľudia a Nezávislé Osobnosti,OĽaNO,2012,2012,8.6
+sk_psns01,SVK,True Slovak National Party,Pravá slovenská národná strana,PSNS,2002,2002,3.6
+sk_sas01,SVK,Freedom and Solidarity,Sloboda a solidarita,SaS,2010,2012,12.1
+sk_sf01,SVK,Free Forum,Slobodné fórum,SF,2006,2012,3.5
+sk_sdku01,SVK,Slovak Democratic and Christian Union-Democratic Party,Slovenská demokratická a kresťanská únia -Demokratická strana,SDKÚ-DS,2002,2012,18.4
+sk_sdk01,SVK,Slovak Democratic Coalition,Slovenská demokratická koalícia,SDK,1998,1998,26.3
+sk_sns01,SVK,Slovak National Party,Slovenská národná strana,SNS,1994,2012,11.7
+sk_smer01,SVK,Direction-Social Democracy,Smer-sociálna demokracia,Smer-SD,2002,2012,44.4
+sk_sda01,SVK,Social Democratic Alternative,Sociálnodemokratická alternatíva,SDA,2002,2002,1.8
+sk_sv01,SVK,Common Choice,Spoločná voľba,SV,1994,1994,10.4
+sk_sdl01,SVK,Party of the Democratic Left,Strana demokratickej ľavice,SDĽ,1998,2002,14.7
+sk_sdl02,SVK,Party of the Democratic Left,Strana demokratickej ľavice,SDĽ,2006,2012,2.4
+sk_mk01,SVK,Party of the Hungarian Coalition,Strana maďarskej koalície,SMK,1994,2012,11.7
+sk_sop01,SVK,Party of Civic Understanding,Strana občianskeho porozumenia,SOP,1998,1998,8
+sk_spk01,SVK,"Party against Corruption, for Order, Work and Money for All Decent Citizend","Strana proti korupcii, za poriadok, prácu a peniaze pre všetkých slušných občanov",SPK,1994,1994,1.3
+sk_sssnm01,SVK,Party of Free Speech of Nora Mojsesova,Strana Slobodné Slovo - Nory Mojsejovej,SSS-NM,2012,2012,1.2
+sk_zrs01,SVK,Association of Workers of Slovakia,Združenie robotníkov Slovenska,ZRS,1994,2010,7.3
+sk_zzdu01,SVK,Change from Below-Democratic Union,"Zmena zdola, Demokratická únia",ZZ-DÚ,2012,2012,1.3
+us_dem01,USA,Democratic Party,Democratic Party,Dem,1992,2014,52.9
+us_rep01,USA,Republican Party,Republican Party,Rep,1992,2014,51.5
+us_lib01,USA,Libertarian Party,Libertarian Party,Lib,1992,2010,1.6
+us_other01,USA,-,-,Other,1992,2004,4.4
