@@ -6,7 +6,7 @@ clea_version <- "20170530"
 
 path <- str_interp("source__clea/clea_${clea_version}/clea_${clea_version}_appendix_II.csv")
 party_raw <- read_csv(path)
-vote <- read_csv("clea-national-vote.csv")
+vote <- read_csv("clea-party-vote.csv")
 
 # add CLEA data variable names to party information and clean-up data for import
 party <- party_raw

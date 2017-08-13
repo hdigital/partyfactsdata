@@ -66,7 +66,7 @@ elec_out <- pa_name %>%
   group_by() %>%
   arrange(ctr_n,  yr, mn, -pv1_share)
 
-write.csv(elec_out, "source__clea/clea_national_vote.csv",
+write.csv(elec_out, "source__clea/clea-national-vote.csv",
           na = "", fileEncoding = "utf-8", row.names = FALSE)
 
 
@@ -78,4 +78,4 @@ party_out <- party %>%
   mutate(ctr_pty = ctr*1000000 + pty) %>%
   filter(pty > 0, pty < 4000, pv1_share_max >= max_share)
 
-write_csv(party_out, "clea-national-vote.csv", na = "")
+write_csv(party_out, "clea-party-vote.csv", na = "")
