@@ -1,0 +1,2415 @@
+cntry,essround,variable,ess_id,party,n
+AT,1,prtvtat,1,SPÖ,493
+AT,1,prtvtat,2,ÖVP,534
+AT,1,prtvtat,3,FPÖ,76
+AT,1,prtvtat,4,Grüne,233
+AT,1,prtvtat,5,LIF,15
+AT,1,prtvtat,6,Andere,20
+AT,1,prtvtat,7,Not applicable,424
+AT,1,prtvtat,8,Refusal,426
+AT,1,prtvtat,9,Don't know,36
+AT,2,prtvtat,1,SPÖ,372
+AT,2,prtvtat,2,ÖVP,440
+AT,2,prtvtat,3,FPÖ,59
+AT,2,prtvtat,4,Grüne,186
+AT,2,prtvtat,5,LIF,4
+AT,2,prtvtat,6,Andere,14
+AT,2,prtvtat,7,Not applicable,752
+AT,2,prtvtat,8,Refusal,376
+AT,2,prtvtat,9,Don't know,53
+AT,3,prtvtaat,1,SPÖ,480
+AT,3,prtvtaat,2,ÖVP,518
+AT,3,prtvtaat,3,FPÖ,93
+AT,3,prtvtaat,4,BZÖ,25
+AT,3,prtvtaat,5,GRÜNE,186
+AT,3,prtvtaat,6,LIF,1
+AT,3,prtvtaat,7,KPÖ,8
+AT,3,prtvtaat,8,other,11
+AT,3,prtvtaat,9,Not applicable,549
+AT,3,prtvtaat,10,Refusal,501
+AT,3,prtvtaat,11,Don't know,33
+AT,7,prtvtbat,1,SPÖ,354
+AT,7,prtvtbat,2,ÖVP,317
+AT,7,prtvtbat,3,FPÖ,153
+AT,7,prtvtbat,4,BZÖ,13
+AT,7,prtvtbat,5,Grüne,157
+AT,7,prtvtbat,6,KPÖ,15
+AT,7,prtvtbat,7,NEOS,57
+AT,7,prtvtbat,8,Piratenpartei Österreich,8
+AT,7,prtvtbat,9,Team Frank Stronach,10
+AT,7,prtvtbat,10,Other,10
+AT,7,prtvtbat,11,Not applicable,506
+AT,7,prtvtbat,12,Refusal,171
+AT,7,prtvtbat,13,Don't know,24
+BE,1,prtvtbe,1,Agalev,91
+BE,1,prtvtbe,2,CVP,247
+BE,1,prtvtbe,3,SP,139
+BE,1,prtvtbe,5,VLD,234
+BE,1,prtvtbe,6,VU-ID,45
+BE,1,prtvtbe,7,PVDA-AE,1
+BE,1,prtvtbe,8,Vlaams Blok,78
+BE,1,prtvtbe,9,VIVANT,1
+BE,1,prtvtbe,10,ECOLO,58
+BE,1,prtvtbe,11,PSC,56
+BE,1,prtvtbe,12,PRL-FDF,89
+BE,1,prtvtbe,13,PS,129
+BE,1,prtvtbe,14,FRONT NATIONAL,6
+BE,1,prtvtbe,15,PTB-UA,4
+BE,1,prtvtbe,16,OTHER,21
+BE,1,prtvtbe,17,Not applicable,401
+BE,1,prtvtbe,18,Refusal,159
+BE,1,prtvtbe,19,Don't know,125
+BE,1,prtvtbe,20,No answer,15
+BE,2,prtvtabe,1,Agalev/Groen!,43
+BE,2,prtvtabe,2,CD&V,193
+BE,2,prtvtabe,3,N-VA,24
+BE,2,prtvtabe,5,SP.A-Spirit,189
+BE,2,prtvtabe,6,Vivant,5
+BE,2,prtvtabe,7,Vlaams Blok,127
+BE,2,prtvtabe,8,VLD,192
+BE,2,prtvtabe,9,CDH,72
+BE,2,prtvtabe,10,Ecolo,51
+BE,2,prtvtabe,11,Front National,22
+BE,2,prtvtabe,12,MR,141
+BE,2,prtvtabe,13,PS,190
+BE,2,prtvtabe,14,Other,7
+BE,2,prtvtabe,15,Blank,34
+BE,2,prtvtabe,16,Invalid,6
+BE,2,prtvtabe,17,Not applicable,280
+BE,2,prtvtabe,18,Refusal,106
+BE,2,prtvtabe,19,Don't know,96
+BE,3,prtvtabe,1,Agalev/Groen!,55
+BE,3,prtvtabe,2,CD&V,261
+BE,3,prtvtabe,3,N-VA,26
+BE,3,prtvtabe,5,SP.A-Spirit,150
+BE,3,prtvtabe,6,Vivant,8
+BE,3,prtvtabe,7,Vlaams Blok,108
+BE,3,prtvtabe,8,VLD,188
+BE,3,prtvtabe,9,CDH,62
+BE,3,prtvtabe,10,Ecolo,49
+BE,3,prtvtabe,11,Front National,10
+BE,3,prtvtabe,12,MR,134
+BE,3,prtvtabe,13,PS,167
+BE,3,prtvtabe,14,Other,9
+BE,3,prtvtabe,15,Blank,22
+BE,3,prtvtabe,16,Invalid,5
+BE,3,prtvtabe,17,Not applicable,350
+BE,3,prtvtabe,18,Refusal,92
+BE,3,prtvtabe,19,Don't know,102
+BE,4,prtvtbbe,1,Groen!,45
+BE,4,prtvtbbe,2,CD&V + N-VA,295
+BE,4,prtvtbbe,3,Lijst Dedecker,31
+BE,4,prtvtbbe,4,SP.A. + Vlaams - Progressieven (Spirit),144
+BE,4,prtvtbbe,5,Vlaams Belang,97
+BE,4,prtvtbbe,6,Open VLD + Vivant,158
+BE,4,prtvtbbe,7,CDH,84
+BE,4,prtvtbbe,8,Ecolo,65
+BE,4,prtvtbbe,9,Front National,6
+BE,4,prtvtbbe,10,MR,130
+BE,4,prtvtbbe,11,PS,185
+BE,4,prtvtbbe,12,Other,16
+BE,4,prtvtbbe,13,Blank,23
+BE,4,prtvtbbe,14,Invalid,11
+BE,4,prtvtbbe,15,Not applicable,326
+BE,4,prtvtbbe,16,Refusal,84
+BE,4,prtvtbbe,17,Don't know,60
+BE,5,prtvtcbe,1,Groen!,63
+BE,5,prtvtcbe,2,CD&V,150
+BE,5,prtvtcbe,3,N-VA,279
+BE,5,prtvtcbe,4,Lijst Dedecker,5
+BE,5,prtvtcbe,5,SP.A,128
+BE,5,prtvtcbe,6,PVDA+,5
+BE,5,prtvtcbe,7,Vlaams Belang,61
+BE,5,prtvtcbe,8,Open VLD,96
+BE,5,prtvtcbe,9,CDH,61
+BE,5,prtvtcbe,10,Ecolo,70
+BE,5,prtvtcbe,11,Front National,1
+BE,5,prtvtcbe,12,MR,108
+BE,5,prtvtcbe,13,PS,157
+BE,5,prtvtcbe,14,PTB,8
+BE,5,prtvtcbe,15,Parti Populaire,8
+BE,5,prtvtcbe,16,Other,10
+BE,5,prtvtcbe,17,Blanco,31
+BE,5,prtvtcbe,18,Ongeldig,13
+BE,5,prtvtcbe,19,Not applicable,316
+BE,5,prtvtcbe,20,Refusal,84
+BE,5,prtvtcbe,21,Don't know,50
+BE,6,prtvtcbe,1,Groen!,64
+BE,6,prtvtcbe,2,CD&V,195
+BE,6,prtvtcbe,3,N-VA,194
+BE,6,prtvtcbe,4,Lijst Dedecker,6
+BE,6,prtvtcbe,5,SP.A,143
+BE,6,prtvtcbe,6,PVDA+,6
+BE,6,prtvtcbe,7,Vlaams Belang,47
+BE,6,prtvtcbe,8,Open VLD,132
+BE,6,prtvtcbe,9,CDH,72
+BE,6,prtvtcbe,10,Ecolo,70
+BE,6,prtvtcbe,11,Front National,8
+BE,6,prtvtcbe,12,MR,122
+BE,6,prtvtcbe,13,PS,203
+BE,6,prtvtcbe,14,PTB,4
+BE,6,prtvtcbe,15,Parti Populaire,1
+BE,6,prtvtcbe,16,Other,29
+BE,6,prtvtcbe,17,Blanco,44
+BE,6,prtvtcbe,18,Ongeldig,18
+BE,6,prtvtcbe,19,Not applicable,403
+BE,6,prtvtcbe,20,Refusal,3
+BE,6,prtvtcbe,21,Don't know,105
+BE,7,prtvtcbe,1,Groen!,78
+BE,7,prtvtcbe,2,CD&V,184
+BE,7,prtvtcbe,3,N-VA,275
+BE,7,prtvtcbe,5,SP.A,94
+BE,7,prtvtcbe,6,PVDA+,20
+BE,7,prtvtcbe,7,Vlaams Belang,29
+BE,7,prtvtcbe,8,Open VLD,104
+BE,7,prtvtcbe,9,CDH,65
+BE,7,prtvtcbe,10,Ecolo,49
+BE,7,prtvtcbe,11,Front National,4
+BE,7,prtvtcbe,12,MR,144
+BE,7,prtvtcbe,13,PS,193
+BE,7,prtvtcbe,14,PTB,29
+BE,7,prtvtcbe,15,Parti Populaire,14
+BE,7,prtvtcbe,16,Other,29
+BE,7,prtvtcbe,17,Blanco,42
+BE,7,prtvtcbe,18,Ongeldig,7
+BE,7,prtvtcbe,19,Not applicable,338
+BE,7,prtvtcbe,20,Refusal,2
+BE,7,prtvtcbe,21,Don't know,69
+BG,3,prtvtbg,1,BSP,404
+BG,3,prtvtbg,2,DPS,79
+BG,3,prtvtbg,3,Coalition of the rose,4
+BG,3,prtvtbg,4,DSB,22
+BG,3,prtvtbg,5,NDSV,63
+BG,3,prtvtbg,6,SDS,62
+BG,3,prtvtbg,7,BNS,13
+BG,3,prtvtbg,8,Novoto Vreme,11
+BG,3,prtvtbg,9,Evroroma,2
+BG,3,prtvtbg,10,Coalition Ataka,72
+BG,3,prtvtbg,11,Other,4
+BG,3,prtvtbg,12,Not applicable,472
+BG,3,prtvtbg,13,Refusal,169
+BG,3,prtvtbg,14,Don't know,20
+BG,3,prtvtbg,15,No answer,3
+BG,4,prtvtabg,1,Koalitziia za Balgariia,488
+BG,4,prtvtabg,2,Dvijenie za Prava i Svobodi,196
+BG,4,prtvtabg,3,Koalitziia na Rozata,3
+BG,4,prtvtabg,4,Demokrati za Silna Balgariia,50
+BG,4,prtvtabg,5,Natzionalno Dvijenie Simeon II,121
+BG,4,prtvtabg,6,Koalitziia ODS,163
+BG,4,prtvtabg,7,Koalitziia BNS,36
+BG,4,prtvtabg,8,Novo Vreme,6
+BG,4,prtvtabg,9,Evroroma,2
+BG,4,prtvtabg,10,Koalitziia Ataka,102
+BG,4,prtvtabg,11,Other,13
+BG,4,prtvtabg,12,Not applicable,706
+BG,4,prtvtabg,13,Refusal,285
+BG,4,prtvtabg,14,Don't know,59
+BG,5,prtvtbbg,1,GERB,827
+BG,5,prtvtbbg,2,Koalitsia za Balgaria (BSP; PBS; Zemedelski saiuz) Al. Stamb,346
+BG,5,prtvtbbg,3,DPS - Dvijenie za prava i svobodi,163
+BG,5,prtvtbbg,4,Siniata koalitsia (SDS; DSB),77
+BG,5,prtvtbbg,5,Partia Ataka,61
+BG,5,prtvtbbg,6,"Red, zakonnost i spravedlivost (RZS)",15
+BG,5,prtvtbbg,7,NDSV,21
+BG,5,prtvtbbg,8,PP Lider,9
+BG,5,prtvtbbg,11,PP Zelenite,3
+BG,5,prtvtbbg,15,Balgarski Natsionalen Saiuz – ND,1
+BG,5,prtvtbbg,16,Druga politicheska sila,6
+BG,5,prtvtbbg,17,Nezavisim kandidat,5
+BG,5,prtvtbbg,18,Not applicable,603
+BG,5,prtvtbbg,19,Refusal,279
+BG,5,prtvtbbg,20,Don't know,17
+BG,5,prtvtbbg,21,No answer,1
+BG,6,prtvtcbg,1,PP GERB,774
+BG,6,prtvtcbg,2,Balgarska sotsialisticheska partia (BSP),467
+BG,6,prtvtcbg,3,PP Ataka,28
+BG,6,prtvtcbg,4,"PP Red, zakonnost i spravedlivost (RZS)",6
+BG,6,prtvtcbg,5,PP VMRO – Balgarsko natsionalno dvizhenie,7
+BG,6,prtvtcbg,6,PP BZNS,3
+BG,6,prtvtcbg,7,PP Natsionalen front za dpasenie na Bulgaria,14
+BG,6,prtvtcbg,8,KP Sayuz na desnite sili,31
+BG,6,prtvtcbg,9,PP Natsionalno dvizhenie Edinstvo,1
+BG,6,prtvtcbg,11,PP Partia za horata ot naroda,1
+BG,6,prtvtcbg,12,PP Balgarska demokratichna obshtnost,1
+BG,6,prtvtcbg,13,"Kandidati, izdignati ot Initsiativni komiteti",19
+BG,6,prtvtcbg,14,Not applicable,631
+BG,6,prtvtcbg,15,Refusal,235
+BG,6,prtvtcbg,16,Don't know,41
+BG,6,prtvtcbg,17,No answer,1
+CH,1,prtvtch,1,Radicals,141
+CH,1,prtvtch,2,Christian-democrats,108
+CH,1,prtvtch,3,Social-democrats,285
+CH,1,prtvtch,4,Swiss People's Party,173
+CH,1,prtvtch,5,Liberal Party,34
+CH,1,prtvtch,6,Alliance of the Independents,4
+CH,1,prtvtch,7,Evangelical People's Party,20
+CH,1,prtvtch,8,Christian-Social Party,7
+CH,1,prtvtch,9,Swiss Labour Party,6
+CH,1,prtvtch,10,Green Party,60
+CH,1,prtvtch,11,Swiss Democrats,2
+CH,1,prtvtch,12,Federal Democratic Union,6
+CH,1,prtvtch,13,Freiheits-Partei,4
+CH,1,prtvtch,14,Women's Parties,2
+CH,1,prtvtch,15,Lega dei Ticinesi,1
+CH,1,prtvtch,16,Others,71
+CH,1,prtvtch,17,Not applicable,902
+CH,1,prtvtch,18,Refusal,37
+CH,1,prtvtch,19,Don't know,177
+CH,2,prtvtch,1,Radicals,123
+CH,2,prtvtch,2,Christian-democrats,127
+CH,2,prtvtch,3,Social-democrats,245
+CH,2,prtvtch,4,Swiss People's Party,273
+CH,2,prtvtch,5,Liberal Party,28
+CH,2,prtvtch,7,Evangelical People's Party,22
+CH,2,prtvtch,8,Christian-Social Party,7
+CH,2,prtvtch,9,Swiss Labour Party,7
+CH,2,prtvtch,10,Green Party,93
+CH,2,prtvtch,11,Swiss Democrats,2
+CH,2,prtvtch,12,Federal Democratic Union,15
+CH,2,prtvtch,13,Freiheits-Partei,1
+CH,2,prtvtch,14,Women's Parties,5
+CH,2,prtvtch,15,Lega dei Ticinesi,1
+CH,2,prtvtch,16,Others,74
+CH,2,prtvtch,17,Not applicable,953
+CH,2,prtvtch,18,Refusal,23
+CH,2,prtvtch,19,Don't know,142
+CH,3,prtvtach,1,Radicals,108
+CH,3,prtvtach,2,Christian-democrats,105
+CH,3,prtvtach,3,Social-democrats,206
+CH,3,prtvtach,4,Swiss People's Party,181
+CH,3,prtvtach,5,Liberal Party,15
+CH,3,prtvtach,6,Evangelical People's Party,18
+CH,3,prtvtach,7,Christian-Social Party,3
+CH,3,prtvtach,8,Swiss Labour Party,5
+CH,3,prtvtach,9,Green Party,98
+CH,3,prtvtach,10,Swiss Democrats,1
+CH,3,prtvtach,11,Federal Democratic Union,9
+CH,3,prtvtach,12,Freiheits-Partei,1
+CH,3,prtvtach,13,Women's Parties,3
+CH,3,prtvtach,14,Lega dei Ticinesi,2
+CH,3,prtvtach,15,Others,43
+CH,3,prtvtach,16,Not applicable,854
+CH,3,prtvtach,17,Refusal,23
+CH,3,prtvtach,18,Don't know,129
+CH,4,prtvtbch,1,Radicals,97
+CH,4,prtvtbch,2,Christian democrats,93
+CH,4,prtvtbch,3,Socialist party,178
+CH,4,prtvtbch,4,Swiss people party,207
+CH,4,prtvtbch,5,Liberal party,19
+CH,4,prtvtbch,6,Christian-social,8
+CH,4,prtvtbch,7,Swiss labor party,5
+CH,4,prtvtbch,8,Green party,103
+CH,4,prtvtbch,9,Green liberal party,27
+CH,4,prtvtbch,10,Swiss democrats,1
+CH,4,prtvtbch,11,Federal Democratic Union,7
+CH,4,prtvtbch,12,Evangelical People's Party,17
+CH,4,prtvtbch,13,Lega dei Ticinese,3
+CH,4,prtvtbch,15,Blank paper,33
+CH,4,prtvtbch,16,Mixed vote,26
+CH,4,prtvtbch,17,Not applicable,856
+CH,4,prtvtbch,18,Refusal,27
+CH,4,prtvtbch,19,Don't know,111
+CH,4,prtvtbch,20,No answer,1
+CH,5,prtvtcch,1,Radicals,98
+CH,5,prtvtcch,2,Christian Democrats,96
+CH,5,prtvtcch,3,Socialist Party,137
+CH,5,prtvtcch,4,Swiss People’s Party,152
+CH,5,prtvtcch,5,Liberal Party,15
+CH,5,prtvtcch,6,Christian-Social Party,1
+CH,5,prtvtcch,7,Swiss Labour Party,1
+CH,5,prtvtcch,8,Green Party,48
+CH,5,prtvtcch,9,Green Liberal Party,28
+CH,5,prtvtcch,10,Swiss Democrats,3
+CH,5,prtvtcch,11,Federal Democratic Union,4
+CH,5,prtvtcch,12,Evangelical People’s Party,12
+CH,5,prtvtcch,13,Ticino League,3
+CH,5,prtvtcch,14,Blank paper,5
+CH,5,prtvtcch,15,Mixed vote,32
+CH,5,prtvtcch,16,Other party,5
+CH,5,prtvtcch,17,Not applicable,769
+CH,5,prtvtcch,18,Refusal,14
+CH,5,prtvtcch,19,Don't know,83
+CH,6,prtvtdch,1,Swiss People's Party,131
+CH,6,prtvtdch,2,Socialist Party,123
+CH,6,prtvtdch,3,Radical Liberals,109
+CH,6,prtvtdch,4,Christian Democrats,126
+CH,6,prtvtdch,5,Green Party,70
+CH,6,prtvtdch,6,Green Liberal Party,73
+CH,6,prtvtdch,7,Bourgois-democratic Party,41
+CH,6,prtvtdch,8,Evangelical People's Party,14
+CH,6,prtvtdch,9,Federal Democratic Union,8
+CH,6,prtvtdch,11,Swiss Labour Party,2
+CH,6,prtvtdch,12,Movement of the Citizens belonging to French-speaking Switze,1
+CH,6,prtvtdch,14,Alternative Left,1
+CH,6,prtvtdch,15,Swiss Democrats,2
+CH,6,prtvtdch,16,Pirate Party Switzerland,1
+CH,6,prtvtdch,18,Blank paper,13
+CH,6,prtvtdch,19,Mixed vote,28
+CH,6,prtvtdch,20,Not applicable,677
+CH,6,prtvtdch,21,Refusal,26
+CH,6,prtvtdch,22,Don't know,47
+CH,7,prtvtech,1,Swiss People's Party,134
+CH,7,prtvtech,2,Socialist Party,120
+CH,7,prtvtech,3,Radical Liberals,123
+CH,7,prtvtech,4,Christian Democrats,114
+CH,7,prtvtech,5,Green Party,63
+CH,7,prtvtech,6,Green Liberal Party,52
+CH,7,prtvtech,7,Bourgois-democratic Party,24
+CH,7,prtvtech,8,Evangelical People's Party,7
+CH,7,prtvtech,9,Federal Democratic Union,4
+CH,7,prtvtech,10,Ticino League,1
+CH,7,prtvtech,11,Swiss Labour Party,1
+CH,7,prtvtech,12,Movement of the Citizens belonging to French-speaking Switze,2
+CH,7,prtvtech,13,Christian Social Party,1
+CH,7,prtvtech,14,Alternative Left,1
+CH,7,prtvtech,18,Other party,6
+CH,7,prtvtech,19,Blank paper,18
+CH,7,prtvtech,21,Not applicable,761
+CH,7,prtvtech,22,Refusal,22
+CH,7,prtvtech,23,Don't know,78
+CY,3,prtvtcy,1,Progressive Party of Working People (AKEL),238
+CY,3,prtvtcy,2,Democratic Party (DIKO),156
+CY,3,prtvtcy,3,Democratic Rally (DISY),227
+CY,3,prtvtcy,4,European Party (EVROKO),37
+CY,3,prtvtcy,5,The Cyprus Green Party,14
+CY,3,prtvtcy,6,United Democrats (EDI),6
+CY,3,prtvtcy,7,Social Democrats (KS EDEK),65
+CY,3,prtvtcy,8,Other,15
+CY,3,prtvtcy,9,Not applicable,122
+CY,3,prtvtcy,10,Refusal,105
+CY,3,prtvtcy,11,Don't know,8
+CY,3,prtvtcy,12,No answer,2
+CY,4,prtvtcy,1,Progressive Party of Working People (AKEL),284
+CY,4,prtvtcy,2,Democratic Party (DIKO),198
+CY,4,prtvtcy,3,Democratic Rally (DISY),256
+CY,4,prtvtcy,4,European Party (EVROKO),37
+CY,4,prtvtcy,5,The Cyprus Green Party,20
+CY,4,prtvtcy,6,United Democrats (EDI),13
+CY,4,prtvtcy,7,Social Democrats (KS EDEK),73
+CY,4,prtvtcy,8,Other,3
+CY,4,prtvtcy,9,Not applicable,164
+CY,4,prtvtcy,10,Refusal,150
+CY,4,prtvtcy,11,Don't know,9
+CY,4,prtvtcy,12,No answer,8
+CY,5,prtvtcy,1,Progressive Party of Working People (AKEL),165
+CY,5,prtvtcy,2,Democratic Party (DIKO),85
+CY,5,prtvtcy,3,Democratic Rally (DISY),151
+CY,5,prtvtcy,4,European Party (EVROKO),10
+CY,5,prtvtcy,5,The Cyprus Green Party,2
+CY,5,prtvtcy,6,United Democrats (EDI),2
+CY,5,prtvtcy,7,Social Democrats (KS EDEK),23
+CY,5,prtvtcy,8,Other,2
+CY,5,prtvtcy,9,Not applicable,229
+CY,5,prtvtcy,10,Refusal,396
+CY,5,prtvtcy,11,Don't know,16
+CY,5,prtvtcy,12,No answer,2
+CY,6,prtvtacy,1,Progressive Party of Working People (AKEL),196
+CY,6,prtvtacy,2,Democratic Party (DIKO),90
+CY,6,prtvtacy,3,Democratic Rally (DISY),197
+CY,6,prtvtacy,4,European Party (EVROKO),10
+CY,6,prtvtacy,5,The Cyprus Green Party,3
+CY,6,prtvtacy,6,Social Democrats (KS EDEK),29
+CY,6,prtvtacy,7,Other,12
+CY,6,prtvtacy,8,Not applicable,282
+CY,6,prtvtacy,9,Refusal,278
+CY,6,prtvtacy,10,Don't know,16
+CY,6,prtvtacy,11,No answer,3
+CZ,1,prtvtcz,1,CSSD Cz.Social Democratic P.,275
+CZ,1,prtvtcz,2,ODA Civic Democratic Alliance,10
+CZ,1,prtvtcz,3,Nadeje (Hope),3
+CZ,1,prtvtcz,4,RMS Republicans of Miroslav Sladek,1
+CZ,1,prtvtcz,5,CSNS Cz.National Social P.,6
+CZ,1,prtvtcz,6,SV-SOS P.of Countryside-Assoc.Civic Forces,1
+CZ,1,prtvtcz,7,Association of Independents,20
+CZ,1,prtvtcz,8,ODS Civic Democratic P.,201
+CZ,1,prtvtcz,9,KSCM Communist P.of Bohemia&Moravia,73
+CZ,1,prtvtcz,10,Coalition (Christian Dem.&Freedom Union),130
+CZ,1,prtvtcz,11,SZJ P.for Life Securities,3
+CZ,1,prtvtcz,12,PB Right Block,1
+CZ,1,prtvtcz,13,SZ P.of Greens,14
+CZ,1,prtvtcz,14,Other,8
+CZ,1,prtvtcz,15,Not applicable,508
+CZ,1,prtvtcz,16,Refusal,92
+CZ,1,prtvtcz,17,Don't know,9
+CZ,1,prtvtcz,18,No answer,5
+CZ,2,prtvtcz,1,CSSD Cz.Social Democratic P.,372
+CZ,2,prtvtcz,2,ODA Civic Democratic Alliance,31
+CZ,2,prtvtcz,3,Nadeje (Hope),1
+CZ,2,prtvtcz,4,RMS Republicans of Miroslav Sladek,6
+CZ,2,prtvtcz,5,CSNS Cz.National Social P.,5
+CZ,2,prtvtcz,6,SV-SOS P.of Countryside-Assoc.Civic Forces,5
+CZ,2,prtvtcz,7,Association of Independents,36
+CZ,2,prtvtcz,8,ODS Civic Democratic P.,430
+CZ,2,prtvtcz,9,KSCM Communist P.of Bohemia&Moravia,216
+CZ,2,prtvtcz,10,Coalition (Christian Dem.&Freedom Union),149
+CZ,2,prtvtcz,11,SZJ P.for Life Securities,2
+CZ,2,prtvtcz,12,PB Right Block,2
+CZ,2,prtvtcz,13,SZ P.of Greens,32
+CZ,2,prtvtcz,14,Other,8
+CZ,2,prtvtcz,15,Not applicable,1466
+CZ,2,prtvtcz,16,Refusal,185
+CZ,2,prtvtcz,17,Don't know,80
+CZ,4,prtvtacz,1,KSCM,110
+CZ,4,prtvtacz,2,CSSD,375
+CZ,4,prtvtacz,3,SZ,60
+CZ,4,prtvtacz,4,KDU-CSL,71
+CZ,4,prtvtacz,5,ODS,329
+CZ,4,prtvtacz,6,Other,52
+CZ,4,prtvtacz,7,Not applicable,920
+CZ,4,prtvtacz,8,Refusal,89
+CZ,4,prtvtacz,9,Don't know,7
+CZ,4,prtvtacz,10,No answer,5
+CZ,5,prtvtbcz,1,KSCM,138
+CZ,5,prtvtbcz,2,CSSD,420
+CZ,5,prtvtbcz,3,SZ,46
+CZ,5,prtvtbcz,4,KDU-CSL,71
+CZ,5,prtvtbcz,5,TOP09,198
+CZ,5,prtvtbcz,6,VV,143
+CZ,5,prtvtbcz,7,ODS,243
+CZ,5,prtvtbcz,8,Other,60
+CZ,5,prtvtbcz,9,Not applicable,976
+CZ,5,prtvtbcz,10,Refusal,83
+CZ,5,prtvtbcz,11,Don't know,7
+CZ,5,prtvtbcz,12,No answer,1
+CZ,6,prtvtccz,1,KSCM,156
+CZ,6,prtvtccz,2,CSSD,382
+CZ,6,prtvtccz,3,TOP09,150
+CZ,6,prtvtccz,4,VV,97
+CZ,6,prtvtccz,5,ODS,227
+CZ,6,prtvtccz,6,Other,29
+CZ,6,prtvtccz,7,Not applicable,835
+CZ,6,prtvtccz,8,Refusal,82
+CZ,6,prtvtccz,9,Don't know,21
+CZ,6,prtvtccz,10,No answer,30
+CZ,7,prtvtdcz,1,KSCM,124
+CZ,7,prtvtdcz,2,CSSD,336
+CZ,7,prtvtdcz,3,TOP 09,121
+CZ,7,prtvtdcz,4,ANO 2011,299
+CZ,7,prtvtdcz,5,ODS,96
+CZ,7,prtvtdcz,6,KDU-CSL,64
+CZ,7,prtvtdcz,7,Úsvit prímé demokracie Tomia Okamury,44
+CZ,7,prtvtdcz,8,Other,37
+CZ,7,prtvtdcz,9,Not applicable,958
+CZ,7,prtvtdcz,10,Refusal,45
+CZ,7,prtvtdcz,11,Don't know,24
+DK,1,prtvtdk,1,Socialdemokratiet,393
+DK,1,prtvtdk,2,Det Radikale Venstre,62
+DK,1,prtvtdk,3,Det Konservative Folkeparti,91
+DK,1,prtvtdk,4,Centrum-Demokraterne,21
+DK,1,prtvtdk,5,Socialistisk Folkeparti,100
+DK,1,prtvtdk,6,Dansk Folkeparti,94
+DK,1,prtvtdk,7,Kristeligt Folkeparti,24
+DK,1,prtvtdk,8,Venstre,425
+DK,1,prtvtdk,9,Fremskridtspartiet,9
+DK,1,prtvtdk,10,Enhedslisten,20
+DK,1,prtvtdk,11,Other,6
+DK,1,prtvtdk,12,Not applicable,171
+DK,1,prtvtdk,13,Refusal,56
+DK,1,prtvtdk,14,Don't know,24
+DK,1,prtvtdk,15,No answer,10
+DK,2,prtvtdk,1,Socialdemokratiet,319
+DK,2,prtvtdk,2,Det Radikale Venstre,81
+DK,2,prtvtdk,3,Det Konservative Folkeparti,91
+DK,2,prtvtdk,4,Centrum-Demokraterne,15
+DK,2,prtvtdk,5,Socialistisk Folkeparti,97
+DK,2,prtvtdk,6,Dansk Folkeparti,88
+DK,2,prtvtdk,7,Kristeligt Folkeparti,24
+DK,2,prtvtdk,8,Venstre,414
+DK,2,prtvtdk,9,Fremskridtspartiet,9
+DK,2,prtvtdk,10,Enhedslisten,25
+DK,2,prtvtdk,11,Other,8
+DK,2,prtvtdk,12,Not applicable,227
+DK,2,prtvtdk,13,Refusal,47
+DK,2,prtvtdk,14,Don't know,28
+DK,2,prtvtdk,15,No answer,14
+DK,3,prtvtadk,1,Socialdemokratiet,335
+DK,3,prtvtadk,2,Det Radikale Venstre,109
+DK,3,prtvtadk,3,Det Konservative Folkeparti,110
+DK,3,prtvtadk,4,Centrum-Demokraterne,6
+DK,3,prtvtadk,5,Socialistisk Folkeparti,106
+DK,3,prtvtadk,6,Dansk Folkeparti,97
+DK,3,prtvtadk,7,Kristendemokraterne,21
+DK,3,prtvtadk,8,Venstre,413
+DK,3,prtvtadk,9,Fremskridtspartiet,3
+DK,3,prtvtadk,10,Enhedslisten,41
+DK,3,prtvtadk,11,Other,3
+DK,3,prtvtadk,12,Not applicable,173
+DK,3,prtvtadk,13,Refusal,60
+DK,3,prtvtadk,14,Don't know,21
+DK,3,prtvtadk,15,No answer,7
+DK,4,prtvtbdk,1,Socialdemokraterne - the Danish social democtrats,360
+DK,4,prtvtbdk,2,Det Radikale Venstre - Danish Social-Liberal Party,90
+DK,4,prtvtbdk,3,Det Konservative Folkeparti - Conservative,131
+DK,4,prtvtbdk,4,SF- Socialistisk Folkeparti - the Socialist People's Party,193
+DK,4,prtvtbdk,5,Dansk Folkeparti - Danish peoples party,129
+DK,4,prtvtbdk,6,Kristendemokraterne - Christian democtrats,14
+DK,4,prtvtbdk,7,"Venstre, Danmarks Liberale Parti - Venstre",367
+DK,4,prtvtbdk,8,Ny Alliance - New alliance,36
+DK,4,prtvtbdk,9,"Enhedslisten, De Rød-Grønne - The Red-Green Alliance",20
+DK,4,prtvtbdk,10,Andet - other,5
+DK,4,prtvtbdk,11,Not applicable,191
+DK,4,prtvtbdk,12,Refusal,49
+DK,4,prtvtbdk,13,Don't know,17
+DK,4,prtvtbdk,14,No answer,8
+DK,5,prtvtbdk,1,Socialdemokraterne - the Danish social democtrats,303
+DK,5,prtvtbdk,2,Det Radikale Venstre - Danish Social-Liberal Party,70
+DK,5,prtvtbdk,3,Det Konservative Folkeparti - Conservative,99
+DK,5,prtvtbdk,4,SF- Socialistisk Folkeparti - the Socialist People's Party,189
+DK,5,prtvtbdk,5,Dansk Folkeparti - Danish peoples party,134
+DK,5,prtvtbdk,6,Kristendemokraterne - Christian democtrats,7
+DK,5,prtvtbdk,7,"Venstre, Danmarks Liberale Parti - Venstre",363
+DK,5,prtvtbdk,8,Ny Alliance - New alliance,19
+DK,5,prtvtbdk,9,"Enhedslisten, De Rød-Grønne - The Red-Green Alliance",25
+DK,5,prtvtbdk,10,Andet - other,10
+DK,5,prtvtbdk,11,Not applicable,269
+DK,5,prtvtbdk,12,Refusal,62
+DK,5,prtvtbdk,13,Don't know,22
+DK,5,prtvtbdk,14,No answer,4
+DK,6,prtvtcdk,1,Socialdemokraterne - the Danish social democrats,360
+DK,6,prtvtcdk,2,Det Radikale Venstre - Danish Social-Liberal Party,161
+DK,6,prtvtcdk,3,Det Konservative Folkeparti - Conservative,59
+DK,6,prtvtcdk,4,SF Socialistisk Folkeparti - Socialist People's Party,141
+DK,6,prtvtcdk,5,Dansk Folkeparti - Danish peoples party,117
+DK,6,prtvtcdk,6,Kristendemokraterne - Christian democrats,14
+DK,6,prtvtcdk,7,"Venstre, Danmarks Liberale Parti - Venstre",345
+DK,6,prtvtcdk,8,Liberal Alliance - Liberal Alliance,39
+DK,6,prtvtcdk,9,Enhedslisten - Unity List - The Red-Green Alliance,85
+DK,6,prtvtcdk,10,Andet - other,6
+DK,6,prtvtcdk,11,Not applicable,244
+DK,6,prtvtcdk,12,Refusal,42
+DK,6,prtvtcdk,13,Don't know,22
+DK,6,prtvtcdk,14,No answer,15
+DK,7,prtvtcdk,1,Socialdemokraterne - the Danish social democrats,268
+DK,7,prtvtcdk,2,Det Radikale Venstre - Danish Social-Liberal Party,134
+DK,7,prtvtcdk,3,Det Konservative Folkeparti - Conservative,65
+DK,7,prtvtcdk,4,SF Socialistisk Folkeparti - Socialist People's Party,108
+DK,7,prtvtcdk,5,Dansk Folkeparti - Danish peoples party,143
+DK,7,prtvtcdk,6,Kristendemokraterne - Christian democrats,8
+DK,7,prtvtcdk,7,"Venstre, Danmarks Liberale Parti - Venstre",311
+DK,7,prtvtcdk,8,Liberal Alliance - Liberal Alliance,48
+DK,7,prtvtcdk,9,Enhedslisten - Unity List - The Red-Green Alliance,77
+DK,7,prtvtcdk,10,Andet - other,17
+DK,7,prtvtcdk,11,Not applicable,247
+DK,7,prtvtcdk,12,Refusal,45
+DK,7,prtvtcdk,13,Don't know,26
+DK,7,prtvtcdk,14,No answer,5
+EE,2,prtvtee,1,Party Res Publica,220
+EE,2,prtvtee,2,Estonian Centre Party,277
+EE,2,prtvtee,3,Estonian Reform Party,157
+EE,2,prtvtee,4,Pro Patria Union,78
+EE,2,prtvtee,5,Estonian Social Democratic Party,68
+EE,2,prtvtee,6,Estonian People's Union,95
+EE,2,prtvtee,7,Estonian United People's Party,3
+EE,2,prtvtee,8,Estonian Christian Peoples Party,1
+EE,2,prtvtee,11,Russian Party in Estonia,1
+EE,2,prtvtee,12,Independent candidates,4
+EE,2,prtvtee,14,Not applicable,969
+EE,2,prtvtee,15,Refusal,48
+EE,2,prtvtee,16,Don't know,59
+EE,2,prtvtee,17,No answer,9
+EE,3,prtvtaee,1,Res Publica,97
+EE,3,prtvtaee,2,Estonian Centre Party,232
+EE,3,prtvtaee,3,Estonian Reform Party,170
+EE,3,prtvtaee,4,Pro Patria Union,69
+EE,3,prtvtaee,5,Estonian Social Democrats,43
+EE,3,prtvtaee,6,Estonian People's Union,61
+EE,3,prtvtaee,7,Other,20
+EE,3,prtvtaee,8,Not applicable,739
+EE,3,prtvtaee,9,Refusal,37
+EE,3,prtvtaee,10,Don't know,49
+EE,4,prtvtbee,1,Pro Patria and Res Publica Union,133
+EE,4,prtvtbee,2,The Estonian Centre Party,237
+EE,4,prtvtbee,3,Estonian Reform Party,294
+EE,4,prtvtbee,4,The People's Union of Estonia,46
+EE,4,prtvtbee,5,The Social Democratic Party,81
+EE,4,prtvtbee,6,Estonian Greens,69
+EE,4,prtvtbee,7,Party of Estonian Christian Democrats,6
+EE,4,prtvtbee,8,Estonian United Left Party,1
+EE,4,prtvtbee,9,Estonian Independence Party,2
+EE,4,prtvtbee,10,Russian Party in Estonia,1
+EE,4,prtvtbee,11,campaigner,2
+EE,4,prtvtbee,12,Not applicable,719
+EE,4,prtvtbee,13,Refusal,14
+EE,4,prtvtbee,14,Don't know,53
+EE,4,prtvtbee,15,No answer,3
+EE,5,prtvtcee,1,Erakond Isamaa ja Res Publica Liit,151
+EE,5,prtvtcee,2,Eesti Keskerakond,268
+EE,5,prtvtcee,3,Eesti Reformierakond,315
+EE,5,prtvtcee,4,Eestimaa Rahvaliit,58
+EE,5,prtvtcee,5,Sotsiaaldemokraatlik Erakond,110
+EE,5,prtvtcee,6,Erakond Eestimaa Rohelised,49
+EE,5,prtvtcee,7,Other,4
+EE,5,prtvtcee,8,Eesti Iseseisvuspartei,2
+EE,5,prtvtcee,9,Erakond Eesti Kristlikud Demokraadid,7
+EE,5,prtvtcee,10,Üksikkandidaat,15
+EE,5,prtvtcee,11,Mitte kellegi poolt,1
+EE,5,prtvtcee,12,Not applicable,689
+EE,5,prtvtcee,13,Refusal,49
+EE,5,prtvtcee,14,Don't know,74
+EE,5,prtvtcee,15,No answer,1
+EE,6,prtvtdee,1,Erakond Isamaa ja Res Publica Liit,178
+EE,6,prtvtdee,2,Eesti Keskerakond,331
+EE,6,prtvtdee,3,Eesti Reformierakond,406
+EE,6,prtvtdee,4,Eesti Konservatiivne Rahvaerakond (endine Rahvaliit),24
+EE,6,prtvtdee,5,Sotsiaaldemokraatlik Erakond,239
+EE,6,prtvtdee,6,Erakond Eestimaa Rohelised,26
+EE,6,prtvtdee,7,Erakond Eesti Kristlikud Demokraadid,2
+EE,6,prtvtdee,8,Eesti Iseseisvuspartei,1
+EE,6,prtvtdee,10,Eesti Vabaduspartei – Põllumeeste Kogu,2
+EE,6,prtvtdee,11,Üksikkandidaadi poolt,65
+EE,6,prtvtdee,12,Not applicable,975
+EE,6,prtvtdee,13,Refusal,64
+EE,6,prtvtdee,14,Don't know,67
+EE,7,prtvteee,1,Eesti Reformierakond,321
+EE,7,prtvteee,2,Eesti Keskerakond,284
+EE,7,prtvteee,3,Erakond Isamaa ja Res Publica Liit,162
+EE,7,prtvteee,4,Sotsiaaldemokraatlik Erakond,176
+EE,7,prtvteee,5,Erakond Eestimaa Rohelised,21
+EE,7,prtvteee,6,Konservatiivne Rahvaerakond (endie Rahvaliit),10
+EE,7,prtvteee,7,Vene Erakond Eestis,1
+EE,7,prtvteee,8,Erakond Eesti Kristlikud Demokraadid,4
+EE,7,prtvteee,9,Eesti Iseseisvuspartei,2
+EE,7,prtvteee,10,Üksikkandidaadid või muud,48
+EE,7,prtvteee,11,Not applicable,899
+EE,7,prtvteee,12,Refusal,65
+EE,7,prtvteee,13,Don't know,58
+ES,1,prtvtes,1,Partido Popular (PP),368
+ES,1,prtvtes,2,Partido Socialista Obrero Español (PSOE),364
+ES,1,prtvtes,3,Izquierda Unida (IU),49
+ES,1,prtvtes,4,Convergència i Unió (CiU),55
+ES,1,prtvtes,5,Esquerra Repubicana de Catalunya (ERC),12
+ES,1,prtvtes,6,Iniciativa per Catalunya-Verds (ICV),7
+ES,1,prtvtes,7,Partido Nacionalista Vasco (PNV),9
+ES,1,prtvtes,8,Eusko Alkartasuna (EA),2
+ES,1,prtvtes,9,Bloque Nacionalista Galego (BNG),5
+ES,1,prtvtes,10,Coalición Canaria (CC),7
+ES,1,prtvtes,11,Partido Andalucista (PA),7
+ES,1,prtvtes,12,Chunta Aragonesista (CHA),1
+ES,1,prtvtes,13,Other,40
+ES,1,prtvtes,14,Not applicable,457
+ES,1,prtvtes,15,Refusal,301
+ES,1,prtvtes,16,Don't know,45
+ES,2,prtvtaes,1,Partido Popular (PP),337
+ES,2,prtvtaes,2,Partido Socialista Obrero Español (PSOE),509
+ES,2,prtvtaes,3,Izquierda Unida (IU),59
+ES,2,prtvtaes,4,Convergència i Unió (CiU),28
+ES,2,prtvtaes,5,Esquerra Repubicana de Catalunya (ERC),18
+ES,2,prtvtaes,6,Iniciativa per Catalunya-Verds (ICV),6
+ES,2,prtvtaes,7,Partido Nacionalista Vasco (PNV),13
+ES,2,prtvtaes,8,Eusko Alkartasuna (EA),2
+ES,2,prtvtaes,9,Bloque Nacionalista Galego (BNG),3
+ES,2,prtvtaes,10,Coalición Canaria (CC),6
+ES,2,prtvtaes,11,Partido Andalucista (PA),6
+ES,2,prtvtaes,12,Chunta Aragonesista (CHA),5
+ES,2,prtvtaes,14,Other,10
+ES,2,prtvtaes,15,Blank vote,27
+ES,2,prtvtaes,16,Spoiled vote,2
+ES,2,prtvtaes,17,Not applicable,407
+ES,2,prtvtaes,19,Don't know,30
+ES,2,prtvtaes,20,No answer,195
+ES,3,prtvtaes,1,Partido Popular (PP),355
+ES,3,prtvtaes,2,Partido Socialista Obrero Español (PSOE),508
+ES,3,prtvtaes,3,Izquierda Unida (IU),53
+ES,3,prtvtaes,4,Convergència i Unió (CiU),29
+ES,3,prtvtaes,5,Esquerra Repubicana de Catalunya (ERC),24
+ES,3,prtvtaes,6,Iniciativa per Catalunya-Verds (ICV),5
+ES,3,prtvtaes,7,Partido Nacionalista Vasco (PNV),24
+ES,3,prtvtaes,8,Eusko Alkartasuna (EA),2
+ES,3,prtvtaes,9,Bloque Nacionalista Galego (BNG),15
+ES,3,prtvtaes,10,Coalición Canaria (CC),5
+ES,3,prtvtaes,11,Partido Andalucista (PA),9
+ES,3,prtvtaes,12,Chunta Aragonesista (CHA),1
+ES,3,prtvtaes,13,Nafarroa-Bai (NA-BAI),1
+ES,3,prtvtaes,14,Other,15
+ES,3,prtvtaes,15,Blank vote,28
+ES,3,prtvtaes,16,Spoiled vote,4
+ES,3,prtvtaes,17,Not applicable,545
+ES,3,prtvtaes,18,Refusal,216
+ES,3,prtvtaes,19,Don't know,37
+ES,4,prtvtbes,1,Partido Popular,451
+ES,4,prtvtbes,2,Partido Socialista Obrero Español (PSOE),750
+ES,4,prtvtbes,3,Izquierda Unida (IU),64
+ES,4,prtvtbes,4,Convergència i Unió (CiU),56
+ES,4,prtvtbes,5,Esquerra Republicana de Catalunya (ERC),18
+ES,4,prtvtbes,6,Partido Nacionalista Vasco (PNV),30
+ES,4,prtvtbes,7,Bloque Nacionalista Galego (BNG),36
+ES,4,prtvtbes,8,Coalición Canaria-Partido Nacionalista Canario (CC-PNC),4
+ES,4,prtvtbes,9,Nafarroa-Bai (NA-BAI),3
+ES,4,prtvtbes,10,Unión Progreso y Democracia (UPyD),8
+ES,4,prtvtbes,11,Other,23
+ES,4,prtvtbes,12,Blank vote,33
+ES,4,prtvtbes,13,Spoiled vote,5
+ES,4,prtvtbes,14,Not applicable,733
+ES,4,prtvtbes,15,Refusal,329
+ES,4,prtvtbes,16,Don't know,33
+ES,5,prtvtbes,1,Partido Popular,360
+ES,5,prtvtbes,2,Partido Socialista Obrero Español (PSOE),536
+ES,5,prtvtbes,3,Izquierda Unida (IU),54
+ES,5,prtvtbes,4,Convergència i Unió (CiU),37
+ES,5,prtvtbes,5,Esquerra Republicana de Catalunya (ERC),12
+ES,5,prtvtbes,6,Partido Nacionalista Vasco (PNV),16
+ES,5,prtvtbes,7,Bloque Nacionalista Galego (BNG),7
+ES,5,prtvtbes,8,Coalición Canaria-Partido Nacionalista Canario (CC-PNC),4
+ES,5,prtvtbes,9,Nafarroa-Bai (NA-BAI),2
+ES,5,prtvtbes,10,Unión Progreso y Democracia (UPyD),25
+ES,5,prtvtbes,11,Other,16
+ES,5,prtvtbes,12,Blank vote,40
+ES,5,prtvtbes,13,Spoiled vote,4
+ES,5,prtvtbes,14,Not applicable,550
+ES,5,prtvtbes,15,Refusal,187
+ES,5,prtvtbes,16,Don't know,35
+ES,6,prtvtces,1,Partido Popular - PP (con UPN en Navarra),492
+ES,6,prtvtces,2,Partido Socialista Obrero Español (PSOE),326
+ES,6,prtvtces,3,Convergència i Unió (CiU),49
+ES,6,prtvtces,4,Izquierda Unida (IU) - (ICV en Cataluña),90
+ES,6,prtvtces,5,AMAIUR,7
+ES,6,prtvtces,6,"Unión, Progreso y Democracia (UPyD)",48
+ES,6,prtvtces,7,Partido Nacionalista Vasco (PNV),21
+ES,6,prtvtces,8,Esquerra Republicana de Catalunya (ERC),18
+ES,6,prtvtces,9,Bloque Nacionalista Galego (BNG),9
+ES,6,prtvtces,10,Coalición Canaria - Nueva Canarias,6
+ES,6,prtvtces,11,Compromís - EQUO,14
+ES,6,prtvtces,12,Foro de Ciudadanos,4
+ES,6,prtvtces,14,Otros,39
+ES,6,prtvtces,15,Votó en blanco,36
+ES,6,prtvtces,16,Votó nulo,14
+ES,6,prtvtces,17,Not applicable,543
+ES,6,prtvtces,18,Refusal,145
+ES,6,prtvtces,19,Don't know,28
+ES,7,prtvtces,1,Partido Popular - PP (con UPN en Navarra),438
+ES,7,prtvtces,2,Partido Socialista Obrero Español (PSOE),347
+ES,7,prtvtces,3,Convergència i Unió (CiU),34
+ES,7,prtvtces,4,Izquierda Unida (IU) - (ICV en Cataluña),99
+ES,7,prtvtces,5,AMAIUR,14
+ES,7,prtvtces,6,"Unión, Progreso y Democracia (UPyD)",50
+ES,7,prtvtces,7,Partido Nacionalista Vasco (PNV),13
+ES,7,prtvtces,8,Esquerra Republicana de Catalunya (ERC),28
+ES,7,prtvtces,9,Bloque Nacionalista Galego (BNG),5
+ES,7,prtvtces,10,Coalición Canaria - Nueva Canarias,6
+ES,7,prtvtces,11,Compromís - EQUO,8
+ES,7,prtvtces,12,Foro de Ciudadanos,1
+ES,7,prtvtces,13,Geroa Bai,2
+ES,7,prtvtces,14,Otros,24
+ES,7,prtvtces,15,Votó en blanco,32
+ES,7,prtvtces,16,Votó nulo,11
+ES,7,prtvtces,17,Not applicable,580
+ES,7,prtvtces,18,Refusal,158
+ES,7,prtvtces,19,Don't know,74
+ES,7,prtvtces,20,No answer,1
+FI,1,prtvtfi,1,The National Coalition Party,237
+FI,1,prtvtfi,2,The Swedish People´s Party (SPP),68
+FI,1,prtvtfi,3,"Liberals, (The liberal party of Finland)",1
+FI,1,prtvtfi,4,The Centre Party,316
+FI,1,prtvtfi,5,True Finns,4
+FI,1,prtvtfi,6,Christian Democrats,33
+FI,1,prtvtfi,7,League for Free Finland,1
+FI,1,prtvtfi,8,The Green League,109
+FI,1,prtvtfi,9,Finnish Social Democratic Party,335
+FI,1,prtvtfi,10,The Left Alliance,84
+FI,1,prtvtfi,11,Communist Party of Finland,3
+FI,1,prtvtfi,12,The Communist Workers' Party of Finland,1
+FI,1,prtvtfi,14,Other,18
+FI,1,prtvtfi,15,Not applicable,571
+FI,1,prtvtfi,16,Refusal,102
+FI,1,prtvtfi,17,Don't know,117
+FI,2,prtvtfi,1,The National Coalition Party,295
+FI,2,prtvtfi,2,The Swedish People´s Party (SPP),63
+FI,2,prtvtfi,3,"Liberals, (The liberal party of Finland)",3
+FI,2,prtvtfi,4,The Centre Party,305
+FI,2,prtvtfi,5,True Finns,12
+FI,2,prtvtfi,6,Christian Democrats,60
+FI,2,prtvtfi,7,League for Free Finland,1
+FI,2,prtvtfi,8,The Green League,126
+FI,2,prtvtfi,9,Finnish Social Democratic Party,344
+FI,2,prtvtfi,10,The Left Alliance,80
+FI,2,prtvtfi,11,Communist Party of Finland,3
+FI,2,prtvtfi,12,The Communist Workers' Party of Finland,1
+FI,2,prtvtfi,14,Other,14
+FI,2,prtvtfi,15,Not applicable,547
+FI,2,prtvtfi,16,Refusal,87
+FI,2,prtvtfi,17,Don't know,81
+FI,3,prtvtfi,1,The National Coalition Party,291
+FI,3,prtvtfi,2,The Swedish People´s Party (SPP),53
+FI,3,prtvtfi,4,The Centre Party,302
+FI,3,prtvtfi,5,True Finns,11
+FI,3,prtvtfi,6,Christian Democrats,48
+FI,3,prtvtfi,8,The Green League,100
+FI,3,prtvtfi,9,Finnish Social Democratic Party,347
+FI,3,prtvtfi,10,The Left Alliance,63
+FI,3,prtvtfi,11,Communist Party of Finland,4
+FI,3,prtvtfi,14,Other,8
+FI,3,prtvtfi,15,Not applicable,469
+FI,3,prtvtfi,16,Refusal,84
+FI,3,prtvtfi,17,Don't know,116
+FI,4,prtvtafi,1,The National Coalition Party,359
+FI,4,prtvtafi,2,The Swedish People´s Party (SPP),74
+FI,4,prtvtafi,3,"Liberals, (The liberal party of Finland)",1
+FI,4,prtvtafi,4,The Centre Party,296
+FI,4,prtvtafi,5,True Finns,54
+FI,4,prtvtafi,6,Christian Democrats,44
+FI,4,prtvtafi,7,The Green League,131
+FI,4,prtvtafi,8,Finnish Social Democratic Party,315
+FI,4,prtvtafi,9,The Left Alliance,95
+FI,4,prtvtafi,10,Communist Party of Finland,4
+FI,4,prtvtafi,11,The Communist Workers' Party of Finland,1
+FI,4,prtvtafi,12,Other,17
+FI,4,prtvtafi,13,Not applicable,489
+FI,4,prtvtafi,14,Refusal,103
+FI,4,prtvtafi,15,Don't know,109
+FI,4,prtvtafi,16,No answer,103
+FI,5,prtvtbfi,1,The National Coalition Party,304
+FI,5,prtvtbfi,2,The Swedish People´s Party (SPP),48
+FI,5,prtvtbfi,3,"Liberals, (The liberal party of Finland)",1
+FI,5,prtvtbfi,4,The Centre Party,262
+FI,5,prtvtbfi,5,True Finns,67
+FI,5,prtvtbfi,6,Christian Democrats,40
+FI,5,prtvtbfi,8,Finnish People's Blue-whites,1
+FI,5,prtvtbfi,9,Senior Citizens' Party,3
+FI,5,prtvtbfi,11,Independence Party,1
+FI,5,prtvtbfi,13,The Green League,122
+FI,5,prtvtbfi,14,Finnish Social Democratic Party,231
+FI,5,prtvtbfi,15,The Left Alliance,57
+FI,5,prtvtbfi,16,Communist Party of Finland,4
+FI,5,prtvtbfi,17,The Communist Workers' Party of Finland,2
+FI,5,prtvtbfi,18,Workers Party,1
+FI,5,prtvtbfi,19,Other,20
+FI,5,prtvtbfi,20,Not applicable,531
+FI,5,prtvtbfi,21,Refusal,89
+FI,5,prtvtbfi,22,Don't know,94
+FI,6,prtvtcfi,1,The National Coalition Party,370
+FI,6,prtvtcfi,2,The Swedish People´s Party (SPP),78
+FI,6,prtvtcfi,3,The Centre Party,227
+FI,6,prtvtcfi,4,True Finns,202
+FI,6,prtvtcfi,5,Christian Democrats,35
+FI,6,prtvtcfi,6,Freedom Party,1
+FI,6,prtvtcfi,8,Pirate Party,2
+FI,6,prtvtcfi,11,For the Poor,1
+FI,6,prtvtcfi,12,Green League,166
+FI,6,prtvtcfi,13,Social Democratic Party,286
+FI,6,prtvtcfi,14,Left Alliance,102
+FI,6,prtvtcfi,15,Communist Party,4
+FI,6,prtvtcfi,17,Workers Party,1
+FI,6,prtvtcfi,18,Other,23
+FI,6,prtvtcfi,19,Not applicable,470
+FI,6,prtvtcfi,20,Refusal,126
+FI,6,prtvtcfi,21,Don't know,103
+FI,7,prtvtcfi,1,The National Coalition Party,324
+FI,7,prtvtcfi,2,The Swedish People´s Party (SPP),62
+FI,7,prtvtcfi,3,The Centre Party,242
+FI,7,prtvtcfi,4,True Finns,187
+FI,7,prtvtcfi,5,Christian Democrats,40
+FI,7,prtvtcfi,7,Change 2011,2
+FI,7,prtvtcfi,8,Pirate Party,2
+FI,7,prtvtcfi,10,Independence Party,1
+FI,7,prtvtcfi,12,Green League,141
+FI,7,prtvtcfi,13,Social Democratic Party,239
+FI,7,prtvtcfi,14,Left Alliance,87
+FI,7,prtvtcfi,15,Communist Party,3
+FI,7,prtvtcfi,16,The Communist Workers' Party,1
+FI,7,prtvtcfi,18,Other,14
+FI,7,prtvtcfi,19,Not applicable,517
+FI,7,prtvtcfi,20,Refusal,113
+FI,7,prtvtcfi,21,Don't know,112
+FR,1,prtvtfr,1,"CPNT (Chasse, Pêche, Nature et Traditions)",16
+FR,1,prtvtfr,2,DL (Démocratie Libérale),7
+FR,1,prtvtfr,3,FN (Front National),48
+FR,1,prtvtfr,4,LCR (ligue communiste révolutionnaire),9
+FR,1,prtvtfr,5,LO (Lutte ouvrière),15
+FR,1,prtvtfr,6,MDC (Mouvement des citoyens),5
+FR,1,prtvtfr,7,MNR (Mouvement National Républicain),9
+FR,1,prtvtfr,8,MPF (Mouvement pour la France),8
+FR,1,prtvtfr,9,PC (Parti communiste),36
+FR,1,prtvtfr,10,PS (Parti Socialiste),282
+FR,1,prtvtfr,11,RPF (Rassemblement du Peuple Français),15
+FR,1,prtvtfr,12,UMP (Union de la Majorité Présidentielle),192
+FR,1,prtvtfr,13,UDF (Union pour la Démocratie Française),52
+FR,1,prtvtfr,14,Les Verts,56
+FR,1,prtvtfr,15,Autres mouvements écologistes,13
+FR,1,prtvtfr,16,Autre,26
+FR,1,prtvtfr,17,Not applicable,362
+FR,1,prtvtfr,18,Refusal,116
+FR,1,prtvtfr,19,Don't know,69
+FR,1,prtvtfr,20,No answer,167
+FR,2,prtvtfr,1,"CPNT (Chasse, Pêche, Nature et Traditions)",38
+FR,2,prtvtfr,2,DL (Démocratie Libérale),6
+FR,2,prtvtfr,3,FN (Front National),82
+FR,2,prtvtfr,4,LCR (ligue communiste révolutionnaire),16
+FR,2,prtvtfr,5,LO (Lutte ouvrière),28
+FR,2,prtvtfr,6,MDC (Mouvement des citoyens),5
+FR,2,prtvtfr,7,MNR (Mouvement National Républicain),8
+FR,2,prtvtfr,8,MPF (Mouvement pour la France),18
+FR,2,prtvtfr,9,PC (Parti communiste),35
+FR,2,prtvtfr,10,PS (Parti Socialiste),381
+FR,2,prtvtfr,11,RPF (Rassemblement du Peuple Français),17
+FR,2,prtvtfr,12,UMP (Union de la Majorité Présidentielle),256
+FR,2,prtvtfr,13,UDF (Union pour la Démocratie Française),65
+FR,2,prtvtfr,14,Les Verts,72
+FR,2,prtvtfr,15,Autres mouvements écologistes,9
+FR,2,prtvtfr,16,Autre,22
+FR,2,prtvtfr,17,Not applicable,577
+FR,2,prtvtfr,18,Refusal,118
+FR,2,prtvtfr,19,Don't know,53
+FR,3,prtvtafr,1,"CPNT (Chasse, pêche, nature et traditions)",28
+FR,3,prtvtafr,2,DL (Démocratie libérale),7
+FR,3,prtvtafr,3,FN (Front national),64
+FR,3,prtvtafr,4,LCR (Ligue communiste révolutionnaire),12
+FR,3,prtvtafr,5,LO (Lutte ouvrière),37
+FR,3,prtvtafr,6,MDC (Mouvement des citoyens),9
+FR,3,prtvtafr,7,MNR (Mouvement national républicain),18
+FR,3,prtvtafr,8,MPF (Mouvement pour la France),32
+FR,3,prtvtafr,9,PC (Parti communiste),49
+FR,3,prtvtafr,10,PS (Parti socialiste),383
+FR,3,prtvtafr,11,RPF (Rassemblement du peuple français),24
+FR,3,prtvtafr,12,UMP (Union pour la majorité présidentielle),274
+FR,3,prtvtafr,13,UDF (Union pour la démocratie française),67
+FR,3,prtvtafr,14,Les Verts,74
+FR,3,prtvtafr,15,Autres mouvements écologistes,3
+FR,3,prtvtafr,16,Autre,9
+FR,3,prtvtafr,17,Blanc,43
+FR,3,prtvtafr,18,Not applicable,653
+FR,3,prtvtafr,19,Refusal,119
+FR,3,prtvtafr,20,Don't know,81
+FR,4,prtvtbfr,1,"CPNT (Chasse, Pêche, Nature et Traditions)",16
+FR,4,prtvtbfr,2,FN (Front National),31
+FR,4,prtvtbfr,3,LCR (Ligue Communiste Révolutionnaire),24
+FR,4,prtvtbfr,4,LO (Lutte Ouvrière),23
+FR,4,prtvtbfr,5,MPF (Mouvement pour la France),7
+FR,4,prtvtbfr,6,Nouveau Centre,11
+FR,4,prtvtbfr,7,PC (Parti Communiste),44
+FR,4,prtvtbfr,8,PS (Parti Socialiste),419
+FR,4,prtvtbfr,9,PRG (Parti Radical de Gauche),25
+FR,4,prtvtbfr,10,UDF-MoDem (Mouvement Democrate),88
+FR,4,prtvtbfr,11,UMP (Union pour la Majorité Présidentielle),408
+FR,4,prtvtbfr,12,Les Verts,65
+FR,4,prtvtbfr,13,Autres mouvements écologistes,15
+FR,4,prtvtbfr,14,Divers gauche,12
+FR,4,prtvtbfr,15,Divers droite,24
+FR,4,prtvtbfr,16,Autre,3
+FR,4,prtvtbfr,17,Blanc,34
+FR,4,prtvtbfr,18,Nul,5
+FR,4,prtvtbfr,19,Not applicable,642
+FR,4,prtvtbfr,20,Refusal,114
+FR,4,prtvtbfr,21,Don't know,63
+FR,5,prtvtbfr,1,"CPNT (Chasse, Pêche, Nature et Traditions)",27
+FR,5,prtvtbfr,2,FN (Front National),43
+FR,5,prtvtbfr,3,LCR (Ligue Communiste Révolutionnaire),18
+FR,5,prtvtbfr,4,LO (Lutte Ouvrière),16
+FR,5,prtvtbfr,5,MPF (Mouvement pour la France),10
+FR,5,prtvtbfr,6,Nouveau Centre,14
+FR,5,prtvtbfr,7,PC (Parti Communiste),29
+FR,5,prtvtbfr,8,PS (Parti Socialiste),280
+FR,5,prtvtbfr,9,PRG (Parti Radical de Gauche),18
+FR,5,prtvtbfr,10,UDF-MoDem (Mouvement Democrate),55
+FR,5,prtvtbfr,11,UMP (Union pour la Majorité Présidentielle),279
+FR,5,prtvtbfr,12,Les Verts,91
+FR,5,prtvtbfr,13,Autres mouvements écologistes,19
+FR,5,prtvtbfr,14,Divers gauche,11
+FR,5,prtvtbfr,15,Divers droite,11
+FR,5,prtvtbfr,16,Autre,4
+FR,5,prtvtbfr,17,Blanc,39
+FR,5,prtvtbfr,18,Nul,4
+FR,5,prtvtbfr,19,Not applicable,635
+FR,5,prtvtbfr,20,Refusal,91
+FR,5,prtvtbfr,21,Don't know,34
+FR,6,prtvtcfr,1,Nouveau Centre,14
+FR,6,prtvtcfr,2,FN (Front National),126
+FR,6,prtvtcfr,3,PR (Parti Radical Valoisien),4
+FR,6,prtvtcfr,4,NPA (Nouveau Parti Anti-Capitaliste),15
+FR,6,prtvtcfr,5,LO (Lutte Ouvrière),13
+FR,6,prtvtcfr,6,FDG (Front de Gauche),63
+FR,6,prtvtcfr,7,Parti Radical de Gauche,20
+FR,6,prtvtcfr,8,MPF (Mouvement pour la France),18
+FR,6,prtvtcfr,9,PS (Parti Socialiste),459
+FR,6,prtvtcfr,10,UMP (Union pour un Mouvement Populaire),358
+FR,6,prtvtcfr,11,MODEM (Mouvement Démocrate),42
+FR,6,prtvtcfr,12,EELV (Europe Ecologie Les Verts),53
+FR,6,prtvtcfr,13,Autres mouvements écologistes,13
+FR,6,prtvtcfr,14,Autre,15
+FR,6,prtvtcfr,15,Blanc,34
+FR,6,prtvtcfr,16,Nul,9
+FR,6,prtvtcfr,17,Not applicable,567
+FR,6,prtvtcfr,18,Refusal,113
+FR,6,prtvtcfr,19,Don't know,32
+FR,7,prtvtcfr,1,Nouveau Centre,13
+FR,7,prtvtcfr,2,FN (Front National),126
+FR,7,prtvtcfr,3,PR (Parti Radical Valoisien),1
+FR,7,prtvtcfr,4,NPA (Nouveau Parti Anti-Capitaliste),6
+FR,7,prtvtcfr,5,LO (Lutte Ouvrière),10
+FR,7,prtvtcfr,6,FDG (Front de Gauche),40
+FR,7,prtvtcfr,7,Parti Radical de Gauche,16
+FR,7,prtvtcfr,8,MPF (Mouvement pour la France),11
+FR,7,prtvtcfr,9,PS (Parti Socialiste),335
+FR,7,prtvtcfr,10,UMP (Union pour un Mouvement Populaire),303
+FR,7,prtvtcfr,11,MODEM (Mouvement Démocrate),64
+FR,7,prtvtcfr,12,EELV (Europe Ecologie Les Verts),72
+FR,7,prtvtcfr,13,Autres mouvements écologistes,15
+FR,7,prtvtcfr,14,Autre,11
+FR,7,prtvtcfr,15,Blanc,34
+FR,7,prtvtcfr,16,Nul,3
+FR,7,prtvtcfr,17,Not applicable,758
+FR,7,prtvtcfr,18,Refusal,61
+FR,7,prtvtcfr,19,Don't know,38
+GB,1,prtvtgb,1,Conservative,386
+GB,1,prtvtgb,2,Labour,624
+GB,1,prtvtgb,3,Liberal Democrat,218
+GB,1,prtvtgb,4,Scottish National Party,25
+GB,1,prtvtgb,5,Plaid Cymru,12
+GB,1,prtvtgb,6,Green Party,12
+GB,1,prtvtgb,7,Other,15
+GB,1,prtvtgb,8,Ulster Unionist Party (nir),11
+GB,1,prtvtgb,9,Democratic Unionist Party (nir),8
+GB,1,prtvtgb,10,Sinn Fein (nir),3
+GB,1,prtvtgb,11,Social Democratic and Labour Party (nir),7
+GB,1,prtvtgb,12,Alliance Party (nir),5
+GB,1,prtvtgb,14,United Kingdom Unionist Party (nir),2
+GB,1,prtvtgb,15,Women's Coalition (nir),1
+GB,1,prtvtgb,20,Not applicable,639
+GB,1,prtvtgb,21,Refusal,58
+GB,1,prtvtgb,22,Don't know,26
+GB,2,prtvtgb,1,Conservative,307
+GB,2,prtvtgb,2,Labour,554
+GB,2,prtvtgb,3,Liberal Democrat,174
+GB,2,prtvtgb,4,Scottish National Party,18
+GB,2,prtvtgb,5,Plaid Cymru,2
+GB,2,prtvtgb,6,Green Party,22
+GB,2,prtvtgb,7,Other,19
+GB,2,prtvtgb,8,Ulster Unionist Party (nir),3
+GB,2,prtvtgb,9,Democratic Unionist Party (nir),3
+GB,2,prtvtgb,10,Sinn Fein (nir),7
+GB,2,prtvtgb,11,Social Democratic and Labour Party (nir),7
+GB,2,prtvtgb,19,Other (nir),5
+GB,2,prtvtgb,20,Not applicable,674
+GB,2,prtvtgb,21,Refusal,69
+GB,2,prtvtgb,22,Don't know,33
+GB,4,prtvtgb,1,Conservative,467
+GB,4,prtvtgb,2,Labour,615
+GB,4,prtvtgb,3,Liberal Democrat,242
+GB,4,prtvtgb,4,Scottish National Party,24
+GB,4,prtvtgb,5,Plaid Cymru,5
+GB,4,prtvtgb,6,Green Party,23
+GB,4,prtvtgb,7,Other,42
+GB,4,prtvtgb,8,Ulster Unionist Party (nir),7
+GB,4,prtvtgb,9,Democratic Unionist Party (nir),10
+GB,4,prtvtgb,10,Sinn Fein (nir),7
+GB,4,prtvtgb,11,Social Democratic and Labour Party (nir),16
+GB,4,prtvtgb,12,Alliance Party (nir),2
+GB,4,prtvtgb,20,Not applicable,785
+GB,4,prtvtgb,21,Refusal,57
+GB,4,prtvtgb,22,Don't know,50
+GB,5,prtvtgb,1,Conservative,583
+GB,5,prtvtgb,2,Labour,490
+GB,5,prtvtgb,3,Liberal Democrat,342
+GB,5,prtvtgb,4,Scottish National Party,31
+GB,5,prtvtgb,5,Plaid Cymru,16
+GB,5,prtvtgb,6,Green Party,24
+GB,5,prtvtgb,7,Other,49
+GB,5,prtvtgb,8,Ulster Unionist Party (nir),9
+GB,5,prtvtgb,9,Democratic Unionist Party (nir),8
+GB,5,prtvtgb,10,Sinn Fein (nir),2
+GB,5,prtvtgb,11,Social Democratic and Labour Party (nir),1
+GB,5,prtvtgb,12,Alliance Party (nir),4
+GB,5,prtvtgb,20,Not applicable,751
+GB,5,prtvtgb,21,Refusal,53
+GB,5,prtvtgb,22,Don't know,59
+GB,6,prtvtgb,1,Conservative,496
+GB,6,prtvtgb,2,Labour,516
+GB,6,prtvtgb,3,Liberal Democrat,255
+GB,6,prtvtgb,4,Scottish National Party,37
+GB,6,prtvtgb,5,Plaid Cymru,21
+GB,6,prtvtgb,6,Green Party,19
+GB,6,prtvtgb,7,Other,57
+GB,6,prtvtgb,8,Ulster Unionist Party (nir),10
+GB,6,prtvtgb,9,Democratic Unionist Party (nir),10
+GB,6,prtvtgb,10,Sinn Fein (nir),5
+GB,6,prtvtgb,11,Social Democratic and Labour Party (nir),7
+GB,6,prtvtgb,12,Alliance Party (nir),3
+GB,6,prtvtgb,19,Other (nir),2
+GB,6,prtvtgb,20,Not applicable,725
+GB,6,prtvtgb,21,Refusal,27
+GB,6,prtvtgb,22,Don't know,96
+GB,3,prtvtagb,1,Conservative,451
+GB,3,prtvtagb,2,Labour,652
+GB,3,prtvtagb,3,Liberal Democrat,287
+GB,3,prtvtagb,4,Scottish National Party,30
+GB,3,prtvtagb,5,Plaid Cymru,21
+GB,3,prtvtagb,6,Green Party,29
+GB,3,prtvtagb,7,British National Party,8
+GB,3,prtvtagb,8,Uk Independence Party,7
+GB,3,prtvtagb,9,Independent,10
+GB,3,prtvtagb,10,Ulster Unionist Party,8
+GB,3,prtvtagb,11,Democratic Unionist Party,10
+GB,3,prtvtagb,12,Sinn Fein,2
+GB,3,prtvtagb,13,Social Democratic and Labour Party,7
+GB,3,prtvtagb,14,Alliance Party,1
+GB,3,prtvtagb,21,Other,10
+GB,3,prtvtagb,22,Not applicable,756
+GB,3,prtvtagb,23,Refusal,72
+GB,3,prtvtagb,24,Don't know,33
+GB,7,prtvtbgb,1,Conservative,488
+GB,7,prtvtbgb,2,Labour,461
+GB,7,prtvtbgb,3,Liberal Democrat,210
+GB,7,prtvtbgb,4,Scottish National Party,39
+GB,7,prtvtbgb,5,Plaid Cymru,7
+GB,7,prtvtbgb,6,Green Party,38
+GB,7,prtvtbgb,7,UK Independence Party,104
+GB,7,prtvtbgb,8,Other,20
+GB,7,prtvtbgb,9,Ulster Unionist Party (nir),9
+GB,7,prtvtbgb,10,Democratic Unionist Party (nir),7
+GB,7,prtvtbgb,11,Sinn Fein (nir),4
+GB,7,prtvtbgb,12,Social Democratic and Labour Party (nir),6
+GB,7,prtvtbgb,13,Alliance Party (nir),4
+GB,7,prtvtbgb,16,Independent(s) (nir),3
+GB,7,prtvtbgb,18,Other (nir),1
+GB,7,prtvtbgb,19,Not applicable,739
+GB,7,prtvtbgb,20,Refusal,73
+GB,7,prtvtbgb,21,Don't know,51
+GR,1,prtvtgr,1,PASOK (Panhellenic Socialist Movement),678
+GR,1,prtvtgr,2,ND (New Democracy),528
+GR,1,prtvtgr,3,KKE (Communist party),73
+GR,1,prtvtgr,4,SYN (Left Wing Coalition),34
+GR,1,prtvtgr,5,DIKKI (Democratic Social Movement),11
+GR,1,prtvtgr,6,Other parties,53
+GR,1,prtvtgr,7,Not applicable,427
+GR,1,prtvtgr,8,Refusal,747
+GR,1,prtvtgr,9,Don't know,15
+GR,2,prtvtagr,1,PASOK (Panhellenic Socialist Movement),448
+GR,2,prtvtagr,2,ND (New Democracy),721
+GR,2,prtvtagr,3,KKE Communist Party),68
+GR,2,prtvtagr,4,SYN (Left Wing Coalition),53
+GR,2,prtvtagr,5,DIKKI (Democratic Social Movement),5
+GR,2,prtvtagr,6,LAOS (Popular Orthodox Party),20
+GR,2,prtvtagr,7,Other,34
+GR,2,prtvtagr,8,Not applicable,356
+GR,2,prtvtagr,9,Refusal,687
+GR,2,prtvtagr,10,Don't know,14
+GR,4,prtvtbgr,1,Panhellenic Socialist Movement – PASOK,538
+GR,4,prtvtbgr,2,New Democracy - ND,411
+GR,4,prtvtbgr,3,Communist Party - KKE,124
+GR,4,prtvtbgr,4,Coalition of the Radical Left - SYRIZA,84
+GR,4,prtvtbgr,5,Popular Orthodox Rally - LAOS,49
+GR,4,prtvtbgr,6,Greens,40
+GR,4,prtvtbgr,7,Other,57
+GR,4,prtvtbgr,8,Not applicable,380
+GR,4,prtvtbgr,9,Refusal,379
+GR,4,prtvtbgr,10,Don't know,10
+GR,5,prtvtcgr,1,The Panhellenic Socialist Movement (PASOK),600
+GR,5,prtvtcgr,2,New Democracy (ND),332
+GR,5,prtvtcgr,3,The Communist Party of Greece (KKE),114
+GR,5,prtvtcgr,4,The Popular Orthodox Rally (LAOS),53
+GR,5,prtvtcgr,5,The Coalition of the Radical Left (SYRIZA),63
+GR,5,prtvtcgr,6,The Ecologist Greens (OP),38
+GR,5,prtvtcgr,7,Null,38
+GR,5,prtvtcgr,8,No one,10
+GR,5,prtvtcgr,9,Invalid,13
+GR,5,prtvtcgr,10,Golden Dawn (Xrusi Augi),3
+GR,5,prtvtcgr,11,The Liberal Alliance (FS),2
+GR,5,prtvtcgr,12,The Anticapitalist Left Cooperation for the Overthrow (ANTAR,2
+GR,5,prtvtcgr,13,Smokers' Groups for Art and Visual Formation (KOTES),1
+GR,5,prtvtcgr,14,Independent Citizens' Movement (SPITHA),2
+GR,5,prtvtcgr,15,Not applicable,733
+GR,5,prtvtcgr,16,Refusal,697
+GR,5,prtvtcgr,17,Don't know,14
+HR,4,prtvthr,1,Hrvatska demokratska zajednica (HDZ),341
+HR,4,prtvthr,2,Socijaldemokratska partija Hrvatske (SDP),246
+HR,4,prtvthr,3,Hrvatska narodna stranka - Liberalni demokrati (HNS),41
+HR,4,prtvthr,4,Hrvatska seljacka stranka (HSS),41
+HR,4,prtvthr,5,Hrvatsko socijalno-liberalna stranka (HSLS),16
+HR,4,prtvthr,6,Istarski demokratski sabor (IDS),6
+HR,4,prtvthr,7,Hrvatski demokratski savez Slavonije i Baranje (HDSSB),8
+HR,4,prtvthr,8,Samostalna demokratska Srpska stranka (SDSS),7
+HR,4,prtvthr,9,Hrvatska stranka prava (HSP),25
+HR,4,prtvthr,10,Hrvatska stranka umirovljenika (HSU),25
+HR,4,prtvthr,11,Other,26
+HR,4,prtvthr,12,Not applicable,366
+HR,4,prtvthr,13,Refusal,285
+HR,4,prtvthr,14,Don't know,50
+HR,4,prtvthr,15,No answer,1
+HR,5,prtvthr,1,Hrvatska demokratska zajednica (HDZ),286
+HR,5,prtvthr,2,Socijaldemokratska partija Hrvatske (SDP),210
+HR,5,prtvthr,3,Hrvatska narodna stranka - Liberalni demokrati (HNS),20
+HR,5,prtvthr,4,Hrvatska seljacka stranka (HSS),31
+HR,5,prtvthr,5,Hrvatsko socijalno-liberalna stranka (HSLS),14
+HR,5,prtvthr,6,Istarski demokratski sabor (IDS),16
+HR,5,prtvthr,7,Hrvatski demokratski savez Slavonije i Baranje (HDSSB),8
+HR,5,prtvthr,8,Samostalna demokratska Srpska stranka (SDSS),9
+HR,5,prtvthr,9,Hrvatska stranka prava (HSP),27
+HR,5,prtvthr,10,Hrvatska stranka umirovljenika (HSU),30
+HR,5,prtvthr,11,Other,10
+HR,5,prtvthr,12,Not applicable,480
+HR,5,prtvthr,13,Refusal,395
+HR,5,prtvthr,14,Don't know,95
+HR,5,prtvthr,15,No answer,18
+HU,1,prtvthu,1,Center Party,16
+HU,1,prtvthu,2,FYD-HDF Fed.of Young Democrats&Hungarian Dem.Forum,466
+HU,1,prtvthu,3,ISHP-Independent Small Holders,9
+HU,1,prtvthu,4,HTJP-Hungarian Truth,16
+HU,1,prtvthu,5,HSP-Hungarian Socialist Party,581
+HU,1,prtvthu,6,WP-Workers Party,10
+HU,1,prtvthu,7,FFD-Free Democrats,49
+HU,1,prtvthu,8,None of them,2
+HU,1,prtvthu,9,Not applicable,359
+HU,1,prtvthu,10,Refusal,164
+HU,1,prtvthu,11,Don't know,11
+HU,1,prtvthu,12,No answer,2
+HU,2,prtvthu,1,Center Party,7
+HU,2,prtvthu,2,FYD-HDF Fed.of Young Democrats&Hungarian Dem.Forum,427
+HU,2,prtvthu,3,ISHP-Independent Small Holders,4
+HU,2,prtvthu,4,HTJP-Hungarian Truth,10
+HU,2,prtvthu,5,HSP-Hungarian Socialist Party,417
+HU,2,prtvthu,6,WP-Workers Party,12
+HU,2,prtvthu,7,FFD-Free Democrats,41
+HU,2,prtvthu,8,None of them,1
+HU,2,prtvthu,9,Not applicable,381
+HU,2,prtvthu,10,Refusal,161
+HU,2,prtvthu,11,Don't know,36
+HU,2,prtvthu,12,No answer,1
+HU,3,prtvtahu,1,Fidesz - KDNP,416
+HU,3,prtvtahu,2,MDF,26
+HU,3,prtvtahu,3,Harmadik Út (MIÉP - Jobbik Magyarországért),6
+HU,3,prtvtahu,4,MSZP,399
+HU,3,prtvtahu,5,Munkáspárt,1
+HU,3,prtvtahu,6,SZDSZ,31
+HU,3,prtvtahu,7,Centrumpárt,3
+HU,3,prtvtahu,8,Other party,2
+HU,3,prtvtahu,10,Not applicable,392
+HU,3,prtvtahu,11,Refusal,235
+HU,3,prtvtahu,12,Don't know,7
+HU,4,prtvtbhu,1,Fidesz - KDNP,457
+HU,4,prtvtbhu,2,MDF,19
+HU,4,prtvtbhu,3,MIÉP - Jobbik a Harmadik Út,6
+HU,4,prtvtbhu,4,MSZP,353
+HU,4,prtvtbhu,5,Munkáspárt,5
+HU,4,prtvtbhu,6,SZDSZ,21
+HU,4,prtvtbhu,7,Centrumpárt,4
+HU,4,prtvtbhu,8,Kereszténydemokrata Párt - Keresztény Centrum Összefogás,1
+HU,4,prtvtbhu,9,Magyar Vidék és Polgári Párt,1
+HU,4,prtvtbhu,13,Not applicable,417
+HU,4,prtvtbhu,14,Refusal,235
+HU,4,prtvtbhu,15,Don't know,25
+HU,5,prtvtchu,1,Fidesz - KDNP,559
+HU,5,prtvtchu,2,MDF,5
+HU,5,prtvtchu,4,MSZP,149
+HU,5,prtvtchu,5,Munkaspart,2
+HU,5,prtvtchu,6,SZDSZ,4
+HU,5,prtvtchu,7,Centrum Part,1
+HU,5,prtvtchu,9,Magyar Videk es Polgari Part,2
+HU,5,prtvtchu,11,Jobbik Magyarorszagert Mozgalom,101
+HU,5,prtvtchu,12,Magyarorszagi Szocialdemokrata Part,2
+HU,5,prtvtchu,13,Lehet Mas a Politika (LMP),56
+HU,5,prtvtchu,14,Not applicable,460
+HU,5,prtvtchu,15,Refusal,214
+HU,5,prtvtchu,16,Other party,2
+HU,5,prtvtchu,18,Don't know,4
+HU,6,prtvtdhu,1,Centrum Párt (Centrum Összefogás Magyarországért),1
+HU,6,prtvtdhu,2,CM (Civil Mozgalom),3
+HU,6,prtvtdhu,3,Fidesz - KDNP (Fidesz – Magyar Polgári Szövetség Keresztényd,633
+HU,6,prtvtdhu,4,Jobbik (Jobbik Magyarországért Mozgalom),73
+HU,6,prtvtdhu,5,LMP (Lehet Más A Politika),52
+HU,6,prtvtdhu,6,MDF (Magyar Demokrata Fórum),2
+HU,6,prtvtdhu,7,MIÉP (Magyar Igazság És Élet Pártja),1
+HU,6,prtvtdhu,8,MSZP (Magyar Szocialista Párt),229
+HU,6,prtvtdhu,9,MSZDP (Magyar Szociáldemokrata Párt),2
+HU,6,prtvtdhu,10,Munkáspárt (Magyar Kommunista Munkáspárt),1
+HU,6,prtvtdhu,13,SZDSZ (Szabad Demokraták Szövetsége - A Magyar Liberális Pár,3
+HU,6,prtvtdhu,14,Other,2
+HU,6,prtvtdhu,15,Not applicable,676
+HU,6,prtvtdhu,16,Refusal,315
+HU,6,prtvtdhu,17,Don't know,21
+HU,7,prtvtehu,1,Fidesz - KDNP (Fidesz – Magyar Polgári Szövetség Keresztényd,416
+HU,7,prtvtehu,2,Jobbik (Jobbik Magyarországért Mozgalom),159
+HU,7,prtvtehu,3,LMP (Lehet Más A Politika),48
+HU,7,prtvtehu,4,MSZP-Együtt-DK-PM-MLP (Kormányváltók),223
+HU,7,prtvtehu,5,Munkáspárt (Magyar Kommunista Munkáspárt),6
+HU,7,prtvtehu,6,Other,3
+HU,7,prtvtehu,7,Not applicable,526
+HU,7,prtvtehu,8,Refusal,296
+HU,7,prtvtehu,9,Don't know,21
+IE,1,prtvtie,1,Fianna Fail,700
+IE,1,prtvtie,2,Fine Gael,293
+IE,1,prtvtie,3,Labour,165
+IE,1,prtvtie,4,Progressive Democrats,49
+IE,1,prtvtie,5,Green Party,53
+IE,1,prtvtie,6,Sinn Fein,58
+IE,1,prtvtie,7,Independent,89
+IE,1,prtvtie,8,Other,16
+IE,1,prtvtie,9,Not applicable,468
+IE,1,prtvtie,10,Refusal,90
+IE,1,prtvtie,11,Don't know,49
+IE,1,prtvtie,12,No answer,16
+IE,2,prtvtie,1,Fianna Fail,816
+IE,2,prtvtie,2,Fine Gael,361
+IE,2,prtvtie,3,Labour,165
+IE,2,prtvtie,4,Progressive Democrats,28
+IE,2,prtvtie,5,Green Party,52
+IE,2,prtvtie,6,Sinn Fein,96
+IE,2,prtvtie,7,Independent,90
+IE,2,prtvtie,8,Other,9
+IE,2,prtvtie,9,Not applicable,494
+IE,2,prtvtie,10,Refusal,92
+IE,2,prtvtie,11,Don't know,82
+IE,2,prtvtie,12,No answer,1
+IE,3,prtvtie,1,Fianna Fail,526
+IE,3,prtvtie,2,Fine Gael,288
+IE,3,prtvtie,3,Labour,90
+IE,3,prtvtie,4,Progressive Democrats,29
+IE,3,prtvtie,5,Green Party,41
+IE,3,prtvtie,6,Sinn Fein,53
+IE,3,prtvtie,7,Independent,11
+IE,3,prtvtie,8,Other,54
+IE,3,prtvtie,9,Not applicable,509
+IE,3,prtvtie,10,Refusal,73
+IE,3,prtvtie,11,Don't know,58
+IE,3,prtvtie,12,No answer,68
+IE,4,prtvtie,1,Fianna Fail,531
+IE,4,prtvtie,2,Fine Gael,416
+IE,4,prtvtie,3,Labour,118
+IE,4,prtvtie,4,Progressive Democrats,6
+IE,4,prtvtie,5,Green Party,31
+IE,4,prtvtie,6,Sinn Fein,64
+IE,4,prtvtie,7,Independent,67
+IE,4,prtvtie,8,Other,7
+IE,4,prtvtie,9,Not applicable,466
+IE,4,prtvtie,10,Refusal,28
+IE,4,prtvtie,11,Don't know,30
+IE,5,prtvtaie,1,Fianna Fáil,305
+IE,5,prtvtaie,2,Fine Gael,725
+IE,5,prtvtaie,3,Green Party,20
+IE,5,prtvtaie,4,Independent,137
+IE,5,prtvtaie,5,Labour,215
+IE,5,prtvtaie,6,People Before Profit,3
+IE,5,prtvtaie,7,Sinn Féin,138
+IE,5,prtvtaie,8,Socialist Party,5
+IE,5,prtvtaie,9,United Left Alliance,4
+IE,5,prtvtaie,10,Other,5
+IE,5,prtvtaie,11,Not applicable,882
+IE,5,prtvtaie,12,Refusal,97
+IE,5,prtvtaie,13,Don't know,40
+IE,6,prtvtaie,1,Fianna Fáil,311
+IE,6,prtvtaie,2,Fine Gael,691
+IE,6,prtvtaie,3,Green Party,38
+IE,6,prtvtaie,4,Independent,176
+IE,6,prtvtaie,5,Labour,243
+IE,6,prtvtaie,6,People Before Profit,4
+IE,6,prtvtaie,7,Sinn Féin,178
+IE,6,prtvtaie,8,Socialist Party,4
+IE,6,prtvtaie,10,Other,7
+IE,6,prtvtaie,11,Not applicable,811
+IE,6,prtvtaie,12,Refusal,100
+IE,6,prtvtaie,13,Don't know,65
+IE,7,prtvtaie,1,Fianna Fáil,349
+IE,7,prtvtaie,2,Fine Gael,545
+IE,7,prtvtaie,3,Green Party,19
+IE,7,prtvtaie,4,Independent,236
+IE,7,prtvtaie,5,Labour,155
+IE,7,prtvtaie,6,People Before Profit,10
+IE,7,prtvtaie,7,Sinn Féin,205
+IE,7,prtvtaie,8,Socialist Party,1
+IE,7,prtvtaie,9,United Left Alliance,1
+IE,7,prtvtaie,10,Other,11
+IE,7,prtvtaie,11,Not applicable,711
+IE,7,prtvtaie,12,Refusal,88
+IE,7,prtvtaie,13,Don't know,59
+IL,1,prtvtil,1,Israel ahat,431
+IL,1,prtvtil,2,Likud,554
+IL,1,prtvtil,3,Shase,68
+IL,1,prtvtil,4,Meretz,116
+IL,1,prtvtil,5,Mafdal,52
+IL,1,prtvtil,6,"Yahadut-hatora, Agudat-Isarel, Degel-hatora",33
+IL,1,prtvtil,7,Am ehad,7
+IL,1,prtvtil,8,Shinuy,53
+IL,1,prtvtil,9,Haehud haleumi,29
+IL,1,prtvtil,10,The center party,17
+IL,1,prtvtil,11,Israel baliya,41
+IL,1,prtvtil,12,Israel byteno,23
+IL,1,prtvtil,13,Hadereh hashlishit,2
+IL,1,prtvtil,14,Pnina Rozenblum,5
+IL,1,prtvtil,15,Tzomet,2
+IL,1,prtvtil,16,Gimlaim,1
+IL,1,prtvtil,17,Hadash,68
+IL,1,prtvtil,18,Balad,34
+IL,1,prtvtil,19,Hatnua Harabit Hameauhedet,31
+IL,1,prtvtil,20,Haravi Hahadash,1
+IL,1,prtvtil,21,Other party,25
+IL,1,prtvtil,22,White Ballot,8
+IL,1,prtvtil,23,Not applicable,693
+IL,1,prtvtil,24,Refusal,165
+IL,1,prtvtil,25,Don't know,27
+IL,1,prtvtil,26,No answer,13
+IL,4,prtvtail,1,HaAvoda- the Israeli Labor Party,201
+IL,4,prtvtail,2,Likud,302
+IL,4,prtvtail,3,Kadima,334
+IL,4,prtvtail,4,Shas,129
+IL,4,prtvtail,5,Meretz,71
+IL,4,prtvtail,6,National Religious Party,53
+IL,4,prtvtail,7,United Torah Judaism,132
+IL,4,prtvtail,8,Pensioners of Israel to the Knesset,70
+IL,4,prtvtail,9,Yisrael Beiteinu,100
+IL,4,prtvtail,10,Hadash,7
+IL,4,prtvtail,11,Balad,27
+IL,4,prtvtail,12,Ra'am- Ta'al,28
+IL,4,prtvtail,14,Shinui,9
+IL,4,prtvtail,15,Ale Yarok,7
+IL,4,prtvtail,16,HaYerukim,11
+IL,4,prtvtail,17,Other,30
+IL,4,prtvtail,18,blank ballot,6
+IL,4,prtvtail,20,Not applicable,658
+IL,4,prtvtail,21,Refusal,279
+IL,4,prtvtail,23,No answer,36
+IL,5,prtvtbil,1,Mifleget Ha' Avoda,153
+IL,5,prtvtbil,2,Ha' Likud,408
+IL,5,prtvtbil,3,Kadima,295
+IL,5,prtvtbil,4,Shas,91
+IL,5,prtvtbil,5,Meretz,39
+IL,5,prtvtbil,6,The Jewish House,41
+IL,5,prtvtbil,7,Ya'Hadut Ha'Tora,54
+IL,5,prtvtbil,8,Gil- Gimlaey Israeli la' Knesset,6
+IL,5,prtvtbil,9,Israel Beiteinu,130
+IL,5,prtvtbil,10,Ha'ihud HaLeumi,30
+IL,5,prtvtbil,11,HaTnu`a HaYeruqa,6
+IL,5,prtvtbil,12,Ale Yarok,11
+IL,5,prtvtbil,13,HaYerukim,4
+IL,5,prtvtbil,14,Hadash,41
+IL,5,prtvtbil,15,Balad,44
+IL,5,prtvtbil,16,Ra'am- Ta'al,48
+IL,5,prtvtbil,17,Other,6
+IL,5,prtvtbil,18,A white ballot (empty ballot note),3
+IL,5,prtvtbil,19,Did not vote,4
+IL,5,prtvtbil,20,Not applicable,634
+IL,5,prtvtbil,21,Refusal,140
+IL,5,prtvtbil,22,Don't know,61
+IL,5,prtvtbil,23,No answer,45
+IL,6,prtvtbil,1,Mifleget Ha' Avoda,174
+IL,6,prtvtbil,2,Ha' Likud,512
+IL,6,prtvtbil,3,Kadima,233
+IL,6,prtvtbil,4,Shas,73
+IL,6,prtvtbil,5,Meretz,56
+IL,6,prtvtbil,6,The Jewish House,53
+IL,6,prtvtbil,7,Ya'Hadut Ha'Tora,71
+IL,6,prtvtbil,8,Gil- Gimlaey Israeli la' Knesset,14
+IL,6,prtvtbil,9,Israel Beiteinu,103
+IL,6,prtvtbil,10,Ha'ihud HaLeumi,23
+IL,6,prtvtbil,11,HaTnu`a HaYeruqa,7
+IL,6,prtvtbil,12,Ale Yarok,8
+IL,6,prtvtbil,13,HaYerukim,8
+IL,6,prtvtbil,14,Hadash,34
+IL,6,prtvtbil,15,Balad,27
+IL,6,prtvtbil,16,Ra'am- Ta'al,47
+IL,6,prtvtbil,17,Other,3
+IL,6,prtvtbil,18,A white ballot (empty ballot note),4
+IL,6,prtvtbil,20,Not applicable,795
+IL,6,prtvtbil,21,Refusal,227
+IL,6,prtvtbil,22,Don't know,36
+IL,7,prtvtcil,1,HaMahane HaTzioni,342
+IL,7,prtvtcil,2,HaLikud,537
+IL,7,prtvtcil,3,Yisrael Beiteinu,66
+IL,7,prtvtcil,4,Shas,103
+IL,7,prtvtcil,5,Meretz,112
+IL,7,prtvtcil,6,HaBayit HaYehudi,131
+IL,7,prtvtcil,7,Yahadut HaTora,55
+IL,7,prtvtcil,8,Yesh Atid,149
+IL,7,prtvtcil,9,Kulanu,110
+IL,7,prtvtcil,10,Yachad,33
+IL,7,prtvtcil,11,HaReshima HaMeshutefet,273
+IL,7,prtvtcil,12,HaReshima HaArvit,7
+IL,7,prtvtcil,13,Ale Yarok,9
+IL,7,prtvtcil,14,Other,8
+IL,7,prtvtcil,15,White ballot,13
+IL,7,prtvtcil,16,Not applicable,433
+IL,7,prtvtcil,17,Refusal,181
+IS,2,prtvtis,1,Progressive Party,92
+IS,2,prtvtis,2,Liberal Party,29
+IS,2,prtvtis,3,Social Democratic Alliance,129
+IS,2,prtvtis,4,Independence Party,131
+IS,2,prtvtis,5,The Left Green Movement,46
+IS,2,prtvtis,6,Blank vote,13
+IS,2,prtvtis,7,Other parties,2
+IS,2,prtvtis,8,Not applicable,77
+IS,2,prtvtis,9,Refusal,38
+IS,2,prtvtis,10,Don't know,15
+IS,2,prtvtis,11,No answer,7
+IS,6,prtvtais,1,Samfylkinguna,144
+IS,6,prtvtais,2,Framsóknarflokkinn,72
+IS,6,prtvtais,3,Sjálfstæðisflokkinn,153
+IS,6,prtvtais,4,Vinstri hreyfinguna-Grænt framboð,106
+IS,6,prtvtais,5,Frjálslynda flokkinn,5
+IS,6,prtvtais,6,Borgarahreyfinguna,20
+IS,6,prtvtais,8,Skilaði auðu/ógildu,19
+IS,6,prtvtais,9,Not applicable,169
+IS,6,prtvtais,10,Refusal,33
+IS,6,prtvtais,11,Don't know,28
+IS,6,prtvtais,12,No answer,3
+IT,1,prtvtit,1,Democratici di Sinistra,167
+IT,1,prtvtit,2,La Margherita,76
+IT,1,prtvtit,3,Comunisti Italiani,9
+IT,1,prtvtit,4,Verdi e Sdi (Girasole),16
+IT,1,prtvtit,6,Rifondazione Comunista,35
+IT,1,prtvtit,7,Forza Italia,174
+IT,1,prtvtit,8,Alleanza Nazionale,65
+IT,1,prtvtit,9,CCD-CDU (Biancofiore),15
+IT,1,prtvtit,10,Lega Nord,11
+IT,1,prtvtit,11,Nuovo PSI,6
+IT,1,prtvtit,12,Lista Di Pietro,5
+IT,1,prtvtit,13,Democrazia Europea,4
+IT,1,prtvtit,14,Pannella-Bonino,8
+IT,1,prtvtit,15,Fiamma Tricolore,2
+IT,1,prtvtit,16,Altro,2
+IT,1,prtvtit,17,Ha votato solo al maggioritario,16
+IT,1,prtvtit,18,Not applicable,177
+IT,1,prtvtit,19,Refusal,400
+IT,1,prtvtit,20,Don t know,19
+IT,2,prtvtait,1,Democratici di sinistra,212
+IT,2,prtvtait,2,La Margherita,83
+IT,2,prtvtait,3,Comunisti Italiani,30
+IT,2,prtvtait,4,Verdi e SDI (Girasole),17
+IT,2,prtvtait,5,SVP (Sudtirol Volkspartei - Partito Popolare Sudtirolese),1
+IT,2,prtvtait,6,Rifondazione Comunista,49
+IT,2,prtvtait,7,Forza Italia,215
+IT,2,prtvtait,8,Alleanza Nazionale,108
+IT,2,prtvtait,9,CCD-CDU,18
+IT,2,prtvtait,10,Lega Nord,39
+IT,2,prtvtait,11,Nuovo PSI,4
+IT,2,prtvtait,12,Lista di Pietro,7
+IT,2,prtvtait,13,Democrazia Europea,3
+IT,2,prtvtait,14,Pannella-Bonino,10
+IT,2,prtvtait,15,Fiamma Tricolore,4
+IT,2,prtvtait,16,Other,14
+IT,2,prtvtait,17,Scheda bianca,7
+IT,2,prtvtait,18,Ulivo,4
+IT,2,prtvtait,19,Ha votato solo al maggioritario,11
+IT,2,prtvtait,20,Not applicable,294
+IT,2,prtvtait,21,Refusal,312
+IT,2,prtvtait,22,Don't know,87
+IT,6,prtvtbit,1,Partido Democratico (PD),203
+IT,6,prtvtbit,2,Sinistra Ecologia e Libertà (SEL),32
+IT,6,prtvtbit,3,Rivoluzione Civile (Ingroia),13
+IT,6,prtvtbit,4,Movimento 5 Stelle,126
+IT,6,prtvtbit,5,Scelta Civica (con Monti),28
+IT,6,prtvtbit,6,UDC,9
+IT,6,prtvtbit,8,Popolo delle Libertà (PDL),87
+IT,6,prtvtbit,9,Lega Nord,8
+IT,6,prtvtbit,10,Fratelli d'Italia,2
+IT,6,prtvtbit,12,FARE - Giannino,9
+IT,6,prtvtbit,13,La destra,3
+IT,6,prtvtbit,14,Altro,16
+IT,6,prtvtbit,15,Not applicable,216
+IT,6,prtvtbit,16,Refusal,165
+IT,6,prtvtbit,17,Don't know,28
+IT,6,prtvtbit,18,No answer,15
+LU,1,prtvtlu,1,Parti Chrétien Social (PCS),234
+LU,1,prtvtlu,2,Parti Socialiste Ouvrier Luxembourgeois (PSOL),158
+LU,1,prtvtlu,3,Parti Démocrate (PD),89
+LU,1,prtvtlu,4,Les Verts,40
+LU,1,prtvtlu,5,La Gauche,10
+LU,1,prtvtlu,6,Comité d'action pour la Démocracie et la Justice Sociale,22
+LU,1,prtvtlu,7,Autres,17
+LU,1,prtvtlu,8,Not applicable,705
+LU,1,prtvtlu,9,Refusal,157
+LU,1,prtvtlu,10,Don't know,109
+LU,1,prtvtlu,11,No answer,11
+LU,2,prtvtlu,1,Parti Chrétien Social (PCS),366
+LU,2,prtvtlu,2,Parti Socialiste Ouvrier Luxembourgeois (PSOL),173
+LU,2,prtvtlu,3,Parti Démocrate (PD),103
+LU,2,prtvtlu,4,Les Verts,71
+LU,2,prtvtlu,5,La Gauche,7
+LU,2,prtvtlu,6,Comité d'action pour la Démocracie et la Justice Sociale,41
+LU,2,prtvtlu,7,Autres,26
+LU,2,prtvtlu,8,Not applicable,585
+LU,2,prtvtlu,9,Refusal,147
+LU,2,prtvtlu,10,Don't know,99
+LU,2,prtvtlu,11,No answer,17
+NL,1,prtvtnl,1,Christian Democratic Party,571
+NL,1,prtvtnl,2,Labour Party,334
+NL,1,prtvtnl,3,Party for Freedom and Democracy,277
+NL,1,prtvtnl,4,List Pim Fortuyn,261
+NL,1,prtvtnl,5,Democrats `66,109
+NL,1,prtvtnl,6,Green Left,146
+NL,1,prtvtnl,7,Socialist Party,129
+NL,1,prtvtnl,8,Christian Union,45
+NL,1,prtvtnl,9,Liveable Netherlands,28
+NL,1,prtvtnl,10,Social Reformed Party,19
+NL,1,prtvtnl,11,Other,7
+NL,1,prtvtnl,12,Not applicable,401
+NL,1,prtvtnl,13,Refusal,19
+NL,1,prtvtnl,14,Don't know,18
+NL,2,prtvtanl,1,Christian Democratic Party,390
+NL,2,prtvtanl,2,Labour Party,388
+NL,2,prtvtanl,3,People's Party for Freedom and Democracy,261
+NL,2,prtvtanl,4,List Pim Fortuyn,41
+NL,2,prtvtanl,5,Democrats 66,61
+NL,2,prtvtanl,6,Green Left,88
+NL,2,prtvtanl,7,Socialist Party,108
+NL,2,prtvtanl,8,Christian Union,31
+NL,2,prtvtanl,9,Liveable Netherlands,6
+NL,2,prtvtanl,10,Political Reformed Party,15
+NL,2,prtvtanl,11,Party for the Animals,11
+NL,2,prtvtanl,12,Other,4
+NL,2,prtvtanl,13,Blanc,4
+NL,2,prtvtanl,14,Not applicable,427
+NL,2,prtvtanl,15,Refusal,26
+NL,2,prtvtanl,16,Don't know,19
+NL,2,prtvtanl,17,No answer,1
+NL,3,prtvtbnl,1,Christian Democratic Party,365
+NL,3,prtvtbnl,2,Labour Party,367
+NL,3,prtvtbnl,3,Party for Freedom and Democracy,270
+NL,3,prtvtbnl,4,List Pim Fortuyn,69
+NL,3,prtvtbnl,5,Democrats `66,83
+NL,3,prtvtbnl,6,Green Left,71
+NL,3,prtvtbnl,7,Socialistic Party,118
+NL,3,prtvtbnl,8,Christian Union,39
+NL,3,prtvtbnl,9,Liveable Netherlands,4
+NL,3,prtvtbnl,10,Social Reformed Party,16
+NL,3,prtvtbnl,11,Other,13
+NL,3,prtvtbnl,12,Blanc,6
+NL,3,prtvtbnl,13,Not applicable,405
+NL,3,prtvtbnl,14,Refusal,19
+NL,3,prtvtbnl,15,Don't know,44
+NL,4,prtvtcnl,1,Christian Democratic Party,378
+NL,4,prtvtcnl,2,Labour Party,330
+NL,4,prtvtcnl,3,Party for Freedom and Democracy,204
+NL,4,prtvtcnl,4,List Pim Fortuyn,22
+NL,4,prtvtcnl,5,Democrats `66,52
+NL,4,prtvtcnl,6,Green Left,86
+NL,4,prtvtcnl,7,Socialistic Party,176
+NL,4,prtvtcnl,8,Christian Union,64
+NL,4,prtvtcnl,9,Liveable Netherlands,2
+NL,4,prtvtcnl,10,Social Reformed Party,18
+NL,4,prtvtcnl,11,PVV (List Wilders),35
+NL,4,prtvtcnl,12,Party for the Animals,26
+NL,4,prtvtcnl,13,Other,2
+NL,4,prtvtcnl,14,Blanc,6
+NL,4,prtvtcnl,15,Not applicable,330
+NL,4,prtvtcnl,16,Refusal,21
+NL,4,prtvtcnl,17,Don't know,26
+NL,5,prtvtdnl,1,Party for Freedom and Democracy,288
+NL,5,prtvtdnl,2,Labour Party,268
+NL,5,prtvtdnl,3,PVV (List Wilders),181
+NL,5,prtvtdnl,4,Christian Democratic Party,199
+NL,5,prtvtdnl,5,Socialistic Party,133
+NL,5,prtvtdnl,6,Democrats `66,126
+NL,5,prtvtdnl,7,Green Left,110
+NL,5,prtvtdnl,8,Christian Union,56
+NL,5,prtvtdnl,9,Social Reformed Party,26
+NL,5,prtvtdnl,10,Party for the Animals,19
+NL,5,prtvtdnl,11,TON (List Verdonk),4
+NL,5,prtvtdnl,12,Other,9
+NL,5,prtvtdnl,13,Blanc,8
+NL,5,prtvtdnl,14,Not applicable,363
+NL,5,prtvtdnl,15,Refusal,29
+NL,5,prtvtdnl,16,Don't know,10
+NL,6,prtvtenl,1,Party for Freedom and Democracy,361
+NL,6,prtvtenl,2,Labour Party,352
+NL,6,prtvtenl,3,PVV (List Wilders),96
+NL,6,prtvtenl,4,Christian Democratic Party,138
+NL,6,prtvtenl,5,Socialistic Party,142
+NL,6,prtvtenl,6,Democrats `66,126
+NL,6,prtvtenl,7,Green Left,40
+NL,6,prtvtenl,8,Christian Union,40
+NL,6,prtvtenl,9,Social Reformed Party,34
+NL,6,prtvtenl,10,Party for the Animals,27
+NL,6,prtvtenl,11,Pirate Party,5
+NL,6,prtvtenl,12,50Plus,31
+NL,6,prtvtenl,13,Other,12
+NL,6,prtvtenl,14,Blanc,8
+NL,6,prtvtenl,15,Not applicable,355
+NL,6,prtvtenl,16,Refusal,38
+NL,6,prtvtenl,17,Don't know,40
+NL,7,prtvtfnl,1,People's Party for Freedom and Democracy,322
+NL,7,prtvtfnl,2,Labour Party,211
+NL,7,prtvtfnl,3,Party for Freedom,109
+NL,7,prtvtfnl,4,Socialist Party,148
+NL,7,prtvtfnl,5,Christian Democratic Appeal,169
+NL,7,prtvtfnl,6,Democrats 66,181
+NL,7,prtvtfnl,7,Christian Union,50
+NL,7,prtvtfnl,8,Green Left,70
+NL,7,prtvtfnl,9,Reformed Political Party,27
+NL,7,prtvtfnl,10,Party for the Animals,30
+NL,7,prtvtfnl,11,50PLUS,23
+NL,7,prtvtfnl,12,Other,9
+NL,7,prtvtfnl,13,Blanc,4
+NL,7,prtvtfnl,14,Not applicable,496
+NL,7,prtvtfnl,15,Refusal,20
+NL,7,prtvtfnl,16,Don't know,49
+NL,7,prtvtfnl,17,No answer,1
+NO,1,prtvtno,1,Red Electoral Alliance (RV),14
+NO,1,prtvtno,2,Socialist left party (SV),202
+NO,1,prtvtno,3,Labour Party (A),378
+NO,1,prtvtno,4,Liberal Party (V),58
+NO,1,prtvtno,5,Christian Democratic Party (Krf),209
+NO,1,prtvtno,6,Centre Party (Sp),93
+NO,1,prtvtno,7,Conservative Party (H),330
+NO,1,prtvtno,8,Progress Party (FrP),249
+NO,1,prtvtno,9,Coast Party (KYST),12
+NO,1,prtvtno,10,Other,20
+NO,1,prtvtno,11,Not applicable,388
+NO,1,prtvtno,12,Refusal,59
+NO,1,prtvtno,13,Don't know,24
+NO,2,prtvtno,1,Red Electoral Alliance (RV),14
+NO,2,prtvtno,2,Socialist left party (SV),190
+NO,2,prtvtno,3,Labour Party (A),361
+NO,2,prtvtno,4,Liberal Party (V),51
+NO,2,prtvtno,5,Christian Democratic Party (Krf),118
+NO,2,prtvtno,6,Centre Party (Sp),83
+NO,2,prtvtno,7,Conservative Party (H),274
+NO,2,prtvtno,8,Progress Party (FrP),196
+NO,2,prtvtno,9,Coast Party (KYST),6
+NO,2,prtvtno,10,Other,17
+NO,2,prtvtno,11,Not applicable,387
+NO,2,prtvtno,12,Refusal,38
+NO,2,prtvtno,13,Don't know,25
+NO,3,prtvtno,1,Red Electoral Alliance (RV),18
+NO,3,prtvtno,2,Socialist left party (SV),149
+NO,3,prtvtno,3,Labour Party (A),409
+NO,3,prtvtno,4,Liberal Party (V),62
+NO,3,prtvtno,5,Christian Democratic Party (Krf),95
+NO,3,prtvtno,6,Centre Party (Sp),90
+NO,3,prtvtno,7,Conservative Party (H),235
+NO,3,prtvtno,8,Progress Party (FrP),227
+NO,3,prtvtno,9,Coast Party (KYST),1
+NO,3,prtvtno,10,Other,15
+NO,3,prtvtno,11,Not applicable,386
+NO,3,prtvtno,12,Refusal,49
+NO,3,prtvtno,13,Don't know,14
+NO,4,prtvtno,1,Red Electoral Alliance (RV),11
+NO,4,prtvtno,2,Socialist left party (SV),110
+NO,4,prtvtno,3,Labour Party (A),399
+NO,4,prtvtno,4,Liberal Party (V),53
+NO,4,prtvtno,5,Christian Democratic Party (Krf),67
+NO,4,prtvtno,6,Centre Party (Sp),59
+NO,4,prtvtno,7,Conservative Party (H),237
+NO,4,prtvtno,8,Progress Party (FrP),178
+NO,4,prtvtno,9,Coast Party (KYST),3
+NO,4,prtvtno,10,Other,12
+NO,4,prtvtno,11,Not applicable,378
+NO,4,prtvtno,12,Refusal,25
+NO,4,prtvtno,13,Don't know,17
+NO,5,prtvtano,1,The Party Red (RØDT),22
+NO,5,prtvtano,2,Socialist Left Party (SV),94
+NO,5,prtvtano,3,Labour Party (A),412
+NO,5,prtvtano,4,Liberal party (V),53
+NO,5,prtvtano,5,Christian Democratic Party (KRF),66
+NO,5,prtvtano,6,Centre Party (SP),65
+NO,5,prtvtano,7,Conservative Party (H),240
+NO,5,prtvtano,8,Progress Party (FRP),184
+NO,5,prtvtano,9,Coastal Party (KYST),1
+NO,5,prtvtano,10,Other,12
+NO,5,prtvtano,11,Not applicable,358
+NO,5,prtvtano,12,Refusal,31
+NO,5,prtvtano,13,Don't know,10
+NO,6,prtvtano,1,The Party Red (RØDT),5
+NO,6,prtvtano,2,Socialist Left Party (SV),71
+NO,6,prtvtano,3,Labour Party (A),436
+NO,6,prtvtano,4,Liberal party (V),59
+NO,6,prtvtano,5,Christian Democratic Party (KRF),70
+NO,6,prtvtano,6,Centre Party (SP),81
+NO,6,prtvtano,7,Conservative Party (H),305
+NO,6,prtvtano,8,Progress Party (FRP),132
+NO,6,prtvtano,9,Coastal Party (KYST),1
+NO,6,prtvtano,10,Other,15
+NO,6,prtvtano,11,Not applicable,403
+NO,6,prtvtano,12,Refusal,28
+NO,6,prtvtano,13,Don't know,18
+NO,7,prtvtbno,1,The Party Red (RØDT),11
+NO,7,prtvtbno,2,Socialist Left Party (SV),49
+NO,7,prtvtbno,3,Labour Party (A),339
+NO,7,prtvtbno,4,Liberal party (V),65
+NO,7,prtvtbno,5,Christian Democratic Party (KRF),52
+NO,7,prtvtbno,6,Centre Party (SP),59
+NO,7,prtvtbno,7,Conservative Party (H),328
+NO,7,prtvtbno,8,Progress Party (FRP),136
+NO,7,prtvtbno,9,Coastal Party (KYST),2
+NO,7,prtvtbno,10,Green Party (MDG),27
+NO,7,prtvtbno,11,Other,15
+NO,7,prtvtbno,12,Not applicable,309
+NO,7,prtvtbno,13,Refusal,30
+NO,7,prtvtbno,14,Don't know,14
+PL,1,prtvtpl,1,Sojusz Lewicy Demokratycznej/Unia Pracy,505
+PL,1,prtvtpl,2,Akcja Wyborcza Solidarnosc Prawicy,91
+PL,1,prtvtpl,3,Unia Wolnosci,63
+PL,1,prtvtpl,4,Samoobrona Rzeczypospolitej Polskiej,88
+PL,1,prtvtpl,5,Prawo i Sprawiedliwosc,59
+PL,1,prtvtpl,6,Polskie Stronnictwo Ludowe,109
+PL,1,prtvtpl,7,Platforma Obywatelska,84
+PL,1,prtvtpl,8,Alternatywa Ruch Spoleczny,1
+PL,1,prtvtpl,10,Liga Polskich Rodzin,53
+PL,1,prtvtpl,11,Mniejszosc Niemiecka,2
+PL,1,prtvtpl,13,Polska Partia Socjalistyczna,1
+PL,1,prtvtpl,15,Not applicable,809
+PL,1,prtvtpl,16,Refusal,48
+PL,1,prtvtpl,17,Don't know,197
+PL,2,prtvtpl,1,Sojusz Lewicy Demokratycznej/Unia Pracy,308
+PL,2,prtvtpl,2,Akcja Wyborcza Solidarnosc Prawicy,32
+PL,2,prtvtpl,3,Unia Wolnosci,42
+PL,2,prtvtpl,4,Samoobrona Rzeczypospolitej Polskiej,82
+PL,2,prtvtpl,5,Prawo i Sprawiedliwosc,61
+PL,2,prtvtpl,6,Polskie Stronnictwo Ludowe,48
+PL,2,prtvtpl,7,Platforma Obywatelska,116
+PL,2,prtvtpl,9,Polska Wspolnota Narodowa,1
+PL,2,prtvtpl,10,Liga Polskich Rodzin,53
+PL,2,prtvtpl,15,Not applicable,710
+PL,2,prtvtpl,16,Refusal,30
+PL,2,prtvtpl,17,Don't know,233
+PL,3,prtvtapl,2,Dom Ojczysty,1
+PL,3,prtvtapl,3,Liga Polskich Rodzin,21
+PL,3,prtvtapl,5,Ogolnopolska Koalicja Obywatelska,1
+PL,3,prtvtapl,6,Partia Demokratyczna demokraci.pl,8
+PL,3,prtvtapl,8,Platforma Janusza Korwin-Mikke,3
+PL,3,prtvtapl,9,Platforma Obywatelska,280
+PL,3,prtvtapl,13,Polskie Stronnictwo Ludowe,28
+PL,3,prtvtapl,14,Prawo i Sprawiedliwosc,407
+PL,3,prtvtapl,16,Samoobrona Rzeczypospolitej Polskiej,84
+PL,3,prtvtapl,17,Socjaldemokracja Polska,7
+PL,3,prtvtapl,18,Sojusz Lewicy Demokratycznej,85
+PL,3,prtvtapl,19,Other party,3
+PL,3,prtvtapl,20,Not applicable,659
+PL,3,prtvtapl,21,Refusal,23
+PL,3,prtvtapl,22,Don't know,109
+PL,3,prtvtapl,23,No answer,2
+PL,4,prtvtbpl,1,Left and Democrats,81
+PL,4,prtvtbpl,2,League of Polish Families,10
+PL,4,prtvtbpl,3,Civic Platform,494
+PL,4,prtvtbpl,4,Polish Labour Party,4
+PL,4,prtvtbpl,5,Polish Peasants Party,60
+PL,4,prtvtbpl,6,Law and Justice,313
+PL,4,prtvtbpl,7,Self-defence,19
+PL,4,prtvtbpl,8,Other party,3
+PL,4,prtvtbpl,9,Not applicable,532
+PL,4,prtvtbpl,10,Refusal,32
+PL,4,prtvtbpl,11,Don't know,70
+PL,4,prtvtbpl,12,No answer,1
+PL,5,prtvtbpl,1,Left and Democrats,97
+PL,5,prtvtbpl,2,League of Polish Families,7
+PL,5,prtvtbpl,3,Civic Platform,486
+PL,5,prtvtbpl,4,Polish Labour Party,1
+PL,5,prtvtbpl,5,Polish Peasants Party,41
+PL,5,prtvtbpl,6,Law and Justice,332
+PL,5,prtvtbpl,7,Self-defence,10
+PL,5,prtvtbpl,8,Other party,2
+PL,5,prtvtbpl,9,Not applicable,625
+PL,5,prtvtbpl,10,Refusal,52
+PL,5,prtvtbpl,11,Don't know,98
+PL,6,prtvtcpl,1,Congress of the New Right,14
+PL,6,prtvtcpl,2,Civic Platform,521
+PL,6,prtvtcpl,3,Poland Comes First,2
+PL,6,prtvtcpl,4,Polish Labour Party-August '80,3
+PL,6,prtvtcpl,5,Polish Peasants Party,65
+PL,6,prtvtcpl,6,Law and Justice,340
+PL,6,prtvtcpl,7,Palikot Movement,48
+PL,6,prtvtcpl,8,Democratic Left Alliance,81
+PL,6,prtvtcpl,9,Other,2
+PL,6,prtvtcpl,10,Not applicable,666
+PL,6,prtvtcpl,11,Refusal,61
+PL,6,prtvtcpl,12,Don't know,92
+PL,6,prtvtcpl,13,No answer,3
+PL,7,prtvtcpl,1,Congress of the New Right,17
+PL,7,prtvtcpl,2,Civic Platform,382
+PL,7,prtvtcpl,3,Poland Comes First,2
+PL,7,prtvtcpl,4,Polish Labour Party-August '80,1
+PL,7,prtvtcpl,5,Polish Peasants Party,47
+PL,7,prtvtcpl,6,Law and Justice,261
+PL,7,prtvtcpl,7,Palikot Movement,16
+PL,7,prtvtcpl,8,Democratic Left Alliance,48
+PL,7,prtvtcpl,9,Other,5
+PL,7,prtvtcpl,10,Not applicable,629
+PL,7,prtvtcpl,11,Refusal,48
+PL,7,prtvtcpl,12,Don't know,159
+PT,1,prtvtpt,1,B.E. -  Bloco de Esquerda,32
+PT,1,prtvtpt,2,CDS/PP - Centro Democrático Social / Partido Popular,34
+PT,1,prtvtpt,3,MPT - Movimento Partido da Terra,3
+PT,1,prtvtpt,5,PCP/PEV - Partido Comunista Português  Partido Ecolo,57
+PT,1,prtvtpt,6,PCTP/MRPP - Partido Comunista dos Trabalhadores Po,1
+PT,1,prtvtpt,10,PS - Partido Socialista,324
+PT,1,prtvtpt,11,PSD - Partido Social Democrata,302
+PT,1,prtvtpt,12,Other,1
+PT,1,prtvtpt,13,Blank vote,27
+PT,1,prtvtpt,14,Not applicable,466
+PT,1,prtvtpt,15,Refusal,147
+PT,1,prtvtpt,16,Don't know,19
+PT,1,prtvtpt,17,No answer,98
+PT,2,prtvtpt,1,B.E. -  Bloco de Esquerda,31
+PT,2,prtvtpt,2,CDS/PP - Centro Democrático Social / Partido Popular,22
+PT,2,prtvtpt,4,P.H. - Partido Humanista,1
+PT,2,prtvtpt,5,PCP/PEV - Partido Comunista Português  Partido Ecolo,66
+PT,2,prtvtpt,6,PCTP/MRPP - Partido Comunista dos Trabalhadores Po,1
+PT,2,prtvtpt,9,PPM - Partido Popular Monárquico,1
+PT,2,prtvtpt,10,PS - Partido Socialista,426
+PT,2,prtvtpt,11,PSD - Partido Social Democrata,372
+PT,2,prtvtpt,12,Other,3
+PT,2,prtvtpt,13,Blank vote,35
+PT,2,prtvtpt,14,Not applicable,694
+PT,2,prtvtpt,15,Refusal,192
+PT,2,prtvtpt,16,Don't know,61
+PT,2,prtvtpt,17,No answer,147
+PT,3,prtvtapt,1,BE - Bloco de Esquerda,33
+PT,3,prtvtapt,2,CDS/PP - Centro Democrático Social/Partido Popular,23
+PT,3,prtvtapt,3,PCP-PEV - Partido Comunista Português - Partido Ecologista o,89
+PT,3,prtvtapt,4,PCTP-MRPP - Partido Comunista dos Trabalhadores Portugueses,10
+PT,3,prtvtapt,6,PH - Partido Humanista,1
+PT,3,prtvtapt,7,PND - Partido da Nova Democracia,1
+PT,3,prtvtapt,10,PSD - Partido Social Democrata,359
+PT,3,prtvtapt,11,PS - Partido Socialista,615
+PT,3,prtvtapt,12,Votou em branco / nulo,55
+PT,3,prtvtapt,14,Not applicable,609
+PT,3,prtvtapt,15,Refusal,366
+PT,3,prtvtapt,16,Don't know,61
+PT,4,prtvtapt,1,BE - Bloco de Esquerda,35
+PT,4,prtvtapt,2,CDS/PP - Centro Democrático Social/Partido Popular,39
+PT,4,prtvtapt,3,PCP-PEV - Partido Comunista Português - Partido Ecologista o,69
+PT,4,prtvtapt,4,PCTP-MRPP - Partido Comunista dos Trabalhadores Portugueses,9
+PT,4,prtvtapt,6,PH - Partido Humanista,1
+PT,4,prtvtapt,7,PND - Partido da Nova Democracia,6
+PT,4,prtvtapt,8,PNR - Partido Nacional Renovador,2
+PT,4,prtvtapt,10,PSD - Partido Social Democrata,304
+PT,4,prtvtapt,11,PS - Partido Socialista,587
+PT,4,prtvtapt,12,Votou em branco / nulo,53
+PT,4,prtvtapt,14,Not applicable,821
+PT,4,prtvtapt,15,Refusal,371
+PT,4,prtvtapt,16,Don't know,70
+PT,5,prtvtbpt,1,Bloco de Esquerda (BE),45
+PT,5,prtvtbpt,2,Centro Democrático Social - Partido Popular (CDS-PP),44
+PT,5,prtvtbpt,3,Coligação Democrática Unitária (CDU),54
+PT,5,prtvtbpt,4,Partido Comunista dos Trabalhadores Portugueses/Movimento Re,4
+PT,5,prtvtbpt,6,Partido Humanista (PH),2
+PT,5,prtvtbpt,7,Nova democracia (PND),2
+PT,5,prtvtbpt,8,Partido Nacional Renovador (PNR),4
+PT,5,prtvtbpt,9,Partido Operário de Unidade Socialista (POUS),1
+PT,5,prtvtbpt,10,Partido Social Democrata (PSD),368
+PT,5,prtvtbpt,11,Partido Socialista (PS),430
+PT,5,prtvtbpt,12,Votou em branco / nulo,57
+PT,5,prtvtbpt,13,Outro,1
+PT,5,prtvtbpt,14,Not applicable,626
+PT,5,prtvtbpt,15,Refusal,420
+PT,5,prtvtbpt,16,Don't know,92
+PT,6,prtvtbpt,1,Bloco de Esquerda (BE),57
+PT,6,prtvtbpt,2,Centro Democrático Social - Partido Popular (CDS-PP),33
+PT,6,prtvtbpt,3,Coligação Democrática Unitária (CDU),81
+PT,6,prtvtbpt,4,Partido Comunista dos Trabalhadores Portugueses/Movimento Re,4
+PT,6,prtvtbpt,5,Partido Democrático do Atlântico (PDA),1
+PT,6,prtvtbpt,7,Nova democracia (PND),1
+PT,6,prtvtbpt,8,Partido Nacional Renovador (PNR),1
+PT,6,prtvtbpt,10,Partido Social Democrata (PSD),312
+PT,6,prtvtbpt,11,Partido Socialista (PS),343
+PT,6,prtvtbpt,12,Votou em branco / nulo,79
+PT,6,prtvtbpt,13,Outro,4
+PT,6,prtvtbpt,14,Not applicable,781
+PT,6,prtvtbpt,15,Refusal,387
+PT,6,prtvtbpt,16,Don't know,67
+PT,7,prtvtbpt,1,Bloco de Esquerda (BE),46
+PT,7,prtvtbpt,2,Centro Democrático Social - Partido Popular (CDS-PP),18
+PT,7,prtvtbpt,3,Coligação Democrática Unitária (CDU),50
+PT,7,prtvtbpt,4,Partido Comunista dos Trabalhadores Portugueses/Movimento Re,8
+PT,7,prtvtbpt,7,Nova democracia (PND),1
+PT,7,prtvtbpt,8,Partido Nacional Renovador (PNR),1
+PT,7,prtvtbpt,10,Partido Social Democrata (PSD),224
+PT,7,prtvtbpt,11,Partido Socialista (PS),226
+PT,7,prtvtbpt,12,Votou em branco / nulo,40
+PT,7,prtvtbpt,13,Outro,43
+PT,7,prtvtbpt,14,Not applicable,432
+PT,7,prtvtbpt,15,Refusal,143
+PT,7,prtvtbpt,16,Don't know,33
+RU,3,prtvtru,1,United Russia (ER),750
+RU,3,prtvtru,2,Communist Party of the Russian Federation (KPRF),212
+RU,3,prtvtru,3,Liberal Democratic Party of Russia (LDPR),82
+RU,3,prtvtru,4,Rodina,50
+RU,3,prtvtru,5,Union of Right Forces (SPS),33
+RU,3,prtvtru,6,Yabloko,22
+RU,3,prtvtru,7,Agrarian Party of Russia (APR),5
+RU,3,prtvtru,8,Russian party of pensioners and party of social justice,8
+RU,3,prtvtru,10,Party of the development of entrepreneurship,1
+RU,3,prtvtru,20,Edinenie,1
+RU,3,prtvtru,21,Against all,96
+RU,3,prtvtru,22,Not applicable,944
+RU,3,prtvtru,23,Refusal,29
+RU,3,prtvtru,24,Don't know,204
+RU,4,prtvtaru,1,United Russia (ER),1187
+RU,4,prtvtaru,2,Communist Party of the Russian Federation (KPRF),220
+RU,4,prtvtaru,3,Liberal Democratic Party of Russia (LDPR),104
+RU,4,prtvtaru,4,Union of Right Forces (SPS),18
+RU,4,prtvtaru,5,Yabloko,9
+RU,4,prtvtaru,6,Agrarian Party of Russia (APR),21
+RU,4,prtvtaru,7,Party of Revival of Russia – Russian Party of Life,1
+RU,4,prtvtaru,8,Fair Russia (SR),54
+RU,4,prtvtaru,9,Green Party,1
+RU,4,prtvtaru,10,Not applicable,761
+RU,4,prtvtaru,11,Refusal,62
+RU,4,prtvtaru,12,Don't know,73
+RU,4,prtvtaru,13,No answer,1
+RU,5,prtvtbru,1,United Russia (ER),1020
+RU,5,prtvtbru,2,Communist Party of the Russian Federation (KPRF),234
+RU,5,prtvtbru,3,Liberal Democratic Party of Russia (LDPR),122
+RU,5,prtvtbru,4,Union of Right Forces (SPS),4
+RU,5,prtvtbru,5,Yabloko,15
+RU,5,prtvtbru,6,Agrarian Party of Russia (APR),9
+RU,5,prtvtbru,7,Fair Russia (SR),66
+RU,5,prtvtbru,8,Not applicable,992
+RU,5,prtvtbru,9,Refusal,42
+RU,5,prtvtbru,10,Don't know,91
+RU,6,prtvtcru,1,United Russia (ER),888
+RU,6,prtvtcru,2,Communist Party of the Russian Federation (KPRF),270
+RU,6,prtvtcru,3,Liberal Democratic Party of Russia (LDPR),120
+RU,6,prtvtcru,4,Yabloko,32
+RU,6,prtvtcru,5,Fair Russia (SR),110
+RU,6,prtvtcru,6,Just Cause,15
+RU,6,prtvtcru,7,Patriots of Russia,10
+RU,6,prtvtcru,8,Not applicable,882
+RU,6,prtvtcru,9,Refusal,104
+RU,6,prtvtcru,10,Don't know,53
+SE,1,prtvtse,1,Centre party,93
+SE,1,prtvtse,2,Liberals,224
+SE,1,prtvtse,3,Christian democrats,131
+SE,1,prtvtse,4,Green party,65
+SE,1,prtvtse,5,Conservative,232
+SE,1,prtvtse,6,Social democrats,611
+SE,1,prtvtse,7,Left,144
+SE,1,prtvtse,8,Other,23
+SE,1,prtvtse,9,Not applicable,372
+SE,1,prtvtse,10,Refusal,93
+SE,1,prtvtse,11,Don't know,11
+SE,2,prtvtse,1,Centre party,88
+SE,2,prtvtse,2,Liberals,167
+SE,2,prtvtse,3,Christian democrats,87
+SE,2,prtvtse,4,Green party,58
+SE,2,prtvtse,5,Conservative,289
+SE,2,prtvtse,6,Social democrats,605
+SE,2,prtvtse,7,Left,126
+SE,2,prtvtse,8,Other,47
+SE,2,prtvtse,9,Not applicable,384
+SE,2,prtvtse,10,Refusal,46
+SE,2,prtvtse,11,Don't know,45
+SE,2,prtvtse,12,No answer,6
+SE,3,prtvtse,1,Centre party,113
+SE,3,prtvtse,2,Liberals,128
+SE,3,prtvtse,3,Christian democrats,89
+SE,3,prtvtse,4,Green party,111
+SE,3,prtvtse,5,Conservative,452
+SE,3,prtvtse,6,Social democrats,497
+SE,3,prtvtse,7,Left,81
+SE,3,prtvtse,8,Other,49
+SE,3,prtvtse,9,Not applicable,326
+SE,3,prtvtse,10,Refusal,69
+SE,3,prtvtse,11,Don't know,9
+SE,3,prtvtse,12,No answer,3
+SE,4,prtvtse,1,Centre party,94
+SE,4,prtvtse,2,Liberals,119
+SE,4,prtvtse,3,Christian democrats,62
+SE,4,prtvtse,4,Green party,80
+SE,4,prtvtse,5,Conservative,417
+SE,4,prtvtse,6,Social democrats,504
+SE,4,prtvtse,7,Left,73
+SE,4,prtvtse,8,Other,57
+SE,4,prtvtse,9,Not applicable,341
+SE,4,prtvtse,10,Refusal,45
+SE,4,prtvtse,11,Don't know,36
+SE,4,prtvtse,12,No answer,2
+SE,5,prtvtase,1,Centern,81
+SE,5,prtvtase,2,Folkpartiet liberalerna,101
+SE,5,prtvtase,3,Kristdemokraterna,60
+SE,5,prtvtase,4,Miljöpartiet de gröna,111
+SE,5,prtvtase,5,Moderata samlingspartiet,432
+SE,5,prtvtase,6,Socialdemokraterna,321
+SE,5,prtvtase,7,Vänsterpartiet,60
+SE,5,prtvtase,8,FI (Feministiskt initiativ),2
+SE,5,prtvtase,9,Junilistan,1
+SE,5,prtvtase,10,Sverigedemokraterna,42
+SE,5,prtvtase,11,Annat parti,14
+SE,5,prtvtase,12,Not applicable,196
+SE,5,prtvtase,13,Refusal,59
+SE,5,prtvtase,14,Don't know,14
+SE,5,prtvtase,15,No answer,3
+SE,6,prtvtbse,1,Centern,74
+SE,6,prtvtbse,2,Folkpartiet liberalerna,117
+SE,6,prtvtbse,3,Kristdemokraterna,50
+SE,6,prtvtbse,4,Miljöpartiet de gröna,140
+SE,6,prtvtbse,5,Moderata samlingspartiet,447
+SE,6,prtvtbse,6,Socialdemokraterna,453
+SE,6,prtvtbse,7,Vänsterpartiet,75
+SE,6,prtvtbse,8,FI (Feministiskt initiativ),2
+SE,6,prtvtbse,9,Piratpartiet,6
+SE,6,prtvtbse,10,Sverigedemokraterna,64
+SE,6,prtvtbse,11,Annat parti,13
+SE,6,prtvtbse,12,Not applicable,332
+SE,6,prtvtbse,13,Refusal,15
+SE,6,prtvtbse,14,Don't know,59
+SE,7,prtvtbse,1,Centern,95
+SE,7,prtvtbse,2,Folkpartiet liberalerna,112
+SE,7,prtvtbse,3,Kristdemokraterna,66
+SE,7,prtvtbse,4,Miljöpartiet de gröna,139
+SE,7,prtvtbse,5,Moderata samlingspartiet,376
+SE,7,prtvtbse,6,Socialdemokraterna,424
+SE,7,prtvtbse,7,Vänsterpartiet,87
+SE,7,prtvtbse,8,FI (Feministiskt initiativ),39
+SE,7,prtvtbse,9,Piratpartiet,8
+SE,7,prtvtbse,10,Sverigedemokraterna,71
+SE,7,prtvtbse,11,Annat parti,20
+SE,7,prtvtbse,12,Not applicable,256
+SE,7,prtvtbse,13,Refusal,26
+SE,7,prtvtbse,14,Don't know,72
+SI,1,prtvtsi,1,Democratic Party of Pensioners of Slovenia (DESUS),25
+SI,1,prtvtsi,2,Liberal Democracy of Slovenia (LDS),403
+SI,1,prtvtsi,3,Slovene People's Party (SLS),109
+SI,1,prtvtsi,4,Slovene National Party (SNS),23
+SI,1,prtvtsi,5,Social Democratic Party of Slovenia (SDS),111
+SI,1,prtvtsi,6,New Slovenia - Christian People's Party (NSi),55
+SI,1,prtvtsi,7,United List of Social Democrats (ZLSD),65
+SI,1,prtvtsi,8,Slovene Youth Party (SMS),28
+SI,1,prtvtsi,9,Other,12
+SI,1,prtvtsi,10,Not applicable,385
+SI,1,prtvtsi,11,Refusal,93
+SI,1,prtvtsi,12,Don't know,205
+SI,1,prtvtsi,13,No answer,5
+SI,2,prtvtasi,1,Slovenian Democratic Party - SDS,273
+SI,2,prtvtasi,2,Liberal Democracy of Slovenia - LDS,179
+SI,2,prtvtasi,3,United List of Social Democrats - ZLSD,91
+SI,2,prtvtasi,4,New Slovenia - Christian Peoples Party - NSi,47
+SI,2,prtvtasi,5,Slovene Peoples Party - SLS,29
+SI,2,prtvtasi,6,Slovene National Party - SNS,39
+SI,2,prtvtasi,7,Democratic Party of Pensioners of Slovenia - DESUS,40
+SI,2,prtvtasi,8,Other,43
+SI,2,prtvtasi,9,Not applicable,494
+SI,2,prtvtasi,10,Refusal,177
+SI,2,prtvtasi,11,Don't know,24
+SI,2,prtvtasi,12,No answer,6
+SI,3,prtvtbsi,1,Democratic Party of Pensioners of Slovenia - DESUS,26
+SI,3,prtvtbsi,2,Liberal Democracy of Slovenia - LDS,218
+SI,3,prtvtbsi,3,Slovene Peoples Party - SLS,63
+SI,3,prtvtbsi,4,Slovene National Party - SNS,34
+SI,3,prtvtbsi,5,Slovenian Democratic Party- SDS,249
+SI,3,prtvtbsi,6,New Slovenia - Christian Peoples Party - NSi,45
+SI,3,prtvtbsi,7,Social Democrats - SD,74
+SI,3,prtvtbsi,8,Other,26
+SI,3,prtvtbsi,9,Not applicable,452
+SI,3,prtvtbsi,10,Refusal,89
+SI,3,prtvtbsi,11,Don't know,200
+SI,4,prtvtcsi,1,Democratic Party of Pensioners of Slovenia - DESUS,60
+SI,4,prtvtcsi,2,Liberal Democracy of Slovenia - LDS,36
+SI,4,prtvtcsi,3,LIPA  - Party,6
+SI,4,prtvtcsi,4,New Slovenia - Christian Peoples Party - NSi,17
+SI,4,prtvtcsi,5,Slovenian Democratic Party - SDS,194
+SI,4,prtvtcsi,6,Slovene Peoples Party - SLS,32
+SI,4,prtvtcsi,7,Slovene National Party - SNS,46
+SI,4,prtvtcsi,8,Social Democrats - SD,286
+SI,4,prtvtcsi,9,ZARES - New Politics,59
+SI,4,prtvtcsi,10,Other,8
+SI,4,prtvtcsi,11,Not applicable,380
+SI,4,prtvtcsi,12,Refusal,138
+SI,4,prtvtcsi,13,Don't know,19
+SI,4,prtvtcsi,14,No answer,5
+SI,5,prtvtcsi,1,Democratic Party of Pensioners of Slovenia - DESUS,58
+SI,5,prtvtcsi,2,Liberal Democracy of Slovenia - LDS,50
+SI,5,prtvtcsi,3,LIPA  - Party,7
+SI,5,prtvtcsi,4,New Slovenia - Christian Peoples Party - NSi,25
+SI,5,prtvtcsi,5,Slovenian Democratic Party - SDS,196
+SI,5,prtvtcsi,6,Slovene Peoples Party - SLS,33
+SI,5,prtvtcsi,7,Slovene National Party - SNS,23
+SI,5,prtvtcsi,8,Social Democrats - SD,208
+SI,5,prtvtcsi,9,ZARES - New Politics,34
+SI,5,prtvtcsi,10,Other,9
+SI,5,prtvtcsi,11,Not applicable,486
+SI,5,prtvtcsi,12,Refusal,90
+SI,5,prtvtcsi,13,Don't know,175
+SI,5,prtvtcsi,14,No answer,9
+SI,6,prtvtdsi,1,Democratic Party of Pensioners of Slovenia - DESUS,42
+SI,6,prtvtdsi,2,Liberal Democracy of Slovenia - LDS,19
+SI,6,prtvtdsi,3,New Slovenia - Christian Peoples Party - NSi,27
+SI,6,prtvtdsi,4,Slovenian Democratic Party - SDS,159
+SI,6,prtvtdsi,5,Slovene Peoples Party - SLS,40
+SI,6,prtvtdsi,6,Social Democrats - SD,138
+SI,6,prtvtdsi,7,Positive Slovenia - PS,159
+SI,6,prtvtdsi,8,Civic List - DL,31
+SI,6,prtvtdsi,9,ZARES - New Politics,6
+SI,6,prtvtdsi,10,Slovene National Party - SNS,10
+SI,6,prtvtdsi,11,Party for Sustainable Development - TRS,3
+SI,6,prtvtdsi,12,Other party,10
+SI,6,prtvtdsi,13,Not applicable,394
+SI,6,prtvtdsi,14,Refusal,99
+SI,6,prtvtdsi,15,Don't know,115
+SI,6,prtvtdsi,16,No answer,5
+SI,7,prtvtesi,1,DESUS - Demokraticna stranka upokojencev Slovenije,58
+SI,7,prtvtesi,2,DL - Državljanska lista,1
+SI,7,prtvtesi,3,NSI - Nova Slovenija – Kršcanski demokrati,34
+SI,7,prtvtesi,4,PS - Pozitivna Slovenija,13
+SI,7,prtvtesi,5,SD - Socialni demokrati,61
+SI,7,prtvtesi,6,SDS - Slovenska demokratska stranka,90
+SI,7,prtvtesi,7,SLS  - Slovenska ljudska stranka,30
+SI,7,prtvtesi,8,SMC - Stranka Mira Cerarja,218
+SI,7,prtvtesi,9,VERJAMEM - Stranka Igorja Šoltesa,2
+SI,7,prtvtesi,10,ZAAB - Zavezništvo Alenke Bratušek,19
+SI,7,prtvtesi,11,"ZL - Združena levica (DSD, IDS in Stranka TRS)",33
+SI,7,prtvtesi,12,Other party,16
+SI,7,prtvtesi,13,Not applicable,426
+SI,7,prtvtesi,14,Refusal,128
+SI,7,prtvtesi,15,Don't know,76
+SI,7,prtvtesi,16,No answer,19
+SK,2,prtvtsk,1,HZDS Movement for a Democratic Slovakia,229
+SK,2,prtvtsk,2,SDKU Slovak Democratic Christian Union,163
+SK,2,prtvtsk,3,SMER,148
+SK,2,prtvtsk,4,SMK Party of Hungarian Coalition,63
+SK,2,prtvtsk,5,KDH Christian Democratic Movement,71
+SK,2,prtvtsk,6,ANO New Citizen's Alliance,63
+SK,2,prtvtsk,7,KSS Communist Party of Slovakia,36
+SK,2,prtvtsk,8,Other,67
+SK,2,prtvtsk,9,Not applicable,456
+SK,2,prtvtsk,10,Refusal,130
+SK,2,prtvtsk,11,Don't know,74
+SK,2,prtvtsk,12,No answer,12
+SK,3,prtvtask,1,Movement for a Democratic Slovakia (HZDS),77
+SK,3,prtvtask,2,Slovak Democratic Christian Union (SDKU),199
+SK,3,prtvtask,3,SMER,395
+SK,3,prtvtask,4,Party of Hungarian Coalition (SMK),104
+SK,3,prtvtask,5,Christian Democratic Movement (KDH),78
+SK,3,prtvtask,6,Slovak National Party (SNS),105
+SK,3,prtvtask,7,Other,26
+SK,3,prtvtask,8,Not applicable,614
+SK,3,prtvtask,9,Refusal,143
+SK,3,prtvtask,10,Don't know,18
+SK,3,prtvtask,11,No answer,7
+SK,4,prtvtask,1,Movement for a Democratic Slovakia (HZDS),103
+SK,4,prtvtask,2,Slovak Democratic Christian Union (SDKU),204
+SK,4,prtvtask,3,SMER,515
+SK,4,prtvtask,4,Party of Hungarian Coalition (SMK),110
+SK,4,prtvtask,5,Christian Democratic Movement (KDH),109
+SK,4,prtvtask,6,Slovak National Party (SNS),102
+SK,4,prtvtask,7,Other,17
+SK,4,prtvtask,8,Not applicable,437
+SK,4,prtvtask,9,Refusal,141
+SK,4,prtvtask,10,Don't know,68
+SK,4,prtvtask,11,No answer,4
+SK,5,prtvtbsk,1,Slovak National Party (SNS),37
+SK,5,prtvtbsk,2,Slovak Democratic Christian Union (SDKU),194
+SK,5,prtvtbsk,3,SMER-Social Democracy,510
+SK,5,prtvtbsk,4,Most-Híd,72
+SK,5,prtvtbsk,5,Christian Democratic Movement (KDH),135
+SK,5,prtvtbsk,6,Freedom and Solidarity (SaS),92
+SK,5,prtvtbsk,7,Other,71
+SK,5,prtvtbsk,8,Not applicable,499
+SK,5,prtvtbsk,9,Refusal,219
+SK,5,prtvtbsk,10,Don't know,19
+SK,5,prtvtbsk,11,No answer,8
+SK,6,prtvtcsk,1,Ordinary People and Independent Personalities (OLaNO),62
+SK,6,prtvtcsk,2,Slovak Democratic Christian Union (SDKU),111
+SK,6,prtvtcsk,3,SMER-Social Democracy,585
+SK,6,prtvtcsk,4,Most-Híd,59
+SK,6,prtvtcsk,5,Christian Democratic Movement (KDH),139
+SK,6,prtvtcsk,6,Freedom and Solidarity (SaS),71
+SK,6,prtvtcsk,7,Other,87
+SK,6,prtvtcsk,8,Not applicable,458
+SK,6,prtvtcsk,9,Refusal,246
+SK,6,prtvtcsk,10,Don't know,22
+SK,6,prtvtcsk,11,No answer,7
+TR,2,prtvttr,1,AKP-Adalet ve Kalkinma Partisi,684
+TR,2,prtvttr,2,ANAP-Anavatan Partisi,26
+TR,2,prtvttr,3,BBP-Buyuk Birlik Partisi,2
+TR,2,prtvttr,4,CHP-Cumhuriyet Halk Partisi,155
+TR,2,prtvttr,5,DEHAP-DTH,76
+TR,2,prtvttr,6,DSP-Demokratik Sol Parti,17
+TR,2,prtvttr,7,DYP-Dogru Yol Partisi,65
+TR,2,prtvttr,8,GP-Genc Parti,16
+TR,2,prtvttr,9,MHP-Milliyetci Hareket Partisi,66
+TR,2,prtvttr,10,ODP- Ozgurluk ve Dayanisma Partisi,2
+TR,2,prtvttr,11,SP-Saadet Partisi,9
+TR,2,prtvttr,12,SHP-Sosyal Demokrat Halkci Parti,6
+TR,2,prtvttr,13,Other-minor parties,15
+TR,2,prtvttr,14,Cast blank/invalid ballot,17
+TR,2,prtvttr,15,Not applicable,480
+TR,2,prtvttr,17,Don't know,41
+TR,2,prtvttr,18,No answer,179
+TR,4,prtvtatr,1,Adalet Kalkinma Partisi (AKP),758
+TR,4,prtvtatr,2,Anavatan Partisi (ANAP),3
+TR,4,prtvtatr,3,Buyuk Birlik Partisi (BBP),1
+TR,4,prtvtatr,4,Cumhuriyet Halk Partisi (CHP),232
+TR,4,prtvtatr,5,Demokrat Parti (DP),34
+TR,4,prtvtatr,6,Demokratik Toplum Partisi (DTP),59
+TR,4,prtvtatr,7,Demokratik Sol Parti (DSP),10
+TR,4,prtvtatr,9,Isci Partisi (IP),4
+TR,4,prtvtatr,10,Milliyetci Hareket Partisi (MHP),101
+TR,4,prtvtatr,11,Ozgurluk Dayanisma Partisi (ODP),5
+TR,4,prtvtatr,12,Saadet Partisi (SP),22
+TR,4,prtvtatr,13,Sosyal Demokrat Halkci Parti (SHP),2
+TR,4,prtvtatr,14,T. Komunist Partisi (TKP),1
+TR,4,prtvtatr,15,Other party or independent candidate,28
+TR,4,prtvtatr,16,Cast invalid vote,44
+TR,4,prtvtatr,17,Not applicable,554
+TR,4,prtvtatr,18,Refusal,523
+TR,4,prtvtatr,19,Don't know,35
+UA,2,prtvtua,1,Communist Party of Ukraine,200
+UA,2,prtvtua,2,Election bloc of Political Parties 'Victor Yushchenko Bloc ',529
+UA,2,prtvtua,3,Election bloc of Political Parties 'Democratic Party of Ukra,9
+UA,2,prtvtua,5,Election bloc of Political Parties 'Nataliya Vitrenko Bloc',49
+UA,2,prtvtua,6,The Green Party of Ukraine,35
+UA,2,prtvtua,8,Communist Party of Workers and Peasants,8
+UA,2,prtvtua,9,All-Ukrainian Party 'New Power',1
+UA,2,prtvtua,10,Election bloc of Political Parties 'Juliya Tymoshenko electi,46
+UA,2,prtvtua,11,Party of Rehabilitation of Invalids of Ukraine,3
+UA,2,prtvtua,12,Communist Party of Ukraine (renew),11
+UA,2,prtvtua,13,Socialist Party of Ukraine,76
+UA,2,prtvtua,14,Election bloc of Political Parties 'For One Ukraine!',124
+UA,2,prtvtua,15,Election bloc of Political Parties 'Unity',3
+UA,2,prtvtua,16,All-Ukrainian Labor Party,1
+UA,2,prtvtua,17,Liberal Party of Ukraine (renew),1
+UA,2,prtvtua,20,Election bloc of Political Parties 'Team of Winter Generatio,6
+UA,2,prtvtua,22,Peasant Party of Ukraine,3
+UA,2,prtvtua,23,Social-Democratic Party of Ukraine (united),52
+UA,2,prtvtua,24,Election bloc of Political Parties 'People's Movement of Ukr,16
+UA,2,prtvtua,26,"Election bloc of Political Parties 'ZUBR' (For Ukraine, Byel",1
+UA,2,prtvtua,27,Ukrainian Sea Party,1
+UA,2,prtvtua,28,Ukrainian Political Party 'Christian Movement',3
+UA,2,prtvtua,29,Social-democratic Party of Ukraine,11
+UA,2,prtvtua,30,Election bloc of Political Parties 'Ruses bloc',1
+UA,2,prtvtua,31,'Woman for the Future' All-Ukrainian Political Union,15
+UA,2,prtvtua,32,Political Party 'Apple',4
+UA,2,prtvtua,33,Party 'New Generation of Ukraine',3
+UA,2,prtvtua,34,Other (WRITE DOWN) ___,53
+UA,2,prtvtua,35,Not applicable,430
+UA,2,prtvtua,36,Refusal,69
+UA,2,prtvtua,37,Don't know,267
+UA,3,prtvtaua,1,Party of Regions,631
+UA,3,prtvtaua,2,Bloc of Yulia Tymoshenko,289
+UA,3,prtvtaua,3,Bloc 'Our Ukraine',400
+UA,3,prtvtaua,4,Socialist party of Ukraine,61
+UA,3,prtvtaua,5,Communist party of Ukraine,47
+UA,3,prtvtaua,6,Bloc of Natalya Vitrenko 'Peoples' opposition',24
+UA,3,prtvtaua,7,Peoples' bloc of Lytvyn,22
+UA,3,prtvtaua,8,Ukrainian Peoples' bloc of Kostenko and Plyusch,15
+UA,3,prtvtaua,9,Party 'Veche',12
+UA,3,prtvtaua,10,Civil bloc PORA-PRP,8
+UA,3,prtvtaua,11,Oppositional bloc 'NOT THIS WAY',3
+UA,3,prtvtaua,12,other,15
+UA,3,prtvtaua,13,against all,33
+UA,3,prtvtaua,14,Not applicable,309
+UA,3,prtvtaua,15,Refusal,100
+UA,3,prtvtaua,16,Don't know,33
+UA,4,prtvtbua,1,Block of Lytvyn,57
+UA,4,prtvtbua,2,Block of Yulia Tymoshenko,370
+UA,4,prtvtbua,3,Block 'Our Ukraine - People's self-defense',210
+UA,4,prtvtbua,4,Communist party of Ukraine,59
+UA,4,prtvtbua,5,Party of regions,524
+UA,4,prtvtbua,6,Progressive socialist party of Ukraine,9
+UA,4,prtvtbua,7,Socialist party of Ukraine,18
+UA,4,prtvtbua,8,Other,14
+UA,4,prtvtbua,9,Against all,69
+UA,4,prtvtbua,10,Not applicable,400
+UA,4,prtvtbua,11,Refusal,74
+UA,4,prtvtbua,12,Don't know,38
+UA,4,prtvtbua,13,No answer,3
+UA,5,prtvtbua,1,Block of Lytvyn,30
+UA,5,prtvtbua,2,Block of Yulia Tymoshenko,417
+UA,5,prtvtbua,3,Block 'Our Ukraine - People's self-defense',101
+UA,5,prtvtbua,4,Communist party of Ukraine,58
+UA,5,prtvtbua,5,Party of regions,612
+UA,5,prtvtbua,6,Progressive socialist party of Ukraine,2
+UA,5,prtvtbua,7,Socialist party of Ukraine,18
+UA,5,prtvtbua,8,Other,48
+UA,5,prtvtbua,9,Against all,47
+UA,5,prtvtbua,10,Not applicable,438
+UA,5,prtvtbua,11,Refusal,81
+UA,5,prtvtbua,12,Don't know,68
+UA,5,prtvtbua,13,No answer,11
+UA,6,prtvtcua,1,"All Ukrainian Union ""Fatherland""",361
+UA,6,prtvtcua,2,"All Ukrainian Union ""Freedom""",146
+UA,6,prtvtcua,3,Communist Party of Ukraine,119
+UA,6,prtvtcua,4,UDAR (Ukrainian Democratic Alliance for Reform) of Vitali Kl,192
+UA,6,prtvtcua,5,Party of Regions,618
+UA,6,prtvtcua,6,Other (Write in),29
+UA,6,prtvtcua,7,Not applicable,556
+UA,6,prtvtcua,8,Refusal,99
+UA,6,prtvtcua,9,Don't know,52
+UA,6,prtvtcua,10,No answer,6

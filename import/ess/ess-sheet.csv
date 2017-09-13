@@ -1,0 +1,786 @@
+cntry,party_id,duplicate,ignore,party_short,party_english,party_name,share,party_id_old,ess_key,party
+AT,AT-1-6,,1,,Other,Andere,1.5,1200,at -- andere,Andere
+AT,AT-3-4,,,BZÖ,,,1.9,1798,at -- bzö,BZÖ
+AT,AT-7-3,,,FPÖ,,,14.1,1724,at -- fpö,FPÖ
+AT,AT-2-4,,,GRÜNE,,Grüne,17.3,1582,at -- grüne,Grüne
+AT,AT-7-6,,,KPÖ,,,1.4,1115,at -- kpö,KPÖ
+AT,AT-1-5,,,LIF,,,1.1,1091,at -- lif,LIF
+AT,AT-7-7,,,,,NEOS,5.3,3000,at -- neos,NEOS
+AT,AT-3-8,,1,,Other,Andere,0.8,1200,at -- other,other
+AT,AT-2-2,,,ÖVP,,,40.9,1648,at -- övp,ÖVP
+AT,AT-7-8,,,,,Piratenpartei Österreich,0.7,3001,at -- piratenpartei österreich,Piratenpartei Österreich
+AT,AT-3-1,,,SPÖ,,,36.3,1479,at -- spö,SPÖ
+AT,AT-7-9,,,,,Team Frank Stronach,0.9,3002,at -- team frank stronach,Team Frank Stronach
+BE,BE-1-1,,,,,Agalev/Groen!,7.6,1254,be -- agalev,Agalev
+BE,BE-3-1,BE-1-1,,,,Agalev/Groen!,4.4,1254,be -- agalev/groen!,Agalev/Groen!
+BE,BE-6-17,,1,,,Blanco,3.3,1348,be -- blanco,Blanco
+BE,BE-2-15,,1,,,Blanco,2.6,1348,be -- blank,Blank
+BE,BE-3-2,,,CD&V,,,21,1262,be -- cd&v,CD&V
+BE,BE-4-2,,,,,CD&V + N-VA,23.2,3003,be -- cd&v + n-va,CD&V + N-VA
+BE,BE-4-7,,,PSC/CDH,,,6.6,1373,be -- cdh,CDH
+BE,BE-1-2,,,CVP,,,20.6,1544,be -- cvp,CVP
+BE,BE-5-10,,,ECOLO,,,5.6,1073,be -- ecolo,Ecolo
+BE,BE-2-11,,,FRONT,Front National,,1.7,1772,be -- front national,Front National
+BE,BE-7-1,BE-1-1,,,,Agalev/Groen!,5.9,1254,be -- groen!,Groen!
+BE,BE-4-14,,,,Invalid,,0.9,1159,be -- invalid,Invalid
+BE,BE-4-3,,,,,Lijst Dedecker,2.4,1299,be -- lijst dedecker,Lijst Dedecker
+BE,BE-2-12,,,MR,MR,,10.9,1625,be -- mr,MR
+BE,BE-5-3,,,N-VA,,,22.4,1651,be -- n-va,N-VA
+BE,BE-6-18,,,,,Ongeldig,1.4,1557,be -- ongeldig,Ongeldig
+BE,BE-6-8,,,VLD,Open VLD,,9.9,1694,be -- open vld,Open VLD
+BE,BE-4-6,,,,,Open VLD + Vivant,12.4,3004,be -- open vld + vivant,Open VLD + Vivant
+BE,BE-1-16,,1,,Other,,1.8,1546,be -- other,OTHER
+BE,BE-7-15,,,,,Parti Populaire,1.1,1859,be -- parti populaire,Parti Populaire
+BE,BE-1-12,,,PRL-FDF,,,7.4,1672,be -- prl-fdf,PRL-FDF
+BE,BE-6-13,,,PS,,,15.3,1465,be -- ps,PS
+BE,BE-1-11,BE-4-7,,PSC/CDH,,,4.7,1373,be -- psc,PSC
+BE,BE-7-14,,,,,PTB,2.2,2043,be -- ptb,PTB
+BE,BE-1-15,BE-7-14,,,,PTB,0.3,2043,be -- ptb-ua,PTB-UA
+BE,BE-1-7,,,PVDA,,,0.1,1291,be -- pvda-ae,PVDA-AE
+BE,BE-7-6,BE-1-7,,PVDA,,,1.5,1291,be -- pvda+,PVDA+
+BE,BE-1-3,,,SP.A,,,11.6,1066,be -- sp,SP
+BE,BE-6-5,BE-1-3,,SP.A,,,10.8,1066,be -- sp.a,SP.A
+BE,BE-2-5,,,,,SP.A-Spirit,14.7,1955,be -- sp.a-spirit,SP.A-Spirit
+BE,BE-4-4,BE-2-5,,,,SP.A-Spirit,11.3,1955,be -- sp.a. + vlaams - progressieven (spirit),SP.A. + Vlaams - Progressieven (Spirit)
+BE,BE-3-6,,,VIVANT,,Vivant,0.6,1065,be -- vivant,Vivant
+BE,BE-4-5,,,,,Vlaams Belang,7.6,1029,be -- vlaams belang,Vlaams Belang
+BE,BE-2-7,,,,,Vlaams Blok,9.9,1564,be -- vlaams blok,Vlaams Blok
+BE,BE-1-5,BE-6-8,,VLD,Open VLD,,19.5,1694,be -- vld,VLD
+BE,BE-1-6,,,VU-ID,,,3.8,1282,be -- vu-id,VU-ID
+BG,BG-6-2,,,BSP,,Balgarska sotsialisticheska partia,34.5,1240,bg -- balgarska sotsialisticheska partia (bsp),Balgarska sotsialisticheska partia (BSP)
+BG,BG-5-15,,,BNS/ND,,Koalitziia Balgarski Natsionalen Saiuz,0.1,1123,bg -- balgarski natsionalen saiuz – nd,Balgarski Natsionalen Saiuz – ND
+BG,BG-3-7,BG-5-15,,BNS/ND,,Koalitziia Balgarski Natsionalen Saiuz,1.8,1123,bg -- bns,BNS
+BG,BG-3-1,BG-6-2,,BSP,,Balgarska sotsialisticheska partia,55.2,1240,bg -- bsp,BSP
+BG,BG-3-10,,,,Coalition Ataka,Koalitziia Ataka,9.8,1956,bg -- coalition ataka,Coalition Ataka
+BG,BG-3-3,,,,Coalition of the Rose,Koalitziia na Rozata,0.5,1715,bg -- coalition of the rose,Coalition of the rose
+BG,BG-4-4,,,DSB,,Demokrati za silna Bulgaria,4.3,1558,bg -- demokrati za silna balgariia,Demokrati za Silna Balgariia
+BG,BG-3-2,,,DPS,,Dvizhenie za prava i svobodi,10.8,1703,bg -- dps,DPS
+BG,BG-5-3,BG-3-2,,DPS,,Dvizhenie za prava i svobodi,10.6,1703,bg -- dps - dvijenie za prava i svobodi,DPS - Dvijenie za prava i svobodi
+BG,BG-5-16,,,,,Druga politicheska sila,0.4,2015,bg -- druga politicheska sila,Druga politicheska sila
+BG,BG-3-4,BG-4-4,,DSB,,Demokrati za silna Bulgaria,3,1558,bg -- dsb,DSB
+BG,BG-4-2,,,,,Dvijenie za Prava i Svobodi,16.8,1983,bg -- dvijenie za prava i svobodi,Dvijenie za Prava i Svobodi
+BG,BG-3-9,,,,,Politichesko dvijenie Evroroma,0.3,1864,bg -- evroroma,Evroroma
+BG,BG-5-1,,,GERB,,,53.9,1302,bg -- gerb,GERB
+BG,BG-6-13,,,,,"Nezavisim kandidat/Kandidati, izdignati ot Initsiativni komiteti",1.4,1406,"bg -- kandidati, izdignati ot initsiativni komiteti","Kandidati, izdignati ot Initsiativni komiteti"
+BG,BG-5-2,,,BSP,,Koalitziia za Balgariia,22.6,1272,bg -- koalitsia za balgaria (bsp; pbs; zemedelski saiuz) al. stamb,Koalitsia za Balgaria (BSP; PBS; Zemedelski saiuz) Al. Stamb
+BG,BG-4-10,BG-3-10,,,Coalition Ataka,Koalitziia Ataka,8.7,1956,bg -- koalitziia ataka,Koalitziia Ataka
+BG,BG-4-7,BG-5-15,,BNS/ND,,Koalitziia Balgarski Natsionalen Saiuz,3.1,1123,bg -- koalitziia bns,Koalitziia BNS
+BG,BG-4-3,BG-3-3,,,Coalition of the Rose,Koalitziia na Rozata,0.3,1715,bg -- koalitziia na rozata,Koalitziia na Rozata
+BG,BG-4-6,,,ODS,,Koalitziia,14,1176,bg -- koalitziia ods,Koalitziia ODS
+BG,BG-4-1,BG-5-2,,BSP,,Koalitziia za Balgariia,41.8,1272,bg -- koalitziia za balgariia,Koalitziia za Balgariia
+BG,BG-6-8,,,KP,,Sayuz na desnite sili,2.3,2048,bg -- kp sayuz na desnite sili,KP Sayuz na desnite sili
+BG,BG-4-5,,,,,Natzionalno Dvijenie Simeon II,10.4,1985,bg -- natzionalno dvijenie simeon ii,Natzionalno Dvijenie Simeon II
+BG,BG-3-5,,,NDSV,,,8.6,1506,bg -- ndsv,NDSV
+BG,BG-5-17,BG-6-13,,,,"Nezavisim kandidat/Kandidati, izdignati ot Initsiativni komiteti",0.3,1406,bg -- nezavisim kandidat,Nezavisim kandidat
+BG,BG-4-8,BG-3-8,,,,Novo Vreme,0.5,1986,bg -- novo vreme,Novo Vreme
+BG,BG-3-8,,,,,„Novoto vreme” Emil Koshlukov,1.5,1371,bg -- novoto vreme,Novoto Vreme
+BG,BG-5-5,BG-3-10,,Ataka,,Partia Ataka,4,1569,bg -- partia ataka,Partia Ataka
+BG,BG-6-3,BG-3-10,,,,PP Ataka,2.1,3005,bg -- pp ataka,PP Ataka
+BG,BG-6-12,,,,,Balgarska demokratichna obshtnost,0.1,1457,bg -- pp balgarska demokratichna obshtnost,PP Balgarska demokratichna obshtnost
+BG,BG-6-6,,,BZNS,,,0.2,1216,bg -- pp bzns,PP BZNS
+BG,BG-6-1,BG-5-1,,GERB,,,57.2,3006,bg -- pp gerb,PP GERB
+BG,BG-5-8,,,,,Lider,0.6,1594,bg -- pp lider,PP Lider
+BG,BG-6-7,,,,,Natsionalen front za dpasenie na Bulgaria,1,1332,bg -- pp natsionalen front za dpasenie na bulgaria,PP Natsionalen front za dpasenie na Bulgaria
+BG,BG-6-9,,,,,Natsionalno dvizhenie Edinstvo,0.1,1644,bg -- pp natsionalno dvizhenie edinstvo,PP Natsionalno dvizhenie Edinstvo
+BG,BG-6-11,,,,,Partia za horata ot naroda,0.1,1184,bg -- pp partia za horata ot naroda,PP Partia za horata ot naroda
+BG,BG-6-4,,,RZS,,"Red, zakonnost i spravedlivost",0.4,3007,"bg -- pp red, zakonnost i spravedlivost (rzs)","PP Red, zakonnost i spravedlivost (RZS)"
+BG,BG-6-5,,,VMRO,,Balgarsko natsionalno dvizhenie,0.5,3008,bg -- pp vmro – balgarsko natsionalno dvizhenie,PP VMRO – Balgarsko natsionalno dvizhenie
+BG,BG-5-11,,,,,„Zelena partia” Aleksandar Karakachanov,0.2,1416,bg -- pp zelenite,PP Zelenite
+BG,BG-5-6,,,RZS,,"Red, zakonnost i spravedlivost",1,1427,"bg -- red, zakonnost i spravedlivost (rzs)","Red, zakonnost i spravedlivost (RZS)"
+BG,BG-3-6,,,SDS,,Sayuz na demokratichnite sili,8.5,1322,bg -- sds,SDS
+BG,BG-5-4,,,SDS,,Siniata koalitsia,5,1633,bg -- siniata koalitsia (sds; dsb),Siniata koalitsia (SDS; DSB)
+CH,CH-1-6,,,,Alliance of the Independents,,0.4,1045,ch -- alliance of the independents,Alliance of the Independents
+CH,CH-6-14,,,,Alternative Left,,0.1,1296,ch -- alternative left,Alternative Left
+CH,CH-4-15,,,,Blank paper,,4,1547,ch -- blank paper,Blank paper
+CH,CH-6-7,,,,Conservative Democratic Party / Bourgois-democratic Party,,5.5,1002,ch -- bourgois-democratic party,Bourgois-democratic Party
+CH,CH-6-4,,,,Christian Democrats,,17,1503,ch -- christian democrats,Christian Democrats
+CH,CH-7-13,,,,Christian Social Party,,0.1,1006,ch -- christian social party,Christian Social Party
+CH,CH-3-2,CH-6-4,,,Christian Democrats,,13.2,1503,ch -- christian-democrats,Christian-democrats
+CH,CH-4-6,CH-7-13,,,Christian Social Party,,1,1006,ch -- christian-social,Christian-social
+CH,CH-1-8,CH-7-13,,,Christian Social Party,,0.8,1006,ch -- christian-social party,Christian-Social Party
+CH,CH-3-6,,,,Evangelical People’s Party,,2.3,1585,ch -- evangelical people's party,Evangelical People's Party
+CH,CH-5-12,CH-3-6,,,Evangelical People’s Party,,1.9,1585,ch -- evangelical people’s party,Evangelical People’s Party
+CH,CH-2-12,,,,Federal Democratic Union,,1.5,1293,ch -- federal democratic union,Federal Democratic Union
+CH,CH-1-13,,,,Freiheits-Partei,,0.4,1270,ch -- freiheits-partei,Freiheits-Partei
+CH,CH-6-6,,,,Green Liberal Party,,9.8,1223,ch -- green liberal party,Green Liberal Party
+CH,CH-4-8,,,,Green Party,,12.5,1242,ch -- green party,Green party
+CH,CH-4-13,,,,Ticino League,Lega dei Ticinesi,0.4,1144,ch -- lega dei ticinese,Lega dei Ticinese
+CH,CH-3-14,CH-4-13,,,Ticino League,Lega dei Ticinesi,0.3,1144,ch -- lega dei ticinesi,Lega dei Ticinesi
+CH,CH-1-5,,,,Liberal Party,,3.7,1727,ch -- liberal party,Liberal Party
+CH,CH-5-15,,,,Mixed vote,,5,1676,ch -- mixed vote,Mixed vote
+CH,CH-7-12,,,,,Movement of the Citizens belonging to French-speaking Switze,0.3,3009,ch -- movement of the citizens belonging to french-speaking switze,Movement of the Citizens belonging to French-speaking Switze
+CH,CH-7-18,,1,,Others,,0.9,1581,ch -- other party,Other party
+CH,CH-1-16,,1,,Others,,7.7,1581,ch -- others,Others
+CH,CH-6-16,,,,Pirate Party Switzerland,,0.1,1879,ch -- pirate party switzerland,Pirate Party Switzerland
+CH,CH-7-3,,,FDP,Radical Liberals,,18.3,1889,ch -- radical liberals,Radical Liberals
+CH,CH-1-1,,,,Radicals,,15.3,1395,ch -- radicals,Radicals
+CH,CH-1-3,,,,Socialist Party,,30.8,1773,ch -- social-democrats,Social-democrats
+CH,CH-4-3,CH-1-3,,,Socialist Party,,21.6,1773,ch -- socialist party,Socialist party
+CH,CH-5-10,,,,Swiss Democrats,,0.5,1250,ch -- swiss democrats,Swiss Democrats
+CH,CH-4-7,,,,Swiss Labour Party,,0.6,1851,ch -- swiss labor party,Swiss labor party
+CH,CH-2-9,CH-4-7,,,Swiss Labour Party,,0.7,1851,ch -- swiss labour party,Swiss Labour Party
+CH,CH-4-4,,,,Swiss People's Party,,25.1,1228,ch -- swiss people party,Swiss people party
+CH,CH-2-4,CH-4-4,,,Swiss People's Party,,26.7,1228,ch -- swiss people's party,Swiss People's Party
+CH,CH-5-4,CH-4-4,,,Swiss People's Party,,23.8,1228,ch -- swiss people’s party,Swiss People’s Party
+CH,CH-5-13,CH-4-13,,,Ticino League,Lega dei Ticinesi,0.5,1144,ch -- ticino league,Ticino League
+CH,CH-2-14,,,,Women's Parties,,0.5,1336,ch -- women's parties,Women's Parties
+CY,CY-4-2,,,DIKO,Democratic Party,,22.5,1258,cy -- democratic party (diko),Democratic Party (DIKO)
+CY,CY-6-3,,,DHSY/DISY,Democratic Rally,,37.5,1894,cy -- democratic rally (disy),Democratic Rally (DISY)
+CY,CY-3-4,,,EYROKO/EVROKO,European Party,,5,1713,cy -- european party (evroko),European Party (EVROKO)
+CY,CY-5-1,,,AKEL,Progressive Party of Working People,,37.7,1405,cy -- progressive party of working people (akel),Progressive Party of Working People (AKEL)
+CY,CY-3-7,,,KS-EDEK,Social Democrats,,8.7,1126,cy -- social democrats (ks edek),Social Democrats (KS EDEK)
+CY,CY-4-5,,,,The Cyprus Green Party,,2.3,1863,cy -- the cyprus green party,The Cyprus Green Party
+CY,CY-4-6,,,EDI,United Democrats,,1.5,1018,cy -- united democrats (edi),United Democrats (EDI)
+CZ,CZ-7-4,,,,,ANO 2011,27.6,3010,cz -- ano 2011,ANO 2011
+CZ,CZ-2-7,,,,Association of Independents,,2.8,1559,cz -- association of independents,Association of Independents
+CZ,CZ-1-10,,,,Coalition (Christian Dem.&Freedom Union),,17.6,1338,cz -- coalition (christian dem.&freedom union),Coalition (Christian Dem.&Freedom Union)
+CZ,CZ-1-5,,,CSNS,Czech National Social Party,,0.8,1241,cz -- csns cz.national social p.,CSNS Cz.National Social P.
+CZ,CZ-4-2,,,CSSD,Cz.Social Democratic P.,,39.7,1288,cz -- cssd,CSSD
+CZ,CZ-1-1,CZ-4-2,,CSSD,Cz.Social Democratic P.,,37.3,1288,cz -- cssd cz.social democratic p.,CSSD Cz.Social Democratic P.
+CZ,CZ-4-4,,,KDU-CSL,Christian Democratic P.,,7.5,1665,cz -- kdu-csl,KDU-CSL
+CZ,CZ-6-1,,,KSCM,Communist P.of Bohemia&Moravia,,15.4,1330,cz -- kscm,KSCM
+CZ,CZ-2-9,CZ-6-1,,KSCM,Communist P.of Bohemia&Moravia,,16.8,1330,cz -- kscm communist p.of bohemia&moravia,KSCM Communist P.of Bohemia&Moravia
+CZ,CZ-1-3,,,,Hope,Nadeje,0.4,1117,cz -- nadeje (hope),Nadeje (Hope)
+CZ,CZ-2-2,,,ODA,Civic Democratic Alliance,,2.4,1187,cz -- oda civic democratic alliance,ODA Civic Democratic Alliance
+CZ,CZ-4-5,,,ODS,Civic Democratic P.,,34.8,1714,cz -- ods,ODS
+CZ,CZ-2-8,CZ-4-5,,ODS,Civic Democratic P.,,33.4,1714,cz -- ods civic democratic p.,ODS Civic Democratic P.
+CZ,CZ-2-12,,,PB,Right Block,,0.2,1501,cz -- pb right block,PB Right Block
+CZ,CZ-2-4,,,RMS,Republicans of Miroslav Sladek,,0.5,1312,cz -- rms republicans of miroslav sladek,RMS Republicans of Miroslav Sladek
+CZ,CZ-2-6,,,SV-SOS,P.of Countryside-Assoc.Civic Forces,,0.4,1180,cz -- sv-sos p.of countryside-assoc.civic forces,SV-SOS P.of Countryside-Assoc.Civic Forces
+CZ,CZ-4-3,,,SZ,P.of Greens,,6.3,1033,cz -- sz,SZ
+CZ,CZ-2-13,CZ-4-3,,SZ,P.of Greens,,2.5,1033,cz -- sz p.of greens,SZ P.of Greens
+CZ,CZ-1-11,,,SZJ,Party for Security in Life,,0.4,1833,cz -- szj p.for life securities,SZJ P.for Life Securities
+CZ,CZ-7-3,,,,,TOP 09,11.2,3011,cz -- top 09,TOP 09
+CZ,CZ-5-5,,,TOP09,,,15.7,1221,cz -- top09,TOP09
+CZ,CZ-7-7,,,,,Úsvit prímé demokracie Tomia Okamury,4.1,3012,cz -- úsvit prímé demokracie tomia okamury,Úsvit prímé demokracie Tomia Okamury
+CZ,CZ-5-6,,,VV,,,11.4,1261,cz -- vv,VV
+DK,DK-7-10,,1,Andet,Other,Andet,1.4,1004,dk -- andet - other,Andet - other
+DK,DK-1-4,,,,,Centrum-Demokraterne,1.7,1609,dk -- centrum-demokraterne,Centrum-Demokraterne
+DK,DK-3-6,,,,Danish peoples party,Dansk Folkeparti,7.8,1219,dk -- dansk folkeparti,Dansk Folkeparti
+DK,DK-7-5,DK-3-6,,,Danish peoples party,Dansk Folkeparti,12.1,1219,dk -- dansk folkeparti - danish peoples party,Dansk Folkeparti - Danish peoples party
+DK,DK-3-3,,,,Conservative,Det Konservative Folkeparti,8.9,1755,dk -- det konservative folkeparti,Det Konservative Folkeparti
+DK,DK-4-3,DK-3-3,,,Conservative,Det Konservative Folkeparti,9.7,1755,dk -- det konservative folkeparti - conservative,Det Konservative Folkeparti - Conservative
+DK,DK-3-2,,,,Danish Social-Liberal Party,Det Radikale Venstre,8.8,1289,dk -- det radikale venstre,Det Radikale Venstre
+DK,DK-6-2,DK-3-2,,,Danish Social-Liberal Party,Det Radikale Venstre,12.1,1289,dk -- det radikale venstre - danish social-liberal party,Det Radikale Venstre - Danish Social-Liberal Party
+DK,DK-3-10,,,,Unity List - The Red-Green Alliance,Enhedslisten,3.3,1324,dk -- enhedslisten,Enhedslisten
+DK,DK-7-9,DK-3-10,,,Unity List - The Red-Green Alliance,Enhedslisten,6.5,1324,dk -- enhedslisten - unity list - the red-green alliance,Enhedslisten - Unity List - The Red-Green Alliance
+DK,DK-5-9,DK-3-10,,,Unity List - The Red-Green Alliance,Enhedslisten,2.1,1324,"dk -- enhedslisten, de rød-grønne - the red-green alliance","Enhedslisten, De Rød-Grønne - The Red-Green Alliance"
+DK,DK-2-9,,,,,Fremskridtspartiet,0.8,1804,dk -- fremskridtspartiet,Fremskridtspartiet
+DK,DK-2-7,,,,Christian democtrats,Kristeligt Folkeparti/Kristendemokraterne,2.1,1359,dk -- kristeligt folkeparti,Kristeligt Folkeparti
+DK,DK-3-7,DK-2-7,,,Christian democtrats,Kristeligt Folkeparti/Kristendemokraterne,1.7,1359,dk -- kristendemokraterne,Kristendemokraterne
+DK,DK-6-6,,,,,Kristendemokraterne - Christian democrats,1.1,3013,dk -- kristendemokraterne - christian democrats,Kristendemokraterne - Christian democrats
+DK,DK-4-6,DK-2-7,,,Christian democtrats,Kristeligt Folkeparti/Kristendemokraterne,1,1359,dk -- kristendemokraterne - christian democtrats,Kristendemokraterne - Christian democtrats
+DK,DK-7-8,,,,New alliance / Liberal Alliance,,4.1,1145,dk -- liberal alliance - liberal alliance,Liberal Alliance - Liberal Alliance
+DK,DK-4-8,DK-7-8,,,New alliance / Liberal Alliance,,2.7,1145,dk -- ny alliance - new alliance,Ny Alliance - New alliance
+DK,DK-6-4,,,SF,Socialist People's Party,Socialistisk Folkeparti,10.6,1257,dk -- sf socialistisk folkeparti - socialist people's party,SF Socialistisk Folkeparti - Socialist People's Party
+DK,DK-5-4,DK-6-4,,SF,Socialist People's Party,Socialistisk Folkeparti,15.5,1257,dk -- sf- socialistisk folkeparti - the socialist people's party,SF- Socialistisk Folkeparti - the Socialist People's Party
+DK,DK-6-1,,,,,Socialdemokraterne - the Danish social democrats,27.1,3014,dk -- socialdemokraterne - the danish social democrats,Socialdemokraterne - the Danish social democrats
+DK,DK-4-1,,,,Danish Social Democtrats,Socialdemokratiet,26.8,1496,dk -- socialdemokraterne - the danish social democtrats,Socialdemokraterne - the Danish social democtrats
+DK,DK-1-1,DK-4-1,,,Danish Social Democtrats,Socialdemokratiet,31.7,1496,dk -- socialdemokratiet,Socialdemokratiet
+DK,DK-3-5,DK-6-4,,SF,Socialist People's Party,Socialistisk Folkeparti,8.5,1257,dk -- socialistisk folkeparti,Socialistisk Folkeparti
+DK,DK-2-8,,,,,Venstre / Danmarks Liberale Parti,35.6,1265,dk -- venstre,Venstre
+DK,DK-5-7,DK-2-8,,,,Venstre / Danmarks Liberale Parti,29.8,1265,"dk -- venstre, danmarks liberale parti - venstre","Venstre, Danmarks Liberale Parti - Venstre"
+EE,EE-4-11,,,,,campaigner,0.2,1619,ee -- campaigner,campaigner
+EE,EE-5-8,,,,,Eesti Iseseisvuspartei,0.2,1393,ee -- eesti iseseisvuspartei,Eesti Iseseisvuspartei
+EE,EE-7-2,,,,Estonian Centre Party/The Estonian Centre Party,Eesti Keskerakond,27.6,1036,ee -- eesti keskerakond,Eesti Keskerakond
+EE,EE-6-4,,,,Estonian People's Union/The People's Union of Estonia,Eestimaa Rahvaliit/Eesti Konservatiivne Rahvaerakond endine Rahvaliit,1.9,1074,ee -- eesti konservatiivne rahvaerakond (endine rahvaliit),Eesti Konservatiivne Rahvaerakond (endine Rahvaliit)
+EE,EE-5-3,,,,Estonian Reform Party,Eesti Reformierakond,32.3,1062,ee -- eesti reformierakond,Eesti Reformierakond
+EE,EE-6-10,,,,,Eesti Vabaduspartei – Põllumeeste Kogu,0.2,1464,ee -- eesti vabaduspartei – põllumeeste kogu,Eesti Vabaduspartei – Põllumeeste Kogu
+EE,EE-5-4,EE-6-4,,,Estonian People's Union/The People's Union of Estonia,Eestimaa Rahvaliit/Eesti Konservatiivne Rahvaerakond endine Rahvaliit,5.9,1074,ee -- eestimaa rahvaliit,Eestimaa Rahvaliit
+EE,EE-5-9,,,,Estonian Christian Peoples Party/Party of Estonian Christian Democrats,Erakond Eesti Kristlikud Demokraadid,0.7,1086,ee -- erakond eesti kristlikud demokraadid,Erakond Eesti Kristlikud Demokraadid
+EE,EE-5-6,,,,Estonian Greens,Erakond Eestimaa Rohelised,5,1675,ee -- erakond eestimaa rohelised,Erakond Eestimaa Rohelised
+EE,EE-7-3,,,,Pro Patria and Res Publica Union,Erakond Isamaa ja Res Publica Liit,15.7,1874,ee -- erakond isamaa ja res publica liit,Erakond Isamaa ja Res Publica Liit
+EE,EE-3-2,EE-7-2,,,Estonian Centre Party/The Estonian Centre Party,Eesti Keskerakond,34.5,1036,ee -- estonian centre party,Estonian Centre Party
+EE,EE-2-8,EE-5-9,,,Estonian Christian Peoples Party/Party of Estonian Christian Democrats,Erakond Eesti Kristlikud Demokraadid,0.1,1086,ee -- estonian christian peoples party,Estonian Christian Peoples Party
+EE,EE-4-6,EE-5-6,,,Estonian Greens,Erakond Eestimaa Rohelised,7.9,1675,ee -- estonian greens,Estonian Greens
+EE,EE-4-9,,,,Estonian Independence Party,,0.2,1169,ee -- estonian independence party,Estonian Independence Party
+EE,EE-2-6,EE-6-4,,,Estonian People's Union/The People's Union of Estonia,Eestimaa Rahvaliit/Eesti Konservatiivne Rahvaerakond endine Rahvaliit,10.5,1074,ee -- estonian people's union,Estonian People's Union
+EE,EE-4-3,EE-5-3,,,Estonian Reform Party,Eesti Reformierakond,33.7,1062,ee -- estonian reform party,Estonian Reform Party
+EE,EE-2-5,,,,Estonian Social Democratic Party/Estonian Social Democrats/The Social Democratic Party,Sotsiaaldemokraatlik Erakond,7.5,1817,ee -- estonian social democratic party,Estonian Social Democratic Party
+EE,EE-3-5,EE-2-5,,,Estonian Social Democratic Party/Estonian Social Democrats/The Social Democratic Party,Sotsiaaldemokraatlik Erakond,6.4,1817,ee -- estonian social democrats,Estonian Social Democrats
+EE,EE-4-8,,,,Estonian United Left Party,,0.1,1631,ee -- estonian united left party,Estonian United Left Party
+EE,EE-2-7,,,,Estonian United People's Party,,0.3,1869,ee -- estonian united people's party,Estonian United People's Party
+EE,EE-2-12,,1,,Independent candidates,Üksikkandidaat/Üksikkandidaadi poolt,0.4,1637,ee -- independent candidates,Independent candidates
+EE,EE-7-6,,,,,Konservatiivne Rahvaerakond (endie Rahvaliit),1,3015,ee -- konservatiivne rahvaerakond (endie rahvaliit),Konservatiivne Rahvaerakond (endie Rahvaliit)
+EE,EE-5-11,,,,,Mitte kellegi poolt,0.1,2017,ee -- mitte kellegi poolt,Mitte kellegi poolt
+EE,EE-4-7,EE-5-9,,,Estonian Christian Peoples Party/Party of Estonian Christian Democrats,Erakond Eesti Kristlikud Demokraadid,0.7,1086,ee -- party of estonian christian democrats,Party of Estonian Christian Democrats
+EE,EE-2-1,,,,Party Res Publica,Res Publica,24.3,1181,ee -- party res publica,Party Res Publica
+EE,EE-4-1,EE-7-3,,,Pro Patria and Res Publica Union,Erakond Isamaa ja Res Publica Liit,15.3,1874,ee -- pro patria and res publica union,Pro Patria and Res Publica Union
+EE,EE-3-4,,,,Pro Patria Union,,10.3,1402,ee -- pro patria union,Pro Patria Union
+EE,EE-3-1,EE-2-1,,,Party Res Publica,Res Publica,14.4,1181,ee -- res publica,Res Publica
+EE,EE-2-11,,,,Russian Party in Estonia,,0.1,1799,ee -- russian party in estonia,Russian Party in Estonia
+EE,EE-6-5,EE-2-5,,,Estonian Social Democratic Party/Estonian Social Democrats/The Social Democratic Party,Sotsiaaldemokraatlik Erakond,18.8,1817,ee -- sotsiaaldemokraatlik erakond,Sotsiaaldemokraatlik Erakond
+EE,EE-4-2,EE-7-2,,,Estonian Centre Party/The Estonian Centre Party,Eesti Keskerakond,27.2,1036,ee -- the estonian centre party,The Estonian Centre Party
+EE,EE-4-4,EE-6-4,,,Estonian People's Union/The People's Union of Estonia,Eestimaa Rahvaliit/Eesti Konservatiivne Rahvaerakond endine Rahvaliit,5.3,1074,ee -- the people's union of estonia,The People's Union of Estonia
+EE,EE-4-5,EE-2-5,,,Estonian Social Democratic Party/Estonian Social Democrats/The Social Democratic Party,Sotsiaaldemokraatlik Erakond,9.3,1817,ee -- the social democratic party,The Social Democratic Party
+EE,EE-6-11,,1,,Independent candidates,Üksikkandidaat/Üksikkandidaadi poolt,5.1,1637,ee -- üksikkandidaadi poolt,Üksikkandidaadi poolt
+EE,EE-7-10,,1,,,Üksikkandidaadid või muud,4.7,3016,ee -- üksikkandidaadid või muud,Üksikkandidaadid või muud
+EE,EE-5-10,,1,,Independent candidates,Üksikkandidaat/Üksikkandidaadi poolt,1.5,1637,ee -- üksikkandidaat,Üksikkandidaat
+EE,EE-7-7,,,,,Vene Erakond Eestis,0.1,3017,ee -- vene erakond eestis,Vene Erakond Eestis
+ES,ES-7-5,,,AMAIUR,,,1.3,1592,es -- amaiur,AMAIUR
+ES,ES-5-12,,,,Blank vote,,3.6,1500,es -- blank vote,Blank vote
+ES,ES-4-7,,,BNG,Bloque Nacionalista Galego,,2.5,1415,es -- bloque nacionalista galego (bng),Bloque Nacionalista Galego (BNG)
+ES,ES-2-12,,,CHA,Chunta Aragonesista,,0.5,1777,es -- chunta aragonesista (cha),Chunta Aragonesista (CHA)
+ES,ES-6-10,,,CC/CC-PNC,Coalición Canaria / Partido Nacionalista Canario,,0.5,1248,es -- coalición canaria - nueva canarias,Coalición Canaria - Nueva Canarias
+ES,ES-1-10,ES-6-10,,CC/CC-PNC,Coalición Canaria / Partido Nacionalista Canario,,0.8,1248,es -- coalición canaria (cc),Coalición Canaria (CC)
+ES,ES-5-8,ES-6-10,,CC/CC-PNC,Coalición Canaria / Partido Nacionalista Canario,,0.4,1248,es -- coalición canaria-partido nacionalista canario (cc-pnc),Coalición Canaria-Partido Nacionalista Canario (CC-PNC)
+ES,ES-6-11,,,EQUO,Compromís,,1.2,1251,es -- compromís - equo,Compromís - EQUO
+ES,ES-1-4,,,,Convergència i Unió CiU,,6.2,1023,es -- convergència i unió (ciu),Convergència i Unió (CiU)
+ES,ES-3-5,,,ERC,Esquerra Repubicana de Catalunya,,2.3,1320,es -- esquerra repubicana de catalunya (erc),Esquerra Repubicana de Catalunya (ERC)
+ES,ES-7-8,ES-3-5,,ERC,Esquerra Repubicana de Catalunya,,2.5,1320,es -- esquerra republicana de catalunya (erc),Esquerra Republicana de Catalunya (ERC)
+ES,ES-1-8,,,EA,Eusko Alkartasuna,,0.2,1876,es -- eusko alkartasuna (ea),Eusko Alkartasuna (EA)
+ES,ES-6-12,,,,Foro de Ciudadanos,,0.3,1101,es -- foro de ciudadanos,Foro de Ciudadanos
+ES,ES-7-13,,,,Geroa Bai,,0.2,1522,es -- geroa bai,Geroa Bai
+ES,ES-1-6,,,ICV,Iniciativa per Catalunya-Verds,,0.8,1761,es -- iniciativa per catalunya-verds (icv),Iniciativa per Catalunya-Verds (ICV)
+ES,ES-2-3,,,IU,Izquierda Unida,,5.8,1057,es -- izquierda unida (iu),Izquierda Unida (IU)
+ES,ES-7-4,,,IU,,Izquierda Unida (ICV en Cataluña),8.9,3018,es -- izquierda unida (iu) - (icv en cataluña),Izquierda Unida (IU) - (ICV en Cataluña)
+ES,ES-4-9,,,NA-BAI,Nafarroa-Bai,,0.2,1398,es -- nafarroa-bai (na-bai),Nafarroa-Bai (NA-BAI)
+ES,ES-6-14,,1,,,Otros,3.3,3019,es -- otros,Otros
+ES,ES-1-11,,,PA,Partido Andalucista,,0.8,1447,es -- partido andalucista (pa),Partido Andalucista (PA)
+ES,ES-3-7,,,PNV,Partido Nacionalista Vasco / Partido Nacionalista Basco,,2.3,1593,es -- partido nacionalista vasco (pnv),Partido Nacionalista Vasco (PNV)
+ES,ES-5-1,,,PP,Partido Popular,,32.8,1490,es -- partido popular,Partido Popular
+ES,ES-6-1,,,PP,,Partido Popular (con UPN en Navarra),41.9,3020,es -- partido popular - pp (con upn en navarra),Partido Popular - PP (con UPN en Navarra)
+ES,ES-1-1,ES-5-1,,PP,Partido Popular,,41.5,1490,es -- partido popular (pp),Partido Popular (PP)
+ES,ES-4-2,,,PSOE,Partido Socialista Obrero Español,,51.4,1748,es -- partido socialista obrero español (psoe),Partido Socialista Obrero Español (PSOE)
+ES,ES-3-16,,,,,Spoiled vote,0.4,1635,es -- spoiled vote,Spoiled vote
+ES,ES-5-10,,,UP,"Unión, Progreso y Democracia",,2.3,1779,es -- unión progreso y democracia (upyd),Unión Progreso y Democracia (UPyD)
+ES,ES-7-6,ES-5-10,,UP,"Unión, Progreso y Democracia",,4.5,1779,"es -- unión, progreso y democracia (upyd)","Unión, Progreso y Democracia (UPyD)"
+ES,ES-6-15,,,,Votó en blanco,,3.1,1238,es -- votó en blanco,Votó en blanco
+ES,ES-6-16,,,,Votó nulo,,1.2,1596,es -- votó nulo,Votó nulo
+FI,FI-7-7,,,,Change 2011,,0.2,1691,fi -- change 2011,Change 2011
+FI,FI-2-6,,,,Christian Democrats,,4.6,1010,fi -- christian democrats,Christian Democrats
+FI,FI-6-15,,,,Communist Party of Finland,,0.3,1346,fi -- communist party,Communist Party
+FI,FI-1-11,FI-6-15,,,Communist Party of Finland,,0.3,1346,fi -- communist party of finland,Communist Party of Finland
+FI,FI-5-8,,,,Finnish People's Blue-Whites,,0.1,1792,fi -- finnish people's blue-whites,Finnish People's Blue-whites
+FI,FI-3-9,,,,Finnish Social Democratic Party/Social Democratic Party,,28.5,1031,fi -- finnish social democratic party,Finnish Social Democratic Party
+FI,FI-6-11,,,,For the Poor,,0.1,1226,fi -- for the poor,For the Poor
+FI,FI-6-6,,,,Freedom Party,,0.1,1689,fi -- freedom party,Freedom Party
+FI,FI-6-12,,,,Green League,,11.3,1903,fi -- green league,Green League
+FI,FI-5-11,,,,Independence Party,,0.1,1555,fi -- independence party,Independence Party
+FI,FI-1-7,,,,League for Free Finland,,0.1,1723,fi -- league for free finland,League for Free Finland
+FI,FI-6-14,,,,Left Alliance,,6.9,1247,fi -- left alliance,Left Alliance
+FI,FI-2-3,,,,Liberals,,0.2,1055,"fi -- liberals, (the liberal party of finland)","Liberals, (The liberal party of Finland)"
+FI,FI-7-8,,,,Pirate Party,,0.2,1185,fi -- pirate party,Pirate Party
+FI,FI-5-9,,,,Senior Citizens' Party,,0.3,1266,fi -- senior citizens' party,Senior Citizens' Party
+FI,FI-6-13,FI-3-9,,,Finnish Social Democratic Party/Social Democratic Party,,19.4,1031,fi -- social democratic party,Social Democratic Party
+FI,FI-1-4,,,,Centre Party,,26.5,1269,fi -- the centre party,The Centre Party
+FI,FI-7-16,,,,Communist Workers' Party,,0.1,1143,fi -- the communist workers' party,The Communist Workers' Party
+FI,FI-5-17,,,,Communist Workers' Party of Finland,,0.2,2019,fi -- the communist workers' party of finland,The Communist Workers' Party of Finland
+FI,FI-5-13,FI-6-12,,,Green League,,10.7,1903,fi -- the green league,The Green League
+FI,FI-1-10,FI-6-14,,,Left Alliance,,7,1247,fi -- the left alliance,The Left Alliance
+FI,FI-5-1,,,,National Coalition Party,,26.6,1542,fi -- the national coalition party,The National Coalition Party
+FI,FI-1-2,,,SPP,Swedish People´s Party,,5.7,1049,fi -- the swedish people´s party (spp),The Swedish People´s Party (SPP)
+FI,FI-7-4,,,,True Finns,,14,1394,fi -- true finns,True Finns
+FI,FI-5-18,,,,Workers Party,,0.1,1831,fi -- workers party,Workers Party
+FR,FR-1-16,,,,,Autre,3.3,1914,fr -- autre,Autre
+FR,FR-5-13,,,,,Autres mouvements écologistes,2,2025,fr -- autres mouvements écologistes,Autres mouvements écologistes
+FR,FR-5-17,,,,,Blanc,4,1201,fr -- blanc,Blanc
+FR,FR-2-1,,,CPNT,,"Chasse, Pêche, Nature et Traditions",3.6,1856,"fr -- cpnt (chasse, pêche, nature et traditions)","CPNT (Chasse, Pêche, Nature et Traditions)"
+FR,FR-4-15,,,,,Divers droite,1.9,1191,fr -- divers droite,Divers droite
+FR,FR-5-14,,,,,Divers gauche,1.1,1588,fr -- divers gauche,Divers gauche
+FR,FR-1-2,,,DL,,Démocratie libérale,0.9,1963,fr -- dl (démocratie libérale),DL (Démocratie Libérale)
+FR,FR-7-12,,,EELV,,Les Verts – Europe Ecologie,6.8,1750,fr -- eelv (europe ecologie les verts),EELV (Europe Ecologie Les Verts)
+FR,FR-6-6,,,FDG,,Front de Gauche,5,1718,fr -- fdg (front de gauche),FDG (Front de Gauche)
+FR,FR-7-2,,,FN,,Front National,11.9,1911,fr -- fn (front national),FN (Front National)
+FR,FR-4-3,,,LCR,,Ligue Communiste Révolutionnaire,1.9,1081,fr -- lcr (ligue communiste révolutionnaire),LCR (Ligue Communiste Révolutionnaire)
+FR,FR-5-12,,,,,Les Verts,9.4,2024,fr -- les verts,Les Verts
+FR,FR-5-12,FR-7-12,,EELV,,Les Verts – Europe Ecologie,9.4,1750,fr -- les verts,Les Verts
+FR,FR-3-5,FR-5-12,,,,Les Verts,3.3,2024,fr -- lo (lutte ouvrière),LO (Lutte ouvrière)
+FR,FR-3-5,,,LO,,Lutte Ouvrière,3.3,1700,fr -- lo (lutte ouvrière),LO (Lutte ouvrière)
+FR,FR-3-6,,,MDC,,Mouvement des citoyens,0.8,1673,fr -- mdc (mouvement des citoyens),MDC (Mouvement des citoyens)
+FR,FR-3-7,,,MNR,,Mouvement national républicain,1.6,1677,fr -- mnr (mouvement national républicain),MNR (Mouvement national républicain)
+FR,FR-7-11,,,MODEM,,Mouvement Démocrate,6,1842,fr -- modem (mouvement démocrate),MODEM (Mouvement Démocrate)
+FR,FR-3-8,,,MPF,,Mouvement pour la France,2.8,1850,fr -- mpf (mouvement pour la france),MPF (Mouvement pour la France)
+FR,FR-5-6,,,,,Nouveau Centre,1.4,1430,fr -- nouveau centre,Nouveau Centre
+FR,FR-6-4,,,NPA,,Nouveau Parti Anti-Capitaliste,1.2,1606,fr -- npa (nouveau parti anti-capitaliste),NPA (Nouveau Parti Anti-Capitaliste)
+FR,FR-6-16,,1,,,Nul,0.7,2115,fr -- nul,Nul
+FR,FR-6-7,,,PRG,,Parti Radical de Gauche,1.6,1040,fr -- parti radical de gauche,Parti Radical de Gauche
+FR,FR-1-9,,,PC,,Parti Communiste,4.6,2022,fr -- pc (parti communiste),PC (Parti communiste)
+FR,FR-6-3,,,PR,,Parti Radical Valoisien,0.3,1183,fr -- pr (parti radical valoisien),PR (Parti Radical Valoisien)
+FR,FR-4-9,FR-6-7,,PRG,,Parti Radical de Gauche,2,1040,fr -- prg (parti radical de gauche),PRG (Parti Radical de Gauche)
+FR,FR-6-9,,,PS,,Parti Socialiste,36.5,1404,fr -- ps (parti socialiste),PS (Parti Socialiste)
+FR,FR-3-11,,,RPF,,Rassemblement du Peuple Français,2.1,1514,fr -- rpf (rassemblement du peuple français),RPF (Rassemblement du peuple français)
+FR,FR-1-13,,,UDF,,Union pour la démocratie française,6.6,1175,fr -- udf (union pour la démocratie française),UDF (Union pour la Démocratie Française)
+FR,FR-4-10,FR-7-11,,MODEM,,Mouvement Démocrate,7,1842,fr -- udf-modem (mouvement democrate),UDF-MoDem (Mouvement Democrate)
+FR,FR-4-10,FR-1-13,,UDF,,Union pour la démocratie française,7,1175,fr -- udf-modem (mouvement democrate),UDF-MoDem (Mouvement Democrate)
+FR,FR-1-12,,,UMP,,Union de la Majorité Présidentielle,24.3,1935,fr -- ump (union de la majorité présidentielle),UMP (Union de la Majorité Présidentielle)
+FR,FR-4-11,FR-1-2,,DL/UMP,,Démocratie Libérale/ L’Union,32.5,1854,fr -- ump (union pour la majorité présidentielle),UMP (Union pour la Majorité Présidentielle)
+FR,FR-7-10,FR-1-2,,DL/UMP,,Démocratie Libérale/ L’Union,28.6,1854,fr -- ump (union pour un mouvement populaire),UMP (Union pour un Mouvement Populaire)
+GB,GB-3-14,,,,Alliance Party,,0.1,3021,gb -- alliance party,Alliance Party
+GB,GB-1-12,,,,Alliance Party (nir),,0.4,3022,gb -- alliance party (nir),Alliance Party (nir)
+GB,GB-3-7,,,,British National Party,British National Party,0.5,1538,gb -- british national party,British National Party
+GB,GB-5-1,,,,Conservative,Conservative,38.6,2052,gb -- conservative,Conservative
+GB,GB-3-11,,,,Democratic Unionist Party,,0.7,3023,gb -- democratic unionist party,Democratic Unionist Party
+GB,GB-4-9,,,,Democratic Unionist Party (nir),,0.7,3024,gb -- democratic unionist party (nir),Democratic Unionist Party (nir)
+GB,GB-7-6,,,,Green Party,Green Party,2.8,1274,gb -- green party,Green Party
+GB,GB-3-9,,1,,Independent,Independent,0.7,1295,gb -- independent,Independent
+GB,GB-7-16,,1,,Independent(s) (nir),,0.2,3025,gb -- independent(s) (nir),Independent(s) (nir)
+GB,GB-2-2,,,,Labour,Labour,50.3,1367,gb -- labour,Labour
+GB,GB-5-3,,,,Liberal Democrat,Liberal Democrat,22.6,1234,gb -- liberal democrat,Liberal Democrat
+GB,GB-2-19,,1,,Other (nir),,0.5,3026,gb -- other (nir),Other (nir)
+GB,GB-6-5,,,,Plaid Cymru,Plaid Cymru,1.5,1227,gb -- plaid cymru,Plaid Cymru
+GB,GB-7-4,,,,Scottish National Party,Scottish National Party,2.8,1198,gb -- scottish national party,Scottish National Party
+GB,GB-3-12,,,,Sinn Fein,,0.1,3027,gb -- sinn fein,Sinn Fein
+GB,GB-2-10,,,,Sinn Fein (nir),,0.6,3028,gb -- sinn fein (nir),Sinn Fein (nir)
+GB,GB-3-13,,,,Social Democratic and Labour Party,Social Democratic and Labour Party,0.5,1968,gb -- social democratic and labour party,Social Democratic and Labour Party
+GB,GB-4-11,,,,Social Democratic and Labour Party (nir),,1.1,3029,gb -- social democratic and labour party (nir),Social Democratic and Labour Party (nir)
+GB,GB-7-7,,,,Uk Independence Party,Uk Independence Party,7.5,1481,gb -- uk independence party,UK Independence Party
+GB,GB-3-10,,,,Ulster Unionist Party,,0.5,3030,gb -- ulster unionist party,Ulster Unionist Party
+GB,GB-1-8,,,,Ulster Unionist Party (nir),,0.8,3031,gb -- ulster unionist party (nir),Ulster Unionist Party (nir)
+GB,GB-1-14,,,,United Kingdom Unionist Party (nir),,0.2,3032,gb -- united kingdom unionist party (nir),United Kingdom Unionist Party (nir)
+GB,GB-1-15,,,,Women's Coalition (nir),,0.1,3033,gb -- women's coalition (nir),Women's Coalition (nir)
+GR,GR-4-4,,,SYRIZA,Coalition of the Radical Left - SYRIZA/The Coalition of the Radical Left (SYRIZA),,6.7,1350,gr -- coalition of the radical left - syriza,Coalition of the Radical Left - SYRIZA
+GR,GR-4-3,,,KKE,The Communist Party of Greece,Communist party,10,1649,gr -- communist party - kke,Communist Party - KKE
+GR,GR-1-5,,,DIKKI,Democratic Social Movement,,0.8,1612,gr -- dikki (democratic social movement),DIKKI (Democratic Social Movement)
+GR,GR-5-10,,,,Golden Dawn (Xrusi Augi),,0.2,1475,gr -- golden dawn (xrusi augi),Golden Dawn (Xrusi Augi)
+GR,GR-4-6,,,OP,The Ecologist Greens,,3.2,1450,gr -- greens,Greens
+GR,GR-5-14,,,SPITHA,Independent Citizens' Movement,,0.2,1237,gr -- independent citizens' movement (spitha),Independent Citizens' Movement (SPITHA)
+GR,GR-5-9,,1,,Invalid,,1,1865,gr -- invalid,Invalid
+GR,GR-1-3,GR-4-3,,KKE,The Communist Party of Greece,Communist party,5.3,1649,gr -- kke (communist party),KKE (Communist party)
+GR,GR-2-3,GR-4-3,,KKE,The Communist Party of Greece,Communist party,5.2,1649,gr -- kke communist party),KKE Communist Party)
+GR,GR-2-6,,,LAOS,LAOS (Popular Orthodox Party)/Popular Orthodox Rally - LAOS/The Popular Orthodox Rally (LAOS),,1.5,1160,gr -- laos (popular orthodox party),LAOS (Popular Orthodox Party)
+GR,GR-2-2,,,ND,,New Democracy,54.8,1024,gr -- nd (new democracy),ND (New Democracy)
+GR,GR-4-2,GR-2-2,,ND,,New Democracy,33,1024,gr -- new democracy - nd,New Democracy - ND
+GR,GR-5-2,GR-2-2,,ND,,New Democracy,26.1,1024,gr -- new democracy (nd),New Democracy (ND)
+GR,GR-5-8,,1,,No one,,0.8,1483,gr -- no one,No one
+GR,GR-5-7,,1,,Null,,3,1218,gr -- null,Null
+GR,GR-1-6,,1,,Other,,3.8,1020,gr -- other parties,Other parties
+GR,GR-4-1,,,PASOK,Panhellenic Socialist Movement – PASOK/The Panhellenic Socialist Movement (PASOK),Panhellenic Socialist Movement,43.2,1424,gr -- panhellenic socialist movement – pasok,Panhellenic Socialist Movement – PASOK
+GR,GR-1-1,GR-4-1,,PASOK,Panhellenic Socialist Movement – PASOK/The Panhellenic Socialist Movement (PASOK),Panhellenic Socialist Movement,49.2,1424,gr -- pasok (panhellenic socialist movement),PASOK (Panhellenic Socialist Movement)
+GR,GR-4-5,GR-2-6,,LAOS,LAOS (Popular Orthodox Party)/Popular Orthodox Rally - LAOS/The Popular Orthodox Rally (LAOS),,3.9,1160,gr -- popular orthodox rally - laos,Popular Orthodox Rally - LAOS
+GR,GR-5-13,,,KOTES,Smokers' Groups for Art and Visual Formation (KOTES),,0.1,1552,gr -- smokers' groups for art and visual formation (kotes),Smokers' Groups for Art and Visual Formation (KOTES)
+GR,GR-2-4,,,SYN,Left Wing Coalition,,4,1566,gr -- syn (left wing coalition),SYN (Left Wing Coalition)
+GR,GR-5-12,,,ANTAR,,The Anticapitalist Left Cooperation for the Overthrow,0.2,3034,gr -- the anticapitalist left cooperation for the overthrow (antar,The Anticapitalist Left Cooperation for the Overthrow (ANTAR
+GR,GR-5-5,GR-4-4,,SYRIZA,Coalition of the Radical Left - SYRIZA/The Coalition of the Radical Left (SYRIZA),,5,1350,gr -- the coalition of the radical left (syriza),The Coalition of the Radical Left (SYRIZA)
+GR,GR-5-3,GR-4-3,,KKE,The Communist Party of Greece,Communist party,9,1649,gr -- the communist party of greece (kke),The Communist Party of Greece (KKE)
+GR,GR-5-6,GR-4-6,,OP,The Ecologist Greens,,3,1450,gr -- the ecologist greens (op),The Ecologist Greens (OP)
+GR,GR-5-11,,,FS,The Liberal Alliance,,0.2,1347,gr -- the liberal alliance (fs),The Liberal Alliance (FS)
+GR,GR-5-1,GR-4-1,,PASOK,Panhellenic Socialist Movement – PASOK/The Panhellenic Socialist Movement (PASOK),Panhellenic Socialist Movement,47.2,1424,gr -- the panhellenic socialist movement (pasok),The Panhellenic Socialist Movement (PASOK)
+GR,GR-5-4,GR-2-6,,LAOS,LAOS (Popular Orthodox Party)/Popular Orthodox Rally - LAOS/The Popular Orthodox Rally (LAOS),,4.2,1160,gr -- the popular orthodox rally (laos),The Popular Orthodox Rally (LAOS)
+HR,HR-4-1,,,HDZ,,Hrvatska demokrtska zajednica /Hrvatska demokratska zajednica,45.1,1712,hr -- hrvatska demokratska zajednica (hdz),Hrvatska demokratska zajednica (HDZ)
+HR,HR-4-3,,,HNS,,Hrvatska narodna stranka - Liberalni demokrati,5.4,1118,hr -- hrvatska narodna stranka - liberalni demokrati (hns),Hrvatska narodna stranka - Liberalni demokrati (HNS)
+HR,HR-4-4,,,HSS,,Hrvatska seljacka stranka,5.4,1421,hr -- hrvatska seljacka stranka (hss),Hrvatska seljacka stranka (HSS)
+HR,HR-5-9,,,HSP,,Hrvatska stranka prava,4.1,1157,hr -- hrvatska stranka prava (hsp),Hrvatska stranka prava (HSP)
+HR,HR-5-10,,,HSU,,Hrvatska stranka umirovljenika,4.6,1151,hr -- hrvatska stranka umirovljenika (hsu),Hrvatska stranka umirovljenika (HSU)
+HR,HR-5-7,,,HDSSB,,Hrvatski demokratski savez Slavonije i Baranje,1.2,1603,hr -- hrvatski demokratski savez slavonije i baranje (hdssb),Hrvatski demokratski savez Slavonije i Baranje (HDSSB)
+HR,HR-5-5,,,HSLS,,Hrvatsko socijalno-liberalna stranka,2.2,1881,hr -- hrvatsko socijalno-liberalna stranka (hsls),Hrvatsko socijalno-liberalna stranka (HSLS)
+HR,HR-5-6,,,IDS,,Istarski demokrtski sabor /Istarski demokratski sabor,2.5,1385,hr -- istarski demokratski sabor (ids),Istarski demokratski sabor (IDS)
+HR,HR-5-8,,,SDSS,,Samostalna demokratska Srpska stranka,1.4,1719,hr -- samostalna demokratska srpska stranka (sdss),Samostalna demokratska Srpska stranka (SDSS)
+HR,HR-4-2,,,SDP,,Socijaldemokratska partija Hrvatske,32.5,1019,hr -- socijaldemokratska partija hrvatske (sdp),Socijaldemokratska partija Hrvatske (SDP)
+HU,HU-1-1,,,CENTRUMP,Center Party/Centrum Part,Centrumpárt / Centrum Párt Centrum Összefogás Magyarországért,1.4,1355,hu -- center party,Center Party
+HU,HU-5-7,HU-1-1,,CENTRUMP,Center Party/Centrum Part,Centrumpárt / Centrum Párt Centrum Összefogás Magyarországért,0.1,1355,hu -- centrum part,Centrum Part
+HU,HU-6-1,HU-1-1,,CENTRUMP,Center Party/Centrum Part,Centrumpárt / Centrum Párt Centrum Összefogás Magyarországért,0.1,1355,hu -- centrum párt (centrum összefogás magyarországért),Centrum Párt (Centrum Összefogás Magyarországért)
+HU,HU-4-7,,,,,Centrumpárt,0.5,1975,hu -- centrumpárt,Centrumpárt
+HU,HU-4-7,HU-1-1,,CENTRUMP,Center Party/Centrum Part,Centrumpárt / Centrum Párt Centrum Összefogás Magyarországért,0.5,1355,hu -- centrumpárt,Centrumpárt
+HU,HU-6-2,,,CM,,Civil Mozgalom,0.3,1769,hu -- cm (civil mozgalom),CM (Civil Mozgalom)
+HU,HU-2-7,,,FFD-F/SZDSZ,FFD-Free Democrats,/ Szabad Demokraták Szövetsége - A Magyar Liberális Párt,4.5,1178,hu -- ffd-free democrats,FFD-Free Democrats
+HU,HU-5-1,,,KDNP,,Fidesz - /Fidesz - Fidesz – Magyar Polgári Szövetség Kereszténydemokrata Néppárt,63.3,1397,hu -- fidesz - kdnp,Fidesz - KDNP
+HU,HU-6-3,,,Fidesz-KDNP,,Fidesz – Magyar Polgári Szövetség Keresztényd,63.3,3035,hu -- fidesz - kdnp (fidesz – magyar polgári szövetség keresztényd,Fidesz - KDNP (Fidesz – Magyar Polgári Szövetség Keresztényd
+HU,HU-2-2,,,FYD-HDF,Fed.of Young Democrats&Hungarian Dem.Forum,,46.5,1537,hu -- fyd-hdf fed.of young democrats&hungarian dem.forum,FYD-HDF Fed.of Young Democrats&Hungarian Dem.Forum
+HU,HU-3-3,,,HTJP-H/MI,Hungarian Truth,Harmadik Út ÉP - Jobbik Magyarországért/ÉP - Jobbik a Harmadik Út,0.7,1811,hu -- harmadik út (miép - jobbik magyarországért),Harmadik Út (MIÉP - Jobbik Magyarországért)
+HU,HU-1-5,,,HSP-H/MSZP,Hungarian Socialist Party,/ Magyar Szocialista Párt,50.6,1655,hu -- hsp-hungarian socialist party,HSP-Hungarian Socialist Party
+HU,HU-1-4,HU-3-3,,HTJP-H/MI,Hungarian Truth,Harmadik Út ÉP - Jobbik Magyarországért/ÉP - Jobbik a Harmadik Út,1.4,1811,hu -- htjp-hungarian truth,HTJP-Hungarian Truth
+HU,HU-1-3,,,ISHP-I/FKNP,ISHP-Independent Small Holders,,0.8,1543,hu -- ishp-independent small holders,ISHP-Independent Small Holders
+HU,HU-7-2,,,,,Jobbik Jobbik Magyarországért Mozgalom/Jobbik Magyarországért Mozgalom/Jobbik Magyarorszagert Mozgalom,18.7,1797,hu -- jobbik (jobbik magyarországért mozgalom),Jobbik (Jobbik Magyarországért Mozgalom)
+HU,HU-5-11,HU-7-2,,,,Jobbik Jobbik Magyarországért Mozgalom/Jobbik Magyarországért Mozgalom/Jobbik Magyarorszagert Mozgalom,11.4,1797,hu -- jobbik magyarorszagert mozgalom,Jobbik Magyarorszagert Mozgalom
+HU,HU-4-8,,,KDNP,Keresztenydemokrata Part - Kereszteny Centrum Osszefogas,/Kereszténydemokrata Párt - Keresztény Centrum Összefogás/ Kereszténydemokrata Néppárt,0.1,1560,hu -- kereszténydemokrata párt - keresztény centrum összefogás,Kereszténydemokrata Párt - Keresztény Centrum Összefogás
+HU,HU-5-13,,,LMP,,Lehet Mas a Politika / Lehet Más A Politika,6.3,1469,hu -- lehet mas a politika (lmp),Lehet Mas a Politika (LMP)
+HU,HU-7-3,HU-5-13,,LMP,,Lehet Mas a Politika / Lehet Más A Politika,5.6,1469,hu -- lmp (lehet más a politika),LMP (Lehet Más A Politika)
+HU,HU-5-9,,,,Magyar Videk es Polgari Part,,0.2,1602,hu -- magyar videk es polgari part,Magyar Videk es Polgari Part
+HU,HU-4-9,HU-5-9,,,Magyar Videk es Polgari Part,,0.1,1602,hu -- magyar vidék és polgári párt,Magyar Vidék és Polgári Párt
+HU,HU-5-12,,,,,Magyarorszagi Szocialdemokrata Part,0.2,2029,hu -- magyarorszagi szocialdemokrata part,Magyarorszagi Szocialdemokrata Part
+HU,HU-3-2,,,HDF-/MDF,Hungarian Democratic Forum,Magyar Demokrata Fórum / Jólét És Szabadság,2.9,1340,hu -- mdf,MDF
+HU,HU-6-6,,,MDF,,Magyar Demokrata Fórum,0.2,2054,hu -- mdf (magyar demokrata fórum),MDF (Magyar Demokrata Fórum)
+HU,HU-4-3,HU-3-3,,HTJP-H/MI,Hungarian Truth,Harmadik Út ÉP - Jobbik Magyarországért/ÉP - Jobbik a Harmadik Út,0.7,1811,hu -- miép - jobbik a harmadik út,MIÉP - Jobbik a Harmadik Út
+HU,HU-6-7,,,MI/MIEP,,ÉP//ÉP Magyar Igazság És Élet Pártja,0.1,1135,hu -- miép (magyar igazság és élet pártja),MIÉP (Magyar Igazság És Élet Pártja)
+HU,HU-6-9,,,MSZDP,,Magyar Szociáldemokrata Párt,0.2,1318,hu -- mszdp (magyar szociáldemokrata párt),MSZDP (Magyar Szociáldemokrata Párt)
+HU,HU-3-4,HU-1-5,,HSP-H/MSZP,Hungarian Socialist Party,/ Magyar Szocialista Párt,45.1,1655,hu -- mszp,MSZP
+HU,HU-6-8,HU-1-5,,HSP-H/MSZP,Hungarian Socialist Party,/ Magyar Szocialista Párt,22.9,1655,hu -- mszp (magyar szocialista párt),MSZP (Magyar Szocialista Párt)
+HU,HU-7-4,,,,MSZP-Együtt-DK-PM-MLP,Kormányváltók,26.2,3036,hu -- mszp-együtt-dk-pm-mlp (kormányváltók),MSZP-Együtt-DK-PM-MLP (Kormányváltók)
+HU,HU-5-5,,,MUNKÁSPÁRT,Workers Party,Munkáspárt Magyar Kommunista Munkáspárt,0.2,1809,hu -- munkaspart,Munkaspart
+HU,HU-4-5,,,,,Munkáspárt,0.6,1974,hu -- munkáspárt,Munkáspárt
+HU,HU-4-5,HU-5-5,,MUNKÁSPÁRT,Workers Party,Munkáspárt Magyar Kommunista Munkáspárt,0.6,1809,hu -- munkáspárt,Munkáspárt
+HU,HU-7-5,HU-5-5,,MUNKÁSPÁRT,Workers Party,Munkáspárt Magyar Kommunista Munkáspárt,0.7,1809,hu -- munkáspárt (magyar kommunista munkáspárt),Munkáspárt (Magyar Kommunista Munkáspárt)
+HU,HU-1-8,,1,,,None of them,0.2,1939,hu -- none of them,None of them
+HU,HU-3-8,,1,,Other,,0.2,1781,hu -- other party,Other party
+HU,HU-3-6,HU-2-7,,FFD-F/SZDSZ,FFD-Free Democrats,/ Szabad Demokraták Szövetsége - A Magyar Liberális Párt,3.5,1178,hu -- szdsz,SZDSZ
+HU,HU-6-13,,,SZDSZ,,Szabad Demokraták Szövetsége - A Magyar Liberális Pár,0.3,3037,hu -- szdsz (szabad demokraták szövetsége - a magyar liberális pár,SZDSZ (Szabad Demokraták Szövetsége - A Magyar Liberális Pár
+HU,HU-2-6,HU-5-5,,MUNKÁSPÁRT,Workers Party,Munkáspárt Magyar Kommunista Munkáspárt,1.3,1809,hu -- wp-workers party,WP-Workers Party
+IE,IE-2-1,,,,Fianna Fail,Fianna Fáil,50.7,1344,ie -- fianna fail,Fianna Fail
+IE,IE-7-1,IE-2-1,,,Fianna Fail,Fianna Fáil,22.9,1344,ie -- fianna fáil,Fianna Fáil
+IE,IE-5-2,,,,Fine Gael,,46.7,1092,ie -- fine gael,Fine Gael
+IE,IE-3-5,,,,Green Party,,3.9,1038,ie -- green party,Green Party
+IE,IE-7-4,,1,,Independent,,15.5,1321,ie -- independent,Independent
+IE,IE-6-5,,,,Labour,,14.8,1235,ie -- labour,Labour
+IE,IE-7-6,,,,People Before Profit,,0.7,1345,ie -- people before profit,People Before Profit
+IE,IE-1-4,,,,Progressive Democrats,,3.5,1119,ie -- progressive democrats,Progressive Democrats
+IE,IE-2-6,,,,Sinn Fein,,6,2030,ie -- sinn fein,Sinn Fein
+IE,IE-7-7,IE-2-6,,,Sinn Fein,,13.5,2030,ie -- sinn féin,Sinn Féin
+IE,IE-5-8,,,,Socialist Party,,0.3,1554,ie -- socialist party,Socialist Party
+IE,IE-5-9,,,,United Left Alliance,,0.3,1725,ie -- united left alliance,United Left Alliance
+IL,IL-6-18,,,,A white ballot (empty ballot note),,0.3,1598,il -- a white ballot (empty ballot note),A white ballot (empty ballot note)
+IL,IL-5-12,,,,,Ale Yarok,0.8,1003,il -- ale yarok,Ale Yarok
+IL,IL-1-7,,,,,Am ehad,0.4,1640,il -- am ehad,Am ehad
+IL,IL-5-15,,,,,Balad,3.1,1861,il -- balad,Balad
+IL,IL-4-18,,,,blank ballot,,0.4,1805,il -- blank ballot,blank ballot
+IL,IL-5-19,,,,Did not vote,,0.3,1902,il -- did not vote,Did not vote
+IL,IL-6-8,,,,Pensioners of Israel to the Knesset/Gil- Gimlaey Israeli la' Knesset,Gimlaim,1,1782,il -- gil- gimlaey israeli la' knesset,Gil- Gimlaey Israeli la' Knesset
+IL,IL-1-16,IL-6-8,,,Pensioners of Israel to the Knesset/Gil- Gimlaey Israeli la' Knesset,Gimlaim,0.1,1782,il -- gimlaim,Gimlaim
+IL,IL-6-2,,,,,Likud/Ha' Likud,35.4,1666,il -- ha' likud,Ha' Likud
+IL,IL-5-10,,,,,Haehud haleumi/Ha'ihud HaLeumi,2.1,1810,il -- ha'ihud haleumi,Ha'ihud HaLeumi
+IL,IL-4-1,,,HaAvoda,The Israeli Labor Party,Mifleget Ha' Avoda,13.5,1628,il -- haavoda- the israeli labor party,HaAvoda- the Israeli Labor Party
+IL,IL-7-6,,,,,HaBayit HaYehudi,6.8,3038,il -- habayit hayehudi,HaBayit HaYehudi
+IL,IL-1-17,,,,,Hadash,4.2,1310,il -- hadash,Hadash
+IL,IL-1-13,,,,,Hadereh hashlishit,0.1,1531,il -- hadereh hashlishit,Hadereh hashlishit
+IL,IL-1-9,IL-5-10,,,,Haehud haleumi/Ha'ihud HaLeumi,1.8,1810,il -- haehud haleumi,Haehud haleumi
+IL,IL-7-2,,,,,HaLikud,27.7,3039,il -- halikud,HaLikud
+IL,IL-7-1,,,,,HaMahane HaTzioni,17.6,3040,il -- hamahane hatzioni,HaMahane HaTzioni
+IL,IL-1-20,,,,,Haravi Hahadash,0.1,1497,il -- haravi hahadash,Haravi Hahadash
+IL,IL-7-12,,,,,HaReshima HaArvit,0.4,3041,il -- hareshima haarvit,HaReshima HaArvit
+IL,IL-7-11,,,,,HaReshima HaMeshutefet,14.1,3042,il -- hareshima hameshutefet,HaReshima HaMeshutefet
+IL,IL-6-11,,,,,HaTnu`a HaYeruqa,0.5,1906,il -- hatnu`a hayeruqa,HaTnu`a HaYeruqa
+IL,IL-1-19,,,,,Hatnua Harabit Hameauhedet,1.9,1337,il -- hatnua harabit hameauhedet,Hatnua Harabit Hameauhedet
+IL,IL-4-16,,,,,HaYerukim,0.7,1577,il -- hayerukim,HaYerukim
+IL,IL-1-1,,,,,Israel ahat,26.9,1663,il -- israel ahat,Israel ahat
+IL,IL-1-11,,,,,Israel baliya,2.6,1907,il -- israel baliya,Israel baliya
+IL,IL-5-9,,,,,Yisrael Beiteinu,9.2,1423,il -- israel beiteinu,Israel Beiteinu
+IL,IL-1-12,IL-5-9,,,,Yisrael Beiteinu,1.4,1423,il -- israel byteno,Israel byteno
+IL,IL-4-3,,,,,Kadima,22.5,1685,il -- kadima,Kadima
+IL,IL-7-9,,,,,Kulanu,5.7,3043,il -- kulanu,Kulanu
+IL,IL-1-2,IL-6-2,,,,Likud/Ha' Likud,34.6,1666,il -- likud,Likud
+IL,IL-1-5,,,,National Religious Party / The Jewish House,Mafdal,3.2,1563,il -- mafdal,Mafdal
+IL,IL-1-4,,,,,Meretz,7.2,1892,il -- meretz,Meretz
+IL,IL-6-1,,,,,Mifleget Ha' Avoda,12,2056,il -- mifleget ha' avoda,Mifleget Ha' Avoda
+IL,IL-6-1,IL-4-1,,HaAvoda,The Israeli Labor Party,Mifleget Ha' Avoda,12,1628,il -- mifleget ha' avoda,Mifleget Ha' Avoda
+IL,IL-4-6,IL-1-5,,,National Religious Party / The Jewish House,Mafdal,3.6,1563,il -- national religious party,National Religious Party
+IL,IL-1-21,,1,,Other,,1.6,1009,il -- other party,Other party
+IL,IL-4-8,IL-6-8,,,Pensioners of Israel to the Knesset/Gil- Gimlaey Israeli la' Knesset,Gimlaim,4.7,1782,il -- pensioners of israel to the knesset,Pensioners of Israel to the Knesset
+IL,IL-1-14,,,,,Pnina Rozenblum,0.3,1749,il -- pnina rozenblum,Pnina Rozenblum
+IL,IL-5-16,,,,,Ra'am- Ta'al,3.4,1882,il -- ra'am- ta'al,Ra'am- Ta'al
+IL,IL-4-4,,,,,Shase/Shas,8.7,1868,il -- shas,Shas
+IL,IL-1-3,IL-4-4,,,,Shase/Shas,4.2,1868,il -- shase,Shase
+IL,IL-4-14,,,,,Shinui,0.6,1307,il -- shinui,Shinui
+IL,IL-1-8,IL-4-14,,,,Shinui,3.3,1307,il -- shinuy,Shinuy
+IL,IL-1-10,,,,The center party,,1.1,1478,il -- the center party,The center party
+IL,IL-6-6,IL-1-5,,,National Religious Party / The Jewish House,Mafdal,3.7,1563,il -- the jewish house,The Jewish House
+IL,IL-1-15,,,,,Tzomet,0.1,1168,il -- tzomet,Tzomet
+IL,IL-4-7,,,,United Torah Judaism,"Yahadut-hatora, Agudat-Isarel, Degel-hatora",8.9,1846,il -- united torah judaism,United Torah Judaism
+IL,IL-7-15,,,,White Ballot,,0.7,1717,il -- white ballot,White ballot
+IL,IL-6-7,IL-4-7,,,United Torah Judaism,"Yahadut-hatora, Agudat-Isarel, Degel-hatora",4.9,1846,il -- ya'hadut ha'tora,Ya'Hadut Ha'Tora
+IL,IL-7-10,,,,,Yachad,1.7,3044,il -- yachad,Yachad
+IL,IL-7-7,,,,,Yahadut HaTora,2.8,3045,il -- yahadut hatora,Yahadut HaTora
+IL,IL-1-6,IL-4-7,,,United Torah Judaism,"Yahadut-hatora, Agudat-Isarel, Degel-hatora",2.1,1846,"il -- yahadut-hatora, agudat-isarel, degel-hatora","Yahadut-hatora, Agudat-Isarel, Degel-hatora"
+IL,IL-7-8,,,,,Yesh Atid,7.7,1629,il -- yesh atid,Yesh Atid
+IL,IL-4-9,IL-5-9,,,,Yisrael Beiteinu,6.7,1423,il -- yisrael beiteinu,Yisrael Beiteinu
+IS,IS-2-6,,,,Blank vote,,2.9,1573,is -- blank vote,Blank vote
+IS,IS-6-6,,,,,Borgarahreyfinguna,3.9,1461,is -- borgarahreyfinguna,Borgarahreyfinguna
+IS,IS-6-2,,,,Progressive Party,Framsóknarflokkinn,13.9,1599,is -- framsóknarflokkinn,Framsóknarflokkinn
+IS,IS-6-5,,,,Liberal Party,Frjálslynda flokkinn,1,1146,is -- frjálslynda flokkinn,Frjálslynda flokkinn
+IS,IS-2-4,,,,Independence Party,,29.6,1530,is -- independence party,Independence Party
+IS,IS-2-2,IS-6-5,,,Liberal Party,Frjálslynda flokkinn,6.6,1146,is -- liberal party,Liberal Party
+IS,IS-2-7,,,1,Other,,0.5,1848,is -- other parties,Other parties
+IS,IS-2-1,IS-6-2,,,Progressive Party,Framsóknarflokkinn,20.8,1599,is -- progressive party,Progressive Party
+IS,IS-6-1,,,,Social Democratic Alliance,Samfylkinguna,27.7,1392,is -- samfylkinguna,Samfylkinguna
+IS,IS-6-3,,,,,Sjálfstæðisflokkinn,29.5,1206,is -- sjálfstæðisflokkinn,Sjálfstæðisflokkinn
+IS,IS-6-8,,,,,Skilaði auðu/ógildu,3.7,1583,is -- skilaði auðu/ógildu,Skilaði auðu/ógildu
+IS,IS-2-3,IS-6-1,,,Social Democratic Alliance,Samfylkinguna,29.2,1392,is -- social democratic alliance,Social Democratic Alliance
+IS,IS-2-5,,,,The Left Green Movement,,10.4,1078,is -- the left green movement,The Left Green Movement
+IS,IS-6-4,,,,,Vinstri hreyfinguna-Grænt framboð,20.4,1444,is -- vinstri hreyfinguna-grænt framboð,Vinstri hreyfinguna-Grænt framboð
+IT,IT-2-8,,,,,Alleanza Nazionale,13.1,1443,it -- alleanza nazionale,Alleanza Nazionale
+IT,IT-6-14,,1,,,Altro,3,1924,it -- altro,Altro
+IT,IT-2-9,,,CCD-CDU,,,2.2,1263,it -- ccd-cdu,CCD-CDU
+IT,IT-1-9,IT-2-9,,,,CCD-CDU (Biancofiore),2.4,1923,it -- ccd-cdu (biancofiore),CCD-CDU (Biancofiore)
+IT,IT-2-3,,,,,Comunisti Italiani,3.6,1305,it -- comunisti italiani,Comunisti Italiani
+IT,IT-1-1,,,,,Democratici di Sinistra,26.5,1096,it -- democratici di sinistra,Democratici di Sinistra
+IT,IT-1-13,,,,,Democrazia Europea,0.6,1353,it -- democrazia europea,Democrazia Europea
+IT,IT-1-20,,1,,,Don t know,3,3046,it -- don t know,Don t know
+IT,IT-6-12,,,FARE,,FARE - Giannino,1.7,1326,it -- fare - giannino,FARE - Giannino
+IT,IT-2-15,,,,,Fiamma Tricolore,0.5,1622,it -- fiamma tricolore,Fiamma Tricolore
+IT,IT-1-7,,,,,Forza Italia,27.6,1682,it -- forza italia,Forza Italia
+IT,IT-6-10,,,,,Fratelli d'Italia,0.4,1589,it -- fratelli d'italia,Fratelli d'Italia
+IT,IT-1-17,,,,,Ha votato solo al maggioritario,2.5,1925,it -- ha votato solo al maggioritario,Ha votato solo al maggioritario
+IT,IT-6-13,,,,,La destra,0.6,1327,it -- la destra,La destra
+IT,IT-1-2,,,,,La Margherita,12.1,1562,it -- la margherita,La Margherita
+IT,IT-2-10,,,,,Lega Nord,4.7,1317,it -- lega nord,Lega Nord
+IT,IT-2-12,,,,,Lista Di Pietro,0.9,1315,it -- lista di pietro,Lista di Pietro
+IT,IT-6-4,,,,,Movimento 5 Stelle,23.5,1037,it -- movimento 5 stelle,Movimento 5 Stelle
+IT,IT-1-11,,,PSI,,Nuovo,1,1534,it -- nuovo psi,Nuovo PSI
+IT,IT-1-14,,,,,Pannella-Bonino,1.3,1167,it -- pannella-bonino,Pannella-Bonino
+IT,IT-6-1,,,PD,,Partido Democratico,37.9,1316,it -- partido democratico (pd),Partido Democratico (PD)
+IT,IT-6-8,,,PDL,,Popolo delle Libertà,16.2,1828,it -- popolo delle libertà (pdl),Popolo delle Libertà (PDL)
+IT,IT-2-6,,,,,Rifondazione Comunista,6,1922,it -- rifondazione comunista,Rifondazione Comunista
+IT,IT-6-3,,,,,Rivoluzione Civile Ingroia,2.4,1768,it -- rivoluzione civile (ingroia),Rivoluzione Civile (Ingroia)
+IT,IT-6-5,,,,,Scelta Civica con Monti,5.2,1753,it -- scelta civica (con monti),Scelta Civica (con Monti)
+IT,IT-2-17,,1,,,Scheda bianca,0.9,3047,it -- scheda bianca,Scheda bianca
+IT,IT-6-2,,,SEL,,Sinistra Ecologia e Libertà,6,1823,it -- sinistra ecologia e libertà (sel),Sinistra Ecologia e Libertà (SEL)
+IT,IT-2-5,,,SVP,,Sudtirol Volkspartei - Partito Popolare Sudtirolese,0.1,3048,it -- svp (sudtirol volkspartei - partito popolare sudtirolese),SVP (Sudtirol Volkspartei - Partito Popolare Sudtirolese)
+IT,IT-6-6,,,UDC,,,1.7,1632,it -- udc,UDC
+IT,IT-2-18,,,,,Ulivo,0.5,3049,it -- ulivo,Ulivo
+IT,IT-1-4,,,,,Verdi e Sdi (Girasole),2.5,1920,it -- verdi e sdi (girasole),Verdi e Sdi (Girasole)
+LU,LU-2-7,,,,,Autres,3.3,1565,lu -- autres,Autres
+LU,LU-2-6,,,,,Comité d'action pour la Démocracie et la Justice Sociale,5.2,1467,lu -- comité d'action pour la démocracie et la justice sociale,Comité d'action pour la Démocracie et la Justice Sociale
+LU,LU-1-5,,,,,La Gauche,1.8,1901,lu -- la gauche,La Gauche
+LU,LU-2-4,,,,,Les Verts,9,1374,lu -- les verts,Les Verts
+LU,LU-2-1,,,PCS,,Parti Chrétien Social,46.5,1437,lu -- parti chrétien social (pcs),Parti Chrétien Social (PCS)
+LU,LU-1-3,,,PD,,Parti Démocrate,15.6,1156,lu -- parti démocrate (pd),Parti Démocrate (PD)
+LU,LU-1-2,,,PSOL,,Parti Socialiste Ouvrier Luxembourgeois,27.7,1285,lu -- parti socialiste ouvrier luxembourgeois (psol),Parti Socialiste Ouvrier Luxembourgeois (PSOL)
+NL,NL-6-12,,,,,50Plus,2.2,1818,nl -- 50plus,50Plus
+NL,NL-5-13,,,,,Blanc,0.6,1852,nl -- blanc,Blanc
+NL,NL-7-5,,,,,Christian Democratic Appeal,12.6,3050,nl -- christian democratic appeal,Christian Democratic Appeal
+NL,NL-1-1,,,,Christian Democratic Party,,29.8,1386,nl -- christian democratic party,Christian Democratic Party
+NL,NL-4-8,,,,Christian Union,,4.6,1407,nl -- christian union,Christian Union
+NL,NL-6-6,,,,Democrats 66,,9,1862,nl -- democrats `66,Democrats `66
+NL,NL-7-6,NL-6-6,,,Democrats 66,,13.5,1862,nl -- democrats 66,Democrats 66
+NL,NL-5-7,,,,Green Left,,7.8,1601,nl -- green left,Green Left
+NL,NL-2-2,,,,Labour Party,,27.6,1466,nl -- labour party,Labour Party
+NL,NL-1-4,,,,List Pim Fortuyn,,13.6,1692,nl -- list pim fortuyn,List Pim Fortuyn
+NL,NL-1-9,,,,Liveable Netherlands,,1.5,1106,nl -- liveable netherlands,Liveable Netherlands
+NL,NL-7-3,,,,,Party for Freedom,8.1,3051,nl -- party for freedom,Party for Freedom
+NL,NL-6-1,,,,Party for Freedom and Democracy / People's Party for Freedom and Democracy,,25.8,1375,nl -- party for freedom and democracy,Party for Freedom and Democracy
+NL,NL-7-10,,,,Party for the Animals,,2.2,1487,nl -- party for the animals,Party for the Animals
+NL,NL-7-1,NL-6-1,,,Party for Freedom and Democracy / People's Party for Freedom and Democracy,,24,1375,nl -- people's party for freedom and democracy,People's Party for Freedom and Democracy
+NL,NL-6-11,,,,Pirate Party,,0.4,1492,nl -- pirate party,Pirate Party
+NL,NL-2-10,,,,Social Reformed Party / Political Reformed Party,,1.1,1570,nl -- political reformed party,Political Reformed Party
+NL,NL-5-3,,,PVV,Group Geert Wilders,List Wilders,12.8,1515,nl -- pvv (list wilders),PVV (List Wilders)
+NL,NL-7-9,,,,,Reformed Political Party,2,3052,nl -- reformed political party,Reformed Political Party
+NL,NL-6-9,NL-2-10,,,Social Reformed Party / Political Reformed Party,,2.4,1570,nl -- social reformed party,Social Reformed Party
+NL,NL-7-4,,,,Socialist Party,,11,1977,nl -- socialist party,Socialist Party
+NL,NL-4-7,NL-7-4,,,Socialist Party,,12.6,1977,nl -- socialistic party,Socialistic Party
+NL,NL-5-11,,,TON,,List Verdonk,0.3,1113,nl -- ton (list verdonk),TON (List Verdonk)
+NO,NO-3-6,,,SP,Centre Party,,7,1077,no -- centre party (sp),Centre Party (Sp)
+NO,NO-1-5,,,KRF,Christian Democratic Party,,13.5,1129,no -- christian democratic party (krf),Christian Democratic Party (Krf)
+NO,NO-1-9,,,KYST,Coast Party,,0.8,1116,no -- coast party (kyst),Coast Party (KYST)
+NO,NO-7-9,NO-1-9,,KYST,Coast Party,,0.2,1116,no -- coastal party (kyst),Coastal Party (KYST)
+NO,NO-7-7,,,,Conservative Party,,30.7,1425,no -- conservative party (h),Conservative Party (H)
+NO,NO-7-10,,,MDG,,Green Party,2.5,3053,no -- green party (mdg),Green Party (MDG)
+NO,NO-6-3,,,,Labour Party,,37.6,1630,no -- labour party (a),Labour Party (A)
+NO,NO-7-4,,,,Liberal Party,,6.1,1814,no -- liberal party (v),Liberal party (V)
+NO,NO-3-8,,,FRP,Progress Party,,17.7,1059,no -- progress party (frp),Progress Party (FrP)
+NO,NO-3-1,,,RV,Red Electoral Alliance,,1.4,1678,no -- red electoral alliance (rv),Red Electoral Alliance (RV)
+NO,NO-2-2,,,SV,Socialist Left Party,,14.7,1122,no -- socialist left party (sv),Socialist left party (SV)
+NO,NO-5-1,,,DT,The Party Red,,1.9,1154,no -- the party red (rødt),The Party Red (RØDT)
+PL,PL-1-2,,,,,Akcja Wyborcza Solidarnosc Prawicy,8.6,1294,pl -- akcja wyborcza solidarnosc prawicy,Akcja Wyborcza Solidarnosc Prawicy
+PL,PL-1-8,,,,,Alternatywa Ruch Spoleczny,0.1,1335,pl -- alternatywa ruch spoleczny,Alternatywa Ruch Spoleczny
+PL,PL-4-3,,,RP,Civic Platform,Platforma Obywatelska Rzeczypospolitej Polskiej,50.2,1893,pl -- civic platform,Civic Platform
+PL,PL-7-1,,,,Congress of the New Right,Platforma Janusza Korwin-Mikke,2.2,1134,pl -- congress of the new right,Congress of the New Right
+PL,PL-6-8,,,SLD,Democratic Left Alliance,Sojusz Lewicy Demokratycznej,7.5,1517,pl -- democratic left alliance,Democratic Left Alliance
+PL,PL-3-2,,,,,Dom Ojczysty,0.1,1411,pl -- dom ojczysty,Dom Ojczysty
+PL,PL-5-6,,,,Law and Justice,Prawo i Sprawiedliwosc,34,1794,pl -- law and justice,Law and Justice
+PL,PL-4-2,,,,League of Polish Families,Liga Polskich Rodzin,1,1376,pl -- league of polish families,League of Polish Families
+PL,PL-5-1,,,,Left and Democrats,,9.9,1259,pl -- left and democrats,Left and Democrats
+PL,PL-2-10,PL-4-2,,,League of Polish Families,Liga Polskich Rodzin,7.1,1376,pl -- liga polskich rodzin,Liga Polskich Rodzin
+PL,PL-1-11,,,,,Mniejszosc Niemiecka,0.2,1764,pl -- mniejszosc niemiecka,Mniejszosc Niemiecka
+PL,PL-3-5,,,,,Ogolnopolska Koalicja Obywatelska,0.1,1034,pl -- ogolnopolska koalicja obywatelska,Ogolnopolska Koalicja Obywatelska
+PL,PL-3-19,,,1,Other,,0.3,1413,pl -- other party,Other party
+PL,PL-6-7,,,,Palikot Movement,,4.5,1896,pl -- palikot movement,Palikot Movement
+PL,PL-3-6,,,,Democratic Party,demokraci.pl,0.9,2034,pl -- partia demokratyczna demokraci.pl,Partia Demokratyczna demokraci.pl
+PL,PL-3-8,PL-7-1,,,Congress of the New Right,Platforma Janusza Korwin-Mikke,0.3,1134,pl -- platforma janusza korwin-mikke,Platforma Janusza Korwin-Mikke
+PL,PL-3-9,,,,,Platforma Obywatelska,30.2,1943,pl -- platforma obywatelska,Platforma Obywatelska
+PL,PL-3-9,PL-4-3,,RP,Civic Platform,Platforma Obywatelska Rzeczypospolitej Polskiej,30.2,1893,pl -- platforma obywatelska,Platforma Obywatelska
+PL,PL-7-3,,,,Poland Comes First,,0.3,1171,pl -- poland comes first,Poland Comes First
+PL,PL-4-4,,,,Polish Labour Party,,0.4,1867,pl -- polish labour party,Polish Labour Party
+PL,PL-6-4,PL-4-4,,,Polish Labour Party,,0.3,1867,pl -- polish labour party-august '80,Polish Labour Party-August '80
+PL,PL-4-5,,,PSL,Polish Peasants Party,Polskie Stronnictwo Ludowe,6.1,1733,pl -- polish peasants party,Polish Peasants Party
+PL,PL-1-13,,,,,Polska Partia Socjalistyczna,0.1,1391,pl -- polska partia socjalistyczna,Polska Partia Socjalistyczna
+PL,PL-2-9,,,,,Polska Wspolnota Narodowa,0.1,1459,pl -- polska wspolnota narodowa,Polska Wspolnota Narodowa
+PL,PL-1-6,,,,,Polskie Stronnictwo Ludowe,10.3,1928,pl -- polskie stronnictwo ludowe,Polskie Stronnictwo Ludowe
+PL,PL-1-6,PL-4-5,,PSL,Polish Peasants Party,Polskie Stronnictwo Ludowe,10.3,1733,pl -- polskie stronnictwo ludowe,Polskie Stronnictwo Ludowe
+PL,PL-3-14,PL-5-6,,,Law and Justice,Prawo i Sprawiedliwosc,43.9,1794,pl -- prawo i sprawiedliwosc,Prawo i Sprawiedliwosc
+PL,PL-2-4,,,,,Samoobrona Rzeczypospolitej Polskiej,11,1942,pl -- samoobrona rzeczypospolitej polskiej,Samoobrona Rzeczypospolitej Polskiej
+PL,PL-4-7,PL-2-4,,RP,Self-defence,Samoobrona Rzeczypospolitej Polskiej,1.9,1875,pl -- self-defence,Self-defence
+PL,PL-3-17,,,,Social Democratic Party of Poland,Socjaldemokracja Polska,0.8,1624,pl -- socjaldemokracja polska,Socjaldemokracja Polska
+PL,PL-3-18,PL-6-8,,SLD,Democratic Left Alliance,Sojusz Lewicy Demokratycznej,9.2,1517,pl -- sojusz lewicy demokratycznej,Sojusz Lewicy Demokratycznej
+PL,PL-1-1,,,,,Sojusz Lewicy Demokratycznej / Unia Pracy,47.8,1306,pl -- sojusz lewicy demokratycznej/unia pracy,Sojusz Lewicy Demokratycznej/Unia Pracy
+PL,PL-1-3,,,UW,,Unia Wolnosci-/Unia Wolnosci,6,1267,pl -- unia wolnosci,Unia Wolnosci
+PT,PT-1-1,,,B.E.,,Bloco de Esquerda,4.1,3054,pt -- b.e. -  bloco de esquerda,B.E. -  Bloco de Esquerda
+PT,PT-4-1,,,BE,,Bloco de Esquerda,3.2,1693,pt -- be - bloco de esquerda,BE - Bloco de Esquerda
+PT,PT-2-13,,,nulo,,Votou em branco,3.7,1621,pt -- blank vote,Blank vote
+PT,PT-7-1,PT-4-1,,BE,,Bloco de Esquerda,7,1693,pt -- bloco de esquerda (be),Bloco de Esquerda (BE)
+PT,PT-1-2,,,CDS-PP,,Centro Democrático Social -- Partido Popular,4.4,1726,pt -- cds/pp - centro democrático social / partido popular,CDS/PP - Centro Democrático Social / Partido Popular
+PT,PT-4-2,PT-1-2,,CDS-PP,,Centro Democrático Social -- Partido Popular,3.5,1726,pt -- cds/pp - centro democrático social/partido popular,CDS/PP - Centro Democrático Social/Partido Popular
+PT,PT-5-2,PT-1-2,,CDS-PP,,Centro Democrático Social -- Partido Popular,4.3,1726,pt -- centro democrático social - partido popular (cds-pp),Centro Democrático Social - Partido Popular (CDS-PP)
+PT,PT-6-3,,,CDU,,Coligação Democrática Unitária,8.8,1878,pt -- coligação democrática unitária (cdu),Coligação Democrática Unitária (CDU)
+PT,PT-1-3,,,MPT,,Movimento Partido da Terra,0.4,1806,pt -- mpt - movimento partido da terra,MPT - Movimento Partido da Terra
+PT,PT-5-7,,,PND,,Partido da Nova Democracia,0.2,1098,pt -- nova democracia (pnd),Nova democracia (PND)
+PT,PT-7-13,,1,,Other,Outro,6.5,1268,pt -- outro,Outro
+PT,PT-2-4,,,PH,,Partido Humanista,0.1,1668,pt -- p.h. - partido humanista,P.H. - Partido Humanista
+PT,PT-7-4,PT-1-5,,,,Partido Comunista dos Trabalhadores Portugueses/Movimento Re,1.2,3055,pt -- partido comunista dos trabalhadores portugueses/movimento re,Partido Comunista dos Trabalhadores Portugueses/Movimento Re
+PT,PT-6-5,,,PDA,,Partido Democrático do Atlântico,0.1,1697,pt -- partido democrático do atlântico (pda),Partido Democrático do Atlântico (PDA)
+PT,PT-5-6,,,PH,,Partido Humanista,0.2,3056,pt -- partido humanista (ph),Partido Humanista (PH)
+PT,PT-5-8,,,PNR,,Partido Nacional Renovador,0.4,1509,pt -- partido nacional renovador (pnr),Partido Nacional Renovador (PNR)
+PT,PT-5-9,,,POUS,,Partido Operário de Unidade Socialista,0.1,1278,pt -- partido operário de unidade socialista (pous),Partido Operário de Unidade Socialista (POUS)
+PT,PT-5-10,,,PSD,,Partido Social Democrata,36.4,1786,pt -- partido social democrata (psd),Partido Social Democrata (PSD)
+PT,PT-5-11,,,PS,,Partido Socialista,42.5,1731,pt -- partido socialista (ps),Partido Socialista (PS)
+PT,PT-3-3,PT-1-5,,PCP-PEV,,Partido Comunista Português - Partido Ecologista o,7.5,3057,pt -- pcp-pev - partido comunista português - partido ecologista o,PCP-PEV - Partido Comunista Português - Partido Ecologista o
+PT,PT-1-5,,,PCP/PEV,,Partido Comunista Português  Partido Ecolo,7.3,3058,pt -- pcp/pev - partido comunista português  partido ecolo,PCP/PEV - Partido Comunista Português  Partido Ecolo
+PT,PT-3-4,PT-1-6,,PCTP-MRPP,,Partido Comunista dos Trabalhadores Portugueses,0.8,3059,pt -- pctp-mrpp - partido comunista dos trabalhadores portugueses,PCTP-MRPP - Partido Comunista dos Trabalhadores Portugueses
+PT,PT-1-6,,,PCTP-MRPP,,Partido Comunista dos Trabalhadores Po / Movimento Reorganizativo do Proletariado Português,0.1,1513,pt -- pctp/mrpp - partido comunista dos trabalhadores po,PCTP/MRPP - Partido Comunista dos Trabalhadores Po
+PT,PT-3-6,,,PH,,Partido Humanista,0.1,1610,pt -- ph - partido humanista,PH - Partido Humanista
+PT,PT-4-7,PT-5-7,,PND,,Partido da Nova Democracia,0.5,1098,pt -- pnd - partido da nova democracia,PND - Partido da Nova Democracia
+PT,PT-4-8,PT-5-8,,PNR,,Partido Nacional Renovador,0.2,1509,pt -- pnr - partido nacional renovador,PNR - Partido Nacional Renovador
+PT,PT-2-9,,,PPM,,Partido Popular Monárquico,0.1,1520,pt -- ppm - partido popular monárquico,PPM - Partido Popular Monárquico
+PT,PT-4-11,PT-5-11,,PS,,Partido Socialista,53.1,1731,pt -- ps - partido socialista,PS - Partido Socialista
+PT,PT-2-11,PT-5-10,,PSD,,Partido Social Democrata,39,1786,pt -- psd - partido social democrata,PSD - Partido Social Democrata
+PT,PT-6-12,PT-2-13,,nulo,,Votou em branco,8.6,1621,pt -- votou em branco / nulo,Votou em branco / nulo
+RU,RU-3-21,,1,,Against all,,7.6,1590,ru -- against all,Against all
+RU,RU-4-6,,,APR,Agrarian Party of Russia,,1.3,1008,ru -- agrarian party of russia (apr),Agrarian Party of Russia (APR)
+RU,RU-6-2,,,KPRF,Communist Party of the Russian Federation,,18.7,1048,ru -- communist party of the russian federation (kprf),Communist Party of the Russian Federation (KPRF)
+RU,RU-3-20,,,,,Edinenie,0.1,1549,ru -- edinenie,Edinenie
+RU,RU-6-5,,,SR,Fair Russia,,7.6,1042,ru -- fair russia (sr),Fair Russia (SR)
+RU,RU-4-9,,,,Green Party,,0.1,1884,ru -- green party,Green Party
+RU,RU-6-6,,,,Just Cause,,1,1657,ru -- just cause,Just Cause
+RU,RU-5-3,,,LDPR,Liberal Democratic Party of Russia,,8.3,1319,ru -- liberal democratic party of russia (ldpr),Liberal Democratic Party of Russia (LDPR)
+RU,RU-4-7,,,,Party of Revival of Russia - Russian Party of Life,,0.1,1839,ru -- party of revival of russia – russian party of life,Party of Revival of Russia – Russian Party of Life
+RU,RU-3-10,,,,Party of the development of entrepreneurship,,0.1,1329,ru -- party of the development of entrepreneurship,Party of the development of entrepreneurship
+RU,RU-6-7,,,,Patriots of Russia,,0.7,1214,ru -- patriots of russia,Patriots of Russia
+RU,RU-3-4,,,,,Rodina,4,1414,ru -- rodina,Rodina
+RU,RU-3-8,,,,Russian party of pensioners and party of social justice,,0.6,1451,ru -- russian party of pensioners and party of social justice,Russian party of pensioners and party of social justice
+RU,RU-3-5,,,SPS,Union of Right Forces,,2.6,1044,ru -- union of right forces (sps),Union of Right Forces (SPS)
+RU,RU-4-1,,,ER,United Russia,,73.5,1220,ru -- united russia (er),United Russia (ER)
+RU,RU-6-4,,,,,Yabloko,2.2,1231,ru -- yabloko,Yabloko
+SE,SE-7-11,,1,,Other,Annat parti,1.4,1561,se -- annat parti,Annat parti
+SE,SE-5-1,,,,Centre party/Centre Party,Centern,6.6,1271,se -- centern,Centern
+SE,SE-3-1,SE-5-1,,,Centre party/Centre Party,Centern,7.7,1271,se -- centre party,Centre party
+SE,SE-1-3,,,,Christian democrats/Christian Democrats,Kristdemokraterna,8.7,1591,se -- christian democrats,Christian democrats
+SE,SE-4-5,,,,Conservative,Moderata samlingspartiet,30.9,1099,se -- conservative,Conservative
+SE,SE-7-8,,,FI,,Feministiskt initiativ,2.7,1142,se -- fi (feministiskt initiativ),FI (Feministiskt initiativ)
+SE,SE-5-2,,,,,Liberals/Folkpartiet liberalerna,8.2,1482,se -- folkpartiet liberalerna,Folkpartiet liberalerna
+SE,SE-3-4,,,,Green party/Green Party,Miljöpartiet de gröna,7.5,1408,se -- green party,Green party
+SE,SE-5-9,,,,,Junilistan,0.1,1611,se -- junilistan,Junilistan
+SE,SE-5-3,SE-1-3,,,Christian democrats/Christian Democrats,Kristdemokraterna,4.9,1591,se -- kristdemokraterna,Kristdemokraterna
+SE,SE-1-7,,,,Left,Vänsterpartiet,9.6,1177,se -- left,Left
+SE,SE-1-2,SE-5-2,,,,Liberals/Folkpartiet liberalerna,14.9,1482,se -- liberals,Liberals
+SE,SE-6-4,SE-3-4,,,Green party/Green Party,Miljöpartiet de gröna,9.7,1408,se -- miljöpartiet de gröna,Miljöpartiet de gröna
+SE,SE-5-5,SE-4-5,,,Conservative,Moderata samlingspartiet,35.3,1099,se -- moderata samlingspartiet,Moderata samlingspartiet
+SE,SE-7-9,,,,,Piratpartiet,0.6,1641,se -- piratpartiet,Piratpartiet
+SE,SE-2-6,,,,Social democrats/Social Democrats,Socialdemokraterna,42.6,1574,se -- social democrats,Social democrats
+SE,SE-6-6,SE-2-6,,,Social democrats/Social Democrats,Socialdemokraterna,31.4,1574,se -- socialdemokraterna,Socialdemokraterna
+SE,SE-7-10,,,,,Sverigedemokraterna,4.9,1836,se -- sverigedemokraterna,Sverigedemokraterna
+SE,SE-7-7,SE-1-7,,,Left,Vänsterpartiet,6.1,1177,se -- vänsterpartiet,Vänsterpartiet
+SI,SI-6-8,,,DL,Civic List,,4.8,1788,si -- civic list - dl,Civic List - DL
+SI,SI-5-1,,,DESUS,Democratic Party of Pensioners of Slovenia,,9.1,1796,si -- democratic party of pensioners of slovenia - desus,Democratic Party of Pensioners of Slovenia - DESUS
+SI,SI-1-1,SI-5-1,,DESUS,Democratic Party of Pensioners of Slovenia,,3.1,1796,si -- democratic party of pensioners of slovenia (desus),Democratic Party of Pensioners of Slovenia (DESUS)
+SI,SI-7-1,,,DESUS,,Demokraticna stranka upokojencev Slovenije,10.1,3060,si -- desus - demokraticna stranka upokojencev slovenije,DESUS - Demokraticna stranka upokojencev Slovenije
+SI,SI-7-2,,,DL,,Državljanska lista,0.2,3061,si -- dl - državljanska lista,DL - Državljanska lista
+SI,SI-3-2,,,LDS,Liberal Democracy of Slovenia,,30.7,1400,si -- liberal democracy of slovenia - lds,Liberal Democracy of Slovenia - LDS
+SI,SI-1-2,SI-3-2,,LDS,Liberal Democracy of Slovenia,,49.2,1400,si -- liberal democracy of slovenia (lds),Liberal Democracy of Slovenia (LDS)
+SI,SI-5-3,,,LIPA,,LIPA Party,1.1,3062,si -- lipa  - party,LIPA  - Party
+SI,SI-1-6,,,NS,New Slovenia -- Christian People's Party,,6.7,1186,si -- new slovenia - christian people's party (nsi),New Slovenia - Christian People's Party (NSi)
+SI,SI-2-4,SI-1-6,,NS,New Slovenia -- Christian People's Party,,6.7,1186,si -- new slovenia - christian peoples party - nsi,New Slovenia - Christian Peoples Party - NSi
+SI,SI-7-3,,,NSI,,Nova Slovenija – Kršcanski demokrati,5.9,3063,si -- nsi - nova slovenija – kršcanski demokrati,NSI - Nova Slovenija – Kršcanski demokrati
+SI,SI-7-12,,1,,Other,,2.8,1277,si -- other party,Other party
+SI,SI-6-11,,,TRS,Party for Sustainable Development,,0.5,1575,si -- party for sustainable development - trs,Party for Sustainable Development - TRS
+SI,SI-6-7,,,PS,Positive Slovenia,,24.7,1704,si -- positive slovenia - ps,Positive Slovenia - PS
+SI,SI-7-4,,,PS,,Pozitivna Slovenija,2.3,3064,si -- ps - pozitivna slovenija,PS - Pozitivna Slovenija
+SI,SI-7-5,,,SDS,,Socialni demokrati,10.6,3065,si -- sd - socialni demokrati,SD - Socialni demokrati
+SI,SI-7-6,,,SDS,,Slovenska demokratska stranka,15.7,3066,si -- sds - slovenska demokratska stranka,SDS - Slovenska demokratska stranka
+SI,SI-4-7,,,SNS,Slovene National Party,,6.2,1860,si -- slovene national party - sns,Slovene National Party - SNS
+SI,SI-1-4,SI-4-7,,SNS,Slovene National Party,,2.8,1860,si -- slovene national party (sns),Slovene National Party (SNS)
+SI,SI-1-3,,,SLS,Slovene People's Party,,13.3,1660,si -- slovene people's party (sls),Slovene People's Party (SLS)
+SI,SI-3-3,SI-1-3,,SLS,Slovene People's Party,,8.9,1660,si -- slovene peoples party - sls,Slovene Peoples Party - SLS
+SI,SI-1-8,,,SMS,Slovene Youth Party,,3.4,1816,si -- slovene youth party (sms),Slovene Youth Party (SMS)
+SI,SI-2-1,,,SDS,Social Democratic Party of Slovenia,,39.1,1470,si -- slovenian democratic party - sds,Slovenian Democratic Party - SDS
+SI,SI-3-5,SI-2-1,,SDS,Social Democratic Party of Slovenia,,35.1,1470,si -- slovenian democratic party- sds,Slovenian Democratic Party- SDS
+SI,SI-7-7,,,SLS,,Slovenska ljudska stranka,5.2,3067,si -- sls  - slovenska ljudska stranka,SLS  - Slovenska ljudska stranka
+SI,SI-7-8,,,SMC,,Stranka Mira Cerarja,37.9,3068,si -- smc - stranka mira cerarja,SMC - Stranka Mira Cerarja
+SI,SI-1-5,SI-2-1,,SDS,Social Democratic Party of Slovenia,,13.6,1470,si -- social democratic party of slovenia (sds),Social Democratic Party of Slovenia (SDS)
+SI,SI-4-8,,,SD,Social Democrats,,38.9,1131,si -- social democrats - sd,Social Democrats - SD
+SI,SI-2-3,,,ZLSD,United List of Social Democrats,,13,1309,si -- united list of social democrats - zlsd,United List of Social Democrats - ZLSD
+SI,SI-1-7,SI-2-3,,ZLSD,United List of Social Democrats,,7.9,1309,si -- united list of social democrats (zlsd),United List of Social Democrats (ZLSD)
+SI,SI-7-9,,,VERJAMEM,,Stranka Igorja Šoltesa,0.3,3069,si -- verjamem - stranka igorja šoltesa,VERJAMEM - Stranka Igorja Šoltesa
+SI,SI-7-10,,,ZAAB,,Zavezništvo Alenke Bratušek,3.3,3070,si -- zaab - zavezništvo alenke bratušek,ZAAB - Zavezništvo Alenke Bratušek
+SI,SI-4-9,,,ZARES,New Politics,,8,1352,si -- zares - new politics,ZARES - New Politics
+SI,SI-7-11,,,ZL,,"Združena levica (DSD, IDS in Stranka TRS)",5.7,3071,"si -- zl - združena levica (dsd, ids in stranka trs)","ZL - Združena levica (DSD, IDS in Stranka TRS)"
+SK,SK-2-6,,,ANO,New Citizen's Alliance,,8.2,1642,sk -- ano new citizen's alliance,ANO New Citizen's Alliance
+SK,SK-6-5,,,KDH,Christian Democratic Movement,,13.5,1239,sk -- christian democratic movement (kdh),Christian Democratic Movement (KDH)
+SK,SK-5-6,,,,Freedom and Solidarity,,8.8,1379,sk -- freedom and solidarity (sas),Freedom and Solidarity (SaS)
+SK,SK-2-1,,,HZDS,Movement for a Democratic Slovakia,,29.6,1706,sk -- hzds movement for a democratic slovakia,HZDS Movement for a Democratic Slovakia
+SK,SK-2-5,SK-6-5,,KDH,Christian Democratic Movement,,9.2,1239,sk -- kdh christian democratic movement,KDH Christian Democratic Movement
+SK,SK-2-7,,,KSS,Communist Party of Slovakia,,4.7,1225,sk -- kss communist party of slovakia,KSS Communist Party of Slovakia
+SK,SK-5-4,,,,,Most-Híd,6.9,1189,sk -- most-híd,Most-Híd
+SK,SK-4-1,SK-2-1,,HZDS,Movement for a Democratic Slovakia,,9,1706,sk -- movement for a democratic slovakia (hzds),Movement for a Democratic Slovakia (HZDS)
+SK,SK-6-1,,,OL,Ordinary People and Independent Personalities,,6,1647,sk -- ordinary people and independent personalities (olano),Ordinary People and Independent Personalities (OLaNO)
+SK,SK-3-4,,,SMK,Party of Hungarian Coalition,,10.9,1620,sk -- party of hungarian coalition (smk),Party of Hungarian Coalition (SMK)
+SK,SK-2-2,,,SDKU,Slovak Democratic Christian Union,,21.1,1399,sk -- sdku slovak democratic christian union,SDKU Slovak Democratic Christian Union
+SK,SK-3-2,SK-2-2,,SDKU,Slovak Democratic Christian Union,,20.8,1399,sk -- slovak democratic christian union (sdku),Slovak Democratic Christian Union (SDKU)
+SK,SK-3-6,,,SNS,Slovak National Party,,11,1290,sk -- slovak national party (sns),Slovak National Party (SNS)
+SK,SK-4-3,,,SMER/SMER-S,Social Democracy,,45.1,1121,sk -- smer,SMER
+SK,SK-6-3,SK-4-3,,SMER/SMER-S,Social Democracy,,57,1121,sk -- smer-social democracy,SMER-Social Democracy
+SK,SK-2-4,SK-3-4,,SMK,Party of Hungarian Coalition,,8.2,1620,sk -- smk party of hungarian coalition,SMK Party of Hungarian Coalition
+TR,TR-4-1,,,AKP,,Adalet Kalkinma Partisi,58.1,1462,tr -- adalet kalkinma partisi (akp),Adalet Kalkinma Partisi (AKP)
+TR,TR-2-1,TR-4-1,,AKP,,Adalet Kalkinma Partisi,59.2,1462,tr -- akp-adalet ve kalkinma partisi,AKP-Adalet ve Kalkinma Partisi
+TR,TR-2-2,,,ANAP,,Anavatan Partisi,2.2,1224,tr -- anap-anavatan partisi,ANAP-Anavatan Partisi
+TR,TR-4-2,TR-2-2,,ANAP,,Anavatan Partisi,0.2,1224,tr -- anavatan partisi (anap),Anavatan Partisi (ANAP)
+TR,TR-2-3,,,BBP,,Buyuk Birlik Partisi,0.2,1683,tr -- bbp-buyuk birlik partisi,BBP-Buyuk Birlik Partisi
+TR,TR-4-3,TR-2-3,,BBP,,Buyuk Birlik Partisi,0.1,1683,tr -- buyuk birlik partisi (bbp),Buyuk Birlik Partisi (BBP)
+TR,TR-2-14,,,,Cast blank/invalid ballot,,1.5,1883,tr -- cast blank/invalid ballot,Cast blank/invalid ballot
+TR,TR-4-16,,,,Cast invalid vote,,3.4,1137,tr -- cast invalid vote,Cast invalid vote
+TR,TR-2-4,,,CHP,,Cumhuriyet Halk Partisi,13.4,1275,tr -- chp-cumhuriyet halk partisi,CHP-Cumhuriyet Halk Partisi
+TR,TR-4-4,TR-2-4,,CHP,,Cumhuriyet Halk Partisi,17.8,1275,tr -- cumhuriyet halk partisi (chp),Cumhuriyet Halk Partisi (CHP)
+TR,TR-2-5,,,DEHAP-DTH,,,6.6,1111,tr -- dehap-dth,DEHAP-DTH
+TR,TR-4-5,,,DP,,Demokrat Parti,2.6,1762,tr -- demokrat parti (dp),Demokrat Parti (DP)
+TR,TR-4-7,,,DSP,,Demokratik Sol Parti,0.8,1211,tr -- demokratik sol parti (dsp),Demokratik Sol Parti (DSP)
+TR,TR-4-6,,,DTP,,Demokratik Toplum Partisi,4.5,1716,tr -- demokratik toplum partisi (dtp),Demokratik Toplum Partisi (DTP)
+TR,TR-2-6,TR-4-7,,DSP,,Demokratik Sol Parti,1.5,1211,tr -- dsp-demokratik sol parti,DSP-Demokratik Sol Parti
+TR,TR-2-7,,,DYP,,Dogru Yol Partisi,5.6,1664,tr -- dyp-dogru yol partisi,DYP-Dogru Yol Partisi
+TR,TR-2-8,,,GP,,Genc Parti,1.4,1586,tr -- gp-genc parti,GP-Genc Parti
+TR,TR-4-9,,,IP,,Isci Partisi,0.3,1139,tr -- isci partisi (ip),Isci Partisi (IP)
+TR,TR-2-9,,,MHP,,Milliyetci Hareket Partisi,5.7,1643,tr -- mhp-milliyetci hareket partisi,MHP-Milliyetci Hareket Partisi
+TR,TR-4-10,TR-2-9,,MHP,,Milliyetci Hareket Partisi,7.7,1643,tr -- milliyetci hareket partisi (mhp),Milliyetci Hareket Partisi (MHP)
+TR,TR-2-10,,,ODP,,Ozgurluk ve Dayanisma Partisi/Ozgurluk Dayanisma Partisi,0.2,1841,tr -- odp- ozgurluk ve dayanisma partisi,ODP- Ozgurluk ve Dayanisma Partisi
+TR,TR-4-15,,1,,,Other party or independent candidate,2.1,3072,tr -- other party or independent candidate,Other party or independent candidate
+TR,TR-2-13,,1,,Other,,1.3,1043,tr -- other-minor parties,Other-minor parties
+TR,TR-4-11,TR-2-10,,ODP,,Ozgurluk ve Dayanisma Partisi/Ozgurluk Dayanisma Partisi,0.4,1841,tr -- ozgurluk dayanisma partisi (odp),Ozgurluk Dayanisma Partisi (ODP)
+TR,TR-4-12,,,SP,,Saadet Partisi,1.7,1212,tr -- saadet partisi (sp),Saadet Partisi (SP)
+TR,TR-2-12,,,SHP,,Sosyal Demokrat Halkci Parti,0.5,1012,tr -- shp-sosyal demokrat halkci parti,SHP-Sosyal Demokrat Halkci Parti
+TR,TR-4-13,TR-2-12,,SHP,,Sosyal Demokrat Halkci Parti,0.2,1012,tr -- sosyal demokrat halkci parti (shp),Sosyal Demokrat Halkci Parti (SHP)
+TR,TR-2-11,TR-4-12,,SP,,Saadet Partisi,0.8,1212,tr -- sp-saadet partisi,SP-Saadet Partisi
+TR,TR-4-14,,,TKP,,T. Komunist Partisi,0.1,1440,tr -- t. komunist partisi (tkp),T. Komunist Partisi (TKP)
+UA,UA-2-31,,1,,,Woman for the Future' All-Ukrainian Political Union,1.2,3073,ua -- 'woman for the future' all-ukrainian political union,Woman for the Future' All-Ukrainian Political Union
+UA,UA-4-9,,1,,Against all,,5.2,1709,ua -- against all,Against all
+UA,UA-6-1,,,,"All Ukrainian Union ""Fatherland""",,24.6,1627,"ua -- all ukrainian union ""fatherland""","All Ukrainian Union ""Fatherland"""
+UA,UA-6-2,,,,"All Ukrainian Union ""Freedom""",,10,1068,"ua -- all ukrainian union ""freedom""","All Ukrainian Union ""Freedom"""
+UA,UA-2-16,,1,,All-Ukrainian Labor Party,,0.1,1141,ua -- all-ukrainian labor party,All-Ukrainian Labor Party
+UA,UA-2-9,,1,,All-Ukrainian Party 'New Power',,0.1,1165,ua -- all-ukrainian party 'new power',All-Ukrainian Party 'New Power'
+UA,UA-3-3,,,,,Bloc 'Our Ukraine'/'People's Self-defense' Yu.Lutsenko,25.6,1674,ua -- bloc 'our ukraine',Bloc 'Our Ukraine'
+UA,UA-3-6,,1,,,Bloc of Natalya Vitrenko 'Peoples' opposition',1.5,1435,ua -- bloc of natalya vitrenko 'peoples' opposition',Bloc of Natalya Vitrenko 'Peoples' opposition'
+UA,UA-3-2,,,,,Bloc of Yulia Tymoshenko,18.5,1256,ua -- bloc of yulia tymoshenko,Bloc of Yulia Tymoshenko
+UA,UA-4-3,,,,Block 'Our Ukraine - People's self-defense',,16,1170,ua -- block 'our ukraine - people's self-defense',Block 'Our Ukraine - People's self-defense'
+UA,UA-4-1,,,,Block of Lytvyn,Peoples' bloc of Lytvyn,4.3,1613,ua -- block of lytvyn,Block of Lytvyn
+UA,UA-5-2,,,,Block of Yulia Tymoshenko,,32.5,1013,ua -- block of yulia tymoshenko,Block of Yulia Tymoshenko
+UA,UA-3-10,,1,PORA-PRP,Civil bloc,,0.5,1280,ua -- civil bloc pora-prp,Civil bloc PORA-PRP
+UA,UA-2-1,,,,Communist Party of Ukraine/Communist party of Ukraine,,15.8,1082,ua -- communist party of ukraine,Communist Party of Ukraine
+UA,UA-2-12,,1,,,Communist Party of Ukraine (renew),0.9,1952,ua -- communist party of ukraine (renew),Communist Party of Ukraine (renew)
+UA,UA-2-8,,1,,Communist Party of Workers and Peasants,,0.6,1279,ua -- communist party of workers and peasants,Communist Party of Workers and Peasants
+UA,UA-2-3,,1,,Democratic Party of Ukraine,,0.7,1051,ua -- election bloc of political parties 'democratic party of ukra,Election bloc of Political Parties 'Democratic Party of Ukra
+UA,UA-2-14,,,,For One Ukraine!,,9.8,1843,ua -- election bloc of political parties 'for one ukraine!',Election bloc of Political Parties 'For One Ukraine!'
+UA,UA-2-10,,,,Juliya Tymoshenko election,,3.6,1844,ua -- election bloc of political parties 'juliya tymoshenko electi,Election bloc of Political Parties 'Juliya Tymoshenko electi
+UA,UA-2-5,,,,Nataliya Vitrenko Bloc,,3.9,1046,ua -- election bloc of political parties 'nataliya vitrenko bloc',Election bloc of Political Parties 'Nataliya Vitrenko Bloc'
+UA,UA-2-24,,1,,People's Movement of Ukrarine,,1.3,1463,ua -- election bloc of political parties 'people's movement of ukr,Election bloc of Political Parties 'People's Movement of Ukr
+UA,UA-2-30,,1,,Ruses bloc,,0.1,1389,ua -- election bloc of political parties 'ruses bloc',Election bloc of Political Parties 'Ruses bloc'
+UA,UA-2-20,,1,,Team of Winter Generation,,0.5,1789,ua -- election bloc of political parties 'team of winter generatio,Election bloc of Political Parties 'Team of Winter Generatio
+UA,UA-2-15,,1,,Unity,,0.2,1071,ua -- election bloc of political parties 'unity',Election bloc of Political Parties 'Unity'
+UA,UA-2-2,,,,Victor Yushchenko Bloc,,41.8,1112,ua -- election bloc of political parties 'victor yushchenko bloc ',Election bloc of Political Parties 'Victor Yushchenko Bloc '
+UA,UA-2-26,,1,ZUBR,"For Ukraine, Byel",,0.1,1545,"ua -- election bloc of political parties 'zubr' (for ukraine, byel","Election bloc of Political Parties 'ZUBR' (For Ukraine, Byel"
+UA,UA-2-17,,1,,Liberal Party of Ukraine (renew),,0.1,1339,ua -- liberal party of ukraine (renew),Liberal Party of Ukraine (renew)
+UA,UA-3-11,,1,NOT,Oppositional bloc 'NOT THIS WAY',,0.2,1174,ua -- oppositional bloc 'not this way',Oppositional bloc 'NOT THIS WAY'
+UA,UA-3-12,,1,,Other,,1,1108,ua -- other,other
+UA,UA-2-34,,1,,,Other (WRITE DOWN) ___,4.2,1954,ua -- other (write down) ___,Other (WRITE DOWN) ___
+UA,UA-2-34,,1,,Other,,4.2,1108,ua -- other (write down) ___,Other (WRITE DOWN) ___
+UA,UA-6-6,,1,,Other,,2,1108,ua -- other (write in),Other (Write in)
+UA,UA-2-33,,1,,Party 'New Generation of Ukraine',,0.2,1361,ua -- party 'new generation of ukraine',Party 'New Generation of Ukraine'
+UA,UA-3-9,,1,,Party 'Veche',,0.8,1380,ua -- party 'veche',Party 'Veche'
+UA,UA-5-5,,,,Party of Regions/Party of regions,,47.6,1264,ua -- party of regions,Party of regions
+UA,UA-2-11,,1,,Party of Rehabilitation of Invalids of Ukraine,,0.2,1095,ua -- party of rehabilitation of invalids of ukraine,Party of Rehabilitation of Invalids of Ukraine
+UA,UA-2-22,,1,,Peasant Party of Ukraine,,0.2,1638,ua -- peasant party of ukraine,Peasant Party of Ukraine
+UA,UA-3-7,UA-4-1,1,,Block of Lytvyn,Peoples' bloc of Lytvyn,1.4,1613,ua -- peoples' bloc of lytvyn,Peoples' bloc of Lytvyn
+UA,UA-2-32,,1,,Political Party 'Apple',,0.3,1064,ua -- political party 'apple',Political Party 'Apple'
+UA,UA-4-6,,1,,Progressive socialist party of Ukraine,,0.7,1028,ua -- progressive socialist party of ukraine,Progressive socialist party of Ukraine
+UA,UA-2-29,,1,,Social-democratic Party of Ukraine,,0.9,1253,ua -- social-democratic party of ukraine,Social-democratic Party of Ukraine
+UA,UA-2-23,,,,Social-Democratic Party of Ukraine (united),,4.1,1314,ua -- social-democratic party of ukraine (united),Social-Democratic Party of Ukraine (united)
+UA,UA-2-13,,,,Socialist Party of Ukraine/Socialist party of Ukraine,,6,1667,ua -- socialist party of ukraine,Socialist Party of Ukraine
+UA,UA-2-6,,,,The Green Party of Ukraine,,2.8,1587,ua -- the green party of ukraine,The Green Party of Ukraine
+UA,UA-6-4,,,UDAR,,Ukrainian Democratic Alliance for Reform of Vitali Kl,13.1,3074,ua -- udar (ukrainian democratic alliance for reform) of vitali kl,UDAR (Ukrainian Democratic Alliance for Reform) of Vitali Kl
+UA,UA-3-8,,1,,,Ukrainian Peoples' bloc of Kostenko and Plyusch,1,1701,ua -- ukrainian peoples' bloc of kostenko and plyusch,Ukrainian Peoples' bloc of Kostenko and Plyusch
+UA,UA-2-28,,1,,Ukrainian Political Party 'Christian Movement',,0.2,1120,ua -- ukrainian political party 'christian movement',Ukrainian Political Party 'Christian Movement'
+UA,UA-2-27,,1,,Ukrainian Sea Party,,0.1,1679,ua -- ukrainian sea party,Ukrainian Sea Party

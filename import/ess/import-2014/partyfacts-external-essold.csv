@@ -1,0 +1,690 @@
+country,dataset_key,dataset_party_id,name_short,name,name_english,year_first,year_last,share,share_year,description,comment,created,modified,external_id,partyfacts_id
+ALB,essold,NA,AK,Aleanca Kuq e Zi (AK),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:33Z,4584,NA
+ALB,essold,NA,FRD,Fryma e Re Demokratike (FRD),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:27Z,4960,NA
+ALB,essold,NA,LSI,Lëvizja Socialiste për Integrim (LSI),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:43Z,5114,2297
+ALB,essold,NA,PBDNJ,Partia Bashkimi për të Drejtat e Njeriut (PBDNJ),NA,2012,2012,NA,NA,Partia Bashkimi për të Drejtat e Njeriut (PBDNJ),NA,2014-06-09T08:55:12Z,2017-06-15T16:10:40Z,4782,1636
+ALB,essold,NA,PD,Partia Demokratike e Shqipërisë (PD),NA,2012,2012,NA,NA,Partia Demokratike e Shqipërisë (PD),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:36Z,5025,190
+ALB,essold,NA,PDIU,"Partia Drejtësi, Integrim dhe Unitet (PDIU)",NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:24Z,4967,3270
+ALB,essold,NA,PR,Partia Republikane e Shqipërisë (PR),NA,2012,2012,NA,NA,Partia Republikane e Shqipërisë (PR),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:45Z,5172,819
+ALB,essold,NA,PSD,Partia Socialdemokrate e Shqipërisë (PSD),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:38Z,4981,838
+ALB,essold,NA,PS,Partia Socialiste e Shqipërisë (PS),NA,2012,2012,NA,NA,Partia Socialiste e Shqipërisë (PS),NA,2014-06-09T08:55:13Z,2017-06-15T16:10:33Z,4831,1729
+AUT,essold,NA,BZ,BZÖ,NA,2006,2008,NA,NA,BZÖ,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:32Z,4968,599
+AUT,essold,NA,FP,FPÖ,NA,2002,2008,NA,NA,FPÖ,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:37Z,4872,463
+AUT,essold,NA,NA,Grüne,NA,2002,2008,NA,NA,Grüne --- GRÜNE,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:40Z,4804,1659
+AUT,essold,NA,KP,KPÖ,NA,2006,2008,NA,NA,KPÖ,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:41Z,5085,996
+AUT,essold,NA,LIF,LIF,NA,2002,2008,NA,NA,LIF,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:45Z,4527,605
+AUT,essold,NA,VP,ÖVP,NA,2002,2008,NA,NA,ÖVP,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:28Z,4983,1329
+AUT,essold,NA,SP,SPÖ,NA,2002,2008,NA,NA,SPÖ,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:24Z,4884,1384
+BEL,essold,NA,NA,Agalev,NA,2002,2012,NA,NA,Agalev --- Agalev/Groen! --- Groen!,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:38Z,5195,528
+BEL,essold,NA,CD,CD&V,NA,2004,2012,NA,NA,CD&V,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:40Z,5015,604
+BEL,essold,NA,CD,CD&V + N-VA,NA,2008,2008,NA,NA,CD&V + N-VA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:34Z,5156,756
+BEL,essold,NA,CVP,CVP,NA,2002,2002,NA,NA,CVP,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:28Z,4871,622
+BEL,essold,NA,ECOLO,ECOLO,NA,2002,2012,NA,NA,Ecolo --- ECOLO,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:23Z,5026,1563
+BEL,essold,NA,NA,Lijst Dedecker,NA,2008,2012,NA,NA,Lijst Dedecker,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:39Z,4845,43
+BEL,essold,NA,MR,MR,NA,2004,2012,NA,NA,MR,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:44Z,5157,789
+BEL,essold,NA,VA,N-VA,NA,2004,2012,NA,NA,N-VA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:33Z,5147,36
+BEL,essold,NA,NA,Parti Populaire,NA,2010,2012,NA,NA,Parti Populaire,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:24Z,4743,639
+BEL,essold,NA,PNPB,PNPB,NA,2002,2006,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:37Z,4761,NA
+BEL,essold,NA,PRL,PRL-FDF,NA,2002,2002,NA,NA,PRL-FDF,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:41Z,4929,128
+BEL,essold,NA,PS,PS,NA,2002,2012,NA,NA,PS,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:31Z,4874,500
+BEL,essold,NA,PSC,PSC,NA,2002,2012,NA,NA,CDH --- PSC,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:42Z,4569,2338
+BEL,essold,NA,PTB,PTB,NA,2002,2012,NA,NA,PTB --- PTB-UA --- PVDA-AE --- PVDA+,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:27Z,4718,1753
+BEL,essold,NA,SP,SP,NA,2002,2002,NA,NA,SP,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:33Z,4895,1680
+BEL,essold,NA,SP,SP.A,NA,2004,2012,NA,NA,SP.A --- SP.A-Spirit --- SP.A. --- SP.A. + Vlaams - Progressieven (Spirit),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:42Z,5033,1586
+BEL,essold,NA,VIVANT,VIVANT,NA,2002,2008,NA,NA,Vivant --- VIVANT,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:26Z,4964,76
+BEL,essold,NA,NA,Vlaams Belang,NA,2008,2012,NA,NA,Vlaams Belang,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:35Z,4963,1968
+BEL,essold,NA,NA,Vlaams Blok,NA,2002,2006,NA,NA,Vlaams Blok,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:41Z,5017,553
+BEL,essold,NA,VLD,VLD,NA,2002,2012,NA,NA,Open VLD --- VLD,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:31Z,4802,49
+BEL,essold,NA,VU,VU-ID,NA,2002,2002,NA,NA,VU-ID,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:38Z,5059,1424
+BEL,essold,NA,FRONT,NA,FRONT NATIONAL,2002,2012,NA,NA,Front National --- FRONT NATIONAL,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:45Z,4751,NA
+BEL,essold,NA,VLD,NA,Open VLD + Vivant,2008,2008,NA,NA,Open VLD + Vivant,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:25Z,5005,NA
+BEL,essold,NA,RESIST,NA,RESIST,2002,2006,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:39Z,4835,NA
+BEL,essold,NA,NA,NA,Spirit,2004,2008,NA,NA,Spirit --- Vlaams - Progressieven (Spirit),NA,2014-06-09T08:55:08Z,2017-06-15T16:10:46Z,4518,NA
+BGR,essold,NA,NA,Ataka,NA,2006,2012,NA,NA,Ataka --- Coalition Ataka --- Koalitziia Ataka --- Partia Ataka --- PP Ataka,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:44Z,4820,1793
+BGR,essold,NA,BND,BND,NA,2008,2012,NA,NA,BND --- VMRO - BND,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:32Z,4559,2056
+BGR,essold,NA,BNS,BNS,NA,2006,2010,NA,NA,Balgarski Natsionalen Saiuz – ND --- BNS --- Koalitziia BNS,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:36Z,4969,263
+BGR,essold,NA,BSP,BSP,NA,2006,2012,NA,NA,Balgarska sotsialisticheska partia (BSP) --- BSP,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:33Z,5107,757
+BGR,essold,NA,BZNS,BZNS,NA,2006,2012,NA,NA,BZNS --- BZNS-NS --- PP BZNS,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:22Z,4881,747
+BGR,essold,NA,DP,DP,NA,2006,2008,NA,NA,Demokratska Stranka (DS),NA,2014-06-09T08:55:14Z,2017-06-15T16:10:40Z,4903,NA
+BGR,essold,NA,DPS,DPS,NA,2006,2012,NA,NA,DPS --- DPS - Dvijenie za prava i svobodi --- Dvijenie za Prava i Svobodi --- Dvizhenie za prava i svobodi (DPS),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:36Z,4617,982
+BGR,essold,NA,DSB,DSB,NA,2006,2012,NA,NA,Demokrati za Silna Balgariia --- Demokrati za silna Bulgaria (DSB) --- DSB,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:42Z,5047,1195
+BGR,essold,NA,NA,Evroroma,NA,2006,2010,NA,NA,Evroroma --- Politichesko dvijenie Evroroma,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:36Z,5011,2055
+BGR,essold,NA,GERB,GERB,NA,2006,2012,NA,NA,GERB --- PP GERB,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:35Z,5119,760
+BGR,essold,NA,NA,Gergiovden,NA,2006,2008,NA,NA,Dvijenie 'Gergiovden' --- Gergiovden,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:21Z,5063,1820
+BGR,essold,NA,ABV,Grajdansko dvijenie ABV,NA,2010,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:44Z,4803,NA
+BGR,essold,NA,NA,Grazhdansko obedinenie za realna demokratsia (S.Binev),NA,2010,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:44Z,4551,NA
+BGR,essold,NA,NA,Koalitziia na Rozata,NA,2006,2008,NA,NA,Coalition of the rose --- Koalitziia na Rozata,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:45Z,4814,2054
+BGR,essold,NA,ODS,Koalitziia ODS,NA,2008,2008,NA,NA,Koalitziia ODS,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:44Z,4918,1183
+BGR,essold,NA,NA,Koalitziia za Balgariia,NA,2008,2010,NA,NA,Koalitsia za Balgaria (BSP; PBS; Zemedelski saiuz) Al. Stamb --- Koalitziia za Balgariia,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:44Z,4915,1665
+BGR,essold,NA,NA,Narodna partia „Svoboda i dostoynstvo“,NA,2010,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:42Z,4606,NA
+BGR,essold,NA,NDSV,NDSV,NA,2006,2012,NA,NA,Natzionalno Dvijenie Simeon II --- NDSV,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:34Z,5152,374
+BGR,essold,NA,NA,Novo Vreme,NA,2006,2012,NA,NA,Novo vreme --- Novo Vreme --- Novoto Vreme --- PP „Novoto vreme” (Emil Koshlukov),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:33Z,4535,2022
+BGR,essold,NA,OBT,OBT,NA,2008,2008,NA,NA,OBT,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:35Z,4638,709
+BGR,essold,NA,NA,Partia Roma,NA,2010,2010,NA,NA,Partia Roma,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:26Z,4898,1621
+BGR,essold,NA,PP,PP Balgarska demokratichna obshtnost,NA,2010,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:25Z,4530,NA
+BGR,essold,NA,NA,P.P. Drugata Balgaria,NA,2010,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:41Z,4998,NA
+BGR,essold,NA,PP,PP Edinna narodna partia,NA,2010,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:22Z,4977,NA
+BGR,essold,NA,PP,PP Lider,NA,2010,2010,NA,NA,PP Lider,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:26Z,5057,265
+BGR,essold,NA,PP,PP Natsionalno dvijenie za spasenie na Otechestvoto,NA,2010,2010,NA,NA,PP Natsionalno dvijenie za spasenie na Otechestvoto,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:37Z,4666,1765
+BGR,essold,NA,PP,PP Natsionalno dvizhenie Edinstvo,NA,2010,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:40Z,4704,NA
+BGR,essold,NA,PP,PP Partia za horata ot naroda,NA,2010,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:32Z,5194,NA
+BGR,essold,NA,PP,PP Zelenite,NA,2010,2012,NA,NA,PP „Zelena partia” (Aleksandar Karakachanov) --- PP Zelenite,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:45Z,4971,659
+BGR,essold,NA,RZS,RZS,NA,2008,2012,NA,NA,"PP Red, zakonnost i spravedlivost (RZS) --- Red, zakonnost i spravedlivost (RZS) --- RZS",NA,2014-06-09T08:55:16Z,2017-06-15T16:10:23Z,5048,272
+BGR,essold,NA,NA,Saiuz na patriotichnite sili Zashtita,NA,2010,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:44Z,5028,NA
+BGR,essold,NA,NA,Sayuz na patriotichnite sili „Zashtita”,NA,2010,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:22Z,4728,NA
+BGR,essold,NA,SDS,SDS,NA,2006,2012,NA,NA,KP Sayuz na desnite sili --- Sayuz na demokratichnite sili (SDS) --- SDS,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:37Z,4651,482
+BGR,essold,NA,SDS,Siniata koalitsia (SDS; DSB),NA,2010,2010,NA,NA,Siniata koalitsia (SDS; DSB),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:22Z,4950,58
+BGR,essold,NA,NA,Sotsialdemokrati,NA,2010,2010,NA,NA,Sotsialdemokrati,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:26Z,4598,661
+BGR,essold,NA,SSD,SSD,NA,2006,2012,NA,NA,Partia „Balgarski sotsialdemokrati” --- Sayuz na svobodnite demokrati (SSD) --- SSD,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:23Z,4770,1488
+BGR,essold,NA,VMRO,VMRO,NA,2006,2012,NA,NA,PP VMRO – Balgarsko natsionalno dvizhenie --- VMRO --- VMRO-BND,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:30Z,4729,519
+BGR,essold,NA,NA,NA,Drugata Bulgaria,2010,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:40Z,4591,NA
+BGR,essold,NA,NA,NA,Partia „Dvizhenie Bulgaria na grazhdanite” (M.Kuneva),2012,2012,NA,NA,Partia „Dvizhenie Bulgaria na grazhdanite” (M.Kuneva),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:27Z,5007,2058
+BGR,essold,NA,PLAM,NA,Partia na liberalnata alternative i mira (PLAM),2010,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:32Z,4948,NA
+BGR,essold,NA,PP,NA,PP Natsionalen front za dpasenie na Bulgaria,2012,2012,NA,NA,PP Natsionalen front za dpasenie na Bulgaria,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:42Z,5200,2057
+HRV,essold,NA,HDZ,Hrvatska demokrtska zajednica (HDZ),NA,2008,2010,NA,NA,Hrvatska demokratska zajednica (HDZ) --- Hrvatska demokrtska zajednica (HDZ),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:28Z,4625,1431
+HRV,essold,NA,HNS,Hrvatska narodna stranka - Liberalni demokrati (HNS),NA,2008,2010,NA,NA,Hrvatska narodna stranka - Liberalni demokrati (HNS),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:22Z,5081,1395
+HRV,essold,NA,HSS,Hrvatska seljacka stranka (HSS),NA,2008,2010,NA,NA,Hrvatska seljacka stranka (HSS),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:27Z,4668,72
+HRV,essold,NA,HSP,Hrvatska stranka prava (HSP),NA,2008,2010,NA,NA,Hrvatska stranka prava (HSP),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:46Z,4715,253
+HRV,essold,NA,HSU,Hrvatska stranka umirovljenika (HSU),NA,2008,2010,NA,NA,Hrvatska stranka umirovljenika (HSU),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:35Z,5113,2062
+HRV,essold,NA,HDSSB,Hrvatski demokratski savez Slavonije i Baranje (HDSSB),NA,2008,2010,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:38Z,4573,NA
+HRV,essold,NA,HSLS,Hrvatsko socijalno-liberalna stranka (HSLS),NA,2008,2010,NA,NA,Hrvatsko socijalno-liberalna stranka (HSLS),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:31Z,4962,214
+HRV,essold,NA,IDS,Istarski demokrtski sabor (IDS),NA,2008,2010,NA,NA,Istarski demokratski sabor (IDS) --- Istarski demokrtski sabor (IDS),NA,2014-06-09T08:55:12Z,2017-06-15T16:10:44Z,4764,513
+HRV,essold,NA,SDSS,Samostalna demokratska Srpska stranka (SDSS),NA,2008,2010,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:34Z,4632,2348
+HRV,essold,NA,SDP,Socijaldemokratska partija Hrvatske (SDP),NA,2008,2010,NA,NA,Socijaldemokratska partija Hrvatske (SDP),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:33Z,5139,1475
+CYP,essold,NA,DHSY,NA,Democratic Rally (DHSY),2006,2012,NA,NA,Democratic Rally (DHSY) --- Democratic Rally (DISY),NA,2014-06-09T08:55:12Z,2017-06-15T16:10:44Z,4777,563
+CYP,essold,NA,EYROKO,NA,European Party (EYROKO),2006,2012,NA,NA,European Party (EVROKO) --- European Party (EYROKO),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:45Z,5192,1817
+CYP,essold,NA,AKEL,NA,Progressive Party of Working People (AKEL),2006,2012,NA,NA,Progressive Party of Working People (AKEL),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:44Z,4633,1076
+CYP,essold,NA,KS,NA,Social Democrats (KS EDEK),2006,2012,NA,NA,Social Democrats (KS EDEK) --- Social Democrats (KS EDEK),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:38Z,5061,1028
+CYP,essold,NA,NA,NA,The Cyprus Green Party,2006,2012,NA,NA,The Cyprus Green Party,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:26Z,4855,858
+CYP,essold,NA,NA,NA,United Democrats,2006,2010,NA,NA,United Democrats --- United Democrats (EDI),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:35Z,5155,321
+CZE,essold,NA,CSSD,CSSD,NA,2002,2012,NA,NA,CSSD --- CSSD Cz.Social Democratic P.,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:22Z,4891,177
+CZE,essold,NA,KDU,KDU-CSL,NA,2002,2010,NA,NA,KDU-CSL --- KDU-CSL Christian Democratic P.,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:36Z,5076,676
+CZE,essold,NA,KSCM,KSCM,NA,2002,2012,NA,NA,KSCM --- KSCM Communist P.of Bohemia&Moravia,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:35Z,4534,1728
+CZE,essold,NA,ODS,ODS,NA,2002,2012,NA,NA,ODS --- ODS Civic Democratic P.,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:34Z,4574,466
+CZE,essold,NA,SZ,SZ,NA,2002,2010,NA,NA,SZ --- SZ P.of Greens,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:41Z,4725,1554
+CZE,essold,NA,TOP,TOP09,NA,2010,2012,NA,NA,TOP09,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:43Z,4952,223
+CZE,essold,NA,VV,VV,NA,2010,2012,NA,NA,VV,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:21Z,5136,1202
+CZE,essold,NA,NA,NA,Association of Independents,2002,2004,NA,NA,Association of Independents,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:45Z,4940,884
+CZE,essold,NA,NA,NA,Coalition (Christian Dem.&Freedom Union),2002,2004,NA,NA,Coalition (Christian Dem.&Freedom Union),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:41Z,4659,313
+CZE,essold,NA,CSNS,NA,CSNS Cz.National Social P.,2002,2004,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:39Z,4793,3261
+CZE,essold,NA,NA,NA,Nadeje (Hope),2002,2004,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:39Z,4597,3262
+CZE,essold,NA,ODA,NA,ODA Civic Democratic Alliance,2002,2004,NA,NA,ODA Civic Democratic Alliance,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:45Z,4949,1008
+CZE,essold,NA,PB,NA,PB Right Block,2002,2004,NA,NA,PB Right Block,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:35Z,5008,904
+CZE,essold,NA,RMS,NA,RMS Republicans of Miroslav Sladek,2002,2004,NA,NA,RMS Republicans of Miroslav Sladek,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:28Z,4982,972
+CZE,essold,NA,SV,NA,SV-SOS P.of Countryside-Assoc.Civic Forces,2002,2004,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:38Z,4846,3263
+CZE,essold,NA,SZJ,NA,SZJ P.for Life Securities,2002,2004,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:44Z,4680,3264
+CZE,essold,NA,US,NA,US Freedom Union,2002,2004,NA,NA,US Freedom Union,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:40Z,4558,905
+DNK,essold,NA,NA,Centrum-Demokraterne,NA,2002,2006,NA,NA,Centrum-Demokraterne,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:27Z,4734,800
+DNK,essold,NA,NA,Dansk Folkeparti,NA,2002,2012,NA,NA,Dansk Folkeparti --- Dansk Folkeparti - Danish peoples party,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:26Z,4587,1022
+DNK,essold,NA,NA,Det Radikale Venstre,NA,2002,2012,NA,NA,Det Radikale Venstre --- Det Radikale Venstre - Danish Social-Liberal Party,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:42Z,4868,1507
+DNK,essold,NA,NA,Enhedslisten,NA,2002,2012,NA,NA,"Enhedslisten --- Enhedslisten - Unity List - The Red-Green Alliance --- Enhedslisten, De Rřd-Grřnne - The Red-Green Alliance",NA,2014-06-09T08:55:10Z,2017-06-15T16:10:21Z,4653,1527
+DNK,essold,NA,NA,Fremskridtspartiet,NA,2002,2006,NA,NA,Fremskridtspartiet,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:40Z,5174,1601
+DNK,essold,NA,NA,Kristendemokraterne,NA,2002,2012,NA,NA,Kristeligt Folkeparti --- Kristendemokraterne --- Kristendemokraterne - Christian democtrats,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:25Z,5035,53
+DNK,essold,NA,NA,Socialdemokratiet,NA,2002,2012,NA,NA,Socialdemokraterne - the Danish social democtrats --- Socialdemokratiet,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:25Z,4737,379
+DNK,essold,NA,NA,Socialistisk Folkeparti,NA,2002,2012,NA,NA,SF Socialistisk Folkeparti - Socialist People's Party --- SF- Socialistisk Folkeparti - the Socialist People's Party --- SF- Socialistisk Folkeparti - the Socialist People's Party  --- Socialistisk Folkeparti,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:26Z,5125,329
+DNK,essold,NA,NA,Venstre,NA,2002,2012,NA,NA,"Venstre --- Venstre, Danmarks Liberale Parti - Venstre",NA,2014-06-09T08:55:13Z,2017-06-15T16:10:23Z,4849,1204
+DNK,essold,NA,NA,NA,Ny Alliance - New alliance,2008,2012,NA,NA,Liberal Alliance - Liberal Alliance --- Ny Alliance - New alliance,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:38Z,5160,212
+EST,essold,NA,NA,campaigner,NA,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:40Z,5180,NA
+EST,essold,NA,NA,Eesti Iseseisvuspartei,NA,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:45Z,5080,NA
+EST,essold,NA,NA,Eesti Keskerakond,NA,2004,2012,NA,NA,Eesti Keskerakond --- Estonian Centre Party --- The Estonian Centre Party,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:41Z,5135,533
+EST,essold,NA,NA,Eestimaa Rahvaliit,NA,2004,2012,NA,NA,Eesti Konservatiivne Rahvaerakond (endine Rahvaliit) --- Eestimaa Rahvaliit --- Estonian People's Union --- The People's Union of Estonia,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:25Z,4965,110
+EST,essold,NA,NA,Eestimaa Ühendatud Vasakpartei,NA,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:32Z,4791,NA
+EST,essold,NA,NA,Eesti Reformierakond,NA,2004,2012,NA,NA,Eesti Reformierakond --- Estonian Reform Party,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:37Z,5092,821
+EST,essold,NA,NA,Eesti Vabaduspartei – Pőllumeeste Kogu,NA,2012,2012,NA,NA,Eesti Vabaduspartei – Pőllumeeste Kogu,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:36Z,5020,831
+EST,essold,NA,NA,Estonian Greens,NA,2008,2012,NA,NA,Erakond Eestimaa Rohelised --- Estonian Greens,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:40Z,4537,1040
+EST,essold,NA,NA,Res Publica,NA,2004,2006,NA,NA,Party Res Publica --- Res Publica,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:37Z,5203,491
+EST,essold,NA,NA,NA,Estonian Christian Peoples Party,2004,2012,NA,NA,Erakond Eesti Kristlikud Demokraadid --- Estonian Christian Peoples Party --- Party of Estonian Christian Democrats,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:24Z,4807,790
+EST,essold,NA,NA,NA,Estonian Independence Party,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:38Z,5078,NA
+EST,essold,NA,NA,NA,Estonian National Party,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:26Z,5179,NA
+EST,essold,NA,NA,NA,Estonian Social-Democratic Labour Party,2004,2004,NA,NA,Estonian Social-Democratic Labour Party,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:33Z,4556,869
+EST,essold,NA,NA,NA,Estonian Social Democrats,2004,2012,NA,NA,Estonian Social Democratic Party --- Estonian Social Democrats --- Sotsiaaldemokraatlik Erakond --- The Social Democratic Party,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:43Z,4795,1150
+EST,essold,NA,NA,NA,Estonian United Left Party,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:42Z,4684,NA
+EST,essold,NA,NA,NA,Estonian United People's Party,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:36Z,5171,NA
+EST,essold,NA,NA,NA,Independence Party,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:43Z,5176,NA
+EST,essold,NA,NA,NA,Pro Patria and Res Publica Union,2008,2012,NA,NA,Erakond Isamaa ja Res Publica Liit --- Pro Patria and Res Publica Union,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:40Z,4626,685
+EST,essold,NA,NA,NA,Pro Patria Union,2004,2006,NA,NA,Pro Patria Union,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:37Z,4859,779
+EST,essold,NA,NA,NA,Russian Party in Estonia,2004,2008,NA,NA,Russian Party in Estonia,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:25Z,4922,1975
+FIN,essold,NA,NA,NA,Change 2011,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:41Z,5137,NA
+FIN,essold,NA,NA,NA,Christian Democrats,2002,2012,NA,NA,Christian Democrats,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:44Z,4941,703
+FIN,essold,NA,NA,NA,Communist Party,2002,2012,NA,NA,Communist Party --- Communist Party of Finland,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:40Z,4657,1243
+FIN,essold,NA,NA,NA,Finnish People's Blue-whites,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:44Z,4700,NA
+FIN,essold,NA,NA,NA,For the Poor,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:40Z,4681,NA
+FIN,essold,NA,NA,NA,Freedom Party,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:23Z,5042,NA
+FIN,essold,NA,NA,NA,Green League,2002,2012,NA,NA,Green League --- The Green League,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:28Z,4691,479
+FIN,essold,NA,NA,NA,Independence Party,2010,2012,NA,NA,Independence Party,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:34Z,4875,NA
+FIN,essold,NA,NA,NA,Joint Responsibility Party,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:24Z,5144,NA
+FIN,essold,NA,NA,NA,League for Free Finland,2002,2006,NA,NA,League for Free Finland,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:23Z,4690,1259
+FIN,essold,NA,NA,NA,Left Alliance,2002,2012,NA,NA,Left Alliance --- The Left Alliance,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:21Z,4525,1044
+FIN,essold,NA,NA,NA,"Liberals, (The liberal party of Finland)",2002,2010,NA,NA,"Liberals, (The liberal party of Finland)",NA,2014-06-09T08:55:13Z,2017-06-15T16:10:24Z,4808,249
+FIN,essold,NA,NA,NA,Natural law party,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:37Z,4614,NA
+FIN,essold,NA,NA,NA,Patriotic People's Movement,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:37Z,4886,NA
+FIN,essold,NA,NA,NA,Pirate Party,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:39Z,4722,NA
+FIN,essold,NA,NA,NA,Senior Citizens' Party,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:42Z,4937,NA
+FIN,essold,NA,NA,NA,Social Democratic Party,2002,2012,NA,NA,Finnish Social Democratic Party --- Social Democratic Party,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:41Z,5196,1303
+FIN,essold,NA,NA,NA,The Centre Party,2002,2012,NA,NA,The Centre Party,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:42Z,5104,901
+FIN,essold,NA,NA,NA,The Communist Workers' Party,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:38Z,4973,NA
+FIN,essold,NA,NA,NA,The Communist Workers' Party of Finland,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:46Z,4577,NA
+FIN,essold,NA,NA,NA,The National Coalition Party,2002,2012,NA,NA,The National Coalition Party,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:35Z,4812,495
+FIN,essold,NA,SPP,NA,The Swedish People´s Party (SPP),2002,2012,NA,NA,The Swedish People´s Party (SPP),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:46Z,4652,1229
+FIN,essold,NA,NA,NA,True Finns,2002,2012,NA,NA,True Finns,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:41Z,4754,1689
+FIN,essold,NA,NA,NA,Workers Party,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:31Z,4784,NA
+FRA,essold,NA,NA,Divers droite,NA,2008,2010,NA,NA,Divers droite,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:31Z,4970,1776
+FRA,essold,NA,NA,Divers gauche,NA,2008,2010,NA,NA,Divers gauche,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:36Z,4703,126
+FRA,essold,NA,LCR,LCR (ligue communiste révolutionnaire),NA,2002,2010,NA,NA,LCR (ligue communiste révolutionnaire) --- LCR (Ligue communiste révolutionnaire) --- LCR (Ligue Communiste Révolutionnaire),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:34Z,5013,1506
+FRA,essold,NA,NA,Les Verts,NA,2002,2012,NA,NA,EELV (Europe Ecologie Les Verts) --- Les Verts --- Les Verts – Europe Ecologie,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:22Z,4781,1108
+FRA,essold,NA,LO,LO (Lutte ouvričre),NA,2002,2012,NA,NA,LO (Lutte ouvričre) --- LO (Lutte Ouvričre),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:41Z,4934,617
+FRA,essold,NA,MDC,MDC (Mouvement des citoyens),NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:36Z,5177,NA
+FRA,essold,NA,MRC,MRC (Mouvement Rčpublicain et Citoyen),NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:22Z,5150,NA
+FRA,essold,NA,MRC,MRC (Mouvement républicain et citoyen),NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:26Z,4593,NA
+FRA,essold,NA,PC,PC (Parti communiste),NA,2002,2012,NA,NA,PC (Parti communiste) --- PC (Parti Communiste) --- PCF (Parti Communiste Français),NA,2014-06-09T08:55:12Z,2017-06-15T16:10:37Z,4746,1251
+FRA,essold,NA,PG,PG (Parti de Gauche),NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:25Z,5086,NA
+FRA,essold,NA,RPF,RPF (Rassemblement du Peuple Français),NA,2002,2006,NA,NA,RPF (Rassemblement du peuple français) --- RPF (Rassemblement du Peuple Français),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:40Z,5133,1083
+FRA,essold,NA,CPNT,NA,"CPNT (Chasse, Pęche, Nature et Traditions)",2002,2010,NA,NA,"CPNT (Chasse, pęche, nature et traditions) --- CPNT (Chasse, Pęche, Nature et Traditions)",NA,2014-06-09T08:55:16Z,2017-06-15T16:10:35Z,5016,1313
+FRA,essold,NA,FDG,NA,FDG (Front de Gauche),2002,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:34Z,4810,NA
+FRA,essold,NA,MNR,NA,MNR (Mouvement National Républicain),2002,2006,NA,NA,MNR (Mouvement national républicain) --- MNR (Mouvement National Républicain),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:38Z,4675,1634
+FRA,essold,NA,NA,NA,MoDem (Mouvement Démocrate),2008,2012,NA,NA,MoDem (Mouvement Démocrate) --- MODEM (Mouvement Démocrate) --- UDF-MoDem (Mouvement Democrate),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:41Z,4686,496
+FRA,essold,NA,MPF,NA,MPF (Mouvement pour la France),2002,2012,NA,NA,MPF (Mouvement pour la France),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:25Z,5185,364
+FRA,essold,NA,NA,NA,Nouveau Centre,2008,2012,NA,NA,Nouveau Centre,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:38Z,4850,1255
+FRA,essold,NA,NPA,NA,NPA (Nouveau Parti Anti-capitaliste),2002,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:33Z,5205,NA
+FRA,essold,NA,NA,NA,Parti Radical de Gauche,2006,2012,NA,NA,Parti Radical de Gauche --- PRG (Parti radical de gauche) --- PRG (Parti Radical de Gauche),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:23Z,4610,1783
+FRA,essold,NA,PR,NA,PR (Parti Radical Valoisien),2002,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:36Z,4927,NA
+FRA,essold,NA,UDF,NA,UDF (Union pour la Démocratie Française),2002,2006,NA,NA,UDF (Union pour la démocratie française) --- UDF (Union pour la Démocratie Française),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:38Z,5126,213
+FRA,essold,NA,UDI,NA,UDI (Union des Démocrates Indépendants),2002,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:26Z,4613,NA
+FRA,essold,NA,UMP,NA,UMP (L’Union),2002,2012,NA,NA,DL (Démocratie libérale) --- DL (Démocratie Libérale) --- UMP (L’Union) --- UMP (Union de la Majorité Présidentielle) --- UMP (Union pour la Majorite Presidentielle) --- UMP (Union pour la majorité présidentielle) --- UMP (Union pour la Majorité Présidentielle) --- UMP (Union pour un Mouvement Populaire),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:36Z,5064,1595
+DEU,essold,NA,NA,Bündnis 90/Die Grünen,NA,2002,2012,NA,NA,Bundnis 90/Die Grunen --- Bündnis 90/Die Grünen --- Bündnis 90\Die Grünen --- Green Party (Bündnis 90/Die Grünen),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:37Z,5140,1816
+DEU,essold,NA,CDU,CDU/CSU,NA,2002,2012,NA,NA,CDU/CSU --- CDU\CSU --- Christian Democratic Union (CDU/CSU),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:44Z,4629,211
+DEU,essold,NA,NA,Die Linke,NA,2006,2012,NA,NA,Die Linke --- Die Linke\PDS --- The Left Party.Party of Democratic Socialism (Linkspartei.PDS),NA,2014-06-09T08:55:13Z,2017-06-15T16:10:33Z,4797,1545
+DEU,essold,NA,FDP,FDP,NA,2002,2012,NA,NA,FDP --- Liberal Democratic Party (FDP),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:36Z,4536,573
+DEU,essold,NA,NPD,NPD,NA,2004,2012,NA,NA,National Democratic Party/German People's Union (NPD/DVU) --- NPD,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:39Z,5191,1723
+DEU,essold,NA,PDS,PDS,NA,2002,2004,NA,NA,Party of Democratic Socialism (PDS) --- PDS,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:40Z,4548,86
+DEU,essold,NA,NA,Piratenpartei,NA,2012,2012,NA,NA,Piratenpartei,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:25Z,4974,1287
+DEU,essold,NA,NA,Republikaner,NA,2002,2012,NA,NA,Die Republikaner --- Republican Party (Republikaner) --- Republikaner,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:28Z,4996,720
+DEU,essold,NA,SPD,SPD,NA,2002,2012,NA,NA,Social Democratic Party (SPD) --- SPD,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:30Z,4552,383
+GRC,essold,NA,NA,Greens,NA,2008,2010,NA,NA,Greens --- The Ecologist Greens (OP),NA,2014-06-09T08:55:12Z,2017-06-15T16:10:40Z,4757,378
+GRC,essold,NA,SYRIZA,NA,Coalition of the Radical Left - SYRIZA,2008,2010,NA,NA,Coalition of the Radical Left - SYRIZA --- The Coalition of the Radical Left (SYRIZA),NA,2014-06-09T08:55:13Z,2017-06-15T16:10:39Z,4789,301
+GRC,essold,NA,DS,NA,Democratic Alliance (DS),2010,2010,NA,NA,Democratic Alliance (DS),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:31Z,5002,1284
+GRC,essold,NA,DIMAR,NA,Democratic Left (DIMAR),2010,2010,NA,NA,Democratic Left (DIMAR),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:36Z,4588,1160
+GRC,essold,NA,DIKKI,NA,DIKKI (Democratic Social Movement),2002,2004,NA,NA,DIKKI (Democratic Social Movement),NA,2014-06-09T08:55:14Z,2017-06-15T16:10:42Z,4863,1682
+GRC,essold,NA,NA,NA,Golden Dawn (Xrusi Augi),2010,2010,NA,NA,Golden Dawn (Xrusi Augi),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:28Z,5197,1660
+GRC,essold,NA,SPITHA,NA,Independent Citizens' Movement (SPITHA),2010,2010,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:38Z,4954,NA
+GRC,essold,NA,KKE,NA,KKE Communist Party),2002,2010,NA,NA,Communist Party - KKE --- KKE (Communist party) --- KKE Communist Party) --- The Communist Party of Greece (KKE),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:33Z,5056,48
+GRC,essold,NA,LAOS,NA,LAOS (Popular Orthodox Party),2004,2010,NA,NA,LAOS (Popular Orthodox Party) --- Popular Orthodox Rally - LAOS --- The Popular Orthodox Rally (LAOS),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:44Z,5096,965
+GRC,essold,NA,ND,NA,ND (New Democracy),2002,2010,NA,NA,ND (New Democracy) --- New Democracy - ND --- New Democracy (ND),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:24Z,4665,794
+GRC,essold,NA,PASOK,NA,PASOK (Panhellenic Socialist Movement),2002,2010,NA,NA,Panhellenic Socialist Movement – PASOK --- PASOK (Panhellenic Socialist Movement) --- The Panhellenic Socialist Movement (PASOK),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:45Z,4570,1468
+GRC,essold,NA,KOTES,NA,Smokers' Groups for Art and Visual Formation (KOTES),2010,2010,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:45Z,4529,NA
+GRC,essold,NA,SYN,NA,SYN (Left Wing Coalition),2002,2004,NA,NA,SYN (Left Wing Coalition),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:42Z,4935,516
+GRC,essold,NA,ANTARSYA,NA,The Anticapitalist Left Cooperation for the Overthrow (ANTARSYA),2010,2010,NA,NA,The Anticapitalist Left Cooperation for the Overthrow (ANTARSYA),NA,2014-06-09T08:55:14Z,2017-06-15T16:10:38Z,4856,95
+GRC,essold,NA,FS,NA,The Liberal Alliance (FS),2010,2010,NA,NA,The Liberal Alliance (FS),NA,2014-06-09T08:55:12Z,2017-06-15T16:10:31Z,4721,1130
+HUN,essold,NA,NA,4K (Negyedik Köztársaság),NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:36Z,4709,NA
+HUN,essold,NA,NA,Centrumpárt,NA,2002,2012,NA,NA,Center Party --- Centrum Part --- Centrum Párt (Centrum Összefogás Magyarországért) --- Centrumpárt --- CENTRUMPÁRT,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:22Z,5182,1779
+HUN,essold,NA,DK,DK (Demokratikus Koalíció),NA,2012,2012,NA,NA,DK (Demokratikus Koalíció),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:25Z,4627,469
+HUN,essold,NA,NA,"Együtt 2014 Mozgalom (Haza és Haladás, Milla, Szolidaritás)",NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:43Z,5201,NA
+HUN,essold,NA,LOL,ÉLOLÁNC,NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:34Z,5075,NA
+HUN,essold,NA,FIDESZ,FIDESZ,NA,2002,2012,NA,NA,FIDESZ --- FIDESZ (Fidesz Magyar Polgári Párt) --- FYD-Federation of Young Democrats,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:24Z,4697,1691
+HUN,essold,NA,KDNP,Fidesz - KDNP,NA,2006,2012,NA,NA,Fidesz - KDNP --- Fidesz - KDNP (Fidesz – Magyar Polgári Szövetség Kereszténydemokrata Néppárt),NA,2014-06-09T08:55:14Z,2017-06-15T16:10:42Z,4899,NA
+HUN,essold,NA,NA,Jobbik Magyarországért Mozgalom,NA,2006,2012,NA,NA,Jobbik (Jobbik Magyarországért Mozgalom) --- Jobbik Magyarorszagert Mozgalom --- Jobbik Magyarországért Mozgalom,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:45Z,5120,42
+HUN,essold,NA,KDNP,KDNP,NA,2006,2012,NA,NA,KDNP --- KDNP (Kereszténydemokrata Néppárt) --- KDP (KERESZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS) --- Keresztenydemokrata Part - Kereszteny Centrum Osszefogas --- Kereszténydemokrata Párt - Keresztény Centrum Összefogás,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:46Z,5117,1412
+HUN,essold,NA,LMP,Lehet Mas a Politika (LMP),NA,2010,2012,NA,NA,Lehet Mas a Politika (LMP) --- LMP (Lehet Más A Politika),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:34Z,4716,1650
+HUN,essold,NA,NA,Magyar Vidék és Polgári Párt,NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:34Z,5149,NA
+HUN,essold,NA,MCF,MCF Roma Összefogás Párt,NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:45Z,4878,NA
+HUN,essold,NA,MDF,MDF,NA,2002,2012,NA,NA,HDF- Hungarian Democratic Forum --- MDF --- MDF (Magyar Demokrata Fórum) --- MDF/JESZ (Magyar Demokrata Fórum / Jólét És Szabadság),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:31Z,4671,1697
+HUN,essold,NA,MI,MIÉP,NA,2006,2012,NA,NA,MIEP --- MIÉP --- MIÉP (Magyar Igazság És Élet Pártja),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:41Z,4595,1597
+HUN,essold,NA,MKP,MKP (MAGYARORSZÁGI KISEBBSÉGEK PÁRTJA),NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:45Z,4744,NA
+HUN,essold,NA,MRDP,MRDP (MAGYARORSZÁGI ROMÁK DEMOKRATIKUS PÁRTJA),NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:43Z,4873,NA
+HUN,essold,NA,MR,MRÖP (MAGYARORSZÁGI ROMA ÖSSZEFOGÁS PÁRT),NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:23Z,4623,NA
+HUN,essold,NA,MSZDP,MSZDP (Magyar Szociáldemokrata Párt),NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:24Z,4985,NA
+HUN,essold,NA,MSZP,MSZP,NA,2002,2012,NA,NA,HSP-Hungarian Socialist Party --- Magyarorszagi Szocialdemokrata Part --- Magyarországi Szociáldemokrata Párt --- MSZP --- MSZP (Magyar Szocialista Párt),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:44Z,4946,1408
+HUN,essold,NA,NA,Munkáspárt,NA,2002,2012,NA,NA,Munkaspart --- Munkáspárt --- MUNKÁSPÁRT --- Munkáspárt (Magyar Kommunista Munkáspárt) --- MUNKÁSPÁRT 2006 --- WP-Workers Party,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:28Z,5045,859
+HUN,essold,NA,MVPP,MVPP (MAGYAR VIDÉK ÉS POLGÁRI PÁRT),NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:31Z,4776,NA
+HUN,essold,NA,UP,NyUP (Nyugdíjasok Pártja),NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:36Z,4756,NA
+HUN,essold,NA,NA,ÖP (Összefogás Párt),NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:40Z,4619,NA
+HUN,essold,NA,SOMOGY,SOMOGYÉRT (SOMOGYÉRT Szövetség),NA,2006,2006,NA,NA,SOMOGYÉRT (SOMOGYÉRT Szövetség),NA,2014-06-09T08:55:14Z,2017-06-15T16:10:41Z,4865,93
+HUN,essold,NA,SZDP,SZDP (SZOCIÁLDEMOKRATA PÁRT),NA,2006,2006,NA,NA,SZDP (SZOCIÁLDEMOKRATA PÁRT),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:38Z,4547,1726
+HUN,essold,NA,SZDSZ,SZDSZ,NA,2002,2012,NA,NA,FFD-Free Democrats --- SZDSZ --- SZDSZ (Szabad Demokraták Szövetsége - A Magyar Liberális Párt),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:43Z,4944,910
+HUN,essold,NA,CM,NA,CM (Civil Mozgalom),2006,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:23Z,4741,NA
+HUN,essold,NA,FYD,NA,FYD-HDF Fed.of Young Democrats&Hungarian Dem.Forum,2002,2004,NA,NA,FYD-HDF Fed.of Young Democrats&Hungarian Dem.Forum,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:43Z,4713,NA
+HUN,essold,NA,HTJP,NA,HTJP-Hungarian Truth,2002,2008,NA,NA,Harmadik Út (MIÉP - Jobbik Magyarországért) --- HTJP-Hungarian Truth --- MIÉP - Jobbik a Harmadik Út,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:39Z,4800,NA
+HUN,essold,NA,ISHP,NA,ISHP-Independent Small Holders,2002,2006,NA,NA,"FKNP (FÜGGETLEN KISGAZDA-, NEMZETI EGYSÉG PÁRT) --- ISHP-Independent Small Holders",NA,2014-06-09T08:55:11Z,2017-06-15T16:10:36Z,4688,1294
+HUN,essold,NA,NA,NA,Magyar Videk es Polgari Part,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:33Z,4851,NA
+HUN,essold,NA,MCF,NA,MCF Roma Osszefogas Part,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:41Z,4926,NA
+ISL,essold,NA,NA,Bjartri framtíđ,NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:42Z,5051,2517
+ISL,essold,NA,NA,Borgarahreyfinguna,NA,2012,2012,NA,NA,Borgarahreyfinguna,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:29Z,4612,224
+ISL,essold,NA,NA,Hreyfingunni,NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:28Z,4832,NA
+ISL,essold,NA,NA,Lýđrćđishreyfinguna,NA,2012,2012,NA,NA,Lýđrćđishreyfinguna,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:45Z,4600,77
+ISL,essold,NA,NA,Samfylkinguna,NA,2004,2012,NA,NA,Samfylkinguna --- Social Democratic Alliance,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:32Z,4740,1396
+ISL,essold,NA,NA,Samstöđu,NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:42Z,5054,NA
+ISL,essold,NA,NA,Skilađi auđu/ógildu,NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:40Z,5162,NA
+ISL,essold,NA,NA,NA,Liberal Party,2004,2012,NA,NA,Frjálslynda flokkinn --- Liberal Party,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:24Z,5041,1224
+ISL,essold,NA,NA,NA,Progressive Party,2004,2012,NA,NA,Framsóknarflokkinn --- Progressive Party,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:39Z,5091,964
+ISL,essold,NA,NA,NA,The Left Green Movement,2004,2012,NA,NA,The Left Green Movement --- Vinstri hreyfinguna-Grćnt frambođ,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:26Z,4590,457
+IRL,essold,NA,NA,NA,Fianna Fail,2002,2012,NA,NA,Fianna Fail --- Fianna Fáil,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:40Z,4549,1055
+IRL,essold,NA,NA,NA,Fine Gael,2002,2012,NA,NA,Fine Gael,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:27Z,4840,1288
+IRL,essold,NA,NA,NA,Green Party,2002,2012,NA,NA,Green Party,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:44Z,4580,1775
+IRL,essold,NA,NA,NA,Labour,2002,2012,NA,NA,Labour --- Labour Party,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:30Z,4841,562
+IRL,essold,NA,NA,NA,People Before Profit,2010,2012,NA,NA,People Before Profit,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:41Z,4951,242
+IRL,essold,NA,NA,NA,Progressive Democrats,2002,2008,NA,NA,Progressive Democrats,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:38Z,5161,924
+IRL,essold,NA,NA,NA,Socialist Party,2010,2012,NA,NA,Socialist Party,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:46Z,5186,1343
+IRL,essold,NA,NA,NA,United Left Alliance,2010,2012,NA,NA,United Left Alliance,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:28Z,5134,1978
+ISR,essold,NA,NA,Ale Yarok,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:24Z,4794,NA
+ISR,essold,NA,NA,Am ehad,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:39Z,4583,NA
+ISR,essold,NA,NA,Am Shalem,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:45Z,4720,NA
+ISR,essold,NA,NA,Balad,NA,2002,2012,NA,NA,Balad,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:40Z,4726,1663
+ISR,essold,NA,NA,Gimlaim,NA,2002,2012,NA,NA,Gil- Gimlaey Israeli la' Knesset --- Gimlaim --- Pensioners of Israel to the Knesset,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:43Z,4758,1648
+ISR,essold,NA,NA,Hadash,NA,2002,2012,NA,NA,Hadash,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:39Z,4961,NA
+ISR,essold,NA,NA,Hadereh hashlishit,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:21Z,4522,NA
+ISR,essold,NA,NA,Haehud haleumi,NA,2002,2012,NA,NA,Ha'ihud HaLeumi --- Haehud haleumi,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:42Z,4540,953
+ISR,essold,NA,NA,Haravi Hahadash,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:36Z,5006,NA
+ISR,essold,NA,NA,Hatnua,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:33Z,4912,NA
+ISR,essold,NA,NA,Hatnua Harabit Hameauhedet,NA,2002,2002,NA,NA,Hatnua Harabit Hameauhedet,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:35Z,4893,1337
+ISR,essold,NA,NA,HaTnu`a HaYeruqa,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:40Z,4760,NA
+ISR,essold,NA,NA,HaYerukim,NA,2008,2012,NA,NA,HaYerukim,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:39Z,4792,NA
+ISR,essold,NA,NA,Hetz,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:42Z,4992,NA
+ISR,essold,NA,NA,Kadima,NA,2008,2012,NA,NA,Kadima,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:38Z,5178,484
+ISR,essold,NA,NA,Likud,NA,2002,2012,NA,NA,Ha' Likud --- Likud,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:38Z,5145,1036
+ISR,essold,NA,NA,Mafdal,NA,2002,2012,NA,NA,Mafdal --- National Religious Party --- The Jewish House,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:30Z,5038,1447
+ISR,essold,NA,NA,Meretz,NA,2002,2012,NA,NA,Meretz,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:38Z,4765,NA
+ISR,essold,NA,NA,Mifleget Ha' Avoda,NA,2008,2012,NA,NA,HaAvoda- the Israeli Labor Party --- Mifleget Ha' Avoda --- Mifleget Ha' Avoda,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:24Z,4636,NA
+ISR,essold,NA,NA,Pnina Rozenblum,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:45Z,4828,NA
+ISR,essold,NA,NA,Ra'am- Ta'al,NA,2008,2012,NA,NA,Ra'am- Ta'al,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:46Z,4844,1047
+ISR,essold,NA,NA,Shas,NA,2002,2012,NA,NA,Shas --- Shase,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:33Z,4667,455
+ISR,essold,NA,NA,Shinuy,NA,2002,2008,NA,NA,Shinui --- Shinuy,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:42Z,4772,557
+ISR,essold,NA,NA,Tzomet,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:26Z,4834,NA
+ISR,essold,NA,NA,Ya'Hadut Ha'Tora,NA,2002,2012,NA,NA,"United Torah Judaism --- Ya'Hadut Ha'Tora --- Yahadut-hatora, Agudat-Isarel, Degel-hatora",NA,2014-06-09T08:55:13Z,2017-06-15T16:10:24Z,4822,NA
+ISR,essold,NA,NA,Yesh Atid,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:28Z,4731,NA
+ISR,essold,NA,NA,NA,Israel ahat,2002,2002,NA,NA,Israel ahat,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:41Z,4902,1314
+ISR,essold,NA,NA,NA,Israel baliya,2002,2002,NA,NA,Israel baliya,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:22Z,4999,1053
+ISR,essold,NA,NA,NA,Israel byteno,2002,2012,NA,NA,Israel Beiteinu --- Israel byteno --- Yisrael Beiteinu,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:31Z,5163,235
+ISR,essold,NA,NA,NA,The center party,2002,2002,NA,NA,The center party,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:42Z,4531,NA
+ITA,essold,NA,NA,Alleanza Nazionale,NA,2002,2004,NA,NA,Alleanza Nazionale,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:43Z,5070,813
+ITA,essold,NA,CCD,CCD-CDU,NA,2002,2004,NA,NA,CCD-CDU --- CCD-CDU (Biancofiore),NA,2014-06-09T08:55:13Z,2017-06-15T16:10:27Z,4805,962
+ITA,essold,NA,NA,Comunisti Italiani,NA,2002,2004,NA,NA,Comunisti Italiani,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:40Z,4818,836
+ITA,essold,NA,NA,Democratici di Sinistra,NA,2002,2004,NA,NA,Democratici di sinistra --- Democratici di Sinistra,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:25Z,5129,878
+ITA,essold,NA,NA,Democrazia Europea,NA,2002,2004,NA,NA,Democrazia Europea,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:43Z,4900,1327
+ITA,essold,NA,NA,Fiamma Tricolore,NA,2002,2004,NA,NA,Fiamma Tricolore,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:31Z,5079,1101
+ITA,essold,NA,FLI,FLI,NA,2012,2012,NA,NA,FLI,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:44Z,4771,1179
+ITA,essold,NA,NA,La destra,NA,2012,2012,NA,NA,La destra,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:47Z,4768,280
+ITA,essold,NA,NA,La Margherita,NA,2002,2004,NA,NA,La Margherita,NA,2014-06-09T08:55:08Z,2017-06-15T16:10:38Z,4520,279
+ITA,essold,NA,NA,Lega Nord,NA,2002,2012,NA,NA,Lega Nord,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:28Z,5034,1221
+ITA,essold,NA,NA,Lista Di Pietro,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:37Z,4910,NA
+ITA,essold,NA,NA,Movimento 5 Stelle,NA,2012,2012,NA,NA,Movimento 5 Stelle,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:26Z,4990,2046
+ITA,essold,NA,PSI,Nuovo PSI,NA,2002,2004,NA,NA,Nuovo PSI,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:35Z,4889,888
+ITA,essold,NA,NA,Pannella-Bonino,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:39Z,4920,NA
+ITA,essold,NA,PD,Partido Democratico (PD),NA,2012,2012,NA,NA,Partido Democratico (PD),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:41Z,5062,802
+ITA,essold,NA,PDL,Popolo delle Libertŕ (PDL),NA,2012,2012,NA,NA,Popolo delle Libertŕ (PDL),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:32Z,4648,365
+ITA,essold,NA,NA,Radicali Italiani (Amnistia giustizia e libertŕ),NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:43Z,4848,NA
+ITA,essold,NA,NA,Rifondazione Comunis,NA,2002,2004,NA,NA,Rifondazione Comunis --- Rifondazione Comunista,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:29Z,4762,1404
+ITA,essold,NA,NA,Rivoluzione Civile (Ingroia),NA,2012,2012,NA,NA,Rivoluzione Civile (Ingroia),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:42Z,4986,2277
+ITA,essold,NA,NA,Scelta Civica (con Monti),NA,2012,2012,NA,NA,Scelta Civica (con Monti),NA,2014-06-09T08:55:13Z,2017-06-15T16:10:36Z,4843,2281
+ITA,essold,NA,SDI,SDI,NA,2002,2002,NA,NA,SDI,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:45Z,4825,750
+ITA,essold,NA,SEL,Sinistra Ecologia e Libertŕ (SEL),NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:43Z,4565,NA
+ITA,essold,NA,SVP,SVP (Südtirol Volksp,NA,2002,2004,NA,NA,SVP (Südtirol Volksp --- SVP (Sudtirol Volkspartei - Partito Popolare Sudtirolese) --- SVP (Südtirol Volkspartei) --- SVP Südtirol Vokspartei,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:36Z,4947,1369
+ITA,essold,NA,UDC,UDC,NA,2012,2012,NA,NA,UDC,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:44Z,4766,201
+ITA,essold,NA,NA,Ulivo,NA,2004,2004,NA,NA,Ulivo,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:46Z,4727,1737
+ITA,essold,NA,NA,Verdi,NA,2002,2004,NA,NA,Verdi --- Verdi e Sdi (Girasole) --- Verdi e SDI (Girasole),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:43Z,5154,851
+ITA,essold,NA,FARE,NA,FARE - Giannino,2012,2012,NA,NA,FARE - Giannino,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:24Z,4542,2279
+ITA,essold,NA,NA,NA,Forza Italia,2002,2004,NA,NA,Forza Italia,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:22Z,5132,1626
+ITA,essold,NA,NA,NA,Fratelli d'Italia,2012,2012,NA,NA,Fratelli d'Italia,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:21Z,4939,2280
+XKX,essold,NA,AKR,Aleanca Kosova e Re (AKR),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:36Z,4658,NA
+XKX,essold,NA,AAK,Aleanca për Ardhmërinë e Kosovës (AAK),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:38Z,5031,NA
+XKX,essold,NA,DSS,Demokratska Stranka Srbije (DSS),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:33Z,5037,NA
+XKX,essold,NA,VV,Lëvizja Vetëvendosje (VV),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:27Z,4656,2296
+XKX,essold,NA,LDP,Liberalno Demokratska Partija (LDP),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:37Z,5009,NA
+XKX,essold,NA,LDK,Lidhja Demokratike e Kosovës (LDK),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:34Z,4976,2295
+XKX,essold,NA,PDK,Partia Demokratike e Kosovës (PDK),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:22Z,4783,2294
+XKX,essold,NA,PD,Partia e Drejtësisë (PD),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:35Z,4911,NA
+XKX,essold,NA,SPS,Socialisticka Partija Srbije (SPS),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:32Z,4830,NA
+XKX,essold,NA,SLS,Srpska Liberalna Stranka (SLS),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:29Z,4826,NA
+XKX,essold,NA,SNS,Srpska Napredna Stranka (SNS),NA,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:41Z,4682,NA
+LVA,essold,NA,NA,New Era,NA,2006,2008,NA,NA,New Era,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:46Z,4563,1531
+LVA,essold,NA,NA,NA,Concord Centre,2006,2008,NA,NA,Concord Centre,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:36Z,4650,1056
+LVA,essold,NA,LNNK,NA,For Fatherland and Freedom/ LNNK,2006,2008,NA,NA,For Fatherland and Freedom/ LNNK,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:43Z,4698,1704
+LVA,essold,NA,NA,NA,For Human Rights in a United Latvia,2006,2008,NA,NA,For Human Rights in a United Latvia,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:36Z,4526,176
+LVA,essold,NA,NA,NA,Greens and Farmers Union,2006,2008,NA,NA,Greens and Farmers Union,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:39Z,4714,701
+LVA,essold,NA,NA,NA,Latvia's First party/Latvia's Way,2006,2008,NA,NA,Latvia's First party/Latvia's Way --- Latvia’s First party/ Latvia’s Way,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:42Z,4702,461
+LVA,essold,NA,NA,NA,The People's Party,2006,2008,NA,NA,The People's Party,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:33Z,4853,1755
+LTU,essold,NA,KP,NA,Christian Party (KP),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:44Z,5175,NA
+LTU,essold,NA,DDVP,NA,Democratic Labour and Unity Party (DDVP),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:47Z,5111,NA
+LTU,essold,NA,LLRA,NA,Electoral Action of Poles in Lithuania (LLRA),2008,2012,NA,NA,Electoral Action of Poles in Lithuania (LLRA),NA,2014-06-09T08:55:13Z,2017-06-15T16:10:35Z,4811,556
+LTU,essold,NA,EP,NA,Emigrants' Party (EP),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:38Z,4752,NA
+LTU,essold,NA,TS,NA,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2008,2012,NA,NA,Homeland Union - Lithuanian Christian Democrats (TS-LKD),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:27Z,5166,315
+LTU,essold,NA,DP,NA,Labour Party (DP),2008,2012,NA,NA,"Labour Party (DP) --- Labourist Party (LP) --- The Coalition ""Labour party + youth"" --- The Coalition Labour Party + Youth",NA,2014-06-09T08:55:10Z,2017-06-15T16:10:44Z,4596,102
+LTU,essold,NA,CS,NA,Liberal and Centre Union (LiCS),2008,2012,NA,NA,Liberal and Centre Union (LiCS),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:35Z,4932,1193
+LTU,essold,NA,LRLS,NA,Liberals' Movement of the Republic of Lithuania (LRLS),2008,2012,NA,NA,Liberals' Movement of the Republic of Lithuania (LRLS),NA,2014-06-09T08:55:14Z,2017-06-15T16:10:25Z,4877,1744
+LTU,essold,NA,LCP,NA,Lithuanian Centre Party (LCP),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:44Z,4712,NA
+LTU,essold,NA,LLS,NA,Lithuanian Freedom Union (LLS),2008,2010,NA,NA,Lithuanian Freedom Union (LLS),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:22Z,5087,1410
+LTU,essold,NA,LVZS,NA,Lithuanian Peasant and Greens Union (LVZS),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:25Z,4775,NA
+LTU,essold,NA,LVLS,NA,Lithuanian Peasant Popular Union (LVLS),2008,2010,NA,NA,Lithuanian Peasant Popular Union (LVLS),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:31Z,4603,1490
+LTU,essold,NA,LPP,NA,Lithuanian Pensioners' Party (LPP),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:46Z,5128,NA
+LTU,essold,NA,LZP,NA,Lithuanian People's Party (LZP),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:25Z,4867,NA
+LTU,essold,NA,UTL,NA,"Lithuanian People's Union ""For the Fair Lithuania"" UTL",2008,2010,NA,NA,"Lithuanian People's Union 'For the Fair Lithuania' (UTL) --- Lithuanian People's Union ""For the Fair Lithuania"" UTL",NA,2014-06-09T08:55:14Z,2017-06-15T16:10:44Z,4901,1409
+LTU,essold,NA,LSDP,NA,Lithuanian Social Democratic Party (LSDP),2008,2012,NA,NA,Lithuanian Social Democratic Party (LSDP),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:23Z,4938,64
+LTU,essold,NA,LSDS,NA,Lithuanian Social Democratic Union (LSDS),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:31Z,4561,NA
+LTU,essold,NA,ULL,NA,National Association 'For Lithuania in Lithuania' (ULL),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:22Z,4906,NA
+LTU,essold,NA,TS,NA,Nationalist Union (TS),2012,2012,NA,NA,Nationalist Union (TS),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:37Z,5089,377
+LTU,essold,NA,TPLK,NA,National Party Way of Lithuania (TPLK),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:25Z,4984,NA
+LTU,essold,NA,TPP,NA,National Resurrection Party (TPP),2008,2010,NA,NA,National Resurrection Party (TPP),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:23Z,5121,347
+LTU,essold,NA,TVS,NA,National Unity Union (TVS),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:33Z,4692,NA
+LTU,essold,NA,NS,NA,New Union (Social Liberals) (NS),2008,2010,NA,NA,New Union (Social Liberals) (NS),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:40Z,4582,1800
+LTU,essold,NA,NA,NA,Party 'Front' (Frontas),2008,2010,NA,NA,"Party 'Front' (Frontas) --- Party ""Frontas"" (Frontas)",NA,2014-06-09T08:55:18Z,2017-06-15T16:10:44Z,5199,1250
+LTU,essold,NA,PDP,NA,Party of Civic Democracy (PDP),2008,2010,NA,NA,Party of Civic Democracy (PDP),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:24Z,4673,105
+LTU,essold,NA,TT,NA,Party Order and Justice (TT),2008,2012,NA,NA,"Party ""Order and Justice"" (TT) --- Party Order and Justice (TT)",NA,2014-06-09T08:55:16Z,2017-06-15T16:10:21Z,5055,237
+LTU,essold,NA,JL,NA,"Party ""Young Lithuania"" (JL)",2008,2012,NA,NA,"Party 'Young Lithuania' (JL) --- Party ""Young Lithuania"" (JL)",NA,2014-06-09T08:55:11Z,2017-06-15T16:10:26Z,4664,1026
+LTU,essold,NA,LS,NA,Political Party 'List of Lithuania' (LS),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:36Z,4677,NA
+LTU,essold,NA,LZS,NA,Political Party 'Lithuanian Green Movement' (LZS),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:41Z,5206,NA
+LTU,essold,NA,DK,NA,Political Party 'The Way of Courage' (DK),2012,2012,NA,NA,Political Party 'The Way of Courage' (DK),NA,2014-06-09T08:55:12Z,2017-06-15T16:10:27Z,4724,74
+LTU,essold,NA,ST,NA,Political Party 'Union Yes' (ST),2012,2012,NA,NA,Political Party 'Union Yes' (ST),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:38Z,4557,1806
+LTU,essold,NA,RP,NA,Republican Party (RP),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:36Z,4576,NA
+LTU,essold,NA,SLF,NA,Socialist People's Front (SLF),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:39Z,4861,NA
+LTU,essold,NA,KLS,NA,Union of Fighters for Lithuania (KLS),2008,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:24Z,4750,NA
+LTU,essold,NA,LRS,NA,Union of Russians of Lithuania (LRS),2008,2010,NA,NA,Union of Russians of Lithuania (LRS),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:42Z,4707,168
+LTU,essold,NA,ZP,NA,Zemaiciai (Samogitian) Party (ZP),2012,2012,NA,NA,Zemaiciai (Samogitian) Party (ZP),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:37Z,4624,1291
+LUX,essold,NA,NA,La Gauche,NA,2002,2004,NA,NA,La Gauche,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:30Z,5101,271
+LUX,essold,NA,PD,Parti Démocrate (PD),NA,2002,2004,NA,NA,Parti Démocrate (PD),NA,2014-06-09T08:55:12Z,2017-06-15T16:10:42Z,4719,300
+LUX,essold,NA,PSOL,Parti Socialiste Ouvrier Luxembourgeois (PSOL),NA,2002,2004,NA,NA,Parti Socialiste Ouvrier Luxembourgeois (PSOL),NA,2014-06-09T08:55:14Z,2017-06-15T16:10:22Z,4888,186
+LUX,essold,NA,NA,NA,Comité d'action pour la Démocratie et Justice sociale,2002,2004,NA,NA,Comité d'action pour la Démocracie et la Justice Sociale --- Comité d'action pour la Démocratie et Justice sociale,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:26Z,4957,1114
+LUX,essold,NA,PCS,NA,Parti Chrétien Social (PCS),2002,2004,NA,NA,Parti Chrétien Social (PCS),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:26Z,4706,539
+NLD,essold,NA,NA,50Plus,NA,2012,2012,NA,NA,50Plus,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:40Z,4966,714
+NLD,essold,NA,NA,NA,Christian Democratic Party,2002,2012,NA,NA,Christian Democratic Party,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:28Z,5130,1157
+NLD,essold,NA,NA,NA,Christian Union,2002,2012,NA,NA,Christian Union,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:29Z,4609,1459
+NLD,essold,NA,NA,NA,Democrats 66,2002,2012,NA,NA,Democrats `66 --- Democrats 66,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:28Z,4605,45
+NLD,essold,NA,NA,NA,Europe Transparant,2004,2004,NA,NA,Europe Transparant,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:44Z,5198,523
+NLD,essold,NA,NA,NA,Green Left,2002,2012,NA,NA,Green Left,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:35Z,4594,1537
+NLD,essold,NA,NA,NA,Labour Party,2002,2012,NA,NA,Labour Party,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:35Z,4857,1234
+NLD,essold,NA,NA,NA,List Pim Fortuyn,2002,2008,NA,NA,List Pim Fortuyn,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:28Z,4678,1528
+NLD,essold,NA,NA,NA,Liveable Netherlands,2002,2008,NA,NA,Liveable Netherlands,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:24Z,4528,1420
+NLD,essold,NA,NA,NA,Party for Freedom and Democracy,2002,2012,NA,NA,Party for Freedom and Democracy --- People's Party for Freedom and Democracy,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:32Z,4779,828
+NLD,essold,NA,NA,NA,Party for the Animals,2004,2012,NA,NA,Party for the Animals,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:40Z,4546,1467
+NLD,essold,NA,NA,NA,Pirate Party,2012,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:41Z,5202,2841
+NLD,essold,NA,PVV,NA,PVV (List Wilders),2004,2012,NA,NA,Group Geert Wilders --- PVV (List Wilders),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:45Z,5169,298
+NLD,essold,NA,NA,NA,Socialist Party,2002,2012,NA,NA,PS (Parti socialiste) --- PS (Parti Socialiste),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:39Z,5021,1363
+NLD,essold,NA,NA,NA,Social Reformed Party,2002,2012,NA,NA,Political Reformed Party --- Social Reformed Party,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:40Z,4717,1178
+NLD,essold,NA,TON,NA,TON (List Verdonk),2008,2010,NA,NA,TON (List Verdonk),NA,2014-06-09T08:55:13Z,2017-06-15T16:10:43Z,4821,1656
+NLD,essold,NA,NA,NA,United Senior People Party,2004,2004,NA,NA,United Senior People Party,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:24Z,4890,994
+NOR,essold,NA,NA,NA,Centre Party (Sp),2002,2012,NA,NA,Centre Party (Sp) --- Centre Party (SP),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:38Z,4642,1072
+NOR,essold,NA,NA,NA,Christian Democratic Party (Krf),2002,2012,NA,NA,Christian Democratic Party (Krf) --- Christian Democratic Party (KRF),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:41Z,4683,705
+NOR,essold,NA,KYST,NA,Coast Party (KYST),2002,2012,NA,NA,Coast Party (KYST) --- Coastal Party (KYST),NA,2014-06-09T08:55:13Z,2017-06-15T16:10:32Z,4827,677
+NOR,essold,NA,NA,NA,Conservative Party (H),2002,2012,NA,NA,Conservative Party (H),NA,2014-06-09T08:55:12Z,2017-06-15T16:10:31Z,4747,503
+NOR,essold,NA,NA,NA,Labour Party (A),2002,2012,NA,NA,Labour Party (A),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:40Z,4987,448
+NOR,essold,NA,NA,NA,Liberal Party (V),2002,2012,NA,NA,Liberal party (V) --- Liberal Party (V),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:43Z,4589,1173
+NOR,essold,NA,NA,NA,Progress Party (FrP),2002,2012,NA,NA,Progress Party (FrP) --- Progress Party (FRP),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:34Z,4581,101
+NOR,essold,NA,RV,NA,Red Electoral Alliance (RV),2002,2008,NA,NA,Red Electoral Alliance (RV),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:40Z,5187,44
+NOR,essold,NA,SV,NA,Socialist left party (SV),2002,2012,NA,NA,Socialist left party (SV) --- Socialist Left Party (SV),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:46Z,4645,719
+NOR,essold,NA,DT,NA,The Party Red (RŘDT),2010,2012,NA,NA,The Party Red (RŘDT),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:41Z,4708,NA
+POL,essold,NA,NA,Akcja Wyborcza Solidarnosc Prawicy,NA,2002,2004,NA,NA,Akcja Wyborcza Solidarnosc Prawicy,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:40Z,4975,863
+POL,essold,NA,NA,Alternatywa Partia Pracy,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:44Z,4796,NA
+POL,essold,NA,NA,Alternatywa Ruch Spoleczny,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:43Z,4639,NA
+POL,essold,NA,NA,Centrolewica Rzeczypospolitej Polskiej,NA,2004,2004,NA,NA,Centrolewica Rzeczypospolitej Polskiej,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:32Z,5071,132
+POL,essold,NA,NA,Centrum,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:29Z,4936,NA
+POL,essold,NA,NA,Demokratyczna Partia Lewicy,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:40Z,4930,NA
+POL,essold,NA,NA,Dom Ojczysty,NA,2006,2006,NA,NA,Dom Ojczysty,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:46Z,4705,988
+POL,essold,NA,NA,Inicjatywa dla Polski,NA,2004,2004,NA,NA,Inicjatywa dla Polski,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:45Z,4711,1608
+POL,essold,NA,NA,Konfederacja,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:30Z,5122,NA
+POL,essold,NA,KPN,KPN-Oboz Patriotyczny,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:41Z,4896,NA
+POL,essold,NA,NA,Krajowa Partia Emerytow i Rencistow,NA,2002,2010,NA,NA,Krajowa Partia Emerytow i Rencistow --- National Party of Retirees and Pensioners,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:28Z,4739,391
+POL,essold,NA,NA,Liga Polskich Rodzin,NA,2002,2010,NA,NA,League of Polish Families --- Liga Polskich Rodzin,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:27Z,4892,1768
+POL,essold,NA,NA,Mniejszosc Niemiecka,NA,2002,2004,NA,NA,Mniejszosc Niemiecka --- Niemiecka Mniejszosc Gornego Slaska,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:42Z,5093,1439
+POL,essold,NA,NA,Narodowe Odrodzenie Polski,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:45Z,4646,NA
+POL,essold,NA,NA,Nowa Lewica,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:32Z,5072,NA
+POL,essold,NA,NA,Ogolnopolska Koalicja Obywatelska,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:34Z,4921,NA
+POL,essold,NA,RP,Partia Inicjatywa RP,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:37Z,4790,NA
+POL,essold,NA,NA,Partia Ludowo-Demokratyczna,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:44Z,5189,NA
+POL,essold,NA,NA,Polska Konfederacja Godnosc i Praca,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:41Z,4980,NA
+POL,essold,NA,NA,Polska Partia Narodowa,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:27Z,4543,NA
+POL,essold,NA,NA,Polska Partia Pracy,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:21Z,4923,NA
+POL,essold,NA,NA,Polska Partia Socjalistyczna,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:44Z,4988,NA
+POL,essold,NA,PPS,Polska Partia Socjalistyczna-PPS,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:33Z,4774,NA
+POL,essold,NA,NA,Polska Unia Gospodarcza,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:23Z,4994,NA
+POL,essold,NA,NA,Polska Wspolnota Narodowa,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:46Z,4602,NA
+POL,essold,NA,NA,Ruch Katolicko-Narodowy,NA,2004,2004,NA,NA,Ruch Katolicko-Narodowy,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:23Z,4959,1666
+POL,essold,NA,NA,Ruch Patriotyczny,NA,2006,2006,NA,NA,Ruch Patriotyczny,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:24Z,5102,66
+POL,essold,NA,NA,Ruch Spoleczny,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:41Z,4785,NA
+POL,essold,NA,NA,Socjaldemokracja Polska,NA,2004,2010,NA,NA,Social Democracy of Poland --- Social Democratic Party of Poland --- Socjaldemokracja Polska,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:26Z,4836,1328
+POL,essold,NA,NA,Sojusz Lewicy Demokratycznej/Unia Pracy,NA,2002,2004,NA,NA,Sojusz Lewicy Demokratycznej/Unia Pracy,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:47Z,4917,NA
+POL,essold,NA,SD,Stronnictwo Demokratyczne-SD,NA,2002,2002,NA,NA,Stronnictwo Demokratyczne-SD,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:46Z,4676,919
+POL,essold,NA,NA,Stronnictwo Konserwatywno-Ludowe-Ruch Nowej Polski,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:42Z,5158,NA
+POL,essold,NA,NA,Unia Pracy,NA,2002,2010,NA,NA,Labour Union --- Unia Pracy --- Unia Pracy-UP,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:31Z,4738,1104
+POL,essold,NA,NA,Unia Wolnosci,NA,2002,2004,NA,NA,Unia Wolnosci --- Unia Wolnosci-UW,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:24Z,5043,1566
+POL,essold,NA,NA,Zjednoczenie Chrzescijansko-Narodowe,NA,2002,2004,NA,NA,Zjednoczenie Chrzescijansko-Narodowe --- Zjednoczenie Chrzescijansko-Narodowe-ZChN,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:40Z,4955,70
+POL,essold,NA,NA,NA,Civic Platform,2002,2012,NA,NA,Civic Platform --- Platforma Obywatelska --- Platforma Obywatelska RP --- Platforma Obywatelska Rzeczypospolitej Polskiej,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:24Z,4799,1117
+POL,essold,NA,NA,NA,Congress of the New Right,2006,2012,NA,NA,Congress of the New Right --- Platforma Janusza Korwin-Mikke,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:42Z,4604,913
+POL,essold,NA,NA,NA,Democratic Left Alliance,2002,2012,NA,NA,Democratic Left Alliance --- Sojusz Lewicy Demokratycznej --- Sojusz Lewicy Demokratycznej-SLD,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:34Z,4885,57
+POL,essold,NA,NA,NA,Law and Justice,2002,2012,NA,NA,Law and Justice --- Prawo i Sprawiedliwosc,NA,2014-06-09T08:55:08Z,2017-06-15T16:10:46Z,4519,1565
+POL,essold,NA,NA,NA,Left and Democrats,2008,2010,NA,NA,Left and Democrats,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:34Z,4742,1588
+POL,essold,NA,NA,NA,Palikot Movement,2012,2012,NA,NA,Palikot Movement,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:29Z,4532,731
+POL,essold,NA,NA,NA,Poland Comes First,2012,2012,NA,NA,Poland Comes First,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:37Z,5109,41
+POL,essold,NA,NA,NA,Polish Labour Party,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:43Z,5097,3699
+POL,essold,NA,NA,NA,Polish Labour Party-August '80,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:25Z,4622,NA
+POL,essold,NA,NA,NA,Polish Peasants Party,2002,2012,NA,NA,Polish Peasants Party --- Polish Peasants' Party --- Polskie Stronnictwo Ludowe --- Polskie Stronnictwo Ludowe-PSL,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:40Z,4586,602
+POL,essold,NA,NA,NA,Real Politics Union,2002,2010,NA,NA,Real Politics Union --- Unia Polityki Realnej --- Unia Polityki Realnej-UPR,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:37Z,4578,283
+POL,essold,NA,NA,NA,Right of the Republic,2010,2010,NA,NA,Right of the Republic,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:32Z,4621,876
+POL,essold,NA,NA,NA,Self-defence,2002,2010,NA,NA,Samoobrona RP --- Samoobrona Rzeczypospolitej Polskiej --- Self-defence,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:29Z,4991,727
+POL,essold,NA,NA,NA,United Poland,2012,2012,NA,NA,United Poland,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:22Z,5188,328
+PRT,essold,NA,BE,BE - Bloco de Esquerda,NA,2002,2012,NA,NA,B.E. -  Bloco de Esquerda --- BE - Bloco de Esquerda --- Bloco de Esquerda (BE),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:40Z,4672,1310
+PRT,essold,NA,CDU,Coligaçăo Democrática Unitária (CDU),NA,2006,2012,NA,NA,Coligaçăo Democrática Unitária (CDU) --- PCP-PEV - Partido Comunista Portuguęs - Partido Ecologista os Verdes,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:41Z,4599,284
+PRT,essold,NA,MPT,MPT - Movimento Partido da Terra,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:28Z,4566,NA
+PRT,essold,NA,NA,Partido Democrático do Atlântico,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:08Z,2017-06-15T16:10:24Z,4521,NA
+PRT,essold,NA,PDA,Partido Democrático do Atlântico (PDA),NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:32Z,4555,NA
+PRT,essold,NA,PH,Partido Humanista (PH),NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:34Z,4564,NA
+PRT,essold,NA,PNR,Partido Nacional Renovador (PNR),NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:36Z,4824,NA
+PRT,essold,NA,PCP,PCP- Partido Comunista Portuguęs,NA,2002,2004,NA,NA,PCP- Partido Comunista Portuguęs  --- PCP/PEV - Partido Comunista Portuguęs  Partido Ecolo,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:23Z,5151,310
+PRT,essold,NA,PCTP,PCTP/MRPP - Partido Comunista dos Trabalhadores Po,NA,2002,2012,NA,NA,Partido Comunista dos Trabalhadores Portugueses/Movimento Reorganizativo do Partido do Proletariado (PCTP-MRPP) --- PCTP-MRPP - Partido Comunista dos Trabalhadores Portugueses - Movimento Reorganizativo do Proletariado Portuguęs --- PCTP/MRPP - Partido Comunista dos Trabalhadores Po,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:35Z,5023,857
+PRT,essold,NA,PDA,PDA - Partido Democrático do Atlântico,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:22Z,4647,NA
+PRT,essold,NA,PEV,PEV - Partido Ecologista os Verdes,NA,2004,2004,NA,NA,PEV - Partido Ecologista os Verdes,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:22Z,4763,886
+PRT,essold,NA,NA,P.H. - Partido Humanista,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:26Z,4689,NA
+PRT,essold,NA,PH,PH - Partido Humanista,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:47Z,4933,NA
+PRT,essold,NA,PNR,PNR - Partido Nacional Renovador,NA,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:34Z,4608,NA
+PRT,essold,NA,POUS,POUS - Partido Operário de Unidade Socialista,NA,2002,2012,NA,NA,Partido Operário de Unidade Socialista (POUS) --- POUS - Partido Operário de Unidade Socialista,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:41Z,4732,1106
+PRT,essold,NA,PS,PS - Partido Socialista,NA,2002,2012,NA,NA,Partido Socialista (PS) --- PS - Partido Socialista,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:30Z,4701,655
+PRT,essold,NA,CDS,NA,CDS/PP - Centro Democrático Social/Partido Popular,2002,2012,NA,NA,CDS/PP - Centro Democrático Social / Partido Popular --- CDS/PP - Centro Democrático Social/Partido Popular --- Centro Democrático Social - Partido Popular (CDS-PP),NA,2014-06-09T08:55:14Z,2017-06-15T16:10:44Z,4905,1308
+PRT,essold,NA,PND,NA,Nova democracia (PND),2006,2012,NA,NA,Nova democracia (PND) --- PND - Partido da Nova Democracia,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:42Z,4787,1095
+PRT,essold,NA,PPM,NA,PPM - Partido Popular Monárquico,2002,2004,NA,NA,PPM - Partido Popular Monárquico,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:40Z,5098,1480
+PRT,essold,NA,PSD,NA,PSD - Partido Social Democrata,2002,2012,NA,NA,Partido Social Democrata (PSD) --- PSD - Partido Social Democrata,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:44Z,5106,1359
+ROU,essold,NA,PSD,Alianta PSD-PC,NA,2006,2008,NA,NA,Alianta PSD-PC --- Alliance National Liberal Party and Democratic Party --- Alliance National Liberal Party and Democratic Party (DA),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:29Z,4978,215
+ROU,essold,NA,PC,PC,NA,2006,2008,NA,NA,Conservative Party --- PC,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:45Z,5138,1443
+ROU,essold,NA,PD,PD-L,NA,2008,2008,NA,NA,PD-L,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:35Z,4842,660
+ROU,essold,NA,PIN,PIN,NA,2006,2008,NA,NA,National Initiative Party --- Other: PIN --- PIN,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:45Z,5153,1579
+ROU,essold,NA,PNG,PNG-CD,NA,2006,2008,NA,NA,New Generation Party --- PNG-CD,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:39Z,5036,296
+ROU,essold,NA,PNL,PNL,NA,2006,2008,NA,NA,National Liberal Party --- PNL,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:33Z,4907,481
+ROU,essold,NA,PNTCD,PNTCD,NA,2006,2008,NA,NA,PNTCD --- Popular Chirstian Democratic Party --- Popular Christian Democratic Party --- PPCD (PNTCD),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:26Z,5046,1750
+ROU,essold,NA,PRM,PRM,NA,2006,2008,NA,NA,Greater Romania Party --- PRM,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:33Z,4773,1305
+ROU,essold,NA,PSD,PSD,NA,2006,2008,NA,NA,PSD --- Social Democratic Party,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:44Z,5167,120
+ROU,essold,NA,UDMR,UDMR,NA,2006,2008,NA,NA,Democratic Union of Ethnic Hungarians --- UDMR,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:45Z,4748,1105
+ROU,essold,NA,NA,NA,Alliance Social Democratic Party and Humanistic Party,2006,2006,NA,NA,Alliance Social Democratic Party and Humanistic Party,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:39Z,4993,1347
+ROU,essold,NA,NA,NA,Democratic Party,2006,2006,NA,NA,Democratic Party,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:38Z,4759,1715
+ROU,essold,NA,FDGR,NA,Other: FDGR,2008,2008,NA,NA,Other: FDGR,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:22Z,5094,291
+RUS,essold,NA,NA,Edinenie,NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:42Z,4693,NA
+RUS,essold,NA,NA,Rodina,NA,2006,2006,NA,NA,Rodina,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:43Z,4628,2246
+RUS,essold,NA,NA,Solidarity (Solidarnost),NA,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:41Z,5131,NA
+RUS,essold,NA,NA,Yabloko,NA,2006,2012,NA,NA,Yabloko,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:44Z,4847,2252
+RUS,essold,NA,PR,NA,98. Other: Patriots of Russia (PR),2006,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:27Z,5012,NA
+RUS,essold,NA,APR,NA,Agrarian Party of Russia (APR),2006,2010,NA,NA,98. Other: Agrarian Party of Russia (APR) --- Agrarian Party of Russia (APR),NA,2014-06-09T08:55:14Z,2017-06-15T16:10:42Z,4860,2235
+RUS,essold,NA,NA,NA,Civic platform,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:38Z,4670,NA
+RUS,essold,NA,KRPK,NA,Coalition for Russia without despotism and corruption (KRPK),2006,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:35Z,5032,NA
+RUS,essold,NA,KPRF,NA,Communist Party of the Russian Federation (KPRF),2006,2012,NA,NA,Communist Party of the Russian Federation (KPRF),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:32Z,4539,2236
+RUS,essold,NA,NA,NA,Democratic party of Russia,2006,2006,NA,NA,Democratic party of Russia,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:27Z,4695,2238
+RUS,essold,NA,SR,NA,Fair Russia (SR),2006,2012,NA,NA,Fair Russia (SR),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:28Z,4611,2244
+RUS,essold,NA,NA,NA,Free Russia,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:40Z,5170,NA
+RUS,essold,NA,NA,NA,Green party,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:41Z,4806,NA
+RUS,essold,NA,NA,NA,Just Cause,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:31Z,4897,NA
+RUS,essold,NA,LDPR,NA,Liberal Democratic Party of Russia (LDPR),2006,2012,NA,NA,Liberal Democratic Party of Russia (LDPR),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:32Z,4928,2245
+RUS,essold,NA,NA,NA,Nash Vybor - Our choice,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:36Z,5000,NA
+RUS,essold,NA,NA,NA,Party of Revival of Russia - Russian Party of Life,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:40Z,4904,NA
+RUS,essold,NA,NA,NA,Party of Revival of Russia – Russian Party of Life,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:39Z,4858,NA
+RUS,essold,NA,NA,NA,Party of the development of entrepreneurship,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:45Z,4883,NA
+RUS,essold,NA,NA,NA,Patriots of Russia,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:35Z,5108,NA
+RUS,essold,NA,NA,NA,People-republican party of Russia,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:38Z,5068,NA
+RUS,essold,NA,RF,NA,People's Party of RF,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:25Z,5181,NA
+RUS,essold,NA,NA,NA,Real Patriots of Russia,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:32Z,4585,NA
+RUS,essold,NA,NA,NA,Republican party of Russian-Party of people's freedom (Parnas),2006,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:38Z,5014,NA
+RUS,essold,NA,PD,NA,Right Cause (PD),2006,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:40Z,4816,NA
+RUS,essold,NA,NA,NA,Russian party of pensioners and party of social justice,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:32Z,4788,NA
+RUS,essold,NA,SPS,NA,Union of Right Forces (SPS),2006,2010,NA,NA,Union of Right Forces (SPS),NA,2014-06-09T08:55:13Z,2017-06-15T16:10:43Z,4839,2255
+RUS,essold,NA,ER,NA,United Russia (ER),2006,2012,NA,NA,United Russia (ER),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:46Z,4687,2256
+RUS,essold,NA,NA,NA,Youth party of Revival,2006,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:24Z,5103,NA
+SVK,essold,NA,SMER,SMER,NA,2004,2012,NA,NA,SMER --- SMER-Social Democracy,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:34Z,5060,311
+SVK,essold,NA,ANO,NA,ANO New Citizen's Alliance,2004,2004,NA,NA,ANO New Citizen's Alliance,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:43Z,5204,217
+SVK,essold,NA,NA,NA,Freedom and Solidarity (SaS),2010,2012,NA,NA,Freedom and Solidarity (SaS),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:33Z,4538,1386
+SVK,essold,NA,HZDS,NA,HZDS Movement for a Democratic Slovakia,2004,2008,NA,NA,HZDS Movement for a Democratic Slovakia  --- Movement for a Democratic Slovakia (HZDS),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:35Z,5118,560
+SVK,essold,NA,KDH,NA,KDH Christian Democratic Movement,2004,2012,NA,NA,Christian Democratic Movement (KDH) --- KDH Christian Democratic Movement,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:32Z,4815,63
+SVK,essold,NA,KSS,NA,KSS Communist Party of Slovakia,2004,2004,NA,NA,KSS Communist Party of Slovakia,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:43Z,5049,340
+SVK,essold,NA,NA,NA,Most-Híd,2010,2012,NA,NA,Most-Híd,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:39Z,4699,258
+SVK,essold,NA,OL,NA,Ordinary People and Independent Personalities (OLaNO),2012,2012,NA,NA,Ordinary People and Independent Personalities (OLaNO),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:31Z,5148,2130
+SVK,essold,NA,SDKU,NA,SDKU Slovak Democratic Christian Union,2004,2004,NA,NA,SDKU Slovak Democratic Christian Union,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:41Z,4607,582
+SVK,essold,NA,SDKU,NA,Slovak Democratic Christian Union (SDKU),2006,2012,NA,NA,Slovak Democratic Christian Union (SDKU),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:34Z,4618,1617
+SVK,essold,NA,SNS,NA,Slovak National Party (SNS),2006,2010,NA,NA,Slovak National Party (SNS),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:39Z,5040,730
+SVK,essold,NA,SMK,NA,SMK Party of Hungarian Coalition,2004,2008,NA,NA,Party of Hungarian Coalition (SMK) --- SMK Party of Hungarian Coalition,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:37Z,5099,349
+SVN,essold,NA,DL,NA,Civic List - DL,2012,2012,NA,NA,Civic List - DL,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:43Z,5116,98
+SVN,essold,NA,DESUS,NA,Democratic Party of Pensioners of Slovenia (DESUS),2002,2012,NA,NA,Democratic Party of Pensioners of Slovenia - DESUS --- Democratic Party of Pensioners of Slovenia (DESUS),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:29Z,4663,467
+SVN,essold,NA,LDS,NA,Liberal Democracy of Slovenia (LDS),2002,2012,NA,NA,Liberal Democracy of Slovenia - LDS --- Liberal Democracy of Slovenia (LDS),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:24Z,4662,975
+SVN,essold,NA,LIPA,NA,LIPA  - Party,2008,2010,NA,NA,LIPA  - Party,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:26Z,4685,881
+SVN,essold,NA,NS,NA,New Slovenia - Christian Peoples Party - NSi,2002,2012,NA,NA,New Slovenia - Christian People's Party (NSi) --- New Slovenia - Christian Peoples Party - NSi,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:47Z,5141,1618
+SVN,essold,NA,TRS,NA,Party for Sustainable Development - TRS,2012,2012,NA,NA,Party for Sustainable Development - TRS,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:23Z,4592,1015
+SVN,essold,NA,PS,NA,Positive Slovenia - PS,2012,2012,NA,NA,Positive Slovenia - PS,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:41Z,4550,1773
+SVN,essold,NA,SNS,NA,Slovene National Party (SNS),2002,2012,NA,NA,Slovene National Party - SNS --- Slovene National Party (SNS),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:46Z,4919,96
+SVN,essold,NA,SLS,NA,Slovene Peoples Party - SLS,2002,2012,NA,NA,Slovene People's Party (SLS) --- Slovene Peoples Party - SLS,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:23Z,4545,764
+SVN,essold,NA,SMS,NA,Slovene Youth Party (SMS),2002,2002,NA,NA,Slovene Youth Party (SMS),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:21Z,4694,1401
+SVN,essold,NA,SDS,NA,Slovenian Democratic Party- SDS,2002,2012,NA,NA,Slovenian Democratic Party - SDS --- Slovenian Democratic Party- SDS --- Social Democratic Party of Slovenia (SDS),NA,2014-06-09T08:55:13Z,2017-06-15T16:10:22Z,4798,472
+SVN,essold,NA,SD,NA,Social Democrats - SD,2006,2012,NA,NA,Social Democrats - SD,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:27Z,4972,2275
+SVN,essold,NA,ZLSD,NA,United List of Social Democrats (ZLSD),2002,2004,NA,NA,United List of Social Democrats - ZLSD --- United List of Social Democrats (ZLSD),NA,2014-06-09T08:55:11Z,2017-06-15T16:10:25Z,4710,1403
+SVN,essold,NA,ZARES,NA,ZARES - New Politics,2008,2012,NA,NA,ZARES - New Politics,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:43Z,5027,474
+ESP,essold,NA,AMAIUR,AMAIUR,NA,2012,2012,NA,NA,AMAIUR,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:40Z,4733,1671
+ESP,essold,NA,BNG,Bloque Nacionalista Galego (BNG),NA,2002,2012,NA,NA,Bloque Nacionalista Galego (BNG),NA,2014-06-09T08:55:12Z,2017-06-15T16:10:45Z,4730,1011
+ESP,essold,NA,CHA,Chunta Aragonesista (CHA),NA,2002,2006,NA,NA,Chunta Aragonesista (CHA),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:34Z,4634,1564
+ESP,essold,NA,CC,Coalición Canaria (CC),NA,2002,2012,NA,NA,Coalición Canaria - Nueva Canarias --- Coalición Canaria (CC) --- Coalición Canaria-Partido Nacionalista Canario (CC-PNC),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:36Z,5095,81
+ESP,essold,NA,EQUO,Compromís - EQUO,NA,2012,2012,NA,NA,Compromís - EQUO,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:21Z,4979,NA
+ESP,essold,NA,NA,Convergčncia i Unió (CiU),NA,2002,2012,NA,NA,Convergčncia i Unió (CiU),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:37Z,5124,139
+ESP,essold,NA,ERC,Esquerra Repubicana de Catalunya (ERC),NA,2002,2012,NA,NA,Esquerra Repubicana de Catalunya (ERC) --- Esquerra Republicana de Catalunya (ERC),NA,2014-06-09T08:55:13Z,2017-06-15T16:10:32Z,4813,848
+ESP,essold,NA,EA,Eusko Alkartasuna (EA),NA,2002,2006,NA,NA,Eusko Alkartasuna (EA),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:32Z,5001,1324
+ESP,essold,NA,NA,Foro de Ciudadanos,NA,2012,2012,NA,NA,Foro de Ciudadanos,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:37Z,5018,NA
+ESP,essold,NA,NA,Geroa Bai,NA,2012,2012,NA,NA,Geroa Bai,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:37Z,5003,NA
+ESP,essold,NA,ICV,Iniciativa per Catalunya-Verds (ICV),NA,2002,2006,NA,NA,Iniciativa per Catalunya-Verds (ICV),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:35Z,4635,1260
+ESP,essold,NA,IU,Izquierda Unida (IU),NA,2002,2012,NA,NA,Izquierda Unida (IU) --- Izquierda Unida (IU)-(ICV en Cataluńa),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:41Z,5088,247
+ESP,essold,NA,NA,Nafarroa-Bai (NA-BAI),NA,2004,2010,NA,NA,Nafarroa-Bai (NA-BAI),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:41Z,4997,611
+ESP,essold,NA,PA,Partido Andalucista (PA),NA,2002,2006,NA,NA,Partido Andalucista (PA),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:26Z,4931,1497
+ESP,essold,NA,PNV,Partido Nacionalista Vasco (PNV),NA,2002,2012,NA,NA,Partido Nacionalista Basco (PNV) --- Partido Nacionalista Vasco (PNV),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:34Z,5142,1637
+ESP,essold,NA,PSOE,Partido Socialista Obrero Espańol (PSOE),NA,2002,2012,NA,NA,Partido Socialista Obrero Espańol (PSOE),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:36Z,5164,1338
+ESP,essold,NA,UP,Unión Progreso y Democracia (UPyD),NA,2008,2012,NA,NA,"Unión Progreso y Democracia (UPyD) --- Unión, Progreso y Democracia (UPyD)",NA,2014-06-09T08:55:13Z,2017-06-15T16:10:36Z,4829,55
+ESP,essold,NA,NA,NA,Partido Popular,2002,2012,NA,NA,Partido Popular --- Partido Popular - PP (con UPN en Navarra) --- Partido Popular (PP),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:33Z,4643,441
+SWE,essold,NA,NA,Centern,NA,2002,2012,NA,NA,Centern --- Centre party --- Centre Party,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:34Z,4887,199
+SWE,essold,NA,FI,FI (Feministiskt initiativ),NA,2010,2012,NA,NA,FI (Feministiskt initiativ),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:42Z,5004,1240
+SWE,essold,NA,NA,Junilistan,NA,2010,2010,NA,NA,Junilistan,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:35Z,5019,1093
+SWE,essold,NA,NA,Kristdemokraterna,NA,2002,2012,NA,NA,Christian democrats --- Christian Democrats --- Kristdemokraterna,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:32Z,4913,651
+SWE,essold,NA,NA,Liberals,NA,2002,2012,NA,NA,Folkpartiet liberalerna --- Liberals,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:27Z,5065,1274
+SWE,essold,NA,NA,Piratpartiet,NA,2012,2012,NA,NA,Piratpartiet,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:22Z,4958,1485
+SWE,essold,NA,NA,Sverigedemokraterna,NA,2010,2012,NA,NA,Sverigedemokraterna,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:22Z,5010,409
+SWE,essold,NA,NA,NA,Conservative,2002,2012,NA,NA,Conservative --- Moderata samlingspartiet,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:28Z,4908,690
+SWE,essold,NA,NA,NA,Green party,2002,2012,NA,NA,Green party --- Green Party --- Miljöpartiet de gröna,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:37Z,4560,456
+SWE,essold,NA,NA,NA,Left,2002,2012,NA,NA,Left --- Vänsterpartiet,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:37Z,4945,830
+SWE,essold,NA,NA,NA,Social democrats,2002,2012,NA,NA,Social democrats --- Social Democrats --- Socialdemokraterna,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:27Z,4755,487
+CHE,essold,NA,NA,Freiheits-Partei,NA,2002,2006,NA,NA,Freiheits-Partei,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:34Z,5029,1311
+CHE,essold,NA,NA,Radicals,NA,2002,2010,NA,NA,Radicals,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:33Z,4767,360
+CHE,essold,NA,NA,NA,Alliance of the Independents,2002,2004,NA,NA,Alliance of the Independents,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:37Z,4862,1194
+CHE,essold,NA,NA,NA,Alternative Left,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:35Z,4749,NA
+CHE,essold,NA,NA,NA,Bourgois-democratic Party,2010,2012,NA,NA,Bourgois-democratic Party --- Conservative Democratic Party,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:28Z,4679,1415
+CHE,essold,NA,NA,NA,Christian-democrats,2002,2012,NA,NA,Christian democrats --- Christian Democrats --- Christian-democrats,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:22Z,5127,1808
+CHE,essold,NA,NA,NA,Christian-social,2002,2012,NA,NA,Christian Social Party --- Christian-social --- Christian-Social Party,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:38Z,4631,1122
+CHE,essold,NA,NA,NA,Evangelical People's Party,2002,2012,NA,NA,Evangelical People's Party --- Evangelical People’s Party,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:30Z,5074,1123
+CHE,essold,NA,NA,NA,Federal Democratic Union,2002,2012,NA,NA,Federal Democratic Union,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:39Z,4524,631
+CHE,essold,NA,NA,NA,Green liberal party,2008,2012,NA,NA,Green liberal party --- Green Liberal Party,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:31Z,4541,1759
+CHE,essold,NA,NA,NA,Green Party,2002,2012,NA,NA,Green party --- Green Party,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:42Z,4660,1006
+CHE,essold,NA,NA,NA,Liberal Party,2002,2010,NA,NA,Liberal party --- Liberal Party,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:42Z,4554,444
+CHE,essold,NA,NA,NA,Movement of the Citizens belonging to French-speaking Switzerland,2012,2012,NA,NA,Movement of the Citizens belonging to French-speaking Switzerland,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:30Z,4943,1270
+CHE,essold,NA,NA,NA,Pirate Party Switzerland,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:33Z,4655,NA
+CHE,essold,NA,NA,NA,Radical Liberals,2010,2012,NA,NA,FDP. The Liberals --- Radical Liberals,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:44Z,4553,1231
+CHE,essold,NA,NA,NA,Socialist party,2002,2012,NA,NA,Social-democrats --- Socialist party --- Socialist Party,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:34Z,4852,29
+CHE,essold,NA,NA,NA,Swiss Democrats,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:38Z,4769,NA
+CHE,essold,NA,NA,NA,Swiss labor party,2002,2012,NA,NA,Swiss labor party --- Swiss Labour Party,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:27Z,4837,669
+CHE,essold,NA,NA,NA,Swiss Nationalist Party,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:40Z,4819,NA
+CHE,essold,NA,NA,NA,Swiss people party,2002,2012,NA,NA,Swiss people party --- Swiss People's Party --- Swiss People’s Party,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:39Z,4866,308
+CHE,essold,NA,NA,NA,Ticino League,2002,2012,NA,NA,Lega dei Ticinese --- Lega dei Ticinesi --- Ticino League,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:46Z,5066,1661
+CHE,essold,NA,NA,NA,Women's Parties,2002,2006,NA,NA,Women's Parties,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:44Z,5168,1201
+TUR,essold,NA,AKP,Adalet Kalkinma Partisi (AKP),NA,2004,2008,NA,NA,Adalet Kalkinma Partisi (AKP) --- AKP-Adalet ve Kalkinma Partisi,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:36Z,5112,306
+TUR,essold,NA,ANAP,ANAP-Anavatan Partisi,NA,2004,2008,NA,NA,ANAP-Anavatan Partisi --- Anavatan Partisi (ANAP),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:37Z,4533,1190
+TUR,essold,NA,BBP,BBP-Buyuk Birlik Partisi,NA,2004,2008,NA,NA,BBP-Buyuk Birlik Partisi --- Buyuk Birlik Partisi (BBP),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:43Z,5084,1330
+TUR,essold,NA,CHP,CHP-Cumhuriyet Halk Partisi,NA,2004,2008,NA,NA,CHP-Cumhuriyet Halk Partisi --- Cumhuriyet Halk Partisi (CHP),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:45Z,5073,1060
+TUR,essold,NA,DEHAP,DEHAP-DTH,NA,2004,2004,NA,NA,DEHAP-DTH,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:25Z,5022,1355
+TUR,essold,NA,DTP,Demokratik Toplum Partisi (DTP),NA,2008,2008,NA,NA,Demokratik Toplum Partisi (DTP),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:42Z,5105,1606
+TUR,essold,NA,DP,Demokrat Parti (DP),NA,2008,2008,NA,NA,Demokrat Parti (DP),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:28Z,4995,899
+TUR,essold,NA,DSP,DSP-Demokratik Sol Parti,NA,2004,2008,NA,NA,Demokratik Sol Parti (DSP) --- DSP-Demokratik Sol Parti,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:46Z,4909,1740
+TUR,essold,NA,DYP,DYP-Dogru Yol Partisi,NA,2004,2004,NA,NA,DYP-Dogru Yol Partisi,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:35Z,4801,351
+TUR,essold,NA,EMEP,Emek Partisi (EMEP),NA,2008,2008,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:37Z,4616,NA
+TUR,essold,NA,GP,GP-Genc Parti,NA,2004,2004,NA,NA,GP-Genc Parti,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:31Z,5183,159
+TUR,essold,NA,IP,Isci Partisi (IP),NA,2008,2008,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:38Z,4640,NA
+TUR,essold,NA,MHP,MHP-Milliyetci Hareket Partisi,NA,2004,2008,NA,NA,MHP-Milliyetci Hareket Partisi --- Milliyetci Hareket Partisi (MHP),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:37Z,5193,1610
+TUR,essold,NA,ODP,Ozgurluk Dayanisma Partisi (ODP),NA,2004,2008,NA,NA,ODP- Ozgurluk ve Dayanisma Partisi --- Ozgurluk Dayanisma Partisi (ODP),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:22Z,5069,1622
+TUR,essold,NA,SHP,SHP-Sosyal Demokrat Halkci Parti,NA,2004,2008,NA,NA,SHP-Sosyal Demokrat Halkci Parti --- Sosyal Demokrat Halkci Parti (SHP),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:23Z,4661,1253
+TUR,essold,NA,SP,SP-Saadet Partisi,NA,2004,2008,NA,NA,Saadet Partisi (SP) --- SP-Saadet Partisi,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:23Z,4571,572
+TUR,essold,NA,TKP,T. Komunist Partisi (TKP),NA,2008,2008,NA,NA,T. Komunist Partisi (TKP),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:41Z,4953,818
+UKR,essold,NA,NA,Bloc of Yulia Tymoshenko,NA,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:37Z,4544,2228
+UKR,essold,NA,NA,NA,All-Ukrainian Labor Party,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:30Z,4572,NA
+UKR,essold,NA,NA,NA,All-Ukrainian Party 'New Power',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:37Z,4864,3265
+UKR,essold,NA,NA,NA,"All Ukrainian Union ""Fatherland""",2004,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:42Z,4641,3266
+UKR,essold,NA,NA,NA,"All Ukrainian Union ""Freedom""",2004,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:45Z,4854,3267
+UKR,essold,NA,NA,NA,All-Ukrainian union 'Freedom' (O.Tyagnybok),2004,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:41Z,4575,3267
+UKR,essold,NA,NA,NA,Block of Lytvyn,2006,2010,NA,NA,Block of Lytvyn --- Peoples' bloc of Lytvyn,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:37Z,4914,2230
+UKR,essold,NA,NA,NA,Block of Yulia Tymoshenko,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:42Z,4879,2228
+UKR,essold,NA,NA,NA,Block 'Our Ukraine - People's self-defense',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:38Z,5090,2231
+UKR,essold,NA,NA,NA,Bloc of Natalya Vitrenko 'Peoples' opposition',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:41Z,4838,2208
+UKR,essold,NA,NA,NA,Bloc 'Our Ukraine',2006,2010,NA,NA,'People's Self-defense' (Yu.Lutsenko) --- Bloc 'Our Ukraine' --- Political party 'Our Ukraine' (V.Yuschenko),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:38Z,4644,2231
+UKR,essold,NA,PORA,NA,Civil bloc PORA-PRP,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:26Z,4823,NA
+UKR,essold,NA,NA,NA,Communist Party of Ukraine,2004,2012,NA,NA,Communist party of Ukraine --- Communist Party of Ukraine --- Communist Party of Ukraine (renew),NA,2014-06-09T08:55:14Z,2017-06-15T16:10:44Z,4880,2220
+UKR,essold,NA,NA,NA,Communist Party of Workers and Peasants,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:36Z,4924,NA
+UKR,essold,NA,NA,NA,Election bloc of Political Parties 'Against All',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:38Z,4753,NA
+UKR,essold,NA,NA,NA,Election bloc of Political Parties 'Democratic Party of Ukra,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:24Z,5082,NA
+UKR,essold,NA,NA,NA,Election bloc of Political Parties 'For One Ukraine!',2004,2004,NA,NA,Election bloc of Political Parties 'For One Ukraine!',NA,2014-06-09T08:55:11Z,2017-06-15T16:10:41Z,4669,2224
+UKR,essold,NA,NA,NA,Election bloc of Political Parties 'Juliya Tymoshenko electi,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:34Z,5146,NA
+UKR,essold,NA,NA,NA,Election bloc of Political Parties 'Nataliya Vitrenko Bloc',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:34Z,5190,2208
+UKR,essold,NA,NA,NA,Election bloc of Political Parties 'People's Movement of Ukr,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:43Z,5184,NA
+UKR,essold,NA,NA,NA,Election bloc of Political Parties 'Ruses bloc',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:43Z,4601,NA
+UKR,essold,NA,NA,NA,Election bloc of Political Parties 'Team of Winter Generatio,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:35Z,5039,NA
+UKR,essold,NA,NA,NA,Election bloc of Political Parties Ukrainian party and All U,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:44Z,4942,NA
+UKR,essold,NA,NA,NA,Election bloc of Political Parties 'Unity',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:40Z,4869,NA
+UKR,essold,NA,NA,NA,Election bloc of Political Parties 'Victor Yushchenko Bloc ',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:33Z,4723,2231
+UKR,essold,NA,ZUBR,NA,"Election bloc of Political Parties 'ZUBR' (For Ukraine, Byel",2004,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:22Z,5024,NA
+UKR,essold,NA,NA,NA,Liberal Party of Ukraine (renew),2004,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:27Z,4925,NA
+UKR,essold,NA,NOT,NA,Oppositional bloc 'NOT THIS WAY',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:39Z,4735,NA
+UKR,essold,NA,NA,NA,Party 'New Generation of Ukraine',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:37Z,4736,NA
+UKR,essold,NA,NA,NA,Party of All-Ukrainian union of the left 'Justice',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:39Z,4674,NA
+UKR,essold,NA,NA,NA,Party of Regions,2006,2012,NA,NA,Party of regions --- Party of Regions,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:30Z,4568,2234
+UKR,essold,NA,NA,NA,Party of Rehabilitation of Invalids of Ukraine,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:38Z,4654,NA
+UKR,essold,NA,PUNCH,NA,Party 'PUNCH' of Vitaly Klychko,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:31Z,5058,NA
+UKR,essold,NA,NA,NA,Party 'Veche',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:47Z,5077,NA
+UKR,essold,NA,NA,NA,Peasant Party of Ukraine,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:39Z,5159,2220
+UKR,essold,NA,NA,NA,People's Party of Depositors and of Social Protection,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:22Z,4870,NA
+UKR,essold,NA,NA,NA,Political Party 'All-Ukrainian Union of Christians',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:43Z,5044,NA
+UKR,essold,NA,NA,NA,Political Party 'Apple',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:43Z,4956,NA
+UKR,essold,NA,NA,NA,Political party 'Civil position' (A.Grytsenko),2004,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:36Z,4562,NA
+UKR,essold,NA,NA,NA,Political party 'Front of changes' (A.Yatsenuk),2004,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:28Z,4817,NA
+UKR,essold,NA,NA,NA,Political pary 'Power Ukraine' (S.Tygypko),2004,2012,NA,NA,NA,NA,2014-06-09T08:55:09Z,2017-06-15T16:10:42Z,4579,NA
+UKR,essold,NA,NA,NA,Progressive socialist party of Ukraine,2008,2010,NA,NA,Progressive socialist party of Ukraine,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:33Z,4780,2208
+UKR,essold,NA,NA,NA,Social-democratic Party of Ukraine,2004,2004,NA,NA,Social-democratic Party of Ukraine,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:30Z,5100,NA
+UKR,essold,NA,NA,NA,Social-Democratic Party of Ukraine (united),2004,2004,NA,NA,Social-Democratic Party of Ukraine (united),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:36Z,5052,2210
+UKR,essold,NA,NA,NA,Socialist Party of Ukraine,2004,2010,NA,NA,Socialist party of Ukraine --- Socialist Party of Ukraine,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:26Z,4778,2211
+UKR,essold,NA,NA,NA,The Green Party of Ukraine,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:22Z,5030,2226
+UKR,essold,NA,UDAR,NA,UDAR (Ukrainian Democratic Alliance for Reform) of Vitali Klitschko,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:18Z,2017-06-15T16:10:43Z,5173,NA
+UKR,essold,NA,NA,NA,Ukrainian National Assembly,2004,2004,NA,NA,Ukrainian National Assembly,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:33Z,5050,2213
+UKR,essold,NA,NA,NA,Ukrainian Peoples' bloc of Kostenko and Plyusch,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:39Z,5110,NA
+UKR,essold,NA,NA,NA,Ukrainian Political Party 'Christian Movement',2004,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:39Z,4894,NA
+UKR,essold,NA,NA,NA,Ukrainian Sea Party,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:38Z,4833,NA
+UKR,essold,NA,NA,NA,'Woman for the Future' All-Ukrainian Political Union,2004,2012,NA,NA,NA,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:33Z,5083,NA
+GBR,essold,NA,NA,Plaid Cymru,NA,2002,2012,NA,NA,Plaid Cymru,NA,2014-06-09T08:55:15Z,2017-06-15T16:10:25Z,4989,NA
+GBR,essold,NA,NA,Sinn Fein,NA,2002,2012,NA,NA,Sinn Fein --- Sinn Fein (nir),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:37Z,4567,NA
+GBR,essold,NA,NA,NA,Alliance Party,2002,2012,NA,NA,Alliance Party  --- Alliance Party (nir),NA,2014-06-09T08:55:09Z,2017-06-15T16:10:23Z,4523,1477
+GBR,essold,NA,NA,NA,British National Party,2006,2006,NA,NA,British National Party,NA,2014-06-09T08:55:17Z,2017-06-15T16:10:33Z,5123,855
+GBR,essold,NA,NA,NA,Conservative,2002,2012,NA,NA,Conservative --- Conservative,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:45Z,4630,NA
+GBR,essold,NA,NA,NA,Democratic Unionist Party,2002,2012,NA,NA,Democratic Unionist Party --- Democratic Unionist Party (nir),NA,2014-06-09T08:55:15Z,2017-06-15T16:10:45Z,4916,NA
+GBR,essold,NA,NA,NA,Green Party,2002,2012,NA,NA,Green Party,NA,2014-06-09T08:55:16Z,2017-06-15T16:10:38Z,5067,1794
+GBR,essold,NA,NA,NA,Labour,2002,2012,NA,NA,Labour --- Labour,NA,2014-06-09T08:55:12Z,2017-06-15T16:10:26Z,4745,1516
+GBR,essold,NA,NA,NA,Liberal Democrat,2002,2012,NA,NA,Liberal Democrat --- Liberal Democrat,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:37Z,4637,1388
+GBR,essold,NA,NA,NA,Northern Ireland Unionist Party,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:30Z,4882,NA
+GBR,essold,NA,NA,NA,Northern Ireland Unionist Party (nir),2002,2012,NA,NA,NA,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:23Z,4615,NA
+GBR,essold,NA,NA,NA,Progressive Unionist Party,2002,2012,NA,NA,Progressive Unionist Party  --- Progressive Unionist Party (nir),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:41Z,5115,NA
+GBR,essold,NA,NA,NA,Scottish National Party,2002,2012,NA,NA,Scottish National Party,NA,2014-06-09T08:55:13Z,2017-06-15T16:10:40Z,4809,986
+GBR,essold,NA,NA,NA,Social Democratic and Labour Party,2002,2012,NA,NA,Social Democratic and Labour Party  --- Social Democratic and Labour Party (nir),NA,2014-06-09T08:55:10Z,2017-06-15T16:10:21Z,4620,762
+GBR,essold,NA,NA,NA,Uk Independence Party,2006,2006,NA,NA,Uk Independence Party,NA,2014-06-09T08:55:10Z,2017-06-15T16:10:33Z,4649,601
+GBR,essold,NA,NA,NA,Ulster Unionist Party,2002,2012,NA,NA,Ulster Unionist Party --- Ulster Unionist Party (nir),NA,2014-06-09T08:55:12Z,2017-06-15T16:10:38Z,4786,NA
+GBR,essold,NA,NA,NA,United Kingdom Unionist Party,2002,2012,NA,NA,United Kingdom Unionist Party --- United Kingdom Unionist Party (nir),NA,2014-06-09T08:55:18Z,2017-06-15T16:10:41Z,5165,1318
+GBR,essold,NA,NA,NA,United Unionist Assembly Party,2002,2012,NA,NA,NA,NA,2014-06-09T08:55:14Z,2017-06-15T16:10:41Z,4876,NA
+GBR,essold,NA,NA,NA,United Unionist Assembly Party (nir),2002,2012,NA,NA,NA,NA,2014-06-09T08:55:11Z,2017-06-15T16:10:43Z,4696,NA
+GBR,essold,NA,NA,NA,Women's Coalition,2002,2012,NA,NA,Women's Coalition --- Women's Coalition (nir) --- Womens Coalition (nir),NA,2014-06-09T08:55:16Z,2017-06-15T16:10:42Z,5053,NA
+GBR,essold,NA,NA,NA,Workers Party,2002,2012,NA,NA,Workers Party --- Workers Party (nir),NA,2014-06-09T08:55:17Z,2017-06-15T16:10:42Z,5143,NA

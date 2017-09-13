@@ -5,28 +5,21 @@ http://www.europeansocialsurvey.org/data/round-index.html
 
 ## Credits
 
-Jan Fischer -- University of Bremen -- 2015  
-Tomasz Żółtak -- Polish Academy of Sciences, Poland -- 2014
-
-Holger Döring -- University of Bremen -- 2015  
+Holger Döring – University of Bremen – 2017, 2015  
+Jan Fischer – University of Bremen – 2015  
+Tomasz Żółtak – Polish Academy of Sciences, Poland – 2014
 
 ## Import
 
-The initial version of the dataset was created with a script, with significant support by [Tomasz Żółtak](mailto:t.zoltak@ibe.edu.pl).  
-Tomasz also added Party Facts IDs to most parties, so that the identification of identical parties across ESS rounds was more easy.  
+[ESS Cumulative Data](http://www.europeansocialsurvey.org/downloadwizard/) – Variables Politics
 
 We use two scripts here:
-* `ess-extract.R`  
-  This script extracts all parties of the original ESS datasets (SPSS format) and puts them into `ess-parties.csv`.  
-  The data is in long format: Each row contains a party in a round.
+* `ess-parties.R`  
+  The script extracts all parties of the ESS dataset (Stata format) and puts them into `ess-parties-round.csv` and `ess-parties.csv`. We use the vote intention questions ("prtvt") only to extract parties and calculate the maximum size based on it.
 
-* `ess-google-sheet.R`  
-  This script checks if all parties of `ess-parties.csv` occur in a Google Sheet [ESS party list](https://docs.google.com/spreadsheets/d/1KN6_jhur5LVHBSZ4Ij5eZHgrL4X4O1W1_Gq55lpC5TU/pub?output=csv) used for clean-up.  
-  It adds parties to this dataset when they are missing.
-  It also does some data cleaning and exports the data into `ess.csv`.  
-  This data is in wide format: Each row contains a party, with variables containing party names in each round.
+* `ess.R`     
+  The script combines `ess-parties.csv` with cleaned-up party information in a [Google Sheet document](https://docs.google.com/spreadsheets/d/e/2PACX-1vShN6niFbUoafOKmngESbROIHBIyvzVP_H7FXU5COSnQRb_YgYjZq24iv27Emj_kZAu5EBndMnSJrAa/pub?output=csv) (`ess-sheet.csv`) used for import into Party Facts (`ess.csv`).
 
+An initial script and dataset was created with significant support by [Tomasz Żółtak](mailto:t.zoltak@ibe.edu.pl).  
 
-## Todo later
-
- * add size information based on the number of respondents
+Tomasz also added Party Facts IDs to most parties, so that the identification of identical parties across ESS rounds was more easy.  
