@@ -1,0 +1,572 @@
+id,country,name_short,name,name_english,name_source,year_first,year_last,share_max,share_year,waves
+8001,ALB,,Partia Socialiste,Socialist Party,AL: Partia Socialiste - Socialist Party,1994,2004,43,1998,3 4
+8002,ALB,,Partia Demokratike,Democratic Party,AL: Partia Demokratike - Democratic Party,1994,2004,31.1,2004,3 4
+8004,ALB,,Partia Social Demokrate,The Social Democrat Party,AL: Partia Social Demokrate - The Social Democrat Party,1994,2004,11.1,1998,3 4
+8005,ALB,,Partia Republikane,The Republican Party,AL: Partia Republikane - The Republican Party,1994,2004,4.9,1998,3 4
+8006,ALB,,Partia e Alencas Demokratike,The Democratic Alliance Party,AL: Partia e Alencas Demokratike - The Democratic Alliance Party,1994,2004,5.1,1998,3 4
+12001,DZA,FLN,Front de libération Nationale,,DZ: FLN ((Front de libération Nationale),2000,2014,51.9,2004,4 6
+12003,DZA,,Hamas,,DZ: Hamas,2000,2004,15.9,2004,4
+12005,DZA,FFS,Front des forces socialistes,,DZ: FFS (Front des forces socialistes),2000,2014,9.8,2014,4 6
+12006,DZA,RND,Rassemblement national démocratique,,DZ: RND (Rassemblement national démocratique),2000,2014,18.8,2014,4 6
+12007,DZA,HMS,Mouvement de la société pour la paix,,DZ: HMS (Mouvement de la société pour la paix),2010,2014,11.5,2014,6
+12008,DZA,PT,Parti des travailleurs,,DZ: PT (Parti des travailleurs),2010,2014,11.2,2014,6
+12010,DZA,FNA,Front national algérien,,DZ: FNA (Front national algérien),2010,2014,2.6,2014,6
+20001,AND,,Partit Liberal,,AD: Partit Liberal,2005,2009,23.1,2009,5
+20005,AND,,Partit Socialdemòcrata,,AD: Partit Socialdemòcrata,2005,2009,46.1,2009,5
+20006,AND,,Els Verds d´Andorra,,AD: Els Verds d´Andorra,2005,2009,20.3,2009,5
+31001,AZE,,,New Azerbaijan Party,AZ: New Azerbaijan Party,2010,2014,95.1,2014,6
+32006,ARG,,Frepaso,,AR: Frepaso,1994,1998,20.2,1998,3
+32009,ARG,,,"Compromise for change, Macri Party","AR: Compromise for change, Macri Party",2005,2009,10,2009,5
+32012,ARG,,,Justicialista Party,AR: Justicialista Party,1994,2004,45.8,2004,3 4
+36001,AUS,,Australian Labour Party,Australian Labour Party,AU: Australian Labour Party,1994,2014,35.5,1998,3 5 6
+36002,AUS,,Liberal Party,Liberal Party,AU: Liberal Party,1994,2014,47.5,2009,3 5 6
+36003,AUS,,National Party,National Party,AU: National Party,1994,2014,5.7,2014,3 5 6
+36004,AUS,,The Greens,The Greens,AU: The Greens,1994,2014,13.6,2014,3 5 6
+36005,AUS,,Australian Democrats,Australian Democrats,AU: Australian Democrats,1994,2014,7.2,1998,3 5 6
+36008,AUS,,One Nation,One Nation,AU: One Nation,2005,2014,1.9,2009,5 6
+36009,AUS,,Family First,Family First,AU: Family First,2005,2014,3.6,2009,5 6
+50001,BGD,,,Awami League,BD: Awami League,1994,2004,58.7,1998,3 4
+50002,BGD,BNP,,Bangladesh National Party,BD: Bangladesh National Party (BNP),1994,2004,32.8,2004,3 4
+50003,BGD,,,Jatiya Party,BD: Jatiya Party,1994,2004,13.1,2004,3 4
+50004,BGD,,Jamat,,BD: Jamat,1994,2004,5.5,2004,3 4
+51001,ARM,HHS,Hayots Hamazgayin Shargzum,Pan-Armenian National Movement,AM: Pan-Armenian National Movement - Hayots Hamazgayin Shargzum (HHSh),1994,1998,21.3,1998,3
+51002,ARM,HHD,Hay Heghapokhakan Dashnaktsutyun,Armenian Revolutionary Federation,AM: Armenian Revolutionary Federation - Hay Heghapokhakan Dashnaktsutyun (HHD),1994,2014,16,1998,3 6
+51003,ARM,HKK,Hayastani Komunistakan Kusaktsutyun,Armenian Communist Party,AM: Armenian Communist Party - Hayastani Komunistakan Kusaktsutyun (HKK),1994,2014,23.5,1998,3 6
+51005,ARM,AGzM,Azgayin Gzoghovrdakan Miutyun,National Unity,AM: National Unity - Azgayin Gzoghovrdakan Miutyun (AGzM),1994,2014,11,1998,3 6
+51009,ARM,HHK,Hayastani Hanrapetakan Kusaksutyun,Republican Party of Armenia,AM: Republican Party of Armenia - Hayastani Hanrapetakan Kusaksutyun (HHK),1994,2014,42.3,2014,3 6
+51027,ARM,BHK,Bargavach Hayastani Kusaktsutyun,Prosperous Armenia,AM: Prosperous Armenia - Bargavach Hayastani Kusaktsutyun  (BHK),2010,2014,35.2,2014,6
+70002,BIH,SNSD,Stranka nezavisnih socijal-demokrata,,BA: Stranka nezavisnih socijal-demokrata (SNSD),2000,2004,5.4,2004,4
+70003,BIH,SPRS,Socijalistia partija Republike Srpska,,BA: Socijalistia partija Republike Srpska (SPRS),1994,2004,2.1,2004,3 4
+70004,BIH,SDS,Srpska demokratska stranka,,BA: Srpska demokratska stranka (SDS),2000,2004,7.2,2004,4
+70005,BIH,SRS-RS,Srpska radikalna stranka Republike Srpske,,BA: Srpska radikalna stranka Republike Srpske (SRS RS),2000,2004,1.4,2004,4
+70006,BIH,PDP,Partija Demokratskog Progresa,,BA: Partija Demokratskog Progresa (PDP),2000,2004,6.1,2004,4
+70009,BIH,SDA,Stranka Demokratske Akcije,,BA: Stranka Demokratske Akcije (SDA),1994,2004,36.4,1998,3 4
+70010,BIH,SB,Stranka za Bosnu i Hercegovinu,,BA: Stranka za Bosnu i Hercegovinu (SB&H),1994,2004,18.4,2004,3 4
+70012,BIH,BOSS,Bosanska Stranka,,BA: Bosanska Stranka (BOSS),1994,2004,3,2004,3 4
+70013,BIH,SABiH,Stranka Aena BiH,,BA: Stranka Å½ena BiH (SÅ½BiH),2000,2004,2.1,2004,4
+70015,BIH,,Bosanska Socijal Demokratska Partija,,BA: Bosanska Socijal Demokratska Partija,2000,2004,26,2004,4
+70016,BIH,BIH-HDZ,Hrvatska Demokratska Zajednica -- BIH,,BA: Hrvatska Demokratska Zajednica - BIH (HDZ-BiH),2000,2004,5.4,2004,4
+70017,BIH,NHI,Nova Hrvatska Inicijativa,,BA: Nova Hrvatska Inicijativa (NHI),2000,2004,1.4,2004,4
+70029,BIH,,,United List for Bosnia and Herzegovina,BA: United List for Bosnia and Herzegovina,1994,1998,6.4,1998,3
+70030,BIH,HDZ,Hrvatska demokratska zajednica,,BA: Hrvatska demokratska zajednica (HDZ),1994,1998,20.8,1998,3
+70034,BIH,LBO,Liberalna b. organizacija,,BA: Liberalna b. organizacija (LBO),1994,1998,1,1998,3
+70036,BIH,,,Woman Bosnia and Hercegovina,BA: Woman Bosnia and Hercegovina,1994,1998,1,1998,3
+70039,BIH,SDP,Socijal-demokratska partija,,BA: Socijal-demokratska partija (SDP),1994,1998,15.9,1998,3
+76001,BRA,PMDB,,Party of Brazilian Democratic Movement,BR: PMDB - Party of Brazilian Democratic Movement,1990,2014,28.4,1994,2 5 6
+76002,BRA,PT,,Workers´Party,BR: PT - Workers´Party,1990,2014,45.8,2014,2 5 6
+76003,BRA,PSDB,,Brazilian Social Democracy,BR: PSDB - Brazilian Social Democracy,1990,2014,16.2,2009,2 5 6
+76004,BRA,PDT,,Democratic Labor Party,BR: PDT - Democratic Labor Party,1990,2014,12.2,1994,2 5 6
+76005,BRA,PPB,,,BR: PPB,2005,2009,14.3,2009,5
+76006,BRA,PFL,,Liberal Front,BR: PFL - Liberal Front,1990,2009,4.6,1994,2 5
+76007,BRA,PTB,,Brazilian Labor Party,BR: PTB - Brazilian Labor Party,1990,2014,2.8,1994,2 5 6
+76022,BRA,PSOL,PSOL,,BR: PSOL,2005,2014,52.2,2009,5 6
+76023,BRA,DEM,,Democrats,BR: DEM (Democrats),2010,2014,2,2014,6
+100001,BGR,SDS,Suyuz na demokratichnite sili,Union of Democratic Forces,BG: Suyuz na demokratichnite sili (SDS) - Union of Democratic Forces,1994,2009,55,1998,3 5
+100003,BGR,BSP,Balgarska Socialisticheska Partiya,Bulgarian Socialist Party,BG: Balgarska Socialisticheska Partiya (BSP) - Bulgarian Socialist Party,1994,2009,47.7,2009,3 5
+100004,BGR,BEL,Bulgarska Evrolevitza,The Euro-Left,BG: Bulgarska Evrolevitza (BEL) - The Euro-Left,1994,1998,8.1,1998,3
+100005,BGR,BBB,Bulgarska biznes blok,Bulgarian Business Block,BG: Bulgarska biznes blok (BBB) - Bulgarian Business Block,1994,1998,3.5,1998,3
+100006,BGR,DPS,Dvijenie za Prava i Svobodi,Movement for Rights and Freedom,BG: Dvijenie za Prava i Svobodi (DPS) - Movement for Rights and Freedom,1994,2009,9,2009,3 5
+100010,BGR,II,,Monarchist -- National Movement Simeon II,BG: Monarchist  - National Movement Simeon II (2006),2005,2009,2.9,2009,5
+100012,BGR,BZNS,Balgarski Zemedelski Naroden Sajuz,Bulgarian Agrarian National Union,BG: Balgarski Zemedelski Naroden Sajuz (BZNS) - Bulgarian Agrarian National Union,1994,1998,1.7,1998,3
+100013,BGR,VMRO-DPMNE,Vnatrena Makedonska Revol. Org. / Dem. Partija,Internal Macedonian Revolutionary Organization,BG: Vnatrena Makedonska Revol. Org./Dem. Partija (VMRO/DPMNE) Internal Macedonian Revolutionary Organization,1994,2009,1,2009,3 5
+100017,BGR,,,Democrats for Strong Bulgaria,BG: Democrats for Strong Bulgaria,2005,2009,2.3,2009,5
+100018,BGR,,,Attack´ Party,BG: ´Attack´ Party,2005,2009,7.8,2009,5
+100019,BGR,,,Citizens for European Development of Bulgaria,BG: Citizens for European Development of Bulgaria,2005,2009,19.9,2009,5
+112009,BLR,KPB,Partyja Kamunistau Belaruskaja,Communistic Party of Belarus,BY: Partyja Kamunistau Belaruskaja (KPB) - Communistic Party of Belarus,1994,1998,10.6,1998,3
+112020,BLR,BPZN,Belaruskaja Partyja zancyn Nazeja,,BY: Belaruskaja Partyja zancyn Nazeja (BPZN),1994,1998,19.1,1998,3
+112035,BLR,,,Belorussian People Front,BY: Belorussian People Front,1990,1994,27.4,1994,2
+112036,BLR,,,Social Democrat Party,BY: Social Democrat Party,1990,1994,10.8,1994,2
+112037,BLR,,,Greens or Environmentalist,BY: Greens or Environmentalist,1990,1994,16.3,1994,2
+124001,CAN,,,Liberal,CA: Liberal,2000,2009,47.2,2004,4 5
+124002,CAN,,,Progressive Conservative,CA: Progressive Conservative,2000,2009,36.7,2009,4 5
+124003,CAN,NDP,,N.D.P.,CA: N.D.P.,2000,2009,19.8,2009,4 5
+124005,CAN,,,Canadian Alliance,CA: Canadian Alliance,2000,2004,15.6,2004,4
+124006,CAN,,Bloc Quebecois,,CA: Bloc Quebecois,2000,2009,11.8,2004,4 5
+152001,CHL,UDI,Unión Demócrata Independiente,Union of Independent Democrats,"CL: Unión Demócrata Independiente, UDI (Union of Independent Democrats)",1990,2014,14.4,2004,2 3 4 5 6
+152002,CHL,RN,Renovación Nacional,National Renovation,"CL: Renovación Nacional, RN (National Renovation)",1990,2014,14.9,2014,2 3 4 5 6
+152006,CHL,PPD,Partido Por la Democracia,Party for Democracy,"CL: Partido Por la Democracia, PPD (Party for Democracy)",1994,2014,21.2,2004,3 4 5 6
+152007,CHL,PS,Partido Socialista,Socialist Party,"CL: Partido Socialista, PS (Socialist Party)",1990,2014,24.6,2009,2 3 4 5 6
+152010,CHL,PDC,Partido Demócrata Cristiano,Christian Democratic Party,"CL: Partido Demócrata Cristiano, PDC (Christian Democratic Party)",1990,2014,63.4,1994,2 3 5 6
+158001,TWN,,,Nationalist Party,TW: Nationalist Party,1994,1998,64.9,1998,3
+158002,TWN,,,Democratic Progressive Party,TW: Democratic Progressive Party,1994,1998,21.7,1998,3
+158003,TWN,,,New Party,TW: New Party,1994,1998,7.9,1998,3
+158011,TWN,KMT,,,TW: KMT,2005,2014,63.5,2009,5 6
+158012,TWN,DPP,,,TW: DPP,2005,2014,43.6,2014,5 6
+158014,TWN,TSU,,,TW: TSU,2005,2014,2.1,2009,5 6
+158015,TWN,PFP,,,TW: PFP,2005,2014,3.2,2014,5 6
+170001,COL,,Conservador,,CO: Conservador,1994,2014,20.7,1998,3 6
+170002,COL,,,Liberal,CO: Liberal,1994,2014,53.5,1998,3 5 6
+170003,COL,,Partido de la U,,CO: Partido de la U,1994,2014,38.3,2009,3 5 6
+191001,HRV,ASH,Akcija Socijaldemokrata Hrvatske,,HR: Akcija Socijaldemokrata Hrvatske (ASH),1994,1998,1.5,1998,3
+191004,HRV,HDZ,Hrvatska Demokratska Zajednica,,HR: Hrvatska Demokratska Zajednica (HDZ),1994,1998,33.9,1998,3
+191007,HRV,HNS,Hrvatska Narodna Stranka,,HR: Hrvatska Narodna Stranka (HNS),1994,1998,1.7,1998,3
+191009,HRV,HSS,Hrvatska Seljacka Stranka,,HR: Hrvatska Seljacka Stranka (HSS),1994,1998,14.4,1998,3
+191010,HRV,HSLS,Hrvatska Socijalno Liberalna Stranka,,HR: Hrvatska Socijalno Liberalna Stranka (HSLS),1994,1998,25.8,1998,3
+191011,HRV,HSP,Hrvatska Stranka Prava,,HR: Hrvatska Stranka Prava (HSP),1994,1998,3.4,1998,3
+191014,HRV,HND,Hrvatski Nezavisni Demokrati,,HR: Hrvatski Nezavisni Demokrati (HND),1994,1998,1.1,1998,3
+191016,HRV,IDS,Istarski Demokratski Sabor,,HR: Istarski Demokratski Sabor (IDS),1994,1998,4,1998,3
+191021,HRV,SDP-SDPH,Socijaldemokratska Partija Hrvatske,,HR: Socijaldemokratska Partija Hrvatske (SDP/SDPH),1994,1998,11,1998,3
+196001,CYP,AKEL,,Progressive Party of Working People (AKEL) -- Communist,CY: Progressive Party of Working People (AKEL) - Communist,2005,2014,18.3,2014,5 6
+196002,CYP,DISY,,Democratic Rally (DISY) -- Liberal conservatives,CY: Democratic Rally (DISY) - Liberal conservatives,2005,2014,20,2009,5 6
+196003,CYP,DIKO,,Democratic party (DIKO) -- Centrist,CY: Democratic party (DIKO) - Centrist,2005,2014,12.6,2009,5 6
+196004,CYP,KISOS-EDEK,,Movement for Social Democracy (KISOS/EDEK) -- Social Democrats,CY: Movement for Social Democracy (KISOS/EDEK) - Social Democrats,2005,2014,3.7,2009,5 6
+196009,CYP,UBP,,National Unity Party (UBP): Center right,CY: National Unity Party (UBP): Center right,2005,2014,23.7,2014,5 6
+196011,CYP,CTP-BG,,Republican Turkish Party (CTP/BG) -- Communist,CY: Republican Turkish Party (CTP/BG) - Communist,2005,2014,19.2,2009,5 6
+196019,CYP,,,Ecological and Environmental Movement,CY - Ecological and Environmental Movement,2010,2014,1.1,2014,6
+203001,CZE,CSSD,Ceskoslovenská strana sociální demokracie,Czechoslovak Party of Social Democracy,CZ: Ceskoslovenská strana sociální demokracie (CSSD) - Czechoslovak Party of Social Democracy,1994,1998,26,1998,3
+203003,CZE,KDU-CSL,Křesťanská a demokratická unie -- Ceskoslovenská lidová strana,Christian Democratic Union-Czechoslovak People's Party,CZ: Krestâ??anská a demokratická unie-Ceskoslovenská lidová strana (KDU-CSL) Christian Democratic Union-Czechoslovak Peopleâ??s Party,1994,1998,14,1998,3
+203006,CZE,KSCM,Komunistická strana Cech a Moravy,Communist Party of Bohemia and Moravia,CZ: Komunistická strana Cech a Moravy (KSCM) - Communist Party of Bohemia and Moravia,1994,1998,10.8,1998,3
+203008,CZE,NSS,Nezavisli,Independents,CZ: Nezavisli (N) - Independents,1994,1998,6.3,1998,3
+203009,CZE,ODS,Obcanska Demokraticka Strana,Civic Democratic Party,CZ: Obcanska Demokraticka Strana (ODS) - Civic Democratic Party,1994,1998,20.7,1998,3
+203011,CZE,SPR-RSE,Sdruzeni pro Republiku -- Rep. Strana Ceskoslovenska,Rally for the Republic -- Republican Party of Czechoslovakia,CZ: Sdruzeni pro Republiku - Rep. Strana Ceskoslovenska (SPR-RSE) - Rally for the Republic-Republican Party of Czechoslovakia,1994,1998,1.9,1998,3
+203012,CZE,SZ,Strana zelenych,Green Party,CZ: Strana zelenych (SZ) - Green Party,1994,1998,2.6,1998,3
+203013,CZE,US,Unie Svobody,Freedom Union,CZ: Unie Svobody (US) - Freedom Union,1994,1998,8.5,1998,3
+203022,CZE,ODA,Obcanska demokraticka alliance,Civic Democratic Alliance,CZ: Obcanska demokraticka alliance (ODA) - Civic Democratic Alliance,1994,1998,1.5,1998,3
+203036,CZE,,,Civic forum,CZ: Civic forum,1990,1994,32.1,1994,2
+203038,CZE,,,Christian Democratic Party (Czech. Republ.),CZ: Christian Democratic Party (Czech. Republ.),1990,1994,5.5,1994,2
+203041,CZE,,,Association for Moravia and Silesia,CZ: Association for Moravia and Silesia,1990,1994,14.6,1994,2
+203045,CZE,,,Social Democracy,CZ: Social Democracy,1990,1994,9.3,1994,2
+203046,CZE,,,Greens,CZ: Greens,1990,1994,11,1994,2
+203047,CZE,,,Association of Farmers & Countryside,CZ: Association of Farmers & Countryside,1990,1994,8.6,1994,2
+214001,DOM,PLD,Partido de Liberación Dominicana,,DO: Partido de Liberación Dominicana (PLD),1994,1998,49.1,1998,3
+214002,DOM,PRD,Partido Revolucionario Dominicano,,DO: Partido Revolucionario Dominicano (PRD),1994,1998,39.2,1998,3
+214003,DOM,PRSC,Partido Reformista Social Cristiano,,DO: Partido Reformista Social Cristiano (PRSC),1994,1998,10.2,1998,3
+222001,SLV,ARENA,,,SV: ARENA,1994,1998,55.4,1998,3
+222002,SLV,FMLN,,,SV: FMLN,1994,1998,26.8,1998,3
+222003,SLV,PDC,,,SV: PDC,1994,1998,7.1,1998,3
+222005,SLV,PCN,,,SV: PCN,1994,1998,3.2,1998,3
+231004,ETH,,,All-Amhara People´s Organization,ET: All-Amhara People´s Organization,2005,2009,5.2,2009,5
+231008,ETH,,,Coalition for Unity and Democracy,ET: Coalition for Unity and Democracy,2005,2009,49.2,2009,5
+231010,ETH,,,Ethiopian Democratic Unity Party,ET: Ethiopian Democratic Unity Party,2005,2009,5.9,2009,5
+231011,ETH,,,Ethiopian People´s Revolutionary Democratic Front,ET: Ethiopian People´s Revolutionary Democratic Front,2005,2009,12.6,2009,5
+231015,ETH,,,Oromo Federalist Democratic Movement,ET: Oromo Federalist Democratic Movement,2005,2009,5.7,2009,5
+231016,ETH,,,Oromo National Congress,ET: Oromo National Congress,2005,2009,5.4,2009,5
+231017,ETH,,,Oromo People´s Democratic Organization,ET: Oromo People´s Democratic Organization,2005,2009,2,2009,5
+231021,ETH,,,Southern Ethiopia People´s Democratic Coalition,ET: Southern Ethiopia People´s Democratic Coalition,2005,2009,4.8,2009,5
+231023,ETH,,,Tigrayan People´s Liberation Front,ET: Tigrayan People´s Liberation Front,2005,2009,2.8,2009,5
+231024,ETH,,,United Ethiopian Democratic Forces,ET: United Ethiopian Democratic Forces,2005,2009,2.1,2009,5
+233002,EST,EK,Eesti Keskerakond,Estonian Centre Party,EE: Eesti Keskerakond (EK) - Estonian Centre Party,1994,2014,34.9,2014,3 6
+233008,EST,RE,Eesti Reformierakond,Estonian Reform Party,EE: Eesti Reformierakond (RE) - Estonian Reform Party,1994,2014,20.5,2014,3 6
+233014,EST,VEE,Vene Erakond Eestis,Russian Party in Estonia,EE: Vene Erakond Eestis (VEE) - Russian Party in Estonia,1994,1998,15.1,1998,3
+233030,EST,,,Pro Patria and Res Publica Union,EE: Pro Patria and Res Publica Union,2010,2014,14.7,2014,6
+233031,EST,,,Estonian Social Democratic Party,EE: Estonian Social Democratic Party,2010,2014,21.8,2014,6
+246001,FIN,SDP,,Social Democratic Party of Finland,FI: Social Democratic Party of Finland - SDP,1994,2009,29.2,2009,3 5
+246002,FIN,KESK,,Centre Party of Finland,"FI: Centre Party of Finland (centre, big, conservative) - KESK",1994,2009,25.6,2009,3 5
+246003,FIN,KOK,,National Coalition Party,"FI: National Coalition Party (right, big, conservative) - KOK",1994,2009,18.3,2009,3 5
+246004,FIN,VAS,,Left Alliance,"FI: Left Alliance (left, medium, progressive) - VAS",1994,2009,7.2,2009,3 5
+246005,FIN,RKP,,Swedish Peoples Party in Finland,FI: Swedish Peoples Party in Finland - RKP,1994,2009,2.5,1998,3 5
+246006,FIN,VIHR,,Green League,"FI: Green League (centre, medium, progressive) - VIHR",1994,2009,12,1998,3 5
+246008,FIN,PS,,True Finns,"FI: True Finns (right, small, conservative) - PS",1994,2009,2.8,2009,3 5
+246014,FIN,KD,,Christian Democrats,FI: Christian Democrats - KD,2005,2009,4.2,2009,5
+246021,FIN,NUSU,Nuorsuomalainen Puolue,,FI: NUSU (Nuorsuomalainen Puolue),1994,1998,4.7,1998,3
+246024,FIN,SKL,Suomen Kirstillinen Liitto,,FI: SKL (Suomen Kirstillinen Liitto),1994,1998,2.7,1998,3
+246025,FIN,,Jokin muu ryhmittymä,,FI: Jokin muu ryhmittymä,1994,1998,6.6,1998,3
+268003,GEO,,Ertiani Komunisturi Partia,,GE: Ertiani Komunisturi Partia,1994,1998,10.1,1998,3
+268005,GEO,EDP,Erovnul-Demokratuli Partia,,GE: Erovnul-Demokratuli Partia (EDP),1994,1998,24.3,1998,3
+268013,GEO,,Saqartvelos Moqalaqeta Kavashiri,,GE: Saqartvelos Moqalaqeta Kavashiri,1994,1998,26.3,1998,3
+268101,GEO,,,United National Movement,GE: United National Movement,2005,2014,60.4,2009,5 6
+268108,GEO,,,Labour Party,GE: Labour Party,2005,2014,12,2009,5 6
+276001,DEU,CDU-CSU,Christlich-Demokratische Union/ Christlich-Soziale Union,Christian Democrats,DE: Christlich-Demokratische Union/ Christlich-Soziale Union (CDU/CSU) - Christian Democrats,1994,2014,42,2014,3 5 6
+276002,DEU,SPD,Sozialdemokratische Partei Deutschlands,Social Democrats,DE: Sozialdemokratische Partei Deutschlands (SPD) - Social Democrats,1994,2014,37.5,1998,3 5 6
+276003,DEU,FDP,Freie Demokratische Partei Deutschlands,Free Democratic Party,DE: Freie Demokratische Partei Deutschlands (FDP) - Free Democratic Party,1994,2014,6.2,2009,3 5 6
+276004,DEU,,Die Gruenen / Buendnis 90,,DE: Die Gruenen (/Buendnis 90),2005,2014,10.1,2014,5 6
+276005,DEU,PDS,Partei des demokratischen Sozialismus,,DE: Partei des demokratischen Sozialismus (PDS),1994,2014,13.4,2009,3 5 6
+276011,DEU,REP,Die Republikaner,,DE: Die Republikaner (REP),1994,1998,1.5,1998,3
+276030,DEU,,Buendnis 90/Die Gruenen,Alliance 90/The Greens,DE: Alliance 90/The Greens (Buendnis 90/Die Gruenen),1994,1998,20,1998,3
+276033,DEU,AfD,Alternative fuer Deutschland,,DE: AfD/Alternative fuer Deutschland,2010,2014,2.2,2014,6
+288001,GHA,AA,,Action Alliance,GH: Action Alliance (AA),2005,2009,30.4,2009,5
+288002,GHA,ACN,,Action Congress  of Nigeria,GH: Action Congress  of Nigeria (ACN),2005,2009,63.4,2009,5
+288026,GHA,NDC,,National Democratic Congress,GH: National Democratic Congress (NDC),2010,2014,38.5,2014,6
+288027,GHA,NPP,,New Patriotic Party,GH: New Patriotic Party (NPP),2010,2014,55.4,2014,6
+288028,GHA,CPP,,Convention People's Party,GH: Convention People's Party (CPP),2010,2014,5.1,2014,6
+320001,GTM,GANA,GANA,,GT: GANA,2005,2009,62.3,2009,5
+320002,GTM,UNE,UNE,,GT: UNE,2005,2009,23.6,2009,5
+320003,GTM,PAN,PAN,,GT: PAN,2005,2009,8.5,2009,5
+320004,GTM,FRG,FRG,,GT: FRG,2005,2009,5.6,2009,5
+344003,HKG,,,Civic Party,HK: Civic Party,2010,2014,8.6,2014,6
+344004,HKG,DAB,DAB,,HK: DAB,2010,2014,19.5,2014,6
+344005,HKG,,,Democratic,HK: Democratic,2010,2014,19.7,2014,6
+344009,HKG,FTU,FTU,,HK: FTU,2010,2014,12.6,2014,6
+344012,HKG,,,Labour,HK: Labour,2010,2014,1.7,2014,6
+344019,HKG,,,People Power,HK: People Power,2010,2014,6.1,2014,6
+348001,HUN,MDF,Magyar Demokrata Forum,Hungarian Democratic Forum,HU: Magyar Demokrata Forum (MDF) - Hungarian Democratic Forum,1994,2009,2.7,2009,3 5
+348002,HUN,SZDSZ,Aliance of Free Democrats,Szabad Demokratak Szovetsege,HU: Szabad Demokratak Szovetsege (SZDSZ) - Aliance of Free Democrats,1994,2009,6.9,1998,3 5
+348003,HUN,FKGP,Fuggetlen Kisgazda Part,Independent Smallholders Party,HU: Fuggetlen Kisgazda Part (FKGP) - Independent Smallholders Party,1994,1998,5.7,1998,3
+348004,HUN,FIDESZ,Magyar Polgari Part,Federation of Young Democrats,HU: FIDESZ Magyar Polgari Part - Federation of Young Democrats,2005,2009,57.1,2009,5
+348005,HUN,KDNP,Kereszteny Demokrata Neppart,Christian Democratic Peoples Party,HU: Kereszteny Demokrata Neppart (KDNP) - Christian Democratic Peoples Party,1994,2009,1.2,2009,3 5
+348006,HUN,MSZP,Magyar Szocialista Part,Hungarian Socialist Party (ex-Communists),HU: Magyar Szocialista Part (MSZP) - Hungarian Socialist Party (ex Communists),1994,2009,32.6,1998,3 5
+356001,IND,,,Indian Congress (Socialist),IN: Indian Congress (Socialist),1990,2009,39.6,1998,2 3 4 5
+356003,IND,RJD,Rashtriya Janata Dal,National People's Party,IN: Rashtriya Janata Dal (RJD) - National People's Party),1994,2014,7.8,1998,3 4 5 6
+356016,IND,JDS,Janata Dal (Secular),,IN: Janata Dal (Secular) - (JDS),1990,2014,25,1994,2 4 5 6
+356017,IND,SP,,Samajwadi Party,IN: Samajwadi Party (SP),1994,2014,5.2,2004,3 4 5 6
+356067,IND,INC,,Indian National Congress,IN: Indian National Congress (INC),1990,2014,33.8,2014,2 6
+356068,IND,BJP,,Bhartiya Janata Party,IN: Bhartiya Janata Party  (BJP),1990,2014,32.3,2014,2 3 4 5 6
+356069,IND,,,Communist Party of India,IN: Communist Party of India,1990,1994,6,1994,2
+356070,IND,,,Communist Party of India (Marxist),IN: Communist Party of India (Marxist),1990,1994,5.6,1994,2
+356071,IND,,Telugu Desam,Land of Telegu,IN: Telugu Desam (Land of Telegu),1990,1998,2.9,1994,2 3
+356101,IND,BSP,,Bahujan Samaj Party,IN: Bahujan Samaj Party (BSP),2010,2014,1.4,2014,6
+360001,IDN,PD,,Democratic Party,ID: Democratic Party (PD ),2000,2009,31.4,2004,4 5
+360002,IDN,Golkar,,Golkar Party -- Party of the Functional Groups,ID: Golkar Party - Party of the Functional Groups (Golkar),2000,2004,31.8,2004,4
+360003,IDN,PPP,,United Development Party,ID: United Development Party (PPP),2000,2009,14,2004,4 5
+360004,IDN,PKB,,Emerging Nation Party,ID: Emerging Nation Party (PKB),2000,2004,12.1,2004,4
+360005,IDN,PAN,,National Responsibilities Party,ID: National Responsibilities Party (PAN),2000,2004,10.7,2004,4
+360006,IDN,,,Indonesian  Democracy Party of Struggle,ID: Indonesian  Democracy Party of Struggle,2005,2009,18.8,2009,5
+360007,IDN,PDI,,Indonesian Democratic Party,ID: Indonesian Democratic Party (PDI ),2005,2009,15.5,2009,5
+360008,IDN,,,Welfare and Justice Party,ID: Welfare and Justice Party,2005,2009,20.2,2009,5
+360009,IDN,,,Nation Awakening Party,ID: Nation Awakening Party,2005,2009,14.5,2009,5
+360010,IDN,,,National Mandate Party,ID: National Mandate Party,2005,2009,8.4,2009,5
+364011,IRN,,,Fundamentalists,IR: Fundamentalists,2005,2009,26.3,2009,5
+364012,IRN,,,Reformists,IR: Reformists,2005,2009,42.6,2009,5
+368001,IRQ,,,Unified Iraqi Coalition (Islamic Da´awa Party of Dr. Ibra),IQ: Unified Iraqi Coalition (Islamic Da´awa Party of Dr. Ibra,2000,2009,55.4,2009,4 5
+368003,IRQ,KDP,,Kurdistan Democratic Party,IQ: KDP Kurdistan Democratic Party,2000,2014,16,2009,4 5 6
+368004,IRQ,PUK,,Patriotic Union of Kurdistan,IQ: PUK Patriotic Union of Kurdistan,2000,2014,16.9,2004,4 6
+368005,IRQ,IIP,,Iraqi Islamic Party,IQ: IIP Iraqi Islamic Party,2000,2014,16.4,2009,4 5 6
+368009,IRQ,OmaS,,Office of the Martyr,IQ: OmaS Office of the Martyr,2000,2004,11.6,2004,4
+368016,IRQ,,,Alda'wa party,IQ: Alda'wa party,2010,2014,31.6,2014,6
+368017,IRQ,,,Iraqi supreme Islamic council,IQ: Iraqi supreme Islamic council,2010,2014,13.5,2014,6
+368018,IRQ,,Alahrar,,IQ: Alahrar,2010,2014,14,2014,6
+368019,IRQ,Goran,,The movment of change,IQ: Goran/The movment of change,2010,2014,7.1,2014,6
+376001,ISR,,Likud,,IL: Likud,2000,2004,41.3,2004,4
+376002,ISR,,Avoda,labour,IL: Avoda (labour),2000,2004,22.7,2004,4
+376004,ISR,,Merez,leftist,IL: Merez (leftist),2000,2004,8.4,2004,4
+376005,ISR,,Mafdal,national religious party,IL: Mafdal (national religious party),2000,2004,3.3,2004,4
+376008,ISR,,Shinui,,IL: Shinui,2000,2004,3.7,2004,4
+392001,JPN,LDP,Jiyu-Minshuto,The Liberal Democratic Party of Japan,JP: The Liberal Democratic Party of Japan - LDP  (????? Jiyu-Minshuto),1990,2014,54.9,1994,2 3 4 5 6
+392002,JPN,DPJ,Minshuto,The Democratic Party of Japan,JP: The Democratic Party of Japan - DPJ (??? Minshuto),2000,2014,38.5,2009,4 5 6
+392010,JPN,NFP,Shinshinto,New Frontier Party,JP: New Frontier Party - NFP (Shinshinto) ( - 1997),1994,1998,26.7,1998,3
+392017,JPN,YP,Minna no To,Your Party,JP: Your Party - YP (????? Minna no To),2010,2014,17.1,2014,6
+392021,JPN,,,Japan Socialist Party,JP: Japan Socialist Party,1990,1994,33.3,1994,2
+398001,KAZ,,,Communist party  of Kazakhstan,KZ: Communist party  of Kazakhstan,2010,2014,2,2014,6
+398002,KAZ,,,People's party Alga,KZ: People's party Alga,2010,2014,1.7,2014,6
+398003,KAZ,,,Democratic party of Kazakhstan Ak Zhol,KZ: Democratic party of Kazakhstan Ak Zhol,2010,2014,4.6,2014,6
+398005,KAZ,,,Communist people's party of Kazakhstan,KZ: Communist people's party of Kazakhstan,2010,2014,2.3,2014,6
+398008,KAZ,,,People's and democratic party Nur Otan,KZ: People's and democratic party Nur Otan,2010,2014,85.7,2014,6
+400002,JOR,IAF,,The Islamic Action Front,JO: The Islamic Action Front IAF,2000,2014,61.9,2004,4 6
+400032,JOR,,,Moderate Islamic Party,JO: Moderate Islamic Party,2010,2014,13.9,2014,6
+417001,KGZ,SDPK,,Social Democratic Party Kyrgystan,KG: SDPK (Social Democratic Party Kyrgystan),2010,2014,45.4,2014,6
+417002,KGZ,,Ata Zhurt,,KG: Ata Zhurt,2010,2014,34,2014,6
+417004,KGZ,,Atameken,,KG: Atameken,2010,2014,8.2,2014,6
+417006,KGZ,,Respublika,,KG: Respublika,2010,2014,1.7,2014,6
+417021,KGZ,,,Democratic Party of Women of Kyrgyzstan,KG: Democratic Party of Women of Kyrgyzstan,2000,2004,12.5,2004,4
+417028,KGZ,,,Communist Party of Kyrgyzstan,KG: Communist Party of Kyrgyzstan,2000,2004,17.1,2004,4
+417039,KGZ,,,"Socialist Party of ""Ata-Meken"" (Fatherland)","KG: Socialist Party of ""Ata-Meken"" (Fatherland)",2000,2004,4.5,2004,4
+428001,LVA,LC,Savieniba Latvijas cels,Alliance Latvias Way,LV: Savieniba Latvijas cels (LC) Alliance Latvias Way,1994,1998,14.4,1998,3
+428018,LVA,DPS,Demokratiska Partija Saimnieks,Democratic Party Master,LV: Demokratiska Partija Saimnieks (DPS) - Democratic Party Master,1994,1998,13.5,1998,3
+428023,LVA,TB,Apvieniba Tevzemei un Brivibai,,LV: Apvieniba Tevzemei un Brivibai (TB),1994,1998,10.6,1998,3
+434001,LBY,,,Justice and Construction,LY: Justice and Construction,2010,2014,43.8,2014,6
+434002,LBY,,,National Forces Alliance,LY: National Forces Alliance,2010,2014,56.2,2014,6
+440001,LTU,TS-LK,Tevynes Sajunga (Lietuvos konservatoriai),Homeland Union/ Lithuanian Conservatives,LT: Tevynes Sajunga (Lietuvos konservatoriai) (TS-LK) - Homeland Union/ Lithuanian Conservatives,1994,1998,23.9,1998,3
+440002,LTU,LKDP,Lietuvos krikscioniu demokratu partija,Lithuanian Christian Democratic Party,LT: Lietuvos krikscioniu demokratu partija (LKDP) - Lithuanian Christian Democratic Party,1994,1998,10.6,1998,3
+440003,LTU,LDDP,Lietuvos demokratine darbo partija,Lithuanian Democratic Labour Party,LT: Lietuvos demokratine darbo partija (LDDP) - Lithuanian Democratic Labour Party,1994,1998,11.1,1998,3
+440004,LTU,LCS,Lietuvos centro sajunga,Lithuanian Center Union,LT: Lietuvos centro sajunga (LCS) - Lithuanian Center Union,1994,1998,17.3,1998,3
+458001,MYS,BN,,Barisan National,MY: Barisan National (BN),2010,2014,74.3,2014,6
+458002,MYS,DAP,,Democratic Action Party,MY: Democratic Action Party (DAP),2010,2014,9.1,2014,6
+458003,MYS,PAS,,Pan-Malaysian Islamic,MY: Pan-Malaysian Islamic (PAS),2010,2014,8.3,2014,6
+458004,MYS,PKR,,People's Justice Party,MY: People's Justice Party (PKR),2010,2014,8.4,2014,6
+466001,MLI,ADEMA-PASJ,ADEMA/ PASJ,,ML: ADEMA/ PASJ,2005,2009,37.9,2009,5
+466002,MLI,URD,URD,,ML: URD,2005,2009,8.9,2009,5
+466003,MLI,RPM,RPM,,ML: RPM,2005,2009,29.1,2009,5
+484001,MEX,PRI,,Institutional Revolutionary Party,MX: PRI - Institutional Revolutionary Party,1990,2014,50.2,2004,2 3 4 5 6
+484002,MEX,PAN,,National Action Party,MX: PAN -National Action Party,1990,2014,39.5,2014,2 3 4 5 6
+484003,MEX,PRD,,Democratic Revolutionary Party,MX: PRD - Democratic Revolutionary Party,1990,2014,27.9,1998,2 3 4 5 6
+498001,MDA,,,Popular Christian Democratic Party,MD: Popular Christian Democratic Party,2000,2009,17.1,2009,4 5
+498003,MDA,,,Communist Party of Moldavia,MD: Communist Party of Moldavia,2000,2009,53.1,2009,4 5
+498016,MDA,PDAM,Partidul Democrat Agrar din Moldova,,MD: Partidul Democrat Agrar din Moldova (PDAM),1994,1998,21.1,1998,3
+498047,MDA,,Partidul renasterii si al concilierii Moldovei,,MD: Partidul renasterii si al concilierii Moldovei,1994,1998,10.2,1998,3
+504001,MAR,USFP,,The Socialist Union of Popular Forces,"MA: The Socialist Union of Popular Forces - USFP (Arabic: ??????? ????????? ?????? ??????? Al-Ittihad Al-Ishtirakiy Lilqawat Al-Sha'abiyah, French: Union Socialiste des Forces Populaires)",2000,2014,46.7,2004,4 5 6
+504002,MAR,PI,,The Istiqlal or Independence Party,"MA: The Istiqlal or Independence Party - PI (Arabic: ??? ????????? ?izb Al-Istiqlal, French: Parti de l'Istiqlal)",2000,2014,25.7,2004,4 5 6
+504003,MAR,MNP,Mouvement National Populaire,,MA: Mouvement National Populaire (MNP),2000,2004,2.5,2004,4
+504004,MAR,RNI,,The National Rally of Independents,French: Rassemblement National des Indépendants),2000,2014,7.2,2004,4 5 6
+504005,MAR,MP,,The Popular Movement,MA: The Popular Movement - MP (Arabic: ?????? ???????? Al-Haraket Al-Sha'ebiya French: Mouvement populaire),2000,2014,15,2009,4 5 6
+504007,MAR,UC,,The Constitutional Union,"MA: The Constitutional Union - UC (Arabic: ??????? ????????? Al-Etihad Al-Dosturi, French: Union constitutionelle)",2000,2014,4.9,2014,4 5 6
+504009,MAR,PJD,,The Justice and Development Party,"MA: The Justice and Development Party - PJD (Arabic: ??? ??????? ????????? ?izb Al-?Adalah Wal-Tanmiyah, French: Parti de la justice et du développement)",2000,2014,44.2,2009,4 5 6
+504011,MAR,PAM,,Authenticity and Modernity Party,Arabic: ??? ??????? ????????? Hizb Al-Asaleh Wal-Hadatheh),2010,2014,13,2014,6
+528001,NLD,PvdA,,,NL: PvdA,2010,2014,21.1,2014,6
+528002,NLD,CDA,,,NL: CDA,2010,2014,10.8,2014,6
+528003,NLD,VVD,,,NL: VVD,2010,2014,14.1,2014,6
+528004,NLD,D66,,,NL: D66,2010,2014,12.9,2014,6
+528005,NLD,GL,Groen Links,,NL: Groen Links,2010,2014,2.3,2014,6
+528006,NLD,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,"NL: Reformed Political Party (Staatkundig Gereformeerde Partij, SGP)",2010,2014,2.1,2014,6
+528009,NLD,,Socialistische Partij,,NL: Socialistische Partij,2010,2014,12.9,2014,6
+528013,NLD,PVV,,Party for Freedom,NL - Party for Freedom - PVV,2010,2014,11,2014,6
+528014,NLD,,ChristenUnie,Christian Union,NL - Christian Union (ChristenUnie),2010,2014,3.1,2014,6
+528015,NLD,Pvd,Partij voor de Dieren,Party for the animals,NL - Party for the animals/Partij voor de Dieren - PvdD,2010,2014,2.1,2014,6
+528018,NLD,50,,50 PLUS,NL: 50 PLUS,2010,2014,7.6,2014,6
+554001,NZL,ACT,ACT,,NZ: ACT,1994,2014,4.2,1998,3 5 6
+554002,NZL,,,Alliance,NZ: Alliance,1994,1998,7.9,1998,3
+554003,NZL,,,Christian Coalition / Christian Heritage,NZ: Christian Coalition / Christian Heritage,1994,2014,2.7,1998,3 5 6
+554004,NZL,,,Greens,NZ: Greens,1994,2014,9.3,2014,3 5 6
+554005,NZL,,,Labour,NZ: Labour,1994,2014,44.9,2009,3 5 6
+554006,NZL,,,National,NZ: National,1994,2014,51.3,2014,3 5 6
+554007,NZL,,,New Zealand First,NZ: New Zealand First,1994,2014,7.5,2009,3 5 6
+554008,NZL,,,United Future,NZ: United Future,1994,2014,2.4,2009,3 5 6
+554009,NZL,,,The Maori Party,NZ: The Maori Party,2005,2014,4.7,2009,5 6
+554012,NZL,,,The Mana Party,NZ: The Mana Party,2010,2014,1.4,2014,6
+566002,NGA,ACN,,Action Congress of Nigeria,NG: Action Congress of Nigeria (ACN),2010,2014,25.1,2014,6
+566012,NGA,PDP,,People's Democratic Party,NG: People's Democratic Party (PDP),2000,2014,62.8,2004,4 6
+566017,NGA,AD,AD,,NG: AD,2000,2004,19.2,2004,4
+566018,NGA,APP,APP,,NG: APP,2000,2004,18.1,2004,4
+566019,NGA,SDP,,Social Democratic Party,NG: Social Democratic Party (SDP),1990,1994,53.4,1994,2
+566020,NGA,NRC,,National Republican Convention,NG: National Republican Convention (NRC),1990,1994,46.6,1994,2
+578001,NOR,DNA,,Labour Party,NO: Labour Party (DNA),1994,2009,41.2,1998,3 5
+578002,NOR,FrP,,Progressive Party,NO: Progressive Party (FrP),1994,2009,19,2009,3 5
+578003,NOR,,,Conservative Party,NO: Conservative Party (H),1994,2009,17.9,2009,3 5
+578004,NOR,KrF,,Christian Democratic Party,NO: Christian Democratic Party (KrF),2005,2009,3.8,2009,5
+578005,NOR,RV,,Communist Party,NO: Communist Party (RV),2005,2009,1.2,2009,5
+578007,NOR,SP,,Center Party,NO: Center Party (SP),1994,2009,9.4,1998,3 5
+578008,NOR,SV,,Socialist Left Party,NO: Socialist Left Party (SV),1994,2009,10.2,2009,3 5
+578009,NOR,V,,Liberals,NO: Liberals (V),1994,2009,6.6,1998,3 5
+578010,NOR,,,Red Alliance,NO: Red Alliance,1994,1998,1.3,1998,3
+578027,NOR,,,Christian Peoples Party,NO: Christian Peoples Party,1994,1998,7.4,1998,3
+586001,PAK,PPP,PPP-P,Pakistan People’s Party Parliamentarians,PK: Pakistan People’s Party Parliamentarians (PPP-P),2000,2014,39.9,2004,4 6
+586002,PAK,PML,PML/N,"Pakistan Muslim League, Nawaz Sharif","PK: Pakistan Muslim League, Nawaz Sharif (PML/N)",2000,2014,46.1,2004,4 6
+586007,PAK,PTI,Pakistan Tehrik-e-Insaaf,,PK: Pakistan Tehrik-e-Insaaf (PTI),2010,2014,18.8,2014,6
+604001,PER,,Perú Posible,,PE: Perú Posible,2000,2014,54.8,2004,4 5 6
+604002,PER,APRA,Partido Aprista Peruano,,PE: Partido Aprista Peruano APRA,1994,2014,28.9,2009,3 4 5 6
+604004,PER,,Unidad Nacional,,PE: Unidad Nacional,2000,2009,23.9,2009,4 5
+604005,PER,UPP,Unión por el Perú,,PE: Unión por el Perú UPP,1994,2014,12.5,1998,3 4 5 6
+604008,PER,,Cambio 90 -- Nueva Mayoría,,PE: Cambio 90- Nueva Mayoría,1994,2014,62.2,1998,3 4 6
+604023,PER,,Partidao Nacionalista Peruano,,PE: Partidao Nacionalista Peruano,2005,2009,16.6,2009,5
+604024,PER,,Gana Perú,,PE: Gana Perú,2010,2014,30.7,2014,6
+604026,PER,,Fuerza 2011,,PE: Fuerza 2011,2010,2014,22.8,2014,6
+608001,PHL,NUCD-NUCD,,Partido Lakas ng Tao (Lakas) and the National Union of Christian Democrats (NUCD),PH: Partido Lakas ng Tao (Lakas) and the National Union of Christian Democrats (NUCD):(Lakas-NUCD),2010,2014,24.9,2014,6
+608002,PHL,LP,Partido Liberal ng Pilipinas,Liberal Party of the Philippines,PH: Partido Liberal ng Pilipinas - Liberal Party of the Philippines (LP),1994,2014,44.7,2014,3 4 6
+608003,PHL,NP,,Nacionalista Party,PH: Nacionalista Party (NP),1994,2014,14.5,2014,3 4 6
+608005,PHL,PDP-Laban,Partido Demokratiko Pilipino-Lakas ng Bayan,,PH: Partido Demokratiko Pilipino-Lakas ng Bayan (PDP-Laban),1994,2014,17.8,1998,3 6
+608014,PHL,KBL,Kilusang Bagong lipunan,,PH: Kilusang Bagong lipunan (KBL),1994,2004,10.2,1998,3 4
+608015,PHL,LDP,Laban ng demokratikong,,PH: Laban ng demokratikong (LDP),1994,2004,15.2,2004,3 4
+608016,PHL,LAMMP,LAMMP,,PH: LAMMP,2000,2004,19.5,2004,4
+608017,PHL,LNU,,Lakas NG Tao-National union of Christian Democrats-United Moro Democratic party,PH: LAKAS-NUCD-UMDP (Lakas NG Tao-National union of Christian Democrats-United Moro Democratic party),1994,2004,19.3,1998,3 4
+616002,POL,PSL,Polskie Stronnictwo Ludowe,Polish Peasants Party,PL: PSL Polskie Stronnictwo Ludowe (Polish Peasants Party),1994,2014,14.8,1998,3 5 6
+616004,POL,SLD,Sojusz Lewicy Demokratycznej,Alliance of Democratic Left,PL: SLD - Sojusz Lewicy Demokratycznej (Alliance of Democratic Left),1994,2014,21.3,1998,3 5 6
+616023,POL,,,Christian Democrats,PL: Christian Democrats,1990,1994,26.2,1994,2
+616028,POL,,,Citizens Committee of Solidarity,PL: Citizens Committee of Solidarity,1990,1994,42.9,1994,2
+616031,POL,,Prawo i Sprawiedliwosc,Law and Justice,PL: PiS - Prawo i Sprawiedliwosc (Law and Justice),2005,2014,43,2009,5 6
+616032,POL,PO,Platforma Obywatelska,Civic Platform,PL: PO Platforma Obywatelska (Civic Platform),2005,2014,39.6,2014,5 6
+616046,POL,,Ruch Poparcia Palikota,Palikot's Movement,PL: Ruch Poparcia Palikota (Palikot's Movement),2010,2014,11.5,2014,6
+616047,POL,NSZZ,Solidarnosc,,PL: Solidarnosc (NSZZ),1994,1998,30.1,1998,3
+630001,PRI,PNP,Partido Nuevo Progresista,,PR: Partido Nuevo Progresista (PNP),1994,1998,44.1,1998,3
+630002,PRI,PPD,Partido Popular Democratico,,PR: Partido Popular Democratico (PPD),1994,1998,47.8,1998,3
+630003,PRI,PIP,Partido Independentista Puertoriqueño,,PR: Partido Independentista Puertoriqueño (PIP),1994,1998,8.1,1998,3
+642002,ROU,PDSR,Polul Democrat-Social din Romania,Democratic-Social Pole of Romania,RO: Polul Democrat-Social din Romania (PDSR) - Democratic-Social Pole of Romania,1994,1998,17.7,1998,3
+642003,ROU,PD,Partidul Democrat,Democratic Party,RO: Partidul Democrat (PD) - Democratic Party,1994,2009,15.8,1998,3 5
+642007,ROU,PRM,Partidul Romania Mare,Greater Romania Party,RO: Partidul Romania Mare (PRM) - Greater Romania Party,1994,2014,11.8,1998,3 5 6
+642008,ROU,PSDR,Partidul Social Democrat Roman,Social Democratic Party,RO: Partidul Social Democrat Roman (PSDR) - Social Democratic Party,2005,2009,30.9,2009,5
+642016,ROU,CDR,Conventia Democratica din Romania,,RO: Conventia Democratica din Romania (CDR) as a whole,1994,1998,16.3,1998,3
+642033,ROU,,,"The ""Justice and Truth"" Alliance",RO: The Â´Justice and TruthÂ´ Alliance,2005,2009,32.4,2009,5
+642035,ROU,,Partidul Democrat-Liberal,,RO - Partidul Democrat-Liberal,2010,2014,18.9,2014,6
+642052,ROU,USL,Uniunea Social Liberala,,RO: USL (Uniunea Social Liberala = PSD+PNL+PC),2010,2014,44.1,2014,6
+643001,RUS,APR,Agrarnaya Partiya Rossii,Agrarian Party of Russia,RU: Agrarnaya Partiya Rossii (APR) - Agrarian Party of Russia,1994,1998,5.4,1998,3
+643002,RUS,KPRF,,Communist Party of the Russian Federation,RU: Communist Party of the Russian Federation (KPRF)  - ???????????????? ?????? ?????????? ????????? (????),1994,2014,26.6,1998,3 6
+643003,RUS,LDPR,,Liberal-Democratic Party of Russia,RU: Liberal-Democratic Party of Russia (LDPR) ??????????-??????????????? ?????? ?????? (????),1994,2014,12.8,2014,3 6
+643004,RUS,NDR,Nas dom -- Rossija,Our Home is Russia,RU: Nas dom - Rossija (NDR) - Our Home is Russia,1994,1998,9.4,1998,3
+643012,RUS,,"Rossiyskaya Demokraticheskaya Partiya ""Yabloko"" Yavlinsky-Boldyrev-Lukin-Bloc",,RU: Rossiyskaya Demokraticheskaya Partiya Â´YablokoÂ´ Yavlinsky-Boldyrev-Lukin-Bloc,1994,1998,7.7,1998,3
+643014,RUS,VN,VlastNarodu,,RU: VlastNarodu (VN),1994,1998,4.5,1998,3
+643015,RUS,VR,Vpered Rossija,,RU: Vpered Rossija (VR),1994,1998,5,1998,3
+643017,RUS,DVR-OD,Dem. Vybor Rossii-Obyedinennyi Dem.,Electoral Union,RU: Dem. Vybor Rossii-Obyedinennyi Dem. (DVR-OD;Electoral Union),1994,1998,3.7,1998,3
+643018,RUS,,Derzava,Power,RU: Power (Derzava),1994,1998,2.8,1998,3
+643019,RUS,ZR,Zensciny Rossii,,RU: Zensciny Rossii (ZR),1994,1998,9.9,1998,3
+643022,RUS,,Komunisty -- Trudovaja Rossija- Za Sovetskij Sojuz,,RU: Komunisty - Trudovaja Rossija- Za Sovetskij Sojuz,1994,1998,2.4,1998,3
+643023,RUS,KRO,Kongress russkich obscin,,RU: Kongress russkich obscin (KRO),1994,1998,5.8,1998,3
+643027,RUS,PGL,,Republican Party of Russia (Pamfilova-Gurov-Lysenko),RU: Republican Party of Russia (Pamfilova-Gurov-Lysenko) PGL,1994,1998,2.4,1998,3
+643028,RUS,PS,Partiya Samoupravleniya,,RU: Partiya Samoupravleniya (PS),1994,1998,5.2,1998,3
+643029,RUS,,Profosuzoj i promyslenniki -- Sojuz Truda,,RU: Profosuzoj i promyslenniki - Sojuz Truda,1994,1998,1.3,1998,3
+643032,RUS,ER,,United Russia,RU - United Russia (ER) ?????? ??????,2010,2014,56.8,2014,6
+643033,RUS,,Patrioty Rossii,Patriots of Russia,"RU - Patriots of Russia (???????? ??????, Patrioty Rossii)",2010,2014,1.1,2014,6
+643034,RUS,,,Fair Russia,RU - Fair Russia - ???????????? ??????,2010,2014,7.3,2014,6
+643037,RUS,,,The Russian United Democratic Party Yabloko,"RU - The Russian United Democratic Party Yabloko - ?????????? ???????????? ??????????????? ?????? ""??????""",2010,2014,1.3,2014,6
+646104,RWA,,Front Patriotique Rwandais,Rwandan Patriotic Front,RW: Rwandan Patriotic Front (Front Patriotique Rwandais),2010,2014,80,2014,6
+702001,SGP,PAP,,,SG: PAP,2010,2014,75.1,2014,6
+702002,SGP,WP,,,SG: WP,2010,2014,21.2,2014,6
+702003,SGP,SDP,,,SG: SDP,2010,2014,3.7,2014,6
+703001,SVK,DS,Demokratickia Slovenska,Democratic Party,SK: Demokraticka Strana (DS) - Democratic Party,1990,1998,5.9,1994,2 3
+703003,SVK,HZDS,Hnutie za demokraticke Slovensko,Movement for a Democratic Slovakia,SK: Hnutie za demokraticke Slovensko (HZDS) - Movement for a Democratic Slovakia,1994,1998,21.6,1998,3
+703004,SVK,KSS,Komunistická strana Slovenska,Communist Party of Slovakia,SK: Komunistická strana Slovenska (KSS) - Communist Party of Slovakia,1990,1998,10.7,1994,2 3
+703005,SVK,KDH,Krestanskodemokraticke hnutie,Christian-Democratic Movement,SK: Krestanskodemokraticke hnutie (KDH) - Christian-Democratic Movement,1994,1998,7.1,1998,3
+703006,SVK,SNS,Slovenska narodna strana,Slovak National Party,SK: Slovenska narodna strana (SNS) - Slovak National Party,1990,1998,28,1994,2 3
+703009,SVK,SMK,Madrskkoalia,Hungarian Coalition,SK: Madrskkoalia (SMK) Hungarian Coalition,1994,1998,5.5,1998,3
+703010,SVK,SOP,Strana obcianskeho porozumenia,Party of Civil Understanding,SK: Strana obcianskeho porozumenia (SOP) - Party of Civil Understanding,1994,1998,5.4,1998,3
+703012,SVK,SZS,Strana zelenych na Slovensku,Party of Greens in Slovakia,SK: Strana zelenych na Slovensku (SZS) - Party of Greens in Slovakia,1990,1998,7.6,1994,2 3
+703014,SVK,ZRS,Zdruzenie Robotnikov Slovenska,Association of Workers of Slovakia,SK: Zdruzenie Robotnikov Slovenska (ZRS) - Association of Workers of Slovakia,1994,1998,1.3,1998,3
+703015,SVK,SDK,Demokraticka Strana,Democratic Coalition,SK: Democratic Coalition (SDK),1994,1998,21.9,1998,3
+703017,SVK,,Spoluzitie (Egyutelles),Coexistence,SK: Spoluzitie (Egyutelles) - Coexistence,1990,1994,4.1,1994,2
+703023,SVK,SD,Strana Demokratickej Zavice,,SK: Strana Demokratickej Zavice (SD1/4),1994,1998,16.2,1998,3
+703025,SVK,,,Civic forum,SK: Civic forum,1990,1994,1.3,1994,2
+703027,SVK,,,Christian Democratic Movement,SK: Christian Democratic Movement,1990,1994,18,1994,2
+703031,SVK,,,Association of farmers & countrysides,SK: Association of farmers & countrysides,1990,1994,4.3,1994,2
+703043,SVK,SDSS,Socialnodemokraticka Strana na Slovensku,,SK: Socialnodemokraticka Strana na Slovensku (SDSS),1990,1998,2.2,1994,2 3
+705002,SVN,DeSUS,,Democratic Party of Pensioners of Slovenia,SI: Democratic Party of Pensioners of Slovenia (DeSUS),2005,2014,16.6,2014,5 6
+705003,SVN,LDS,,Liberal Democracy of Slovenia,SI: Liberal Democracy of Slovenia (LDS),1994,2014,22.6,1998,3 5 6
+705004,SVN,SLS,,Slovene Peoples Party,SI: Slovene Peoples Party (SLS),1994,2014,17.1,1998,3 5 6
+705005,SVN,SNS,,Slovene National Party,SI: Slovene National Party (SNS),1994,2014,10.3,2009,3 5 6
+705006,SVN,SDS,,Social Democratic Party,SI: Social Democratic Party (SDS),2005,2014,35.1,2014,5 6
+705007,SVN,SKD,,Slovene Christian Democrats,SI: Slovene Christian Democrats (SKD),1994,1998,13.9,1998,3
+705008,SVN,ZLSD,,Associated List of Social Democrats,SI: Associated List of Social Democrats (ZLSD),1994,2009,15.3,2009,3 5
+705009,SVN,ZS,,Green Party,SI: Green Party (ZS),1994,1998,11.8,1998,3
+705014,SVN,SDSS,,Social Democratic Party of Slovenia,SI: Social Democratic Party of Slovenia (SDSS),1994,1998,13.6,1998,3
+705017,SVN,DSS,Demokratska Stranka Slovenije,,SI: Demokratska Stranka Slovenije (DSS),1994,1998,4.2,1998,3
+705019,SVN,SP,Sivi Panterji -- Stranka Upokojencev Slovenije,,SI: Sivi Panterji - Stranka Upokojencev Slovenije (SP),1994,1998,4.8,1998,3
+705020,SVN,NSI,,New Slovenia-Christian,SI: New Slovenia-Christian (NSI),2005,2014,8.5,2009,5 6
+705021,SVN,SD,Socialni demokrati,,SI: Socialni demokrati (SD),2010,2014,18.1,2014,6
+705025,SVN,ZARES,nova politika,,SI: ZARES - nova politika,2010,2014,3.7,2014,6
+710003,ZAF,ANC,,African National Congress,ZA: African National Congress (ANC),1990,2014,73.9,2014,2 3 4 5 6
+710006,ZAF,DA,,Democratic Alliance,ZA: Democratic Alliance (DA),2000,2014,35.2,2004,4 5 6
+710013,ZAF,CP,,Conservative Party,ZA: Conservative Party (CP),1990,1998,11.8,1994,2 3
+710014,ZAF,DP,,Democratic Party,ZA: Democratic Party (DP),1990,1998,11.8,1994,2 3
+710015,ZAF,NP,,National Party,ZA: National Party (NP),1990,1998,32.4,1994,2 3
+716010,ZWE,MDC,,Movement for Democratic Change,ZW: Movement for Democratic Change (MDC),2000,2004,40.8,2004,4
+724001,ESP,PSOE,Partido Socialista Obrero Español,Spanish Socialist Workers Party,ES: PSOE (Partido Socialista Obrero Español) - Spanish Socialist Workers Party,1990,2014,55.3,2009,2 3 4 5 6
+724002,ESP,PP-AP,Partido Popular,Peoples Party,ES: PP (Partido Popular) - Peoples Party (1981: AP),1990,2014,48.1,2014,2 3 4 5 6
+724003,ESP,IU-PCE,Izquierda Unida,United Left (1981: Communist party),"ES: IU (Izquierda Unida) - United Left (1981: PCE, Communist party)",1990,2014,14.4,1994,2 3 4 5 6
+724044,ESP,EE,Euskadiko Ezkerra,Basque Country Left,ES: EE (Euskadiko Ezkerra) - Basque Country Left,1990,1994,1.1,1994,2
+752001,SWE,,Centerpartiet,,SE: Centerpartiet,1994,2014,6.2,1998,3 4 5 6
+752002,SWE,,Folkpartiet,,SE: Folkpartiet,1994,2014,13.1,2009,3 4 5 6
+752003,SWE,,Kristdemokraterna,,SE: Kristdemokraterna,1994,2014,9.1,2004,3 4 5 6
+752004,SWE,,Miljöpartiet,,SE: Miljöpartiet,1994,2014,14.3,1998,3 4 5 6
+752005,SWE,,Moderata samlingspartiet / Moderaterna,,SE: Moderata samlingspartiet / Moderaterna,1994,2014,32.8,2014,3 4 5 6
+752006,SWE,,Socialdemokraterna,,SE: Socialdemokraterna,1994,2014,33.5,2009,3 4 5 6
+752007,SWE,,Vänsterpartiet,,SE: Vänsterpartiet,1994,2014,14.7,2004,3 4 5 6
+752009,SWE,,Sverigedemokraterna,,SE: Sverigedemokraterna,2010,2014,4.2,2014,6
+756001,CHE,FDP,Freisinnig-demokratische partei,,CH: Freisinnig-demokratische partei FDP,1994,2009,20.4,2009,3 5
+756002,CHE,SPS,Sozialdemokratische partei,,CH: Sozialdemokratische partei SPS,1994,2009,23.5,2009,3 5
+756003,CHE,CVP,Christlich-demokratische volkspartei,,CH: Christlich-demokratische volkspartei CVP,1994,2009,13,2009,3 5
+756004,CHE,SVP,Schweizerische volkspartei,,CH: Schweizerische volkspartei SVP,1994,2009,16.7,2009,3 5
+756005,CHE,GPS,Gre / gre partei,,CH: Gre / gre partei GPS,1994,2009,14.9,2009,3 5
+756006,CHE,FPS,Freiheitspartei,,CH: Freiheitspartei FPS,1994,2009,1.1,1998,3 5
+756008,CHE,LPS,Liberale partei,,CH: Liberale partei LPS,1994,2009,2.7,1998,3 5
+756010,CHE,EVP,Evangelische volkspartei,,CH: Evangelische volkspartei EVP,1994,2009,2.1,2009,3 5
+756011,CHE,PdA,Partei der arbeit,,CH: Partei der arbeit PdA,1994,2009,1.7,1998,3 5
+756012,CHE,CSP,Christlichsoziale partei,,CH: Christlichsoziale partei CSP,1994,2009,1.4,2009,3 5
+756037,CHE,,Lega dei ticinesi,,CH: Lega dei ticinesi,2005,2009,1.7,2009,5
+764001,THA,,,Democrat party,TH: Democrat party,2005,2014,40.2,2014,5 6
+764002,THA,,,Thai Rak Thai party,TH: Thai Rak Thai party,2005,2009,55.4,2009,5
+764005,THA,,,Pheu Thai Party,TH: Pheu Thai Party,2010,2014,52.3,2014,6
+788001,TUN,,Nida Tounes,,TN: Nida Tounes,2010,2014,43.5,2014,6
+788002,TUN,,Elnahdha,,TN: Elnahdha,2010,2014,37.3,2014,6
+788003,TUN,,Eljabha Chaabia,,TN: Eljabha Chaabia,2010,2014,11.9,2014,6
+788004,TUN,PDP,PDP,,TN: PDP,2010,2014,1.9,2014,6
+788005,TUN,CPR,CPR,,TN: CPR,2010,2014,1.5,2014,6
+788007,TUN,,Tayar Elmahabba,,TN: Tayar Elmahabba,2010,2014,1.9,2014,6
+792001,TUR,ANAP,,Motherland Party,TR: ANAP - Motherland Party -,1990,2009,29.5,1994,2 3 4 5
+792002,TUR,CHP,,Republican Peoples Party,TR: CHP - Republican Peoples Party,1994,2014,32.1,2014,3 4 5 6
+792003,TUR,DSP,,Democratic Left Party,TR: DSP - Democratic Left Party -,1990,2009,16.4,1994,2 3 4 5
+792004,TUR,DYP,,True Path Party,TR: DYP - True Path Party -,1990,2009,18.1,1994,2 3 4 5
+792005,TUR,HADEP,,Peoples Democracy Party,TR: HADEP - Peoples Democracy Party -,1994,2004,5.7,2004,3 4
+792006,TUR,MHP,,Nationalist Action Party,TR: MHP - Nationalist Action Party -,1994,2014,19.9,2004,3 4 5 6
+792008,TUR,AKP,,Justice and Development Party,TR: AKP - Justice and Development Party,2005,2014,53,2009,5 6
+792015,TUR,RP,,Prospetiry Party -- Religious Fundamentalist,TR: RP Prospetiry Party - Religious Fundamentalist,1990,1998,13.6,1998,2 3
+792018,TUR,HICBIRI,HICBIRI,,TR: HICBIRI,1994,1998,25.6,1998,3
+792025,TUR,FP,FP,,TR: FP,2000,2004,15.1,2004,4
+800002,UGA,DP,,Democratic Party,UG: Democratic Party (DP),2000,2004,19.5,2004,4
+800004,UGA,NRM,,National Resistant Movement,UG: National Resistant Movement (NRM),2000,2004,73.5,2004,4
+800005,UGA,UPC,,Uganda People´s Congress,UG: Uganda People´s Congress (UPC),2000,2004,5.5,2004,4
+804005,UKR,DPU,Demokratychna Partiya Ukrainy,Democratic Party of Ukraine,UA: Demokratychna Partiya Ukrainy (DPU) - Democratic Party of Ukraine,1994,1998,19.1,1998,3
+804006,UKR,KPU,Komunistychna Partiya Ukrainy,Communist Party of Ukraine,UA: Komunistychna Partiya Ukrainy (KPU) - Communist Party of Ukraine,1994,2009,19.7,1998,3 5
+804007,UKR,KUN,Kongres ukrainskich nacionalistiv,Congress of Ukrainian Nationalists,UA: Kongres ukrainskich nacionalistiv (KUN)- Congress of Ukrainian Nationalists,1994,1998,1.4,1998,3
+804008,UKR,LPU,Liberalna Partiya Ukrainy,Liberal Party of Ukraine,UA: Liberalna Partiya Ukrainy (LPU) - Liberal Party of Ukraine,1994,1998,2,1998,3
+804009,UKR,,Narodno-demokratina Partija Ukraini,Peoples Democratic Party of Ukraine,UA: Narodno-demokratina Partija Ukraini - Peoples Democratic Party of Ukraine,1994,1998,5.2,1998,3
+804019,UKR,,,Socialistic Democratic Party (United),UA: Socialistic Democratic Party (United),2005,2009,3.2,2009,5
+804020,UKR,SocPU,Sotsialtstychna Partiya Ukrainy,Socialistic Party of Ukraine,UA: Sotsialtstychna Partiya Ukrainy (SocPU) - Socialistic Party of Ukraine,1994,1998,2.7,1998,3
+804022,UKR,URP,Ukrainska Republikanska Partiya,Ukrainian Republic Party,UA: Ukrainska Republikanska Partiya (URP) - Ukrainian Republic Party,1994,1998,1.5,1998,3
+804023,UKR,KhDPU/UKhDP,Khrystiyansko-Demokratychna Partiya Ukrainy,Christian Democratic Party of Ukraine,UA: Khrystiyansko-Demokratychna Partiya Ukrainy (KhDPU/UKhDP) - Christian Democratic Party of Ukraine,1994,1998,2.2,1998,3
+804024,UKR,,Vseukrainske politicne obednannja Derzavnakij kongres,,UA: Vseukrainske politicne obednannja Derzavnakij kongres,1994,1998,3,1998,3
+804025,UKR,GKU,Grazhdanskij Kongress Ukrainy,,UA: Grazhdanskij Kongress Ukrainy (GKU),1994,1998,3.4,1998,3
+804029,UKR,,Konstitucijno-demokratina Partija Ukraini,,UA: Konstitucijno-demokratina Partija Ukraini,1994,1998,2.7,1998,3
+804031,UKR,LDPU,Liberalno-Demokratychna Partiya Ukrainy,,UA: Liberalno-Demokratychna Partiya Ukrainy (LDPU),1994,1998,1.5,1998,3
+804032,UKR,RUCH,Narodnij Ruch Ukraini,,UA: Narodnij Ruch Ukraini (RUCH),1994,1998,9.3,1998,3
+804035,UKR,MBR,Mizhrehionalnyi Blok Reformiv,,UA: Mizhrehionalnyi Blok Reformiv (MBR),1994,1998,1.5,1998,3
+804036,UKR,PEVK,Partiya Ekonomicheskogo Vozrozhdeniya Kryma,,UA: Partiya Ekonomicheskogo Vozrozhdeniya Kryma (PEVK),1994,1998,4.4,1998,3
+804037,UKR,PZU,Partiya Zelenykh Ukrainy,,UA: Partiya Zelenykh Ukrainy (PZU),1994,1998,3.9,1998,3
+804038,UKR,PTU,Partiya Truda Ukrainy,,UA: Partiya Truda Ukrainy (PTU),1994,1998,4.9,1998,3
+804039,UKR,,Partija slovjanskoednosti Ukraini,,UA: Partija slovjanskoednosti Ukraini,1994,1998,1.1,1998,3
+804040,UKR,SelPu,Selianska Partiya Ukrainy,,UA: Selianska Partiya Ukrainy (SelPu),1994,1998,4.3,1998,3
+804041,UKR,SDPU,Sotsial-Demokratychna Partiya Ukrainy,,UA: Sotsial-Demokratychna Partiya Ukrainy (SDPU),1994,1998,1.9,1998,3
+804046,UKR,,Ukrainska partija ljubiteliv piva,,UA: Ukrainska partija ljubiteliv piva,1994,1998,1.9,1998,3
+804048,UKR,USDP,Ukrainska Selianska Demokratychna Partiya,,UA: Ukrainska Selianska Demokratychna Partiya (USDP),1994,1998,1,1998,3
+804052,UKR,,,Block Our Ukraine,UA: Block Our Ukraine,2005,2009,10.6,2009,5
+804053,UKR,,,Party of regions,UA: Party of regions,2005,2009,49.3,2009,5
+804054,UKR,,,Julia Timoshenkos Block,UA: Julia Timoshenkos Block,2005,2009,27.6,2009,5
+804101,UKR,BUT,BUT-Batkivschine,,UA: BUT-Batkivschine,2010,2014,22.8,2014,6
+804102,UKR,VO,VO Svoboda,,UA: VO Svoboda,2010,2014,6.9,2014,6
+804103,UKR,KPU,KPU,,UA: KPU,2010,2014,10.6,2014,6
+804104,UKR,,Partiya Regionov,,UA: Partiya Regionov,2010,2014,26.7,2014,6
+804105,UKR,UDAR,UDAR,,UA: UDAR,2010,2014,5.3,2014,6
+804106,UKR,,,Sil’naya Ukraine,UA: Sil’naya Ukraine,2010,2014,5.7,2014,6
+804107,UKR,,,Front Zmin,UA: Front Zmin,2010,2014,18,2014,6
+804108,UKR,,Gromadyanskaya positsiya,,UA: Gromadyanskaya positsiya,2010,2014,1.6,2014,6
+807001,MKD,DA,DA,,MK: DA,2000,2004,2.3,2004,4
+807002,MKD,DPA,,Democratic Party of Albanians in Macedonia,MK: Democratic Party of Albanians in Macedonia (DPA),1994,2004,11.9,2004,3 4
+807003,MKD,LDP,,Liberal-Democratic Party,MK: Liberal-Democratic Party (LDP),1994,2004,7.4,1998,3 4
+807004,MKD,LP,,,MK: LP,2000,2004,2.8,2004,4
+807005,MKD,,New Democratia,,MK: New Democratia,2000,2004,1.6,2004,4
+807006,MKD,NDP,,,MK: NDP,2000,2004,6.2,2004,4
+807007,MKD,PDP,Partija za Demokratski Prosperitet,,MK: Partija za Demokratski Prosperitet (PDP),1994,2004,11.9,2004,3 4
+807008,MKD,SDSM,Socijaldemokratski Sojuz na Makedonija,,MK: Socijaldemokratski Sojuz na Makedonija (SDSM),1994,2004,38.4,2004,3 4
+807009,MKD,,,Socialistic Party,MK: Socialistic Party,2000,2004,3,2004,4
+807010,MKD,VMRO-DPMNE,,,MK: VMRO - DPMNE,2000,2004,14.9,2004,4
+807011,MKD,VMRO,Vnatrena Makedonska Revolucionerna Organizacija,,MK: Vnatrena Makedonska Revolucionerna Organizacija VMRO,1994,2004,16.2,1998,3 4
+807012,MKD,DP,Demokratska Partija,,MK: Demokratska Partija (DP),1994,1998,1.9,1998,3
+807013,MKD,SPM,Socijalistika Partija na Makedonija,,MK: Socijalistika Partija na Makedonija (SPM),1994,1998,2.5,1998,3
+807017,MKD,,,Independent Candidate,MK: Independent Candidate,1994,1998,1.2,1998,3
+818001,EGY,,,National party,EG: National party,2000,2009,88.8,2009,4 5
+818101,EGY,,,Al Nour Party,EG: Al Nour Party,2010,2014,15.3,2014,6
+818131,EGY,,,Freedom and Justice Party,EG: Freedom and Justice Party,2010,2014,35.8,2014,6
+818144,EGY,,,New Wafd Party,EG: New Wafd Party,2010,2014,10.9,2014,6
+826001,GBR,,,Conservative,GB: Conservative,1994,1998,26.8,1998,3
+826002,GBR,,,Labour,GB: Labour,1994,1998,53.2,1998,3
+826003,GBR,,,Liberal Democrat,GB: Liberal Democrat,1994,1998,15,1998,3
+826006,GBR,,,Scottish / Welsh National Party,GB: Scottish/Welsh National Party,1994,1998,4.2,1998,3
+834004,TZA,,,Chama Cha Mapinduzi,TZ: Chama Cha Mapinduzi (now ruling),2000,2004,68.8,2004,4
+840001,USA,,,Republican,US: Republican,1994,2014,45.8,2014,3 4 5 6
+840002,USA,,,Democrat,US: Democrat,1994,2014,59,2004,3 4 5 6
+840005,USA,,,Reform Party,US: Reform Party,2000,2004,5,2004,4
+854001,BFA,CDP,CDP,,BF: CDP,2005,2009,84.8,2009,5
+854002,BFA,ADF-RDA,ADF/ RDA,,BF: ADF/ RDA,2005,2009,9.1,2009,5
+854003,BFA,UPR,UPR,,BF: UPR,2005,2009,3.2,2009,5
+854004,BFA,PDS,PDS,,BF: PDS,2005,2009,1.2,2009,5
+854005,BFA,PAI,PAI,,BF: PAI,2005,2009,1.7,2009,5
+858001,URY,,Partido Colorado,,UY: Partido Colorado,1994,2014,27.1,1998,3 5 6
+858002,URY,,Partido Nacional,,UY: Partido Nacional,1994,2014,22.9,2009,3 5 6
+858003,URY,,Frente Amplio,,UY: Frente Amplio,1994,2014,66.7,2014,3 5 6
+858004,URY,,Partido Independiente,,UY: Partido Independiente,2005,2014,2.9,2009,5 6
+858005,URY,,Nuevo Espacio,,UY: Nuevo Espacio,1994,1998,8,1998,3
+862001,VEN,MVR,MVR,,VE: MVR,2000,2004,64,2004,4
+862002,VEN,AD,AD,,VE: AD,1994,2004,47.2,1998,3 4
+862003,VEN,MAS,MAS,,VE: MAS,1994,2004,5.9,1998,3 4
+862004,VEN,COPEI,COPEI,,VE: COPEI,1994,2004,20.3,1998,3 4
+862005,VEN,,Proyecto Venezuela,,VE: Proyecto Venezuela,2000,2004,6.4,2004,4
+862006,VEN,,Primero Justicia,,VE: Primero Justicia,2000,2004,7.5,2004,4
+862007,VEN,,La Causa R,,VE: La Causa R,1994,2004,18.2,1998,3 4
+862008,VEN,,Patria para todos,,VE: Patria para todos,2000,2004,1.1,2004,4
+862009,VEN,,Convergencia,,VE: Convergencia,1994,2004,8.4,1998,3 4
+862010,VEN,,Un nuevo tiempo,,VE: Un nuevo tiempo,2000,2004,2.1,2004,4
+887001,YEM,Islah,,Yemeni Congregation for Reform,YE: Islah (Yemeni Congregation for Reform),2010,2014,18.9,2014,6
+887002,YEM,GPC,,General Popular Congress,YE: GPC (General Popular Congress),2010,2014,68.2,2014,6
+887003,YEM,YSP,,Yemeni Socialist Party,YE: YSP (Yemeni Socialist Party),2010,2014,6.9,2014,6
+887004,YEM,,,Nasserist Unionist,YE: Nasserist Unionist,2010,2014,1.4,2014,6
+887007,YEM,,,Yemeni Construction and Development Party,YE: Yemeni Construction and Development Party,2010,2014,1,2014,6
+887009,YEM,YSP,,"Coalition Joint Meeting (Islah, YSP, …)","YE: Coalition Joint Meeting (Islah, YSP, ...)",2010,2014,1.8,2014,6
+894001,ZMB,MD,,Movement for Multi Party Democracy,ZM: MD (Movement for Multi Party Democracy),2005,2009,32.2,2009,5
+894002,ZMB,PF,,Patriotic Front,ZM: PF (Patriotic Front),2005,2009,41.1,2009,5
+894003,ZMB,UDA,,United Democratic Alliance,ZM: UDA (United Democratic Alliance),2005,2009,23.4,2009,5
+894004,ZMB,HP,,Heritage party,ZM: HP Heritage party,2005,2009,2.6,2009,5
+911001,SRB,DS,,Democratic Party,RS: Democratic Party - DS,1994,2004,17,2004,3 4
+911002,SRB,DSS,,Democratic Party of Serbia,RS: Democratic Party of Serbia - DSS,1994,2004,42.3,2004,3 4
+911003,SRB,SRS,,Serbian Radical Party,RS: Serbian Radical Party - SRS,1994,2004,8.8,1998,3 4
+911006,SRB,NS,,New Serbia,RS: New Serbia - NS,2000,2004,3.8,2004,4
+911008,SRB,SVM,,Alliance of Vojvodina Hungarians,RS: Alliance of Vojvodina Hungarians - SVM,2000,2004,2,2004,4
+911009,SRB,LSV,,League of Social Democrats of Vojvodina,RS: League of Social Democrats of Vojvodina - LSV,2000,2004,3.2,2004,4
+911012,SRB,PDD,,Party for Democratic Action,RS: Party for Democratic Action - PDD,2000,2004,1.4,2004,4
+911015,SRB,SPS,,Socialist Party of Serbia,RS: Socialist Party of Serbia - SPS,1994,2004,47.2,1998,3 4
+911025,SRB,SPO,,Serbian Renewal Movement,RS: Serbian Renewal Movement - SPO,1994,2004,5.4,1998,3 4
+911026,SRB,,,Serbian Unity Party,RS: Serbian Unity Party,2000,2004,4.3,2004,4
+911027,SRB,,Gradanski savez Srbije,Civic Alliance of Serbia,RS: Civic Alliance of Serbia (Gradanski savez Srbije),1994,2004,2.8,2004,3 4
+912001,MNE,DPS,,Democratic Party of Socialists,ME: Democratic Party of Socialists DPS,2000,2004,39.1,2004,4
+912002,MNE,SDP,,Social Democratic Party,ME: Social Democratic Party - SDP,2000,2004,4.9,2004,4
+912004,MNE,SNS,,Serbian People's Party,ME: Serbian People's Party - SNS,2000,2004,6.2,2004,4
+912005,MNE,SNP,,Socialist People's Party,ME: Socialist People's Party - SNP,2000,2004,27.9,2004,4
+912006,MNE,NS,,People's Party,ME: People's Party - NS,2000,2004,6,2004,4
+912012,MNE,NS,,People's Socialist Party of Montenegro,ME: People's Socialist Party of Montenegro - NS,2000,2004,2.8,2004,4
+912017,MNE,,,Albanian parties,ME: Albanian parties,2000,2004,4.5,2004,4
+912018,MNE,,,Muslim parties,ME: Muslim parties,2000,2004,1.3,2004,4
+912019,MNE,,,Liberal Alliance of Montenegro,ME: Liberal Alliance of Montenegro,2000,2004,7.5,2004,4
