@@ -43,5 +43,14 @@ parlgov <- party %>%
   left_join(party_raw %>% select(id, wikipedia), by = c("party_id" = "id")) %>%
   arrange(country_name_short, party_name)
 
-# create import file and remove downloaded source files
+# recode Denmark autonomous regions
+parlgov <- parlgov %>% 
+  mutate(
+    country_name_short = case_when(
+      str_detect(party_name_english, fixed("(Faroe Islands)")) ~ "FRO",
+      str_detect(party_name_english, fixed("(Greenland)")) ~ "GRL",
+      TRUE ~ country_name_short
+    )
+  )
+
 write_csv(parlgov, "parlgov.csv", na = "")

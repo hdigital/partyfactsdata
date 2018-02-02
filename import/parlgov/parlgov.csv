@@ -314,10 +314,10 @@ party_id,country_name_short,party_name_short,party_name_english,party_name,famil
 367,DNK,FK,Common Course,Fælles Kurs,com,http://www.parlgov.org/explore/dnk/party/367/,1987,1990,1987,2.2,http://da.wikipedia.org/wiki/F%C3%A6lles_Kurs
 749,DNK,Fobe,People's Movement against the EU,Folkebevægelsen mod EU,spec,http://www.parlgov.org/explore/dnk/party/749/,1979,2014,,,http://en.wikipedia.org/wiki/People%27s_Movement_against_the_EU
 978,DNK,FrP,Progress Party,Fremskridtspartiet,lib,http://www.parlgov.org/explore/dnk/party/978/,1973,2001,1973,15.9,http://en.wikipedia.org/wiki/Fremskridtspartiet
-2574,DNK,FF,People's Party (Faroe Islands),Hin føroyski fólkaflokkurin – radikalt sjálvstýri,con,http://www.parlgov.org/explore/dnk/party/2574/,1984,2005,,,https://en.wikipedia.org/wiki/People's_Party_%28Faroe_Islands%29
+2574,FRO,FF,People's Party (Faroe Islands),Hin føroyski fólkaflokkurin – radikalt sjálvstýri,con,http://www.parlgov.org/explore/dnk/party/2574/,1984,2005,,,https://en.wikipedia.org/wiki/People's_Party_%28Faroe_Islands%29
 1786,DNK,HV,Liberals of the Capital,Hovedstadens Venstre,lib,http://www.parlgov.org/explore/dnk/party/1786/,1947,1947,1947,2.2,http://da.wikipedia.org/wiki/Hovedstadens_Venstre
 1891,DNK,IA,Community of the People,Inuit Ataqatigiit,com,http://www.parlgov.org/explore/dnk/party/1891/,2001,2015,2015,0.2,http://en.wikipedia.org/wiki/Inuit_Ataqatigiit
-1894,DNK,Jf,Social Democratic Party (Faroe Islands),Javnaðarflokkurin,soc,http://www.parlgov.org/explore/dnk/party/1894/,1987,2015,2015,0.2,http://en.wikipedia.org/wiki/Javna%C3%B0arflokkurin
+1894,FRO,Jf,Social Democratic Party (Faroe Islands),Javnaðarflokkurin,soc,http://www.parlgov.org/explore/dnk/party/1894/,1987,2015,2015,0.2,http://en.wikipedia.org/wiki/Javna%C3%B0arflokkurin
 1450,DNK,JuBe,June Movement,JuniBevægelsen,spec,http://www.parlgov.org/explore/dnk/party/1450/,1994,2009,,,http://en.wikipedia.org/wiki/June_Movement
 590,DNK,KF,Conservatives,Konservative,con,http://www.parlgov.org/explore/dnk/party/590/,1901,2015,1901,24,http://en.wikipedia.org/wiki/Konservative_Folkeparti
 1331,DNK,KrF,Christian People's Party,Kristeligt Folkeparti,chr,http://www.parlgov.org/explore/dnk/party/1331/,1971,2015,1975,5.3,http://en.wikipedia.org/wiki/Kristeligt_Folkeparti
@@ -326,12 +326,12 @@ party_id,country_name_short,party_name_short,party_name_english,party_name,famil
 2431,DNK,NS,National Cooperation ,National Samvirke,con,http://www.parlgov.org/explore/dnk/party/2431/,1939,1939,1939,1,https://da.wikipedia.org/wiki/Nationalt_Samvirke
 376,DNK,NLA,New-Liberal Alliance,Ny-Liberal Alliance,lib,http://www.parlgov.org/explore/dnk/party/376/,2007,2015,2015,7.4,http://en.wikipedia.org/wiki/Liberal_Alliance_(Denmark)
 1606,DNK,RF,Justice Party,Retsforbund,lib,http://www.parlgov.org/explore/dnk/party/1606/,1924,1984,1950,8.2,http://en.wikipedia.org/wiki/Justice_Party_of_Denmark
-1892,DNK,Sbf,Union Party (Faroe Islands),Sambandsflokkurin,con,http://www.parlgov.org/explore/dnk/party/1892/,1984,2011,,,http://en.wikipedia.org/wiki/Union_Party_%28Faroe_Islands%29
-74,DNK,Si,Forward (Greenland),Siumut,soc,http://www.parlgov.org/explore/dnk/party/74/,1984,2015,2015,0.2,http://en.wikipedia.org/wiki/Siumut
+1892,FRO,Sbf,Union Party (Faroe Islands),Sambandsflokkurin,con,http://www.parlgov.org/explore/dnk/party/1892/,1984,2011,,,http://en.wikipedia.org/wiki/Union_Party_%28Faroe_Islands%29
+74,GRL,Si,Forward (Greenland),Siumut,soc,http://www.parlgov.org/explore/dnk/party/74/,1984,2015,2015,0.2,http://en.wikipedia.org/wiki/Siumut
 812,DNK,SP,Schleswig Party,Slesvigsk Parti,spec,http://www.parlgov.org/explore/dnk/party/812/,1920,1977,1926,0.8,http://en.wikipedia.org/wiki/Schleswig_Party
 1629,DNK,Sd,Social Democrats,Socialdemokraterne,soc,http://www.parlgov.org/explore/dnk/party/1629/,1901,2015,1935,46.1,http://en.wikipedia.org/wiki/Social_Democrats_%28Denmark%29
 1644,DNK,SF,Socialist Peoples Party,Socialistisk Folkeparti,eco,http://www.parlgov.org/explore/dnk/party/1644/,1960,2015,1987,14.6,http://en.wikipedia.org/wiki/Socialistisk_Folkeparti
-2568,DNK,T,Republic (Faroe Islands),Tjóðveldi,com,http://www.parlgov.org/explore/dnk/party/2568/,2001,2015,2015,0.2,https://en.wikipedia.org/wiki/Republic_%28Faroe_Islands%29
+2568,FRO,T,Republic (Faroe Islands),Tjóðveldi,com,http://www.parlgov.org/explore/dnk/party/2568/,2001,2015,2015,0.2,https://en.wikipedia.org/wiki/Republic_%28Faroe_Islands%29
 1605,DNK,V,Liberal Party,Venstre,lib,http://www.parlgov.org/explore/dnk/party/1605/,1901,2015,1903,47.1,http://en.wikipedia.org/wiki/Venstre_%28Denmark%29
 189,DNK,VS,Left Socialists,Venstresocialisterne,com,http://www.parlgov.org/explore/dnk/party/189/,1968,1987,1979,3.7,http://en.wikipedia.org/wiki/Left_Socialists
 411,ESP,AIC,Canary Islands Group,Agrupacion Independientes de Canarias,spec,http://www.parlgov.org/explore/esp/party/411/,1986,1989,1986,0.3,http://es.wikipedia.org/wiki/Agrupaciones_Independientes_de_Canarias
