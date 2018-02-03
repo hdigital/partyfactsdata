@@ -1,10 +1,9 @@
 library(tidyverse)
-library(haven)
 
 ## Read data
 
 if( ! exists("ess_raw") | ! exists("ess")) {
-  ess_raw <- read_dta("source__ESS1-7e01-dta.zip")
+  ess_raw <- haven::read_dta("source__ESS1-7e01-dta.zip")
   ess <- ess_raw %>%
     haven::as_factor() %>% 
     mutate(essround = as.integer(essround))
@@ -27,7 +26,7 @@ get_ess_party <- function(prt_var) {
 # get_ess_party("prtvtse")
 
 prt_vars <- ess %>% select(starts_with("prtvt")) %>% names()
-party_all <- bind_rows(lapply(prt_vars, get_ess_party))
+party_all <- map_df(prt_vars, get_ess_party) %>% bind_rows()
 
 write_csv(party_all, "ess-parties-round.csv", na = "")
 
