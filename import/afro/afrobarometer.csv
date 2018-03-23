@@ -1,0 +1,347 @@
+country,party,party_id,n,share,name_short,name,name_english
+Algeria,Algerian Popular Movement (MPA),297,2,0.5,MPA,,Algerian Popular Movement
+Algeria,EA ADALA,296,6,1.6,EA,EA ADALA,
+Algeria,Islamic Renaissance Movement (MN),294,8,2.1,MN,,Islamic Renaissance Movement
+Algeria,Movement of Society for Peace (HMS),293,30,7.9,HMS,,Movement of Society for Peace
+Algeria,National Liberation Front (FLN),289,205,54.1,FLN,,National Liberation Front
+Algeria,New Dawn (PFJ),298,2,0.5,PFJ,,New Dawn
+Algeria,Socialist Forces Front (FFS),291,40,10.6,FFS,,Socialist Forces Front
+Algeria,The National Rally for Democracy (RND),290,46,12.1,RND,,The National Rally for Democracy
+Algeria,The Rally of Algerian Hope (TAJ),295,10,2.6,TAJ,,The Rally of Algerian Hope
+Algeria,Workers' Party (PT),292,30,7.9,PT,,Workers' Party
+Benin,Alliance ABT,8,29,6.4,ABT,,Alliance ABT
+Benin,Force Cauris pour un Bénin Emergent (FCBE de Yayi Boni),3,281,62,FCBE,,Force Cauris pour un Bénin Emergent (FCBE de Yayi Boni)
+Benin,PRD,6,44,9.7,PRD,,
+Benin,RB (Lehady Soglo),5,30,6.6,RB,RB (Lehady Soglo),
+Benin,Union fait la Nation,4,56,12.4,,,Union fait la Nation
+Benin,UPR,7,13,2.9,UPR,,
+Botswana,Botswana Congress Party (BCP),9,196,23.3,BCP,,Botswana Congress Party
+Botswana,Botswana Democratic Party (BDP),10,525,62.5,BDP,,Botswana Democratic Party
+Botswana,Botswana Movement for Democracy (BMD),11,24,2.9,BMD,,Botswana Movement for Democracy
+Botswana,Botswana National Front (BNF),12,65,7.7,BNF,,Botswana National Front
+Botswana,Marx Engels Lenin Stalin (MELS),13,1,0.1,MELS,Marx Engels Lenin Stalin,
+Botswana,Umbrella for Democratic Change (UDC),14,29,3.5,UDC,,Umbrella for Democratic Change
+Burkina Faso,ADF/RDA,15,12,3.2,ADF,ADF/RDA,
+Burkina Faso,CDP,16,79,21,CDP,,
+Burkina Faso,CFD/B,17,3,0.8,CFD,CFD/B,
+Burkina Faso,Le Faso Autrement de Ablassé OUEDRAOGO,18,1,0.3,OUEDRAOGO,Le Faso Autrement de Ablassé OUEDRAOGO,
+Burkina Faso,MPP,19,153,40.6,MPP,,
+Burkina Faso,NAFA,25,14,3.7,NAFA,,
+Burkina Faso,PDS/Matba de Arba DIALLO,20,13,3.4,PDS,PDS/Matba de Arba DIALLO,
+Burkina Faso,UNDD,21,3,0.8,UNDD,,
+Burkina Faso,UNIR/PS,22,22,5.8,UNIR,UNIR/PS,
+Burkina Faso,UPC de Zéphirin DIABRE,23,72,19.1,UPC,UPC de Zéphirin DIABRE,
+Burkina Faso,UPR de Toussaint Abel COULIBALY,24,5,1.3,UPR,UPR de Toussaint Abel COULIBALY,
+Burundi,CNDD (Léonard Nyangoma),265,3,0.4,CNDD,CNDD (Léonard Nyangoma),
+Burundi,CNDD-FDD,261,657,82.2,CNDD,CNDD-FDD,
+Burundi,FNL (Agathon Rwasa),262,34,4.3,FNL,FNL (Agathon Rwasa),
+Burundi,FRODEBU,264,21,2.6,FRODEBU,,
+Burundi,MRC Rurenzangemero,269,2,0.3,MRC,MRC Rurenzangemero,
+Burundi,MSD,266,19,2.4,MSD,,
+Burundi,SAHWANYA FRODEBU Iragi rya Ndadaye,268,14,1.8,SAHWANYA,SAHWANYA FRODEBU Iragi rya Ndadaye,
+Burundi,UPD-ZIGAMIBANGA,267,6,0.8,UPD,UPD-ZIGAMIBANGA,
+Burundi,UPRONA,263,43,5.4,UPRONA,,
+Cameroon,Cameroon People's Democratic Movement (CPDM),270,388,81.7,CPDM,,Cameroon People's Democratic Movement
+Cameroon,Mouvement Progressiste (MP),274,3,0.6,MP,Mouvement Progressiste,
+Cameroon,National Union For Democracy and Progress (UNDP),272,17,3.6,UNDP,,National Union For Democracy and Progress
+Cameroon,Social Democratic Front (SDF),271,58,12.2,SDF,,Social Democratic Front
+Cameroon,Union Démocratique du Cameroun (UDC),273,9,1.9,UDC,,Union Démocratique du Cameroun
+Cape Verde,African Party of Independence of Cape Verde (PAICV),27,214,52.7,PAICV,,African Party of Independence of Cape Verde
+Cape Verde,Cape Verdean Union Independent and Democratic (UCID),28,13,3.2,UCID,,Cape Verdean Union Independent and Democratic
+Cape Verde,Movement for Democracy (MPD),26,179,44.1,MPD,,Movement for Democracy
+Cote d'Ivoire,Front Populaire Ivoirien (FPI),277,235,36.2,FPI,,Front Populaire Ivoirien
+Cote d'Ivoire,Mouvement des Forces d'Avenir (MFA),280,1,0.2,MFA,,Mouvement des Forces d'Avenir
+Cote d'Ivoire,Parti Démocratique de Cote d'Ivoire (PDCI),276,135,20.8,PDCI,Parti Démocratique de Cote d'Ivoire,
+Cote d'Ivoire,Parti Ivoirien des Travailleurs (PIT),281,1,0.2,PIT,Parti Ivoirien des Travailleurs,
+Cote d'Ivoire,Rassemblement des Républicains (RDR),275,253,38.9,RDR,Rassemblement des Républicains,
+Cote d'Ivoire,Union Démocaratique et Citoyenne (UDCY),279,3,0.5,UDCY,,Union Démocaratique et Citoyenne
+Cote d'Ivoire,Union des Sociaux Démocrates (USD),282,1,0.2,USD,,Union des Sociaux Démocrates
+Cote d'Ivoire,Union pour la Démocaratie et pour la Paix en Cot d'Ivoire (UDPCI),278,21,3.2,UDPCI,,Union pour la Démocaratie et pour la Paix en Cot d'Ivoire
+Egypt,Al Messreyoun Al Ahrar,307,67,25.2,,Al Messreyoun Al Ahrar,
+Egypt,Egyptian Patriotic Movement,300,40,15,,,Egyptian Patriotic Movement
+Egypt,Egyptian Social Democratic,302,22,8.3,,,Egyptian Social Democratic
+Egypt,El Doustour,305,16,6,,El Doustour,
+Egypt,El Motamar,304,13,4.9,,El Motamar,
+Egypt,El-Wafad,299,33,12.4,,El-Wafad,
+Egypt,Ennour,301,22,8.3,,Ennour,
+Egypt,Masr Baladi,306,10,3.8,,Masr Baladi,
+Egypt,Misr Alqawia,303,34,12.8,,Misr Alqawia,
+Egypt,Popular Alliance,308,6,2.3,,,Popular Alliance
+Egypt,The Conservative Party,309,3,1.1,,,The Conservative Party
+Gabon,CLR (Cercle des Libéraux Réformateurs),343,9,2.7,CLR,CLR (Cercle des Libéraux Réformateurs),
+Gabon,PDG (Parti Démocratique Gabonais),340,198,60.2,PDG,PDG (Parti Démocratique Gabonais),
+Gabon,RPG (Rassemblement du Peuple Gabonais),344,1,0.3,RPG,RPG (Rassemblement du Peuple Gabonais),
+Gabon,UN (Union Nationale),341,94,28.6,UN,,UN (Union Nationale)
+Gabon,UPG (Union du Peuple Gabonais),342,27,8.2,UPG,,UPG (Union du Peuple Gabonais)
+Ghana,Convention People's Party (CPP),29,40,3.1,CPP,,Convention People's Party
+Ghana,Democratic People's Party (DPP),34,1,0.1,DPP,,Democratic People's Party
+Ghana,Great Consolidated Popular Party (GCPP),35,1,0.1,GCPP,,Great Consolidated Popular Party
+Ghana,National Democratic Congress (NDC),30,570,43.6,NDC,,National Democratic Congress
+Ghana,New Patriotic Party (NPP),31,658,50.4,NPP,,New Patriotic Party
+Ghana,People's National Convention (PNC),32,4,0.3,PNC,,People's National Convention
+Ghana,Progressive People's Party (PPP),33,32,2.5,PPP,,Progressive People's Party
+Guinea,Parti de l'Espoir pour le Développement National (PEDN),286,15,2.3,PEDN,,Parti de l'Espoir pour le Développement National
+Guinea,Rassemblement du Peuple de Guinée (RPG),283,415,63.5,RPG,Rassemblement du Peuple de Guinée,
+Guinea,Rassemblement pour le Developpement Intégré de la Guinée (RDIG),288,4,0.6,RDIG,,Rassemblement pour le Developpement Intégré de la Guinée
+Guinea,Union des Forces Démocratiques de Guinée (UFDG),284,174,26.6,UFDG,,Union des Forces Démocratiques de Guinée
+Guinea,Union des Forces Républicaines,285,41,6.3,,,Union des Forces Républicaines
+Guinea,Union pour le Progres de la Guinée (UPG),287,5,0.8,UPG,,Union pour le Progres de la Guinée
+Kenya,Ford Kenya,45,17,1.2,,,Ford Kenya
+Kenya,Kenya Social Congress (KSC),36,2,0.1,KSC,,Kenya Social Congress
+Kenya,NARCK Kenya,37,11,0.7,NARCK,,NARCK Kenya
+Kenya,Orange Democratic Movement (ODM),38,565,38.4,ODM,,Orange Democratic Movement
+Kenya,Restore and Build Kenya (RBK),39,3,0.2,RBK,,Restore and Build Kenya
+Kenya,SAFINA Party,40,4,0.3,SAFINA,,SAFINA Party
+Kenya,The National Alliance (TNA),41,592,40.2,TNA,,The National Alliance
+Kenya,United Democratic Front (UDF),42,20,1.4,UDF,,United Democratic Front
+Kenya,United Republican Party (URP),43,185,12.6,URP,,United Republican Party
+Kenya,Wiper Democratic Movement (WDM-K),44,72,4.9,WDM,,Wiper Democratic Movement (WDM-K)
+Lesotho,All Basotho Convention (ABC),47,241,32.9,ABC,,All Basotho Convention
+Lesotho,Basotho Batho Democratic Party (BBDP),56,1,0.1,BBDP,,Basotho Batho Democratic Party
+Lesotho,Basotho Congress Party (BCP),55,6,0.8,BCP,,Basotho Congress Party
+Lesotho,Basotho Democratic National Party (BDNP),53,1,0.1,BDNP,,Basotho Democratic National Party
+Lesotho,Basotho National Party (BNP),49,51,7,BNP,,Basotho National Party
+Lesotho,Democratic Congress (DC),46,242,33,DC,,Democratic Congress
+Lesotho,Lesotho Congress for Democracy (LCD),48,179,24.4,LCD,,Lesotho Congress for Democracy
+Lesotho,Lesotho People's Congress (LPC),52,3,0.4,LPC,,Lesotho People's Congress
+Lesotho,Marematlou Freedom Party (MFP),54,1,0.1,MFP,,Marematlou Freedom Party
+Lesotho,National Independent Party (NIP),51,2,0.3,NIP,,National Independent Party
+Lesotho,Popular Front for Democracy (PFD),50,6,0.8,PFD,,Popular Front for Democracy
+Liberia,All Liberia Coalition Party (ALCOP),70,27,3.3,ALCOP,,All Liberia Coalition Party
+Liberia,Alliance of Peace and Democracy (APD) - UPP & LPP,59,8,1,APD,,Alliance of Peace and Democracy - UPP & LPP
+Liberia,Alternative National Congress (ANC),82,4,0.5,ANC,,Alternative National Congress
+Liberia,Citizens Unification Party (CUP),78,3,0.4,CUP,,Citizens Unification Party
+Liberia,Congress of Democratic Change (CDC),66,334,40.6,CDC,,Congress of Democratic Change
+Liberia,Free Democratic Party (FDP),58,3,0.4,FDP,,Free Democratic Party
+Liberia,Grassroot Democratic Party of Liberia,77,1,0.1,,,Grassroot Democratic Party of Liberia
+Liberia,Liberia Destiny Party (LDP),67,9,1.1,LDP,,Liberia Destiny Party
+Liberia,Liberia Reconstruction Party (LRP),71,2,0.2,LRP,,Liberia Reconstruction Party
+Liberia,Liberia Transformation Party (TPL),79,4,0.5,TPL,,Liberia Transformation Party
+Liberia,Liberian National Union (LINU),69,5,0.6,LINU,,Liberian National Union
+Liberia,Liberty Party,61,89,10.8,,,Liberty Party
+Liberia,Majority Party of Liberia (MAPOL),76,1,0.1,MAPOL,,Majority Party of Liberia
+Liberia,Movement for Progressive Change (MPC),74,16,1.9,MPC,,Movement for Progressive Change
+Liberia,National Democratic Coalition (NDC),60,28,3.4,NDC,,National Democratic Coalition
+Liberia,National Democratic Party of Liberia (NDPL),64,24,2.9,NDPL,,National Democratic Party of Liberia
+Liberia,National Reform Party (NRP),57,3,0.4,NRP,,National Reform Party
+Liberia,National Union for Democratic Progress (NUDP),72,50,6.1,NUDP,,National Union for Democratic Progress
+Liberia,National Vision PArty of Liberia (NATVIPOL),73,4,0.5,PA,,National Vision PArty of Liberia
+Liberia,People Unification Party (PUP),81,13,1.6,PUP,,People Unification Party
+Liberia,Progressive Democratic Party (PRODEM),68,4,0.5,PRODEM,,Progressive Democratic Party
+Liberia,Progressive People's Party (PPP),33,9,1.1,PPP,,Progressive People's Party
+Liberia,Republican Party (RP),80,1,0.1,RP,,Republican Party
+Liberia,True Wing Party (TWP),62,9,1.1,TWP,,True Wing Party
+Liberia,Union of Liberian Democrats (ULD),65,2,0.2,ULD,,Union of Liberian Democrats
+Liberia,Unity Party (UP),63,166,20.2,UP,,Unity Party
+Liberia,Victory for Change (VCP),75,3,0.4,VCP,,Victory for Change
+Madagascar,AKFM (Antokon-ny Kongresin-ny Fahaleovantenan-i Madagasikara),83,1,0.2,AKFM,AKFM (Antokon-ny Kongresin-ny Fahaleovantenan-i Madagasikara),
+Madagascar,AKFM Fanavaozana (Antokon-ny Kongresin-ny Fahaleovantenan-i Madagasikara Fanavaozana),84,4,0.7,AKFM,AKFM Fanavaozana (Antokon-ny Kongresin-ny Fahaleovantenan-i Madagasikara Fanavaozana),
+Madagascar,Antoko Maintso (Hasin-i Madagasikara),85,4,0.7,,Antoko Maintso (Hasin-i Madagasikara),
+Madagascar,AREMA (Antokin-ny REvolisiona Malagasy),86,34,6,AREMA,AREMA (Antokin-ny REvolisiona Malagasy),
+Madagascar,AVI (Asa Vita no Ifampitsarana),87,1,0.2,AVI,AVI (Asa Vita no Ifampitsarana),
+Madagascar,HVM (HeryVaovao ho an-I Madagasikara),99,127,22.5,HVM,HVM (HeryVaovao ho an-I Madagasikara),
+Madagascar,LEADER FANILO (Libéralisme Economique et Action DEmocratique pour la Réconciliation ),88,4,0.7,LEADER,,LEADER FANILO (Libéralisme Economique et Action DEmocratique pour la Réconciliation )
+Madagascar,Mahaleo tena,89,5,0.9,,Mahaleo tena,
+Madagascar,MAPAR (Miaraka Amin-ny Prezida Andry Rajoelina),98,35,6.2,MAPAR,MAPAR (Miaraka Amin-ny Prezida Andry Rajoelina),
+Madagascar,MDM (Miara Mientana ho an-ny Demokrasia),91,1,0.2,MDM,MDM (Miara Mientana ho an-ny Demokrasia),
+Madagascar,MFM (Mitolona ho amin-ny Fampandrosoana),90,1,0.2,MFM,MFM (Mitolona ho amin-ny Fampandrosoana),
+Madagascar,MMM (Malagasy Miara-Miainga),101,11,1.9,MMM,MMM (Malagasy Miara-Miainga),
+Madagascar,MONIMA (MOuvement National pour l'Indépendance de Madagascar),92,4,0.7,MONIMA,,MONIMA (MOuvement National pour l'Indépendance de Madagascar)
+Madagascar,MTS (Malagasy Tonga Saina),93,8,1.4,MTS,MTS (Malagasy Tonga Saina),
+Madagascar,RPSD-Vaovao (Rassemblement pour la Social Démocratie),94,2,0.4,RPSD,,RPSD-Vaovao (Rassemblement pour la Social Démocratie)
+Madagascar,TGV (Tanora malaGasy Vonona),95,65,11.5,TGV,TGV (Tanora malaGasy Vonona),
+Madagascar,TIM (Tiako i Madagasikara),96,252,44.6,TIM,TIM (Tiako i Madagasikara),
+Madagascar,UNDD (Union Nationale pour le Développement et la Démocratie),97,5,0.9,UNDD,,UNDD (Union Nationale pour le Développement et la Démocratie)
+Madagascar,Vitantsika io,100,1,0.2,,Vitantsika io,
+Malawi,Alliance for Democracy (AFORD),102,3,0.2,AFORD,,Alliance for Democracy
+Malawi,Democratic Progressive Party (DPP),103,587,33.9,DPP,,Democratic Progressive Party
+Malawi,Malawi Congress Party (MCP),105,420,24.2,MCP,,Malawi Congress Party
+Malawi,Malawi Democratic Party (MDP),106,1,0.1,MDP,,Malawi Democratic Party
+Malawi,Malawi Forum for Unity and Development (MAFUNDE),104,3,0.2,MAFUNDE,,Malawi Forum for Unity and Development
+Malawi,Maravi People's Party (MPP),107,1,0.1,MPP,,Maravi People's Party
+Malawi,Movement for Genuine Democracy (MGODE),108,3,0.2,MGODE,,Movement for Genuine Democracy
+Malawi,National Survation Front (NSF),109,2,0.1,NSF,,National Survation Front
+Malawi,New Republican Party (NRP),110,1,0.1,NRP,,New Republican Party
+Malawi,People's Party (PP),111,395,22.8,PP,,People's Party
+Malawi,People's Progressive Movement (PPM),112,3,0.2,PPM,,People's Progressive Movement
+Malawi,United Democratic Front (UDF),42,313,18.1,UDF,,United Democratic Front
+Malawi,United Independent Party (UIP),113,1,0.1,UIP,,United Independent Party
+Mali,ADEMA - PASJ,114,122,15.2,ADEMA,ADEMA - PASJ,
+Mali,ADP-Maliba,115,6,0.7,ADP,ADP-Maliba,
+Mali,ASMA-CFP,116,5,0.6,ASMA,ASMA-CFP,
+Mali,BDIA - FASO JIGI,117,2,0.2,BDIA,BDIA - FASO JIGI,
+Mali,CDS - MOGO TIGIYA,118,4,0.5,CDS,CDS - MOGO TIGIYA,
+Mali,CNAS,119,2,0.2,CNAS,,
+Mali,CNID - FASO YIRIWA TON,120,6,0.7,CNID,CNID - FASO YIRIWA TON,
+Mali,CODEM,121,27,3.4,CODEM,,
+Mali,FARE,122,2,0.2,FARE,,FARE
+Mali,MPR,123,15,1.9,MPR,,
+Mali,PARENA,124,12,1.5,PARENA,,
+Mali,PDES,125,7,0.9,PDES,,
+Mali,RPDM,126,4,0.5,RPDM,,
+Mali,RPM,127,384,47.7,RPM,,
+Mali,SADI,128,29,3.6,SADI,,
+Mali,UDD,129,4,0.5,UDD,,
+Mali,UM - RDA,130,2,0.2,UM,UM - RDA,
+Mali,URD,131,142,17.6,URD,,
+Mali,YELEMA,132,30,3.7,YELEMA,,
+Mauritius,FPR,231,3,1.3,FPR,,
+Mauritius,FSM,227,4,1.7,FSM,,
+Mauritius,Mauritian Labour Party,224,118,50.4,,,Mauritian Labour Party
+Mauritius,MMM,228,53,22.6,MMM,,
+Mauritius,MR,229,13,5.6,MR,,
+Mauritius,MSM,226,7,3,MSM,,
+Mauritius,OPR,230,32,13.7,OPR,,
+Mauritius,PMSD,225,4,1.7,PMSD,,
+Morocco,Constitutional Union,316,8,1.9,,,Constitutional Union
+Morocco,Istiqlal Party,311,39,9.1,,,Istiqlal Party
+Morocco,Justice and Development Party,310,206,47.9,,,Justice and Development Party
+Morocco,National Ittihadi Congress Party,318,1,0.2,,,National Ittihadi Congress Party
+Morocco,National Rally of Independents,312,29,6.7,,,National Rally of Independents
+Morocco,Party of Progress and Socialism,317,15,3.5,,,Party of Progress and Socialism
+Morocco,Socialist Union of Popular Forces,314,32,7.4,,,Socialist Union of Popular Forces
+Morocco,The Authenticity ad Modernity Party,313,88,20.5,,,The Authenticity ad Modernity Party
+Morocco,The Popular Movement,315,12,2.8,,,The Popular Movement
+Mozambique,Fremilo (Frente de Libertação de Moçambique),133,964,76,,Fremilo (Frente de Libertação de Moçambique),
+Mozambique,MDM (Movimento Democrático Moçambicano),135,63,5,MDM,MDM (Movimento Democrático Moçambicano),
+Mozambique,"PDD (Partido para Paz, Democracia e Desenvolvimento)",136,4,0.3,PDD,,"PDD (Partido para Paz, Democracia e Desenvolvimento)"
+Mozambique,Renamo (Resistência Nacional de Moçambique,134,237,18.7,,Renamo (Resistência Nacional de Moçambique,
+Namibia,All People's Party (APP),137,24,2.8,APP,,All People's Party
+Namibia,Congress of Democrats (COD),138,18,2.1,COD,,Congress of Democrats
+Namibia,DTA of Namibia (DTA),139,50,5.9,DTA,,DTA of Namibia
+Namibia,Monitor Action Group (MAG),140,6,0.7,MAG,,Monitor Action Group
+Namibia,National Democratic Party of Namibia (NDPD),142,1,0.1,NDPD,,National Democratic Party of Namibia
+Namibia,National Unity Democratic Organisation of Namibia (NUDO,141,25,3,NUDO,,National Unity Democratic Organisation of Namibia (NUDO
+Namibia,Rally for Democracy and Progress (RDP),143,50,5.9,RDP,,Rally for Democracy and Progress
+Namibia,Republican Party of Namibia (RP),144,5,0.6,RP,,Republican Party of Namibia
+Namibia,Swanu of Namibia (SWANU),145,8,0.9,SWANU,,Swanu of Namibia
+Namibia,SWAPO Party of Namibia (SWAPO),146,637,75.3,SWAPO,,SWAPO Party of Namibia
+Namibia,United Democratic Front of Namibia (UDF),147,22,2.6,UDF,,United Democratic Front of Namibia
+Niger,ANDP Zaman Lahiya (Alliance Nigérienne pour la Démocratie et le Progrès),237,54,6.1,ANDP,,ANDP Zaman Lahiya (Alliance Nigérienne pour la Démocratie et le Progrès)
+Niger,CDS Rahama (Convention Démocratique et Sociale),238,49,5.6,CDS,,CDS Rahama (Convention Démocratique et Sociale)
+Niger,MNSD Nassara (Mouvement National pour la Société de Développement),239,175,19.9,MNSD,,MNSD Nassara (Mouvement National pour la Société de Développement)
+Niger,MODEN FA Lumana (Mouvement Démocratique Nigérien pour une Férdération Africaine),240,81,9.2,MODEN,,MODEN FA Lumana (Mouvement Démocratique Nigérien pour une Férdération Africaine)
+Niger,PNA Al'Oumat (Parti Nigérien pour l'Auto gestion),241,2,0.2,PNA,,PNA Al'Oumat (Parti Nigérien pour l'Auto gestion)
+Niger,PNDS Tarayya (Parti Nigérien pour la Démocratie et le Socialisme),242,495,56.2,PNDS,,PNDS Tarayya (Parti Nigérien pour la Démocratie et le Socialisme)
+Niger,PPN RDA (Parti Progressiste Nigérien),243,2,0.2,PPN,PPN RDA (Parti Progressiste Nigérien),
+Niger,PSDN Alhéri (Parti Social Démocrate Nigérien),244,1,0.1,PSDN,,PSDN Alhéri (Parti Social Démocrate Nigérien)
+Niger,PUND Salama (Parti pour l'Union Nationale et la Démocratie),245,1,0.1,PUND,,PUND Salama (Parti pour l'Union Nationale et la Démocratie)
+Niger,RDP Jama'a (Rassemblement pour la Démocratie et le Progrès),246,8,0.9,RDP,,RDP Jama'a (Rassemblement pour la Démocratie et le Progrès)
+Niger,RSD Gaskia (Rassemblement Social Démocrate),247,2,0.2,RSD,,RSD Gaskia (Rassemblement Social Démocrate)
+Niger,UDPS Amana (Union pour la Démocratie et le Progrès Social),248,1,0.1,UDPS,,UDPS Amana (Union pour la Démocratie et le Progrès Social)
+Niger,UDR Tabbat (Union pour la Démocratie et la République),249,9,1,UDR,,UDR Tabbat (Union pour la Démocratie et la République)
+Niger,UNI (Union des Nigériens Indépendants),250,1,0.1,UNI,,UNI (Union des Nigériens Indépendants)
+Nigeria,Advanced Congress of Democrats (ACD),148,4,0.2,ACD,,Advanced Congress of Democrats
+Nigeria,African Democratic Congress (ADC),151,1,0.1,ADC,,African Democratic Congress
+Nigeria,All Nigeria People's Party (ANPP),152,6,0.4,ANPP,,All Nigeria People's Party
+Nigeria,All People's Party (APP),137,3,0.2,APP,,All People's Party
+Nigeria,All Progressive Congress (APC),149,773,47.3,APC,,All Progressive Congress
+Nigeria,All Progressives Grand Alliance (APGA),153,39,2.4,APGA,,All Progressives Grand Alliance
+Nigeria,Alliance for Democracy (ACD),150,13,0.8,ACD,,Alliance for Democracy
+Nigeria,Conscience People's Congress (CPC),154,33,2,CPC,,Conscience People's Congress
+Nigeria,Democratic Alternative (DA),155,1,0.1,DA,,Democratic Alternative
+Nigeria,Democratic People's Party (DPP),34,14,0.9,DPP,,Democratic People's Party
+Nigeria,Fresh Democratic Party (FDP),156,3,0.2,FDP,,Fresh Democratic Party
+Nigeria,Labour Party (LP),157,20,1.2,LP,,Labour Party
+Nigeria,National Conscience Party (NCP),158,1,0.1,NCP,,National Conscience Party
+Nigeria,New Democrats (ND),159,5,0.3,ND,,New Democrats
+Nigeria,People's Democratic Party (PDP),160,707,43.3,PDP,,People's Democratic Party
+Nigeria,People's Progressive Party (PPP),162,3,0.2,PPP,,People's Progressive Party
+Nigeria,Progressive People's Alliance (PPA),161,7,0.4,PPA,,Progressive People's Alliance
+Nigeria,United Nigeria People's Party (UNPP),163,1,0.1,UNPP,,United Nigeria People's Party
+São Tomé and Príncipe,Independent Democratic Action (ADI),335,394,62.3,ADI,,Independent Democratic Action
+São Tomé and Príncipe,Mouvement for Change and Progress of Principe,338,10,1.6,,,Mouvement for Change and Progress of Principe
+São Tomé and Príncipe,Movement for the Liberation of São Tomé and Principe/Soc,336,189,29.9,,,Movement for the Liberation of São Tomé and Principe/Soc
+São Tomé and Príncipe,Party for Democratic Convergence (PCD),337,36,5.7,PCD,,Party for Democratic Convergence
+São Tomé and Príncipe,"Union of Democrats for Citizenship, Development and Change",339,3,0.5,,,"Union of Democrats for Citizenship, Development and Change"
+Senegal,Alliance des Forces du Progrés,166,33,5,,,Alliance des Forces du Progrés
+Senegal,Alliance Pour la République,167,352,53.7,,,Alliance Pour la République
+Senegal,Frount pour le Socialisme et la Démocratie/Benno Jubbel,170,2,0.3,,,Frount pour le Socialisme et la Démocratie/Benno Jubbel
+Senegal,Ligue Démocratique/Mouvement Populaire pour le Travail,172,4,0.6,,,Ligue Démocratique/Mouvement Populaire pour le Travail
+Senegal,Parti Démocratique Sénégalais,164,203,31,,Parti Démocratique Sénégalais,
+Senegal,Parti pour l'Indépendance et le Travail,171,1,0.2,,,Parti pour l'Indépendance et le Travail
+Senegal,Parti Socialiste,165,30,4.6,,Parti Socialiste,
+Senegal,Rewmi,168,28,4.3,,Rewmi,
+Senegal,Union pour le Renouneau Démocratique,169,2,0.3,,,Union pour le Renouneau Démocratique
+Sierra Leone,All People's Congress (APC),233,371,49.1,APC,,All People's Congress
+Sierra Leone,National  Democratic Alliance (NDA),235,2,0.3,NDA,,National  Democratic Alliance
+Sierra Leone,People's Movement for Democratic Change (PMDC),234,15,2,PMDC,,People's Movement for Democratic Change
+Sierra Leone,Sierra Leone People's Party (SLPP),232,363,48.1,SLPP,,Sierra Leone People's Party
+Sierra Leone,United Democratic Movement (UDM) Party,236,4,0.5,UDM,,United Democratic Movement Party
+South Africa,African Christian Democratic Party (ACDP),173,5,0.3,ACDP,,African Christian Democratic Party
+South Africa,African Independent Congress,188,1,0.1,,,African Independent Congress
+South Africa,African Muslim Party,174,1,0.1,,,African Muslim Party
+South Africa,African National Congress (ANC),175,965,61.8,ANC,,African National Congress
+South Africa,Al Jama-ah,189,1,0.1,,Al Jama-ah,
+South Africa,Azanian People's Organisation (AZAPO),176,7,0.4,AZAPO,,Azanian People's Organisation
+South Africa,Congress of the People (COPE),177,21,1.3,COPE,,Congress of the People
+South Africa,Democratic Alliance (DA),178,344,22,DA,,Democratic Alliance
+South Africa,Economic Freedom Fighters (EFF),190,148,9.5,EFF,,Economic Freedom Fighters
+South Africa,Freedom Front Plus/Vryheidsfront Plus (VF Plus),179,8,0.5,VF,,Freedom Front Plus/Vryheidsfront Plus (VF Plus)
+South Africa,Front Nasionaal,191,1,0.1,,,Front Nasionaal
+South Africa,Independent Democrats (ID),180,1,0.1,ID,,Independent Democrats
+South Africa,Inkatha Freedom Party (IFP),181,29,1.9,IFP,,Inkatha Freedom Party
+South Africa,Minority Front (MF),182,3,0.2,MF,,Minority Front
+South Africa,National Freedom Party (NFP),192,10,0.6,NFP,,National Freedom Party
+South Africa,New National Party/ Nuwe Nasionale Party (NNP),183,3,0.2,NNP,,New National Party/ Nuwe Nasionale Party
+South Africa,Pan Africanist Congress (PAC),184,5,0.3,PAC,,Pan Africanist Congress
+South Africa,United Christian Democratic Party (UCDP),185,3,0.2,UCDP,,United Christian Democratic Party
+South Africa,United Democratic Movement (UDM),186,5,0.3,UDM,,United Democratic Movement
+South Africa,United Independent Front (UIF),187,1,0.1,UIF,,United Independent Front
+Sudan,Communist Party,323,9,2.2,,,Communist Party
+Sudan,Democratic Unionist Party (Original),322,36,8.7,,,Democratic Unionist Party (Original)
+Sudan,National Congress (Al Motamar Al Watani),319,283,68,,,National Congress (Al Motamar Al Watani)
+Sudan,Popular Congress (Al Motamar Chaabi),320,20,4.8,,,Popular Congress (Al Motamar Chaabi)
+Sudan,Sudan People's Liberation Movement-North,324,13,3.1,,,Sudan People's Liberation Movement-North
+Sudan,Umma Party,321,45,10.8,,,Umma Party
+Sudan,Umma Renewal and Reform Party,325,10,2.4,,,Umma Renewal and Reform Party
+Tanzania,Chama cha Demokrasia na Maendeleo,195,305,17.1,,Chama cha Demokrasia na Maendeleo,
+Tanzania,Chama cha Haki na Ustawi (CHAUSTA),199,1,0.1,CHAUSTA,Chama cha Haki na Ustawi,
+Tanzania,Chama cha Mapinduzi (CCM),193,1328,74.6,CCM,Chama cha Mapinduzi,
+Tanzania,National Reform for Construction and Reform (NCCR MAGEUZI),196,5,0.3,NCCR,,National Reform for Construction and Reform (NCCR MAGEUZI)
+Tanzania,Tanzania Labour Party (TLP),197,5,0.3,TLP,,Tanzania Labour Party
+Tanzania,The Civic United Front (CUF),194,134,7.5,CUF,,The Civic United Front
+Tanzania,United Democratic Party (UDP),198,1,0.1,UDP,,United Democratic Party
+Togo,ADDI,258,5,1.3,ADDI,,
+Togo,ANC (Jean-Pierre Fabre),253,44,11.1,ANC,,ANC (Jean-Pierre Fabre)
+Togo,Arc-en-ciel,260,13,3.3,,Arc-en-ciel,
+Togo,CAR (Me Yaovi Agboyibo),254,7,1.8,CAR,CAR (Me Yaovi Agboyibo),
+Togo,CDPA (Professor Leopold Messan Gnininvi),255,2,0.5,CDPA,,CDPA (Professor Leopold Messan Gnininvi)
+Togo,CST,259,6,1.5,CST,,
+Togo,OBUTS (Agbeyome Kodjo),257,4,1,OBUTS,OBUTS (Agbeyome Kodjo),
+Togo,PRR (Nicolas Lawson),256,1,0.3,PRR,PRR (Nicolas Lawson),
+Togo,UFC (Gilchrist Olympio),252,21,5.3,UFC,UFC (Gilchrist Olympio),
+Togo,UNIR (Faure Essozimna Gnassigbe),251,295,74.1,UNIR,UNIR (Faure Essozimna Gnassigbe),
+Tunisia,Afek tounes,330,11,3.2,,Afek tounes,
+Tunisia,Ennahdha,327,72,21,,Ennahdha,
+Tunisia,Nidaa Tounes,326,200,58.3,,Nidaa Tounes,
+Tunisia,The Congress of the Republic,331,13,3.8,,,The Congress of the Republic
+Tunisia,The current of Love,334,4,1.2,,,The current of Love
+Tunisia,The democratic current,333,7,2,,,The democratic current
+Tunisia,The Free Patriotic Union,328,3,0.9,,,The Free Patriotic Union
+Tunisia,The initiative,332,1,0.3,,,The initiative
+Tunisia,The Popular Front,329,32,9.3,,,The Popular Front
+Uganda,Conservative Party  [CP],203,1,0.1,CP,,Conservative Party  [CP]
+Uganda,Democratic Party  [DP],202,67,3.9,DP,,Democratic Party  [DP]
+Uganda,Forum for Democratic Change [FDC],201,200,11.7,FDC,,Forum for Democratic Change [FDC]
+Uganda,National Resistance Movement [NRM],200,1394,81.2,NRM,,National Resistance Movement [NRM]
+Uganda,The Justice Forum (JEEMA),206,3,0.2,JEEMA,,The Justice Forum
+Uganda,The People's Development Party (PDP),207,2,0.1,PDP,,The People's Development Party
+Uganda,Uganda Federal Alliance (UFA),205,1,0.1,UFA,,Uganda Federal Alliance
+Uganda,Uganda Peoples Congress [UPC],204,48,2.8,UPC,,Uganda Peoples Congress [UPC]
+Zambia,Alliance for Democracy and Development (ADD),208,7,1.2,ADD,,Alliance for Democracy and Development
+Zambia,Forum for Democrasy and Development (FDD),209,6,1,FDD,,Forum for Democrasy and Development
+Zambia,Heritage Party (HP),210,3,0.5,HP,,Heritage Party
+Zambia,Movement for Multiparty Democracy (MMD),211,74,12.8,MMD,,Movement for Multiparty Democracy
+Zambia,National Restoration Party (NAREP),212,11,1.9,NAREP,,National Restoration Party
+Zambia,Patriotic Front (PF),213,306,52.8,PF,,Patriotic Front
+Zambia,United National Independence Party (UNIP),214,10,1.7,UNIP,,United National Independence Party
+Zambia,United Party for National Development (UPND),215,162,27.9,UPND,,United Party for National Development
+Zambia,Zambians for Empowerment and Development (ZED),216,1,0.2,ZED,,Zambians for Empowerment and Development
+Zimbabwe,Mavambo.Kusile.Dawn. [MKD],220,4,0.3,MKD,,Mavambo.Kusile.Dawn. [MKD]
+Zimbabwe,MDC Renewal Team [Tendai Biti],223,12,0.9,MDC,,MDC Renewal Team [Tendai Biti]
+Zimbabwe,Movement for Democratic Change-Mutambara [MDC-M],219,5,0.4,MDC,,Movement for Democratic Change-Mutambara [MDC-M]
+Zimbabwe,Movement for Democratic Change-Ncube [MDC-Ncube],222,12,0.9,MDC,,Movement for Democratic Change-Ncube [MDC-Ncube]
+Zimbabwe,Movement for Democratic Change-Tsvangirai [MDC-T],217,419,30.1,MDC,,Movement for Democratic Change-Tsvangirai [MDC-T]
+Zimbabwe,Zimbabwe African Patriotic Union-Dabengwa [ZAPU-Dabengwa],221,4,0.3,ZAPU,,Zimbabwe African Patriotic Union-Dabengwa [ZAPU-Dabengwa]
+Zimbabwe,Zimbabwe African Union-Patriotic front [ZANU-PF],218,938,67.3,ZANU,,Zimbabwe African Union-Patriotic front [ZANU-PF]
