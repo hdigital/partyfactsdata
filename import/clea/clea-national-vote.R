@@ -1,22 +1,22 @@
 library(tidyverse)
-library(stringr)
+library(glue)
 
-clea_version <- "20170530"
+clea_version <- "20180507"
 max_share <- 2.0
 
-path <- str_interp("source__clea/clea_${clea_version}")
+path <- glue("source__clea/clea_{clea_version}")
 
 # Stata exported RDS file to save disk space
-clea_rdata <- str_interp("${path}/clea_${clea_version}.Rds")
-if( ! file.exists(clea_rdata)) {
-  library(haven)
-  clea <- haven::read_dta(str_interp("${path}/clea_${clea_version}_stata.zip"))
-  saveRDS(clea, file = clea_rdata, ascii = TRUE)
+clea_rds <- glue("{path}/clea_{clea_version}.rds")
+if( ! file.exists(clea_rds)) {
+  # some encoding issues in CLEA 2018 and haven 1.1.1 unresolved (e.g. Andorra 1997, 2015)
+  clea_tmp <- haven::read_dta(glue("{path}/clea_{clea_version}_stata.zip"), encoding = "latin1")
+  write_rds(clea_tmp, clea_rds, compress = "gz")
 }
 
 # read CLEA data only once
 if( ! exists("clea_raw")) {
-  clea_raw <- readRDS(file=str_interp("${path}/clea_${clea_version}.Rds"))
+  clea_raw <- read_rds(clea_rds)
 }
 clea <- clea_raw %>%
   filter(pv1 > 0) %>%
@@ -31,8 +31,8 @@ clea <- clea %>%
 
 pa_info <- clea %>%
   group_by(ctr, pty) %>%
-  summarise(yr_first = min(yr, na.rm=T),
-            yr_last = max(yr, na.rm=T) )
+  summarise(yr_first = min(yr, na.rm = TRUE),
+            yr_last = max(yr, na.rm = TRUE) )
 
 pa_name <- clea %>%
   select(ctr_n, ctr, pty_n, pty) %>%
@@ -42,7 +42,7 @@ pa_name <- clea %>%
 
 elec <- clea %>%
   group_by(ctr, yr, mn, pty) %>%
-  summarize(pv1 = sum(pv1, na.rm=T)) %>%
+  summarize(pv1 = sum(pv1, na.rm = TRUE)) %>%
   group_by(ctr, yr, mn) %>%
   mutate(pv1_share = round(pv1 / sum(pv1) * 100, 1))
 
