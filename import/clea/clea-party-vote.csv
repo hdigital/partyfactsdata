@@ -1,79 +1,82 @@
 ctr_n,ctr,pty_n,pty,yr_first,yr_last,pv1_share_max,pv1_share_max_yr,n_election,ctr_pty
-Albania,8,aleanca demokratike,1,2001,2013,2.8,2005,4,8000001
-Albania,8,lëvizja socialiste për integrim,7,2005,2013,10.5,2013,3,8000007
+Afghanistan,4,Islamic Unity Party of Afghanistan,1,2010,2010,4.4,2010,1,4000001
+Albania,8,aleanca demokratike,1,2001,2017,2.8,2005,5,8000001
+Albania,8,lÃ«vizja socialiste pÃ«r integrim,7,2005,2017,14.3,2017,4,8000007
 Albania,8,partia agrare ambientaliste e shqipërisë,8,2005,2013,3.6,2005,3,8000008
 Albania,8,partia bashkimi për të drejtat e njeriut,16,2001,2013,2.5,2005,4,8000016
-Albania,8,partia demokracia sociale,27,2005,2013,2.4,2005,3,8000027
-Albania,8,partia demokratike,22,2001,2013,40.2,2009,4,8000022
-Albania,8,partia drejtësi. integrim dhe unitet,71,2013,2013,2.6,2013,1,8000071
-Albania,8,partia republikane shqiptare,43,2001,2013,3.1,2013,3,8000043
+Albania,8,partia demokracia sociale,27,2005,2017,2.4,2005,4,8000027
+Albania,8,partia demokratike,22,2001,2017,40.2,2009,5,8000022
+Albania,8,partia drejtësi. integrim dhe unitet,71,2013,2017,4.8,2017,2,8000071
+Albania,8,partia republikane shqiptare,41,2001,2017,10,2005,5,8000041
 Albania,8,partia socialdemokrate e shqipërisë,44,2001,2013,7,2005,4,8000044
-Albania,8,partia socialiste e shqipërisë,49,2001,2013,43.9,2001,4,8000049
+Albania,8,partia socialiste e shqipërisë,49,2001,2017,48.3,2017,5,8000049
 Albania,8,pdr,26,2005,2005,3.7,2005,1,8000026
-Albania,8,pr,41,2005,2005,10,2005,1,8000041
 Albania,8,pv,51,2001,2001,4.1,2001,1,8000051
 Andorra,20,Agrupament Independent per Sant Julía,1,2001,2001,3.1,2001,1,20000001
 Andorra,20,Agrupament Nacional Democràtic,2,1997,1997,30.9,1997,1,20000002
 Andorra,20,Andorra pel Canvi,3,2009,2011,12.3,2009,2,20000003
 Andorra,20,Andorra pel Canvi-Units per al Progrés,4,2009,2009,2.5,2009,1,20000004
-Andorra,20,Demòcrates per Andorra,5,2011,2011,49.1,2011,1,20000005
+Andorra,20,DemocrÃ tesÂ per Andorra,5,2011,2015,49.1,2011,2,20000005
 Andorra,20,Iniciativa Democràtica Nacional,7,1997,1997,9.2,1997,1,20000007
 Andorra,20,Joint Coalició Reformista-Unió Laurediana,8,2009,2009,3.7,2009,1,20000008
 Andorra,20,Nova Democràcia,9,1997,1997,15,1997,1,20000009
 Andorra,20,Partit Demòcrata,10,2001,2001,22.9,2001,1,20000010
-Andorra,20,Partit Liberal d'Andorra,11,2001,2005,42.1,2001,2,20000011
+Andorra,20,Partit Liberal d'Andorra,11,2001,2015,42.1,2001,3,20000011
 Andorra,20,Partit Socialdemòcratica,12,2001,2011,38.1,2005,4,20000012
 Andorra,20,Renovació Democràtica,13,2005,2005,6.2,2005,1,20000013
+Andorra,20,SocialdemocrÃ cia i ProgrÃ©s,20,2015,2015,10.6,2015,1,20000020
 Andorra,20,Unió Laurediana,14,2001,2011,4.4,2011,2,20000014
 Andorra,20,Unió Liberal,15,1997,1997,43.3,1997,1,20000015
 Andorra,20,Verds d'Andorra,19,2005,2011,3.5,2005,3,20000019
-Angola,24,Convergência Ampla de Salvação de Angola-Coligação Eleitoral,5,2012,2012,6,2012,1,24000005
-Angola,24,Frente Nacional de Libertação de Angola,6,1992,2012,2.4,1992,3,24000006
-Angola,24,Movimento Popular de Libertação de Angola,9,1992,2012,81.6,2008,3,24000009
-Angola,24,Partido da Renovação Social,16,1992,2012,3.2,2008,3,24000016
+Angola,24,ConvergÃªncia Ampla de SalvaÃ§Ã£o de AngolaâColigaÃ§Ã£o Eleitoral,5,2012,2017,9.2,2017,2,24000005
+Angola,24,Frente Nacional de LibertaÃ§Ã£o de Angola,6,1992,2017,2.4,1992,4,24000006
+Angola,24,Movimento Popular de LibertaÃ§Ã£o de Angola,9,1992,2017,81.6,2008,4,24000009
+Angola,24,Partido de RenovaÃ§Ã£o Social,16,1992,2017,3.2,2008,4,24000016
 Angola,24,Partido Liberal Democrático,12,1992,2008,2.4,1992,2,24000012
-Angola,24,União Nacional para a Independência Total de Angola,18,1992,2012,34.1,1992,3,24000018
-Anguilla,660,Anguilla Democratic Party,1,1989,2e3,32.9,1999,4,660000001
+Angola,24,UniÃ£o Nacional para a IndependÃªncia Total de Angola,18,1992,2017,34.1,1992,4,24000018
+Anguilla,660,anguilla democratic party,1,1989,2e3,32.9,1999,4,660000001
 Anguilla,660,anguilla for good government,2,1994,1994,11.7,1994,1,660000002
-Anguilla,660,Anguilla National Alliance,3,1989,2e3,42.8,1999,4,660000003
-Anguilla,660,anguilla patriotic movement,4,2e3,2e3,4.1,2000,1,660000004
+Anguilla,660,anguilla national alliance,3,1989,2e3,42.8,1999,4,660000003
+Anguilla,660,anguilla patriotic movement,4,2e3,2e3,4.1,2e3,1,660000004
 Anguilla,660,anguilla progressive party,5,2005,2010,14.7,2010,2,660000005
 Anguilla,660,anguilla strategic alliance,6,2005,2005,19.3,2005,1,660000006
 Anguilla,660,anguilla united movement,7,2e3,2010,32.7,2010,3,660000007
-Anguilla,660,Anguilla United Party,8,1989,1999,22.3,1989,3,660000008
-Anguilla,660,movement for grass roots democracy,9,2e3,2e3,3.7,2000,1,660000009
-Anguilla,660,Party for Anguilla’s Culturation and Economy,10,1989,1989,4.7,1989,1,660000010
+Anguilla,660,anguilla united party,8,1989,1999,22.3,1989,3,660000008
+Anguilla,660,movement for grass roots democracy,9,2e3,2e3,3.7,2e3,1,660000009
+Anguilla,660,Party for Anguillas Culturation and Economy,10,1989,1989,4.7,1989,1,660000010
 Antigua and Barbuda,28,Antigua and Barbuda Democratic Movement,10,1965,1965,20.2,1965,1,28000010
 Antigua and Barbuda,28,Antigua Caribbean Liberation Movement,6,1980,1989,2,1989,2,28000006
 Antigua and Barbuda,28,Antigua Democratic Labour Party,7,1960,1960,2.6,1960,1,28000007
-Antigua and Barbuda,28,Antigua Labour Party,2,1951,2009,87.4,1951,13,28000002
+Antigua and Barbuda,28,antigua labour party,2,1951,2009,87.4,1951,13,28000002
 Antigua and Barbuda,28,Antigua National Party,8,1956,1956,12.5,1956,1,28000008
-Antigua and Barbuda,28,Antigua People’s Party,9,1971,1971,3.5,1971,1,28000009
+Antigua and Barbuda,28,Antigua Peoples Party,9,1971,1971,3.5,1971,1,28000009
 Antigua and Barbuda,28,Barbuda Democratic Movement,11,1960,1989,6,1960,2,28000011
 Antigua and Barbuda,28,Progressive Labour Movement,17,1971,1984,57.7,1971,4,28000017
 Antigua and Barbuda,28,United National Democratic Party,18,1989,1989,31,1989,1,28000018
-Antigua and Barbuda,28,United People’s Movement,19,1984,1984,23,1984,1,28000019
-Antigua and Barbuda,28,United Progressive Party,5,1994,2009,55.5,2004,4,28000005
+Antigua and Barbuda,28,United Peoples Movement,19,1984,1984,23,1984,1,28000019
+Antigua and Barbuda,28,united progressive party,5,1994,2009,55.5,2004,4,28000005
 Argentina,32,ACUERDO CIVICO Y SOCIAL,298,2009,2009,9.5,2009,1,32000298
 Argentina,32,afirmación para una república igualitaria,7,2003,2009,3.7,2005,4,32000007
 Argentina,32,movimiento por la dignidad y la independencia,78,1991,2009,5.8,1993,10,32000078
 Argentina,32,partido humanista,168,1985,2013,2.5,2001,12,32000168
 Argentina,32,partido intransigente,171,1983,2009,6.1,1985,11,32000171
 Argentina,32,partido justicialista,175,1983,2013,38.5,1983,15,32000175
-Argentina,32,partido socialista,211,1983,2013,5.7,2007,10,32000211
+Argentina,32,partido socialista,211,1983,2015,5.7,2007,11,32000211
 Argentina,32,partido unidad federalista,223,2001,2009,2.5,2001,4,32000223
-Argentina,32,propropuesta republicana,365,2011,2011,2.1,2011,1,32000365
-Argentina,32,uni—n del centro democr‡tico,237,1983,2009,5.1,1991,13,32000237
+Argentina,32,propuesta republicana,351,2011,2013,2.1,2011,2,32000351
+Argentina,32,unin del centro democrtico,237,1983,2009,5.1,1991,13,32000237
 Argentina,32,UNION CIVICA RADICAL (U.C.R.),236,1983,2013,48,1983,15,32000236
 Argentina,32,union provincial,242,1985,2009,13.3,2009,4,32000242
-Armenia,51,Armenian Revolutionary Federation,1,2007,2012,2.4,2012,2,51000001
+Armenia,51,Armenian Revolutionary Federation,1,2007,2017,7.4,2017,3,51000001
 Armenia,51,Dashinq Party,8,2007,2007,2.9,2007,1,51000008
 Armenia,51,Heritage Party,14,2012,2012,2.3,2012,1,51000014
 Armenia,51,Pan-Armenian National Movement Party,23,2007,2012,3.8,2012,2,51000023
 Armenia,51,Prosperous Armenia Party,27,2007,2012,17.1,2007,2,51000027
 Armenia,51,Republic Party,28,2012,2012,4.2,2012,1,51000028
+Armenia,51,Republican Party of Armenia,29,2017,2017,48.2,2017,1,51000029
 Armenia,51,Republican Party of Armenia First Candidate,30,2007,2012,35.6,2012,2,51000030
 Armenia,51,Rule of Law Party,32,2007,2012,7.4,2007,2,51000032
+Armenia,51,Rule of Law Party,38,2017,2017,4.5,2017,1,51000038
 Aruba,533,arubaanse volkspartij,1,2005,2013,58.8,2013,3,533000001
 Aruba,533,democracia real,2,2005,2013,8,2013,3,533000002
 Aruba,533,movimento patriÃ³tico arubano,3,2005,2009,4.4,2009,2,533000003
@@ -84,69 +87,76 @@ Aruba,533,red eternal democratico,6,2005,2013,5,2005,3,533000006
 Australia,36,anti-socialist party,2,1906,1906,42.1,1906,1,36000002
 Australia,36,australia party,3,1969,1983,2.4,1972,6,36000003
 Australia,36,australian democrats,7,1977,2013,9.4,1977,13,36000007
-Australia,36,australian labor party,8,1901,2013,50.9,1914,42,36000008
+Australia,36,australian labor party,8,1901,2016,50.9,1914,44,36000008
 Australia,36,australian labor party (anti-communist),9,1955,1955,5.1,1955,1,36000009
 Australia,36,australian labor party (non-communist),10,1940,1943,4.4,1940,2,36000010
-Australia,36,australian labor party (nsw),11,1934,1934,13.5,1934,1,36000011
+Australia,36,australian labor party (nsw),11,1931,1934,13.5,1934,2,36000011
 Australia,36,commonwealth liberal party,20,1910,1914,49.5,1913,3,36000020
-Australia,36,communist party of australia,21,1934,1987,2,1943,21,36000021
+Australia,36,communist party of australia,21,1931,1987,2,1943,22,36000021
 Australia,36,country - national party (qld),25,1943,1943,4,1943,1,36000025
-Australia,36,country party,27,1919,1974,16.7,1937,21,36000027
+Australia,36,country party,27,1919,1974,16.7,1937,22,36000027
 Australia,36,democratic labor party,31,1958,2013,7.8,1958,16,36000031
-Australia,36,family first party,142,2004,2013,2.3,2010,4,36000142
+Australia,36,emergency committee of south australia,33,1931,1931,4.9,1931,1,36000033
+Australia,36,family first party,142,2004,2016,2.3,2010,5,36000142
 Australia,36,free trade party,36,1901,1903,57.1,1901,2,36000036
 Australia,36,liberal and country league,40,1934,1946,4.6,1934,2,36000040
-Australia,36,liberal national party of queensland,152,2010,2013,9.2,2013,2,36000152
+Australia,36,liberal national party of queensland,152,2010,2016,9.2,2013,3,36000152
 Australia,36,liberal party,43,1922,1922,3.8,1922,1,36000043
-Australia,36,liberal party of australia,45,1946,2013,41.6,1975,26,36000045
+Australia,36,liberal party of australia,45,1946,2016,41.6,1975,27,36000045
 Australia,36,national country party of australia,52,1975,1980,11.4,1975,3,36000052
-Australia,36,national party of australia,54,1983,2013,11.4,1987,11,36000054
+Australia,36,national party of australia,54,1983,2016,11.4,1987,12,36000054
 Australia,36,nationalist party,58,1917,1929,54.2,1917,6,36000058
 Australia,36,one nation,158,1998,2013,8.4,1998,6,36000158
 Australia,36,one parliament for australia,60,1943,1943,2.1,1943,1,36000060
-Australia,36,palmer united party,160,2013,2013,5.5,2013,1,36000160
+Australia,36,palmer united party,160,2013,2016,5.5,2013,2,36000160
 Australia,36,protectionist party,69,1901,1906,34,1901,3,36000069
-Australia,36,social credit,81,1934,1946,4.7,1934,4,36000081
+Australia,36,social credit,81,1931,1946,4.7,1934,5,36000081
 Australia,36,state labor party (nsw),89,1940,1943,2.3,1940,2,36000089
-Australia,36,the green party of australia,91,1983,2013,11.8,2010,9,36000091
-Australia,36,united australia party,93,1934,2013,36.7,1940,6,36000093
+Australia,36,the green party of australia,91,1983,2016,11.8,2010,10,36000091
+Australia,36,united australia party,93,1931,2013,38,1931,7,36000093
 Australia,36,victorian farmers' union,97,1919,1919,4.2,1919,1,36000097
 Australia,36,western australian party,99,1906,1906,2.3,1906,1,36000099
-Austria,40,…sterreichische volkspartei,15,1945,2013,49.9,1945,21,40000015
-Austria,40,bŸndnis zukunft …sterreich,21,2006,2008,10.7,2008,2,40000021
-Austria,40,BZÖ,42,2013,2013,3.6,2013,1,40000042
+Austria,40,sterreichische volkspartei,15,1945,2013,49.9,1945,21,40000015
+Austria,40,bndnis zukunft sterreich,21,2006,2013,10.7,2008,3,40000021
 Austria,40,christlich-soziale partei,2,1919,1930,45,1923,4,40000002
 Austria,40,demokratische fortschrittliche partei,3,1966,1966,3.3,1966,1,40000003
 Austria,40,demokratische parteien,4,1919,1920,2.4,1919,2,40000004
 Austria,40,deutsch-nationale parteien,5,1919,1923,18.4,1919,3,40000005
+Austria,40,die grnen Ð die grne alternative,8,1994,2013,12.3,2013,7,40000008
 Austria,40,die grüne alternative,7,1986,1990,4.8,1986,2,40000007
-Austria,40,die grŸnen Ð die grŸne alternative,8,1994,2013,12.3,2013,7,40000008
 Austria,40,FRANK,46,2013,2013,5.8,2013,1,40000046
-Austria,40,freiheitliche partei …sterreichs,9,1956,2013,26.9,1999,18,40000009
+Austria,40,freiheitliche partei sterreichs,9,1956,2013,26.9,1999,18,40000009
 Austria,40,heimatblock,10,1930,1930,6.2,1930,1,40000010
-Austria,40,kommunistische partei …sterreichs,11,1945,2013,5.4,1945,10,40000011
+Austria,40,kommunistische partei sterreichs,11,1945,2013,5.4,1945,10,40000011
 Austria,40,landbund für Österreich,12,1927,1927,6.3,1927,1,40000012
 Austria,40,liberales forum,13,1994,2008,6,1994,5,40000013
-Austria,40,"liste dr. martin Ð fŸr demokratie, kontrolle, gerechtigkeit",32,2006,2006,2.8,2006,1,40000032
+Austria,40,"liste dr. martin Ð fr demokratie, kontrolle, gerechtigkeit",32,2006,2006,2.8,2006,1,40000032
 Austria,40,nationaler wirtschaftsblock und landbund,14,1930,1930,11.6,1930,1,40000014
 Austria,40,NEOS,44,2013,2013,4.8,2013,1,40000044
 Austria,40,sozialdemokratische arbeiterpartei,16,1919,1930,42.3,1927,5,40000016
-Austria,40,sozialdemokratische partei …sterreichs,17,1995,2013,38.1,1995,6,40000017
+Austria,40,sozialdemokratische partei sterreichs,17,1995,2013,38.1,1995,6,40000017
 Austria,40,sozialistische partei Österreichs,18,1945,1994,51,1979,15,40000018
 Austria,40,verband der unabhängigen,19,1949,1953,11.7,1949,2,40000019
 Austria,40,vereinte grüne Österreichs,20,1990,1990,2,1990,1,40000020
-Azerbaijan,31,Musavat Party,30,2010,2010,2,2010,1,31000030
-Azerbaijan,31,New Azerbaijan Party,32,2010,2010,46.5,2010,1,31000032
+Azerbaijan,31,Azerbaijan Hope Party,8,2010,2016,7.8,2016,3,31000008
+Azerbaijan,31,Equality Party,30,2010,2015,2,2010,2,31000030
+Azerbaijan,31,New Azerbaijan Party,32,2010,2016,85.6,2016,3,31000032
 Bahamas,44,coalition & labour,3,2002,2002,2.2,2002,1,44000003
 Bahamas,44,Democratic National Alliance,8,2012,2012,8.6,2012,1,44000008
-Bahamas,44,Free National Movement,4,1997,2012,57.6,1997,4,44000004
-Bahamas,44,Progressive Liberal Party,6,1997,2012,51.8,2002,4,44000006
-Bangladesh,50,bangladesh awami league,3,1973,2008,73,1973,4,50000003
-Bangladesh,50,bangladesh jamaytee islami,10,2001,2008,4.7,2008,2,50000010
-Bangladesh,50,bangladesh national awami party - bangladesh nap,26,1973,2008,5.3,1973,3,50000026
-Bangladesh,50,Bangladesh Nationalist Party,28,1991,2008,41.4,2001,3,50000028
-Bangladesh,50,Jamaat-E-Islami,102,1991,1991,12.3,1991,1,50000102
-Bangladesh,50,Jatiya Party,56,1991,2008,11.9,1991,3,50000056
+Bahamas,44,free national movement,4,1997,2012,57.6,1997,4,44000004
+Bahamas,44,progressive liberal party,6,1997,2012,51.8,2002,4,44000006
+Bahrain,48,Al Asalah Islamic Society,1,2010,2014,6.2,2014,2,48000001
+Bahrain,48,Al Menbar National Islamic Tribune Association,2,2010,2014,6,2014,2,48000002
+Bahrain,48,Al Wefaq National Islamic Society,7,2010,2010,42.3,2010,1,48000007
+Bahrain,48,Al-Minbar Al-Taqdimy Progressive Democratic Tribune,9,2010,2010,3.3,2010,1,48000009
+Bahrain,48,National Unity Gathering,13,2014,2014,2.1,2014,1,48000013
+Bahrain,48,Wa'ad National Democratic Action Society,14,2010,2010,4,2010,1,48000014
+Bangladesh,50,bangladesh awami league,3,1973,2008,73,1973,5,50000003
+Bangladesh,50,bangladesh jamaytee islami,10,1991,2008,12.3,1991,3,50000010
+Bangladesh,50,bangladesh national awami party - bangladesh nap,26,1973,2008,5.3,1973,4,50000026
+Bangladesh,50,bangladesh nationalist party,28,1991,2008,41.4,2001,4,50000028
+Bangladesh,50,Jamat-E-Islami Bangladesh,175,1996,1996,8.6,1996,1,50000175
+Bangladesh,50,jatiya party,56,1991,2008,16.4,1996,4,50000056
 Bangladesh,50,jatiya samajtantric dal - jasad,61,1973,2008,6.7,1973,3,50000061
 Bangladesh,50,national awami party (muzaffar group),69,1973,1991,8.5,1973,2,50000069
 Barbados,52,barbados labour party,1,1966,2013,64.9,1999,11,52000001
@@ -181,7 +191,7 @@ Belgium,56,parti social-chrétien-christelijke volkspartij,18,1946,1965,47.7,195
 Belgium,56,parti socialiste belge-belgische socialistische partij,20,1946,1977,37.3,1954,11,56000020
 Belgium,56,partij voor vrijheid en vooruitgang,21,1974,1991,12,1991,7,56000021
 Belgium,56,partisans de daens (parti démocrate-chrétien)-daensisten (ch,23,1894,1914,3,1900,11,56000023
-Belgium,56,People’s Union - Complete Democracy for the 21st century (VU-ID),44,1999,1999,5.6,1999,1,56000044
+Belgium,56,Peoples Union - Complete Democracy for the 21st century (VU-ID),44,1999,1999,5.6,1999,1,56000044
 Belgium,56,radicale omvormers en sociale strijders voor een eerlijke ma,24,1991,1991,3.2,1991,1,56000024
 Belgium,56,Reformist Movement (MR),46,2003,2014,12.5,2007,4,56000046
 Belgium,56,rex,25,1936,1939,11.5,1936,2,56000025
@@ -203,23 +213,29 @@ Belize,84,Corozal United Front,2,1974,1974,4.3,1974,1,84000002
 Belize,84,Honduran Independent Party,3,1957,1961,13.5,1957,2,84000003
 Belize,84,National Independence Party,5,1961,1969,40,1965,3,84000005
 Belize,84,National Party,6,1954,1957,23,1954,2,84000006
-Belize,84,People’s United Party,11,1954,2012,65,1954,14,84000011
+Belize,84,Peoples United Party,11,1954,2012,65,1954,14,84000011
 Belize,84,United Democratic Party,14,1974,2012,56.7,2008,9,84000014
+Benin,204,Congres Africain Pour Le Renouveau-DUNYA,29,1999,1999,3.3,1999,1,204000029
 Benin,204,Forces Cauris pour Un Benin Emergent,2,2011,2011,33.3,2011,1,204000002
-Benin,204,Front D’Action pour le Renouveau et le Developpement (FARD-ALAFIA),5,1995,1995,6.2,1995,1,204000005
+Benin,204,Front DâAction pour le Renouveau et le Developpement (FARD-ALAFIA)Â ,5,1995,1999,6.2,1995,2,204000005
 Benin,204,La Renaissance du Benin,7,1995,1995,14.6,1995,1,204000007
+Benin,204,Mouvement africain pour la dÃ©veloppement et le progrÃ¨s,32,1999,1999,8.5,1999,1,204000032
 Benin,204,Mouvement National pour la Democratie et le Developpement,8,1995,1995,2,1995,1,204000008
-Benin,204,Notre Cause Commune,10,1991,1995,10.1,1991,2,204000010
-Benin,204,Parti Communiste du Benin,12,1995,1995,3.3,1995,1,204000012
-Benin,204,Parti du Renouveau Democratique,13,1995,1995,15.4,1995,1,204000013
-Benin,204,Parti Social-Democrate,15,1995,1995,7.7,1995,1,204000015
+Benin,204,Mouvement pour l'engagement et le rÃ©veil des citoyens,33,1999,1999,2.9,1999,1,204000033
+Benin,204,Notre Cause Commune (NCC),10,1991,1999,10.1,1991,3,204000010
+Benin,204,Parti Communiste du Benin (PCB),12,1995,1999,3.3,1995,2,204000012
+Benin,204,Parti de la Renaissance du Benin,36,1999,1999,22,1999,1,204000036
+Benin,204,Parti Democratique du Benin,37,1999,1999,2.1,1999,1,204000037
+Benin,204,Parti du Renouveau Democratique (PRD),13,1995,1999,15.4,1995,2,204000013
+Benin,204,Parti du Salut,38,1999,1999,2.2,1999,1,204000038
+Benin,204,"Parti National ""Ensemble""",40,1999,1999,3.7,1999,1,204000040
+Benin,204,Parti Social-Democrate (PSD),15,1995,1999,8.7,1999,2,204000015
 Benin,204,Rassemblement Africain pour le Progres et la Solidarite,16,1995,1995,2.6,1995,1,204000016
 Benin,204,Rassemblement des Democrates Liberaux pour le Reconstruction Nationale,17,1991,2011,5.6,1991,3,204000017
-Benin,204,Rassemblement National pour la Democratie,18,1991,1995,12.1,1991,2,204000018
+Benin,204,Rassemblement National pour la Democratie,18,1991,1999,12.1,1991,3,204000018
 Benin,204,Union Democratique pour le Developpement Economique et Social,23,1991,1991,2.5,1991,1,204000023
 Benin,204,Union Nationale pour la Democratie et le Progres,24,1991,1995,3.1,1991,2,204000024
 Benin,204,Union pour la Democratie et la Solidarite Nationale,25,1991,1995,7.1,1991,2,204000025
-Benin,204,Union pour le Benin,27,2011,2011,4.5,2011,1,204000027
 Bermuda,60,national liberal party,2,1985,2003,5.5,1989,5,60000002
 Bermuda,60,one bermuda alliance,5,2012,2012,51.7,2012,1,60000005
 Bermuda,60,progressive labour party,3,1963,2012,53.8,1998,12,60000003
@@ -227,8 +243,8 @@ Bermuda,60,united bermuda party,4,1972,2007,66.1,1985,10,60000004
 Bhutan,64,Druk Chirwang Tshogpa,1,2013,2013,5.9,2013,1,64000001
 Bhutan,64,Druk Nyamrup Tshogpa,2,2013,2013,17.1,2013,1,64000002
 Bhutan,64,Druk Phuensum Tshogpa,3,2008,2013,67,2008,2,64000003
-Bhutan,64,People’s Democratic Party,4,2008,2013,33,2008,2,64000004
-Bolivia,68,Acción Democrática Nacionalista,2,1979,2002,32.9,1985,4,68000002
+Bhutan,64,Peoples Democratic Party,4,2008,2013,33,2008,2,64000004
+Bolivia,68,acción democrática nacionalista,2,1979,2002,32.9,1985,4,68000002
 Bolivia,68,Alianza Social,45,2009,2009,3,2009,1,68000045
 Bolivia,68,conciencia de patria,7,1989,1993,14.3,1993,2,68000007
 Bolivia,68,conciencia de patria movimiento patriótico,8,1997,2002,15.6,1997,2,68000008
@@ -241,7 +257,7 @@ Bolivia,68,movimiento de la izquierda revolucionaria,21,1985,1989,21.8,1989,2,68
 Bolivia,68,movimiento de la izquierda revolucionaria - nueva mayoría,22,1997,2002,17.5,2002,2,68000022
 Bolivia,68,movimiento indígena pachakuti,24,2002,2005,5.7,2002,2,68000024
 Bolivia,68,Movimiento Indio Túpaj Katari,49,1979,1980,2.5,1980,2,68000049
-Bolivia,68,Movimiento Nacionalista Revolucionario,26,1979,2005,35.9,1979,6,68000026
+Bolivia,68,movimiento nacionalista revolucionario,26,1979,2005,35.9,1979,6,68000026
 Bolivia,68,movimiento nacionalista revolucionario de izquierda,27,1985,1985,5.5,1985,1,68000027
 Bolivia,68,movimiento nacionalista revolucionario vanguardia,29,1985,1985,4.8,1985,1,68000029
 Bolivia,68,movimiento revolucionario tupaj katari de liberación,31,1985,1989,2.1,1985,2,68000031
@@ -250,26 +266,28 @@ Bolivia,68,nueva fuerza republicana,32,2002,2005,18.3,2002,2,68000032
 Bolivia,68,partido democráta cristiano,33,1985,2014,9.2,2014,2,68000033
 Bolivia,68,partido libertad y justicia,35,2002,2002,2.6,2002,1,68000035
 Bolivia,68,Partido Revolucionario Auténtico,52,1980,1980,2.8,1980,1,68000052
-Bolivia,68,Partido Socialista,37,1979,2002,8.7,1980,3,68000037
+Bolivia,68,partido socialista,37,1979,2002,8.7,1980,3,68000037
 Bolivia,68,partido socialista uno,38,1985,1989,2.8,1989,2,68000038
 Bolivia,68,Partido Verde de Bolivia,59,2014,2014,3.2,2014,1,68000059
 Bolivia,68,poder democrático y social,39,2005,2005,28.4,2005,1,68000039
 Bolivia,68,unidad cívica solidaridad,40,1993,1997,15.1,1997,2,68000040
 Bolivia,68,Unidad Demócrata,60,2014,2014,25.7,2014,1,68000060
 Bolivia,68,Unidad Democrática y Popular,56,1979,1980,38.7,1980,2,68000056
-Bosnia and Herzegovina,70,bosanskohercegovacka patriotska stranka-sefer halilovic,2,2006,2014,2.7,2006,3,70000002
+Bosnia and Herzegovina,70,bosanskohercegovacka patriotska stranka-sefer halilovic,2,2002,2014,2.7,2006,4,70000002
 Bosnia and Herzegovina,70,demokratska fronta,29,2014,2014,9.2,2014,1,70000029
-Bosnia and Herzegovina,70,demokratski narodni savez-dns,6,2006,2014,2.3,2014,3,70000006
+Bosnia and Herzegovina,70,Demokratski Narodni Savez Republike Srpske,6,2002,2014,2.3,2014,4,70000006
 Bosnia and Herzegovina,70,hrvatska demokratska zajednica,43,2010,2010,7,2010,1,70000043
 Bosnia and Herzegovina,70,hrvatska demokratska zajednica 1990,30,2014,2014,2.5,2014,1,70000030
 Bosnia and Herzegovina,70,narodna stranka radom za boljitak,13,2006,2014,3,2010,3,70000013
-Bosnia and Herzegovina,70,partija demokratskog progresa republike srpske,15,2006,2010,2.4,2010,2,70000015
-Bosnia and Herzegovina,70,savez nezavisnih socijaldemokrata - snsd - milorad dodik,18,2006,2014,19.1,2006,3,70000018
+Bosnia and Herzegovina,70,partija demokratskog progresa republike srpske,15,2002,2010,4.6,2002,3,70000015
+Bosnia and Herzegovina,70,Savez Nezavisnih Socijaldemokrata,63,2002,2002,6.4,2002,1,70000063
+Bosnia and Herzegovina,70,savez nezavisnih socijaldemokrata - snsd - milorad dodik,18,2002,2014,19.1,2006,4,70000018
 Bosnia and Herzegovina,70,savez za bolju buducnost,36,2010,2014,8.7,2014,2,70000036
-Bosnia and Herzegovina,70,socijaldemokratska partija bosne i hercegovine - socijaldemokrati bih,20,2006,2014,17.3,2010,3,70000020
-Bosnia and Herzegovina,70,srpska demokratska stranka,22,2006,2014,13,2014,3,70000022
-Bosnia and Herzegovina,70,stranka demokratske akcije,25,2006,2014,18.7,2014,3,70000025
-Bosnia and Herzegovina,70,stranka za bosnu i hercegovinu,27,2006,2014,15.5,2006,3,70000027
+Bosnia and Herzegovina,70,socijaldemokratska partija bosne i hercegovine - socijaldemokrati bih,20,2002,2014,17.3,2010,4,70000020
+Bosnia and Herzegovina,70,srpska demokratska stranka,22,2002,2014,14,2002,4,70000022
+Bosnia and Herzegovina,70,srpska radikalna stranka republike srpske,24,2002,2006,2,2002,2,70000024
+Bosnia and Herzegovina,70,stranka demokratske akcije,25,2002,2014,21.9,2002,4,70000025
+Bosnia and Herzegovina,70,stranka za bosnu i hercegovinu,27,2002,2014,15.5,2006,4,70000027
 Botswana,72,bechuanaland democratic party,17,1965,1965,80.6,1965,1,72000017
 Botswana,72,bechuanaland independence party,18,1965,1965,4.6,1965,1,72000018
 Botswana,72,bechuanaland peoples party,19,1965,1965,14.2,1965,1,72000019
@@ -278,11 +296,11 @@ Botswana,72,botswana congress party,2,1999,2014,20.4,2014,4,72000002
 Botswana,72,botswana democratic party,3,1969,2014,76.6,1974,10,72000003
 Botswana,72,botswana independence party,4,1969,1989,6,1969,5,72000004
 Botswana,72,botswana national front,5,1969,2009,37.1,1994,9,72000005
-Botswana,72,Botswana People’s Party,6,1969,2009,12.1,1969,8,72000006
+Botswana,72,Botswana Peoples Party,6,1969,2009,12.1,1969,8,72000006
 Botswana,72,Independence Freedom Party,13,1994,1994,2.8,1994,1,72000013
-Brazil,76,ALIANCA RENOVADORA NACIONAL,83,1966,1978,84.2,1970,4,76000083
-Brazil,76,Democratas,77,2010,2010,7.4,2010,1,76000077
-Brazil,76,MOVIMENTO DEMOCRATICO BRASILEIRO,84,1966,1978,59.4,1974,4,76000084
+Brazil,76,ALIANCA RENOVADORA NACIONAL,82,1966,1978,84.2,1970,4,76000082
+Brazil,76,Democratas,77,2010,2014,7.4,2010,2,76000077
+Brazil,76,MOVIMENTO DEMOCRATICO BRASILEIRO,83,1966,1978,59.4,1974,4,76000083
 Brazil,76,partido comunista brasileiro,10,1945,2014,8.6,1945,10,76000010
 Brazil,76,partido comunista brasileiro,9,1986,2014,2.8,2010,8,76000009
 Brazil,76,partido da reconstrucao nacional,45,1990,1998,8.3,1990,3,76000045
@@ -307,14 +325,14 @@ Brazil,76,partido social progressista,63,1947,1962,14.8,1947,5,76000063
 Brazil,76,partido social trabalhista,64,1950,2002,2.2,1950,7,76000064
 Brazil,76,partido socialismo e liberdade,62,2006,2014,3.2,2014,3,76000062
 Brazil,76,partido socialista brasileiro,55,1950,2014,7.9,2014,12,76000055
-Brazil,76,partido trabalhista brasileiro,69,1945,2014,24.8,1962,15,76000069
-Brazil,76,partido trabalhista brasileiro,68,1990,2014,4.7,2006,7,76000068
+Brazil,76,Partido Trabalhista Brasileiro (i),69,1945,1962,24.8,1962,6,76000069
+Brazil,76,Partido Trabalhista Brasileiro (ii),84,1982,2014,5.7,1998,9,76000084
 Brazil,76,partido trabalhista nacional,72,1950,2014,2.9,1950,6,76000072
 Brazil,76,partido verde,75,1994,2014,4.2,2014,6,76000075
 Brazil,76,uniao democratica nacional,76,1945,1962,32.5,1947,6,76000076
 British Virgin Islands,92,National Democratic Party,2,2003,2015,63,2015,4,92000002
 British Virgin Islands,92,People's Empowerment Power,5,2015,2015,3.3,2015,1,92000005
-British Virgin Islands,92,People’s Patriotic Alliance,3,2011,2011,5.1,2011,1,92000003
+British Virgin Islands,92,Peoples Patriotic Alliance,3,2011,2011,5.1,2011,1,92000003
 British Virgin Islands,92,Virgin Islands Party,4,2003,2015,50.8,2007,4,92000004
 Bulgaria,100,alternativa za balgarsko vazrazhdane,149,2014,2014,4.2,2014,1,100000149
 Bulgaria,100,Ataka Party,103,2005,2014,9.5,2009,4,100000103
@@ -340,20 +358,32 @@ Bulgaria,100,politicheski suyuz 'demokratichna alternativa za republikata',68,19
 Bulgaria,100,suyuz na demokratichnite sili,73,1991,2013,24.2,1994,3,100000073
 Bulgaria,100,suyuz na demokratichnite sili - tsentur,74,1991,1991,34.4,1991,1,100000074
 Bulgaria,100,suyuz na demokratichniti sili - liberali,75,1991,1991,3.2,1991,1,100000075
+Burkina Faso,854,CongrÃ¨s pour la DÃ©mocratie et le ProgrÃ¨s,9,2012,2015,48.7,2012,2,854000009
+Burkina Faso,854,Convention des Forces DÃ©mocratiques du Burkina,14,2012,2012,2.4,2012,1,854000014
+Burkina Faso,854,Mouvement du Peuple pour le ProgrÃ¨s,39,2015,2015,34.7,2015,1,854000039
+Burkina Faso,854,Nouveau Temps pour la DÃ©mocratie,51,2015,2015,2.2,2015,1,854000051
+Burkina Faso,854,Nouvelle Alliance du Faso,52,2015,2015,4.1,2015,1,854000052
+Burkina Faso,854,Organisation pour la DÃ©mocratie et le Travail,56,2012,2015,2.1,2012,2,854000056
+Burkina Faso,854,Parti pour la DÃ©mocratie et le Socialisme/Parti des BÃ¢tisseurs,77,2012,2015,3.9,2012,2,854000077
+Burkina Faso,854,Union pour la RÃ©publique,120,2012,2015,3.1,2012,2,854000120
+Burkina Faso,854,Union pour la Renaissance/Parti Sankariste,119,2012,2015,4.4,2012,2,854000119
+Burkina Faso,854,Union pour le ProgrÃ¨s et le Changement,123,2012,2015,20.5,2015,2,854000123
 Cambodia,116,Cambodia National Rescue Party,25,2013,2013,44.5,2013,1,116000025
-Cambodia,116,Cambodian People's Party,1,2003,2013,58.1,2008,3,116000001
+Cambodia,116,cambodian people's party,1,2003,2013,58.1,2008,3,116000001
 Cambodia,116,human rights party,4,2008,2008,6.6,2008,1,116000004
 Cambodia,116,norodom ranariddth party,9,2008,2008,5.6,2008,1,116000009
 Cambodia,116,Social Republican Party/Sam Rainsy Party,10,2003,2008,22.7,2003,2,116000010
 Cambodia,116,"United National Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",2,2003,2013,21.4,2003,3,116000002
-Cameroon,120,rassemblement démocratique  du peuple camerounais,10,1997,2002,64.8,2002,2,120000010
-Cameroon,120,social democratic front,11,1997,2002,21.9,1997,2,120000011
-Cameroon,120,union démocratique du cameroun,12,1997,2002,2.1,1997,2,120000012
-Cameroon,120,union nationale pour la démocratie et le progrès,17,1997,2002,13.3,1997,2,120000017
+Cameroon,120,Front Social-DÃ©mocratique,11,1997,2007,21.9,1997,3,120000011
+Cameroon,120,Mouvement pour la DÃ©fense de la RÃ©publique,30,1992,2007,4.1,1992,2,120000030
+Cameroon,120,rassemblement démocratique  du peuple camerounais,10,1992,2007,67.3,2007,4,120000010
+Cameroon,120,Union DÃ©mocratique du Cameroun,12,1997,2007,2.2,2007,3,120000012
+Cameroon,120,union des populations du cameroun,14,1992,2007,8.9,1992,3,120000014
+Cameroon,120,Union Nationale pour la DÃ©mocratie et le ProgrÃ¨s,17,1992,2007,34.9,1992,4,120000017
 Canada,124,anti-confederate,5,1867,1867,7.9,1867,1,124000005
 Canada,124,bloc populaire canadien,7,1945,1945,3.3,1945,1,124000007
 Canada,124,bloc québécois,8,1993,2015,13.5,1993,8,124000008
-Canada,124,canadian alliance,11,2e3,2e3,25.5,2000,1,124000011
+Canada,124,canadian alliance,11,2e3,2e3,25.5,2e3,1,124000011
 Canada,124,co-operative commonwealth federation,26,1930,1958,15.6,1945,8,124000026
 Canada,124,conservative,21,1867,2015,48.3,1930,20,124000021
 Canada,124,conservative party of canada,23,2004,2008,37.7,2008,3,124000023
@@ -382,8 +412,8 @@ Cape Verde,132,PRD,5,2001,2006,3.4,2001,2,132000005
 Cape Verde,132,UCID,7,1995,2016,6.9,2016,4,132000007
 Cayman Islands,136,Coalition for Cayman,5,2013,2013,17.9,2013,1,136000005
 Cayman Islands,136,People's National Alliance,6,2013,2013,2.4,2013,1,136000006
-Cayman Islands,136,People’s Democratic Alliance,1,2005,2005,7.5,2005,1,136000001
-Cayman Islands,136,People’s Progressive Movement,2,2005,2013,41.1,2005,3,136000002
+Cayman Islands,136,Peoples Democratic Alliance,1,2005,2005,7.5,2005,1,136000001
+Cayman Islands,136,Peoples Progressive Movement,2,2005,2013,41.1,2005,3,136000002
 Cayman Islands,136,United Democratic Party,3,2005,2013,55.8,2009,3,136000003
 Cayman Islands,136,West Bay Alliance,4,2005,2005,12.1,2005,1,136000004
 Chile,152,Authentic Socialist Party,8,1945,1945,5.7,1945,1,152000008
@@ -397,24 +427,28 @@ Chile,152,PARTIDO HUMANISTA,3,1997,2013,3.4,2013,3,152000003
 Chile,152,Progressive Liberal Party,17,1945,1945,2.2,1945,1,152000017
 Chile,152,Radical Party,18,1945,1945,20.3,1945,1,152000018
 Chile,152,Socialist,19,1945,1945,7.3,1945,1,152000019
+Colombia,170,CENTRO DEMOCRÃTICO MANO FIRME CORAZÃN GRANDE,129,2014,2014,11.2,2014,1,170000129
 Colombia,170,coalicion,5,1998,2002,10.4,2002,2,170000005
 Colombia,170,movimiento alas equipo colombia,15,2002,2006,4.3,2006,2,170000015
 Colombia,170,movimiento apertura liberal,18,1998,2010,2.6,2006,4,170000018
 Colombia,170,movimiento convergencia ciudadana,32,1998,2006,4.5,2006,3,170000032
 Colombia,170,movimiento convergencia popular civica,33,1998,2002,2.3,2002,2,170000033
-Colombia,170,Movimiento Independiente De Renovación Absoluta - Mira,49,2002,2010,3.4,2010,3,170000049
+Colombia,170,Movimiento Independiente De Renovación Absoluta - Mira,49,2002,2014,3.4,2010,4,170000049
 Colombia,170,movimiento nacional,50,2002,2006,2,2006,2,170000050
 Colombia,170,movimiento nacional conservador,51,1998,1998,3.5,1998,1,170000051
 Colombia,170,movimiento popular unido mpu,73,2002,2006,2.1,2002,2,170000073
 Colombia,170,Partido Alas,116,2010,2010,2,2010,1,170000116
-Colombia,170,partido cambio radical,91,2002,2010,10.7,2006,3,170000091
-Colombia,170,partido colombia democratica,92,2006,2006,2.5,2006,1,170000092
+Colombia,170,PARTIDO ALIANZA VERDE,158,2014,2014,4,2014,1,170000158
+Colombia,170,partido cambio radical,91,2002,2014,10.7,2006,4,170000091
 Colombia,170,partido conservador colombiano,95,1998,2010,21.5,2010,4,170000095
+Colombia,170,PARTIDO CONSERVADOR COLOMBIANO,92,2006,2014,15.6,2014,2,170000092
 Colombia,170,Partido De Integración Nacional,119,2010,2010,7.5,2010,1,170000119
-Colombia,170,partido liberal colombiano,99,1998,2010,47.4,1998,4,170000099
+Colombia,170,PARTIDO DE LA U,159,2014,2014,19,2014,1,170000159
+Colombia,170,partido liberal colombiano,99,1998,2014,47.4,1998,5,170000099
+Colombia,170,PARTIDO OPCION CIUDADANA,160,2014,2014,3.9,2014,1,170000160
 Colombia,170,partido social de unidad nacional,102,2006,2010,26.1,2010,2,170000102
 Colombia,170,partido verde oxigeno,105,2002,2010,3.1,2010,2,170000105
-Colombia,170,polo democratico alternativo,107,2006,2010,8,2006,2,170000107
+Colombia,170,polo democratico alternativo,107,2006,2014,8,2006,3,170000107
 Comoros,174,convention pour le renouveau des comores,2,2015,2015,7.2,2015,1,174000002
 Comoros,174,parti juwa,9,2015,2015,18,2015,1,174000009
 Comoros,174,parti orange,10,2015,2015,6,2015,1,174000010
@@ -424,14 +458,14 @@ Costa Rica,188,accesibilidad sin exclusion,1,2006,2014,9,2010,3,188000001
 Costa Rica,188,acción ciudadana,2,2002,2014,25.3,2006,4,188000002
 Costa Rica,188,acción democrática popular,56,1962,1962,2.5,1962,1,188000056
 Costa Rica,188,acción socialista,57,1970,1974,5.5,1970,2,188000057
-Costa Rica,188,demócrata,20,1953,1998,21.2,1953,6,188000020
+Costa Rica,188,democrata,20,1953,1998,21.2,1953,6,188000020
 Costa Rica,188,demócrata cristiano,62,1970,1974,2.5,1970,2,188000062
 Costa Rica,188,frente amplio,21,2006,2014,13.8,2014,3,188000021
 Costa Rica,188,frente nacional,63,1970,1970,3.1,1970,1,188000063
 Costa Rica,188,fuerza democratica,23,1994,2006,5.8,1998,4,188000023
 Costa Rica,188,independiente,25,1958,1998,9.8,1958,8,188000025
 Costa Rica,188,integracion nacional,27,1998,2014,2.8,1998,5,188000027
-Costa Rica,188,liberación nacional,29,1953,2014,64.7,1953,16,188000029
+Costa Rica,188,liberacion nacional,29,1953,2014,64.7,1953,16,188000029
 Costa Rica,188,movimiento libertario,32,1998,2014,14.5,2010,5,188000032
 Costa Rica,188,movimiento nacional,33,1982,1982,3.6,1982,1,188000033
 Costa Rica,188,nacional independiente,35,1974,1998,10,1974,5,188000035
@@ -446,26 +480,32 @@ Costa Rica,188,unidad social cristiana,47,1986,2014,46.2,1990,8,188000047
 Costa Rica,188,unificación nacional,81,1966,1978,43.2,1966,4,188000081
 Costa Rica,188,unión cívico revolucionaria,82,1958,1966,5.5,1966,2,188000082
 Costa Rica,188,union generaleña,50,1986,1994,2.4,1990,3,188000050
-Costa Rica,188,unión nacional,51,1953,2006,21.4,1958,5,188000051
+Costa Rica,188,union nacional,51,1953,2006,21.4,1958,5,188000051
 Costa Rica,188,union para el cambio,52,2006,2006,2.4,2006,1,188000052
-Croatia,191,hrvatska demokratska zajednica,13,2007,2015,35.5,2007,3,191000013
-Croatia,191,hrvatska narodna stranka-liberalni demokrati,17,2007,2007,6.6,2007,1,191000017
-Croatia,191,hrvatska seljacka stranka,56,2011,2011,2,2011,1,191000056
-Croatia,191,hrvatska socijalno-liberalna stranka,57,2011,2011,2.7,2011,1,191000057
-Croatia,191,hrvatska stranka prava,20,2007,2011,3.4,2007,2,191000020
-Croatia,191,hrvatska stranka umirovljenika,21,2007,2007,3.6,2007,1,191000021
+Croatia,191,Akcija Socijaldemokrata Hrvatske,122,1995,2003,3.2,1995,2,191000122
+Croatia,191,hrvatska demokratska zajednica,13,1990,2016,43.1,1995,8,191000013
+Croatia,191,hrvatska demokrscanska stranka,55,1992,2011,3.2,1992,2,191000055
+Croatia,191,Hrvatska KrÅ¡canska Demokratska Stranka,15,1992,2007,3,1992,4,191000015
+Croatia,191,hrvatska narodna stranka-liberalni demokrati,17,1992,2007,7.8,1992,3,191000017
+Croatia,191,hrvatska seljacka stranka,56,1992,2011,6.3,2003,4,191000056
+Croatia,191,hrvatska socijalno-liberalna stranka,57,1992,2011,15.7,1992,3,191000057
+Croatia,191,hrvatska stranka prava,20,1992,2011,7.1,1992,5,191000020
+Croatia,191,hrvatska stranka umirovljenika,21,2003,2007,3.6,2007,2,191000021
 Croatia,191,hrvatski demokratski savez slavonije i baranje,23,2007,2015,2.8,2011,3,191000023
-Croatia,191,hrvatski laburisti-stranka rada,58,2011,2011,5,2011,1,191000058
-Croatia,191,most nezavisnih lista,97,2015,2015,13.6,2015,1,191000097
+Croatia,191,Hrvatski Laburisti - Stranka Rada,58,2011,2016,5,2011,2,191000058
+Croatia,191,most nezavisnih lista,97,2015,2016,13.6,2015,2,191000097
 Croatia,191,neovisna lista - dr.sc. ivan grubisic,66,2011,2011,2.7,2011,1,191000066
-Croatia,191,socijaldemokratska partija hrvatske,47,2007,2007,30.4,2007,1,191000047
+Croatia,191,samostalna demokratska srpska stranka,45,2003,2016,7.1,2003,4,191000045
+Croatia,191,socijaldemokratska partija hrvatske,47,1992,2007,30.4,2007,4,191000047
+Croatia,191,Socijalno Demokratska Unija Hrvatske,233,1992,2003,2.3,1995,3,191000233
+Croatia,191,Srpska Narodna Stranka,235,1992,2003,3.9,1995,3,191000235
 Croatia,191,zivi zid,121,2015,2015,3.9,2015,1,191000121
 Curacao,531,Movement for the Future of Curaçao,1,2012,2012,21.2,2012,1,531000001
-Curacao,531,National People’s Party,2,2012,2012,5.9,2012,1,531000002
+Curacao,531,National Peoples Party,2,2012,2012,5.9,2012,1,531000002
 Curacao,531,New Antilles Movement,3,2012,2012,9.5,2012,1,531000003
 Curacao,531,PAIS,4,2012,2012,17.6,2012,1,531000004
 Curacao,531,Party for the Restructured Antilles,6,2012,2012,19.8,2012,1,531000006
-Curacao,531,Party Workers’ Liberation Front 30th of May,5,2012,2012,2.1,2012,1,531000005
+Curacao,531,Party Workers Liberation Front 30th of May,5,2012,2012,2.1,2012,1,531000005
 Curacao,531,Sovereign People,7,2012,2012,22.7,2012,1,531000007
 Cyprus,196,Citizen's Alliance,19,2016,2016,6.3,2016,1,196000019
 Cyprus,196,Democratic Party,4,2001,2016,17.9,2006,4,196000004
@@ -484,9 +524,9 @@ Czech Republic,203,ceskoslovenská sociální demokracie,58,1990,1990,4.1,1990,1
 Czech Republic,203,ceskoslovenská sociální demokracie,11,1992,2013,32.3,1998,7,203000011
 Czech Republic,203,cs.strana socialistická,14,1990,1990,2.7,1990,1,203000014
 Czech Republic,203,demokratické unie,17,1996,1998,2.8,1996,2,203000017
-Czech Republic,203,hnutí duchodcu za životní jistoty,20,1992,1998,3.8,1992,3,203000020
+Czech Republic,203,hnutí duchodcu za ivotní jistoty,20,1992,1998,3.8,1992,3,203000020
 Czech Republic,203,hnutí za samosprávnou demokracii - spolecnost pro moravu a slezsko,23,1990,1992,10,1990,2,203000023
-Czech Republic,203,klub angažovaných nestraníku,27,1992,2013,2.7,1992,2,203000027
+Czech Republic,203,klub angaovaných nestraníku,27,1992,2013,2.7,1992,2,203000027
 Czech Republic,203,komunistická strana cech a moravy,29,1996,2013,18.5,2002,6,203000029
 Czech Republic,203,komunistická strana ceskoslovenska,30,1990,1990,13.2,1990,1,203000030
 Czech Republic,203,krestanská a demokratická unie - ceskoslovenská strana lidová,32,1992,2013,9,1998,6,203000032
@@ -495,12 +535,12 @@ Czech Republic,203,obcanská demokratická strana,45,1996,2013,35.4,2006,6,20300
 Czech Republic,203,obcanská hnutí,46,1992,1992,4.6,1992,1,203000046
 Czech Republic,203,obcanské fórum,48,1990,1990,49.5,1990,1,203000048
 Czech Republic,203,Pirati,92,2010,2013,2.7,2013,2,203000092
-Czech Republic,203,sdružení pro republiku-republikánská strana ceskoslovenska,56,1992,1998,8,1996,3,203000056
-Czech Republic,203,snk evropští demokraté,57,2006,2006,2.1,2006,1,203000057
+Czech Republic,203,sdruení pro republiku-republikánská strana ceskoslovenska,56,1992,1998,8,1996,3,203000056
+Czech Republic,203,snk evroptí demokraté,57,2006,2006,2.1,2006,1,203000057
 Czech Republic,203,spojenectví zemedel.a venkova,59,1990,1990,4.1,1990,1,203000059
 Czech Republic,203,SPOZ,94,2010,2013,4.3,2010,2,203000094
 Czech Republic,203,sruzeni nezavislych,60,2002,2002,2.8,2002,1,203000060
-Czech Republic,203,"strana ceskoslovenských podnikatelu, živnostníku a rolníku",63,1992,1992,3.1,1992,1,203000063
+Czech Republic,203,"strana ceskoslovenských podnikatelu, ivnostníku a rolníku",63,1992,1992,3.1,1992,1,203000063
 Czech Republic,203,strana zelených,71,1990,2013,6.3,2006,6,203000071
 Czech Republic,203,Suveren,98,2010,2013,3.7,2010,2,203000098
 Czech Republic,203,svobodné demokraté-liberální strana národne sociální,72,1996,1996,2,1996,1,203000072
@@ -534,29 +574,35 @@ Denmark,208,socialistisk folkeparti,23,1960,2015,14.6,1987,21,208000023
 Denmark,208,unknown,3999,1849,1913,45.7,1858,20,208003999
 Denmark,208,"venstre, danmarks liberale parti",24,1849,2015,65.9,1873,69,208000024
 Denmark,208,venstresocialisterne,25,1977,1987,3.7,1979,5,208000025
+Djibouti,262,Centre DÃ©mocrate UnifiÃ©,5,2013,2013,2.8,2013,1,262000005
 Djibouti,262,Democratic Renewal Party,1,1997,1997,19.2,1997,1,262000001
 Djibouti,262,National Democratic Party,2,1997,1997,2.3,1997,1,262000002
 Djibouti,262,Union for a Democratic Alternative,3,2003,2003,37.6,2003,1,262000003
-Djibouti,262,Union for a Presidential Majority,4,2003,2003,62.4,2003,1,262000004
+Djibouti,262,Union pour la MajoritÃ© PrÃ©sidentielle,4,2003,2013,62.4,2003,2,262000004
+Djibouti,262,Union pour le Salut National,6,2013,2013,35.7,2013,1,262000006
 Dominica,212,dominica freedom party,1,1995,2005,35.8,1995,3,212000001
 Dominica,212,dominica labour party,2,1995,2005,52,2005,3,212000002
 Dominica,212,united workers' party,3,1995,2005,43.7,2005,3,212000003
+Dominican Republic,214,bloque institucional social democrata,68,2016,2016,2.1,2016,1,214000068
 Dominican Republic,214,bloque institucional socialdemocrata,6,1994,2006,2.5,2006,4,214000006
 Dominican Republic,214,movimiento de conciliacion nacional,11,1970,1998,3.7,1970,5,214000011
 Dominican Republic,214,movimiento de integracion democratica,12,1970,1982,20.4,1970,3,214000012
+Dominican Republic,214,movimiento democratico alternativo,71,2016,2016,2.1,2016,1,214000071
 Dominican Republic,214,movimiento municipal del pueblo,19,1974,1982,4.4,1974,2,214000019
 Dominican Republic,214,movimiento nacional de la juventud,21,1970,1970,4.3,1970,1,214000021
 Dominican Republic,214,movimiento voluntad popular,27,1974,1974,5,1974,1,214000027
-Dominican Republic,214,partido de la liberacion dominicana,33,1978,2010,54.6,2010,8,214000033
+Dominican Republic,214,partido de la liberacion dominicana,33,1978,2016,54.6,2010,9,214000033
+Dominican Republic,214,partido de unidad nacional,77,2016,2016,3.2,2016,1,214000077
 Dominican Republic,214,partido democrata popular,38,1974,2006,13.9,1974,5,214000038
 Dominican Republic,214,partido liberal de la republica dominicana (la estructura),42,1986,2006,5.3,1986,2,214000042
 Dominican Republic,214,partido nacionalista revolucionario democratico,46,1962,1966,3.5,1962,2,214000046
 Dominican Republic,214,partido quiqueyano democrata,49,1970,2002,13.6,1970,7,214000049
 Dominican Republic,214,partido reformista,51,1966,1982,56.5,1966,4,214000051
 Dominican Republic,214,partido reformista - movimiento nacional de la juventud,52,1974,1974,76.7,1974,1,214000052
-Dominican Republic,214,partido reformista social cristiano,53,1986,2010,40.5,1986,6,214000053
-Dominican Republic,214,partido revolucionario dominicano,55,1962,2010,56.7,1962,10,214000055
-Dominican Republic,214,partido revolucionario independiente,57,1994,2010,2.5,1994,5,214000057
+Dominican Republic,214,partido reformista social cristiano,53,1986,2016,40.5,1986,7,214000053
+Dominican Republic,214,partido revolucionario dominicano,55,1962,2016,56.7,1962,11,214000055
+Dominican Republic,214,partido revolucionario independiente,57,1994,2016,2.5,1994,6,214000057
+Dominican Republic,214,partido revolucionario moderno,83,2016,2016,20.4,2016,1,214000083
 Dominican Republic,214,partido revolucionario social cristiano,58,1962,1978,5.2,1962,4,214000058
 Dominican Republic,214,unidad democrática,63,1986,1998,2.4,1994,3,214000063
 Dominican Republic,214,union civica nacional,64,1962,1982,30.2,1962,4,214000064
@@ -597,7 +643,7 @@ El Salvador,222,Democratic Convergence,7,1994,1997,4.4,1994,2,222000007
 El Salvador,222,Democratic Liberal Party,8,1997,2e3,3.2,1997,2,222000008
 El Salvador,222,Farabundo Martí National Liberation Front,10,1994,2015,42.6,2009,8,222000010
 El Salvador,222,Grand Alliance for National Unity,12,2012,2015,9.6,2012,2,222000012
-El Salvador,222,National Action Party,14,2e3,2003,3.7,2000,2,222000014
+El Salvador,222,National Action Party,14,2e3,2003,3.7,2e3,2,222000014
 El Salvador,222,National Coalition,15,2012,2015,6.8,2015,2,222000015
 El Salvador,222,National Conciliation Party,16,1994,2009,13,2003,6,222000016
 El Salvador,222,Nationalist Republican Alliance,18,1994,2015,45,1994,8,222000018
@@ -609,14 +655,12 @@ Equatorial Guinea,226,convergencia socialdemocráta popular,2,1993,1993,10.3,199
 Equatorial Guinea,226,partido democrático de guinea ecuatorial,3,1993,1993,69.8,1993,1,226000003
 Equatorial Guinea,226,partido liberal,4,1993,1993,6.4,1993,1,226000004
 Equatorial Guinea,226,unión demócrata social,8,1993,1993,7.4,1993,1,226000008
-Estonia,233,eesti ettevõtjate erakond,3,1992,1992,2.4,1992,1,233000003
 Estonia,233,eesti keskerakond,6,1995,2015,26.1,2007,6,233000006
 Estonia,233,Eesti Konservatiivne Rahvaerakond,38,2015,2015,8.1,2015,1,233000038
 Estonia,233,eesti koonderakond,7,1999,1999,7.6,1999,1,233000007
 Estonia,233,eesti kristlik rahvapartei,8,1999,2003,2.4,1999,2,233000008
 Estonia,233,eesti maarahva erakond,9,1999,1999,7.3,1999,1,233000009
-Estonia,233,eesti pensionäride liit,10,1992,1992,3.7,1992,1,233000010
-Estonia,233,eesti rahvusliku sõltumatuse partei,12,1992,1992,8.8,1992,1,233000012
+Estonia,233,eesti rahvusliku soltumatuse partei,12,1992,1992,11.5,1992,1,233000012
 Estonia,233,eesti reformierakond,13,1995,2015,28.6,2011,6,233000013
 Estonia,233,Eesti Vabaerakond,39,2015,2015,9.1,2015,1,233000039
 Estonia,233,eestimaa rahvaliit,18,2003,2011,13,2003,3,233000018
@@ -627,7 +671,6 @@ Estonia,233,erakond isamaaliit,23,1999,2003,16.1,1999,2,233000023
 Estonia,233,Erakonda Isamaa Ja Res Publica Liit,22,2007,2015,20.5,2011,3,233000022
 Estonia,233,mõõdukad,28,1999,1999,15.2,1999,1,233000028
 Estonia,233,parempoolsed,30,1995,1995,5,1995,1,233000030
-Estonia,233,põllumeeste kogu,31,1992,1999,2.9,1992,2,233000031
 Estonia,233,rahvaerakond mõõdukad,32,2003,2003,7,2003,1,233000032
 Estonia,233,Sotsiaaldemokraatilik Erakond,33,2007,2015,17.1,2011,3,233000033
 Estonia,233,tuleviku eesti erakond,34,1995,1995,2.6,1995,1,233000034
@@ -640,16 +683,19 @@ Faroe Islands,234,business party,5,1936,1936,8.1,1936,1,234000005
 Faroe Islands,234,centre party,14,1994,2015,8.4,2008,7,234000014
 Faroe Islands,234,faroese party,13,1994,1994,2.4,1994,1,234000013
 Faroe Islands,234,funny party,16,2004,2004,2.4,2004,1,234000016
-Faroe Islands,234,people's party,6,1940,2015,43.4,1945,22,234000006
-Faroe Islands,234,progress party,9,1958,1998,8.2,1980,11,234000009
-Faroe Islands,234,progress party,18,2011,2015,6.3,2011,2,234000018
+Faroe Islands,234,people's party,6,1940,2015,43.4,1945,23,234000006
 Faroe Islands,234,progressionist's party,10,1988,1988,2.1,1988,1,234000010
-Faroe Islands,234,republican party,8,1950,2015,23.9,1958,18,234000008
-Faroe Islands,234,self-government party,2,1906,2015,51.7,1916,32,234000002
-Faroe Islands,234,social democratic party,3,1928,2015,28.1,1946,25,234000003
+Faroe Islands,234,republican party,8,1950,2015,23.9,1958,19,234000008
+Faroe Islands,234,Self-Government PartyÂ ,2,1906,2015,51.7,1916,34,234000002
+Faroe Islands,234,social democratic party,3,1928,2015,28.1,1946,26,234000003
 Faroe Islands,234,socialist separatists party,11,1990,1990,2.3,1990,1,234000011
-Faroe Islands,234,unionist party,1,1906,2015,72.3,1910,33,234000001
+Faroe Islands,234,The Progress Party,9,1958,2015,8.2,1980,13,234000009
+Faroe Islands,234,unionist party,1,1906,2015,72.3,1910,35,234000001
 Faroe Islands,234,workers' movement,15,1994,1998,9.5,1994,2,234000015
+Fiji,242,fijifirst,3,2014,2014,61.3,2014,1,242000003
+Fiji,242,national federation party,4,2014,2014,5.5,2014,1,242000004
+Fiji,242,people's democratic party,6,2014,2014,3,2014,1,242000006
+Fiji,242,social democratic liberal party,7,2014,2014,28,2014,1,242000007
 Finland,246,demokraattinen vaihtoehto,1,1987,1987,4.3,1987,1,246000001
 Finland,246,isänmaallinen kansanliike,2,1936,1939,8.3,1936,2,246000002
 Finland,246,kansallinen edistyspuolue,3,1919,1948,13.8,1919,11,246000003
@@ -676,28 +722,33 @@ Finland,246,suomen sosialistinen työväenpuolue,25,1922,1922,14.8,1922,1,246000
 Finland,246,suomen työväenpuolue,26,1924,1927,12.1,1927,2,246000026
 Finland,246,työväen ja pienviljelijäin sosialidemokraattinen liitto,27,1962,1966,4.4,1962,2,246000027
 Finland,246,vasemmistoliitto,28,1991,2015,11.2,1995,7,246000028
-Finland,246,vihreŠ liitto,29,1987,2015,9.3,2015,8,246000029
-France,250,front national,7,1973,2012,15.6,1997,10,250000007
+Finland,246,vihre liitto,29,1987,2015,9.3,2015,8,246000029
+France,250,aujour'hui l'ecologie,1,1981,2017,4.3,2017,2,250000001
+France,250,front national,7,1973,2017,15.6,1997,11,250000007
 France,250,génération Écologie,8,1993,1993,3.7,1993,1,250000008
 France,250,Left Front,32,2012,2012,6.9,2012,1,250000032
 France,250,mouvement de citoyen,12,1997,1997,2.2,1997,1,250000012
 France,250,New Center,30,2012,2012,2.2,2012,1,250000030
-France,250,parti communiste français,17,1973,2007,21.3,1973,9,250000017
-France,250,parti socialiste,19,1973,2012,29.4,2012,4,250000019
-France,250,parti socialiste,26,1981,1993,36.2,1981,3,250000026
-France,250,Radical Party of the Left,18,2002,2012,2.9,2012,3,250000018
+France,250,parti communiste français,17,1973,2017,21.3,1973,10,250000017
+France,250,parti socialiste,19,1973,2017,36.2,1981,8,250000019
+France,250,Radical Party of the Left,18,2002,2017,2.9,2012,4,250000018
 France,250,rassemblement pour la république,23,1978,1997,22.3,1978,6,250000023
 France,250,The Greens,9,1986,2012,5.5,2012,6,250000009
 France,250,union pour un mouvement populaire,29,2002,2012,39.9,2007,3,250000029
-Gambia,270,alliance for patriotic reorientation and construction,1,1997,2012,59.8,2007,3,270000001
-Gambia,270,national reconciliation party,3,1997,2012,9.4,2012,3,270000003
-Gambia,270,people's democratic organisation for independence and socialism,4,1997,1997,7.9,1997,1,270000004
-Gambia,270,united democratic party,6,1997,2007,34.1,1997,2,270000006
+Gambia,270,alliance for patriotic reorientation and construction,1,1997,2017,59.8,2007,4,270000001
+Gambia,270,Gambia Democratic Congress,7,2017,2017,17.4,2017,1,270000007
+Gambia,270,national reconciliation party,3,1997,2017,9.4,2012,4,270000003
+Gambia,270,people's democratic organisation for independence and socialism,4,1997,2017,8.9,2017,2,270000004
+Gambia,270,People's Progressive Party,5,2017,2017,2.5,2017,1,270000005
+Gambia,270,united democratic party,6,1997,2017,37.5,2017,3,270000006
+Georgia,268,Free Democrats,17,2016,2016,4.7,2016,1,268000017
 Georgia,268,Georgian Dream,3,2012,2012,54.2,2012,1,268000003
+Georgia,268,Labour Party of Georgia,8,2012,2016,2.3,2016,2,268000008
 Georgia,268,United National Movement,14,2012,2012,40.5,2012,1,268000014
+Georgia,268,United National Movement,31,2016,2016,26.6,2016,1,268000031
 Germany,276,antisemiten,1,1890,1903,3.7,1898,3,276000001
 Germany,276,bayernpartei,3,1949,2013,4.2,1949,6,276000003
-Germany,276,bündnis '90/die grünen,5,1994,2013,7.3,2013,3,276000005
+Germany,276,bï¿½ndnis '90/die grï¿½nen,5,1994,1998,6.9,1994,2,276000005
 Germany,276,christlich demokratische union,7,1949,2013,44.4,1953,18,276000007
 Germany,276,christlich-soziale union in bayern,8,1949,2009,10.6,1976,16,276000008
 Germany,276,christlich-sozialer volksdienst (evangelische bewegung),9,1930,1930,2.5,1930,1,276000009
@@ -714,7 +765,7 @@ Germany,276,deutsche staatspartei,21,1928,1932,4.8,1928,3,276000021
 Germany,276,deutsche volkspartei,22,1871,1930,13.9,1920,17,276000022
 Germany,276,deutsche zentrumspartei,59,1871,2009,30.2,1874,22,276000059
 Germany,276,deutsches landvolk,23,1930,1930,3.2,1930,1,276000023
-Germany,276,die grünen,25,1983,2009,10,2009,6,276000025
+Germany,276,die grï¿½nen,25,1983,2013,10,2009,7,276000025
 Germany,276,DIE LINKE,99,2013,2013,8.2,2013,1,276000099
 Germany,276,die linkspartei.partei des demokratischen sozialismus,73,2005,2009,11.5,2009,2,276000073
 Germany,276,elsässer,27,1881,1881,2.9,1881,1,276000027
@@ -742,13 +793,13 @@ Germany,276,unabhängige sozialdemokratische partei deutschlands,54,1919,1920,17
 Germany,276,wirtschaftliche aufbauvereinigung,56,1949,1949,2.9,1949,1,276000056
 Germany,276,wirtschaftspartei des deutschen mittelstand,57,1924,1928,4.5,1928,2,276000057
 Germany,276,wirtschaftsvereinigung,58,1912,1912,2.5,1912,1,276000058
-Ghana,288,convention people's party,1,2e3,2012,4.3,2000,4,288000001
-Ghana,288,national democratic congress,5,2e3,2012,46.1,2012,4,288000005
-Ghana,288,national reform party,6,2e3,2004,2.2,2000,2,288000006
-Ghana,288,new patriotic party,7,2e3,2012,48.9,2004,4,288000007
-Ghana,288,people's national convention,9,2e3,2012,47.2,2008,4,288000009
+Ghana,288,convention people's party,1,2e3,2016,4.3,2e3,5,288000001
+Ghana,288,national democratic congress,5,2e3,2016,46.1,2012,5,288000005
+Ghana,288,national reform party,6,2e3,2004,2.2,2e3,2,288000006
+Ghana,288,people's national convention,9,2e3,2016,47.2,2008,5,288000009
+Ghana,288,Progressive People's Party,7,2e3,2016,52.5,2016,5,288000007
 Gibraltar,292,gibraltar national party,1,1996,1996,4.7,1996,1,292000001
-Gibraltar,292,gibraltar social democrats,2,1996,2011,58.9,2000,5,292000002
+Gibraltar,292,gibraltar social democrats,2,1996,2011,58.9,2e3,5,292000002
 Gibraltar,292,gibraltar socialist labour party/liberal,3,1996,2007,46.8,2007,3,292000003
 Gibraltar,292,labour,4,2003,2003,8.4,2003,1,292000004
 Gibraltar,292,progressive democratic party,7,2007,2011,4.4,2011,2,292000007
@@ -806,44 +857,51 @@ Greenland,304,siumut,5,2002,2014,53.3,2013,5,304000005
 Grenada,308,Action Council,10,1951,1951,25.1,1951,1,308000010
 Grenada,308,Grenada Mental and Manual Workers Union,12,1951,1951,68.8,1951,1,308000012
 Grenada,308,Grenada National Party,13,1957,1972,53.7,1962,5,308000013
-Grenada,308,Grenada United Labour Party,4,1954,2003,58.9,1972,12,308000004
+Grenada,308,grenada united labour party,4,1954,2003,58.9,1972,12,308000004
 Grenada,308,maurice bishop patriotic movement,5,1984,1999,5,1984,4,308000005
 Grenada,308,national democratic congress,6,1990,2013,51.2,2008,6,308000006
 Grenada,308,national party,8,1990,1995,17.5,1990,2,308000008
 Grenada,308,new national party,7,1984,2013,62.2,1999,7,308000007
-Grenada,308,People’s Democratic Movement,18,1957,1957,21.6,1957,1,308000018
-Grenada,308,People’s Labour Movement,19,2003,2003,2,2003,1,308000019
-Grenada,308,People’s Progressive Movement,20,1961,1961,15.5,1961,1,308000020
+Grenada,308,Peoples Democratic Movement,18,1957,1957,21.6,1957,1,308000018
+Grenada,308,Peoples Labour Movement,19,2003,2003,2,2003,1,308000019
+Grenada,308,Peoples Progressive Movement,20,1961,1961,15.5,1961,1,308000020
 Guatemala,320,Anticommunist Unification Party,2,1999,1999,2.3,1999,1,320000002
 Guatemala,320,Authentic Integral Development,3,1995,2007,3.8,1995,4,320000003
 Guatemala,320,Civic Democratic Front,5,1984,1984,2.8,1984,1,320000005
 Guatemala,320,Concord Emergence Movement,6,1984,1984,4.4,1984,1,320000006
-Guatemala,320,Democratic Alliance,7,1984,1999,3.7,1984,2,320000007
-Guatemala,320,Democratic Freedom Revival,8,2011,2011,10.2,2011,1,320000008
+Guatemala,320,Democratic Alliance,7,1984,1984,3.7,1984,1,320000007
 Guatemala,320,Democratic Institutional Party,9,1999,1999,4.7,1999,1,320000009
 Guatemala,320,Democratic Reconciliatory Action,12,1999,1999,3.3,1999,1,320000012
 Guatemala,320,Democratic Union,13,1995,2007,5.2,1995,3,320000013
-Guatemala,320,Encounter for Guatemala,14,2007,2007,4.6,2007,1,320000014
+Guatemala,320,Encounter for Guatemala,14,2007,2015,5.4,2015,2,320000014
+Guatemala,320,Frente de Convergencia Nacional,27,2011,2015,8,2015,2,320000027
+Guatemala,320,Fuerza,70,2015,2015,2,2015,1,320000070
 Guatemala,320,Grand National Alliance,15,2007,2011,17.2,2007,2,320000015
 Guatemala,320,Guatemalan Christian Democracy,16,1984,2007,17.9,1984,5,320000016
 Guatemala,320,Guatemalan National Revolutionary Unit,19,2003,2011,4.5,2003,2,320000019
 Guatemala,320,Guatemalan Reformer Party,20,1995,1995,2.3,1995,1,320000020
 Guatemala,320,Guatemalan Republican Front,21,1995,2011,37.6,1999,5,320000021
-Guatemala,320,National Advancement Party,25,1995,2011,26.4,1995,5,320000025
+Guatemala,320,Libertad DemocrÃ¡tica Renovada,8,2011,2015,19.3,2015,2,320000008
+Guatemala,320,Movimiento Nueva RepÃºblica,72,2015,2015,5.6,2015,1,320000072
 Guatemala,320,National Center Union,26,1984,2011,27.9,1984,5,320000026
 Guatemala,320,National Liberation Movement Party,30,1995,1999,4.1,1995,2,320000030
 Guatemala,320,National Renovator Party,33,1984,1984,12.6,1984,1,320000033
-Guatemala,320,National Unity of Hope,38,2003,2011,22.2,2007,3,320000038
 Guatemala,320,New Guatemala Democratic Front Democratic Votes,40,1995,1999,7.3,1995,2,320000040
+Guatemala,320,Partido de Avanzada Nacional,25,1995,2015,26.4,1995,6,320000025
+Guatemala,320,Partido PolÃ­tico Compromiso RenovaciÃ³n y Orden-Partido Unionista,73,2015,2015,9,2015,1,320000073
+Guatemala,320,Partido Republicano Institucional,74,2015,2015,8,2015,1,320000074
 Guatemala,320,Populist Party,46,1984,2011,27.1,2011,5,320000046
 Guatemala,320,Progressive Liberator Party,47,1995,2003,3.9,1999,3,320000047
-Guatemala,320,Renovation and Order Compromise,49,2011,2011,7.9,2011,1,320000049
+Guatemala,320,Renovation and Order Compromise,49,2011,2015,7.9,2011,2,320000049
 Guatemala,320,Revolutionary Party,50,1984,1984,17.9,1984,1,320000050
 Guatemala,320,Social Action Center,53,2007,2011,4.7,2007,2,320000053
-Guatemala,320,Unionist,60,2011,2011,2.8,2011,1,320000060
-Guatemala,320,Unionist Party,61,2003,2007,6.7,2007,2,320000061
+Guatemala,320,UniÃ³n del Cambio Nacional,75,2015,2015,8,2015,1,320000075
+Guatemala,320,Unidad Nacional de la Esperanza,43,2011,2015,10.6,2015,2,320000043
+Guatemala,320,Unidad Nacional de la Esperanza,38,2003,2015,22.2,2007,4,320000038
+Guatemala,320,Unionist Party,60,2003,2011,6.7,2007,3,320000060
 Guatemala,320,United Front of the Revolution,62,1984,1984,4.5,1984,1,320000062
 Guatemala,320,Unity National Front,64,1999,1999,2,1999,1,320000064
+Guatemala,320,Winaq-Unidad Revolucionaria Nacional Guatemalteca,71,2015,2015,2.1,2015,1,320000071
 Guinea,324,Guinée pour Tous,7,2013,2013,2.5,2013,1,324000007
 Guinea,324,L'Union des Forces Républicaines,10,2013,2013,8.2,2013,1,324000010
 Guinea,324,Parti de l'Espoir pour le Développement National,17,2013,2013,2.6,2013,1,324000017
@@ -875,12 +933,11 @@ Guyana,328,the united force,20,1961,2015,16.4,1961,6,328000020
 Guyana,328,united democratic party,21,1957,1957,8.2,1957,1,328000021
 Honduras,340,LIBRE,8,2013,2013,27.5,2013,1,340000008
 Honduras,340,PAC,10,2013,2013,15.2,2013,1,340000010
-Honduras,340,partido de innovaci—n y unidad,1,1980,2005,5.4,2005,7,340000001
-Honduras,340,partido dem—crata cristiano de honduras,2,1981,2013,5.1,2005,8,340000002
+Honduras,340,partido de innovacin y unidad,1,1980,2013,6.4,2009,9,340000001
+Honduras,340,partido demcrata cristiano de honduras,2,1981,2013,5.1,2005,8,340000002
 Honduras,340,partido liberal de honduras,3,1980,2013,53.9,1981,9,340000003
 Honduras,340,partido nacional de honduras,4,1980,2013,53.4,2009,9,340000004
-Honduras,340,partido unificaci—n democr‡tica,5,1997,2013,6.2,2005,5,340000005
-Honduras,340,PIyUSD,12,2009,2013,6.4,2009,2,340000012
+Honduras,340,partido unificacin democrtica,5,1997,2013,6.2,2005,5,340000005
 Hungary,348,agrárszövetség,1,1990,1994,3,1990,2,348000001
 Hungary,348,center of solidarity for hungary,70,2002,2002,3.7,2002,1,348000070
 Hungary,348,christian democratic people's party,18,1990,1998,7.2,1994,3,348000018
@@ -900,38 +957,40 @@ Hungary,348,szabad demokraták szövetsége,52,1990,2006,21.6,1990,5,348000052
 Hungary,348,workers' party of hungary,42,1994,2010,3.9,1998,5,348000042
 Iceland,352,alþýðubandalag,1,1971,1995,22.9,1978,8,352000001
 Iceland,352,alþýðuflokkur,2,1916,1995,22.7,1926,29,352000002
+Iceland,352,Ãslandshreyfingarinnar,39,2007,2007,3.3,2007,1,352000039
 Iceland,352,bændaflokkur,3,1916,1916,8.5,1916,2,352000003
 Iceland,352,bændaflokkur,4,1934,1934,6.8,1934,1,352000004
 Iceland,352,bandalag jafnaðarmanna,5,1983,1983,7.3,1983,1,352000005
+Iceland,352,Bjartrar framtÃ­Ã°ar,31,1999,2016,18.4,1999,3,352000031
 Iceland,352,borgaraflokkur,6,1923,1923,56.1,1923,1,352000006
 Iceland,352,borgaraflokkur,7,1987,1987,10.9,1987,1,352000007
-Iceland,352,Civic Movement,33,2009,2009,7.2,2009,1,352000033
-Iceland,352,Dawn,34,2013,2013,3.1,2013,1,352000034
-Iceland,352,Democracy Watch,35,2013,2013,2.5,2013,1,352000035
+Iceland,352,Borgarahreyfingarinnar,33,2009,2009,7.2,2009,1,352000033
+Iceland,352,DÃ¶gunar,34,2013,2016,3.1,2013,2,352000034
 Iceland,352,elected,3997,1874,1914,100,1874,11,352003997
-Iceland,352,framsóknarflokkur,8,1919,1995,44.9,1926,28,352000008
+Iceland,352,Flokks fÃ³lksins,50,2016,2016,3.5,2016,1,352000050
+Iceland,352,Flokks heimilanna,37,2013,2013,3,2013,1,352000037
+Iceland,352,framsóknarflokkur,8,1919,2016,44.9,1926,33,352000008
+Iceland,352,FrjÃ¡lslynda flokksins,41,1999,2009,7.4,2003,4,352000041
 Iceland,352,frjálslyndi flokkurinn,9,1926,1926,9.4,1926,1,352000009
 Iceland,352,heimastjórnarflokkur,10,1916,1922,57.4,1919,4,352000010
-Iceland,352,Households Party,37,2013,2013,3,2013,1,352000037
-Iceland,352,Icelandic Movement,39,2007,2007,3.3,2007,1,352000039
 Iceland,352,Íhaldsflokkur,11,1926,1927,55.1,1926,3,352000011
 Iceland,352,kommúnistaflokkur,12,1933,1937,8,1933,3,352000012
 Iceland,352,kvennalisti,13,1922,1926,24.8,1922,2,352000013
+Iceland,352,LÃ½Ã°rÃ¦Ã°isvaktarinnar,35,2013,2013,2.5,2013,1,352000035
 Iceland,352,landsmálaflokkur þjóðveldismanna,14,1942,1942,2.2,1942,1,352000014
-Iceland,352,Left-Green Movement,40,1999,2013,21.7,2009,5,352000040
-Iceland,352,Liberal Party,41,1999,2009,7.4,2003,4,352000041
 Iceland,352,lýðveldisflokkur,15,1953,1953,3.3,1953,1,352000015
 Iceland,352,Óháðir bændur,16,1916,1916,22.1,1916,2,352000016
-Iceland,352,Pirate Party,44,2013,2013,5.1,2013,1,352000044
-Iceland,352,Progressive Party,31,1999,2013,32.7,2013,5,352000031
+Iceland,352,PÃ­rata,44,2013,2016,14.5,2016,2,352000044
 Iceland,352,samtök frjálslyndra og vinstri manna,17,1971,1974,8.9,1971,2,352000017
 Iceland,352,samtök um kvennalista,19,1983,1995,10.1,1987,4,352000019
-Iceland,352,sjáfstæðisflokkur ‘þversum’,20,1916,1916,7.4,1916,2,352000020
+Iceland,352,SjÃ¡lfstÃ¦Ã°isflokks,22,1930,2016,50.1,1937,28,352000022
+Iceland,352,sjáfstæðisflokkur þversum,20,1916,1916,7.4,1916,2,352000020
 Iceland,352,sjálfstæðisflokkur,21,1916,1922,12.7,1919,3,352000021
-Iceland,352,sjálfstæðisflokkur,22,1930,2013,50.1,1937,27,352000022
-Iceland,352,sjálfstæðisflokkur ‘langsum,23,1916,1916,22.9,1916,2,352000023
-Iceland,352,Social Democratic Alliance,48,1999,2013,31,2003,5,352000048
+Iceland,352,sjálfstæðisflokkur langsum,23,1916,1916,22.9,1916,2,352000023
+Iceland,352,Social Democratic Alliance,48,1999,2016,31,2003,6,352000048
 Iceland,352,sósíalistaflokkur,24,1942,1953,19.5,1949,5,352000024
+Iceland,352,ViÃ°reisnar,52,2016,2016,10.5,2016,1,352000052
+Iceland,352,Vinstri hreyfingarinnar - grÃ¦ns framboÃ°s,40,1999,2016,21.7,2009,6,352000040
 Iceland,352,"Þióðvaki, hreyfing fólksins - Þióðvaki",27,1995,1995,7.2,1995,1,352000027
 Iceland,352,Þióðvarnarflokkur,28,1953,1959,6,1953,4,352000028
 India,356,aam aadmi party,4,2014,2014,2,2014,1,356000004
@@ -939,25 +998,18 @@ India,356,all india anna dravida munnetra kazhagam,98,1977,2014,3.3,2014,12,3560
 India,356,all india trinamool congress,133,1999,2014,3.8,2014,4,356000133
 India,356,asom gana parishad,169,1996,2014,2.6,1996,6,356000169
 India,356,bahujan samaj party,194,1989,2014,19.7,1992,10,356000194
-India,356,bharatiya jana sang,244,1967,1967,9.3,1967,1,356000244
-India,356,bharatiya jana sangh,245,1971,1971,7.4,1971,1,356000245
-India,356,bharatiya janata party,246,1989,2014,31,2014,10,356000246
-India,356,bharatiya janta party,247,1984,1985,7.7,1984,3,356000247
+India,356,bharatiya jana sangh,244,1962,1971,9.3,1967,3,356000244
+India,356,bharatiya janata party,246,1984,2014,31,2014,13,356000246
 India,356,bharatiya kranti dal,255,1971,1971,2.2,1971,1,356000255
 India,356,bharatiya lok dal,261,1977,1977,41.3,1977,1,356000261
 India,356,communist party of india,373,1962,2014,9.9,1962,18,356000373
 India,356,communist party of india (marxist),380,1967,2014,6.9,1996,17,356000380
-India,356,congress,382,1962,1962,44.7,1962,1,356000382
-India,356,dravida mummetra kazhagam,408,1984,1984,2.4,1984,1,356000408
-India,356,dravida munetra kazhagam,409,1962,1962,2,1962,1,356000409
-India,356,dravida munnetra kazhagam,410,1967,2014,3.8,1967,12,356000410
-India,356,dravida munnetra kazhagamq,411,1971,1971,3.8,1971,1,356000411
+India,356,dravida munnetra kazhagam,408,1962,2014,3.8,1967,15,356000408
 India,356,indian congress (socialist),492,1984,1998,6.1,1985,5,356000492
-India,356,indian natioanl congress (i),502,1980,1980,42.7,1980,1,356000502
-India,356,indian national congress,503,1967,2014,49.3,1992,16,356000503
+India,356,indian national congress,503,1962,2014,49.3,1992,17,356000503
+India,356,indian national congress (I),502,1980,1980,42.7,1980,1,356000502
 India,356,indian national congress (organisation),506,1971,1971,10.4,1971,1,356000506
 India,356,indian national congress (u),507,1980,1980,5.3,1980,1,356000507
-India,356,jan sangh,562,1962,1962,6.4,1962,1,356000562
 India,356,janata dal,573,1989,1998,17.8,1989,6,356000573
 India,356,janata dal (united),577,1999,2014,3.1,1999,4,356000577
 India,356,janata party,579,1984,2009,6.9,1984,11,356000579
@@ -968,8 +1020,7 @@ India,356,nationalist congress party,788,1999,2014,2.3,1999,4,356000788
 India,356,plains tribals council of assam,846,1985,1998,4.2,1985,3,356000846
 India,356,praja socialist party,859,1962,1971,6.8,1962,3,356000859
 India,356,rashtriya janata dal,930,1998,2014,2.8,1998,5,356000930
-India,356,republican party,1002,1962,1962,2.8,1962,1,356001002
-India,356,republican party of india,1003,1967,2014,2.5,1967,13,356001003
+India,356,republican party of india,1002,1962,2014,2.8,1962,14,356001002
 India,356,samajwadi party,1040,1996,2014,4.9,1998,7,356001040
 India,356,samata party,1043,1996,2014,2.4,1996,6,356001043
 India,356,samyukta socialist party,1054,1967,1971,4.9,1967,2,356001054
@@ -977,11 +1028,9 @@ India,356,shiromani akali dal,1079,1971,2014,37.2,1985,11,356001079
 India,356,shiromani akali dal (simaranjit singh mann),1083,1991,1992,2.6,1992,2,356001083
 India,356,shivsena,1088,1991,2014,2.1,1996,8,356001088
 India,356,socialist,1111,1962,1962,2.7,1962,1,356001111
-India,356,swatantra,1136,1962,1962,7.9,1962,1,356001136
-India,356,swatantra party,1138,1967,1971,8.7,1967,2,356001138
+India,356,swatantra party,1136,1962,1971,8.7,1967,3,356001136
 India,356,tamil maanila congress (moopanar),1141,1996,1999,5.6,1996,4,356001141
-India,356,telugu desam,1157,1984,2014,4.3,1984,7,356001157
-India,356,telugu desam party,1158,1996,1998,5.7,1996,3,356001158
+India,356,telugu desam party,1157,1984,2014,5.7,1996,10,356001157
 India,356,west bengal trinamool congress,1219,1998,1998,2.4,1998,1,356001219
 India,356,yuvajana sramika rythu congress party,1227,2014,2014,2.5,2014,1,356001227
 Indonesia,360,partai amanat nasional,3,1999,2014,7.5,2014,4,360000003
@@ -1011,19 +1060,19 @@ Ireland,372,coalition treaty,6,1922,1922,38.5,1922,1,372000006
 Ireland,372,cumann na ngaedheal,7,1923,1933,39,1923,5,372000007
 Ireland,372,democratic left,8,1992,1997,2.8,1992,2,372000008
 Ireland,372,farmers' party,9,1922,1954,12.1,1923,11,372000009
-Ireland,372,fianna fáil,10,1927,2011,51.9,1938,27,372000010
-Ireland,372,fine gael,11,1937,2011,39.2,1982,23,372000011
-Ireland,372,green party,12,1997,2011,2.8,1997,4,372000012
-Ireland,372,labour party,13,1922,2011,21.3,1922,29,372000013
+Ireland,372,fianna fÃ¡il,10,1927,2016,51.9,1938,28,372000010
+Ireland,372,fine gael,11,1937,2016,39.2,1982,24,372000011
+Ireland,372,green party,12,1997,2016,2.8,1997,5,372000012
+Ireland,372,labour party,13,1922,2016,21.3,1922,30,372000013
 Ireland,372,national centre party,15,1933,1933,9.2,1933,1,372000015
 Ireland,372,national labour,17,1944,1948,2.7,1944,2,372000017
 Ireland,372,national league,18,1927,1927,7.3,1927,2,372000018
 Ireland,372,progressive democratic party,22,1987,2007,11.8,1987,6,372000022
 Ireland,372,republicans,24,1923,1923,27.4,1923,1,372000024
-Ireland,372,sinn féin,25,1927,2011,5.3,1957,8,372000025
-Ireland,372,workers' party,27,1987,2011,5,1989,6,372000027
+Ireland,372,sinn fÃ©in,25,1927,2016,12.1,2016,9,372000025
+Ireland,372,workers' party,27,1987,2016,5,1989,7,372000027
 Israel,376,center party,21,1999,1999,5,1999,1,376000021
-Israel,376,change - the secular movemen,22,1999,2006,12.3,2003,3,376000022
+Israel,376,change - the secular movement,22,1999,2006,12.3,2003,3,376000022
 Israel,376,change/the centre party,23,1981,1988,2.6,1984,3,376000023
 Israel,376,democratic list for israeli arabs,31,1951,1955,2.4,1951,2,376000031
 Israel,376,democratic movement for change,32,1977,1977,11.6,1977,1,376000032
@@ -1046,10 +1095,9 @@ Israel,376,kulanu,229,2015,2015,7.5,2015,1,376000229
 Israel,376,labor union party/zion workers,85,1955,1961,8.1,1955,3,376000085
 Israel,376,land of israel workers' party,87,1949,1961,38.2,1959,5,376000087
 Israel,376,liberal party,91,1961,1961,13.6,1961,1,376000091
-Israel,376,likud,93,1988,2009,31.1,1988,6,376000093
-Israel,376,likud,230,2015,2015,23.4,2015,1,376000230
-Israel,376,meretz,99,1999,1999,7.7,1999,1,376000099
-Israel,376,meretz,100,2006,2015,4.5,2013,3,376000100
+Israel,376,likud,93,1988,2015,31.1,1988,7,376000093
+Israel,376,Meretz (i),99,1999,1999,7.7,1999,1,376000099
+Israel,376,Meretz (i),100,2006,2015,4.5,2013,3,376000100
 Israel,376,movement for civil rights and peace,104,1973,1988,4.3,1988,5,376000104
 Israel,376,national democratic assembly,113,2003,2013,2.6,2013,4,376000113
 Israel,376,national list,115,1969,1969,3.1,1969,1,376000115
@@ -1075,8 +1123,7 @@ Italy,380,blocco nazionale per la libertà,3,1946,1946,2.8,1946,1,380000003
 Italy,380,combattenti,5,1919,1921,5.4,1919,2,380000005
 Italy,380,democrazia cristiana,8,1946,1992,48.5,1948,12,380000008
 Italy,380,democrazia europea,130,2001,2001,2.4,2001,1,380000130
-Italy,380,forza italia,9,1994,1996,11.4,1994,2,380000009
-Italy,380,forza italia,114,2001,2006,29.4,2001,2,380000114
+Italy,380,forza italia,9,1994,2006,29.4,2001,4,380000009
 Italy,380,fratelli d'italia,62,2013,2013,2,2013,1,380000062
 Italy,380,fronte dell'uomo qualunque,10,1946,1946,5.3,1946,1,380000010
 Italy,380,il girasole,132,2001,2001,2.2,2001,1,380000132
@@ -1095,8 +1142,7 @@ Italy,380,movimento sociale italiano-destra nazionale,22,1972,1992,8.7,1972,6,38
 Italy,380,pannella-bonino,141,2001,2001,2.2,2001,1,380000141
 Italy,380,partito comunista italiano,25,1921,2006,34.4,1976,13,380000025
 Italy,380,partito della rifondazione comunista,27,1992,2006,5.8,2006,5,380000027
-Italy,380,partito democratico,104,2008,2008,33.2,2008,1,380000104
-Italy,380,partito democratico,79,2013,2013,25.4,2013,1,380000079
+Italy,380,partito democratico,79,2008,2013,33.2,2008,2,380000079
 Italy,380,partito democratico della sinistra,29,1992,2001,16.6,2001,4,380000029
 Italy,380,partito liberale italiano,32,1953,2008,7,1963,12,380000032
 Italy,380,partito monarchico popolare,34,1958,1958,2.6,1958,1,380000034
@@ -1109,9 +1155,8 @@ Italy,380,partito radicale,40,1979,1979,3.4,1979,1,380000040
 Italy,380,partito repubblicano italiano,41,1919,2013,5.1,1983,15,380000041
 Italy,380,partito socialdemocratico italiano,43,1953,1992,6.1,1963,9,380000043
 Italy,380,partito socialista dei lavoratori italiani,44,1948,1948,7.1,1948,1,380000044
-Italy,380,partito socialista italiano,46,1946,2008,20.7,1946,12,380000046
 Italy,380,partito socialista italiano di unità proletaria,47,1968,1968,4.4,1968,1,380000047
-Italy,380,partito socialista ufficiale,49,1919,1921,32.3,1919,2,380000049
+Italy,380,partito socialista ufficiale,46,1919,2008,32.3,1919,14,380000046
 Italy,380,partito socialista unificato,50,1968,1968,14.5,1968,1,380000050
 Italy,380,patto segni,51,1994,1994,2.3,1994,1,380000051
 Italy,380,rivoluzione civile,87,2013,2013,2.3,2013,1,380000087
@@ -1119,47 +1164,51 @@ Italy,380,scelta civica con monti per l'italia,88,2013,2013,8.3,2013,1,380000088
 Italy,380,sinistra ecologica libertà,89,2013,2013,3.2,2013,1,380000089
 Italy,380,unione di centro,92,2006,2013,6.8,2006,3,380000092
 Italy,380,verdi,54,1987,2006,2.8,1992,5,380000054
+Ivory Coast,384,Front Populaire Ivoirien,40,2016,2016,5.8,2016,1,384000040
 Ivory Coast,384,Parti DÃ©mocratique de CÃ´te d'Ivoire- Rassemblement DÃ©mocratique Africain,15,2011,2011,29.3,2011,1,384000015
 Ivory Coast,384,Rassemblement des RÃ©publicains,26,2011,2011,42.5,2011,1,384000026
-Ivory Coast,384,Union pour la DÃ©mocratie et la Paix en CÃ´te d'Ivoire,31,2011,2011,2.8,2011,1,384000031
+Ivory Coast,384,Union pour la DÃ©mocratie et la Paix en CÃ´te d'Ivoire,31,2011,2016,3,2016,2,384000031
 Jamaica,388,christian conscience movement,4,1983,1983,2.7,1983,1,388000004
 Jamaica,388,farmers' party,7,1955,1955,3.9,1955,1,388000007
 Jamaica,388,jamaica democratic party,10,1944,1944,4.1,1944,1,388000010
 Jamaica,388,jamaica labour party,1,1944,2016,89.7,1983,17,388000001
 Jamaica,388,national democratic movement,15,1997,2016,4.8,1997,5,388000015
 Jamaica,388,people's national party,2,1944,2016,60.1,1993,16,388000002
-Japan,392,Democratic Party of Japan,73,1996,2014,36.7,2003,4,392000073
+Japan,392,Democratic Party of Japan,73,1996,2014,43.1,2009,7,392000073
 Japan,392,Innovation Party,50,2014,2014,15.7,2014,1,392000050
+Japan,392,Japan Future Party,35,2012,2012,5.7,2012,1,392000035
 Japan,392,Japan Socialist Party,18,1947,2e3,27.7,1947,3,392000018
-Japan,392,Japanese Communist Party,16,1947,2014,18.9,2000,22,392000016
+Japan,392,Japanese Communist Party,16,1947,2014,18.9,2e3,25,392000016
+Japan,392,Japanese Restoration Party,34,2012,2012,20.4,2012,1,392000034
 Japan,392,jiyû tô bûnto ha,5,1953,1953,5.3,1953,1,392000005
 Japan,392,kaishin tô,6,1952,1953,16.6,1953,2,392000006
 Japan,392,kokumin kyôdô tô,7,1947,1949,4.2,1947,2,392000007
 Japan,392,kômei tô,8,1967,1993,6,1976,10,392000008
-Japan,392,Komeito,51,2e3,2014,13.7,2014,3,392000051
-Japan,392,Liberal Democratic Party,3,1958,2014,75.9,1960,17,392000003
-Japan,392,Liberal League,52,1996,2003,8.6,2000,3,392000052
+Japan,392,Komeito,51,2e3,2014,13.7,2014,6,392000051
+Japan,392,Liberal Democratic Party,3,1958,2014,75.9,1960,20,392000003
+Japan,392,Liberal League,52,1996,2003,8.6,2e3,3,392000052
 Japan,392,Liberal Party,4,1952,2e3,72.6,1952,4,392000004
 Japan,392,minshu jiyû tô,10,1949,1949,64.9,1949,1,392000010
 Japan,392,minshu shakai tô,11,1960,1993,3.8,1969,12,392000011
 Japan,392,minshu tô,12,1947,1949,31.5,1947,2,392000012
 Japan,392,New Frontier Party,55,1996,1996,25.1,1996,1,392000055
+Japan,392,New Party Japan,20,1993,2009,5,1993,3,392000020
 Japan,392,New Socialist Party,57,1996,2e3,2.7,1996,2,392000057
 Japan,392,nihon jiyû tô,15,1947,1947,31.8,1947,1,392000015
 Japan,392,nihon minshu tô,17,1955,1955,44.9,1955,1,392000017
 Japan,392,nihon shakai tô,19,1958,1993,25.6,1958,13,392000019
-Japan,392,nihon shintô,20,1993,1993,5,1993,1,392000020
 Japan,392,Party for Japanese Kokoro,60,2014,2014,2.7,2014,1,392000060
 Japan,392,saha shakai tô,24,1952,1955,9.2,1955,3,392000024
 Japan,392,shin jiyû tô,26,1976,1986,2.3,1976,5,392000026
 Japan,392,shinsei tô,27,1993,1993,6.6,1993,1,392000027
-Japan,392,Social Democratic Party,75,1996,2014,4.6,2000,4,392000075
+Japan,392,Social Democratic Party,75,1996,2014,5.5,2005,7,392000075
 Japan,392,uha shakai tô,29,1952,1955,9.4,1955,3,392000029
-Kazakhstan,398,Agrarian Peopleâ€™s Democratic Patriotic Party,9,2016,2016,2,2016,1,398000009
+Japan,392,Your Party,33,2009,2012,8.7,2012,2,392000033
+Kazakhstan,398,Agrarian Peopleâs Democratic Patriotic Party,9,2016,2016,2,2016,1,398000009
 Kazakhstan,398,All-National Social-Democratic Party,1,2007,2016,4.5,2007,3,398000001
-Kazakhstan,398,Communist People’s Party of Kazakhstan,2,2007,2016,7.2,2012,3,398000002
+Kazakhstan,398,Communist Peoples Party of Kazakhstan,2,2007,2016,7.2,2012,3,398000002
 Kazakhstan,398,Democratic Party of Kazakhstan Bright Path,4,2007,2016,7.5,2012,3,398000004
-Kazakhstan,398,People’s Democratic Party,7,2007,2016,88.4,2007,3,398000007
+Kazakhstan,398,Peoples Democratic Party,7,2007,2016,88.4,2007,3,398000007
 Kenya,404,african people's party,1,1963,1963,8.6,1963,1,404000001
 Kenya,404,Alliance Party of Kenya,33,2013,2013,2.4,2013,1,404000033
 Kenya,404,baluhya political union,2,1961,1963,5.2,1961,2,404000002
@@ -1194,26 +1243,24 @@ Korea,410,hannara-dang,68,2e3,2012,40.5,2008,4,410000068
 Korea,410,jayu minju yeonhap,78,1996,2004,16.2,1996,3,410000078
 Korea,410,jayu minju-dang,79,1963,1963,8.5,1963,1,410000079
 Korea,410,jayu seonjin-dang,203,2008,2012,6.3,2008,2,410000203
-Korea,410,jayu-dang,80,1954,1960,45.5,1958,3,410000080
-Korea,410,jayu-dang,81,1963,1967,3.6,1967,2,410000081
+Korea,410,jayu-dang,80,1954,1967,45.5,1958,5,410000080
 Korea,410,jinbo shin-dang,206,2008,2012,2.1,2008,2,410000206
 Korea,410,min ju tong hap-dang,195,2012,2012,37.2,2012,1,410000195
 Korea,410,mingwon-dang,100,1981,1985,6.7,1981,2,410000100
 Korea,410,minjeong-dang,101,1963,1963,22.1,1963,1,410000101
 Korea,410,minju gonghwa-dang,106,1963,1978,53.5,1967,5,410000106
 Korea,410,minju gungmin-dang,108,1950,1954,13.2,1950,2,410000108
-Korea,410,minju gungmin-dang,107,2e3,2004,3.7,2000,2,410000107
+Korea,410,minju gungmin-dang,107,2e3,2004,3.7,2e3,2,410000107
 Korea,410,minju hanguk-dang,109,1981,1988,21.6,1981,3,410000109
 Korea,410,minju jayu-dang,111,1992,1992,38.7,1992,1,410000111
 Korea,410,minju jeongui-dang,112,1981,1988,35.6,1981,3,410000112
 Korea,410,minju nodong-dang,113,2e3,2008,8.7,2004,3,410000113
 Korea,410,minju sahoe-dang,115,1981,1981,3.2,1981,1,410000115
 Korea,410,minju tongil-dang,116,1973,1978,8.6,1973,2,410000116
-Korea,410,minju-dang,118,1958,1960,49.2,1960,2,410000118
-Korea,410,minju-dang,119,1963,1967,15.7,1963,2,410000119
+Korea,410,minju-dang,118,1958,1967,49.2,1960,4,410000118
 Korea,410,minju-dang,120,1992,1992,29,1992,1,410000120
 Korea,410,pyunghwa minju-dang,132,1988,1988,19.4,1988,1,410000132
-Korea,410,saecheonnyeon minju-dang,133,2e3,2004,35.9,2000,2,410000133
+Korea,410,saecheonnyeon minju-dang,133,2e3,2004,35.9,2e3,2,410000133
 Korea,410,saejeongchi gungminhoeui,134,1996,1996,25.3,1996,1,410000134
 Korea,410,saenuri-dang,199,2012,2012,43,2012,1,410000199
 Korea,410,sahoe daejung-dang,135,1960,1960,6.3,1960,1,410000135
@@ -1238,74 +1285,89 @@ Kosovo,1002,New Kosovo Alliance,19,2007,2007,12.3,2007,1,1002000019
 Kosovo,1002,New Spirit Party,20,2010,2010,2.2,2010,1,1002000020
 Kosovo,1002,Reformist Party ORA,23,2007,2007,4.2,2007,1,1002000023
 Kosovo,1002,Self-Determination,24,2010,2010,12.7,2010,1,1002000024
-Latvia,428,apvienba tcvzernei un brivibai,1,1998,1998,14.7,1998,1,428000001
-Latvia,428,jauna partija,6,1998,2002,24,2002,2,428000006
-Latvia,428,jaunais laiks,7,2006,2006,16.5,2006,1,428000007
-Latvia,428,latvijas pirmâ partija,18,2002,2002,13.6,2002,1,428000018
-Latvia,428,latvijas socialdemokratiska stradnieku partija,19,1998,2006,3.5,2006,2,428000019
-Latvia,428,latvijas socialdemokratu apvienba,20,1998,1998,12.9,1998,1,428000020
-Latvia,428,latvijas zemnieku savieniba,22,1998,1998,2.5,1998,1,428000022
-Latvia,428,politiska patriotiska apvieniba 'dzimtene',30,2006,2006,2.1,2006,1,428000030
-Latvia,428,politisko organizaciju apvieniba,31,2002,2002,19.1,2002,1,428000031
-Latvia,428,saskanas centrs,33,2006,2006,14.5,2006,1,428000033
-Latvia,428,savieniba latvijas ceio,34,1998,2002,18.1,1998,2,428000034
-Latvia,428,tautas kustiba lavtvijai - zigerista partija,40,1998,1998,23,1998,1,428000040
-Latvia,428,tautas partija,41,2002,2006,25.7,2006,2,428000041
-Latvia,428,tautas saskaoas partija,42,1998,2002,14.2,1998,2,428000042
-Latvia,428,zalo un zemnieku savieniba,45,2002,2006,16.8,2006,2,428000045
-Lesotho,426,All Basotho Convention/Kobo Tata ea Basotho,2,2007,2015,37.7,2015,3,426000002
+Latvia,428,DemokrÄtiskÄ partija Saimnieks,3,1995,1998,16,1995,2,428000003
+Latvia,428,JaunÄ partija,6,1998,1998,7.3,1998,1,428000006
+Latvia,428,Jaunais laiks,7,2002,2006,24.8,2002,2,428000007
+Latvia,428,LatvieÅ¡u Zemnieku SavienÄ«ba,22,1995,1998,2.4,1998,2,428000022
+Latvia,428,Latvijas PirmÄ Partija,18,2002,2002,9.3,2002,1,428000018
+Latvia,428,Latvijas ReÄ£ionu ApvienÄ«ba,53,2014,2014,7.2,2014,1,428000053
+Latvia,428,Latvijas SociÄldemokrÄtiskÄ StrÄdnieku partija,19,2002,2011,3.8,2002,3,428000019
+Latvia,428,Latvijas SociÄldemokrÄtu apvienÄ«ba,20,1998,1998,12.8,1998,1,428000020
+Latvia,428,Latvijas SociÄlistiskÄ partija,54,1995,1995,4,1995,1,428000054
+Latvia,428,Latvijas VienÄ«bas partija,21,1995,1998,4.3,1995,2,428000021
+Latvia,428,No sirds Latvijai,56,2014,2014,6.2,2014,1,428000056
+Latvia,428,Par cilvÄka tiesÄ«bÄm vienotÄ LatvijÄ,31,2002,2011,20.1,2002,4,428000031
+Latvia,428,"PolitiskÄ patriotiskÄ apvienÄ«ba ""Dzimtene""",30,2006,2006,2.3,2006,1,428000030
+Latvia,428,SaskaÅa -- sociÄldemokrÄtiskÄ partija,63,2014,2014,25.4,2014,1,428000063
+Latvia,428,SaskaÅas Centrs,33,2006,2011,29.9,2011,3,428000033
+Latvia,428,"SavienÄ«ba ""Latvijas ceÄ¼Å¡""",34,1995,2002,18,1998,3,428000034
+Latvia,428,Tautas kustÄ«ba Latvijai - ZÄ«gerista partija,40,1995,1998,15.1,1995,2,428000040
+Latvia,428,Tautas partija,41,1998,2006,21.5,1998,3,428000041
+Latvia,428,Tautas SaskaÅas partija,42,1995,1998,13.8,1998,2,428000042
+Latvia,428,TÄvzemei un BrÄ«vÄ«bai,1,1995,1995,13.2,1995,1,428000001
+Latvia,428,VienotÄ«ba,67,2010,2014,33.1,2010,3,428000067
+Latvia,428,ZaÄ¼o un Zemnieku savienÄ«ba,45,2002,2014,18.9,2010,5,428000045
+Latvia,428,Zatlera Reformu partija,68,2011,2011,20.6,2011,1,428000068
+Lesotho,426,All Basotho Convention/Kobo Tata ea Basotho,2,2007,2017,40.6,2017,4,426000002
+Lesotho,426,Alliance of Democrats,43,2017,2017,7.4,2017,1,426000043
 Lesotho,426,Basotho Congress Party,6,1965,2012,73.4,1993,7,426000006
-Lesotho,426,Basotho National Party,8,1965,2015,42.3,1970,8,426000008
-Lesotho,426,Basutoland African Congress,9,2002,2015,3,2002,2,426000009
-Lesotho,426,Democratic Congress,11,2012,2015,39.4,2012,2,426000011
+Lesotho,426,Basotho National Party,8,1965,2017,42.3,1970,9,426000008
+Lesotho,426,Basutoland African Congress,9,2002,2002,3,2002,1,426000009
+Lesotho,426,Democratic Congress,11,2012,2017,39.5,2012,3,426000011
 Lesotho,426,Lesotho Communist Party,16,1970,2002,2.9,2002,2,426000016
-Lesotho,426,Lesotho Congress for Democracy,17,1998,2015,60.9,1998,5,426000017
-Lesotho,426,Lesotho People’s Congress,21,2002,2015,3.1,2002,3,426000021
-Lesotho,426,Lesotho Workers Party,22,2002,2015,12.4,2007,4,426000022
+Lesotho,426,Lesotho Congress for Democracy,17,1998,2017,60.9,1998,6,426000017
+Lesotho,426,Lesotho Peoples Congress,21,2002,2017,3.1,2002,4,426000021
+Lesotho,426,Lesotho Workers Party,22,2002,2017,12.5,2007,5,426000022
 Lesotho,426,Marema-Tlou,24,1965,1965,2,1965,1,426000024
-Lesotho,426,Marematlou Freedom Party,25,1965,2015,16.7,1965,8,426000025
-Lesotho,426,National Independent Party,27,1993,2015,25.7,2007,6,426000027
-Lesotho,426,Popular Front for Democracy/Khoeetsa ea Sechaba,30,1993,2015,2,2012,6,426000030
-Liberia,430,congress for democratic change,1,2005,2011,16.9,2005,2,430000001
+Lesotho,426,Marematlou Freedom Party,25,1965,2017,16.7,1965,9,426000025
+Lesotho,426,Movement for Economic Change,49,2017,2017,5.1,2017,1,426000049
+Lesotho,426,National Independent Party,27,1993,2017,26.5,2007,7,426000027
+Lesotho,426,Popular Front for Democracy/Khoeetsa ea Sechaba,30,1993,2017,2.3,2017,7,426000030
+Liberia,430,All Liberian Party,32,2017,2017,5,2017,1,430000032
+Liberia,430,Alternative National Congress,33,2017,2017,6.1,2017,1,430000033
+Liberia,430,congress for democratic change,1,2005,2017,16.9,2005,3,430000001
 Liberia,430,free democratic party,2,2005,2005,2.1,2005,1,430000002
-Liberia,430,liberal party,5,2005,2005,13.4,2005,1,430000005
-Liberia,430,Liberia Transformation Party,24,2011,2011,4.9,2011,1,430000024
-Liberia,430,Liberty Party,22,2011,2011,9.9,2011,1,430000022
-Liberia,430,Movement for Progressive Change,25,2011,2011,2.5,2011,1,430000025
+Liberia,430,Liberia Transformation Party,24,2011,2017,4.9,2011,2,430000024
+Liberia,430,liberty party,22,2005,2017,13.4,2005,3,430000022
+Liberia,430,Movement for Democracy and Reconstruction,38,2017,2017,3.7,2017,1,430000038
+Liberia,430,Movement for Economic Empowerment,39,2017,2017,3.8,2017,1,430000039
+Liberia,430,Movement for Progressive Change,25,2011,2017,2.5,2011,2,430000025
 Liberia,430,national democratic party of liberia,8,2005,2011,3.1,2005,2,430000008
 Liberia,430,national patriotic party,10,2005,2011,8.4,2005,2,430000010
 Liberia,430,national reformation party,11,2005,2011,2.4,2005,2,430000011
 Liberia,430,National Union for Democratic Progress,27,2011,2011,4.2,2011,1,430000027
 Liberia,430,new deal movement,13,2005,2005,3.8,2005,1,430000013
-Liberia,430,unity party,17,2005,2011,19.1,2011,2,430000017
+Liberia,430,People's Unification Party,41,2017,2017,5.9,2017,1,430000041
+Liberia,430,United People's Party,44,2017,2017,3.1,2017,1,430000044
+Liberia,430,unity party,17,2005,2017,19.1,2011,3,430000017
 Liechtenstein,438,Christian Social Party,1,1962,1974,10.1,1962,4,438000001
 Liechtenstein,438,Free List,2,1986,2013,13,2005,9,438000002
 Liechtenstein,438,Nonpartisan List,3,1989,1989,3.2,1989,1,438000003
 Liechtenstein,438,Patriotic Union,4,1945,2013,53.5,1982,21,438000004
-Liechtenstein,438,Progressive Citizens’ Party,5,1945,2013,54.7,1945,21,438000005
+Liechtenstein,438,Progressive Citizens Party,5,1945,2013,54.7,1945,21,438000005
 Liechtenstein,438,The Independents,6,2013,2013,15.3,2013,1,438000006
 Liechtenstein,438,Workers and Peasants Party,7,1953,1953,6.9,1953,1,438000007
 Lithuania,440,darbo partija,23,2004,2012,24.3,2004,2,440000023
 Lithuania,440,drasos kelias,44,2012,2012,8,2012,1,440000044
 Lithuania,440,fronto partija,32,2008,2008,3.2,2008,1,440000032
-Lithuania,440,krikšcioniu demokratu sajunga,1,2e3,2e3,3.1,2000,1,440000001
+Lithuania,440,krikcioniu demokratu sajunga,1,2e3,2e3,3.1,2e3,1,440000001
 Lithuania,440,liberalu ir centro sajunga,25,2004,2012,10.5,2004,3,440000025
 Lithuania,440,liberalu sajudis lietuvos respublikos,35,2008,2012,8,2012,2,440000035
-Lithuania,440,lietuvos centro sajunga,3,2e3,2e3,4.4,2000,1,440000003
-Lithuania,440,lietuvos krikšcioniu demokratu partija,5,2e3,2e3,3.8,2000,1,440000005
+Lithuania,440,lietuvos centro sajunga,3,2e3,2e3,4.4,2e3,1,440000003
+Lithuania,440,lietuvos krikcioniu demokratu partija,5,2e3,2e3,3.8,2e3,1,440000005
 Lithuania,440,lietuvos lenku rinkimu akcija,8,2e3,2012,5.9,2012,4,440000008
-Lithuania,440,lietuvos liberalu sajunga,10,2e3,2e3,16,2000,1,440000010
+Lithuania,440,lietuvos liberalu sajunga,10,2e3,2e3,16,2e3,1,440000010
 Lithuania,440,lietuvos socialdemokratu partija,36,2008,2012,17.9,2012,2,440000036
-Lithuania,440,lietuvos valstieciu ir žaliuju sajunga,49,2012,2012,4.4,2012,1,440000049
+Lithuania,440,lietuvos valstieciu ir aliuju sajunga,49,2012,2012,4.4,2012,1,440000049
 Lithuania,440,lietuvos valstieciu liaudininku sajunga,37,2008,2008,4.5,2008,1,440000037
-Lithuania,440,lietuvos valstieciu partija,16,2e3,2e3,5.2,2000,1,440000016
-Lithuania,440,naujoji sajunga,18,2e3,2008,17.1,2000,2,440000018
-Lithuania,440,nuosaikiuju konservatoriu sajunga,19,2e3,2e3,2.4,2000,1,440000019
+Lithuania,440,lietuvos valstieciu partija,16,2e3,2e3,5.2,2e3,1,440000016
+Lithuania,440,naujoji sajunga,18,2e3,2008,17.1,2e3,2,440000018
+Lithuania,440,nuosaikiuju konservatoriu sajunga,19,2e3,2e3,2.4,2e3,1,440000019
 Lithuania,440,partija tvarka ir teisingumas,39,2008,2012,12.3,2008,2,440000039
 Lithuania,440,tautos prisikelimo partija,41,2008,2008,12.2,2008,1,440000041
 Lithuania,440,tevynes atgimimas ir perspektyva,56,2012,2012,2.2,2012,1,440000056
 Lithuania,440,tevynes sajunga,22,2e3,2004,14.2,2004,2,440000022
-Lithuania,440,tevynes sajunga - lietuvos krikšcionys demokratai,42,2008,2012,19.5,2008,2,440000042
+Lithuania,440,tevynes sajunga - lietuvos krikcionys demokratai,42,2008,2012,19.5,2008,2,440000042
 Luxembourg,442,Alternativ Demokratesch Reformpartei,31,2009,2013,8.4,2009,2,442000031
 Luxembourg,442,comité d'action 5/6 pensions pour tous,1,1989,1989,7.3,1989,1,442000001
 Luxembourg,442,comitè d'action pour la démocratie et le droit aux pensions,2,1994,2004,10.9,1999,3,442000002
@@ -1322,21 +1384,21 @@ Luxembourg,442,indépendants de la droite,10,1925,1925,2.1,1925,1,442000010
 Luxembourg,442,indépendants de la gauche,11,1919,1945,4.6,1934,4,442000011
 Luxembourg,442,KPL - Kommunistesch Partei vu Lëtzebuerg,16,1934,2013,16.9,1948,14,442000016
 Luxembourg,442,liste démocratique,12,1937,1937,11,1937,1,442000012
-Luxembourg,442,"liste libre des paysans, classes moyennes et ouvriers",13,1937,1937,3.5,1937,1,442000013
+Luxembourg,442,"liste libre des paysans, classes moyennes et ouvriers",13,1931,1937,6,1931,2,442000013
 Luxembourg,442,mouvement indépendant populaire,14,1964,1964,6,1964,1,442000014
-Luxembourg,442,parti de la droite,17,1919,1937,49.7,1919,5,442000017
+Luxembourg,442,parti de la droite,17,1919,1937,49.7,1919,6,442000017
 Luxembourg,442,parti démocratique,18,1959,2013,22.2,1974,12,442000018
 Luxembourg,442,parti des paysans et des classes moyennes,19,1937,1937,2.1,1937,1,442000019
 Luxembourg,442,parti libéral,20,1937,1937,3,1937,1,442000020
-Luxembourg,442,parti national indépendant,21,1919,1928,13.6,1925,3,442000021
-Luxembourg,442,parti ouvrier,22,1919,1919,17.6,1919,1,442000022
-Luxembourg,442,parti ouvrier socialiste luxembourgeois,23,1925,2013,41.5,1948,20,442000023
+Luxembourg,442,Parti national indÃ©pendant,21,1919,1931,13.6,1925,4,442000021
+Luxembourg,442,parti ouvrier socialiste luxembourgeois,22,1919,2013,41.5,1948,22,442000022
 Luxembourg,442,parti populaire indépendant,24,1919,1919,4.9,1919,1,442000024
-Luxembourg,442,parti radical,25,1925,1937,12.9,1934,4,442000025
-Luxembourg,442,parti radical socialiste,26,1925,1925,10,1925,1,442000026
+Luxembourg,442,parti radical,25,1925,1937,12.9,1934,5,442000025
+Luxembourg,442,parti radical socialiste,26,1925,1931,10.1,1931,2,442000026
 Luxembourg,442,parti radical-libéral,27,1919,1919,16,1919,1,442000027
 Luxembourg,442,parti social-démocrate,28,1974,1979,9.2,1974,2,442000028
 Luxembourg,442,Piratepartei,40,2013,2013,3.2,2013,1,442000040
+Luxembourg,442,Progressistes dÃ©mocrates du Nord,29,1931,1931,4.6,1931,1,442000029
 Luxembourg,442,socialistes indépendants - liste jean gremling,30,1979,1979,2.2,1979,1,442000030
 Macedonia,807,Democratic Party of the Albanians,11,2002,2014,8.3,2008,5,807000011
 Macedonia,807,Democratic Union for Integration,15,2002,2014,14.2,2014,4,807000015
@@ -1347,15 +1409,15 @@ Macedonia,807,Party for Democratic Prosperity,38,2002,2014,2.2,2002,4,807000038
 Macedonia,807,Social Democratic Union of Macedonia,55,2006,2011,32.8,2011,2,807000055
 Macedonia,807,Socialist Party of Macedonia,56,2002,2002,2.2,2002,1,807000056
 Macedonia,807,VMRO-Democratic Party for Macedonian National Unity,62,2006,2011,48.8,2008,3,807000062
-Macedonia,807,VMRO-People’s Party,64,2006,2014,6.1,2006,3,807000064
-Malawi,454,alliance for democracy,1,1999,2014,10.5,1999,3,454000001
-Malawi,454,Democratic Progressive Party,24,2014,2014,22,2014,1,454000024
-Malawi,454,malawi congress party,3,1999,2014,33.6,1999,3,454000003
+Macedonia,807,VMRO-Peoples Party,64,2006,2014,6.1,2006,3,807000064
+Malawi,454,alliance for democracy,1,1999,2014,10.5,1999,4,454000001
+Malawi,454,Democratic Progressive Party,24,2009,2014,40,2009,2,454000024
+Malawi,454,Malawi Democratic Party,3,1999,2014,33.6,1999,4,454000003
 Malawi,454,national democratic alliance,9,2004,2004,8.3,2004,1,454000009
-Malawi,454,people's progressive movement,15,2004,2004,3.2,2004,1,454000015
-Malawi,454,People’s Party,31,2014,2014,18.1,2014,1,454000031
-Malawi,454,republican party,17,2004,2004,7.5,2004,1,454000017
-Malawi,454,united democratic front,21,1999,2014,46.7,1999,3,454000021
+Malawi,454,people's progressive movement,15,2004,2009,3.2,2004,2,454000015
+Malawi,454,Peoples Party,31,2014,2014,18.1,2014,1,454000031
+Malawi,454,republican party,17,2004,2009,7.5,2004,2,454000017
+Malawi,454,united democratic front,21,1999,2014,46.7,1999,4,454000021
 Malaysia,458,Alternative Front (People's Alliance-Democratic Action Party),11,1999,2013,15.7,2013,4,458000011
 Malaysia,458,Alternative Front (People's Alliance-Pan-Islamic Malaysian Party,5,1999,2013,15.3,2004,4,458000005
 Malaysia,458,Alternative Front (People's Alliance-People's Justice Party),6,1999,2013,20.4,2013,4,458000006
@@ -1375,42 +1437,46 @@ Malta,470,DNP,17,1921,1924,14.6,1924,2,470000017
 Malta,470,DNP,9,1962,1966,9.1,1962,2,470000009
 Malta,470,GOZO,15,1947,1947,7.1,1947,1,470000015
 Malta,470,JONES,13,1947,1951,3.3,1947,3,470000013
-Malta,470,MLP,2,1921,2013,81,1945,23,470000002
+Malta,470,MLP,2,1921,2017,81,1945,24,470000002
 Malta,470,MWP,12,1950,1953,22.4,1950,3,470000012
 Malta,470,PCP,7,1953,1971,4.5,1962,5,470000007
-Malta,470,PN,3,1927,2013,64.6,1932,20,470000003
+Malta,470,PN,3,1927,2017,64.6,1932,21,470000003
 Malta,470,UPM,18,1921,1924,44.9,1921,2,470000018
 Mauritius,480,gaetan duval party,7,1995,1995,6.3,1995,1,480000007
-Mauritius,480,hizbullah,10,1991,2e3,3.3,2000,3,480000010
+Mauritius,480,hizbullah,10,1991,2e3,3.3,2e3,3,480000010
 Mauritius,480,mauritian militant movement,29,1976,1983,46,1983,2,480000029
 Mauritius,480,mauritian social democrat party,39,1967,1987,43.2,1967,5,480000039
 Mauritius,480,mauritian solidarity front,43,2005,2014,2,2014,3,480000043
 Mauritius,480,militiant socialist movement - labor party,60,1983,1983,42.1,1983,1,480000060
-Mauritius,480,national democratic movement raj dayal,63,2e3,2010,3,2000,3,480000063
-Mexico,484,Convergencia por la Democracia,1,2003,2009,2.6,2009,2,484000001
-Mexico,484,Movimento Ciudadano,34,2012,2012,2.1,2012,1,484000034
+Mauritius,480,national democratic movement raj dayal,63,2e3,2010,3,2e3,3,480000063
+Mexico,484,convergencia por la democracia,1,2003,2009,2.6,2009,2,484000001
+Mexico,484,Movimento Ciudadano,24,2012,2012,3.4,2012,1,484000024
 Mexico,484,Partido AcciÃ³n Nacional,3,1991,2012,34.3,2006,8,484000003
 Mexico,484,Partido Alternativa SocialdemÃ³crata y Campesina,5,2006,2006,2.1,2006,1,484000005
 Mexico,484,Partido AutÃ©ntico de la RevoluciÃ³n Mexicana,6,1991,2e3,2.1,1991,3,484000006
 Mexico,484,Partido de la RevoluciÃ³n DemÃ³cratica,9,1991,2012,25.7,1997,7,484000009
 Mexico,484,Partido del Frente Cardenista de ReconstrucciÃ³n Nacional,11,1991,1994,4.3,1991,2,484000011
-Mexico,484,Partido del Trabajo,12,1991,2012,3.8,2009,7,484000012
-Mexico,484,partido nueva alanzia,25,2009,2012,2.2,2012,2,484000025
-Mexico,484,Partido Popular Socialista,18,1991,2012,4.7,2006,6,484000018
-Mexico,484,Partido Revolucionario Institucional,21,1991,2012,61.4,1991,8,484000021
+Mexico,484,partido del trabajo,12,1991,2012,3.8,2009,7,484000012
+Mexico,484,partido nueva alianza,18,2006,2012,4.7,2006,3,484000018
+Mexico,484,partido revolucionario institucional,21,1991,2012,61.4,1991,8,484000021
 Mexico,484,Partido Verde Ecologista de MÃ©xico,22,1994,2012,7,2009,6,484000022
+Moldova,498,Association of Women in Moldova,32,1994,1994,2.8,1994,1,498000032
 Moldova,498,Centrist Union of Moldova,2,2005,2009,2.7,2009,2,498000002
 Moldova,498,Christian Democratic People's Party,3,2001,2010,9.4,2001,5,498000003
-Moldova,498,Communist Party of the Republic of Moldova,4,2001,2010,49.5,2009,5,498000004
-Moldova,498,Democratic Party of Moldova,6,2001,2010,12.7,2010,4,498000006
+Moldova,498,Communist Party of the Republic of MoldovaÂ ,4,1998,2010,49.5,2009,6,498000004
+Moldova,498,Democratic Agrarian Party of Moldova,34,1994,1998,43.2,1994,2,498000034
+Moldova,498,Democratic Labour Party of Moldova,35,1994,1994,2.8,1994,1,498000035
+Moldova,498,Democratic Party of Moldova,6,1994,2010,12.7,2010,5,498000006
 Moldova,498,Equality Social-Political Movement,8,2005,2010,2.8,2005,2,498000008
 Moldova,498,Liberal Democratic Party of Moldova,15,2009,2010,29.4,2010,3,498000015
 Moldova,498,Liberal Party,16,2009,2010,13.1,2009,2,498000016
 Moldova,498,National Liberal Party,18,2001,2010,14.7,2009,3,498000018
-Moldova,498,Party of Democratic Forces,21,2001,2010,9.8,2009,4,498000021
+Moldova,498,Party Alliance Our Moldova,20,2009,2010,9.8,2009,3,498000020
+Moldova,498,Party of Democratic Forces,21,1998,2001,8.8,1998,2,498000021
 Moldova,498,Party of Rebirth and Reconciliation of Moldova,22,2001,2001,6.6,2001,1,498000022
-Moldova,498,Social Democratic Party of Moldova,29,2001,2010,3.7,2009,4,498000029
-Moldova,498,Social Political Movement of the Roma in the Republic of Moldova,30,2001,2005,3,2005,2,498000030
+Moldova,498,Party of the Socio-Economic Justice of Moldova,24,1998,2005,2,1998,2,498000024
+Moldova,498,Reform Party,41,1994,1998,2.4,1994,2,498000041
+Moldova,498,Social Democratic Party of Moldova,28,1998,2010,3.7,2009,6,498000028
 Mongolia,496,Civil Will-Green Party,2,2012,2012,5.3,2012,1,496000002
 Mongolia,496,Democratic Party,3,2008,2012,37.7,2008,2,496000003
 Mongolia,496,Mongolian People's Party,7,2012,2012,32.4,2012,1,496000007
@@ -1425,6 +1491,9 @@ Montenegro,499,Positive Montenegro,18,2012,2016,8.4,2012,2,499000018
 Montenegro,499,Social Democratic Party of Montenegro,21,2016,2016,5.2,2016,1,499000021
 Montenegro,499,Social Democrats of Montenegro,22,2016,2016,3.3,2016,1,499000022
 Montenegro,499,Socialist People's Party of Montenegro,23,2009,2012,18,2009,2,499000023
+Montserrat,500,Montserrat Labour Party,3,2009,2009,13.2,2009,1,500000003
+Montserrat,500,Movement for Change and Prosperity,4,2009,2014,81.3,2009,2,500000004
+Montserrat,500,People's Democratic Movement,5,2014,2014,56.8,2014,1,500000005
 Mozambique,508,Democratic Movement of Mozambique,1,2009,2014,8.4,2014,2,508000001
 Mozambique,508,Labor Party,7,1999,2014,2.7,1999,4,508000007
 Mozambique,508,Liberal and Democratic Party of Mozambique,8,1999,2004,2.4,1999,2,508000008
@@ -1432,6 +1501,13 @@ Mozambique,508,Liberation Front of Mozambique,9,1999,2014,74.5,2009,4,508000009
 Mozambique,508,Mozambican National Resistance,10,2009,2014,32.7,2014,2,508000010
 Mozambique,508,"Party for Peace, Democracy and Development",15,2004,2009,2,2004,2,508000015
 Mozambique,508,Social Liberal and Democratic Party,22,1999,2014,2,1999,3,508000022
+Myanmar,104,Arakan National Party,4,2015,2015,2.2,2015,1,104000004
+Myanmar,104,National Democratic Force,46,2010,2015,7.5,2010,2,104000046
+Myanmar,104,National League for Democracy,49,2015,2015,57.2,2015,1,104000049
+Myanmar,104,National Unity Party,53,2010,2015,19.5,2010,2,104000053
+Myanmar,104,Rakhine Nationals Progressive Party,66,2010,2010,2.8,2010,1,104000066
+Myanmar,104,Shan Nationalities Democratic Party,69,2010,2015,2.5,2010,2,104000069
+Myanmar,104,Union Solidarity and Development Party,82,2010,2015,57.8,2010,2,104000082
 Namibia,516,Action Christian National,1,1989,1989,3.5,1989,1,516000001
 Namibia,516,All People's Party,2,2009,2014,2.3,2014,2,516000002
 Namibia,516,Congress Of Democrats,5,1999,2014,9.9,1999,4,516000005
@@ -1447,19 +1523,21 @@ Nepal,524,madeshi jana adhikar forum nepal,19,2008,2008,6.2,2008,1,524000019
 Nepal,524,nepali congress,44,2008,2008,22.8,2008,1,524000044
 Nepal,524,rastriya prajatantra party,64,2008,2008,3,2008,1,524000064
 Nepal,524,terai-madesh loktantrik party,74,2008,2008,3.4,2008,1,524000074
+Netherlands,528,50plus,39,2012,2017,3.1,2017,2,528000039
 Netherlands,528,algemeen ouderen verbond,1,1994,1998,3.6,1994,2,528000001
 Netherlands,528,anti-revolutionaire partij,2,1888,1972,31.6,1888,23,528000002
 Netherlands,528,boerenpartij,3,1967,1967,4.8,1967,1,528000003
 Netherlands,528,bond van vrije liberalen,4,1894,1917,22.3,1894,7,528000004
 Netherlands,528,centrumdemocraten,5,1994,1998,2.5,1994,2,528000005
 Netherlands,528,christelijk-historische unie,6,1894,1972,10.9,1922,21,528000006
-Netherlands,528,christen democratisch appel,7,1981,2012,35.3,1989,11,528000007
 Netherlands,528,christen democratische unie,8,1937,1937,2.1,1937,1,528000008
-Netherlands,528,christenunie,43,2002,2012,4,2006,5,528000043
+Netherlands,528,christen-democratisch appÃ¨l,7,1981,2017,35.3,1989,12,528000007
+Netherlands,528,christenunie,43,2002,2017,4,2006,6,528000043
 Netherlands,528,communistische partij nederland,10,1933,1972,10.6,1946,11,528000010
-Netherlands,528,democraten '66,12,1967,2012,15.5,1994,14,528000012
+Netherlands,528,democraten '66,12,1967,2017,15.5,1994,15,528000012
 Netherlands,528,democratische socialisten '70,13,1971,1972,5.3,1971,2,528000013
-Netherlands,528,groenlinks,16,1998,2012,7.3,1998,6,528000016
+Netherlands,528,denk,86,2017,2017,2.1,2017,1,528000086
+Netherlands,528,groenlinks,16,1998,2017,9.1,2017,7,528000016
 Netherlands,528,katholieke nationale partij,17,1952,1952,2.7,1952,1,528000017
 Netherlands,528,katholieke volkspartij,18,1946,1972,31.9,1963,9,528000018
 Netherlands,528,liberale staatspartij de vrijheidsbond,19,1929,1937,7.4,1929,3,528000019
@@ -1467,18 +1545,18 @@ Netherlands,528,liberale unie,20,1888,1917,43.1,1891,9,528000020
 Netherlands,528,lijst pim fortuyn,56,2002,2003,17,2002,2,528000056
 Netherlands,528,nationaal-socialistische beweging,21,1937,1937,4.2,1937,1,528000021
 Netherlands,528,pacifistisch-socialistische partij,22,1963,1967,3,1963,2,528000022
-Netherlands,528,partij van der arbeid,23,1948,2012,33.8,1977,20,528000023
-Netherlands,528,partij voor de vrijheid,71,2006,2012,15.4,2010,3,528000071
+Netherlands,528,partij van der arbeid,23,1948,2017,33.8,1977,21,528000023
+Netherlands,528,partij voor de dieren,70,2003,2017,3.2,2017,5,528000070
+Netherlands,528,partij voor de vrijheid,71,2006,2017,15.4,2010,4,528000071
 Netherlands,528,politieke partij radicalen,25,1972,1972,4.8,1972,1,528000025
 Netherlands,528,radicalen,26,1888,1897,3.6,1897,4,528000026
 Netherlands,528,reformatorische politieke federatie,27,1998,1998,2,1998,1,528000027
-Netherlands,528,rooms-katholieke bond van kiesverenigingen,28,1897,1917,19,1897,6,528000028
+Netherlands,528,rooms-katholieke bond van kiesverenigingen,28,1888,1917,20,1888,9,528000028
 Netherlands,528,rooms-katholieke staatspartij,29,1922,1937,29.9,1922,5,528000029
-Netherlands,528,rooms-katholieken,30,1888,1894,20,1888,3,528000030
 Netherlands,528,sociaal-democratische arbeiders partij,31,1888,1946,28.3,1946,15,528000031
-Netherlands,528,socialistische partij,33,1998,2012,16.6,2006,6,528000033
-Netherlands,528,staatkundig gereformeerde partij,34,1922,2012,2.5,1933,21,528000034
-Netherlands,528,volkspartij voor vrijheid en democratie,35,1946,2012,26.6,2012,21,528000035
+Netherlands,528,socialistische partij,33,1998,2017,16.6,2006,7,528000033
+Netherlands,528,staatkundig gereformeerde partij,34,1922,2017,2.5,1933,22,528000034
+Netherlands,528,volkspartij voor vrijheid en democratie,35,1946,2017,26.6,2012,22,528000035
 Netherlands,528,vrije anti-revolutionaire partij,36,1897,1897,4.8,1897,1,528000036
 Netherlands,528,vrijheidsbond,37,1922,1925,9.3,1922,2,528000037
 Netherlands,528,vrijzinnig democratische bond,38,1901,1937,10.9,1917,10,528000038
@@ -1504,18 +1582,18 @@ Nicaragua,558,Movimiento de Renovación Sandinista,10,1996,2006,8.4,2006,2,55800
 Nicaragua,558,Partido Conservador de Nicaragua,16,1996,2001,4.9,2001,2,558000016
 Nicaragua,558,Partido Liberal Constitucionalista,18,2001,2011,52.6,2001,3,558000018
 Nicaragua,558,Partido Liberal Independiente,19,1996,2011,31.3,2011,2,558000019
-Niger,562,Alliance NigÃ©rienne pour la DÃ©mocratie et le ProgrÃ¨sâ€“Zaman Lahiya,1,1993,2011,15.5,1993,3,562000001
-Niger,562,Convention DÃ©mocratique et Socialeâ€“Rahama,4,1993,2011,27.3,1993,3,562000004
+Niger,562,Alliance NigÃ©rienne pour la DÃ©mocratie et le ProgrÃ¨sâZaman Lahiya,1,1993,2011,15.5,1993,3,562000001
+Niger,562,Convention DÃ©mocratique et SocialeâRahama,4,1993,2011,27.3,1993,3,562000004
 Niger,562,Front DÃ©mocratique Nigerien-Mutunci,6,1993,1993,2.6,1993,1,562000006
-Niger,562,Mouvement DÃ©mocratique NigÃ©rien pour une FÃ©dÃ©ration Africaineâ€“ Lumana Africa,9,2011,2011,19.9,2011,1,562000009
-Niger,562,Mouvement National de la SocietÃ© de DÃ©veloppementâ€“Nassara,10,1993,2011,37.1,2004,3,562000010
-Niger,562,Parti Nigerien pour la Democratie et le Socialismeâ€“Tarayya,16,1993,2004,14.6,1993,2,562000016
-Niger,562,Parti pour lâ€™UnitÃ© Nationale et la DÃ©veloppement-Salama,19,1993,2011,33.2,2011,3,562000019
-Niger,562,Rassemblement pour la DÃ©mocratie et le ProgrÃ¨sâ€“Jama'a,25,2004,2011,6.5,2004,2,562000025
+Niger,562,Mouvement DÃ©mocratique NigÃ©rien pour une FÃ©dÃ©ration Africaineâ Lumana Africa,9,2011,2011,19.9,2011,1,562000009
+Niger,562,Mouvement National de la SocietÃ© de DÃ©veloppementâNassara,10,1993,2011,37.1,2004,3,562000010
+Niger,562,Parti Nigerien pour la Democratie et le SocialismeâTarayya,16,1993,2004,14.6,1993,2,562000016
+Niger,562,Parti pour lâUnitÃ© Nationale et la DÃ©veloppement-Salama,19,1993,2011,33.2,2011,3,562000019
+Niger,562,Rassemblement pour la DÃ©mocratie et le ProgrÃ¨sâJama'a,25,2004,2011,6.5,2004,2,562000025
 Niger,562,Rassemblement pour Sociale Democrate-Gaskiya,26,2004,2011,7.1,2004,2,562000026
 Niger,562,Union des Forces Populaires pour la DÃ©mocratie et le ProgrÃ¨s-Sawaba,27,1993,2004,3.1,1993,2,562000027
 Niger,562,Union des Patriotes DÃ©mocrates et Progressistes-Chamoua,29,1993,2004,2.9,1993,2,562000029
-Niger,562,Union pour la DÃ©mocratie et la RÃ©publiqueâ€“Tabbat,32,2004,2011,5.3,2011,2,562000032
+Niger,562,Union pour la DÃ©mocratie et la RÃ©publiqueâTabbat,32,2004,2011,5.3,2011,2,562000032
 Nigeria,566,All Nigeria People's Party,2,2003,2003,27.4,2003,1,566000002
 Nigeria,566,Alliance For Democracy,5,2003,2003,9.3,2003,1,566000005
 Nigeria,566,National Democratic Party,18,2003,2003,2.3,2003,1,566000018
@@ -1529,8 +1607,8 @@ Norway,578,conservative party,12,1933,2013,31.7,1981,20,578000012
 Norway,578,det norske arbeiderparti,5,1900,2013,48.4,1957,30,578000005
 Norway,578,det nye folkeparti,6,1973,1973,3.4,1973,1,578000006
 Norway,578,fremskrittspartiet,8,1981,2013,22.9,2009,9,578000008
-Norway,578,høire,10,1882,1903,49.5,1894,6,578000010
-Norway,578,høire,11,1909,1930,41.4,1909,7,578000011
+Norway,578,hÃ¸yre,10,1882,1903,49.5,1894,6,578000010
+Norway,578,hÃ¸yre,11,1909,1930,41.4,1909,7,578000011
 Norway,578,landmandsforbundet,14,1921,1921,13.1,1921,1,578000014
 Norway,578,liberal party,25,1882,2013,63.5,1885,32,578000025
 Norway,578,miljøpartiet de grønne,29,2001,2013,2.8,2013,3,578000029
@@ -1540,9 +1618,9 @@ Norway,578,norske kommunistiske parti,17,1921,2013,11.9,1945,14,578000017
 Norway,578,radikale folkeparti,18,1921,1933,2.5,1921,5,578000018
 Norway,578,samfundspartiet,20,1936,1949,3.1,1936,2,578000020
 Norway,578,samlingspartiet,21,1906,1906,32.7,1906,1,578000021
-Norway,578,senderpartiet,22,1961,2013,16.7,1993,14,578000022
-Norway,578,socialistisk folkeparti,23,1961,1969,6,1965,3,578000023
-Norway,578,socialistisk venstreparti,24,1977,2013,12.5,2001,10,578000024
+Norway,578,senterpartiet,22,1961,2013,16.7,1993,14,578000022
+Norway,578,sosialistisk folkeparti,23,1961,1969,6,1965,3,578000023
+Norway,578,sosialistisk folkeparti,24,1977,2013,12.5,2001,10,578000024
 Pakistan,586,muttahida qaumi movement pakistan,28,2002,2008,7.6,2008,2,586000028
 Pakistan,586,mutthida majlis-e-amal pakistan (mma),29,2002,2008,11.4,2002,2,586000029
 Pakistan,586,national alliance,30,2002,2002,4.8,2002,1,586000030
@@ -1552,8 +1630,8 @@ Pakistan,586,pakistan muslim league(qa),53,2002,2002,25.7,2002,1,586000053
 Pakistan,586,pakistan peoples party parliamentarians,58,2002,2008,31.5,2008,2,586000058
 Paraguay,600,Asociacion Nacional Republicana,1,1989,2013,73.6,1989,5,600000001
 Paraguay,600,Movimiento Popular Tekojoja,17,2008,2008,3.7,2008,1,600000017
-Paraguay,600,Partido Encuentro Nacional,29,2003,2013,4.7,2013,3,600000029
-Paraguay,600,Partido Liberal Radical Autentico,34,1989,2013,28.3,2008,4,600000034
+Paraguay,600,Partido Encuentro Nacional,29,2003,2013,4.8,2013,3,600000029
+Paraguay,600,Partido Liberal Radical Autentico,34,1989,2013,29.3,2013,4,600000034
 Paraguay,600,Partido Pais Solidario,35,2003,2008,3.3,2003,2,600000035
 Paraguay,600,Partido Patria Querida,37,2003,2013,15.3,2003,3,600000037
 Paraguay,600,Partido Revolucionario Febrerista,38,1989,2008,2.1,1989,4,600000038
@@ -1598,9 +1676,9 @@ Philippines,608,probinsya muna development initiatives,67,1998,2001,3,1998,2,608
 Philippines,608,Pusyon Bisaya,272,1978,1978,3.8,1978,1,608000272
 Philippines,608,pwersa ng masang pilipino,70,2001,2013,3.5,2004,5,608000070
 Philippines,608,UNA,91,2013,2013,4.4,2013,1,608000091
-Philippines,608,Unknown,3999,1946,2004,12.4,2004,14,608003999
+Philippines,608,unknown,3999,1946,2004,12.4,2004,14,608003999
 Poland,616,aws,124,1997,1997,33.8,1997,1,616000124
-Poland,616,awsp,137,1997,2001,5.6,2001,2,616000137
+Poland,616,awsp,137,2001,2001,5.6,2001,1,616000137
 Poland,616,bbwr,115,1993,1993,5.4,1993,1,616000115
 Poland,616,cd,8,1991,1991,2.4,1991,1,616000008
 Poland,616,k'15,153,2015,2015,8.2,2015,1,616000153
@@ -1623,7 +1701,7 @@ Poland,616,rop,135,1997,1997,5.6,1997,1,616000135
 Poland,616,rp,150,2011,2011,2.8,2011,1,616000150
 Poland,616,rzm,156,2015,2015,2.4,2015,1,616000156
 Poland,616,s,85,1991,1993,5.1,1991,2,616000085
-Poland,616,s-o,123,1993,1993,2.8,1993,1,616000123
+Poland,616,s-o,123,1993,1997,2.8,1993,2,616000123
 Poland,616,sld,93,1991,2011,27.1,1997,5,616000093
 Poland,616,sp,96,1991,1991,2.1,1991,1,616000096
 Poland,616,srp,142,2001,2007,11.4,2005,3,616000142
@@ -1632,33 +1710,38 @@ Poland,616,up,101,1991,1997,7.3,1993,3,616000101
 Poland,616,wak,103,1991,1991,8.7,1991,1,616000103
 Poland,616,x,110,1991,1993,2.7,1993,2,616000110
 Portugal,620,bloco de esquerda,9,1999,2015,10.2,2015,6,620000009
-Portugal,620,centro democr‡tico e social - partido popular,4,1995,2015,12.2,2011,7,620000004
-Portugal,620,centro democrático social,1,1975,1991,16.7,1976,8,620000001
+Portugal,620,Centro DemocrÃ¡tico e Social â Partido Popular,1,1975,2015,16.7,1976,15,620000001
 Portugal,620,movimiento democrático português,2,1975,1975,4.4,1975,1,620000002
 Portugal,620,partido comunista dos trabalhadores portugueses/movimento reorganizativo do partido do proletariado,3,1975,2011,15.3,1976,7,620000003
 Portugal,620,partido popular democrático,5,1975,1976,28.3,1975,2,620000005
 Portugal,620,partido renovador democrático,6,1985,1987,18.5,1985,2,620000006
 Portugal,620,partido social democráta,7,1979,2015,51.4,1991,13,620000007
-Portugal,620,partido socialista,18,1999,2015,46.4,2005,6,620000018
-Portugal,620,partido socialista português,8,1975,1995,44.7,1995,8,620000008
-Puerto Rico,630,partido independentista puertorrique–o,3,1992,2012,5.8,2000,6,630000003
+Portugal,620,partido socialista português,8,1975,2015,46.4,2005,14,620000008
+Puerto Rico,630,partido independentista puertorriqueo,3,1992,2012,5.8,2e3,6,630000003
 Puerto Rico,630,partido nuevo progresista,4,1992,2012,51.4,2008,6,630000004
-Puerto Rico,630,partido popular democr‡tico,5,1992,2012,49.6,2012,6,630000005
-Puerto Rico,630,partido puertorrique–os por puerto rico,6,2008,2012,2.1,2008,2,630000006
-Romania,642,alianta pentru romania,5,2e3,2e3,4.1,2000,1,642000005
+Puerto Rico,630,partido popular democrtico,5,1992,2012,49.6,2012,6,630000005
+Puerto Rico,630,partido puertorriqueos por puerto rico,6,2008,2012,2.1,2008,2,630000006
+Romania,642,alianta pentru romania,5,2e3,2e3,4.1,2e3,1,642000005
 Romania,642,frontul democrat al salvarii nationale,36,1992,1992,27.7,1992,1,642000036
-Romania,642,frontul salvarii nationale,39,1990,1992,66.4,1990,2,642000039
-Romania,642,miscarea ecologista din romania,49,1990,1992,2.5,1990,2,642000049
-Romania,642,partidul democrat,66,2e3,2e3,7,2000,1,642000066
+Romania,642,frontul salvarii nationale,39,1990,1992,66.3,1990,2,642000039
+Romania,642,miscarea ecologista din romania,49,1990,1992,2.6,1990,2,642000049
+Romania,642,partidul alian<U+021B>a liberalilor <U+0219>i democra<U+021B>ilor,222,2016,2016,5.6,2016,1,642000222
+Romania,642,partidul democrat,66,2e3,2e3,7,2e3,1,642000066
 Romania,642,partidul democrat agrar din romania,67,1990,1992,3,1992,2,642000067
 Romania,642,partidul democratiei sociale din romania,78,1996,1996,21.5,1996,1,642000078
-Romania,642,partidul national liberal,112,1990,2e3,6.9,2000,3,642000112
-Romania,642,partidul national taranesc crestin democrat,119,1990,1990,2.6,1990,1,642000119
-Romania,642,partidul romania mare,148,1992,2e3,19.5,2000,3,642000148
+Romania,642,partidul mi<U+0219>carea populara,224,2016,2016,5.3,2016,1,642000224
+Romania,642,partidul na<U+021B>ional liberal,112,1990,2016,20,2016,4,642000112
+Romania,642,partidul national taranesc crestin democrat,119,1990,2004,2.6,1990,2,642000119
+Romania,642,partidul noua generatie,123,2e3,2004,2.2,2004,2,642000123
+Romania,642,partidul poporului - dan diaconescu,226,2012,2012,14,2012,1,642000226
+Romania,642,partidul romÃ¢nia mare,148,1992,2016,19.5,2e3,6,642000148
+Romania,642,partidul romÃ¢nia unita,230,2016,2016,2.8,2016,1,642000230
+Romania,642,partidul social democrat,232,2016,2016,45.5,2016,1,642000232
 Romania,642,partidul socialist,155,1996,1996,2.3,1996,1,642000155
 Romania,642,partidul socialist al muncii,157,1992,2e3,3,1992,3,642000157
-Romania,642,partidul unitatii nationale romane,171,1992,1996,7.7,1992,2,642000171
-Romania,642,uniunea democrata a maghiarilor din romania,192,1990,2e3,7.5,1992,4,642000192
+Romania,642,partidul unitatii nationale romane,171,1992,2004,7.7,1992,3,642000171
+Romania,642,uniunea democrata a maghiarilor din romania,192,1990,2016,7.5,1992,7,642000192
+Romania,642,uniunea salva<U+021B>i romÃ¢nia,236,2016,2016,8.9,2016,1,642000236
 Russian Federation,643,against all,3996,2003,2003,4.8,2003,1,643003996
 Russian Federation,643,agrarian party of russia,1,2003,2007,3.7,2003,2,643000001
 Russian Federation,643,communist party of the russian federation,3,2003,2011,19.5,2011,3,643000003
@@ -1670,17 +1753,18 @@ Russian Federation,643,union of right forces,21,2003,2007,4,2003,2,643000021
 Russian Federation,643,united russia,22,2003,2011,65,2007,3,643000022
 Rwanda,646,Liberal Party,2,2008,2008,7.5,2008,1,646000002
 Rwanda,646,Social Democrat Party,3,2008,2008,13.1,2008,1,646000003
-Saint Kitts and Nevis,659,Concerned Citizens’ Movement,1,1989,2010,11.5,2010,6,659000001
-Saint Kitts and Nevis,659,Nevis People’s Party,2,1957,1957,2,1957,1,659000002
-Saint Kitts and Nevis,659,Nevis Reformation Party,3,1971,2010,16.2,1975,10,659000003
-Saint Kitts and Nevis,659,People’s Action Movement,4,1966,2010,47.6,1984,11,659000004
-Saint Kitts and Nevis,659,People’s Progressive Movement,5,1961,1961,11.1,1961,1,659000005
+Saint Kitts and Nevis,659,Concerned Citizens Movement,1,1989,2015,13,2015,7,659000001
+Saint Kitts and Nevis,659,Nevis Peoples Party,2,1957,1957,2,1957,1,659000002
+Saint Kitts and Nevis,659,Nevis Reformation Party,3,1971,2015,16.2,1975,11,659000003
+Saint Kitts and Nevis,659,People's Labour Party,15,2015,2015,9,2015,1,659000015
+Saint Kitts and Nevis,659,Peoples Action Movement,4,1966,2015,47.6,1984,12,659000004
+Saint Kitts and Nevis,659,Peoples Progressive Movement,5,1961,1961,11.1,1961,1,659000005
 Saint Kitts and Nevis,659,St. Kitts Democratic Party,7,1957,1957,9.2,1957,1,659000007
-Saint Kitts and Nevis,659,St. Kitts Workers’ League,8,1952,1952,80.9,1952,1,659000008
-Saint Kitts and Nevis,659,St. Kitts-Nevis Labour Party,9,1984,2010,53.8,2000,7,659000009
+Saint Kitts and Nevis,659,St. Kitts Workers League,8,1952,1952,80.9,1952,1,659000008
+Saint Kitts and Nevis,659,St. Kitts-Nevis Labour Party,9,1984,2015,53.8,2e3,8,659000009
 Saint Kitts and Nevis,659,St. Kitts-Nevis-Anguilla Labour Party,10,1957,1980,67.1,1961,6,659000010
 Saint Kitts and Nevis,659,United Nevis Movement,12,1961,1966,9.4,1966,2,659000012
-Saint Kitts and Nevis,659,United People’s Party,13,1993,1995,3.2,1993,2,659000013
+Saint Kitts and Nevis,659,United Peoples Party,13,1993,1995,3.2,1993,2,659000013
 Saint Lucia,662,national alliance,2,1992,2001,3.6,2001,2,662000002
 Saint Lucia,662,people's progressive party,3,1951,1961,35.8,1954,4,662000003
 Saint Lucia,662,progressive labour party,4,1982,1992,27.1,1982,3,662000004
@@ -1690,42 +1774,52 @@ Samoa,882,Human Rights Protection Party,1,2006,2016,73.8,2016,3,882000001
 Samoa,882,Samoa Party,2,2006,2006,3.6,2006,1,882000002
 Samoa,882,Samoan Democratic United Party,4,2006,2006,25,2006,1,882000004
 Samoa,882,Tautua Samoa Party,5,2011,2016,21.4,2011,2,882000005
+San Marino,674,Alleanza Popolare,7,2006,2012,12.1,2006,3,674000007
 San Marino,674,centre democrats,11,2008,2008,2.5,2008,1,674000011
+San Marino,674,Civico 10,20,2012,2016,9.3,2016,2,674000020
+San Marino,674,Lista delle Persone Libere,21,2016,2016,2.1,2016,1,674000021
+San Marino,674,"Movimento Civico RETE (Rinnovamento, EquitÃ¡, Transparenza, EcosostenibilitÃ )",22,2012,2016,18.3,2016,2,674000022
 San Marino,674,new socialist party,5,2006,2006,5.4,2006,1,674000005
+San Marino,674,Partito dei Socialisti e dei Democratici,6,2006,2016,31.8,2006,4,674000006
+San Marino,674,Partito Democratico Cristiano Sammarinese,17,1998,2016,41.4,2001,4,674000017
+San Marino,674,Partito Socialista Sammarinese,4,1998,2016,24.3,2001,4,674000004
 San Marino,674,party of democrats,3,2001,2001,20.8,2001,1,674000003
-San Marino,674,party of socialists and democrats,6,2006,2008,31.8,2006,2,674000006
-San Marino,674,popular alliance,7,2006,2008,12.1,2006,2,674000007
+San Marino,674,Per San Marino,23,2012,2012,2.8,2012,1,674000023
 San Marino,674,popular alliance of san marino democrats,16,1998,2001,9.8,1998,2,674000016
-San Marino,674,sammarinese christian democratic party/euro populars for san marino/arengo and freedom,17,2008,2008,16,2008,1,674000017
 San Marino,674,sammarinese national alliance,9,2006,2006,2.3,2006,1,674000009
 San Marino,674,sammarinese people,18,2006,2006,2.4,2006,1,674000018
-San Marino,674,sammarinese union of moderates,13,2008,2008,2.1,2008,1,674000013
 San Marino,674,san marino progressive democratic party/ideas in movement/cd,1,1998,1998,18.6,1998,1,674000001
-San Marino,674,san marino socialist party,4,1998,2001,24.3,2001,2,674000004
+San Marino,674,Sinistra Unita,26,2012,2012,9.1,2012,1,674000026
 San Marino,674,socialists for reform,19,1998,1998,4.2,1998,1,674000019
 San Marino,674,total for pact for san marino coalition,14,2008,2008,27.1,2008,1,674000014
 San Marino,674,total for reforms and freedom coalition,15,2008,2008,22.9,2008,1,674000015
+San Marino,674,Unione Per la Repubblica,27,2012,2012,8.3,2012,1,674000027
+San Marino,674,Unione Sammarinese dei Moderati,13,2008,2012,2.1,2008,2,674000013
 San Marino,674,we sammarinese,10,2006,2006,2.5,2006,1,674000010
 Senegal,686,Bes Du Nakk,3,2012,2012,5.8,2012,1,686000003
+Senegal,686,Front pour le Socialisme et la Democratie/Benno Jubel,20,2007,2007,2.2,2007,1,686000020
 Senegal,686,Mouvement De La RÃ©forme Pour La DÃ©veloppement Social,8,2012,2012,3.6,2012,1,686000008
 Senegal,686,Parti DÃ©mocratique SÃ©nÃ©galais,10,2012,2012,15.2,2012,1,686000010
 Senegal,686,Parti Pour La VÃ©ritÃ© Et Le DÃ©veloppement,12,2012,2012,2.5,2012,1,686000012
+Senegal,686,Rassemblement pour le Peuple,24,2007,2007,4.3,2007,1,686000024
 Serbia,688,Choice for a Better Life,4,2012,2012,23.1,2012,1,688000004
 Serbia,688,Democratic Alternative,7,2003,2003,2.2,2003,1,688000007
 Serbia,688,Democratic Party,9,2003,2007,23.1,2007,2,688000009
-Serbia,688,Democratic Party of Serbia,10,2003,2012,18,2003,2,688000010
-Serbia,688,Dveri for the Life of Serbia,11,2012,2012,4.5,2012,1,688000011
+Serbia,688,Democratic Party of Serbia,10,2003,2014,18,2003,3,688000010
+Serbia,688,Dveri for the Life of Serbia,11,2012,2014,4.5,2012,2,688000011
+Serbia,688,Enough is Enough,46,2014,2016,6.2,2016,2,688000046
 Serbia,688,For a European Serbia,12,2008,2008,39.3,2008,1,688000012
 Serbia,688,G17 Plus,13,2003,2007,11.6,2003,2,688000013
-Serbia,688,Let’s Get Serbia Moving,18,2012,2012,25.2,2012,1,688000018
+Serbia,688,Lets Get Serbia Moving,18,2012,2012,25.2,2012,1,688000018
 Serbia,688,Liberal Democratic Party,19,2008,2008,5.4,2008,1,688000019
-Serbia,688,Serbian Radical Party,32,2003,2012,30.1,2008,4,688000032
+Serbia,688,Serbian Radical Party,32,2003,2016,30.1,2008,6,688000032
 Serbia,688,Serbian Renewal Movement,33,2007,2007,3.4,2007,1,688000033
 Serbia,688,Serbian Renewal Movement-New Serbia,34,2003,2003,7.8,2003,1,688000034
 Serbia,688,Socialist Party of Serbia,37,2003,2007,7.7,2003,2,688000037
 Serbia,688,Turnover,39,2012,2012,6.8,2012,1,688000039
-Serbia,688,United Regions of Serbia,40,2012,2012,5.8,2012,1,688000040
-Seychelles,690,people's party,3,2011,2011,88.6,2011,1,690000003
+Serbia,688,United Regions of Serbia,40,2012,2014,5.8,2012,2,688000040
+Seychelles,690,lalyans demokratik seselwa,5,2016,2016,49.6,2016,1,690000005
+Seychelles,690,people's party,3,2011,2016,88.6,2011,2,690000003
 Seychelles,690,popular democratic movement,4,2011,2011,10.9,2011,1,690000004
 Seychelles,690,seychelles national partyÊ,1,2007,2007,43.8,2007,1,690000001
 Seychelles,690,seychelles people's progressive front,2,2007,2007,56.2,2007,1,690000002
@@ -1751,9 +1845,8 @@ Singapore,702,united people's party,28,1963,1963,8.4,1963,1,702000028
 Singapore,702,workers' party,6,1963,2015,16.3,2006,13,702000006
 Slovakia,703,#SIET,101,2016,2016,6.4,2016,1,703000101
 Slovakia,703,aliancia noveho obcana,51,2002,2006,9.8,2002,2,703000051
-Slovakia,703,demokraticka strana,30,1994,1994,3.4,1994,1,703000030
 Slovakia,703,demokraticka unia slovenska,31,1994,1994,8.6,1994,1,703000031
-Slovakia,703,demokratiska strana,3,1990,1990,4.4,1990,1,703000003
+Slovakia,703,demokratiska strana,3,1990,1994,4.4,1990,2,703000003
 Slovakia,703,hnutie za demokraticke slovensko,15,1992,2002,37.3,1992,3,703000015
 Slovakia,703,komunisticka strana ceskoslovenska,5,1990,1990,13.3,1990,1,703000005
 Slovakia,703,komunisticka strana slovenska,33,1994,2016,7.9,2002,7,703000033
@@ -1780,22 +1873,67 @@ Slovakia,703,strana demokratickej l'avice,27,1992,2002,14.7,1992,3,703000027
 Slovakia,703,strana demokratickej l'avice (2005-),75,2006,2012,2.4,2010,3,703000075
 Slovakia,703,strana mad'arskej koalicie,49,1998,2012,13.9,2002,5,703000049
 Slovakia,703,strana obcianskeho porozumenia,50,1998,1998,8,1998,1,703000050
-Slovakia,703,strana zelenych,13,1990,1992,3.5,1990,2,703000013
-Slovakia,703,strana zelenych na slovensku,29,1992,2002,2.1,1992,2,703000029
+Slovakia,703,strana zelenych na slovensku,13,1990,2002,3.5,1990,3,703000013
 Slovakia,703,verejnost proti nasiliu,14,1990,1990,29.3,1990,1,703000014
 Slovakia,703,zdruzenie robotnikov slovenska,39,1994,2010,7.3,1994,5,703000039
+Slovenia,705,aktivna slovenija,16,2004,2004,2.9,2004,1,705000016
+Slovenia,705,demokraticna stranka upokojencev slovenije,1,1996,2014,10.1,2014,6,705000001
+Slovenia,705,demokratska stranka,2,1996,2e3,2.6,1996,2,705000002
+Slovenia,705,drzavljanska lista gregorja viranta,36,2011,2011,8.3,2011,1,705000036
+Slovenia,705,liberalna demokracija slovenije,6,1996,2011,35,2e3,5,705000006
+Slovenia,705,nova slovenija-krscanski demokrati,8,2e3,2014,8.8,2004,5,705000008
+Slovenia,705,pozitivna slovenija,47,2014,2014,3,2014,1,705000047
+Slovenia,705,slovenija je naÅ¡a,19,2004,2004,2.5,2004,1,705000019
+Slovenia,705,slovenska demokratska stranka,10,1996,2014,28.2,2004,6,705000010
+Slovenia,705,slovenska ljudska stranka,55,1996,1996,18.8,1996,1,705000055
+Slovenia,705,slovenska ljudska stranka,20,2004,2004,6.6,2004,1,705000020
+Slovenia,705,slovenska ljudska stranka,38,2011,2014,6.8,2011,2,705000038
+Slovenia,705,slovenska nacionalna stranka,11,1996,2014,6.1,2004,6,705000011
+Slovenia,705,slovenski krscanski demokrati,58,1996,1996,9.3,1996,1,705000058
+Slovenia,705,socialni demokrati,32,2008,2014,28.9,2008,3,705000032
+Slovenia,705,stranka mladih slovenije,13,2e3,2004,4.2,2e3,2,705000013
+Slovenia,705,stranka modernega centra,48,2014,2014,34.4,2014,1,705000048
+Slovenia,705,zares - socialno-liberalni,33,2008,2011,8.9,2008,2,705000033
+Slovenia,705,zaveznistvo alenke bratusek,50,2014,2014,4.4,2014,1,705000050
+Slovenia,705,zdruzena lista socialnih demokratov,14,1996,2004,11.7,2e3,3,705000014
+Solomon Islands,90,Democratic Alliance Party,3,2014,2014,7.8,2014,1,90000003
+Solomon Islands,90,Direct Development Party,4,2010,2014,2.4,2010,2,90000004
+Solomon Islands,90,Kadere Party of Solomon Islands,6,2014,2014,4.7,2014,1,90000006
+Solomon Islands,90,Labour Party,7,1989,2006,8.4,1989,3,90000007
+Solomon Islands,90,Lafari Party,8,2006,2006,3.2,2006,1,90000008
+Solomon Islands,90,Liberal Party,9,1989,2010,9.5,1989,3,90000009
+Solomon Islands,90,National Action Party of Solomon Islands/Peoples Alliance Party/Solomon Islands National Unity and Reconciliation Party,10,1993,1993,11.4,1993,1,90000010
+Solomon Islands,90,National Democratic Party,12,1980,1984,8.4,1980,2,90000012
+Solomon Islands,90,National Front for Progress,13,1989,1993,9,1989,2,90000013
+Solomon Islands,90,National Party,14,2006,2010,6.8,2006,2,90000014
+Solomon Islands,90,National Transformation Party of Solomon Islands,11,2014,2014,2.9,2014,1,90000011
+Solomon Islands,90,Our Party,17,2010,2010,9.9,2010,1,90000017
+Solomon Islands,90,Pan-Melanesian Congress Party,18,2014,2014,2.1,2014,1,90000018
+Solomon Islands,90,Peopleâs Alliance Party,19,1980,2014,22.9,1989,7,90000019
+Solomon Islands,90,Rural and Urban Political Party,23,2010,2010,2.6,2010,1,90000023
+Solomon Islands,90,SI Party for Rural Advancement,26,2014,2014,3.9,2014,1,90000026
+Solomon Islands,90,SICTLM,27,1984,1984,3.6,1984,1,90000027
+Solomon Islands,90,Solomon Islands Democratic Party,28,2006,2006,5.1,2006,1,90000028
+Solomon Islands,90,Solomon Islands Democratic Party,29,2010,2010,10.5,2010,1,90000029
+Solomon Islands,90,Solomon Islands National Unity and Reconciliation Party/National Front for Progress/National Action Party of Solomon Islands,30,1993,1993,23.9,1993,1,90000030
+Solomon Islands,90,Solomon Islands Party for Rural Advancement First Candidate,31,2006,2010,6.3,2006,2,90000031
+Solomon Islands,90,Solomon Islands People First Party,32,2014,2014,4.5,2014,1,90000032
+Solomon Islands,90,Solomone Ago Sagefanua,34,1984,1984,7.7,1984,1,90000034
+Solomon Islands,90,Solomons Social Credit Party,35,2006,2006,4.3,2006,1,90000035
+Solomon Islands,90,United Democratic Party,36,2014,2014,10.7,2014,1,90000036
+Solomon Islands,90,United Party,37,1980,2006,21.2,1984,5,90000037
 Somaliland,1003,For Justice and Development,1,2005,2005,39,2005,1,1003000001
 Somaliland,1003,"For Unity, Democracy, and Independence",2,2005,2005,26.9,2005,1,1003000002
 Somaliland,1003,"Peace, Unity, and Development Party",3,2005,2005,34.1,2005,1,1003000003
 South Africa,710,congress of the people,7,2009,2014,7.4,2009,2,710000007
-South Africa,710,Democratic Alliance,8,2004,2014,22.2,2014,3,710000008
+South Africa,710,democratic alliance,8,2004,2014,22.2,2014,3,710000008
 South Africa,710,Democratic Party,34,1994,1999,9.6,1999,2,710000034
 South Africa,710,Economic Freedom Fighters,36,2014,2014,6.4,2014,1,710000036
 South Africa,710,Freedom Front,40,1994,1999,2.2,1994,2,710000040
-South Africa,710,Inkatha Freedom Party,12,1994,2014,10.5,1994,5,710000012
+South Africa,710,inthaka freedom party,12,1994,2014,10.5,1994,5,710000012
 South Africa,710,National Party,47,1994,1994,20.4,1994,1,710000047
 South Africa,710,New National Party,49,1999,2004,6.9,1999,2,710000049
-South Africa,710,United Democratic Movement,22,1999,2014,3.4,1999,4,710000022
+South Africa,710,united democratic movement,22,1999,2014,3.4,1999,4,710000022
 Spain,724,centro democratico y social,3,1982,2008,9.3,1986,5,724000003
 Spain,724,Ciudadanos-Partido De La CiudadanÃ­a,53,2008,2016,13.9,2015,3,724000053
 Spain,724,ConvergÃ¨ncia DemocrÃ tica De Catalunya,273,2016,2016,2,2016,1,724000273
@@ -1803,44 +1941,43 @@ Spain,724,convergencia i unio,7,1979,2011,5.1,1989,10,724000007
 Spain,724,esquerra republicana de catalunya,8,1979,2011,2.5,2004,8,724000008
 Spain,724,pacte democratic per catalunya,12,1977,1977,2.8,1977,1,724000012
 Spain,724,partido comunista de espana,16,1977,1982,10.8,1979,3,724000016
-Spain,724,partido dels socialistes de catalunya,181,2e3,2011,6.6,2008,4,724000181
-Spain,724,partido popular,18,1989,2016,43.8,2000,9,724000018
+Spain,724,partido popular,18,1989,2016,43.8,2e3,9,724000018
 Spain,724,Partido Socialista Obrero EspaÃ±ol,21,1977,2016,48.3,1982,13,724000021
 Spain,724,partido socialista obrero español de andalucia,222,2004,2008,4.4,2004,2,724000222
 Spain,724,partido unido de alianza popular,22,1977,1977,8.2,1977,1,724000022
-Spain,724,Partit Dels Socialistes De Catalunya,296,2015,2016,2.4,2015,2,724000296
+Spain,724,Partit Dels Socialistes De Catalunya,181,2e3,2016,6.6,2008,6,724000181
 Spain,724,Podemos,297,2015,2015,12.4,2015,1,724000297
 Spain,724,UniÃ³n Progreso Y Democracia,259,2008,2016,4.7,2011,4,724000259
 Spain,724,union de centro democratico,24,1977,1982,35.1,1979,3,724000024
-Sri Lanka,144,citizen's front,6,2e3,2e3,3.3,2000,1,144000006
 Sri Lanka,144,national heritage party,21,2004,2004,6,2004,1,144000021
-Sri Lanka,144,national unity alliance,23,2e3,2e3,2.3,2000,1,144000023
+Sri Lanka,144,national unity alliance,23,2e3,2e3,2.3,2e3,1,144000023
 Sri Lanka,144,pair of spectacles,3999,1947,1977,100,1947,8,144003999
-Sri Lanka,144,people's liberation front,31,2e3,2001,9.3,2001,2,144000031
+Sri Lanka,144,people's liberation front,31,2e3,2015,9.3,2001,3,144000031
+Sri Lanka,144,Puravesi Peramuna,6,2e3,2015,3.3,2e3,2,144000006
 Sri Lanka,144,sri lanka freedom party,37,1989,1989,31.9,1989,1,144000037
-Sri Lanka,144,sri lanka muslim congress,39,1989,2004,3.6,1989,4,144000039
-Sri Lanka,144,sri lanka tamil united party,43,2004,2010,6.8,2004,2,144000043
-Sri Lanka,144,tamil united liberation front,47,1989,2010,3.8,2001,5,144000047
-Sri Lanka,144,united national party,57,1989,2010,50.7,1989,6,144000057
+Sri Lanka,144,sri lanka muslim congress,39,1989,2015,3.6,1989,5,144000039
+Sri Lanka,144,sri lanka tamil united party,43,2004,2015,6.8,2004,3,144000043
+Sri Lanka,144,tamil united liberation front,47,1989,2015,3.8,2001,6,144000047
+Sri Lanka,144,united national party,57,1989,2015,50.7,1989,7,144000057
 St. Vincent and the Grenadines,670,Eighth Army of Liberation,2,1951,1951,70.4,1951,1,670000002
 St. Vincent and the Grenadines,670,Junta-Mitchell/Sylvester Faction from PPP,3,1974,1974,16.4,1974,1,670000003
 St. Vincent and the Grenadines,670,Movement for National Unity,4,1984,1994,17.4,1994,3,670000004
-St. Vincent and the Grenadines,670,New Democratic Party,5,1979,2010,66.3,1989,8,670000005
-St. Vincent and the Grenadines,670,People’s Political Party,7,1954,1979,49.4,1957,8,670000007
-St. Vincent and the Grenadines,670,People’s Working Party,8,1998,2001,2.6,2001,2,670000008
+St. Vincent and the Grenadines,670,New Democratic Party,5,1979,2015,66.3,1989,9,670000005
+St. Vincent and the Grenadines,670,Peoples Political Party,7,1954,1979,49.4,1957,8,670000007
+St. Vincent and the Grenadines,670,Peoples Working Party,8,1998,2001,2.6,2001,2,670000008
 St. Vincent and the Grenadines,670,Popular Labour Movement,9,1957,1957,15.2,1957,1,670000009
 St. Vincent and the Grenadines,670,St. Vincent Labour Party,11,1957,1994,69,1974,10,670000011
-St. Vincent and the Grenadines,670,United Labour Party,12,1998,2010,56.5,2001,4,670000012
-St. Vincent and the Grenadines,670,United People’s Movement,13,1979,1989,13.5,1979,3,670000013
-St. Vincent and the Grenadines,670,Workers’ Association,15,1951,1951,18,1951,1,670000015
-Suriname,740,Basispartij voor Vernieuwing en Democratie,3,2e3,2e3,3.2,2000,1,740000003
-Suriname,740,Democratisch Alternatief '91,5,2e3,2e3,6.1,2000,1,740000005
-Suriname,740,Democratisch Nationaal Platform,6,2e3,2e3,9.9,2000,1,740000006
-Suriname,740,Hernieuwde Progressieve Partij,8,2e3,2e3,2.5,2000,1,740000008
-Suriname,740,Nationale Democratische Partij,9,2005,2005,23.2,2005,1,740000009
-Suriname,740,Naya Kadam,12,2e3,2e3,2.3,2000,1,740000012
-Suriname,740,Partij voor Democratie en Ontwikkeling door Eenheid,14,2e3,2010,5.1,2010,2,740000014
-Suriname,740,Politieke Vleugel van de FAL,17,2e3,2e3,4.5,2000,1,740000017
+St. Vincent and the Grenadines,670,United Labour Party,12,1998,2015,56.5,2001,5,670000012
+St. Vincent and the Grenadines,670,United Peoples Movement,13,1979,1989,13.5,1979,3,670000013
+St. Vincent and the Grenadines,670,Workers Association,15,1951,1951,18,1951,1,670000015
+Suriname,740,Basispartij voor Vernieuwing en Democratie,3,2e3,2e3,3.2,2e3,1,740000003
+Suriname,740,Democratisch Alternatief '91,5,2e3,2e3,6.1,2e3,1,740000005
+Suriname,740,Democratisch Nationaal Platform,6,2e3,2e3,9.9,2e3,1,740000006
+Suriname,740,Hernieuwde Progressieve Partij,8,2e3,2e3,2.5,2e3,1,740000008
+Suriname,740,Nationale Democratische Partij,9,2005,2015,45.6,2015,2,740000009
+Suriname,740,Naya Kadam,12,2e3,2e3,2.3,2e3,1,740000012
+Suriname,740,Partij voor Democratie en Ontwikkeling door Eenheid,14,2e3,2015,5.1,2010,3,740000014
+Suriname,740,Politieke Vleugel van de FAL,17,2e3,2e3,4.5,2e3,1,740000017
 Sweden,752,bondeförbundet,1,1917,1956,14.4,1936,12,752000001
 Sweden,752,centerpartiet,2,1958,2014,24.5,1973,17,752000002
 Sweden,752,elected,3997,1872,1908,100,1872,14,752003997
@@ -1897,11 +2034,13 @@ Switzerland,756,schweizerische konservative volkspartei,35,1914,1955,23.2,1955,1
 Switzerland,756,schweizerische volkspartei,36,1971,2015,36.7,2007,12,756000036
 Switzerland,756,sozialdemokratische partei der schweiz,37,1887,2015,31.8,1917,36,756000037
 Switzerland,756,sozialpolitische gruppe,38,1935,1967,3.4,1943,9,756000038
-Taiwan,1001,minzhu jinbu dang,11,1986,2004,47.6,2004,7,1001000011
-Taiwan,1001,qinmin dang,14,2001,2004,15.5,2001,2,1001000014
-Taiwan,1001,taiwan tuanjie lianmeng,16,2001,2004,3.7,2001,2,1001000016
-Taiwan,1001,xin dang,20,1995,2004,7.7,1995,4,1001000020
-Taiwan,1001,zhongguo guomin dang,24,1986,2004,90.5,1986,7,1001000024
+Taiwan,1001,minzhu jinbu dang,11,1986,2016,47.6,2004,10,1001000011
+Taiwan,1001,qinmin dang,14,2001,2016,15.7,2001,5,1001000014
+Taiwan,1001,shi dai li liang,53,2016,2016,2.9,2016,1,1001000053
+Taiwan,1001,taiwan tuanjie lianmeng,16,2001,2016,3.7,2001,4,1001000016
+Taiwan,1001,wudangji tuanjie lianmeng,19,2004,2016,2.4,2008,4,1001000019
+Taiwan,1001,xin dang,20,1995,2016,7.7,1995,6,1001000020
+Taiwan,1001,zhongguo guomin dang,24,1986,2016,90.5,1986,10,1001000024
 Tanzania,834,Alliance for Change and Transparency,20,2015,2015,2.2,2015,1,834000020
 Tanzania,834,Chama cha Demokrasia na Maendeleo,1,2005,2015,31.8,2015,2,834000001
 Tanzania,834,Chama cha Mapinduzi,3,2005,2015,69.8,2005,2,834000003
@@ -1954,14 +2093,17 @@ Timor-Leste,626,Partido Unidade Nacional,17,2007,2012,4.5,2007,2,626000017
 Timor-Leste,626,Partidu Kmanek Haburas Unidade Nasional Timor Oan,18,2012,2012,3,2012,1,626000018
 Timor-Leste,626,Unidade Nacional DemocrÃ¡tica da ResistÃªia Timorense,21,2007,2012,3.2,2007,2,626000021
 Togo,768,Action Committee for Renewal,1,2007,2007,8.4,2007,1,768000001
+Togo,768,Coalition Arc-en-Ciel,22,2013,2013,10.8,2013,1,768000022
+Togo,768,Collectif Sauvons le Togo,25,2013,2013,29.2,2013,1,768000025
 Togo,768,Rally of the Togolese People,23,2007,2007,40.2,2007,1,768000023
-Togo,768,Union of Forces for Change,32,2007,2007,37.8,2007,1,768000032
+Togo,768,Union des Forces du Changement,32,2007,2013,37.8,2007,2,768000032
+Togo,768,Union pour la RÃ©publique,31,2013,2013,46.5,2013,1,768000031
 Trinidad and Tobago,780,Congress of the People,2,2007,2015,22.7,2007,3,780000002
 Trinidad and Tobago,780,National Alliance for Reconstruction,7,1991,2002,24.5,1991,5,780000007
 Trinidad and Tobago,780,People's National Movement,14,1991,2015,51.7,2015,8,780000014
 Trinidad and Tobago,780,Team Unity,15,2001,2001,2.5,2001,1,780000015
 Trinidad and Tobago,780,Tobago Organization of the People,18,2010,2015,2.1,2010,2,780000018
-Trinidad and Tobago,780,United National Congress,20,1991,2015,51.7,2000,8,780000020
+Trinidad and Tobago,780,United National Congress,20,1991,2015,51.7,2e3,8,780000020
 Turkey,792,ADALET VE KALKINMA PARTISI,16,2002,2015,49.8,2011,5,792000016
 Turkey,792,ANAP,20,1983,2002,45.1,1983,6,792000020
 Turkey,792,DEHAP,8,2002,2002,6.2,2002,1,792000008
@@ -1978,7 +2120,7 @@ Turkey,792,HP,34,1983,1983,30.5,1983,1,792000034
 Turkey,792,justice party,17,1961,1977,52.9,1965,5,792000017
 Turkey,792,MCP,26,1987,1987,2.9,1987,1,792000026
 Turkey,792,MDP,24,1983,1983,23.3,1983,1,792000024
-Turkey,792,MILLIYETÃ‡I HAREKET PARTISI,25,1969,2015,18,1999,10,792000025
+Turkey,792,MILLIYETÃI HAREKET PARTISI,25,1969,2015,18,1999,10,792000025
 Turkey,792,national party,21,1950,2015,6.3,1965,10,792000021
 Turkey,792,national salvation party,22,1973,1977,11.8,1973,2,792000022
 Turkey,792,new turkey party,29,1961,2002,13.7,1961,4,792000029
@@ -1990,22 +2132,21 @@ Turkey,792,RP,51,1987,1995,21.4,1995,3,792000051
 Turkey,792,Saadet Partisi,10,2002,2015,2.5,2002,5,792000010
 Turkey,792,social democratic populist party,43,1987,1991,25.1,1987,2,792000043
 Turkey,792,trust party,48,1969,1969,6.6,1969,1,792000048
-Turkey,792,turkey union party,47,1965,2011,3,1965,5,792000047
-Turkey,792,union party,49,1969,1969,2.8,1969,1,792000049
-Turks and Caicos Islands,796,People’s Democratic Movement,1,2007,2012,50.9,2012,2,796000001
+Turkey,792,turkey union party,47,1965,2011,5.5,1969,5,792000047
+Turks and Caicos Islands,796,Peoples Democratic Movement,1,2007,2012,50.9,2012,2,796000001
 Turks and Caicos Islands,796,Progressive National Party,3,2007,2012,60.8,2007,2,796000003
-Uganda,800,Democratic Party,2,2011,2011,5.3,2011,1,800000002
-Uganda,800,Forum for Democratic Change,3,2011,2011,15.1,2011,1,800000003
-Uganda,800,National Resistance Movement,8,2011,2011,50.3,2011,1,800000008
-Uganda,800,Ugandan Peopleâ€™s Congress,15,2011,2011,3.3,2011,1,800000015
+Uganda,800,Democratic Party,2,2011,2016,5.3,2011,2,800000002
+Uganda,800,Forum for Democratic Change,3,2011,2016,15.1,2011,2,800000003
+Uganda,800,National Resistance Movement,8,2011,2016,50.3,2011,2,800000008
+Uganda,800,Ugandan People's Congress,15,2011,2016,3.3,2011,2,800000015
 UK,826,anti-parnell nationalists,6,1892,1895,4.7,1892,2,826000006
-UK,826,conservative party,27,1832,2015,54.4,1931,46,826000027
+UK,826,conservative party,27,1832,2017,54.4,1931,47,826000027
 UK,826,conservatives (coalition),28,1918,1918,32.7,1918,1,826000028
-UK,826,Green Party,41,1987,2015,3.9,2015,3,826000041
+UK,826,Green Party,41,1987,2017,3.9,2015,4,826000041
 UK,826,home rule party,43,1874,1880,4.6,1874,2,826000043
-UK,826,Labour and Co-operative,496,2015,2015,2.4,2015,1,826000496
-UK,826,labour party,56,1900,2015,48.6,1951,30,826000056
-UK,826,liberal democrat party,62,1992,2015,23,2010,6,826000062
+UK,826,Labour and Co-operative,496,2015,2017,4.1,2017,2,826000496
+UK,826,labour party,56,1900,2017,48.6,1951,31,826000056
+UK,826,liberal democrat party,62,1992,2017,23,2010,7,826000062
 UK,826,liberal unionists,64,1886,1910,12.5,1886,7,826000064
 UK,826,liberal/labour alliance,65,1868,1910,2.7,1906,11,826000065
 UK,826,liberals,66,1832,2015,77.9,1832,41,826000066
@@ -2014,23 +2155,32 @@ UK,826,national liberals,82,1922,1945,10,1922,4,826000082
 UK,826,nationalists,89,1885,1966,6.1,1885,18,826000089
 UK,826,referendum,441,1997,1997,2.6,1997,1,826000441
 UK,826,repealers,114,1832,1847,3.3,1832,3,826000114
-UK,826,scottish national party,121,1929,2015,4.7,2015,22,826000121
-UK,826,sinn féin,127,1918,2015,4.8,1918,13,826000127
-UK,826,social democratic party,131,1910,2015,11.6,1983,7,826000131
-UK,826,UK Independence Party,139,2015,2015,12.6,2015,1,826000139
+UK,826,scottish national party,121,1929,2017,4.7,2015,23,826000121
+UK,826,sinn féin,127,1918,2017,4.8,1918,14,826000127
+UK,826,social democratic party,131,1910,2017,11.6,1983,8,826000131
 UK,826,unionists,145,1886,1974,3.8,1924,23,826000145
-UK,826,united kingdom independence party,458,1997,2010,3.1,2010,4,826000458
-Ukraine,804,Communist Party of Ukraine,5,1998,1998,12.8,1998,1,804000005
-Ukraine,804,Communist Party of Ukraine,26,2006,2007,5.6,2007,2,804000026
-Ukraine,804,Hromada,7,1998,1998,2.4,1998,1,804000007
-Ukraine,804,None of the Above,3996,1998,1998,2.7,1998,1,804003996
-Ukraine,804,Party of Greens of Ukraine,10,1998,2007,2.8,1998,3,804000010
-Ukraine,804,Party of Regions,34,2006,2007,36,2007,2,804000034
-Ukraine,804,People's Democratic Party,15,1998,1998,2.6,1998,1,804000015
-Ukraine,804,People's Movement of Ukraine,16,1998,1998,4.9,1998,1,804000016
-Ukraine,804,Progressive Socialist Party of Ukraine,17,1998,2007,2.1,1998,2,804000017
-Ukraine,804,Social Democratic Party of Ukraine (United),21,1998,1998,2.1,1998,1,804000021
-Ukraine,804,Socialist Party of Ukraine,43,2006,2007,5.9,2006,2,804000043
+UK,826,united kingdom independence party,139,1997,2017,12.6,2015,6,826000139
+Ukraine,804,Agrarian Party of Ukraine,1,1998,2012,2.8,1998,2,804000001
+Ukraine,804,"All-Ukrainian Union ""Batkivshchyna""",53,2012,2014,21.4,2012,2,804000053
+Ukraine,804,Communist Party of Ukraine,5,1998,2014,19,1998,6,804000005
+Ukraine,804,Narodno-demokratychna partiia,15,1998,2012,3.8,1998,2,804000015
+Ukraine,804,None of these candidates,3996,1998,2002,6.4,1998,2,804003996
+Ukraine,804,"Partiia ""Sylna Ukraina""",66,2014,2014,2.4,2014,1,804000066
+Ukraine,804,"Party ""Blok Petro Poroshenko""",72,2014,2014,20.5,2014,1,804000072
+Ukraine,804,Party of Greens of UkraineÂ ,10,1998,2007,3.3,1998,4,804000010
+Ukraine,804,Party of Regions,34,1998,2012,36,2007,4,804000034
+Ukraine,804,"Political party ""Narodnyy Front""",85,2014,2014,16,2014,1,804000085
+Ukraine,804,"Political party ""Opozytsiynyy blok""",88,2014,2014,5.5,2014,1,804000088
+Ukraine,804,Political party Samopomich Union,99,2014,2014,6.1,2014,1,804000099
+Ukraine,804,politychna partiia Narodnyi Rukh Ukrainy,16,1998,2014,7.8,1998,3,804000016
+Ukraine,804,"Politychna partiia Vseukrainske obiednannia ""Hromada""",7,1998,2012,3.8,1998,2,804000007
+Ukraine,804,Progressive Socialist Party of Ukraine,17,1998,2007,2.4,1998,2,804000017
+Ukraine,804,Radical Party of Oleh Liashko,128,2012,2014,5.7,2014,2,804000128
+Ukraine,804,Reforms and Order Party,18,1998,1998,2.3,1998,1,804000018
+Ukraine,804,Social Democratic Party of Ukraine (United),21,1998,2012,4.4,2002,3,804000021
+Ukraine,804,Socialist Party of Ukraine,43,1998,2012,5.9,2006,5,804000043
+Ukraine,804,SVOBODA Party,130,2012,2014,7.4,2012,2,804000130
+Ukraine,804,"UDAR (Ukrainian Democratic Alliance for Reforms) of Vitaliy Klychko""",132,2012,2012,11.5,2012,1,804000132
 Uruguay,858,Partido Colorado,7,1954,2014,50.5,1954,12,858000007
 Uruguay,858,Partido Comunista,8,1954,1958,2.7,1958,2,858000008
 Uruguay,858,Partido Demócrata Cristiano,11,1962,1984,21.3,1984,4,858000011
@@ -2053,7 +2203,7 @@ US,840,anti-broderick democrat,63,1854,1854,2.3,1854,1,840000063
 US,840,anti-lecompton democrat,68,1858,1858,2.7,1858,1,840000068
 US,840,conservative (old),156,1864,1874,5,1868,6,840000156
 US,840,constitutionalist,164,1806,1984,7.7,1806,3,840000164
-US,840,democrat,180,1824,2014,55.6,1964,96,840000180
+US,840,democrat,180,1824,2016,55.6,1964,97,840000180
 US,840,democratic republican,186,1790,1830,49.9,1802,21,840000186
 US,840,farmer-labor,212,1920,1942,3.1,1932,12,840000212
 US,840,federalist,218,1788,1980,29.2,1800,21,840000218
@@ -2064,7 +2214,7 @@ US,840,hard democrat,258,1854,1854,2.8,1854,1,840000258
 US,840,independent democrat,292,1838,1962,2.1,1858,41,840000292
 US,840,jacksonian,362,1824,1932,18.7,1828,6,840000362
 US,840,liberal republican,405,1870,1872,32.6,1872,2,840000405
-US,840,modern republican,583,1854,2014,60.6,1920,81,840000583
+US,840,modern republican,583,1854,2016,60.6,1920,82,840000583
 US,840,national progressive,447,1912,1934,2.5,1912,4,840000447
 US,840,national republican,450,1824,1896,25.5,1832,6,840000450
 US,840,opposition,488,1832,1860,4.1,1858,4,840000488
@@ -2072,7 +2222,7 @@ US,840,people's,506,1858,1976,6.3,1892,19,840000506
 US,840,populist,529,1890,1992,4.5,1894,14,840000529
 US,840,progressive,543,1910,2008,8.7,1912,19,840000543
 US,840,prohibition,552,1870,1984,2.9,1886,55,840000552
-US,840,redemption democrat,571,1842,1842,5.3,1842,1,840000571
+US,840,redemption democrat,571,1842,1842,5.4,1842,1,840000571
 US,840,socialist,616,1878,2010,6.9,1912,48,840000616
 US,840,soft democrat,625,1854,1854,3.5,1854,1,840000625
 US,840,southern rights democrat,629,1850,1862,2.4,1860,6,840000629
@@ -2091,16 +2241,16 @@ Vanuatu,548,union of moderate party,21,2012,2016,15.3,2012,2,548000021
 Vanuatu,548,vanua'aku party,23,2012,2016,13.2,2012,2,548000023
 Vanuatu,548,vanuatu national development party,45,2016,2016,2.7,2016,1,548000045
 Zambia,894,african national congress,1,1964,1968,28.4,1964,2,894000001
-Zambia,894,forum for democracy and development,7,2001,2011,15.6,2001,3,894000007
+Zambia,894,forum for democracy and development,7,2001,2016,15.6,2001,4,894000007
 Zambia,894,heritage party,8,2001,2011,7.6,2001,3,894000008
-Zambia,894,Movement for Multi-Party Democracy,11,1991,2011,74,1991,5,894000011
+Zambia,894,Movement for Multi-Party Democracy,11,1991,2016,74,1991,6,894000011
 Zambia,894,national citizens' coalition,12,2001,2001,2,2001,1,894000012
 Zambia,894,national lima party,18,1996,1996,6.5,1996,1,894000018
 Zambia,894,national party,19,1996,2011,7.3,1996,3,894000019
-Zambia,894,patriotic front,23,2001,2011,38.5,2011,3,894000023
+Zambia,894,patriotic front,23,2001,2016,42,2016,4,894000023
 Zambia,894,united liberal party,27,2006,2011,2.4,2006,2,894000027
-Zambia,894,united national independence party,28,1964,2011,73.2,1968,6,894000028
-Zambia,894,united party for national development,29,2001,2011,23.8,2001,3,894000029
+Zambia,894,united national independence party,28,1964,2016,73.2,1968,7,894000028
+Zambia,894,united party for national development,29,2001,2016,41.7,2016,4,894000029
 Zambia,894,zambia democratic congress,32,1996,1996,14.1,1996,1,894000032
 Zambia,894,zambia republican party,34,2001,2001,5.5,2001,1,894000034
 Zimbabwe,716,Movement for Democratic Change,7,2005,2013,39.5,2005,3,716000007
