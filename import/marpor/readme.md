@@ -1,8 +1,6 @@
 ## Source
 
-Volkens, Andrea / Lehmann, Pola / Matthieß, Theres / Merz, Nicolas / Regel, Sven (2016): The Manifesto Data Collection. Manifesto Project (MRG/CMP/MARPOR). Version 2016b. Berlin: Wissenschaftszentrum Berlin für Sozialforschung (WZB).
-
-Volkens, Andrea / Lehmann, Pola / Matthieß, Theres / Merz, Nicolas / Regel, Sven with Werner / Annika (2016): The Manifesto Data Collection: South America. Version 2016b. Berlin: Wissenschaftszentrum Berlin für Sozialforschung (WZB).
+Volkens, Andrea / Lehmann, Pola / Matthieß, Theres / Merz, Nicolas / Regel, Sven / Weßels, Bernhard (2018): The Manifesto Data Collection. Manifesto Project (MRG/CMP/MARPOR). Version 2018a. Berlin: Wissenschaftszentrum Berlin für Sozialforschung (WZB). https://doi.org/10.25522/manifesto.mpds.2018a
 
 https://manifesto-project.wzb.eu/
 
@@ -14,6 +12,6 @@ Volkens, Andrea, Judith Bara, Ian Budge, and Michael D. McDonald. 2013. Mapping 
 
 ## Import
 
-Party data provided by Sven Regel and some manual clean-up.
+Party data provided by Sven Regel.
 
 Election results from [Manifesto dataset](https://manifesto-project.wzb.eu/datasets) (login required)
