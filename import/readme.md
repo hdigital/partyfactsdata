@@ -8,7 +8,7 @@ Files are UTF-8 encoded.
 
 Import of data into the Party Facts database is done by the project maintainers.
 
-For a detailed instruction how to contribute your dataset, see [our import guide](https://github.com/hdigital/partyfacts/blob/master/import/import-guide.md).
+For a detailed instruction how to contribute your dataset, see [our import guide](https://github.com/hdigital/partyfactsdata/blob/master/import/import-guide.md).
 
 
 # R packages and snippets

@@ -9,7 +9,7 @@ research grant of the University of Bremen ([M8
 Plus](http://www.uni-bremen.de/en/exzellent/promoting-talent/m8-post-doc-initiative-plus.html)).
 
 More information: [*www.partyfacts.org*](http://www.partyfacts.org) --
-[*github.com/hdigital/partyfacts*](https://github.com/hdigital/partyfacts)
+[*github.com/hdigital/partyfactsdata*](https://github.com/hdigital/partyfactsdata)
 
 
 Introduction
@@ -35,7 +35,7 @@ which allows us to coordinate, administrate, archive and adapt the
 project and datasets perfectly. Github enables you to contribute your
 list of parties to the project with a simple upload. The public
 repository folder is available at
-[*github.com/hdigital/partyfacts*](https://github.com/hdigital/partyfacts),
+[*github.com/hdigital/partyfactsdata*](https://github.com/hdigital/partyfactsdata),
 where you can upload your data folder including the required files
 mentioned below. Afterwards we will continue the process by importing
 your list of parties into the project database at
@@ -108,7 +108,7 @@ Your Script
 In Party Facts, we import a list of parties extracted from a dataset.
 Ideally, you provide a script in which the party list is extracted from
 the dataset including the information needed for a Party Facts import.
-Smaller parties are removed with the script (5% or 1% threshold). 
+Smaller parties are removed with the script (5% or 1% threshold).
 We prefer R scripts but Stata or other scripts may work as well.
 
 The script helps to understand the origin of the party list and allows
