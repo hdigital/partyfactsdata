@@ -11,7 +11,7 @@ The [Party Facts project](http://partyfacts.herokuapp.com/) aims to offer a gate
 
 # Import
 
-The _import_ folder contains all external datasets.
+The [import](import) folder contains all external datasets.
 
 You may submit your own dataset there.
 

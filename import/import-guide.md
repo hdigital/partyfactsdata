@@ -4,12 +4,10 @@ Step-by-step import guide -- contribute a dataset
 
 Initial version of the codebook was created by Phillip Hocks and Jan
 Fischer (University of Bremen) in 2015.  
-This work was funded by a small
-research grant of the University of Bremen ([M8
-Plus](http://www.uni-bremen.de/en/exzellent/promoting-talent/m8-post-doc-initiative-plus.html)).
+This work was funded by a small research grant of the University of Bremen (M8 Plus).
 
-More information: [*www.partyfacts.org*](http://www.partyfacts.org) --
-[*github.com/hdigital/partyfactsdata*](https://github.com/hdigital/partyfactsdata)
+More information: [partyfacts.herokuapp.com](http://www.partyfacts.org) --
+[github.com/hdigital/partyfactsdata](https://github.com/hdigital/partyfactsdata)
 
 
 Introduction
@@ -35,11 +33,10 @@ which allows us to coordinate, administrate, archive and adapt the
 project and datasets perfectly. Github enables you to contribute your
 list of parties to the project with a simple upload. The public
 repository folder is available at
-[*github.com/hdigital/partyfactsdata*](https://github.com/hdigital/partyfactsdata),
+[github.com/hdigital/partyfactsdata](https://github.com/hdigital/partyfactsdata),
 where you can upload your data folder including the required files
 mentioned below. Afterwards we will continue the process by importing
-your list of parties into the project database at
-[*www.partyfacts.org*](http://www.partyfacts.org).
+your list of parties into the project database at the Party Facts web page.
 
 The list of parties from your dataset has to follow some guidelines.
 Before uploading or submitting your dataset, please make sure that the
@@ -63,13 +60,13 @@ Format
 
 **Dataset file format**
 
-The datafile has to be in csv (comma-separated-value) format. If your
+The datafile should be in csv (comma-separated-value) format. If your
 data is currently not, please convert it to a csv file.
 
 **utf-8**
 
 Please make sure your file is utf-8 encoded. Every csv file can be
-encoded in utf-8 (save option) and iit guarantees an error free display
+encoded in utf-8 (save option) and it guarantees an error free display
 of string-variables.
 
 Variables
@@ -83,21 +80,13 @@ variables in the uploaded file.
 Your dataset should include the following information:
 
 -   **Country name short** -- Country’s ISO-code, three digit abbreviation of country name.
-
 -   **Name short** -- Common abbreviation of the party name in language of origin.
-
 -   **Name** -- Name in language of origin
-
 -   **Name English** -- Translation of the party name into English
-
 -   **Name other** -- Party name in languages with non-latin letters
-
 -   **Year first** -- Foundation of the party. If no information is available, the first election occurrence may be entered
-
--   **Year last** -- Dissolvement of the party. If no information is available, the last election occurrence may be entered. Leave empty if the party exists as of today.
-
+-   **Year last** -- Dissolution of the party. If no information is available, the last election occurrence may be entered. Leave empty if the party exists as of today.
 -   **Share** -- Vote share won in a national general election used to identify the party. Use maximum vote share if information is available. The decimal place is indicated by a dot and not a comma
-
 -   **Share year** -- Year of vote share inserted at “share”
 
 Strictly required are *country* and *party name* information.
@@ -120,43 +109,46 @@ Readme file
 To provide information about the dataset it is important to submit a
 *readme* file together with your dataset. This readme file will be used
 as an information source on Github and the information displayed on the
-Party Facts website ([*see
-here*](http://partyfacts.herokuapp.com/documentation/datasets/)).
+Party Facts website.
 
 For a consistent workflow and information, please make sure your readme
 file matches the following criteria:
 
 **Name: readme.md (markdown)**
 
-This is a markdown file which can be either created directly in github
-or via the texteditor
+This is a markdown file which can be either created directly in Github
+or via the text editor
 
 **Template**
 
 Please provide the Readme file in the following style.
 
-```
+```Markdown
 ## Source
 
-(...)
+ * (...) reference in APSR style
+
 
 ## Credits (optional)
 
-(...) name -- institution -- year(s)
+ * (...) name -- institution -- year(s)
+
 
 ## Import
 
-(...)
+ * (...) short description of data preparation pipeline
+
 
 ## Comments (optional)
 
-(...)
+ * (...)
 
-## Todo later (optional)
 
-(...)
+## Todo later -- (optional)
+
+ * (...)
+
 ```
-
 
 Upload
 ======
@@ -168,9 +160,7 @@ identifying your data or project.
 The folder needs to contain:
 
 -   Data file -- named with the same word as the folder .csv
-
 -   Readme file -- *readme.md*
-
 -   Script file -- extracting party information for Party Facts import
 
 The folder may contain your original dataset. The dataset can be ignored
@@ -180,12 +170,12 @@ please provide the dataset with the name *source\_\_*filename (two
 underscores). Files and folders starting with *‘source\_\_’* will be
 ignored in Github and thus not be available publicly.
 
-You can either upload the file directly on the public github repository
+You can either upload the file directly on the public Github repository
 yourself or send it to one of the project maintainers -- Holger Döring
 or Sven Regel.
 
 
-Import to www.partyfacts.org
+Import to partyfacts.org
 ============================
 
 The import into the Party Facts website is done by the Party Facts Team.
