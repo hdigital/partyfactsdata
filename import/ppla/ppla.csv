@@ -1,0 +1,164 @@
+id,country,short,name,parlgov
+1,ARG,ARI-Lilita,Afirmación para una República Igualitaria - Lilita Carrio,56
+23,ARG,AyL-Zamora,Autodeterminación y Libertad - Luis Zamora,413
+45,ARG,CPC - Macri,Compromiso para el cambio - Mauricio Macri,833
+67,ARG,FrePoBo,Frente Popular Bonaerense,595
+89,ARG,Lavagna,Roberto Lavagna,302
+111,ARG,MPN-Sobisch,Movimiento Popular Neuquino - Jorge Sobisch,7
+133,ARG,MST,Movimiento Socialista de los Trabajadores,532
+155,ARG,Other,Other,842
+156,ARG,PC,Partido Comunista,918
+178,ARG,PJ-Duhalde,Partido Justicialista - Eduardo Duhalde,1285
+200,ARG,PJ-Menem,Partido Justicialista - Carlos Menem,1470
+222,ARG,PS-Binner,Partido Socialista - Hermes Binner,884
+266,ARG,Recrear-Lopez,Recrear para el Crecimiento - Ricardo Lopez Murphy,977
+288,ARG,UCR-Alfonsin,Unión Cívica Radical - Raul Alfonsin,836
+310,ARG,UCR-Stolbizr,Unión Cívica Radical - Margarita Stolbizer,476
+332,BOL,MAS,Movimiento Al Socialismo,1301
+356,BOL,MNR,Movimiento Nacionalista Revolucionario,815
+381,BOL,PODEMOS,Poder Democrático y Social,1337
+429,BOL,UN,Frente de Unidad Nacional,591
+453,BRA,Other,Other,1248
+454,BRA,PC do B,Partido Comunista do Brasil,1220
+476,BRA,PDT,Partido Democrático Trabalhista,1236
+498,BRA,PFL,Partido da Frente Liberal,1232
+520,BRA,PL,Partido Liberal,852
+542,BRA,PMDB,Partido do Movimento Democrático Brasileiro,396
+564,BRA,PP,Partido Progressista,844
+586,BRA,PPS,Partido Popular Socialista,96
+608,BRA,PSB,Partido Socialista Brasileiro,1581
+630,BRA,PSC,Partido Social Cristão,992
+652,BRA,PSDB,Partido da Social Democracia Brasileira,84
+674,BRA,PSOL,Partido Socialismo E Liberdade,1555
+696,BRA,PT,Partido dos Trabalhadores,1022
+718,BRA,PTB,Partido Trabalhista Brasileiro,939
+740,BRA,PV,Partido Verde,730
+784,CHL,Other,Other,667
+785,CHL,PC,Partido Comunista de Chile,1579
+809,CHL,PDC,Partido Demócrata Cristiano,298
+833,CHL,PH,Partido Humanista,1603
+857,CHL,PPD,Partido por la Democracia,1654
+881,CHL,PRI,Partido Regionalista de los Independientes,879
+905,CHL,PRSD,Partido Radical Socialdemócrata,415
+929,CHL,PS,Partido Socialista de Chile,165
+977,CHL,RN,Renovación Nacional,919
+1001,CHL,UDI,Unión Demócrata Independiente,510
+1025,COL,AICO,Movimiento Autoridades Indígenas de Colombia,347
+1049,COL,ALAS,Movimiento ALAS-Equipo Colombia,522
+1073,COL,ASI,Movimiento Alianza Social Indígena,1095
+1097,COL,MAL,Movimiento Apertura Liberal,680
+1121,COL,MIRA,Movimiento Independiente de Renovación Absoluta,953
+1145,COL,Other,Other,1186
+1146,COL,PCC,Partido Convergencia Ciudadana,583
+1170,COL,PCR,Partido Cambio Radical Colombiano,1571
+1194,COL,PDA,Partido Polo Democrático Alternativo,468
+1218,COL,PL,Partido Liberal Colombiano,684
+1242,COL,PSC,Partido Conservador Colombiano,1410
+1266,COL,Partido-U,"Partido Social de Unidad Nacional """"Partido de la U""""",1265
+1314,CRI,FA,Frente Amplio,1476
+1338,CRI,Other,Other,1434
+1339,CRI,PAC,Acción Ciudadana,1034
+1363,CRI,PASE,Partido Accesibilidad sin Exclusión,1125
+1387,CRI,PLN,Partido Liberación Nacional,517
+1411,CRI,PML,Movimiento Libertario,515
+1435,CRI,PRC,Partido Renovación Costarricense,598
+1459,CRI,PRN,Partido Restauración Nacional,641
+1483,CRI,PUN,Unión Nacional,1191
+1507,CRI,PUSC,Partido Unidad Social Cristiana,731
+1555,DOM,Other,Other,1041
+1556,DOM,PLD,Partido de la Liberación,1098
+1576,DOM,PRD,Partido Revolucionario Dominicano,1643
+1596,DOM,PRSC,Partido Reformista Social Cristiano,1127
+1636,ECU,ID,Izquierda Democrática,365
+1660,ECU,MIAJ,Movimiento Independiente Amauta Jatari,1497
+1684,ECU,MPD,Movimiento Popular Democrático,223
+1708,ECU,MUPP-NP,Movimiento Unidad Plurinacional Pachacutic-Nuevo Pais,991
+1732,ECU,Other,Other,1517
+1733,ECU,PRE,Partido Roldosista Ecuatoriano,1425
+1757,ECU,PRIAN,Partido Renovador Institucional Acción Nacional,464
+1781,ECU,PS-FA,Partido Socialista - Frente Amplio,950
+1805,ECU,PSC,Partido Social Cristiano,654
+1829,ECU,PSP,Partido Sociedad Patriótica 21 de Enero,511
+1877,ECU,UDC,Unión Demócrata Cristiana,764
+1901,GTM,ANN,Alianza Nueva Nación,932
+1925,GTM,DCG,Democracia Cristiana Guatemalteca,785
+1949,GTM,EG,Encuentro por Guatemala,1499
+1973,GTM,FRG,Frente Republicano Guatemalteca,899
+1997,GTM,GANA,Gran Alianza Nacional,12
+2021,GTM,Other,Other,739
+2022,GTM,PAN,Partido de Avanzada Nacional,287
+2046,GTM,PP,Partido Patriota,1065
+2070,GTM,PU,Partido Unionista,39
+2118,GTM,UCN,Unión del Cambio Nacional,116
+2142,GTM,UNE,Unidad Nacional de la Esperanza,554
+2166,HND,Other,Other,79
+2167,HND,PDC,Partido Demócrata Cristiano de Honduras,1346
+2191,HND,PINU,Partido de Innovació y Unidad,273
+2215,HND,PLH,Partido Liberal de Honduras,775
+2239,HND,PNH,Partido Nacional de Honduras,1569
+2263,HND,PUD,Partido Unificación Democrática,127
+2311,MEX,Convergencia,Partido Convergencia,1600
+2335,MEX,Other,Other,624
+2336,MEX,PAN,Partido Acción Nacional,571
+2360,MEX,PANAL,Partido Nueva Alianza,324
+2384,MEX,PASC,Partido Alternativa Socialdemócrata y Campesina,274
+2408,MEX,PRD,Partido de la Revolución Demócrata,505
+2432,MEX,PRI,Partido Revolucionario Institucional,1326
+2456,MEX,PT,Partido de Trabajo,1353
+2480,MEX,PVEM,Partido Verde Ecologista de México,498
+2528,NIC,AC,Alternativa por el Cambio,736
+2552,NIC,ALN,Alianza Liberal Nicaragüense,1129
+2576,NIC,FSLN,Frente Sandinista de Liberación Nacional,1534
+2600,NIC,MRS,Movimiento Renovador Sandinista,935
+2624,NIC,Other,Other,1652
+2625,NIC,PCN,Partido Conservador de Nicaragua,166
+2649,NIC,PLC,Partido Liberal Constitucionalista,1404
+2673,NIC,PRN,Partido Resistencia Nicaragüense,691
+2721,PAN,MOLIRENA,Movimiento Liberal Republicano Nacionalista,122
+2745,PAN,Other,Other,631
+2746,PAN,PCD,Partido Cambio Democrático,472
+2770,PAN,PLN,Partido Liberal Nacional,1648
+2794,PAN,PP,Partido Popular (former Partido Demócrata Cristiano),481
+2818,PAN,PRD,Partido Revolucionario Democrático,1386
+2842,PAN,Partido Pa,Partido Panameñista (Partido Arnulfista),1526
+2890,PAN,SOLID,Partido Solidaridad,799
+2914,PER,AF,Alianza por el Futuro,1085
+2936,PER,AP,Acción Popular,862
+2958,PER,FDC,Frente del Centro,1132
+2980,PER,Other,Other,1078
+2981,PER,PAP (APRA),Partido Aprista Peruano (Acción Popular Revolucionaria Americana),942
+3003,PER,PNP,Partido Nacionalista Peruano,694
+3025,PER,PP,Perú Posible,1531
+3047,PER,PPC,Partido Popular Cristiano,54
+3091,PER,RN,Restauración Nacional,1156
+3113,PER,SN,Solidaridad Nacional,570
+3135,PER,UPP,Unión por el Perú,294
+3157,PRY,ANR-PC,Asociación Nacional Republicana-Partido Colorado,190
+3177,PRY,MPQ,Movimiento Patria Querida,1610
+3197,PRY,Other,Other,1152
+3198,PRY,PEN,Partido Encuentro Nacional,394
+3218,PRY,PLRA,Partido Liberal Radical Auténtico,459
+3238,PRY,PPS,Partido País Solidario,1514
+3258,PRY,PUNACE,Partido Unión de Ciudadanos Éticos,1498
+3298,SLV,ARENA,Partido Alianza Republicana Nacionalista,33
+3320,SLV,CD,Cambio Democrático,1373
+3342,SLV,FMLN,Partido Frente Farabundo Martí para la Liberación Nacional,803
+3364,SLV,Other,Other,728
+3365,SLV,PCN,Partido de Conciliación Nacional,518
+3387,SLV,PDC,Partido Demócrata Cristiano,848
+3431,URY,FA-EP-NM,Frente Amplio,881
+3449,URY,Other,Other,36
+3450,URY,PC,Partido Colorado,960
+3468,URY,PI,Partido Independiente,338
+3486,URY,PN,Partido Nacional,416
+3522,URY,UC,Partido Unión Cívica,1249
+3540,VEN,AD,Acción Democrática,1403
+3564,VEN,COPEI,Comité de Organización Política Electoral del Pueblo Independiente,477
+3588,VEN,MAS,Moviemiento Al Socialismo,1417
+3612,VEN,MVR,Movimiento Quinta República,1405
+3636,VEN,Other,Other,866
+3637,VEN,PCV,Partido Comunista Venezolano,642
+3661,VEN,PJ,Primero Justicia,537
+3685,VEN,PPT,Patria Para Todos,216
+3709,VEN,Podemos,Podemos,1391
+3757,VEN,UNT,Un Nuevo Tiempo,908
