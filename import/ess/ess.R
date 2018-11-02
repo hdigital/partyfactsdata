@@ -3,7 +3,7 @@ library(countrycode)
 
 rm(list = ls())
 
-pa_ess <- read_csv("ess-parties.csv")
+pa_ess <- read_csv("ess-parties/ess-parties.csv")
 
 url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vShN6niFbUoafOKmngESbROIHBIyvzVP_H7FXU5COSnQRb_YgYjZq24iv27Emj_kZAu5EBndMnSJrAa/pub?output=csv"
 pa_sheet <- read_csv(url)
