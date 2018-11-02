@@ -12,6 +12,12 @@ Jan Fischer – University of Bremen – 2015
 Tomasz Żółtak – Polish Academy of Sciences, Poland – 2014
 
 
+## Note
+
+* __German parties not included__
+* vote intention question Germany not starting with "prtvt"
+
+
 ## Import
 
 [ESS Cumulative Data](http://www.europeansocialsurvey.org/downloadwizard/) – Variables Politics
