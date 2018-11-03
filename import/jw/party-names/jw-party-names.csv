@@ -1,0 +1,280 @@
+countryid,country,election,partyid,partyname
+2,Australia,legislative,3,Australian Democrats
+2,Australia,legislative,4,Australian Greens
+2,Australia,legislative,2,Australian Labor Party (ALP)
+2,Australia,legislative,6,Family First
+2,Australia,legislative,5,Hanson/One Nation
+2,Australia,legislative,1,Liberal/National Party
+3,Austria,legislative,4,Alliance for the Future of Austria
+3,Austria,legislative,3,Austrian Freedom Party (FPÖ)
+3,Austria,legislative,2,Austrian People’s Party (ÖVP)
+3,Austria,legislative,1,Austrian Social Democratic Party (SPÖ)
+3,Austria,legislative,6,Team Stronach for Austria
+3,Austria,legislative,5,The Greens
+42,Belgium,legislative,4,Christian Democratic and Flemish (CD&V)
+42,Belgium,legislative,3,Christian Democratic and Flemish/New Flemish Alliance (CD&V/N-VA)
+42,Belgium,legislative,6,Flemish Interest (VB)
+42,Belgium,legislative,7,Green! (Groen!)
+42,Belgium,legislative,8,"Libertarian, Direct, Democratic (LDD)"
+42,Belgium,legislative,5,New Flemish Alliance (N-VA)
+42,Belgium,legislative,1,Open Flemish Liberals and Democrats (OpenVLD)
+42,Belgium,legislative,2,Socialist Party Differently (SP-A)
+5,Bulgaria,legislative,5,Blue Coalition (SDS-DSB)
+5,Bulgaria,legislative,2,Bulgarian Socialist Party (BSP)
+5,Bulgaria,legislative,1,Citizens for European Development of Bulgaria (GERB)
+5,Bulgaria,legislative,3,Movement for Rights and Freedom (DPS)
+5,Bulgaria,legislative,4,National Union Attack (ATAKA)
+6,Canada,legislative,7,Alliance
+6,Canada,legislative,4,Bloc Quebec
+6,Canada,legislative,5,Green Party
+6,Canada,legislative,2,Liberal Party of Canada
+6,Canada,legislative,3,New Democratic Party
+6,Canada,legislative,1,Progressive Conservative Party/Conservative Party
+6,Canada,legislative,8,Reform Party of Canada
+6,Canada,legislative,6,Social Credit
+9,Croatia,legislative,6,Croatian Democratic Assembly of Slavonia and Baranja
+9,Croatia,legislative,1,Croatian Democratic Union
+9,Croatia,legislative,4,Croatian Party of Rights
+9,Croatia,legislative,10,Croatian Party of Rights dr. Ante Starčević (HSP-AS)/Croatian Pure Party of Rights (HČSP)
+9,Croatia,legislative,3,Croatian Peasant Party
+9,Croatia,legislative,5,Croatian Social-Liberal Party
+9,Croatia,legislative,9,Ivan Grubišic (Independent)
+9,Croatia,legislative,2,Kukuriku Coalition
+9,Croatia,legislative,7,Labour Party
+9,Croatia,legislative,8,Ljubo Jurčić (Independent)
+43,Denmark,legislative,7,Centre Democrats (CD)
+43,Denmark,legislative,9,Christian People's Party (KF)/Christian Democrats (K)
+43,Denmark,legislative,8,Conservative People's Party (DKF/KFP)
+43,Denmark,legislative,11,Danish People's Party (DF)
+43,Denmark,legislative,4,Justice Party (RFB)
+43,Denmark,legislative,12,Liberal Alliance
+43,Denmark,legislative,3,Liberals (V)
+43,Denmark,legislative,6,Progress Party (FP)
+43,Denmark,legislative,2,Radical Party (RV)
+43,Denmark,legislative,10,Red-Green Unity List
+43,Denmark,legislative,1,Social Democratic Party (SD)
+43,Denmark,legislative,5,Socialist People's Party (SFP)
+43,Denmark,legislative,13,The Alternative [Alternativet] (A)
+13,Finland,legislative,1,Centre Party
+13,Finland,legislative,6,Christian Democrats
+13,Finland,legislative,8,Finns/True Finns (PS/S)
+13,Finland,legislative,5,Green League
+13,Finland,legislative,4,Left Alliance
+13,Finland,legislative,2,National Coalition Party
+13,Finland,legislative,3,Social Democrats (SDP)
+13,Finland,legislative,7,Swedish People’s (SFP/RKP)
+15,Germany,legislative,6,Alternative for Germany [Alternative für Deutschland] (AfD)
+15,Germany,legislative,1,Christian Democratic Union (CDU/CSU)
+15,Germany,legislative,4,Free Democratic Party (FDP)
+15,Germany,legislative,2,Social Democratic Party of Germany (SPD)
+15,Germany,legislative,3,The Greens
+15,Germany,legislative,5,The Left (Linke)
+16,Greece,legislative,5,"Coalition of the Left, Movements, and Ecology (Syriza)"
+16,Greece,legislative,3,Communist Party of Greece (KKE)
+16,Greece,legislative,9,Democratic Alliance (DISY)
+16,Greece,legislative,7,Democratic Left (Dimar)
+16,Greece,legislative,6,Ecologist Greens (OP)
+16,Greece,legislative,8,Golden Dawn (XA)
+16,Greece,legislative,10,Independent Greek (ANEL)
+16,Greece,legislative,13,Movement of Democratic Socialists (Kidiso/Kinima)
+16,Greece,legislative,1,New Democracy (ND)
+16,Greece,legislative,2,Panhellenic Socialist Movement (PASOK)
+16,Greece,legislative,4,Popular Orthodox Rally (LAOS)
+16,Greece,legislative,14,"Popular Unity [Λαϊκή Ενότητα (ΛΑΕ), Laïkí Enótita] (LAE)"
+16,Greece,legislative,11,Recreate Greece–Action–Liberal Alliance (DX-DRASI-FS)
+16,Greece,legislative,12,The River (Potami)
+16,Greece,legislative,15,"Union of Centrists [Ένωση Κεντρώων, Enosi Kentroon]"
+45,Hungary,legislative,7,Democratic Coalition (DK)
+45,Hungary,legislative,1,Federation of Young Democrats (FIDESZ)
+45,Hungary,legislative,4,Hungarian Democratic Forum (MDF)
+45,Hungary,legislative,2,Hungarian Socialist Party (MSZP)
+45,Hungary,legislative,3,Movement for a Better Hungary (JOBBIK)
+45,Hungary,legislative,5,Politics Can Be Different (IMP)
+45,Hungary,legislative,8,Together Hungary (E14-PM)
+45,Hungary,legislative,6,"Unity (or Left Unity): MSZP, E14, DK, PM, LMP"
+17,Iceland,legislative,5,Bright Future
+17,Iceland,legislative,16,Centre Party (M)
+17,Iceland,legislative,6,Citizens' Movement
+17,Iceland,legislative,7,Dawn
+17,Iceland,legislative,12,Democracy Movement
+17,Iceland,legislative,8,Democratic Party
+17,Iceland,legislative,4,Independence Party
+17,Iceland,legislative,14,L-List of Sovereignty Supporters
+17,Iceland,legislative,1,Left-Green Movement
+17,Iceland,legislative,11,Liberal Party
+17,Iceland,legislative,17,People’s Party (F)
+17,Iceland,legislative,9,Pirate Party
+17,Iceland,legislative,3,Progressive Party
+17,Iceland,legislative,15,Reform Party (C)
+17,Iceland,legislative,10,Right-Green Movement
+17,Iceland,legislative,2,Social Democratic Alliance
+17,Iceland,legislative,13,Solidarity
+18,Ireland,legislative,9,Anti-Austerity Alliance-People Before Profit (AAA-PBP)
+18,Ireland,legislative,8,Democratic Left Party (DL)
+18,Ireland,legislative,1,Fianna Fáil (FF)
+18,Ireland,legislative,2,Fine Gael (FG)
+18,Ireland,legislative,7,Green Party (GP)
+18,Ireland,legislative,3,Labour Party
+18,Ireland,legislative,4,Progressive Democrats (PD)
+18,Ireland,legislative,10,Renua Ireland (RI)
+18,Ireland,legislative,6,Sinn Fein (SF)
+18,Ireland,legislative,11,Social Democrats [Daonlathaigh Shóisialta] (SD)
+18,Ireland,legislative,5,The Workers’ Party (SFWP)
+19,Italy,legislative,9,Act to Stop the Decline (FiD)
+19,Italy,legislative,11,Brothers of Italy - National Center-Right (FDI)
+19,Italy,legislative,8,Civic Choice (SC)
+19,Italy,legislative,12,Civil Revolution (RC)
+19,Italy,legislative,1,Democratic Party (PD)
+19,Italy,legislative,3,Five Star Movement (M5S)
+19,Italy,legislative,5,Future and Freedom (FLI)
+19,Italy,legislative,10,Great South (GS)
+19,Italy,legislative,2,Left Ecology Freedom (SEL)
+19,Italy,legislative,6,Northern League (LN)
+19,Italy,legislative,7,People of Freedom (PDL)
+19,Italy,legislative,13,The Right (LD)
+19,Italy,legislative,4,Union of the Center (UDC)
+20,Japan,legislative,2,Democratic Party of Japan (DPJ)
+20,Japan,legislative,5,Japanese Communist Party (JCP)
+20,Japan,legislative,1,Liberal Democratic Party of Japan (LDP)
+20,Japan,legislative,4,Liberal Party
+20,Japan,legislative,3,New Clean Government Party (NKP)
+20,Japan,legislative,7,Restoration Party (JRP)
+20,Japan,legislative,6,Social Democratic Party (SDP)
+20,Japan,legislative,8,Your Party (YP)
+21,Malta,legislative,3,Democratic Alternative
+21,Malta,legislative,2,Labour
+21,Malta,legislative,1,Nationalist
+23,Netherlands,legislative,4,Anti-Revolution Party (ARP)
+23,Netherlands,legislative,3,Catholic People's Party (KVP)
+23,Netherlands,legislative,6,Christian Democratic Appeal (CDA)
+23,Netherlands,legislative,5,Christian Historical Union (CHU)
+23,Netherlands,legislative,9,Democratic Socialists'70 (DS70)
+23,Netherlands,legislative,8,Democrats'66 (D66)
+23,Netherlands,legislative,10,Farmers' Party (BP)
+23,Netherlands,legislative,7,Green Left (Groen Links)
+23,Netherlands,legislative,1,Labour Party (PvdA)
+23,Netherlands,legislative,12,List Pim Fortuyn (LPF)
+23,Netherlands,legislative,13,Party of Freedom (PVV)
+23,Netherlands,legislative,2,People's Party for Freedom and Democracy (VVD)
+23,Netherlands,legislative,11,Socialist Party (SP)
+24,New Zealand,legislative,4,ACT
+24,New Zealand,legislative,8,Alliance
+24,New Zealand,legislative,14,Conservative Party of New Zealand
+24,New Zealand,legislative,5,Green
+24,New Zealand,legislative,15,Internet Party
+24,New Zealand,legislative,16,Internet Party/Mana Alliance
+24,New Zealand,legislative,1,Labour Party
+24,New Zealand,legislative,13,Mana Movement
+24,New Zealand,legislative,7,Maori Party
+24,New Zealand,legislative,2,National Party
+24,New Zealand,legislative,3,New Zealand First
+24,New Zealand,legislative,11,NLP
+24,New Zealand,legislative,12,NZP
+24,New Zealand,legislative,9,Social Credit Political League
+24,New Zealand,legislative,17,The Opportunities Party (TOP)
+24,New Zealand,legislative,6,United Future New Zealand (UF)
+24,New Zealand,legislative,10,Values
+25,Norway,legislative,4,Centre Party (SP)
+25,Norway,legislative,3,Christian People's Party (KrF)
+25,Norway,legislative,2,Conservative Party (H)
+25,Norway,legislative,8,Green Party (MDG)
+25,Norway,legislative,1,Labour Party (AP)
+25,Norway,legislative,6,Liberal Party (V)
+25,Norway,legislative,7,Progress Party (FRP)
+25,Norway,legislative,9,Red Party (R)
+25,Norway,legislative,5,Socialist Left Party (SV)
+28,Poland,legislative,1,Civic Platform (PO)
+28,Poland,legislative,3,Democratic Left Alliance (SLD)
+28,Poland,legislative,2,Law and Justice (PIS)
+28,Poland,legislative,6,Palikot's Movement (RP)
+28,Poland,legislative,5,Poland Comes First (PJN)
+28,Poland,legislative,7,Polish Labour Party (PPP)
+28,Poland,legislative,4,Polish Peasants' Party (PSL)
+29,Portugal,legislative,3,CDS - People's Party (PP)
+29,Portugal,legislative,6,Democratic Renewal Party (PRD)
+29,Portugal,legislative,11,Democratic Republican Party [Partido Democrático Republicano] (PDR)
+29,Portugal,legislative,9,Earth Party [Partido da Terra] (MPT)
+29,Portugal,legislative,5,Left Bloc
+29,Portugal,legislative,10,LIVRE (L/TDA)
+29,Portugal,legislative,7,Portugal Ahead [Portugal à Frente] (PàF)
+29,Portugal,legislative,1,Social Democratic Party (SD)
+29,Portugal,legislative,2,Socialist Party (SOC)
+29,Portugal,legislative,4,The Greens (Greencom)
+29,Portugal,legislative,8,"Unitary Democratic Coalition [Coligação Democrática Unitária, PCP–PEV] (CDU)"
+30,Romania,legislative,1,Democratic Liberal Party (PDL)
+30,Romania,legislative,6,Greater Romania Party (PRM)
+30,Romania,legislative,5,Hungarian Democratic Union of Romania (UDMR)
+30,Romania,legislative,3,National Liberal Party (PNL)
+30,Romania,legislative,4,New Generation Party (PNG)
+30,Romania,legislative,9,People's Party - Dan Diaconescu (PPDD)
+30,Romania,legislative,7,Right Romania Alliance (ARD)
+30,Romania,legislative,2,Social Democratic Party (PSD)
+30,Romania,legislative,8,Social Liberal Union (USL)
+31,Serbia,legislative,1,Democratic Party (DS)
+31,Serbia,legislative,4,Democratic Party of Serbia (DSS)
+31,Serbia,legislative,6,Liberal Democratic Party (LDP)
+31,Serbia,legislative,2,Serbia Progressive Party (SNS)
+31,Serbia,legislative,3,Serbian Radical Party (SRS)
+31,Serbia,legislative,5,Socialist Party of Serbia (SPS)
+31,Serbia,legislative,7,United Regions of Serbia - Mladan Dinkic (URS)
+32,Slovakia,legislative,6,Bridge (MOST-HID)
+32,Slovakia,legislative,5,Christian Democratic Movement (KDH)
+32,Slovakia,legislative,4,Freedom and Solidarity (SAS)
+32,Slovakia,legislative,8,Ordinary People (OL)
+32,Slovakia,legislative,7,Party of the Hungarian Coalition (SMK-MKP)
+32,Slovakia,legislative,3,Slovak Democratic and Christian Union (SKDU-DS)
+32,Slovakia,legislative,2,Slovak National Party (SNS)
+32,Slovakia,legislative,1,Smer Direction - Social Democracy (SMER-SD)
+34,South Korea,legislative,2,Democratic United
+34,South Korea,legislative,5,Korea Vision
+34,South Korea,legislative,4,Liberty Forward
+34,South Korea,legislative,6,New Progressive
+34,South Korea,legislative,1,Saenuri
+34,South Korea,legislative,3,Unified Progressive
+35,Spain,legislative,13,Basque Nationalist Party (PNV)
+35,Spain,legislative,17,Canarian Coalition (CC)
+35,Spain,legislative,6,Catalan Republican Left (ERC)
+35,Spain,legislative,7,Centre Democrats (CDS)
+35,Spain,legislative,14,Citizens (C’s)
+35,Spain,legislative,9,Communist Party of Spain (PCE)
+35,Spain,legislative,5,Convergence and Union (CiU)
+35,Spain,legislative,10,Democracy and Freedom (DiL)
+35,Spain,legislative,16,"Democratic Convergence of Catalonia (CDC), previously part of CiU."
+35,Spain,legislative,11,Democratic Union of Catalonia (UDC)
+35,Spain,legislative,12,Euskal Herria Bildu (EH Bildu)
+35,Spain,legislative,15,Podemos
+35,Spain,legislative,1,Popular Alliance (AP) / People's Democratic Party (PDP)/ Popular Party (PP)
+35,Spain,legislative,2,Spanish Socialist Worker's Party (PSOE)
+35,Spain,legislative,8,Union of the Democratic Centre (UCD)
+35,Spain,legislative,4,"Union, Progress, and Democracy (UPyD)"
+35,Spain,legislative,3,United Left (IU)
+36,Sweden,legislative,3,Centre Party (Centerpartiet) (C)
+36,Sweden,legislative,4,Christian Democrats (Kristdemokraterna) (KD)
+36,Sweden,legislative,11,Feminist Initiative (Fi)
+36,Sweden,legislative,7,Green Party (Miljöpartiet de Gröna) (MP)
+36,Sweden,legislative,6,Left Party (Vänsterpartiet) (V)
+36,Sweden,legislative,2,Liberal People's Party (Folkpartiet liberalerna) (FP)
+36,Sweden,legislative,1,Moderate Party (Moderata samlingspartiet) (M)
+36,Sweden,legislative,10,New Democracy (Ny Demokrati) (NyD)
+36,Sweden,legislative,9,Pirate Party (Piratpartiet) (PP)
+36,Sweden,legislative,5,Social Democrats (Sveriges socialdemokratiska arbetareparti) (S)
+36,Sweden,legislative,8,Sweden Democrats (Sverigedemokraterna) (SD)
+37,Switzerland,legislative,4,Christian Democratic People's Party of Switzerland (CVP)
+37,Switzerland,legislative,7,Conservative Democratic Party of Switzerland (BDP)
+37,Switzerland,legislative,6,Green Liberal Party (GLP)
+37,Switzerland,legislative,5,Green Party of Switzerland (GPS)
+37,Switzerland,legislative,3,Radical Democratic Party (FDP)
+37,Switzerland,legislative,2,Social Democratic Party of Switzerland (SPS)
+37,Switzerland,legislative,1,Swiss People's Party (SVP)
+38,Turkey,legislative,5,Felicity Party (SP)
+38,Turkey,legislative,1,Justice and Development Party (AK)
+38,Turkey,legislative,3,National Action Party (MHP)
+38,Turkey,legislative,4,Peace and Democracy Party (BDP)
+38,Turkey,legislative,2,Republican People's Party (CHP)
+39,United Kingdom,legislative,1,Conservative Party
+39,United Kingdom,legislative,5,Green
+39,United Kingdom,legislative,2,Labour Party
+39,United Kingdom,legislative,3,Liberal Party/Liberal Democrats
+39,United Kingdom,legislative,4,UKIP
+40,United States,legislative,1,Democratic Party
+40,United States,legislative,2,Republican Party
