@@ -1,0 +1,507 @@
+country,party,partynum,pengacro,pengname,pnatacro,pnatname,partysize,id
+ALB,PBDNj,5,UHRP,Unity for Human Rights Party,PBNj,Partia Bashkimi për të Drejtat e Njeriut,1.3,ALB-5
+ALB,PD,1,DPA,Democratic Party of Albania,PD,Partia Demokratike e Shqipërisë,24.6,ALB-1
+ALB,PS,2,SPA,Socialist Party of Albania,PS,Partia Socialiste e Shqipërisë,40.5,ALB-2
+ALB,PR,4,RPA,Republican Party of Albania,PR,Partia Republikane e Shqipërisë,18.5,ALB-4
+ALB,LSI,3,SMI,Socialist Movement for Integration,LSI,Lëvizja Socialiste për Intigrim,4.1,ALB-3
+AGO,MPLA,1,PMLA,Popular Movement for the Liberation of Angola,MPLA,Movimento Popular de Liberta??o de Angola,67.7,AGO-1
+AGO,PRS,3,SRP,Social Renewal Party,PRS,Partido de Renova??o Social,2.7,AGO-3
+AGO,UNITA,2,NUTIA,National Union for the Total Independence of Angola,UNITA,Uni?o Nacional para a Independ?ncia Total de Angola,22.2,AGO-2
+ARG,P.Justicialista,1,PJ,Justicialist Party,PJ,Partido Justicialista,4.5,ARG-1
+ARG,Alianza Frente para la victoria,3,AFplV,Alliance of Front for Victory,AFplV,Alianza Frente para la victoria,0,ARG-3
+ARG,Frente para la victoria,4,FplV,Front for Victory,FplV,Frente para la Victoria,38.8,ARG-4
+ARG,PRO,5,PRO,Republican Proposal,PRO,Propuesta Republicana,5,ARG-5
+ARG,Unión Cívica Radical,2,UCR,Radical Civic Union,UCR,Unión Cívica Radical,9.1,ARG-2
+AUS,The Liberal Party,1,LPA,Liberal Party of Australia,LPA,Liberal Party of Australia,38.7,AUS-1
+AUS,The Australian Greens,4,AG,Australian Greens,AG,Australian Greens,7.5,AUS-4
+AUS,The Nationals,3,NPA,National Party of Australia,NPA,National Party of Australia,5.7,AUS-3
+AUS,The Labor Party (ALP),2,ALP,Australian Labor Party,ALP,Australian Labor Party,40.5,AUS-2
+AUT,SPÖ,1,SPO,Social Democratic Party of Austria,SPÖ,Sozialdemokratische Partei Österreichs,32.3,AUT-1
+AUT,Grüne,3,Green,The Greens - The Green Alternative,Grüne,Die Grünen – Die Grüne Alternative,10.8,AUT-3
+AUT,BZÖ,5,BZO,Alliance for the Future of Austria - Jorg Haider's List,BZÖ,Bündnis Zukunft Österreich – Liste Jörg Haider,7.4,AUT-5
+AUT,FPÖ,4,FPO,Freedom Party of Austria,FPÖ,Freiheitliche Partei Österreichs,14.2,AUT-4
+AUT,ÖVP,2,OVP,Austrian People's Party,ÖVP,Österreichische Volkspartei,30.1,AUT-2
+BGD,Awami League,2,BPL,Bangladesh People's League,BAL,Bangladesh Awami League,44.5,BGD-2
+BGD,Bangladesh Nationalist Party,1,BNP,Bangladesh Nation Party,BJP,Bangladesh Jatiyabadi Party,38,BGD-1
+BGD,Jatiya Party,4,NPA,National Party,JD,Jatiya Dal,7.1,BGD-4
+BGD,Jamat-E-Islami,3,ICB,Islam Conference Bangladesh,JEB,Jamaat-e-Islami Bangladesh,4.4,BGD-3
+BEL,SP.a-Spirit,4,SP-A,Socialist Party - Different,SP-A,Socialistische Partij Anders,12.6,BEL-4
+BEL,MR,8,MR,Reformist Movement,MR,Mouvement Réformateur,11.9,BEL-8
+BEL,FN,12,FN,National Front,FN,Le Front national,2,BEL-12
+BEL,Open VLD,3,Open VLD,Open VLD,Open VLD,Open VLD,13.6,BEL-3
+BEL,LDD,6,LDD,List Dedecker,LDD,Lijst Dedecker,2,BEL-6
+BEL,Groen!,7,Groen!,Green,Groen!,Groen!,3.2,BEL-7
+BEL,NV-A,5,NV-A,New Flemish Alliance,NV-A,Nieuw-Vlaamse Alliantie,3.7,BEL-5
+BEL,CD&V,1,CDV,Christian Democratic and Flemish,CDV,Christen-Democratisch en Vlaams,13.8,BEL-1
+BEL,CDH,10,CDH,Humanist Democratic Centre,CDH,Centre démocrate humaniste,5.8,BEL-10
+BEL,Ecolo,11,Ecolo,Ecolo,Ecolo,Ecolo,4.1,BEL-11
+BEL,VB,2,VB,Vlaams Belang,VB,Vlaams Belang,11.8,BEL-2
+BEL,PS,9,PS,Socialist Party,PS,Parti Socialiste,11.9,BEL-9
+BEN,Democratic Renewal Party,3,PRD,Democratic Renewal Party,PRD,Parti du renouveau démocratique,13.7,BEN-3
+BEN,G-13,5,G-13,G-13,G-13,G-13,7.8,BEN-5
+BEN,The Key Force,4,FC,The Key Force,FC,Force clé,5.1,BEN-4
+BEN,The Cauri Forces for an Emerging Benin,1,FCBE,The Cauri Forces for an Emerging Benin,FCBE,Forces Cauri pour un Bénin Emergent,21.1,BEN-1
+BEN,Social Democratic Party,2,PSD,Social Democratic Party,PSD,Social Democratic Party,12.1,BEN-2
+BOL,Juicios sobre MAS,1,MAS,Movement for Socialism,MAS,Movimiento al Socialismo,37.3,BOL-1
+BOL,Juicios sobre MNR,3,MNR,Revolutionary Nationalist Movement,MNR,Movimiento Nacionalista Revolucionario,14.5,BOL-3
+BOL,Juicios sobre PODEMOS,2,PODEMOS,Social and Democratic Power,PODEMOS,Poder Democrático y Social,16,BOL-2
+BOL,Juicios sobre Frente de Unidad Nacional,4,FUN,National Unity Front,FUN,Frente de Unidad Nacional,3.9,BOL-4
+BWA,Botswana National Front,2,BNF,Botswana National Front,BNF,Botswana National Front,26,BWA-2
+BWA,Botswana Congress Part,3,BCP,Botswana Congress Party,BCP,Botswana Congress Party,14.3,BWA-3
+BWA,Botswana Democratic Party,1,BDP,Botswana Democratic Party,BDP,Botswana Democratic Party,54.4,BWA-1
+BRA,PMDB,3,PMDB,Brazilian Democratic Movement Party,PMDB,Partido do Movimento Democrático Brasileiro,13.9,BRA-3
+BRA,PL,2,PL,Liberal Party,PL,Partido Liberal,4.4,BRA-2
+BRA,PTB,8,PTB,Brazilian Labour Party,PTB,Partido Trabalhista Brasileiro,4.6,BRA-8
+BRA,PSB,5,PSB,Brazilian Socialist Party,PSB,Partido Socialista Brasileiro,5.7,BRA-5
+BRA,PSDB,6,PSDB,Brazilian Social Democratic Party,PSDB,Partido da Social Democracia Brasileira,13.8,BRA-6
+BRA,PFL,1,PFL,Liberal Front Party,PFL,Partido da Frente Liberal,12.1,BRA-1
+BRA,PT,7,PT,Workers' Party,PT,Partido dos Trabalhadores,16.5,BRA-7
+BRA,PP,4,PP,Progressive Party,PP,Partido Progressista,7.4,BRA-4
+BRA,PPS,11,PPS,Socialist Peoples Party,PPS,Partido Popular Socialista,3.5,BRA-11
+BRA,PDT,9,PDT,Democratic Labour Party,PDT,Partido Democrático Trabalhista,5.1,BRA-9
+BRA,PCdoBR,10,PC do BR,Communist Party of Brazil,PC do BR,Partido Comunista do Brasil,2.2,BRA-10
+BGR,DSB,6,DSB,Democrats for a Strong Bulgaria,DSB,????????? ?? ????? ????????,3.2,BGR-6
+BGR,ODS,5,ODS,United Democratic Forces,ODS,????????? ???????????? ????,13,BGR-5
+BGR,GERB,7,GERB,Citizens for European Development of Bulgaria,GERB,???????? ?? ?????????? ???????? ?? ????????,0,BGR-7
+BGR,DPS,3,DPS,The Movement for Rights and Freedoms,DPS,???????? ?? ????? ? ???????,10.1,BGR-3
+BGR,BSP,1,BSP,Bulgarian Socialist Party,BSP,????????? ??????????????? ??????,24,BGR-1
+BGR,Ataka,4,Attack,National Union Attack,Attack,?????????? ???? ?????,4.1,BGR-4
+BGR,NDSV,2,NDSV,National Movement for Stability and Progress,NDSV,?????????? ???????? ?? ?????????? ? ??????,31.3,BGR-2
+CAN,Liberal Party,4,LIB,Liberal Party,LIB,Liberal Party,28.2,CAN-4
+CAN,New Democratic Party,5,NDP,New Democratic Party,NDP,New Democratic Party,17.9,CAN-5
+CAN,Green Party,3,Green,Green Party,Green,Green Party,5.7,CAN-3
+CAN,Conservative Party,2,CON,Conservative Party,CON,Conservative Party,37,CAN-2
+CAN,Bloc Québécois,1,BQ,Bloc Québécois,BQ,Bloc Québécois,10.2,CAN-1
+CHL,P.S,3,PS,Socialist Party of Chile,PS,Partido Socialista de Chile,10.1,CHL-3
+CHL,P.R.S.D,1,PRSD,Social Democrat Radical Party,PRSD,Partido Radical Socialdemócrata,3.8,CHL-1
+CHL,U.D.I,2,UDI,Independent Democratic Union,UDI,Unión Demócrata Independiente,23.8,CHL-2
+CHL,R.N,4,RN,National Renewal,RN,Renovación Nacional,14,CHL-4
+CHL,P.D.C,5,PDC,Christian Democratic Party of Chile,PDC,Partido Demócrata Cristiano de Chile,19.8,CHL-5
+CHL,P.P.D,6,PPD,Party for Democracy,PPD,Partido por la Democracia,14,CHL-6
+COL,Partido Conservador,2,PC,Colombian Conservative Party,PC,Partido Conservador Colombiano,13.4,COL-2
+COL,P.L.C.,1,PLC,Colombian Liberal Party,PLC,Partido Liberal Colombiano,25.1,COL-1
+COL,Partido de la U,3,P de la U,Social National Unity Party,P de la U,Partido Social de Unidad Nacional,8.4,COL-3
+COL,Mov. Alas Equipo Colombia,7,MAEC,Wings-Team Colombia Movement,MAEC,Movimiento Alas Equipo Colombia,3.3,COL-7
+COL,Convergencia Ciudadana,6,CC,Citizens Convergence,CC,Convergencia Ciudadana,2.8,COL-6
+COL,Cambio Radical,4,CR,Radical Change,CR,Cambio Radical,7.2,COL-4
+COL,Polo Democrático Alternativo,5,PDA,Alternative Democratic Pole,PDA,Polo Democrático Alternativo,4.1,COL-5
+CRI,P.U.S.C,4,PUSC,Social Christian Unity Party,PUSC,Partido de Unidad Socialcristiana,18.8,CRI-4
+CRI,Mov. Libertario,3,PML,Libertarian Movement Party,PML,Partido Movimiento Libertario,9.2,CRI-3
+CRI,P.L.N,2,PLN,National Liberation Party,PLN,Partido Liberación Nacional,31.8,CRI-2
+CRI,P.A.C,1,PAC,Citizens' Action Party,PAC,Partido Acción Ciudadana,23.6,CRI-1
+HRV,HDZ,1,HDZ,Croatian Democratic Union,HDZ,Hrvatska demokratska zajednica,35.2,HRV-1
+HRV,HSS,4,HSS,Croatian Peasant Party,HSS,Hrvatska selja?ka stranka,6,HRV-4
+HRV,HDSSB,9,HDSSB,Croatian Democratic Assembly of Slavonia and Baranja,HDSSB,Hrvatski demokratski sabor Slavonije i Baranje,1.2,HRV-9
+HRV,SDSS,10,SDSS,Independent Democratic Serbian Party,SDSS,Samostalna demokratska srpska stranka,1.8,HRV-10
+HRV,SDP,2,SDP,Social Democratic Party of Croatia,SDP,Socijaldemokratska partija Hrvatske,26.9,HRV-2
+HRV,HSU,7,HSU,Croatian Party of Pensioners,HSU,Hrvatska stranka umirovljenika,4.1,HRV-7
+HRV,HNS,3,HNS,Croatian People's Party - Liberal Democrats,HNS,Hrvatska narodna stranka – Liberalni Demokrati,7.4,HRV-3
+HRV,HSP,6,HSP,Croatian Party of Rights,HSP,Hrvatska stranka prava,4.9,HRV-6
+HRV,HSLS,5,HSLS,Croatian Social Liberal Party,HSLS,Hrvatska socijalno liberalna stranka,2.8,HRV-5
+HRV,IDS,8,IDS,Istrian Democratic Assembly,IDS,Istarski demokratski sabor,2.1,HRV-8
+CZE,Communist Party of Bohemia and Moravia,4,KSCM,Communist Party of Bohemia and Moravia,KSCM,Komunistická strana ?ech a Moravy,15.7,CZE-4
+CZE,Civic Democratic Party,1,ODS,Civic Democratic Party,ODS,Ob?anská demokratická strana,30,CZE-1
+CZE,Czech Social Democratic Party,2,CSSD,Czech Social Democratic Party,CSSD,?eská strana sociáln? demokratická,31.2,CZE-2
+CZE,Green Party,5,Green,Green Party,Green,Strana zelených,4.4,CZE-5
+CZE,Christian and Democratic Union - Czechoslovak People's Party,3,KDU-CSL,Christian and Democratic Union - Czechoslovak People's Party,KDU-CSL,K?es?anská a demokratická unie – ?eskoslovenská strana lidová,8.8,CZE-3
+DNK,Socialist People's Party (SF),4,SF,Socialist People's Party,SF,Socialistisk Folkeparti,9.5,DNK-4
+DNK,Liberals (Venstre),5,V,"Venstre, Liberal Party of Denmark",V,"Venstre, Danmarks Liberale Parti",27.7,DNK-5
+DNK,Social Liberals (Det Radikale Venstre),2,SLP,Danish Social Liberal Party,DRV,Det Radikale Venstre,7.1,DNK-2
+DNK,Unity List (Enhedslisten),7,RG,Red-Green Alliance,ERG,Enhedslisten,2.8,DNK-7
+DNK,Danish People's Party (Dansk Folkeparti),6,DF,Danish Peop's Party,DF,Dansk Folkeparti,13.5,DNK-6
+DNK,Conservatives (Det Konservative Folkeparti),3,KF,Conservative People's Party,KF,Det Konservative Folkeparti,10.3,DNK-3
+DNK,Social Democrats (Socialdemokratiet),1,SD,Social Democrats,SD,Socialdemokraterne,25.7,DNK-1
+DNK,New alliance (Ny alliance),8,LA,Liberal Alliance,LA,Liberal Alliance,1.4,DNK-8
+DOM,PRD,1,PRD,Dominican Revolutionary Party,PRD,Partido Revolucionario Dominicano,36.5,DOM-1
+DOM,PRSC,2,SCRP,Social Christian Reformist Party,PRSC,Partido Reformista Social Cristiano,17.6,DOM-2
+DOM,Partido de la Liberación Dominicana,3,DLP,Dominican Liberation Party,PLD,Partido de la Liberación Dominicana,37.8,DOM-3
+ECU,PRIAN,5,IRPNA,Institutional Renewal Party of National Action,PRIAN,Partido Renovador Institucional Accion Nacional,17.2,ECU-5
+ECU,Pachakutik,4,Pachakutik,Movement Plurinational Pachakutik Unity - New Country,Pachakutik,Movimiento Unidad Plurinacional Pachakutik - Nuevo Pais,2.2,ECU-4
+ECU,Izquierda Democrática,2,DL,Democratic Left,ID,Izquierda Democratica,5.6,ECU-2
+ECU,Partido Social Cristiano,1,SCP,Social Christian Party,PSC,Partido Social Cristiano,9.6,ECU-1
+ECU,Partido Sociedad Patriotica,6,PSP,January 21Patriotic Society Party,PSP,Partido Sociedad Patriótica 21 de Enero,13,ECU-6
+ECU,PRE,3,ERP,Ecuadorian Roldosist Party,PRE,Partido Roldosista Ecuatoriano,4.2,ECU-3
+EGY,Tagammu,4,NPUP,National Progressive Unionist Party,NPUP,??? ?????? ?????? ??????? ???????,0.9,EGY-4
+EGY,Wafd,3,Wafd,New Wafd Party,Wafd,??? ????? ??????,1.4,EGY-3
+EGY,Muslim Brotherhood,2,MB,Muslim Brotherhood,MB,??????? ????????,11.6,EGY-2
+EGY,National Democratic Party,1,NDP,National Democratic Party,NDP,????? ?????? ??????????,77,EGY-1
+SLV,Partido Demócrata Cristiano,4,CDP,Christian Democratic Party,PDC,Partido Demócrata Cristiano,6.7,SLV-4
+SLV,Alianza Republicana Nacionalista,1,NRA,Nationalist Republican Alliance,ARENA,Alianza Republicana Nacionalista,39,SLV-1
+SLV,Partido de Conciliación Nacional,3,PNC,Party of National Conciliation,PCN,Partido de Conciliación Nacional,9.9,SLV-3
+SLV,P. Farabundo Martí para la Liberación Nacional,2,FMLN,Farabundo Martí National Liberation Front,FMLN,Frente Farabundo Martí para la Liberación Nacional,41.2,SLV-2
+EST,Reform,1,ERP,Estonian Reform Party,ER,Eesti Reformierakond,22.8,EST-1
+EST,Rohelised,6,Green,Estonian Greens,Rohelised,Erakond Eestimaa Rohelised,3.5,EST-6
+EST,Rahvaliit,4,PUE,People's Union of Estonia,Rahvaliit,Eestimaa Rahvaliit,10.1,EST-4
+EST,IRL,3,UPR,Union of Pro Patria and Res Publica,IRL,Isamaa ja Res Publica Liit,24.9,EST-3
+EST,SDE,5,SDP,Social Democratic Party,SDE,Sotsiaaldemokraatlik Erakond,8.8,EST-5
+EST,Kesk,2,CPE,Centre Party of Estonia,Kesk,Eesti Keskerakond,25.8,EST-2
+FIN,KD,6,CD,Christian Democrats,KD,Kristillisdemokraatit,5.1,FIN-6
+FIN,VIHR,5,Green,The Green League,Vihr,Vihreät,8.2,FIN-5
+FIN,KOK,3,NCP,National Coalition Party,Kok,Kansallinen Kokoomus,20.5,FIN-3
+FIN,PS,8,TF,True Finns,PS,Perussuomalaiset,2.8,FIN-8
+FIN,KESK,1,CP,Centre Party,Kesk,Suomen Keskusta,23.9,FIN-1
+FIN,VAS,4,LA,The Left Alliance,VAS,Vasemmistoliitto,9.4,FIN-4
+FIN,SDP,2,SDP,Social Democratic Party,SDP,Suomen Sosialidemokraattinen Puolue,23,FIN-2
+FIN,RKP/SFP,7,SPP,Swedish People's Party,SFP-RKP,Svenska folkpartiet,4.6,FIN-7
+FRA,Ligue Communiste Révolutionnaire (LCR),7,LCR,Revolutionary Communist League,LCR,Ligue communiste révolutionnaire,2.3,FRA-7
+FRA,Union pour un Mouvement Populaire (UMP),2,UMP,Union for a Popular Movement,UMP,Union pour un Mouvement Populaire,36.4,FRA-2
+FRA,Les Verts,5,Green,The Greens,Verts,Les Verts,3.9,FRA-5
+FRA,Front National (FN),1,FN,National Front,FN,Front national,7.8,FRA-1
+FRA,Parti Socialiste (PS),4,PS,Socialist Party,PS,Parti Socialiste,24.4,FRA-4
+FRA,Parti Communiste Français (PCF),6,PCF,French Communist Party,PCF,Parti communiste français,4.6,FRA-6
+FRA,Mouvement Démocrate (MoDem),3,MoDem,Democratic Movement,MoDem,Mouvement démocrate,6.2,FRA-3
+GEO,United National Movement (UNM),1,UNM,United National Movement,ENM,Ertiani Nazionaluri Modsraoba,63.1,GEO-1
+GEO,New Rights (Conservative) Party of Georgia (NCP),4,NCP,New Rights Party of Georgia,AM,Akhali Memarjveneebi,12.7,GEO-4
+GEO,Georgian Labor Party (GLP),3,GLP,Georgian Labor Party,SLP,Sakartvelos Leiboristuli Partia,6.6,GEO-3
+GEO,Christian Democratic Movement (CDM),2,CDM,Christian Democratic Movement,KDM,k'ristianul-demokratiuli modzraoba,4.3,GEO-2
+DEU,Radical Right,7,NPD,National Democratic Party of Germany,NPD,Nationaldemokratische Partei Deutschlands,1.1,DEU-7
+DEU,CSU,2,CSU,Christian Social Union in Bavaria,CSU,Christlich-Soziale Union in Bayern,8.2,DEU-2
+DEU,Gruene,5,Green,Greens,Green,Gruene,8.4,DEU-5
+DEU,SPD,3,SPD,Social Democrat Party,SPD,Sozialdemokratische Partei Deutschlands,36.3,DEU-3
+DEU,Linke,6,Left,Left,Linke,Linke,6.3,DEU-6
+DEU,CDU,1,CDU,Christian Democratic Union of Germany,CDU,Christlich Demokratische Union Deutschlands,28.6,DEU-1
+DEU,FDP,4,FDP,Free Democratic Party,FDP,Freie Demokratische Partei,8.6,DEU-4
+GHA,New Patriotic Party,1,NPP,New Patriotic Party,NPP,New Patriotic Party,49.7,GHA-1
+GHA,National Democratic Congress,2,NDC,National Democratic Congress,NDC,National Democratic Congress,47.3,GHA-2
+GHA,People's National Convention,3,PNC,The People's National Convention,PNC,The People's National Convention,1.4,GHA-3
+GRC,ND,1,ND,New Democracy,ND,??? ??????????,43.6,GRC-1
+GRC,KKE,3,KKE,Communist Party of Greece,KKE,????????????? ????? ???????,7.1,GRC-3
+GRC,LAOS,5,LAOS,Popular Orthodox Rally,LAOS,?????? ????????? ??????????,3,GRC-5
+GRC,SYRIZA,4,SYRIZA,The Coalition of the Radical Left,SYRIZA,??????????? ????????????? ?????????,4.2,GRC-4
+GRC,PASOK,2,PASOK,Panhellenic Socialist Movement,PASOK,?????????? ???????????? ??????,39.3,GRC-2
+GTM,GANA,2,GANA,Grand National Alliance,GANA,Gran Alianza Nacional,20.4,GTM-2
+GTM,PP,5,PP,Patriotic Party,PP,Partido Patriota,7.9,GTM-5
+GTM,FRG,1,FRG,Guatemalan Republican Front,FRG,Frente Republicano Guatemalteco,14.8,GTM-1
+GTM,UNE,7,UNE,National Unity of Hope,UNE,Unidad Nacional de la Esperanza,20.6,GTM-7
+GTM,INT,3,INT,Authentic Integral Development,INT,Desarrollo Integral Auténtico,2.2,GTM-3
+GTM,PAN,4,PAN,National Advancement Party,PAN,Partido de Avanzada Nacional,7.8,GTM-4
+GTM,PSN,6,PSN,National Solidarity Party,PSN,Partido Solidaridad Nacional,0,GTM-6
+HND,Bancada Nacional,2,NP,National Party,PN,Partido Nacional,44.7,HND-2
+HND,Bancada Liberal,1,LP,Liberal Party of Honduras,PL,Partido Liberal de Honduras,44.6,HND-1
+HUN,Szabad Demokraták Szövetsége,1,SZDSZ,The Alliance of Free Democrats – Hungarian Liberal Party,SZDSZ,Szabad Demokraták Szövetsége – a Magyar Liberális Párt,6.1,HUN-1
+HUN,Magyar Demokrata Fórum,4,MDF,Hungarian Democratic Forum,MDF,Magyar Demokrata Fórum,4.9,HUN-4
+HUN,Fidesz - Magyar Polgári Szövetség,3,Fidesz,The Fidesz – Hungarian Civic Union,Fidesz,Fidesz – Magyar Polgári Szövetség,36.2,HUN-3
+HUN,Magyar Szocialista Párt,5,MSZP,Hungarian Socialist Party,MSZP,Magyar Szocialista Párt,42.6,HUN-5
+HUN,Kereszténydemokrata Néppárt,2,KDNP,Christian Democratic People's Party,KDNP,Kereszténydemokrata Néppárt,4.9,HUN-2
+IND,Janata Dal (Secular),17,JD(S),Janata Dal (Secular),JD(S),Janata Dal (Secular),1.1,IND-17
+IND,Anna DMK,15,Anna DMK,Anna DMK,Anna DMK,Anna DMK,2,IND-15
+IND,Janata Dal (United),7,JD(U),Janata Dal (United),JD(U),Janata Dal (United),2,IND-7
+IND,Rashtriya Janata Dal,8,RJD,Rashtriya Janata Dal,RJD,Rashtriya Janata Dal,1.8,IND-8
+IND,Biju Janata Dal,13,BJD,Biju Janata Dal,BJD,Biju Janata Dal,1.4,IND-13
+IND,CPI/Marxist,4,CPI/M,Communist Party of India/Marxist,CPI/M,Communist Party of India/Marxist,5.5,IND-4
+IND,Shiv Sena,11,SS,Shiv Sena,SS,Shiv Sena,1.7,IND-11
+IND,Dravida Munnetra Kazhagarm,14,DMK,Dravida Munnetra Kazhagarm,DMK,Dravida Munnetra Kazhagarm,1.8,IND-14
+IND,BJP (Bharatiya Janata Party),2,BJP,Bharatiya Janata Party,BJP,Bharatiya Janata Party,20.5,IND-2
+IND,INC (Indian National Congress),5,INC,Indian National Congress,INC,Indian National Congress,27.5,IND-5
+IND,Samajwadi Party,10,SP,Samajwadi Party,SP,Samajwadi Party,3.9,IND-10
+IND,BSP (Bahujan Samaj Party),1,BSP,Bahujan Samaj Party,BSP,Bahujan Samaj Party,5.8,IND-1
+IND,All India Trinamool Congress,12,AITC,All India Trinamool Congress,AITC,All India Trinamool Congress,2.7,IND-12
+IND,Nationalist Congress Party,6,NCP,Nationalist Congress Party,NCP,Nationalist Congress Party,1.9,IND-6
+IND,Telugu Desam Party,16,TDP,Telugu Desam Party,TDP,Telugu Desam Party,2.8,IND-16
+IND,Shirmani Akali Dal,9,SAD,Shirmani Akali Dal,SAD,Shirmani Akali Dal,0.9,IND-9
+IND,CPI (Communist Party of India),3,CPI,Communist Party of India,CPI,Communist Party of India,1.4,IND-3
+IDN,Golongan Karya,2,FG,Functional Group,Partai Golkar,Golongan Karya,18,IDN-2
+IDN,Partai Amanah Nasional,1,NMP,National Mandate Party,PAN,Partai Amanah Nasional,6.2,IDN-1
+IDN,Partai Persatuan Pembangunan,7,UDP,United Development Party,PPP,Partai Persatuan Pembangunan,6.7,IDN-7
+IDN,Partai Demokrasi Indonesia,4,IDPS,Indonesian Democratic Party - Struggle,PDIP,Partai Demokrasi Indonesia,16.3,IDN-4
+IDN,Partai Demokrat,3,DP,Democratic Party,PD,Partai Demokrat,14.2,IDN-3
+IDN,Partai Keadilan Sejahtera,6,WJP,Welfare and Justice Party,PKS,Partai Keadilan Sejahtera,7.6,IDN-6
+IDN,Partai Kebangkitan Bangsa,5,NAP,National Awakening Party,PKB,Partai Kebangkitan Bangsa,7.8,IDN-5
+IRL,Fine Gael (FG),2,FG,Fine Gael – The United Ireland Party,FG,Fine Gael – The United Ireland Party,25.2,IRL-2
+IRL,Fianna Fáil (FF),1,FF,Fianna Fáil – The Republican Party,FF,Fianna Fáil – An Páirtí Poblachtánach,41.5,IRL-1
+IRL,Greens (Gr),5,Green,Greens,Green,Greens,4.2,IRL-5
+IRL,Sinn Féin (SF),4,SF,Sinn Féin,SF,Sinn Féin,6.7,IRL-4
+IRL,Progressive Democrats (PDs,3,PD,The Progressive Democrats,PD,The Progressive Democrats,3.3,IRL-3
+IRL,Labour (Lab),6,Lab,The Labour Party,Lab,The Labour Party,10.5,IRL-6
+ISR,Torah and Shabbat Judaism (Aguda),8,UTJ,United Torah Judaism,UTJ,????? ????? ???????,4.6,ISR-8
+ISR,Meretz,9,Meretz,The New Movement-Meretz,?????? ?????-???,?????? ?????-???,3.4,ISR-9
+ISR,Labor - Meimad,2,Labor,The Israeli Labor Party,Labor,: ????? ?????? ????????,12.4,ISR-2
+ISR,Israel Beiteinu,5,YB,Yisrael Beiteinu,YB,????? ?????,10.3,ISR-5
+ISR,Kadima,1,Kadima,Kadima,Kadima,?????,22.2,ISR-1
+ISR,Likud,4,Likud,Likud,Likud,???????,15.3,ISR-4
+ISR,National Unity - Mafdal,6,NU,The National Union,NU,?????? ??????,5.2,ISR-6
+ISR,Pensioners' Party,7,Gil,Gil,Gil,?????? ????? ?????,3.2,ISR-7
+ISR,Shas,3,Shas,Shas,Shas,???,9,ISR-3
+ITA,Südtiroler Volkspartei (SVP),8,STPP,South Tyrol Peoples' Party,SVP,Südtiroler Volkspartei,0.5,ITA-8
+ITA,Rifondazione Comunista (Rc),7,CRP,Communist Refoundation Party,PRC,Partito della Rifondazione Comunista,4.4,ITA-7
+ITA,Movimento per l'Autonomia (Mpa),9,MfA,Movement for the Autonomies,MpA,Movimento per le Autonomie,0.9,ITA-9
+ITA,Lega Nord (LN),3,NL,Northern League,LN,Lega Nord,6.2,ITA-3
+ITA,Partito Democratico (PD),4,DP,Democratic Party,PD,Partito Democratico,32.2,ITA-4
+ITA,Unione di Centro (Udc),6,UC,Union of the Center,UdC,Unione di Centro,6.2,ITA-6
+ITA,Forza Italia (FI),1,FI,Forward Italy,FI,Forza Italia,30.6,ITA-1
+ITA,Italia dei Valori (IdV),5,IdV,Italy of Values,IdV,Italia dei Valori,3.3,ITA-5
+ITA,Alleanza Nazionale (AN),2,,National Alliance,AN,Alleanza Nazionale,6.2,ITA-2
+JAM,People's National Party,2,PNP,People's National Party,PNP,People's National Party,51,JAM-2
+JAM,Jamaica Labor Party,1,JLP,Jamaica Labour Party,JLP,Jamaica Labour Party,48.7,JAM-1
+JPN,Liberal Democratic Party Japan,1,LDP,Liberal Democratic Party,LDP,?????,36.6,JPN-1
+JPN,Japanese Communist Party,4,JCP,Japanese Communist Party,JCP,?????,7.5,JPN-4
+JPN,Japanese Social Democratic Party,5,JSD,Japanese Social Democrats,JSD,?????,5.3,JPN-5
+JPN,Komei Party,3,Komeito,New Komeito,Komeito,???,14.1,JPN-3
+JPN,Democratic Party Japan,2,DPJ,Democratic Party of Japan,DPJ,???,34.2,JPN-2
+KEN,Party of National Unity,4,PNU,Party of National Unity,PNU,Party of National Unity,10.4,KEN-4
+KEN,Orange Democratic Movement,2,ODM,Orange Democratic Movement,ODM,Orange Democratic Movement,23.9,KEN-2
+KEN,Kenya African National Union,1,KANU,Kenya African National Union,KANU,Kenya African National Union,17.9,KEN-1
+KEN,Orange Democratic Movement-Kenya,3,ODM-Kenya,Orange Democratic Movement-Kenya,ODM-Kenya,Orange Democratic Movement-Kenya,3.9,KEN-3
+LVA,TP,1,PP,The People's Party,TP,Tautas partija,18.1,LVA-1
+LVA,TB/LNNK,6,FF/LNNK,Fatherland and Freedom/LNNK,TB/LNNK,T?vzemei un Br?v?bai/LNNK,6.2,LVA-6
+LVA,SC,4,HC,The Harmony Centre,SC,Saska?as Centrs,7.2,LVA-4
+LVA,JL,2,NEP,The New Era Party,JL,Jaunais Laiks,20.1,LVA-2
+LVA,LSDSP,8,LSDWP,Latvian Social Democrat Workers' Party,LSDSP,Latvijas Soci?ldemokr?tisk? Str?dnieku Partija,3.8,LVA-8
+LVA,LPP/LC,5,LFP/LW,Latvians First Party/Latvian Way,LPP/LC,Latvijas Pirm? Partija/ Latvijas Ce?š,12,LVA-5
+LVA,PCTVL,7,PCTVL,For Human Rights in United Latvia,PCTVL,Par cilv?ka ties?b?m vienot? Latvij?,12.5,LVA-7
+LVA,ZZS,3,UGF,Union of Greens and Farmers,ZZS,Za?o un Zemnieku Savien?ba,13.1,LVA-3
+LBN,Democratic Left Movement,5,DLM,Democratic Left Movement,YD,?arakatu-l-yasari-d-dimuqrati,0.8,LBN-5
+LBN,Lebanese Democratic Party,12,LDemP,Lebanese Democratic Party,LDemP,Hizb al-democraty al-lubnany,1.2,LBN-12
+LBN,Kateab Party,4,Kateab,Kateab Party,Kateab,Hizb al-Kataeb,4.3,LBN-4
+LBN,Free Patriotic Movement,10,FPM,Free Patriotic Movement,FPM,Tayyar Al-Watani Al-Horr,12.9,LBN-10
+LBN,National Liberal Party,6,NLP,National Liberal Party,WA,Hizbu-l-waTaniyy?ni-l-aHr?r,0.4,LBN-6
+LBN,Syrian Socialist Nationalist Party,11,SSNP,Syrian Socialist Nationalist Party,SSNP,al-Hizb al-Qawmi al-souri al ijtima'i,1.6,LBN-11
+LBN,Marada Movement,13,Marada,Marada Movement,Marada,Marada,1.2,LBN-13
+LBN,Lebanese Forces,3,LF,Lebanese Forces,LF,al-Quwat al-Lubnaniyya,5.5,LBN-3
+LBN,Tachnak Party,14,Tachnak,Tachnak Party,Tachnak,Tashnag,0.8,LBN-14
+LBN,Hizbullah,9,Hizb,Hizbullah,Hizb,Hezbollah,10.5,LBN-9
+LBN,Jama'a Islamiya,7,Jama'a,Jama'a Islamiya,Jama'a,Jamaa al-Islamiya,0.4,LBN-7
+LBN,Amal Movement,8,Amal,Amal Movement,Amal,Harakat Amal,10.5,LBN-8
+LBN,Progressive Socialist Party,2,PSP,Progressive Socialist Party,PSP,Hizb al-Taqadummi al-Ishtiraki,10.2,LBN-2
+LBN,Future Movement,1,Future,Future Movement,Future,Tayyar Al Mustaqbal,25,LBN-1
+LBN,Lebanese Communist Party,15,LComP,Lebanese Communist Party,LComP,Hizbu-sh-shuy¡¥ui--l-lubna-ni-,0,LBN-15
+LTU,Peasants and New Democratic Party Union,7,LPPU,Lithuanian Peasant Popular Union,LVLS,Lietuvos valstie?i? liaudinink? s?junga,5.2,LTU-7
+LTU,Labor party,1,LP,Labour Party,DP,Darbo Partija,18.7,LTU-1
+LTU,Homeland Union (Lithuanian Conservatives),6,HU,Homeland Union - Christian Democras,TS,T?vyn?s s?junga - Lietuvos krikš?ionys demokratai,17.2,LTU-6
+LTU,Lithuanian Social Democratic Party,4,SDP,Social Democrat Party,SDP,Lietuvos socialdemokrat? partija,12.5,LTU-4
+LTU,Liberal Democratic Party,2,OJ,Order and Justice,TT,Tvarka ir teisingumas,11.8,LTU-2
+LTU,New Union (Social Liberals),5,NU,New Union (Social Liberals),NS,Naujoji s?junga (socialliberalai),5.4,LTU-5
+LTU,Liberal and Center Union,3,LCU,Liberal and Center Union,LCS,Liberal? ir centro s?junga,7.2,LTU-3
+MKD,SDSM,1,SDSM,Social Democratic Union of Macedonia,SDSM,?????????????????? ????? ?? ??????????,19.5,MKD-1
+MKD,NSDP,3,NSDP,New Social Democratic Party,NSDP,???? ?????????????????? ???????,6.9,MKD-3
+MKD,DPA,5,DPA,The Democratic Party of Albanians,DPA,??????????? ??????? ?? ?????????,8,MKD-5
+MKD,VMRO-DPMNE,2,VMRO–DPMNE,The Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity,????-?????,????????? ?????????? ?????????????? ???????????? – ??????????? ??????? ?? ?????????? ?????????? ????????,40.7,MKD-2
+MKD,DUI,4,DUI,The Democratic Union for Integration,DUI,??????????? ????? ?? ???????????,12.2,MKD-4
+MYS,Malaysian Chinese Association,2,MCA,Malaysian Chinese Association,PCM,Persatuan Cina Malaysia,12.9,MYS-2
+MYS,Democratic Action Party,4,DAP,Democratic Action Party,PTD,Parti Tindakan Demokratik,11.8,MYS-4
+MYS,Pan-Malaysian Islamic Party,5,Islamic,Pan-Malaysian Islamic Party,Islamic,Parti Islam Se-Malaysia,14.7,MYS-5
+MYS,People's Justice Party,3,Keadilan,People's Justice Party,Keadilan,Parti Keadilan Rakyat,13.8,MYS-3
+MYS,United Malays National Organisation,1,UMNO,United Malays National Organisation,PKMB,Pertubuhan Kebangsaan Melayu Bersatu,32.6,MYS-1
+MLI,The Rally for Mali,2,RM,Rally for Mali,RM,Rassemblement pour le Mali,17.8,MLI-2
+MLI,The Union for the Republic and Democracy,1,UPRD,Union for the Republic and Democracy,UPRD,Union pour la République et la Démocratie,10.6,MLI-1
+MLI,The Sudanese Union-African Democratic Rally,3,US-RDA,The Sudanese Union-African Democratic Rally,US-RDA,Union Soudanaise-Rassemblement Démocratique Africain,3.4,MLI-3
+MLI,The National Congress for Democratic Initiative,5,CNID,The National Congress for Democratic Initiative,CNID,Congrès national d’initiative démocratique,6.2,MLI-5
+MLI,The Alliance for Democracy in Mali,4,ADEMA-PASJ,"The Alliance for Democracy in Mali-Pan-African Party for Liberty, Solidarity and Justice",ADEMA-PASJ,"Alliance pour la Démocratie en Mali-Parti Pan-Africain pour la Liberté, la Solidarité et la Justice",32.5,MLI-4
+MUS,Mauritian Social Movement,4,MSM,Mauritian Social Movement,MSM,Mouvement Socialiste Mauricien,25.8,MUS-4
+MUS,Mauritian Labour Party,1,MLP,Mauritian Labour Party,PT,Parti Travailliste,32.8,MUS-1
+MUS,Mauritian Militant Movement,3,MMM,Mauritian Militant Movement,MMM,Mouvement Militant Mauricien,32.8,MUS-3
+MUS,Rodrigues Movement,6,RM,Rodrigues Movement,MR,Mouvement Rodriguais,3.1,MUS-6
+MUS,Mauritian Party of Xavier-Luc Duval,2,MPXD,Mauritian Party of Xavier-Luc Duval,PMXD,Parti Mauricien Xavier-Luc Duval,2.3,MUS-2
+MUS,Organisation of the People of Rodrigues,5,OPR,Organisation of the People of Rodrigues,OPR,Organisation du Peuple Rodriguais,3.1,MUS-5
+MEX,PAN,2,PAN,National Action Party,PAN,Partido Acción Nacional,28.2,MEX-2
+MEX,P.V.E.M,4,PVEM,The Ecologist Green Party of Mexico,PVEM,Partido Verde Ecologista de México,6.2,MEX-4
+MEX,PRD,3,PRD,Party of the Democratic Revolution,PRD,Partido de la Revolución Democrática,17.7,MEX-3
+MEX,PRI,1,PRI,Institutional Revolutionary Party,PRI,Partido Revolucionario Institucional,25.2,MEX-1
+MEX,CONVERGENCIA,5,Convergence,Convergence,Convergencia,Convergencia,4.1,MEX-5
+MDA,Communist Party of Moldova,1,CPM,Communist Party of Moldova,PCRM,Partidul Comuni?tilor din Republica Moldova,47.8,MDA-1
+MDA,Liberal Party of Moldova,5,LP,Liberal Party,PL,Partidul Liberal,6.6,MDA-5
+MDA,Christian-Democratic People's Party,2,CDPP,Christian Democrat Peoples Party,PPCD,Partidul Popular Cre?tin Democrat,6.1,MDA-2
+MDA,Democratic Party of Moldova,4,DPM,Democratic Party of Moldova,PDM,Partidul Democrat din Moldova,4.8,MDA-4
+MDA,Party Alliance Our Moldova,3,PAOM,Party Alliance Our Moldova,PAMN,Partidul Alian?? Moldova Noastr?,14.1,MDA-3
+MDA,Social-Democratic Party of Moldova,6,SDP,Social Democratic Party,PSD,Partidul Social Democrat,3.3,MDA-6
+MNG,National New Party,4,NNP,New National Party,USN,Ündesnii Shine Nam,0,MNG-4
+MNG,Mongolian People's Revolutionary Party,3,MPRP,Mongolian People's Revolutionary Party,AKN,?????? ????? ????????? ???,53.7,MNG-3
+MNG,Democratic Party,1,DP,Democratic Party,AN,????????? ???,36.7,MNG-1
+MNG,Motherland Party,5,MP,Motherland Party,EN,?? ???? ???,2.5,MNG-5
+MNG,Civic Will Party,2,CWP,Civic Will Party,IZN,??????? ????? ???,1.3,MNG-2
+MAR,Mouvement Populaire,3,PM,Popular Movement,MP,Mouvement Populaire,7.2,MAR-3
+MAR,Parti d'Independence,1,IP,Independence Party,PI,Parti d'Independence,9.2,MAR-1
+MAR,Union Socialiste des Forces Populaires,5,SUPF,Socialist Union of Popular Forces,USFP,Union Socialiste des Forces Populaires,9.2,MAR-5
+MAR,Rassemblement National des Indépendents,4,NRI,National Rally of Independents,RNI,Rassemblement National des Indépendents,8.4,MAR-4
+MAR,Parti de la Justice et du Développement,2,JDP,Justice and Development Party,PJD,Parti de la Justice et du Développement,9.1,MAR-2
+MOZ,Mozambican National Resistance,2,RENAMO,Mozambican National Resistance,RENAMO,Resistência Nacional Moçambicana,34.2,MOZ-2
+MOZ,Liberation Front of Mozambique,1,FRELIMO,Liberation Front of Mozambique,FRELIMO,Frente de Libertação de Moçambique,55.2,MOZ-1
+NAM,National Unity Democratic Organization,4,NUDO,National Unity Democratic Organisation,NUDO,National Unity Democratic Organisation,2,NAM-4
+NAM,South West Africa People's Organization,1,SWAPO,South West Africa People's Organization,SWAPO,South West Africa People's Organization,75.6,NAM-1
+NAM,United Democratic Front,5,UDF,United Democratic Front,UDF,United Democratic Front,3.2,NAM-5
+NAM,Democratic Turnhalle Alliance,3,DTA,Democratic Turnhalle Alliance,DTA,Democratic Turnhalle Alliance,7.2,NAM-3
+NAM,Congress of Democrats,2,CD,Congress of Democrats,CD,Congress of Democrats,8.5,NAM-2
+NLD,Democrats 66,8,D-66,Democrats 66,D-66,Democraten 66,3,NLD-8
+NLD,People's Party for Freedom and Democracy,4,VVD,People's Party for Freedom and Democracy,VVD,Volkspartij voor Vrijheid en Democratie,16.3,NLD-4
+NLD,Proud of the Netherlands,9,Trots op NL,Proud of the Netherlands,Trots op NL,Trots op Nederland,0,NLD-9
+NLD,Christian Union,7,CU,Christian Union,CU,ChristenUnie,3,NLD-7
+NLD,Christian Democratic Appeal,1,CDA,Christian Democratic Appeal,CDA,Christen Democratisch Appèl,27.5,NLD-1
+NLD,GreenLeft,6,GL,GreenLeft,GL,GroenLinks,4.8,NLD-6
+NLD,Party for Freedom,5,PVV,Party for Freedom,PVV,Partij voor de Vrijheid,3,NLD-5
+NLD,Socialist Party,3,SP,Socialist Party,SP,Socialistische Partij,11.5,NLD-3
+NLD,Labour Party,2,PvdA,Labour Party,PvdA,Partij van de Arbeid,24.2,NLD-2
+NZL,Maori,6,Maori,Maori,Maori,Maori,2.2,NZL-6
+NZL,Labour,1,Lab,Labour,Lab,Labour,37.5,NZL-1
+NZL,United Future,7,UF,United Future,UF,United Future,1.8,NZL-7
+NZL,NZ First,4,NZF,NZ First,NZF,NZ First,4.9,NZL-4
+NZL,ACT,5,ACT,ACT,ACT,ACT,2.6,NZL-5
+NZL,Green,3,Green,Green,Green,Green,6,NZL-3
+NZL,Progressive,8,Pro,Progressive,Pro,Progressive,1.1,NZL-8
+NZL,National,2,Nat,National,Nat,National,42,NZL-2
+NIC,Azul y Blanco,1,ALN,Nicaraguan Liberal Alliance,ALN,Alianza Liberal Nicaragüense,13.3,NIC-1
+NIC,FSLN,2,FSLN,Sandinista National Liberation Front,FSLN,Frente Sandinista de Liberación Nacional,40.1,NIC-2
+NIC,Partido Liberal,3,PLC,Constitutionalist Liberal Party,PLC,Partido Liberal Constitucionalista,39.5,NIC-3
+NER,Nigerien Party for Democracy and Socialism,3,PNDS,Nigerien Party for Democracy and Socialism,PNDS,Parti Nigerien pour la Democratie et le Socialisme-Tarayya,16.3,NER-3
+NER,National Movement for the Development of Society,1,MNSD,The National Movement for the Development of Society,MNSD,Mouvement National de la Société de Développement,41.5,NER-1
+NER,Democratic and Social Convention,2,CDS-Rahama,Democratic and Social Convention -Rahama,CDS-Rahama,Convention démocratique et sociale-Rahama,18.9,NER-2
+NER,Nigerien Alliance for Democracy and Progress,4,ANDP,Nigerien Alliance for Democracy and Progress,ANDP,Alliance nigérienne pour la démocratie et le progrès,5.1,NER-4
+NGA,African Congress,1,ACT,Action Congress,ACT,Action Congress,4.4,NGA-1
+NGA,All Nigeria People's Party,2,ANPP,All Nigeria People's Party,ANPP,All Nigeria People's Party,22.3,NGA-2
+NGA,People's Democratic Party,3,PDP,People's Democratic Party,PDP,People's Democratic Party,63.4,NGA-3
+NOR,Conservative Party (Høyre),3,H,Conservative Party,H,Høyre,17.7,NOR-3
+NOR,Centre Party (Senterpartiet),1,SP,Centre Party,SP,Senterpartiet,6.1,NOR-1
+NOR,Socialist Left Party (Sosialistisk venstreparti),7,SV,Socialist Left Party,SV,Sosialistisk Venstreparti,10.7,NOR-7
+NOR,Labour Party (Arbeiderpartiet),4,AP,Labour Party,AP,Arbeiderpartiet,28.5,NOR-4
+NOR,Liberal Party (Venstre),5,V,Liberal Party,V,Venstre,4.9,NOR-5
+NOR,Christian People’s Party (Kristelig folkeparti),2,KrF,Christian Peoples Party,KrF,Kristelig Folkeparti,9.6,NOR-2
+NOR,Progress Party (Fremskrittspartiet),6,FrP,Progress Party,FrP,Framstegspartiet,18.4,NOR-6
+PAK,MQM,4,MQM,Muttahida Quami Movement,MQM,????? ???? ??????,5.2,PAK-4
+PAK,PML-Q,3,PML-Q,Pakistan Muslim League-Q,PML-Q,??????? ???? ??? ?,24.4,PAK-3
+PAK,PPP,1,PPP,Pakistan Peoples Party,PPP,??????? ????? ?????,28.2,PAK-1
+PAK,ANP,5,ANP,Awami National Party,ANP,Awami National Party,1.5,PAK-5
+PAK,JUI-F,6,JUI,Jamiat Ulema-e-Islam,JUI,Jamiat Ulema-e-Islam,6.8,PAK-6
+PAK,PML-N,2,PML-N,Pakistan Muslim League-N,PML-N,??????? ???? ??? ?,14.5,PAK-2
+PAN,P. Liberación Nacional,6,PLN,National Liberal Party,PLN,Partido Liberal Nacional,2.6,PAN-6
+PAN,P. Solidaridad,4,PS,Solidarity Party,PS,Partido Solidaridad,7.8,PAN-4
+PAN,P. Revolucionario Democrático,1,PRD,Democratic Revolutionary Party,PRD,Partido Revolucionario Democrático,36.2,PAN-1
+PAN,P. Molirena,3,MOLIRENA,Nationalist Republican Liberal Movement,MOLIRENA,Movimiento Liberal Republicano Nacionalista,6,PAN-3
+PAN,P. Arnulfista,2,PP,Panameñista Party,PP,Partido Panameñista,21.9,PAN-2
+PAN,P. Cambio Democrático,5,CD,Democratic Change,CD,Cambio Democrático,15.3,PAN-5
+PRY,ANR,1,ANR-PC,The National Republican Association – Colorado Party,ANR-PC,Asociación Nacional Republicana – Partido Colorado,35.8,PRY-1
+PRY,PLRA,2,PLRA,The Authentic Radical Liberal Party,PLRA,Partido Liberal Radical Auténtico,29.1,PRY-2
+PRY,PPQ,3,MPQ,Beloved Fatherland Movement,MPQ,Movimiento Patria Querida,9.5,PRY-3
+PRY,MPT,7,MPT,Popular Movement Tekojoja,MPT,Movimiento Popular Tekojoja,0.6,PRY-7
+PRY,PDP,6,PDP,Democratic Progressive Party,PDP,Partido Democrático Progresista,0.6,PRY-6
+PRY,PPS,5,PPS,Party for a Country of Solidarity,PPS,Partido País Solidario,1.6,PRY-5
+PRY,PUNACE,4,UNACE,The National Union of Ethical Citizens,UNACE,Unión Nacional de Ciudadanos Éticos,17.4,PRY-4
+PER,Partido Aprista Peruano,2,APRA,Alianza Popular Revolucionaria,APRA,Alianza Popular Revolucionaria,20.2,PER-2
+PER,Unión por el Perú,1,UFP,Union For Peru,UP,Unión por el Perú,12.7,PER-1
+PER,Unidad Nacional,3,UN,National Union,UN,Unidad Nacional,14.6,PER-3
+PER,Frente de Centro,5,FdC,Central Front,FdC,Frente de Centro,3.5,PER-5
+PER,Alianza por el futuro,4,ApeF,Alliance for the Future,ApeF,Alianza por el futuro,6.6,PER-4
+PHL,AKBAYAN,7,AKBAYAN,Akbayan Citizens' Action Party,AKBAYAN,Akbayan Citizens' Action Party,0.6,PHL-7
+PHL,BAYAN MUNA,6,PF,People First,Bayan Muna,Bayan Muna,1,PHL-6
+PHL,NP,5,NP,Nacionalist Party,PNP,Partido Nacionalista ng Pilipinas,2.5,PHL-5
+PHL,KAMPI,2,PFF,Partner of the Free Filipino,KAMPI,Kabalikat ng Malayang Pilipino,14.3,PHL-2
+PHL,NPC,3,NPC,Nationalist People's Coalition,KMB,Koalisyong Makabayang Bayan,13,PHL-3
+PHL,LP,4,LP,Liberal Party,PLP,Partido Liberal ng Pilipinas,9.6,PHL-4
+PHL,LAKAS-CMD,1,Lakas-CMD,Lakas-Christian Muslim Democrats,Lakas-CMD,Lakas-Christian Muslim Democrats,32.7,PHL-1
+POL,PSL,4,PSL,Polish Peoples Party,PSL,Polskie Stronnictwo Ludowe,7.9,POL-4
+POL,SRP,5,SRP,Self Defence of the Republic of Poland,SRP,Samoobrona Rzeczpospolitej Polskiej,6.4,POL-5
+POL,SLD,3,SLD,Democratic Left Alliance,SLD,Sojusz Lewicy Demokratycznej,10.2,POL-3
+POL,PO,1,PO,Civic Platform,PO,Platforma Obywatelska,32.8,POL-1
+POL,PiS,2,PiS,Law and Justice,PiS,Prawo i Sprawiedliwo??,29.5,POL-2
+POL,LPR,6,LPR,League of Polish Families,LPR,Liga Polskich Rodzin,4.7,POL-6
+PRT,Portuguese Communist Party,3,PCP,Portuguese Communist Party,PCP,Partido Comunista Português,7.2,PRT-3
+PRT,Leftist Bloc,5,B.E.,Leftist Bloc,B.E.,Bloco de Esquerda,4.6,PRT-5
+PRT,Social Democratic Center-Popular Party,4,CDS-PP,Democratic and Social Centre - People's Party,CDS-PP,Centro Democrático e Social - Partido Popular,8,PRT-4
+PRT,Social Democratic Party,2,PSD,Social Democratic Party,PSD,Partido Social Democrata,34.5,PRT-2
+PRT,Socialist Party,1,PS,Socialist Party,PS,Partido Socialista,41.4,PRT-1
+KOR,GNP,1,GNP,The Grand National Party,GNP,????,36.6,KOR-1
+KOR,UDP,2,UDP,The Democratic Party,UDP,???,31.7,KOR-2
+KOR,LFP,3,LFP,Liberty Forward Party,LFP,?????,3.4,KOR-3
+ROU,Partidul Social Democrat,1,PSD,Social Democrat Party,PSD,Partidul Social Democrat,31.7,ROM-1
+ROU,Partidul Democrat Liberal,2,PDL,Democratic Liberal Party,PDL,Partidul Democrat Liberal,23,ROM-2
+ROU,Partidul Romania Mare,4,PRM,Greater Romanian Party,PRM,Partidul Romania Mare,8.1,ROM-4
+ROU,Partidul Conservator,6,PC,Conservative Party,PC,Partidul Conservator,3.2,ROM-6
+ROU,Partidul National Liberal,3,PNL,National Liberal Party,PNL,Partidul National Liberal,18.3,ROM-3
+ROU,Uniunea Democrata Maghiara din Romania,5,UDMR,The Democratic Union of Hungarians in Romania,UDMR,Uniunea Democrata Maghiara din Romania,6.2,ROM-5
+RUS,Yabloko,6,Yabloko,The Russian United Democratic Party Yabloko,Yabloko,??????,3,RUS-6
+RUS,CPRF,2,CPRF,Communist Party of the Russian Federation,CPRF,???????????????? ?????? ?????????? ?????????,12.1,RUS-2
+RUS,LDPR,3,LDPR,The Liberal Democratic Party of Russia,LDPR,??????????-??????????????? ?????? ??????,9.8,RUS-3
+RUS,SPS,5,SPS,The Union of Right Forces,SPS,????? ??????? ???,2.5,RUS-5
+RUS,United Russia,1,UR,United Russia,UR,?????? ??????,51,RUS-1
+RUS,SR,4,SR,Fair Russia: Motherland/Pensioners/Life,SR,????????????? ???????: ???????/???????????/?????,9.9,RUS-4
+ZAF,Democratic Alliance,2,DA,Democratic Alliance,DA,Democratic Alliance,14.6,ZAF-2
+ZAF,African National Congress,1,ANC,African National Congress,ANC,African National Congress,67.8,ZAF-1
+ZAF,Inkatha Freedom Party,3,IFP,Inkatha Freedom Party,IFP,Inkatha Freedom Party,5.8,ZAF-3
+SEN,Alliance of the Forces of Progress,5,AFP,Alliance of the Forces of Progress,AFP,Alliance des forces de progrès,8.1,SEN-5
+SEN,Party of Independence and Labour,3,PIT,Party of Independence and Labour,PIT,Parti de l'Indépendence et du Travail,0.3,SEN-3
+SEN,Socialist Party,2,PS,Socialist Party,PS,Parti Socialiste du Sénégal,8.7,SEN-2
+SEN,Senegalese Democratic Party,1,PDS,Senegalese Democratic Party,PDS,Parti Démocratique Sénégalais,59.4,SEN-1
+SEN,African Party for Democracy and Socialism,4,AJ/PADS,African Party for Democracy and Socialism,AJ/PADS,And-Jëf/Parti Africain pour la démocratie et le socialisme,4.5,SEN-4
+YUG,SPS,6,SPS,Socialist Party of Serbia,SPS,?????????????? ??????? ??????,6.6,YUG-6
+YUG,DSS,3,DSS,Democratic Party of Serbia,DSS,??????????? ??????? ??????,10.6,YUG-3
+YUG,DS,2,DS,Democratic Party,DS,??????????? ???????,23.5,YUG-2
+YUG,SRS,1,SRP,Serbian Radical Party,SRS,?????? ????????? ???????,29,YUG-1
+YUG,LDP,7,LDP,Liberal Democratic Party,LDP,?????????-??????????? ???????,5.2,YUG-7
+YUG,G17+,4,G17+,G17+,G17+,G17+,7.6,YUG-4
+YUG,NS,5,NS,New Serbia,NS,???? ??????,3.5,YUG-5
+SVK,People's Party - Movement for a Democratic Slovakia,5,LS-HDS,People's Party - Movement for a Democratic Slovakia,LS-HDS,?udová strana – Hnutie za demokratické Slovensko,14.2,SVK-5
+SVK,Slovak Democratic and Christian Union - Democratic Party,2,SKDU-DS,Slovak Democratic and Christian Union - Democratic Party,SKDU-DS,Slovenská demokratická a kres?anská únia – Demokratická strana,16.8,SVK-2
+SVK,Party of Hungarian Coalition,4,SMK,Party of Hungarian Coalition,SMK,Strana ma?arskej koalície,11.4,SVK-4
+SVK,Slovak National Party,3,SNS,Slovak National Party,SNS,Slovenská národná strana,7.5,SVK-3
+SVK,Christian Democratic Movement,6,KDH,Christian Democratic Movement,KDH,Kres?anskodemokratické hnutie,8.3,SVK-6
+SVK,Direction - Social Democracy,1,Smer,Direction - Social Democracy,Smer,Smer – sociálna demokracia,21.3,SVK-1
+SVN,Social Democrats,1,SD,Social Democrats,SD,Socialni Demokrati,20.4,SVN-1
+SVN,Liberal Democracy of Slovenia,7,LDS,Liberal Democracy of Slovenia,LDS,Liberalna Demokracija Slovenije,14,SVN-7
+SVN,Democratic Party of Pensioners of Slovenia,4,DPPS,Democratic Party of Pensioners of Slovenia,DeSUS,Demokraticna Stranka Upokojencev Slovenije,5.8,SVN-4
+SVN,New Slovenia ¡V Christian People's Party,8,NSCDP,New Slovenia ¡V Christian People's Party,NSI,Nova Slovenija - Krscanski Ljudska Stranka,4.5,SVN-8
+SVN,For Real,3,FRNP,For Real - New Politics,Z-NP,Zares - Nova Politika,4.7,SVN-3
+SVN,Slovenian Democratic Party,2,SDP,Slovenian Democratic Party,SDS,Slovenska Demokratska Stranka,29.2,SVN-2
+SVN,Slovenian National Party,5,SNP,Slovenian National Party,SNS,Slovenska Nacionalna Stranka,5.9,SVN-5
+SVN,Slovenian People's Party,6,SPP,Slovenian People's Party,SLS,Slovenska Ljudska Stranka,6,SVN-6
+ESP,Convergence and Union,4,CiU,Convergence and Union,CiU,Convergència i Unió,3.2,ESP-4
+ESP,Spanish Socialist Workers Party,1,PSOE,Spanish Socialist Workers Party,PSOE,Partido Socialista Obrero Español,43.6,ESP-1
+ESP,Popular Party,2,PP,Popular Party,PP,Partido Popular,39.1,ESP-2
+ESP,Basque Nationalist Party,5,BNP,Basque Nationalist Party,BNP,Basque Nationalist Party,1.4,ESP-5
+ESP,United Left,3,IU,United Left,IU,Izquierda Unida,4.6,ESP-3
+SWE,Moderata samlingspartiet,1,Mod,Moderate Party,Mod,Moderata samlingspartiet:,20.8,SWE-1
+SWE,Centerpartiet,2,C,Centre Party,C,Centerpartiet,7.1,SWE-2
+SWE,Socialdemokraterna,6,SAP,Social Democratic Party,SAP,Sveriges socialdemokratiska arbetareparti,37.5,SWE-6
+SWE,Vänsterpartiet,7,V,Left Party,V,Vänsterpartiet,7.1,SWE-7
+SWE,Miljöpartiet de Gröna,5,MPG,Green Party,MPG,Miljöpartiet de Gröna,4.9,SWE-5
+SWE,olkpartiet liberalerna,3,FP,Liberal Peoples Party,FP,Folkpartiet liberalerna,10.4,SWE-3
+SWE,Sverigedemokraterna,8,SD,Sweden Democrats,SD,Sverigedemokraterna,2.2,SWE-8
+SWE,Kristdemokraterna,4,KD,Christian Democrats,KD,Kristdemokraterna,7.9,SWE-4
+CHE,CVP,1,CVP,Christian Democratic People's Party of Switzerland,CVP,Christlich Demokratische Volkspartei,14.4,CHE-1
+CHE,LPS,6,LPS,Liberal Party of Switzerland,LPS,Liberale Partei der Schweiz,2,CHE-6
+CHE,Lega,7,Lega,Ticino League,Lega,Lega dei Ticinesi,0.5,CHE-7
+CHE,FDP,2,FDP,The Free Democratic Party of Switzerland,FDP,The Free Democratic Party of Switzerland,16.5,CHE-2
+CHE,SP,3,SP,Socialist Party of Switzerland,SP,Sozialdemokratische Partei der Schweiz,21.5,CHE-3
+CHE,SVP,4,SVP,Swiss People's Party,SVP,Swiss People's Party,27.8,CHE-4
+CHE,Gruene,5,Gruene,Green Party of Switzerland,Gruene,Grüne Partei der Schweiz,8.5,CHE-5
+TWN,Kuomintang,1,KMT,Kuomintang,KMT,?????,51.6,TWN-1
+TWN,Democratic Progressive Party,2,DPP,Democratic Progressive Party,DPP,?????,42.2,TWN-2
+TZA,Party of the Revolution,1,PR,Party of the Revolution,CCM,Chama Cha Mapinduzi,78.7,TZA-1
+TZA,Civic United Front,3,CUF,Civic United Front,CCW,Chama Cha Wananchi,10.9,TZA-3
+TZA,Party for Democracy and Progress,2,PDP,Party for Democracy and Progress,CDM,Chama cha Demokrasia na Maendeleo,4.9,TZA-2
+THA,Ruam Jai Thai Chart Pattana,5,UNDP,Thais United National Development Party,RJTCP,Ruam Jai Thai Chart Pattana,1.4,THA-5
+THA,Palang Prachachon,6,PPP,The People's Power Party,PaP,Palang Prachachon,19.8,THA-6
+THA,Chart Thai,3,TNP,Thai Nation Party,CT,Chart Thai,2.2,THA-3
+THA,Pue Pandin Party,2,MP,Motherland Party,PPP,Pue Pandin Party,2.8,THA-2
+THA,Prachatipat,7,DP,The Democrat Party,Pr,Prachatipat,19.8,THA-7
+THA,Pracharaj Party,1,RPP,Royalist People's Party,PrP,Pracharaj Party,1.1,THA-1
+THA,Matchima Thipatai,4,NDP,The Neutral Democratic Party,MT,Matchima Thipatai,0.8,THA-4
+TUR,Demokratik Toplum Partisi (DTP),5,DTP,Democratic Society Party,DTP,Demokratik Toplum Partisi (DTP),0,TUR-5
+TUR,"Milliyetc,i Hareket Partisi (MHP)",6,NMP,Nationalist Movement Party,MHP,"Milliyetc,i Hareket Partisi (MHP)",7.2,TUR-6
+TUR,Demokrat Parti (DP),3,DP,Democratic Party,DP,Demokrat Parti (DP),2.7,TUR-3
+TUR,Adalet ve Kalk?nma Partisi (AKP),1,JDP,Justice and Development Party,AKP,Adalet ve Kalk?nma Partisi (AKP),40.5,TUR-1
+TUR,Cumhuriyet Halk Partisi (CHP),2,RPP,Republican People's Party,CHP,Cumhuriyet Halk Partisi (CHP),20.1,TUR-2
+TUR,Saadet Partisi (SP),7,SP,Felicity Party,SP,Saadet Partisi (SP),0,TUR-7
+TUR,Demokratik Sol Parti (DSP),4,DLP,Democratic Left Party,DSP,Demokratik Sol Parti (DSP),0,TUR-4
+GBR,Liberal Democratic Party,3,LDP,Liberal Democratic Party,LDP,Liberal Democratic Party,20.2,GBR-3
+GBR,Conservative Party,2,Con,Conservative Party,Con,Conservative Party,32,GBR-2
+GBR,Labour Party,1,Lab,Labour Party,Lab,Labour Party,38,GBR-1
+USA,Republican Party,2,Rep,Republican Party,Rep,Republican Party,44.2,USA-2
+USA,Democratic Party,1,Dem,Democratic Party,Dem,Democratic Party,52.5,USA-1
+UKR,Lytvyn Bloc,5,LB,Lytvyn Bloc,LB,???? ???????,3.2,UKR-5
+UKR,Socialist Party of Ukraine,6,SPU,Socialist Party of Ukraine,SPU,Sotsialistychna Partiya Ukrainy,4.3,UKR-6
+UKR,Bloc Yuliya Tymoshenko,1,BYU,Bloc Yuliya Tymoshenko,BYU,???? ???? ?????????,26.5,UKR-1
+UKR,Party of Regions,2,PR,Party of Regions,PR,?????? ????????,33.2,UKR-2
+UKR,Communist Party of Ukraine,4,CPU,Communist Party of Ukraine,CPU,???????????? ?????? ???????,4.6,UKR-4
+UKR,Our Ukraine-People's Self-Defense Bloc,3,OU-PSD,Our Ukraine-People's Self-Defense Bloc,OU-PSD,???? ???? ???????–??????? ???????????,14.1,UKR-3
+URY,P.Colorado,2,PC,Colorado Party,PC,Partido Colorado,21.7,URY-2
+URY,P.Encuentro Progresista Frente Amplio-Nva mayoria,3,FA,Broad Front,FA,Frente Amplio,45.9,URY-3
+URY,P.Nacional,1,PN,National Party,PN,Partido Nacional,28.7,URY-1
+VEN,Un Nuevo Tiempo,5,UNT,A New Era,UNT,Un Nuevo Tiempo,0.9,VEN-5
+VEN,Podemos,2,Podemos,Podemos,Podemos,Por la Democracia Social,4.1,VEN-2
+VEN,Primero Justicia,6,MPJ,Justice First Movement,MPJ,Movimiento Primero Justicia,1.5,VEN-6
+VEN,PCV,4,PCV,Communist Party of Venezuela,PCV,Partido Comunista de Venezuela,1.6,VEN-4
+VEN,PPT,3,PPT,Fatherland for All,PPT,Patria Para Todos,4.6,VEN-3
+VEN,MVR,1,MVR,The Fifth Republic Movement,MVR,Movimiento V [Quinta] República,52.2,VEN-1
+ZMB,United National Independence Party,2,UNIP,United National Independence Party,UNIP,United National Independence Party,11.7,ZMB-2
+ZMB,Movement for Multi-party Democracy,1,MMD,Movement for Multi-party Democracy,MMD,Movement for Multi-party Democracy,33,ZMB-1
+ZMB,United Party for National Development,3,UPND,United Party for National Development,UPND,United Party for National Development,5.2,ZMB-3
+ZMB,Patriotic Front,5,PF,Patriotic Front,PF,Patriotic Front,12.8,ZMB-5
+ZMB,Forum for Democracy and Development,4,FDD,Forum for Democracy and Development,FDD,Forum for Democracy and Development,7.7,ZMB-4
