@@ -24,9 +24,10 @@ party <- party %>%
   inner_join(vote)
 
 # add Party Facts country codes
+country_short_custom <- c(Kosovo = "XKX", Somaliland = "SML", Zambia = "ZMB")
 party <- party %>%
   mutate(country = countrycode(ctr_n, "country.name", "iso3c",
-                            custom_match = c(Kosovo = "XKX", Zambia = "ZMB")))
+                               custom_match = country_short_custom))
 if(any(is.na(party$country)) | ! all(vote$ctr_n %in% party$ctr_n)) {
   warning("Country name clean-up needed")
 }
