@@ -1,0 +1,137 @@
+id,country,name_short,name_english,name,comment,first,last,country_short
+1,DENMARK,SOCD,Social Democrats,Socialdemokratiet,,1919,1973,DNK
+2,DENMARK,RAD,Radicals,Det radikale Venstre,,1919,1973,DNK
+3,DENMARK,LIB,Liberals,Venstre,,1919,1973,DNK
+4,DENMARK,CONS,Conservatives,Dee konservative Folkparti,,1919,1973,DNK
+5,DENMARK,COMM,Communists,Danmarks kommunistiske Parti,,1945,1973,DNK
+6,DENMARK,LS,Left Socialists,Venstresocialisterne,post-1968,1945,1973,DNK
+7,DENMARK,SOCL,Socialists,Socislistisk Folkepartiet,,1945,1973,DNK
+10,DENMARK,LC,Liberal Center,Liberalt Centrum,post-1966,1945,1973,DNK
+12,DENMARK,JUST,Justice Party,Retsforbundet,,1945,1973,DNK
+14,FINLAND,SKDL,Communists,,,1919,1939,FIN
+15,FINLAND,SOCD,Social Democrats,,,1919,1973,FIN
+16,FINLAND,PROG,National Progressives,,,1919,1939,FIN
+17,FINLAND,AGR,Agrarian Union,,,1919,1939,FIN
+18,FINLAND,SWPP,Swedish People's Party,,,1919,1973,FIN
+19,FINLAND,CONS,Finhish Conservative Party,,,1919,1973,FIN
+20,FINLAND,NPF,Finnish Patriotic Movement,,,1919,1939,FIN
+21,FINLAND,PDEM,Democratic League for People of Finland,,,1945,1973,FIN
+22,FINLAND,SDWS,Workers' & Smallholders Social Democratic League,,,1945,1973,FIN
+24,FINLAND,CENT,Center-Party,,,1945,1973,FIN
+25,FINLAND,FRP,Finnish Rural Party,,,1945,1973,FIN
+26,FINLAND,LIB,Finnish People's Party (FPP)/Liberal League,,,1945,1973,FIN
+29,ICELAND,COMM,Communist People's Alliance,Alpthydubandalgi,,1919,1973,ISL
+30,ICELAND,SOCD,Socvial Democratic Party,Alpthyduflokkurinn,,1919,1973,ISL
+31,ICELAND,PROG,Progressive/Farmers' Party,Framsoknarflokkurinn,,1919,1973,ISL
+32,ICELAND,LIB,Liberal Party,,1918-1929,1919,1939,ISL
+33,ICELAND,INDP,Independence Party,Sjalfstaedisflokkurinn,post-1929,1919,1973,ISL
+34,ICELAND,CONS,Conservative Party,,1918-1929,1919,1939,ISL
+36,ICELAND,LLIB,Liberal Left,,splinter group of COMM,1945,1973,ISL
+40,NORWAY,LAB,Labor Party,,+ SOCD post-1927,1919,1973,NOR
+41,NORWAY,LIB,Liberal Party,,,1919,1973,NOR
+42,NORWAY,AGR,Agrarian Party,,,1919,1939,NOR
+43,NORWAY,CONS,Conservative Party,,,1919,1973,NOR
+44,NORWAY,COMM,Communist Party,CP,,1945,1973,NOR
+45,NORWAY,SOCL,Socialist People's Party,SF,,1945,1973,NOR
+48,NORWAY,CHPP,Christian People's Party,KF,,1945,1973,NOR
+49,NORWAY,CENT,Center Party,,pre-1959: Agrarians,1945,1973,NOR
+51,SWEDEN,COMM,Communist Party,,,1919,1973,SWE
+52,SWEDEN,SOCD,Social Democratic Party,,,1919,1973,SWE
+53,SWEDEN,AGR,Agrarian Party,,,1919,1939,SWE
+54,SWEDEN,LIB,Liberal Party,,,1919,1973,SWE
+55,SWEDEN,CONS,Conservative Party,,,1919,1973,SWE
+58,SWEDEN,CENT,Agrarian Party,Centerpartiet,,1945,1973,SWE
+61,NETHERLANDS,CPN,Communist Party,,,1919,1973,NLD
+62,NETHERLANDS,SOCD,Social Democratic Party,SDAP,,1919,1939,NLD
+63,NETHERLANDS,RAD,Radical Party,,,1919,1939,NLD
+64,NETHERLANDS,KVP,Catholic Party,,,1919,1973,NLD
+65,NETHERLANDS,CHU,Christian Historical Party,,,1919,1973,NLD
+66,NETHERLANDS,ULIB,United Liberal Party,,1918-1922,1919,1939,NLD
+67,NETHERLANDS,FLIB,Free Liberal Party,,1918-1922,1919,1939,NLD
+68,NETHERLANDS,LIB,Liberal Party,,,1919,1939,NLD
+69,NETHERLANDS,ARP,Anti-Revolutionary Party,,,1919,1973,NLD
+70,NETHERLANDS,ECUM,Ecumenical Party,,1918-1922,1919,1939,NLD
+71,NETHERLANDS,SGP,Political Reformed Party,,,1919,1973,NLD
+72,NETHERLANDS,NSB,National Social Movement,,1930s,1919,1939,NLD
+74,NETHERLANDS,PSP,Pacifist Socialist Party,,,1945,1973,NLD
+75,NETHERLANDS,PPR,Political Radicals,,1972-1973,1945,1973,NLD
+76,NETHERLANDS,PVDA,Labor Party,Partij van der Arbeid,,1945,1973,NLD
+77,NETHERLANDS,D'66,Radical Democrats,,,1945,1973,NLD
+78,NETHERLANDS,DS70,1971 Social Democratic splinter party,,,1945,1973,NLD
+82,NETHERLANDS,VVD,Liberal Party,Volkspartij voor Vrijheid en Democratie,,1945,1973,NLD
+84,NETHERLANDS,GPV,Reformed Political Association,,,1945,1973,NLD
+85,NETHERLANDS,BP,Peasant Party,Poujadist,,1945,1973,NLD
+86,BELGIUM,COMM,Communist Party,Parti Communiste Belge,,1919,1973,BEL
+87,BELGIUM,POB,Social Democratic Party,Sparti Ouvrier Belge,,1919,1939,BEL
+88,BELGIUM,CATH,Catholic Party,Parti Catholique,,1919,1939,BEL
+89,BELGIUM,LIB,Liberal Party,Parti Liberal,,1919,1939,BEL
+90,BELGIUM,FNAT,Flemish Nationalist parties,,,1919,1939,BEL
+91,BELGIUM,REX,Rexist,,1936-1939: Leon Degrelle,1919,1939,BEL
+93,BELGIUM,PSB,,Parti Socialiste Belge,,1945,1973,BEL
+94,BELGIUM,RW,,Rassemblement Wallon,,1945,1973,BEL
+95,BELGIUM,PSC,,Parti Social Chrétien,,1945,1973,BEL
+96,BELGIUM,FDF,,Front Démocratique Wallon,,1945,1973,BEL
+97,BELGIUM,VOLK,,Volksunie,,1945,1973,BEL
+98,BELGIUM,PLP,,Parti de la Liberté et du Progrès,,1945,1973,BEL
+99,FRANCE,PCF,,Parti Communiste francais,,1946,1958,FRA
+100,FRANCE,SFIO,,Section francais de l' Internationale ouvrière,,1946,1958,FRA
+101,FRANCE,MRP,,Mouvement républicain populaire,,1946,1958,FRA
+102,FRANCE,RDA,,Républicain radical et radical-socialiste,,1946,1958,FRA
+103,FRANCE,UDSR,,Union démocratique et socialiste de la Résistance,,1946,1958,FRA
+104,FRANCE,RAD,,Rassemblement démocratique africain,,1946,1958,FRA
+105,FRANCE,RS,,Républicains sociaux (URAS),,1946,1958,FRA
+106,FRANCE,RPF,,Rassemblement du peuple francais,,1946,1958,FRA
+107,FRANCE,AR,,Action Républicaine,,1946,1958,FRA
+108,FRANCE,ARS,,Action républicaine et sociale,,1946,1958,FRA
+109,FRANCE,RI,,Républicains indépendents,,1946,1958,FRA
+110,FRANCE,CNIP,,Centre national des indépendants et payans,,1946,1958,FRA
+111,FRANCE,PUS,1952 pro-Gaullist faction of PAYS,,,1946,1958,FRA
+112,FRANCE,PAYS,,Groupe du C.R.A.P.S et des Democrates indépendants,,1946,1958,FRA
+113,FRANCE,AP,1952 non-Gaullist remainder of PAYS,,,1946,1958,FRA
+114,FRANCE,PRL,,Parti républicain de la liberté,,1946,1958,FRA
+115,FRANCE,POUJ,,Union et fraterhité francaise (Poujadists),,1946,1958,FRA
+116,WEIMAR GERMANY,KPD,,Kommunistische Partei Deutschland,,1919,1930,DEU
+117,WEIMAR GERMANY,SDAP,,Sozialdemokratische Partei,,1919,1930,DEU
+118,WEIMAR GERMANY,DDP,,Deutsche Demokratische Partei,,1919,1930,DEU
+119,WEIMAR GERMANY,DZP,,Deutsche Zentrumspartei,,1919,1930,DEU
+120,WEIMAR GERMANY,BVP,,Bayerische Volkspartei,,1919,1930,DEU
+121,WEIMAR GERMANY,DVP,,Deutsche Volkspartei,,1919,1930,DEU
+122,WEIMAR GERMANY,RDMW,,Reichspartei des Deutschen Mitelstands-Wirtschaftspartei,,1919,1930,DEU
+123,WEIMAR GERMANY,LVP,,Landvolkpartei,,1919,1930,DEU
+124,WEIMAR GERMANY,DNVP,,Deutsch Nationale Volkspartei,,1919,1930,DEU
+125,WEIMAR GERMANY,NAZI,,Nationalsozialistische Deutsche Arbeiterpartei,,1919,1930,DEU
+126,ITALY,PCI,Communist Party,,,1946,1975,ITA
+127,ITALY,PSIU,Socialist Party of Proletarian Unity,,,1946,1975,ITA
+128,ITALY,PSI,Socialist Party (Nenni),,,1946,1975,ITA
+129,ITALY,PSDI,Social Democratic Party,,,1946,1975,ITA
+130,ITALY,PRI,Republican Party,,,1946,1975,ITA
+131,ITALY,DC,Christian Democratic Party,,,1946,1975,ITA
+132,ITALY,PLI,Liberal Party,,,1946,1975,ITA
+133,ITALY,MON,Monarchists,,,1946,1975,ITA
+134,ITALY,MSI,Italian Social Movement (Fascist),,,1946,1975,ITA
+135,LUXEMBOURG,COMM,,Parti communiste,,1945,1973,LUX
+136,LUXEMBOURG,SOCD,,Parti ouvrier socialiste,,1945,1973,LUX
+137,LUXEMBOURG,CSOC,,Parti chrétien-social,,1945,1973,LUX
+138,LUXEMBOURG,GRPD,,Groupement démocratique,,1945,1973,LUX
+139,ISRAEL,RAKA,,Raakah,,1949,1973,ISR
+140,ISRAEL,MAKI,,Maki,,1949,1973,ISR
+141,ISRAEL,MAPM,,Mapam,,1949,1973,ISR
+142,ISRAEL,MADT,,Mapam + Ahdut Haavoda,,1949,1973,ISR
+143,ISRAEL,ADUT,,Ahdut Haavoda,,1949,1973,ISR
+144,ISRAEL,MAAR,,Maarach,,1949,1973,ISR
+145,ISRAEL,LAB,Labor Alignment,,,1949,1973,ISR
+146,ISRAEL,MAPI,,Mapai,,1949,1973,ISR
+147,ISRAEL,PAUG,,Poalei Agudat,,1949,1973,ISR
+148,ISRAEL,RAFI,,Rafi,,1949,1973,ISR
+149,ISRAEL,PROG,Progressives,,,1949,1973,ISR
+150,ISRAEL,ILIB,Independent Liberals,,,1949,1973,ISR
+151,ISRAEL,NRP,National Religious Party,,,1949,1973,ISR
+152,ISRAEL,URF,United Religious Front,,,1949,1973,ISR
+153,ISRAEL,LIB,Liberals,,,1949,1973,ISR
+154,ISRAEL,NATL,National List,,,1949,1973,ISR
+155,ISRAEL,TORA,,Torah,,1949,1973,ISR
+156,ISRAEL,LUKD,,Likud,,1949,1973,ISR
+157,ISRAEL,ZION,General Zionists,,,1949,1973,ISR
+158,ISRAEL,GHAL,,Gahal,,1949,1973,ISR
+159,ISRAEL,AGDT,,Agudat Israel,,1949,1973,ISR
+160,ISRAEL,HRUT,,Herut,,1949,1973,ISR
