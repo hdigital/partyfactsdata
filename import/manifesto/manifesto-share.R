@@ -1,12 +1,12 @@
 library(tidyverse)
 
-marpor <- read_csv("source__MPDataset_MPDS2018a.csv", guess_max = 100000) %>%
+manifesto <- read_csv("source__MPDataset_MPDS2018a.csv", guess_max = 100000) %>%
   select(party, country, countryname, date, pervote) %>%
   bind_rows(read_csv("source__MPDataset_MPDSSA2018a.csv", guess_max = 100000) %>% 
               mutate(pervote = if_else(is.na(pervote), presvote, pervote)) %>%
               select(party, country, countryname, date, pervote))
 
-pa_share <- marpor %>%
+pa_share <- manifesto %>%
   select(party, country, countryname, date, pervote) %>%
   mutate(year = date %/% 100) %>%
   group_by(party) %>%
@@ -17,4 +17,4 @@ pa_share <- marpor %>%
   arrange(party) %>%
   select(party, pervote_max_year = year, pervote_max)
 
-write_csv(pa_share, "marpor-share.csv", na = "")
+write_csv(pa_share, "manifesto-share.csv", na = "")
