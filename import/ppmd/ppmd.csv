@@ -1,0 +1,371 @@
+Country,Party,PartyName,Vote_Share,Election_Date,id,country_short
+AL,PAD,Party of the Democratic Alliance,2.4,2001,AL-PAD,ALB
+AL,PBDNJ,Human Rights' Union Party,2.6,2001,AL-PBDNJ,ALB
+AL,PD,Democratic Party,19.36,2001,AL-PD,ALB
+AL,PDr,Reformed Democrat Party,5.1,2001,AL-PDr,ALB
+AL,PLL,Movement of Legality Party,4.03,2001,AL-PLL,ALB
+AL,PR,Republican Party,4.83,2001,AL-PR,ALB
+AL,PS,Socialist Party of Albania,42,2001,AL-PS,ALB
+AL,PSD,Social Democratic Party,3.6,2001,AL-PSD,ALB
+AT,FPO,Freedom Party of Austria,10,2002,AT-FPO,AUT
+AT,Gru,The Greens,9.5,2002,AT-Gru,AUT
+AT,OVP,Austrian People's Party,42.3,2002,AT-OVP,AUT
+AT,SPO,Austrian Social Democratic Party,36.5,2002,AT-SPO,AUT
+AU,AD,Australian Democrats,5.4,2001,AU-AD,AUS
+AU,ALP,Australian Labor Party,37.8,2001,AU-ALP,AUS
+AU,GRN,Australian Greens,5,2001,AU-GRN,AUS
+AU,LPA,Liberal Party of Australia,36.8,2001,AU-LPA,AUS
+AU,NP,National Party of Australia,5.6,2001,AU-NP,AUS
+AU,ON,Pauline Hanson's One Nation,4.3,2001,AU-ON,AUS
+BA,HDZ,Croatian Democratic Community,9.5,2002,BA-HDZ,BIH
+BA,PDP,Party for Democratic Progress,4.6,2002,BA-PDP,BIH
+BA,SBiH,Party for Bosnia and Hercegovina,10.5,2002,BA-SBiH,BIH
+BA,SDA,Party of Democratic Action,21.9,2002,BA-SDA,BIH
+BA,SDP,Social Democratic Party of Bosnia and Hercegovina,10.4,2002,BA-SDP,BIH
+BA,SDS,Serbian Democratic Party,14,2002,BA-SDS,BIH
+BA,SNSD,Party of Independent Social Democrats,9.8,2002,BA-SNSD,BIH
+BA,SPRS,Socialist Party of Republic of Srpska,1.9,2002,BA-SPRS,BIH
+BE,CD&V,Christian Democratic & Flemish,13.2,2003,BE-CD&V,BEL
+BE,CDH,Humanist Democratic Centre,5.5,2003,BE-CDH,BEL
+BE,Eco,Ecolo,3.1,2003,BE-Eco,BEL
+BE,FN,National Front,2,2003,BE-FN,BEL
+BE,Gro!,Groen!,2.5,2003,BE-Gro!,BEL
+BE,MR,Reformist Movement,11.4,2003,BE-MR,BEL
+BE,N-VA,New Flemish Alliance,3.1,2003,BE-N-VA,BEL
+BE,PS,Socialist Party,13,2003,BE-PS,BEL
+BE,SPSp,SP.A-Spirit,14.9,2003,BE-SPSp,BEL
+BE,VB,Flemish Block,11.6,2003,BE-VB,BEL
+BE,VLD,Flemish Liberals and Democrats,15.4,2003,BE-VLD,BEL
+BG,BBB,Bulgarian Business Bloc,0,2003,BG-BBB,BGR
+BG,BKP,Bulgarian Communist Party,0.2,2003,BG-BKP,BGR
+BG,BNDP,Bulgarian national democratic party,0,2003,BG-BNDP,BGR
+BG,BSDP,Bulgarian social-democratic party,22.05,2003,BG-BSDP,BGR
+BG,BSP,Bulgarian Socialist Party,22.05,2003,BG-BSP,BGR
+BG,BZNS,Bulgarian Agricultural National Union,2.7,2003,BG-BZNS,BGR
+BG,CPB,Citizens' Party for Bulgaria,0.5,2003,BG-CPB,BGR
+BG,DPS,Movement for Rights and Freedoms,10.4,2003,BG-DPS,BGR
+BG,G,St.George Day Movement,1.25,2003,BG-G,BGR
+BG,NDST,National movement 'Simeon II',9.6,2003,BG-NDST,BGR
+BG,ODS,Union of Democratic Forces,20.6,2003,BG-ODS,BGR
+BG,UFD,Union of Free Democrats,1.7,2003,BG-UFD,BGR
+BG,VMRO,VMRO - Bulgarian National Movement,1.25,2003,BG-VMRO,BGR
+BY,APB,Agrarian Party Belarusian,5,2003,BY-APB,BLR
+BY,BPF,Belarusian People's Front,2.6,2003,BY-BPF,BLR
+BY,BSDH,Belarusian Social-Democratic Hramada,3.5,2003,BY-BSDH,BLR
+BY,BSDP-NH,Belarusian Social-Democratic Party 'Narodnaya Hramada',2.3,2003,BY-BSDP-NH,BLR
+BY,CCP-BPF,Conservative-Christian Party of Belarusian People's Front,5.5,2003,BY-CCP-BPF,BLR
+BY,KPB,Communist Party of Belarus,2.6,2003,BY-KPB,BLR
+BY,LDPB,Liberal-Democratic Party of Belarus,0,2003,BY-LDPB,BLR
+BY,LP,Labour Party,2.2,2003,BY-LP,BLR
+BY,PKB,Party of Communists Belarusian,1.8,2003,BY-PKB,BLR
+BY,UCP,United Civic Party,0.5,2003,BY-UCP,BLR
+BY,WP,Women's Party,7.7,2003,BY-WP,BLR
+CA,BQ,Bloc Québécois,10.7,2000,CA-BQ,CAN
+CA,CA,Canadian Alliance,25.5,2000,CA-CA,CAN
+CA,GPC,Green Party of Canada,0.8,2000,CA-GPC,CAN
+CA,LPC,Liberal Party of Canada,40.8,2000,CA-LPC,CAN
+CA,NDP,New Democratic Party,8.5,2000,CA-NDP,CAN
+CA,PC,Progressive Conservative Party of Canada,12.2,2000,CA-PC,CAN
+CH,CVP,Christlich-Demokratische Volkspartei der Schweiz,14.4,2003,CH-CVP,CHE
+CH,EDU,Eidgenšssische Demokratische Union,1.3,2003,CH-EDU,CHE
+CH,EVP,Evangelische Volkspartei der Schweiz,2.3,2003,CH-EVP,CHE
+CH,FDP,Freisinnig-Demokratische Partei der Schweiz,17.3,2003,CH-FDP,CHE
+CH,GPS,GrŸne Partei der Schweiz,7.4,2003,CH-GPS,CHE
+CH,LPS,Liberale Partei der Schweiz,2.2,2003,CH-LPS,CHE
+CH,PdA,Partei der Arbeit der Schweiz,0.7,2003,CH-PdA,CHE
+CH,SD,Schweizer Demokraten,1,2003,CH-SD,CHE
+CH,SPS,Sozialdemokratische Partei der Schweiz,23.4,2003,CH-SPS,CHE
+CH,SVP,Schweizerische Volkspartei,26.6,2003,CH-SVP,CHE
+CY,ADIK,Agonistiko Dimokratiko Kinima,2.2,2001,CY-ADIK,CYP
+CY,AKEL,Anorthotikon Komma Ergazemenou Laou,34.7,2001,CY-AKEL,CYP
+CY,DIKO,Dimokratikon Komma,14.8,2001,CY-DIKO,CYP
+CY,DISI,Dimokratikos Sinagermos,34,2001,CY-DISI,CYP
+CY,EDEK,Kinima Sosialdimokraton EDEK,6.5,2001,CY-EDEK,CYP
+CY,EDI,Enomeni Dimokrates,2.6,2001,CY-EDI,CYP
+CY,KOP,Kinima Oikologon Perivallontiston,2,2001,CY-KOP,CYP
+CY,NEO,Neoi Orizontes,3,2001,CY-NEO,CYP
+CZ,CSSD,Czech Social Democratic Party,30.2,2002,CZ-CSSD,CZE
+CZ,KDU,Christian and Democratic Union-Czechoslovak People,10.13,2002,CZ-KDU,CZE
+CZ,KSCM,Communist Party of Bohemia and Moravia,18.51,2002,CZ-KSCM,CZE
+CZ,MDS,Moravian Democratic Party,0.27,2002,CZ-MDS,CZE
+CZ,NKL,National Conservative League (Illegal),0,2002,CZ-NKL,CZE
+CZ,ODS,Civic Democratic Party,24.47,2002,CZ-ODS,CZE
+CZ,RMS,Republicans of Miroslav Sladek,0.97,2002,CZ-RMS,CZE
+CZ,SNK,Association of Independents,2.78,2002,CZ-SNK,CZE
+CZ,SZ,Green Party,2.36,2002,CZ-SZ,CZE
+CZ,SZJ,Party for Security in Life,0.86,2002,CZ-SZJ,CZE
+CZ,US,Freedom Union-Democratic Union,4.14,2002,CZ-US,CZE
+DE,CDU/CSU,Christian Democratic Union/Christian Social Union,38.51,2002,DE-CDU/CSU,DEU
+DE,DKP,German Communist Party,0,2002,DE-DKP,DEU
+DE,DVU,German People’s Union,0,2002,DE-DVU,DEU
+DE,FDP,Free Democratic Party,7.4,2002,DE-FDP,DEU
+DE,GRÜ,Green Party,8.6,2002,DE-GRÜ,DEU
+DE,NPD,National Democratic Party,0.45,2002,DE-NPD,DEU
+DE,PDS,Party of Democratic Socialism,4.3,2002,DE-PDS,DEU
+DE,Rep,Republicans,0.1,2002,DE-Rep,DEU
+DE,Schil,Partei Rechtsstaatlicher Offensive,0.3,2002,DE-Schil,DEU
+DE,SPD,Social Democratic Party of Germany,38.53,2002,DE-SPD,DEU
+DK,CD,Centrumdemokraterne,1.8,2001,DK-CD,DNK
+DK,DF,Dansk Folkeparti,11.98,2001,DK-DF,DNK
+DK,Enh,Enhedslisten,2.4,2001,DK-Enh,DNK
+DK,FrP,Fremskridtspartiet,0.6,2001,DK-FrP,DNK
+DK,KF,Konservative Folkeparti,9.07,2001,DK-KF,DNK
+DK,KrF,Kristeligt Folkeparti,2.28,2001,DK-KrF,DNK
+DK,RV,Radikale Venstre,5.2,2001,DK-RV,DNK
+DK,SD,Socialdemokratiet i Danmark,29.1,2001,DK-SD,DNK
+DK,SF,Socialistisk Folkeparti,6.37,2001,DK-SF,DNK
+DK,V,"Venstre, Danmarks liberale parti",31.26,2001,DK-V,DNK
+EE,EKRP,Eesti Kristlik Rahvapartei,1.1,2003,EE-EKRP,EST
+EE,ESDTP,Eesti Sotsiaaldemokraatlik Tööpartei,0,2003,EE-ESDTP,EST
+EE,EÜRP,Eestimaa Ühendatud Rahvapartei,2.2,2003,EE-EÜRP,EST
+EE,Isam,Erakond Isamaaliit,7.3,2003,EE-Isam,EST
+EE,Kesk,Eesti Keskerakond,25.4,2003,EE-Kesk,EST
+EE,Mõõd,Rahvaerakond Mõõdukad,7,2003,EE-Mõõd,EST
+EE,Ref,Eesti Reformierakond,17.7,2003,EE-Ref,EST
+EE,ResP,Ühendus Vabariigi Eest - Res Publica,24.6,2003,EE-ResP,EST
+EE,RL,Eestimaa Rahvaliit,13,2003,EE-RL,EST
+ES,CiU,Convergència i Unió de Catalunya,3.2,2004,ES-CiU,ESP
+ES,IU,Izquerda Unida,5,2004,ES-IU,ESP
+ES,PNV,Partido Nacionalista Vasco,1.6,2004,ES-PNV,ESP
+ES,PP,Partido Popular,37.6,2004,ES-PP,ESP
+ES,PSOE,Partido Socialista Obrero Español,42.6,2004,ES-PSOE,ESP
+FI,KD,Suomen Kristillisdemokraatit,5.3,2003,FI-KD,FIN
+FI,KESK,Suomen Keskusta,24.7,2003,FI-KESK,FIN
+FI,KOK,Kansallinen Kokoomus,18.5,2003,FI-KOK,FIN
+FI,PS,Perussuomalaiset,1.6,2003,FI-PS,FIN
+FI,SDP,Suomen Sosialidemokraattinen Puolue,22.9,2003,FI-SDP,FIN
+FI,SFP,Svenska Folkepartiet i Finland,4.6,2003,FI-SFP,FIN
+FI,VAS,Vasemmistoliitto,9.9,2003,FI-VAS,FIN
+FI,VIHR,Vihreä Liitto,8,2003,FI-VIHR,FIN
+FR,FN,Front National,11.3,2002,FR-FN,FRA
+FR,MPF,Mouvement pour la France,0.8,2002,FR-MPF,FRA
+FR,PCF,Parti Communiste Francais,4.8,2002,FR-PCF,FRA
+FR,PS,Parti Socialiste,24.1,2002,FR-PS,FRA
+FR,RPF,Rassemblement pour la France,0.4,2002,FR-RPF,FRA
+FR,RPR,Rassemblement pour la Republique,33.7,2002,FR-RPR,FRA
+FR,UDF,Union pour la Democratie Francaise,4.8,2002,FR-UDF,FRA
+FR,UEM,,,2002,FR-UEM,FRA
+FR,V,Les Verts,4.5,2002,FR-V,FRA
+GR,KKE,Kommunistiko Koma Ellados,5.9,2004,GR-KKE,GRC
+GR,ND,Nea Dimokratia,45.4,2004,GR-ND,GRC
+GR,PASOK,Panellinio Sosialistiko Kinima,40.6,2004,GR-PASOK,GRC
+GR,SYN,Synaspismos,3.3,2004,GR-SYN,GRC
+HR,DC,Democratic Center,1.34,2003,HR-DC,HRV
+HR,HB,Croatian Block,2.73,2003,HR-HB,HRV
+HR,HDZ,Croatian Democratic Community,31.17,2003,HR-HDZ,HRV
+HR,HNS,Croatian People's Party,7.27,2003,HR-HNS,HRV
+HR,HSLS,Croatian Social Liberal Party,2.66,2003,HR-HSLS,HRV
+HR,HSP,Croatian Rights Party,6.4,2003,HR-HSP,HRV
+HR,HSS,Croatian Peasant Party,7.2,2003,HR-HSS,HRV
+HR,IDS,Istrian Democratic Union,2.1,2003,HR-IDS,HRV
+HR,LIBRA,Party of Liberal Democrats (Libra),1.58,2003,HR-LIBRA,HRV
+HR,LS,Liberal Party,1.05,2003,HR-LS,HRV
+HR,SDP,Social Democratic Party of Croatia,17.87,2003,HR-SDP,HRV
+HU,CENTRUM,Center Party,3.9,2002,HU-CENTRUM,HUN
+HU,FIDESZ,Fidesz – Hungarian Civic Party,35.1063,2002,HU-FIDESZ,HUN
+HU,FKGP,Independent Smallholders’ Party,0.8,2002,HU-FKGP,HUN
+HU,MDF,Hungarian Democratic Forum,5.1375,2002,HU-MDF,HUN
+HU,MIÉP,Hungarian Justice and Life Party,4.4,2002,HU-MIÉP,HUN
+HU,MSZP,Hungarian Socialist Party,42.1,2002,HU-MSZP,HUN
+HU,MUNKÁS,Workers’ Party,2.8,2002,HU-MUNKÁS,HUN
+HU,SZDSZ,Alliance of Free Democrats,5.5,2002,HU-SZDSZ,HUN
+IE,FF,Fianna F&aacute;il,41.5,2002,IE-FF,IRL
+IE,FG,Fine Gael,22.5,2002,IE-FG,IRL
+IE,GR,Greens,3.8,2002,IE-GR,IRL
+IE,LB,Labour,10.8,2002,IE-LB,IRL
+IE,PD,Progressive Democrats,4,2002,IE-PD,IRL
+IE,SF,Sinn F&eacute;in,6.5,2002,IE-SF,IRL
+IL,AE,Am Ekhad (One Nation),2.8,2003,IL-AE,ISR
+IL,Bala,Al Tahammmy al-Tatani al-Dimiqrati,2.3,2003,IL-Bala,ISR
+IL,Hada,Hazit Democratit le-Shalom ve-Shivayon,3,2003,IL-Hada,ISR
+IL,IHUD,IHUD LEUMI (National Unity),5.5,2003,IL-IHUD,ISR
+IL,Lab,Labor,14.5,2003,IL-Lab,ISR
+IL,Lik,Likud,29.4,2003,IL-Lik,ISR
+IL,Merz,Meretz,5.2,2003,IL-Merz,ISR
+IL,NRP,National Religious Party,4.2,2003,IL-NRP,ISR
+IL,Raam,United Arab List,2.1,2003,IL-Raam,ISR
+IL,Shas,Shas,8.2,2003,IL-Shas,ISR
+IL,Shin,Shinui,12.3,2003,IL-Shin,ISR
+IL,YhT,Yahadut HaTorah,4.5,2003,IL-YhT,ISR
+IS,X-B,Framsóknarflokkurinn,17.7,2003,IS-X-B,ISL
+IS,X-D,Sjálfstæðisflokkurinn,33.7,2003,IS-X-D,ISL
+IS,X-F,Frjáslyndi Flokkurin,7.4,2003,IS-X-F,ISL
+IS,X-N,Nytt afl,1,2003,IS-X-N,ISL
+IS,X-S,Samfylkingin (alliance),31,2003,IS-X-S,ISL
+IS,X-U,Vinstrihreyfing - Grænt framboð,8.8,2003,IS-X-U,ISL
+IT,AN,Alleanza Nazionale,12,2001,IT-AN,ITA
+IT,DS,Democratici di Sinistra,16.6,2001,IT-DS,ITA
+IT,FI,Forza Italia,29.4,2001,IT-FI,ITA
+IT,Green,Federazione dei Verdi,1.1,2001,IT-Green,ITA
+IT,It.Val.,Lista di Pietro Italia dei Valori,3.9,2001,IT-It.Val.,ITA
+IT,LN,Lega Nord,3.9,2001,IT-LN,ITA
+IT,Marg,La Margherita,14.5,2001,IT-Marg,ITA
+IT,MSFT,Movimento Sociale Fiamma Tricolore,0.4,2001,IT-MSFT,ITA
+IT,Pann,Lista Pannella Bonino,2.3,2001,IT-Pann,ITA
+IT,PDCI,Partito dei Comunisti Italiani,1.7,2001,IT-PDCI,ITA
+IT,RC,Rifondazione Comunista,5,2001,IT-RC,ITA
+IT,SDI,Socialisti Democratici Italiani,1.1,2001,IT-SDI,ITA
+IT,UDC,Unione di Centro,3.2,2001,IT-UDC,ITA
+JP,DP,Democratic Party,37.4,2003,JP-DP,JPN
+JP,JCP,Japan Communist Party,7.7,2003,JP-JCP,JPN
+JP,Kom.,Komeito,14.8,2003,JP-Kom.,JPN
+JP,LDP,Liberal Democratic Party,34.9,2003,JP-LDP,JPN
+JP,NCP,New Conservative Party,0,2003,JP-NCP,JPN
+JP,SDP,Social Democratic Party,5.2,2003,JP-SDP,JPN
+LT,LDP,Liberal Democratic Party,17.25,2000,LT-LDP,LTU
+LT,LiCS,Union of Liberals and Center,2.9,2000,LT-LiCS,LTU
+LT,LKD,Lithuanian Christian Democrats,3.1,2000,LT-LKD,LTU
+LT,LKDS,Union of Lithuanian Christian Democrats,3.1,2000,LT-LKDS,LTU
+LT,LSDP,Lithuanian Social Democratic Party,31.08,2000,LT-LSDP,LTU
+LT,NS/SL,New Union- Social Liberals,19.6,2000,LT-NS/SL,LTU
+LT,TS,"Homeland Union (Conservatives, Christian Democrats, Freedom Fighters)",8.6,2000,LT-TS,LTU
+LT,VNDPS,Union of Peasant and New Democracy Parties,7.46,2000,LT-VNDPS,LTU
+LU,ADR,Action Comity for Democracy and Pensions Justice,9.9,2004,LU-ADR,LUX
+LU,CSV,Christian Social People's Party,36.1,2004,LU-CSV,LUX
+LU,DL,The Left,1.9,2004,LU-DL,LUX
+LU,DP,Democratic Party,16.1,2004,LU-DP,LUX
+LU,G,The Green,11.6,2004,LU-G,LUX
+LU,LSAP,Luxembourg Socialist Workers' Party,23.4,2004,LU-LSAP,LUX
+LV,JL,New Era,23.98,2002,LV-JL,LVA
+LV,LPP,Latvia's First Party,9.57,2002,LV-LPP,LVA
+LV,PCTVL,For Human Rights in a United Latvia,9.95,2002,LV-PCTVL,LVA
+LV,TB/LNNK,Alliance Fatherland and Freedom-LNNK,5.39,2002,LV-TB/LNNK,LVA
+LV,TP,People's Party,16.69,2002,LV-TP,LVA
+LV,TSP,People's Harmony Party,9.95,2002,LV-TSP,LVA
+LV,ZZS,Green and Farmers Union,9.47,2002,LV-ZZS,LVA
+MD,ASLMN,Social Liberal Alliance 'Our Moldova',8.3,2001,MD-ASLMN,MDA
+MD,PCRM,Party of the Communists of the Republic of Moldova,64.4,2001,MD-PCRM,MDA
+MD,PDAM,Democratic Agrarian Party of Moldova,1.9,2001,MD-PDAM,MDA
+MD,PDM,Democratic Party of Moldova,5.9,2001,MD-PDM,MDA
+MD,PPCD,Christian-Democratic People's Party,9.7,2001,MD-PPCD,MDA
+MD,PSD-P,Social Democratic Party-Social Liberal Party,5.6,2001,MD-PSD-P,MDA
+MD,PSDM,Social-Democratic Party of Moldova,0,2001,MD-PSDM,MDA
+MD,UCM,Centrist Union of Moldova,0,2001,MD-UCM,MDA
+MK,DA,Democratic Alternative,1.4,2002,MK-DA,MKD
+MK,DPA,Democratic Party of the Albanians,5.2,2002,MK-DPA,MKD
+MK,DS,Democratic Union,1.2,2002,MK-DS,MKD
+MK,DUI,Democratic Union for Integrations,11.9,2002,MK-DUI,MKD
+MK,LDP,Liberal Democratic Party,8.92,2002,MK-LDP,MKD
+MK,LP,Liberal Party,3.59,2002,MK-LP,MKD
+MK,PDP,Party for Democratic Prosperity,2.3,2002,MK-PDP,MKD
+MK,SDSM,Social Democratic Union of Macedonia,31.57,2002,MK-SDSM,MKD
+MK,SPM,Socialist Party of Macedonia,2.1,2002,MK-SPM,MKD
+MK,VMRO-DPMNE,Democratic Party for Macedonian National Unity,20.81,2002,MK-VMRO-DPMNE,MKD
+MT,AD,Democratic Alternative,0.7,2003,MT-AD,MLT
+MT,MLP,Malta Labour Party,47.5,2003,MT-MLP,MLT
+MT,NP,Nationalist Party,51.8,2003,MT-NP,MLT
+NI,APNI,Alliance Party of Northern Ireland,3.7,2003,NI-APNI,NIC
+NI,DUP,Democratic Unionist Party,25.7,2003,NI-DUP,NIC
+NI,NIWC,Northern Ireland Women's Coalition,0.8,2003,NI-NIWC,NIC
+NI,PUP,Progressive Unionist Party,1.2,2003,NI-PUP,NIC
+NI,SDLP,Social Democratic and Labour Party,17,2003,NI-SDLP,NIC
+NI,SF,Sinn Fein,23.5,2003,NI-SF,NIC
+NI,UUP,Ulster Unionist Party,22.7,2003,NI-UUP,NIC
+NL,CDA,Christen Democratisch Appe`l,28.6,2003,NL-CDA,NLD
+NL,CU,ChristenUnie,2.1,2003,NL-CU,NLD
+NL,D66,Democraten 66,4.1,2003,NL-D66,NLD
+NL,GL,Groen Links,5.1,2003,NL-GL,NLD
+NL,LPF,Lijst Pim Fortuyn,5.7,2003,NL-LPF,NLD
+NL,PvdA,Partij van de Arbeid,27.3,2003,NL-PvdA,NLD
+NL,SGP,Staatkundig Gereformeerde Partij,1.6,2003,NL-SGP,NLD
+NL,SP,Socialistische Partij,6.3,2003,NL-SP,NLD
+NL,VVD,Volkspartij voor Vrijheid en Democratie,17.9,2003,NL-VVD,NLD
+NO,DNA,Det Norske Arbeiderparti,24.3,2001,NO-DNA,NOR
+NO,FrP,Fremskrittspartiet,14.7,2001,NO-FrP,NOR
+NO,H,Høyre,21.2,2001,NO-H,NOR
+NO,KrF,Kristelig Folkeparti,12.5,2001,NO-KrF,NOR
+NO,RV,Rød Valgallianse,1.2,2001,NO-RV,NOR
+NO,Sp,Senterpartiet,5.6,2001,NO-Sp,NOR
+NO,SV,Sosialistisk Venstreparti,12.4,2001,NO-SV,NOR
+NO,V,Venstre,3.9,2001,NO-V,NOR
+NZ,ACT,ACT New Zealand,7.1,2002,NZ-ACT,NZL
+NZ,Allc,Alliance,1.3,2002,NZ-Allc,NZL
+NZ,GPA,Green Party of Aotearoa,7,2002,NZ-GPA,NZL
+NZ,NP,New Zealand National Party,20.9,2002,NZ-NP,NZL
+NZ,NZFP,New Zealand First Party,10.4,2002,NZ-NZFP,NZL
+NZ,NZLP,New Zealand Labour Party,41.3,2002,NZ-NZLP,NZL
+NZ,PC,Jim Anderton's Progressive Coalition,1.7,2002,NZ-PC,NZL
+NZ,UF,United Future New Zealand,6.8,2002,NZ-UF,NZL
+PL,AWS,Solidarity Election Action,5.6,2001,PL-AWS,POL
+PL,LPR,League of Polish Families,7.87,2001,PL-LPR,POL
+PL,PiS,Law and Justice,9.5,2001,PL-PiS,POL
+PL,PO,Citizens' Platform,12.68,2001,PL-PO,POL
+PL,PSL,Polish Peasant Party,8.98,2001,PL-PSL,POL
+PL,S,Self Defence of the Polish Republic,10.2,2001,PL-S,POL
+PL,SLD,Alliance of Democratic Left,37.96,2001,PL-SLD,POL
+PL,UP,Labour Union,3.04,2001,PL-UP,POL
+PL,UPR,Union for Real Politics,0,2001,PL-UPR,POL
+PL,UW,Freedom Union,3.1,2001,PL-UW,POL
+PT,BE,Left Block,2.8,2002,PT-BE,PRT
+PT,CDS/PP,People's Party,8.8,2002,PT-CDS/PP,PRT
+PT,PCP,Portuguese Communist Party,5.83,2002,PT-PCP,PRT
+PT,PEV,Ecology Party- Greens,1.17,2002,PT-PEV,PRT
+PT,PS,Socialist Party,37.9,2002,PT-PS,PRT
+PT,PSD,Social Democratic Party,40.1,2002,PT-PSD,PRT
+RO,PD,Democrat Party,7.03,2000,RO-PD,ROU
+RO,PNL,National Liberal Party,6.89,2000,RO-PNL,ROU
+RO,PNTCD,Christian Democratuc National Peasants's Party,5,2000,RO-PNTCD,ROU
+RO,PRM,Great Romania Party,19.48,2000,RO-PRM,ROU
+RO,PSD,Social Democratic Party,35.18,2000,RO-PSD,ROU
+RO,PUR,Humanist Party of Romania,1.42,2000,RO-PUR,ROU
+RO,UDMR,Romániai Magyar Demokrata Szövetseg,6.8,2000,RO-UDMR,ROU
+RU,ER,United Russia,37.6,2004,RU-ER,RUS
+RU,KPRF,Communist Party of the Russian Federation,12.6,2004,RU-KPRF,RUS
+RU,LDPR,Liberal Democratic Party of Russia,11.5,2004,RU-LDPR,RUS
+RU,RODINA,People's Patriotic Block 'Motherland',9,2004,RU-RODINA,RUS
+RU,SPS,Union of Right Forces,4,2004,RU-SPS,RUS
+RU,YABLOKO,Yabloko,4.3,2004,RU-YABLOKO,RUS
+SE,C,Centerpartiet,6.1,2002,SE-C,SWE
+SE,FP,Folkpartiet Liberalerna,13.3,2002,SE-FP,SWE
+SE,KD,Kristdemokraterna,9.1,2002,SE-KD,SWE
+SE,M,Moderata Samlingspartiet,15.2,2002,SE-M,SWE
+SE,MP,Miljöpartiet de Gröna,4.6,2002,SE-MP,SWE
+SE,SAP,Socialdemokratiska Arbetarepartiet,39.8,2002,SE-SAP,SWE
+SE,V,Vänsterpartiet,8.3,2002,SE-V,SWE
+SI,DeSUS,DemokratiÄna Stranka Upokojencev Slovenije,5.2,2000,SI-DeSUS,SVN
+SI,LDS,Liberalna Demokracija Slovenije,36.3,2000,SI-LDS,SVN
+SI,NSi,Nova Slovenija-KrÅ¡Äanska Ljudska Stranka,8.6,2000,SI-NSi,SVN
+SI,SDS,Socialdemokratska Stranka Slovenije,15.8,2000,SI-SDS,SVN
+SI,SLS,Slovenska Ljudska Stranka,9.6,2000,SI-SLS,SVN
+SI,SMS,Stranka Mladih Slovenije,4.3,2000,SI-SMS,SVN
+SI,SNS,Slovenska Nacionalna Stranka,4.4,2000,SI-SNS,SVN
+SI,ZLSD,ZdruÅ¾ena Lista Socialnih Demokratov,12.1,2000,SI-ZLSD,SVN
+SK,ANO,New Civic Alliance,8.01,2002,SK-ANO,SVK
+SK,HZDS,Movement for a Democratic Slovakia,19.5,2002,SK-HZDS,SVK
+SK,KDH,Christian Democratic Movement,8.25,2002,SK-KDH,SVK
+SK,KSS,Slovak Communist Party,6.33,2002,SK-KSS,SVK
+SK,LU,People's Union,0,2002,SK-LU,SVK
+SK,OKS,Civic Conservative Party,0.33,2002,SK-OKS,SVK
+SK,RPS,,0,2002,SK-RPS,SVK
+SK,SDA,Social-Democratic Alternative,1.8,2002,SK-SDA,SVK
+SK,SDL',Party of Democratic Left,1.36,2002,SK-SDL',SVK
+SK,SKDU,Slovak Democratic and Christian Union,15.09,2002,SK-SKDU,SVK
+SK,Smer,Party Direction - Third Way,13.46,2002,SK-Smer,SVK
+SK,SMK,Party of the Hungarian Coalition,11.17,2002,SK-SMK,SVK
+SK,SNS,Slovak National Party,3.33,2002,SK-SNS,SVK
+SR,DS,Democratic Opposition of Serbia,10.72,2003,SR-DS,SUR
+SR,DSS,Democratic Party of Serbia,18,2003,SR-DSS,SUR
+SR,SPO,Serbian Renewal Movement,7.7,2003,SR-SPO,SUR
+SR,SPS,Serb Socialist Party,7.7,2003,SR-SPS,SUR
+SR,SRS,Serb Radical Party,27.7,2003,SR-SRS,SUR
+TR,AKP,Adalet ve Kalkinma Partisi,34.3,2002,TR-AKP,TUR
+TR,ANAP,Anavatan Partisi,5.1,2002,TR-ANAP,TUR
+TR,CHP,Cumhuriyet Halk Partisi,19.4,2002,TR-CHP,TUR
+TR,DEHAP,Demokratik Halk Partisi,6.2,2002,TR-DEHAP,TUR
+TR,DSP,Demokratik Sol Partisi,1.2,2002,TR-DSP,TUR
+TR,DYP,Dogru Yol Partisi,9.6,2002,TR-DYP,TUR
+TR,GP,Genç Parti,7.2,2002,TR-GP,TUR
+TR,MHP,Milliyetçi Hareket Partisi,8.3,2002,TR-MHP,TUR
+UA,JT,Juliya Tymoshenko Election Blok,7.2,2002,UA-JT,UKR
+UA,KPU,Communist Party of Ukraine,20,2002,UA-KPU,UKR
+UA,NU,Viktor Yushchenko Bloc Our Ukraine,23.6,2002,UA-NU,UKR
+UA,SDPU-o,United Social-Democratic Party of Ukraine,6.3,2002,UA-SDPU-o,UKR
+UA,SPU,Socialist Party of Ukraine,6.9,2002,UA-SPU,UKR
+UA,ZYU,For United Ukraine,11.8,2002,UA-ZYU,UKR
+UK,Con,Conservative Party,31.7,2001,UK-Con,GBR
+UK,Lab,Labour Party,40.7,2001,UK-Lab,GBR
+UK,LD,Liberal Democrats,18.3,2001,UK-LD,GBR
+UK,PCy,Plaid Cymru,0.7,2001,UK-PCy,GBR
+UK,SNP,Scottish National Party,1.8,2001,UK-SNP,GBR
+US,Dem,Democratic Party,46.2,2002,US-Dem,USA
+US,Rep,Republican Party,51,2002,US-Rep,USA
