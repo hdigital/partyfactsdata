@@ -1,0 +1,459 @@
+id,country_short,variable,short,name,english,comment,family,mr_id,cpd_id,seats_max,first,last
+AUT v200e,AUT,v200e,KPÖ,Kommunistische Partei Österreichs ,Communist Party of Austria,,1,5,KPG,5,1945,1956
+AUT v201e,AUT,v201e,GA,Die Grünen ,The Greens Alternative,Name change 1993 from Grüne Alternativen (The Green,4,15,GA,21,1987,2008
+AUT v202e,AUT,v202e,SPÖ,Sozialdemokratische Partei Österreichs ,The Social Democratic Party of Austria,Until 1991 Sozialistische Partei Österreichs (Socialist Party of Austria),3,1,SPÖ,95,1945,2008
+AUT v203e,AUT,v203e,ÖVP,Österreichische Volkspartei ,Austrian People's Party,,8,2,ÖVP,85,1945,2008
+AUT v204e,AUT,v204e,FPÖ,Freiheitliche Partei Osterreichs ,Freedom Party of Austria,The VdU merged with the Freiheitspartei. Parts of the VdU had deserted to this new party. The FPÖ is the result of this merger in 1956.,10,11,FPO,52,1949,2008
+AUT v205e,AUT,v205e,LF,Liberales Forum ,Liberal Forum,Founded 1993 as the liberal wing of FPÖ split.,7,17,LF,11,1994,1997
+AUT v206e,AUT,v206e,,Other,,,,,,,,
+AUT v207e,AUT,v207e,NN ,No party,,,,,NN,,,
+AUT v208e,AUT,v208e,BZÖ,Bündnis Zukunft Österreich ,Alliance for the future of Austria,Founded in 2005 by a break away by the more pragmatic wing of the FPÖ,10,,,21,2007,2008
+BEL v200e,BEL,v200e,PCB/KPB,Parti Communiste Beige/Kommunistische Partij van Belgie ,Belgian Communist Party,,1,10,PCB/KPB,23,1946,1981
+BEL v201e,BEL,v201e,PSB/BSP,Belgische Socialistische Partij/Parti Socialiste Beige ,Dutch and French names of the unitary Belgian Socialist Party,Before 1979,3,3,BSP/PSB,86,1946,1978
+BEL v202e,BEL,v202e,SP,Socialistische Partij ,[Flemish] Socialist Party) Socialistische Partij — Anders Spa,"Known as the BSP (Belgische Socialistische Partij from December 1978, when the unitary Socialist Party split. From March 1980 it became SP. Changed name to Spa in 2001. Cartel with Spirit from the election in 2003. Spirit is a split off from Volksunie 2001, in 2008 Spirit changed name to Vlaams Progressieven (Flemish Progressives.",3,30,SP,32,1979,2009
+BEL v203e,BEL,v203e,PS,Parti Socialiste ,[French-speaking] Socialist Party,Born with the split of the unitary Socialist Party in December 1978,3,31,PS,40,1979,2009
+BEL v204e,BEL,v204e,A,AGALEV = Anders Gaan Leven ,Another way of living) Groen,Since 1982. Changed name in 2003 to Groen (Green),4,27,A,9,1981,2009
+BEL v205e,BEL,v205e,E,ECOLO = Ecologistes Confederes pour l'Organisation de Luttes Originales ,Ecologist Party,Since 1981,4,26,E,11,1981,2009
+BEL v206e,BEL,v206e,RW,Rassemblement Walion ,Walloon Rally,Since 1969,6,18,RW,14,1965,1981
+BEL v207e,BEL,v207e,FDF,Front Democratique des Francophones Democratic Front of French-speakers),,"Since 1964. Since 1993, the party belongs to the PRL-FDF Federation.",6,14,FDF,11,1965,1992
+BEL v208e,BEL,v208e,CVP/PSC,Christelijke Volkspartij/Parti Social-Chretien ,Dutch and French names of the unitary Christian Democrat Party,Before 1968,8,1,CVP/PSC,108,1946,1966
+BEL v209e,BEL,v209e,CVP,Christelijke Volkspartij ,Christian People's Party) Christen Democratisch en Vlaams CD&V,Born with the split of the unitary Christian Democratic Party in 1968. Changed name in 2001 to CD&V.,8,19,CVP,57,1968,2009
+BEL v210e,BEL,v210e,PSC,Parti Social Chretien ,Christian Social Party) Centre Democrat Humaniste cdH,Born with the split of the unitary Christian Democratic Party in 1968. Changed name in 2002 to cdH,8,20,PSC,25,1968,2009
+BEL v211e,BEL,v211e,VU,Volksunie ,"People's Union) Nieuw Vlaams Alliantie N VA, New Flemish Alliance",Since 1954. VU split in 2001 into N-VA and Spirit,6,8,VU,22,1954,2003
+BEL v212e,BEL,v212e,LP/PL,Liberale Partij/Parti Liberal ,Dutch and French names of the unitary Liberal Party,"The party remained unitary until 1972. The French speaking part of the unitary party (PL) changed its name to PLP=Parti de la Liberte et du Progres (Freedom and Progress Party) in 1961. It remained the same until 1976 while the Flemish Liberals chose the name of PVV=Partij voor Vrijheid en Vooruitgang (Freedom and Progress Party) in 1972, when the unitary party split along linguistic lines.",7,2,PVV/PLP,48,1946,1968
+BEL v213e,BEL,v213e,VLD,Vlaamse Liberalen en Democraten ,Flemish Liberals and Democrats,"Known as PVV from 1972, but changed name in 1992 to VLD.",7,21,VLD,28,1972,2009
+BEL v214e,BEL,v214e,PRL,Parti Reformateur Liberal ,"Liberal Reform Party) Mouvement Reformateur MR, Reform movement","Known as PLP from 1961. In 1976, the PRLW=Parti Reformateur et Liberal de Wallonie (Reform and Liberal Party from Wallonia) formed with the joining of several RW leading members to the Walloon liberals. The Brussels francophone Liberals remained autonomous for most part of the 1970's but finally merged with the PRLW to form the PRL in 1979. Note that since 1993, the party works as a federation with the FDF under the name PRL-FDF. MR from 2002, a federation of PRL, MCC (a Christian Democrat split oft) and FDF.",7,22,PRL,24,1972,2009
+BEL v215e,BEL,v215e,UDRT,Union Democrate pour le Respect du Travail ,Democratic Union for the Respect of Work,Since 1978,10,28,UDRT,3,1979,1985
+BEL v216e,BEL,v216e,FN,Front National ,National Front,Since 1985,11,33,FN,2,1992,2009
+BEL v217e,BEL,v217e,VB,Vlaams Blok ,Flemish Bloc) Vlaams Belang Flemish Interest,"Since 1978. Vlaams Blok disbanded itself in 2004 after being convicted by the Court of Appeal for repeated incitement to discrimination, and founded the successor Vlaams Belang",11,29,VB,18,1979,2009
+BEL v218e,BEL,v218e,,Other,,,,,,3,1946,1992
+BEL v219e,BEL,v219e,NN,No party,,,,,NN,,,
+BEL v220e,BEL,v220e,LDD,Lijst Dedecker ,"List Dedecker) Libertair, Direct, Democratisch","LDD first took part in elections in 2007. Conservative liberalism mixed with striving for more Flemish independence. Changed name in 2011 to Libertarian, Direct, Democratic.",10,,,5,2007,2009
+BGR v200e,BGR,v200e,BBB,Balgarski Biznes Blok ,Bulgarian Business Bloc,,7,9,BBB,13,1995,1997
+BGR v201e,BGR,v201e,BNS,Balgarski Naroden Sayuz ,Bulgarian National Union,,8,23,BPI J,13,2005,2005
+BGR v202e,BGR,v202e,BSP,Balgarska Sotsialisticheska Partiya ,Bulgarian Socialist Party; Coalition for Bulgaria,,3,1,BSP,211,1990,2009
+BGR v203e,BGR,v203e,BZNS,Balgarski Zemdelski Naroden Sayuz ,Bulgarian Agrarian National Union,,5,3,BAND,16,1990,1990
+BGR v204e,BGR,v204e,DPS,Dvizhenie za Prava i Svobodi ,Movement for Rights & Freedoms,,6,4,MR F,38,1990,2009
+BGR v205e,BGR,v205e,DSB,Demokrati za Silna Balgariya ,Democrats for Strong Bulgaria,,8,22,DSB,17,2005,2005
+BGR v206e,BGR,v206e,EL,Koalicija Evrolevica ,Euroleft Coalition,,3,15,EC,14,1997,1997
+BGR v207e,BGR,v207e,NDSV,Natsionalno Dvizhenie Simeon Vtori ,National Movement Simeon II,,9,17,NDSV,120,2001,2009
+BGR v208e,BGR,v208e,KA,Koalitsiya Ataka ,Attack Coalition,,10,21,AC,21,2005,2009
+BGR v209e,BGR,v209e,NS,Naroden Sayuz ,People's Union,,8,11,PU,18,1995,1997
+BGR v210e,BGR,v210e,ODS,Obedineni Demokratichni Sili ,United Democratic Forces,,8,2,UDF,144,1990,2009
+BGR v211e,BGR,v211e,GERB,Grazdani za Evropejsko Razvitie na Balgaria ,Citizens for European Development of Bulgaria,,8,,CEDB,116,2009,2009
+BGR v212e,BGR,v212e,RZS,Red Zakonnost Spravedlivost ,"Order, Lawfulness, Justice",,8,,OLJ,10,2009,2009
+BGR v224e,BGR,v224e,Others,,,,,,,6,1990,1990
+CYP v200e,CYP,v200e,ADIK,Agonistiko Dimokratiko Kinima ,Fighting Democratic Movement,,10,1,FDM,1,2003,2010
+CYP v201e,CYP,v201e,AKEL,Anorthotikon Komma Ergazomenou Laou ,Progressive Party of the Working People,,1,2,PPWP,20,1988,2010
+CYP v202e,CYP,v202e,DIKO,Dimokratiko Komma ,Democratic Party,,7,3,DP,16,1988,2010
+CYP v203e,CYP,v203e,DISY,Dimokratikos Synagermos ,Democratic Rally,,9,4,DR,20,1988,2010
+CYP v204e,CYP,v204e,EDI,Enomenoi Dimokrates ,United Democrats,Formed in 1996 by KED and ADISOK,7,5,UD,2,1997,2010
+CYP v205e,CYP,v205e,EVROKO,Evropaiko Komma ,European Party,Formed in 2006 by NEO and AD IK,10,6,EP,3,2007,2010
+CYP v206e,CYP,v206e,KOP,Kinima Oikologon Perivallontiston ,Ecological and Environmental Movement,,4,7,EEM,1,2003,2010
+CYP v207e,CYP,v207e,EDEK,Kinima Sosialdemokration Eniaia Dimokratiki Enosi Kentrou ,Movement for Social Democracy,Ran as KISOS in 2001,3,8,MSD,7,1988,2010
+CYP v208e,CYP,v208e,NEO,Neoi Orizontes ,New Horizons,,10,9,NH,1,2003,2003
+CYP v224e,CYP,v224e,,Others,,,,,,,,
+CZE v200e,CZE,v200e,CSSD,Ceska Strana Socialne Demokraticka ,Czech Social Democratic Party,,3,5,CSDP,74,1992,2010
+CZE v201e,CZE,v201e,HSD-SMS,Hnuti za Samospravnou Demokracii-Spolecnost pro Moravu a Slezsko ,Moravian Silesian Movement,,6,3,MSM,14,1992,1992
+CZE v202e,CZE,v202e,KDU-CSL,Krest'anska a DemokratickäUnie — Ceskoslovenska Strana Lidova ,Christian and Democratic Union,,8,4,CDU,21,1992,2009
+CZE v203e,CZE,v203e,KSCM,Komunistická Strana Cech a Moravy ,Communist Party of Bohemia and Moravia,,1,2,CPBM,41,1992,2010
+CZE v204e,CZE,v204e,LSU,Liberálne Sociálni Unie ,Liberal Social Union,,7,14,LSU,16,1992,1992
+CZE v205e,CZE,v205e,ODA,Obcanská Demokratická Aliance ,Civic Democratic Alliance,,7,15,CDA,14,1992,1998
+CZE v206e,CZE,v206e,ODS,Obcanská Demokratickä Strana ,Civic Democratic Party,,9,13,CDP,81,1992,2010
+CZE v207e,CZE,v207e,SPR-RSC,Sdruzeni pro Republiku - Republikánská Strana Ceskoslovenska ,Association for the Republic,,10,10,AR,18,1992,1998
+CZE v208e,CZE,v208e,SZ,Strana Zelenych ,Greens,,4,7,G,6,2006,2009
+CZE v209e,CZE,v209e,US,Unie Svobody ,Freedom Union,,7,23,FU,19,1998,2005
+CZE v210e,CZE,v210e,TOP09,"Tradice, Odpovednost, Prosperita a cislovky 09 ","Tradition, Responsibility, Prosperity",,,,TRP,41,2010,2010
+CZE v211e,CZE,v211e,VV,Veci Verejne ,Public Affairs,,,,PA,24,2010,2010
+CZE v224e,CZE,v224e,,Others,,,,,,,,
+DEU v200e,DEU,v200e,KPD,Kommunistische Partei Deutschlands ,German Communist Party,,1,28,KPD,15,1949,1949
+DEU v201e,DEU,v201e,PDS,Partei des Demokratischen Sozialismus ,Party of Democratic Socialism) Die Linke The Left,"From 2007 The left after a merger between The Left Party/PDS and WASG (Arbeit und Soziale Gerechtigkeit — Die Wahlalternative, consisting of dissafected SPD members and the Labour movement), which had formed an electoral alliance in 2005.",2,56,PDS,76,1990,2009
+DEU v202e,DEU,v202e,GR,Die Grünen ,The Greens,Official name since 1993: Bündnis '90-Die Grünen,4,51,GR,68,1983,2009
+DEU v203e,DEU,v203e,B'90,Bündnis '90 ,Alliance 90,Joined the Greens in 1993,4,53,B'90,8,1990,1991
+DEU v204e,DEU,v204e,SPD,Sozialdemokratische Partei Deutschlands ,Social Democratic Party of Germany,,3,2,SPD,298,1949,2009
+DEU v205e,DEU,v205e,FDP,Freie Demokratische Partei ,Free Democratic Party,,7,38,FDP,93,1949,2009
+DEU v206e,DEU,v206e,CDU/CSU,Christlich Demokratische Union Deutschlands ,CDU - Christian Democratic Union) and Christlich-Soziale Union in Bayern CSU - Christian Social Union,,8,"36, 37",CDU/CSU,319,1949,2009
+DEU v207e,DEU,v207e,DSU,Deutsche Soziale Union ,German Social Union,,8,54,DSU,8,1990,1990
+DEU v208e,DEU,v208e,Z,Zentrum ,Center,,8,1,Z,10,1949,1949
+DEU v209e,DEU,v209e,GB/BHE,Gesamtdeutscher Block/Bund der Heimatlosen und Entrechteten ,All-German Bloc,,10,45,GB/BHE,27,1953,1956
+DEU v210e,DEU,v210e,DA/FVP,Freie Volkspartei ,Free People's Party,Earlier named Demokratische Arbeitsgemeinschaft (DA),7,,DA/FVP,14,1956,1956
+DEU v211e,DEU,v211e,DP,Deutsche Partei ,German Party,,9,41,DP,17,1949,1960
+DEU v212e,DEU,v212e,WAV,Wirschaftliche Aufbau Vereinigung ,Economic Reconstruction League,,10,40,WAV,12,1949,1949
+DEU v213e,DEU,v213e,BP,Bayernpartei ,Bavaria Party,,6,39,BP,17,1949,1949
+DEU v214e,DEU,v214e,NR,Nationale Rechte ,National Right,,10,,NR,6,1949,1949
+DEU v215e,DEU,v215e,,Other,,,,,,9,1949,1982
+DEU v216e,DEU,v216e,NN,No party,,,,,NN,,,
+DNK v200e,DNK,v200e,KP,Danmarks Kommunistiske Parti ,Communist Party of Denmark,,1,9,Com,18,1945,1978
+DNK v201e,DNK,v201e,GW ,Falles Kurs ,Common Course,,1,22,CC,4,1987,1987
+DNK v202e,DNK,v202e,EL,Enhedslisten ,Red-Green Unity List,,2,24,LTL,6,1994,2009
+DNK v203e,DNK,v203e,LS,Venstresocialisterne ,Left Socialist Party,,2,18,LS,6,1968,1984
+DNK v204e,DNK,v204e,SVP,Socialistisk Folkeparti ,Socialist People's Party,,2,16,SPP,27,1960,2009
+DNK v205e,DNK,v205e,SD,Socialdemokratiet ,Social Democratic Party,,3,4,SD,77,1945,2009
+DNK v206e,DNK,v206e,RL,Det Radikale Venstre ,Radical Liberal Party,,7,5,RL,27,1945,2009
+DNK v207e,DNK,v207e,GP,Danmarks Retsforbund ,Justice Party/Single Tax Party,,7,10,JP,12,1945,1979
+DNK v208e,DNK,v208e,LZ,Liberalt Centrum ,Liberal Centre,,7,17,LC,4,1966,1966
+DNK v209e,DNK,v209e,ZD,Centrum-Demokraterne ,Centre Democrats,,3,20,CD,15,1973,1998
+DNK v210e,DNK,v210e,CVP,Kristeligt Folkeparti ,Christian Peoples Party,,8,19,CPP,9,1973,2001
+DNK v211e,DNK,v211e,Kon,Det Konservative Folkeparti ,Conservative People's Party,,9,1,Con,42,1945,2009
+DNK v212e,DNK,v212e,Lib,"Venstre, Danmarks Liberale Parti ",Liberal Party,,7,6,Lib,56,1945,2009
+DNK v213e,DNK,v213e,UN,De Uafhaengige ,Independents,,10,15,Ind,6,1960,1964
+DNK v214e,DNK,v214e,FP,Fremkridtspartiet ,Progress Party,,10,21,PP,28,1973,1998
+DNK v215e,DNK,v215e,MG,Mikael Gaam ,Mikael Gaam,,3,,MG,,,
+DNK v216e,DNK,v216e,DFP,Danske Folkeparti ,Danish Peoples Party,,10,,DPP,25,1998,2009
+DNK v217e,DNK,v217e,,Others,,,,,,5,1945,2009
+DNK v218e,DNK,v218e,NN,No party,,,,,NN,,,
+DNK v219e,DNK,v219e,NY,Ny Alliance ,New Alliance) Liberal Alliance,Founded in 2007. Changed name to Liberal Alliance in 2009,7,,NY,5,2007,2009
+ESP v200e,ESP,v200e,HB,Horn Batasuna ,United People,"Electoral participation under three names, HB, Euskal Herritarrok and EHAK. Banned from electoral participation since 2003",6,,HB,5,1979,1996
+ESP v201e,ESP,v201e,IU,Izquerda Unida ,Spanish Communist Party/ United Left,United Left after 1989.,1,,PCE; IU,23,1977,2008
+ESP v202e,ESP,v202e,ERC,Esquerda Republicana de Catalunya ,Catalonia's Republican Left,,6,,ERC,8,1977,2008
+ESP v203e,ESP,v203e,PSOE,Partido Socialista Obrero Espanol ,Spanish Socialist \workers' Party,"Founded in 1879, absorbed several minor socialist groups",3,,PSOE,202,1977,2008
+ESP v204e,ESP,v204e,UCD,Union de Centro Democritico ,Union of the Democratic Center,Founded in 1977 and disappeared after the 1982 election.,8,,UCD; CDS,168,1977,1989
+ESP v205e,ESP,v205e,CIU,Convergencia i Unio de Catalunya ,Convergence and Union,,6,,CiU,18,1977,2008
+ESP v206e,ESP,v206e,PNV,Partido Nacionalista Vasco ,Basque Nationalist Party,,6,,PNV,8,1977,2008
+ESP v207e,ESP,v207e,CC,Coalition Canaria ,Independent Groupings of Canary; Canary Coalition,Canary Coalition after 1993,6,,AIC; CC,4,1986,2008
+ESP v208e,ESP,v208e,PP,Partido Popular ,Popular Party,"Founded in 1977 as AP (Alianza Popular). Sponsored the formation of electoral coalition under the names of CD (Coalicion Democratica) and CP (Coalici6n Popular), becoming the Popular Party alter the disbandment of CD after the 1986 election.",9,,PP,183,1977,2008
+ESP v209e,ESP,v209e,,Other,,,,,,14,1977,2008
+ESP v210e,ESP,v210e,NN,No party,,,,,NN,,,
+ESP v211e,ESP,v211e,BNG,Bloque Nacionalista Gallego ,Galician Nationalist Block,Gallician nationalist political alliance formed in 1982,6,,,3,2000,2008
+EST v200e,EST,v200e,EEE,Eesti Ettervotjate Erakond ,Estonian Entrepreneurs' Party,,7,11,EEP,1,1992,1994
+EST v201e,EST,v201e,EK,Eesti Koonderakond ,Estonian Coalition Party,,5,3,CP,17,1992,2002
+EST v202e,EST,v202e,EKe,Eesti Keskerakond ,Estonian Centre Party,,7,4,ECP,29,1992,2009
+EST v203e,EST,v203e,EME,Eesti Maarahva Erakond ,Estonian Country People's Party,,5,23,ECPP,7,1999,2002
+EST v204e,EST,v204e,ERo,Eesti Rohelised ,Estonian Greens,,4,10,EG,6,1992,2009
+EST v205e,EST,v205e,ER,Eesti Reformierakond ,Estonian Reform Part,,7,14,EReP,31,1995,2009
+EST v206e,EST,v206e,ERL,Eestimaa Rahvaliit ,People's Union of Estonia,,5,26,PUE,13,2003,2009
+EST v207e,EST,v207e,ERP,Eesti Rojalistlik Partei ,Estonian Royalist Party,,10,6,ERP,8,1992,1994
+EST v208e,EST,v208e,ERSP,Eesti Rahvusliku Soltumatuse Partei ,Estonian National Independence Party,,9,1,ENIP,10,1992,1994
+EST v209e,EST,v209e,MKE,Meie Kodu an Eestimaa ,Our Home Is Estonia,,6,15,OHIE,6,1995,2002
+EST v210e,EST,v210e,IL,Ismaaliit ,Pro Patria Union,,9,22,PPU,29,1992,2005
+EST v211e,EST,v211e,IresPL,Isamaa ja Res Publica Liit ,Union of Pro Patria and Res Publica,,9,29,UPPRP,19,2007,2009
+EST v212e,EST,v212e,KMÜ,Koonderakond ja Maarahva Ühendus ,Coalition Party and Rural Union,,5,13,CPRU,41,1995,1997
+EST v213e,EST,v213e,SDE,Sotsiaaldemokraatlik Erakond ,Social Democratic Party,1992-2004: Moodukad (Moderates),3,5,SDP,17,1992,2009
+EST v214e,EST,v214e,PE-EK,Parem Eestija Eesti Kodanik ,Better Estonia/Estonian Citizen,,12,7,BEEC,8,1992,1994
+EST v215e,EST,v215e,ResP,Res Publica ,Res Publica,,9,25,RP,28,2003,2005
+EST v216e,EST,v216e,VKR/P,"Vabariiklaste ja Konservatiivide Rahvaerakond, Parempoolsed ",Right Wingers' Party,,10,16,RWP,5,1995,1997
+EST v224e,EST,v224e,,Others,,,,,,,,
+FIN v200e,FIN,v200e,SKDL,(Finnish People's Democratic Union),Finnish People's Democratic Union,Before 1990 = Suomen Kansan Demokraattinen Liitto (Finnish People's Democratic Union),1,13,FPDT J,50,1945,2010
+FIN v201e,FIN,v201e,SDL,Työväen ja Pienviljelijöiden Sosialidemokraattinen Liitto ,Social Democratic League of Workers and Smallholder,Before 1959 = Sosialidemokraattinen Oppositio (Social Democratic Opposition),3,15,SDL,19,1957,1968
+FIN v202e,FIN,v202e,SDP,Suomen Sosialidemokraattinen Puolue ,Finnish Social Democratic Party,,3,1,SDP,63,1945,2010
+FIN v203e,FIN,v203e,GR,Vihreä Liitto ,Green League,,4,20,GR,15,1983,2010
+FIN v204e,FIN,v204e,ZE,Suomen Keskusta ,Center Party of Finland) Keskustapuolue Center Party,"1906-1965 = Maalaisliitto (Agrarian Union), 1965-1988 = Keskustapuolue (Center Party)",5,4,CE,56,1945,2010
+FIN v205e,FIN,v205e,FRP,Suomen Maaseudun Puolue ,"Finnish Rural Party) True Films Perussuomalaiset), was formed after the dissolution of the Finnish Rural Party in 1995.",Before 1966 = Small Farmer's Party of Finland (Suomen Pienviljelijäin Iuolue). True Finns was formed after the dissolution of the Finnish Rural Party in 1995.,"5, from 1995 10",17,FRP,18,1966,2010
+FIN v206e,FIN,v206e,LIB,Liberaalinen Kansanpuolue ,Liberal People's Party) Liberaalit Liberals,"1918-1951 = National Progressive Party (Kansallinen Edistyspuolue ), 1951-1965 = Suomen Kansanpuolue (Finnish People's Party). Changed name to Liberals from 2001",7,9,LIB,13,1945,1994
+FIN v207e,FIN,v207e,CHR,Suomen Kristillinen Liitto ,Christian League of Finland) Kristillisdemokraatit Christian Democrats).,Name was changed to Christian Democrats in 2001,8,16,CHR,10,1970,2010
+FIN v208e,FIN,v208e,SW,Svenska folkpartiet ,Swedish People's Party,,6,2,SW,15,1945,2010
+FIN v209e,FIN,v209e,KON,Kansallinen Kokoomus ,National Coalition Party,,9,8,CON,53,1945,2010
+FIN v210e,FIN,v210e,,Others,,,,,,3,1945,2010
+FIN v211e,FIN,v211e,NN,No party,,,,,NN,,,
+FRA v200e,FRA,v200e,PC,Parti Communiste Francais ,Communist Party,,1,9,C,86,1962,2007
+FRA v201e,FRA,v201e,S,Socialists,,"Includes: Section Francaise de l'Internationde Ouvriere (SIFO) 1958-1962, Federation de la Gauche Democraque et Socialiste (FGDS) 1967-1968, Part, Socialiste (PS) 1973 , Mouvement des Radicaux de Gauche (MRG) 1978-1997 (from 1998 PRG, Parti Radical de Gauche, see 12)",3,1,S; SIFO; FGDS; PS; MRG,285,1959,2007
+FRA v202e,FRA,v202e,ML,Center Left Parties,,"Includes: Parti Radical-Socialist and Entente Democratique (ED) 1958-1962, Mouvement Reformateur (Ref) 1973-1997. 1997-2002 RCV (parliamentary group): Radical— citoyen — vert), consisting of Parti radical-socialiste (later PRG), MdC (Le Mouvement des citoyens, later MRC), Parti communiste reunionnais, Convergences ecologie solidarite, and ainsi que plusiers elus non-inscrits de gauche.","7 before 1973; 2 from 1973- 1997; 4, 1997-2002.",25,"CL; ED; Ref, RCV",39,1959,2002
+FRA v203e,FRA,v203e,MR,Center Right Parties,,"Mouvement Republicain Populaire (MRP) and Centre Democratique (CD) 1958-1967, Centre Democrate (CD) 1967, Proges et Democratie Moderne (PDM) 1968, Centre Democratie et Progres (CDP) 1973-1978, Union du Centre (UC) and Centre des Democrates Sociaux (CDS) 1988-1993 (French Christian Democrats)",8,13,CR; MRP; CD; PDM; CDP; UC; CDS,56,1959,1992
+FRA v204e,FRA,v204e,GK,Moderate Conservative Parties Mouvement Democrate ,Democratic Movement,"Includes: Centre National des Independants (CNI) 1958- 1962, Federation National des Republicains Independants (FNRI) and Parti Republicain (PR) 1962- 1978 (independent of UDF 1998 as Democratie Liberale, DL, that joined UMP in 2002), Union pour la Democratie Francaise (UDF) 1978-2006. UDF succeeded by MD (Mouvement Democrate) in 2007, which caused the foundation of Le Noveau Centre (see 13).",7,"20, 30",MC; CNI; FNRI; PR; UDF,215,1959,2007
+FRA v205e,FRA,v205e,G,"Gaullist Parties Union pour un Mouvement Populaire, UMP ",Union for a Popular Movement,"Union pour la Nouvelle Republique (UNR) 1958-1962, Union Democratique pour la V° Republique (UDV) 1967-1968, Union des Democrats pour la Republique (UDR) 1968-1978, Rassemblement pour la Republique (RPR) 1978-2002. UMP founded as merger of RPR, DL, and defectors from UDF.",9,14,G; UNR; UDV; UDR; RPR,355,1959,2007
+FRA v206e,FRA,v206e,UNR,Unite de la Republique ,Unity of the Republic,Deputies elected in Algeria (1958-1962),10,,UNR,47,1959,1962
+FRA v207e,FRA,v207e,FN,Front National ,National front,1986-,11,29,FN,35,1986,1988
+FRA v208e,FRA,v208e,,Other,,,,,,32,1959,2007
+FRA v209e,FRA,v209e,NN,No party,,,,,NN,,,
+FRA v210e,FRA,v210e,LV,Les Verts,,Founded in 1982. Part of Left green coalition in 1997 and the RCV group). From elections 2002 coded as LV but the party was represented earlier without being recorded as a separate party.,4,28,,4,2002,2007
+FRA v211e,FRA,v211e,PRG,Part Radical de Gauche ,Radical Party of the Left,"Founded 1971, PRG successor to MRG. Part of the RCV group in 1997elections, but from the elections 2002 coded separately as PRG.",7,25,,7,2002,2007
+FRA v212e,FRA,v212e,NC,Le Nouveau Centre ,New Centre,Founded 2007. Splinter from UDF due to the creation of MD which distanced itself from the UMP.,7,,,22,2007,2007
+GBR v200e,GBR,v200e,Comm,Communist Party,,,1,,Comm,2,1945,1945
+GBR v201e,GBR,v201e,ILP,Independent Labour Party,,,2,,ILP,3,1945,1945
+GBR v202e,GBR,v202e,SNP,Scottish National Party,,,6,,SNP,11,1970,2010
+GBR v203e,GBR,v203e,PC,Plaid Cymru,,,6,,PC,4,1974,2010
+GBR v204e,GBR,v204e,CTG',Commonwealth Party,,,2,,,1,1945,1945
+GBR v205e,GBR,v205e,Lab,Labour Party,,,3,,Lab,418,1945,2010
+GBR v206e,GBR,v206e,Lib,Liberal Party Liberal Democrats,,Liberale merged with SDP to form the Liberal Democrats 1988,7,,Lib,62,1945,2010
+GBR v207e,GBR,v207e,SDP,Social Democratic Party,,"Dissolved 1988, merged with Liberale to form the Liberal Democrats",3,,SDP,6,1983,1990
+GBR v208e,GBR,v208e,Con,Conservative Party,,,9,,Con,397,1945,2010
+GBR v209e,GBR,v209e,IN,Irish Nationalist parties,,,6,,IN,8,1945,2010
+GBR v210e,GBR,v210e,U,Unionist Parties,,,6,,U,14,1945,2010
+GBR v211e,GBR,v211e,,Other,,,,,,13,1945,2010
+GBR v212e,GBR,v212e,NN,No party,,,,,NN,,,
+GRC v200e,GRC,v200e,KKE,Kommonounistiko Komma Hellados ,Communist Party of Greece,Historic communist grouping—the only orthodox Marxist-Leninist party of Greece.,1,4,KKE,22,1977,2009
+GRC v201e,GRC,v201e,KKE-es,Kommounistiko Komma Elladas-Esoterikou ,Communist Part of Greece-Interior,"In 1987 KKR-Interior split into two separate parties, the Communist Party of the Interior-Renewed Left and the Greek Left. In 1989, it joined forces with SYN.",1,35,KKEes,1,1985,1985
+GRC v202e,GRC,v202e,SPAD,Symmachia Proodeftikon kai Aristeron Dynameon ,Alliance of Progressive and Left Wing Forces,"Alliance in 1977 election of KKE-es, United Democratic Left, Socialist March, Christian Democracy, and Socialist Initiative. The main support of the Alliance was from EDA, which polled a very small percentage of the vote when it ran alone in 1981. In 1985 EDA made an electoral coalition with PASOK and managed to elect its leader as MP.",2,25,SPAD,2,1977,1980
+GRC v203e,GRC,v203e,OIKEN,Omospondia Oikologikon kai Enallarktokon Organoseon ,Federation of Ecological and Alternative Organizations,"Formed from 80-odd environmentalist groupings, the Federation was the most prominent of a number of green formations. Won one seat in Nov. 1989, retained in April 1990, but in following elections did not gain any seats and split into smaller green parties.",4,46,OIKEN,1,1989,1990
+GRC v204e,GRC,v204e,SYN,Synaspismos tis aristeras kai tis proodou ,Coalition of the left and progress) SYRIZA Synaspismos Rizospastikis Aristeras) from 2004.,"Alliance of the Greek Left, the Communist Party of Greece and a number of minor leftist forces. (KKE formally withdrew from the Coalition in 1991). In 2004 merger of several small parties/movements into SYRIZA where SYN the most important.",2,47,SYN,28,1989,2009
+GRC v205e,GRC,v205e,DIKKI,Dimokratiko Koinoniko Kinima ,Democratic Social Movement,Center-leftist party formed by a breakaway group from PASOK in 1995. In elections 2007 part of SYRIZA (see SYN),2,,DIKKI,9,1996,1996
+GRC v206e,GRC,v206e,PASOK,Panhellinio Sosialistiko Kinema ,Panhellenic Socialist Movement,Grew out of the Left wing of the Center Union but proved to be quite different from both the old Center and the Communist Left.,3,7,PASOK,172,1977,2009
+GRC v207e,GRC,v207e,EDIK,Enosi Dimokratikou Kentrou ,Union of Democratic Center,"In Feb. 1976, the Center Union changed its name to the Union of the Democratic Center, but soon afterwards, a number of its members started to withdraw. In 1985, it joined forces with PASOK.",7,32,EDIK,16,1977,1980
+GRC v208e,GRC,v208e,KN,Neofileleftheroi ,New Liberal Party,"Formed by Konstantins Mitsotakis, it claimed to represent the authentic tradition of Venizelist liberalism In 1978, Mitsotakis joined ND.",9,39,KN,2,1977,1980
+GRC v209e,GRC,v209e,DIANA,Dimokratiki Ananeosi ,Democratic Renewal,"Center-right party launched by a group of ND ""purists"" in 1985 as an alternative to New Democracy. Dissolved 1994",9,44,DIANA,1,1989,1990
+GRC v210e,GRC,v210e,POLAN,Politiki Anoixi ,Political Spring,Conservative party formed by a breakaway group from ND in 1993.,9,50,POLAN,10,1993,1996
+GRC v211e,GRC,v211e,ND,Nea Democratia ,New Democracy,The post-1974 representative of the Conservative tradition. It managed to be presented as a completely new political party from the former ERE.,9,36,ND,171,1977,2009
+GRC v212e,GRC,v212e,EP,Ethniki Parataxi ,National Front,"Emerged with the demise of the dictatorship representing the extreme right. After 1977 divided into two factions. One ran in 1981 under the name Progressive Party, while MPs from the other faction joined the ND list.",11,38,EP,5,1977,1980
+GRC v213e,GRC,v213e,IM,Independent Muslims,,"Although running as independents rather than under party labels, Muslim candidates in Thrace managed to gain 2 seats in the 1989 elections and another 2 seats in the 1990 election.",6,43,IM,2,1989,1990
+GRC v214e,GRC,v214e,NN,No Party,,,,,NN,,,
+GRC v215e,GRC,v215e,POR,Laikós Orthódoxos Synagermós ,Popular Orthodox Rally,"Founded in 2000 by Georgias Karatzaferis after being expelled from ND, first gained parliamentary representation in elections 2007. Mix of Euroscepticism, populism and national conservatism",10,,,15,2007,2009
+HUN v200e,HUN,v200e,FIDESZ- MPS,Fidesz-Magyar Polgári Szövetseg ,Fidesz -Hungarian Civic Alliance,,9,5,F-HCA,227,1990,2010
+HUN v201e,HUN,v201e,FKGP,"Független Kisgazda, Földmunkás es Polgári Párt ",Independent Smallholders Party,,5,3,ISP,48,1990,1998
+HUN v202e,HUN,v202e,KDNP,Keresztenydemokrata Neppárt ,Christian Democratic People's Party,,8,6,CDPP,36,1990,2010
+HUN v203e,HUN,v203e,MDF,Magyar Demokrata Forum ,Hungarian Democratic Forum,,9,1,HDF,164,1990,2009
+HUN v204e,HUN,v204e,MIEP,Magyar Igazság es Elet Pártja ,Hungarian Justice & Life Party,2006: MIEF JOBBIK,10,15,HJLP,14,1994,2002
+HUN v205e,HUN,v205e,MSZP,Magyar Szocialista Párt ,Hungarian Socialist Party,,3,4,HSP,209,1990,2010
+HUN v206e,HUN,v206e,SZDSZ,Szabad Demokraták Szövetsege ,Alliance of Free Democrats,,7,2,AFD,93,1990,2009
+HUN v207e,HUN,v207e,JOBBIK,Jobbik Magyarorszagert Mozgalom ,Movement for a Better Hungary,,,,MBH,47,2010,2010
+HUN v208e,HUN,v208e,LMP,Lehet Más a Politika ,Politics Can Be Different,,4,,PCBD,16,2010,2010
+HUN v224e,HUN,v224e,Others,,,,,,,9,1990,2010
+IRL v200e,IRL,v200e,WP/DL,Democratic Left,,Before 1992 The Workers Party. Democratic Left from 1992 till 1999 when it merged with the Labour Party under Labour's banner.,2,26,DL,7,1981,1997
+IRL v201e,IRL,v201e,Lab,The Labour Party ,Päirti an Lucht Oibre,Merged with Democratic Left in 1999 under Labour's label,3,8,Lab,33,1944,2008
+IRL v202e,IRL,v202e,CnP,Clann na Poblachta ,Party of the Republic,Dissolved 1965,6,17,CnP,10,1948,1966
+IRL v203e,IRL,v203e,CnT,Clann na Talmhan ,Party of the Land,Dissolved 1965,5,15,CnT,11,1944,1961
+IRL v204e,IRL,v204e,FF,Fianna Fail ,Soldiers of Ireland,,8,10,FF,84,1944,2008
+IRL v205e,IRL,v205e,FG,Fine Gael ,Irish Rate,,8,14,FG,70,1944,2008
+IRL v206e,IRL,v206e,PD,Progressive Democrats ,An Pairti Daonlathach,Founded 1985 dissolved 2009,10,25,PD,14,1987,2008
+IRL v207e,IRL,v207e,,Other,,,,,,14,1944,2008
+IRL v208e,IRL,v208e,NN,No party,,,,,NN,,,
+IRL v209e,IRL,v209e,SF,Sinn Fein ,lit. We ourselves,"Coded from elections 2002, Irish Left wing nationalists",6,22,,5,2002,2008
+IRL v210e,IRL,v210e,GR,Green Party ,Comhaontas Glas,Coded from elections 2002,4,24,,6,2002,2008
+ISL v200e,ISL,v200e,SP,Sameiningarflokkur althy8u - s6sialisaflokkur ,United Socialist Party,"Joined the electoral alliance PA in 1956, which then evolved into a party.",1,14,SP,10,1944,1953
+ISL v201e,ISL,v201e,LM,Vinstnhreyfingin - b Cent frarbo8 ,The Left-Green Movement,"Founded before elections 1999--mostly the left wing of the PA that did not join the UF. Democratic socialist, feministic and environmental in orientation.",2,,LM,14,1999,2009
+ISL v202e,ISL,v202e,PA,Althy0ubandalag ,People's Alliance,Initially an alliance of the SP and a few members of the SDP (1956). Dissolved 1998.,2,14,PA,14,1956,1995
+ISL v203e,ISL,v203e,WA,Kvennaflokkur Women's Party;),,Joined the electoral alliance UF in 1999.,12,23,WA,6,1983,1995
+ISL v204e,ISL,v204e,NPP,pjodvarnarflokkurinn ,National Preservation Party,Dead.,6,17,NPP,2,1953,1953
+ISL v205e,ISL,v205e,ULL,Samtök frjalslyndra og vinstri manna ,Union of Liberals and Leftists,Splinter of the PA Dead.,2,20,ULL,5,1971,1974
+ISL v206e,ISL,v206e,THPM,pjodvaki-Fylking folksins ,Thjodvaki People's Movement,Splinter of the SDP. Dead,3,29,IDPM,4,1995,1995
+ISL v207e,ISL,v207e,UF,Samfylkingin ,United Front,"An electoral alliance of SDP, PA, and WA",3,,UF,20,1999,2009
+ISL v208e,ISL,v208e,SDA,Bandalag jafnadarmanna ,Social Democratic Alliance,Splinter of the SDP. Dead.,3,22,SDA,4,1983,1983
+ISL v209e,ISL,v209e,SDP,Althyöuflokkur ,Social Democratic Party,Joined the electoral alliance UF in 1999.,3,7,SDP,14,1944,1995
+ISL v210e,ISL,v210e,AESJ,Samtök um jafnretti og felagshyggju ,Association for Equality and Social Justice,Dead.,6,27,AESJ,1,1987,1989
+ISL v211e,ISL,v211e,PP,Framsóknarflokkur ,Progressive Party,,5,8,PP,19,1944,2009
+ISL v212e,ISL,v212e,LP,Frjalslyndi flokkur ,Liberal Party,Splinter of the IP.,12,,LP,4,1999,2009
+ISL v213e,ISL,v213e,CP,Bogaraflokkur ,Citizens' Party,Splinter of the IP. Dead.,9,24,CP,7,1987,1989
+ISL v214e,ISL,v214e,IP,Sjalfstaedisflokkur ,Independence Party,,9,13,IP,26,1944,2009
+ISL v215e,ISL,v215e,O ,Others,,,,,O ,1,1980,1980
+ISL v216e,ISL,v216e,NN,No party,,,,,NN,,,
+ISL v217e,ISL,v217e,CM,Borgarahreyfingin ,The Civic Movement) Hreyfingin The Movement,CM founded in 2009 as a response to the financial crisis. Split between MPs after elections. Successor The Movement was founded,12,,,4,2009,2009
+ITA v200e,ITA,v200e,Ex Linke,Partito della Rifondazione Comunista ,Refounded Communist Party,"DP=Democrazia Proletatia (Proletarian Democracy) 1976-1992, PDUP=Partito di Unità Proleratia per il Communismo (Proletarian Unity for Communism) 1979- 1987, Partito della Rifondazione Comunista from 1992-",1,"37, 50 ,32",RC,41,1976,2006
+ITA v201e,ITA,v201e,PdCI,Partito dei Comunisti Italiani ,Party of the Italian Communists,"Since 1998. Co-operated in the centre-left alliance Union in the 2006 elections and in die left alliance, The Left- The Rainbow (La Sinistra – L'Arcobaleno), in the 2008 elections.",1,,PdCI,21,1998,2006
+ITA v202e,ITA,v202e,PCl/PDS,Partito democratica della Sinistra ,Democratic Left Party) Democratici di Sinistra Left Democrats,PCI=ltalian Communist Party (Partito Comunista Italiano) 1946-1992. PDS from 1992-98. DS from 1998. In the 2006 elections on a joint list with the DeL as L'Ulivo (the Olive tree). Dissolved in 2007,1,11,PCI; PDS; DS,222,1946,2005
+ITA v203e,ITA,v203e,Unabh. Linke,Indipendenti di Sinastra ,Independents elected under PCI umbrella,1976-1987,1,,Indep Left,20,1983,1991
+ITA v204e,ITA,v204e,LINKE,Federazione Nazionale delle liste Verdi ,National Federation of greens) Fedarazione dei Verdi,Founded 1983. From 1990 Fedarazione dei Verdi alter merger with Rainbow Greens. In elections 2001 joint list with SDI. In 2006 elections part of the Unione coalition In 2008 elections part of the Left-Rainbow coalition,4,45,Greens,18,1994,2006
+ITA v205e,ITA,v205e,GR/LR,La Rete: movimento per la Democrazia ,The Net: movement for democracy,"1992-1999. In 1996 the party changed it name to La Rete per il Partito Democratico and in 1999 it was absorbed by I Democratici (The Democrats, formed by splinters from PPI and others) who later joined the DeL.",4,49,La Rete,16,1987,1993
+ITA v206e,ITA,v206e,PR,Partito Radicale ,Radical Party,Founded 1976. Joint list with the SDI 2006 as RnP.,2,34,PR,17,1976,1993
+ITA v207e,ITA,v207e,PSIUP,Partito Socialista di Unità Proletaria ,Socialist Party for Proletarian Unity,1964-1972,3,30,PSIUP,23,1968,1972
+ITA v208e,ITA,v208e,PSI,Partito Socialista Italiano ,Italian Socialist Party,1946-1992,3,3,PSI,115,1946,1993
+ITA v209e,ITA,v209e,SDI,Socialisti Democratici Italiani ,Italian Social Democrats,1998-2007. Joint list with the Greens in 2001 elections. Formed a joint list with PR in the 2006 elections as RnP. Joined a new socialist party (Partito Socialista) in 2007.,2,,SDI,9,1998,2000
+ITA v210e,ITA,v210e,PSDI,Partito Socialista Democratico Italiano ,Italian Social Democratic Party,"1948-1992. (From 1948-1951, PSLI)",3,23,PSDI,33,1948,1993
+ITA v211e,ITA,v211e,DC,Democrazia Cristiana ,Christian Democracy,1946-1993,8,17,DC,306,1946,1993
+ITA v212e,ITA,v212e,PPI,Partito Popolare Italiano ,Italian Popular Party,"1994-2002. Successor to DC. In 1999 Prodi formed I Democratici (The Democrats, splinters from PPI and centre Jeff groups) attracting some of the Christian democratic and social liberal MPs.",8,17,PPI,67,1994,2000
+ITA v213e,ITA,v213e,RIN,Rinnovamento Italiano ,Italian Renewal,1996-2002. In 2002 the party contested the elections as part of the newly formed DeL.,7,68,RI,26,1996,2000
+ITA v214e,ITA,v214e,UDR,Unione Democratica per la Repubblica ,"Democratic Union for the Republic) Unione Democratici per 1 Europa Union of Democrats for Europe), UDEUR","Since 1998. The party split in 1999 and most members joined the UDEUR, later called UDEUR-populars. Part of the DeL list in the 2001 elections but decided not to stay when DeL in 2006 contested the elections as one party. Part of the Unione coalition in the elections 2006.",8,,UDR,27,1998,2006
+ITA v215e,ITA,v215e,CCD/CDU,Centro Cristiano Democratico/Cristiani Democratica Uniti ,"Christian Democratic Centre/United Christian Democrats) Unione dei Democratici Cristiani e di Centro Union of Christian and Centre Democrats), and Unione di Centro ","CCD 1994- and CDU 1996. The parties joined forces in 1996. CDU merged with UDR in 1998. From 2002 UDC was created after merger of CCD, CDU and Democrazia Europea. Contested the 2008 elections in coalition under a joint list with Movimento Fedarativo Civico Popolare, Partito della Democrazia Cristiana and Partito Democratico Cristiano as Unione di Centro.",8,"62, 63",CCD,40,1994,2008
+ITA v216e,ITA,v216e,PRI,Partito Repubblicano Italiano ,Italian Republican Party,1946-1992,7,4,PRI,29,1946,1993
+ITA v217e,ITA,v217e,LN,Lega Nord ,Northern League,1987-,6,42,LN,117,1992,2008
+ITA v218e,ITA,v218e,PLI,Partito Liberale Italiano ,Italian Liberal Party,1948-1992,7,19,PLI,57,1946,1993
+ITA v219e,ITA,v219e,FI,Forza Italia Il Popolo della Libertà ,"PdL, People of Freedom","Founded 1994. In elections 2008 as People of Freedom, PdL, under joint list with AN, Democrazia Christiana per le Autonomie, NPSI and others. From 2009 the party dissolved into the PdL.",9,61,FI,276,1994,2008
+ITA v220e,ITA,v220e,MON,Monarchist parties,,Includes PNM=Partito Nazionale Monarchico (1953-63) and PDIUM=Partito di Unità Monarchica (1948-72),10,20,Mon,20,1948,1972
+ITA v221e,ITA,v221e,AN,Alleanza Nazionale ,National Alliance,Founded in 1995. Successor to MSI that turned more to the centre-right. In coalition under a joint list with FI and others as PdL in the 2008 elections. In 2009 the party dissolved and merged into the PdL.,10,24,AN,109,1994,2006
+ITA v222e,ITA,v222e,MSI,Uomo Qualunque and Movimento Sociale Italiano ,Italian Social Movement,1948-1994,11,24,MSI,55,1946,1993
+ITA v223e,ITA,v223e,,other,,,,,,50,1946,2008
+ITA v224e,ITA,v224e,NN,No party,,,,,NN,,,
+ITA v225e,ITA,v225e,SVP,Südtiroler Volkspartei ,South Tyrolean People's Party,Regional party in the mainly German speaking province of Bozen (Bolzano in Italian). Recorded with seats from elections 2001 but the party were represented earlier but was then not recorded as a separate party.,6,25,,4,2001,2008
+ITA v226e,ITA,v226e,NPSI,"Nuovo Partito Socialista Italiano, NPSI ",New Italian Socialist Party,"Founded in 2001, dissolved and merged into PdL 2009. In the 2006 elections the party formed an electoral alliance with DCA (Democrazia Cristiana per le Autonomie, a split from die UdC). Contested the 2008 elections as part of the PdL.",3,,,4,2001,2006
+ITA v227e,ITA,v227e,DeL,Democrazia e Libertà. La Margherita ,Democracy is Freedom — The Daisy,2002-2007. Formed by left Christian democrats and other centre and left groups. Merged into PD 2007,8,,,76,2001,2005
+ITA v228e,ITA,v228e,IdV,Italia dei Valori/ Lista di Pietro ,Italy of Values,"Founded in 1998 by Antonio di Pietro, one of die ""Clean hands"" magistrates. Cooperation with the centre left, favors strict policies against illegal immigration, waste of public money and corruption",7,,,29,2006,2008
+ITA v229e,ITA,v229e,RnP,Rosa nel Pugno ,Rose in the Fist,2005-2007. Founded as an alliance between PR and SDI.,3,,,18,2006,2006
+ITA v230e,ITA,v230e,PD,Partito Democratico ,Democratic Party) In 2006 L'Ulivo Olive tree,"PD founded in 2007 after merger of DeL, DS and several smaller groups, but die centre left parties had cooperated in alliances since 1996 and the main constituent parties, the DeL and DS, had contested the 2006 elections in joint list as L'Ulivo. In 2006 elections votes for L'Unione are included.",3,,,226,2006,2008
+ITA v231e,ITA,v231e,MpA,Movimento per l'Autonomia ,Movement for Autonomy,Founded in 2005. Alliance with LN in die 2006 elections. MPs elected an own list since the 2008 elections,6,,,8,2008,2008
+LTU v200e,LTU,v200e,DP,Darbo Partija ,Labour Party,,7,28,LP,39,2004,2008
+LTU v201e,LTU,v201e,KDS,Krikscioniu Demokratu Sajunga ,Christian Democratic Union,,8,18,CDU,1,1996,2001
+LTU v202e,LTU,v202e,LCS,Lietuvos Centro Sajunga ,Lithuanian Centre Union,,7,6,LCUL,15,1992,2001
+LTU v203e,LTU,v203e,LbCS,Liberaluir Centro Sajunga ,Liberal and Centre Union,,7,29,LCU ,18,2004,2008
+LTU v204e,LTU,v204e,LDDP,Lietuvos Demokratin?s Darbo Partijos ,Lithuanian Democratic Labour Party,,1,1,LDLP,73,1992,1999
+LTU v205e,LTU,v205e,LKDP,Lietuvos Krikš?ioni? Demokratu Partij a ,Lithuanian Christian Democratic Party,,8,3,LCDP,18,1992,2001
+LTU v206e,LTU,v206e,LLaS,Lietuvos Laisv?s S?junga ,Lithuanian Liberty Union,,12,10,LLU,1,1992,2001
+LTU v207e,LTU,v207e,LLRA,Lietuvos Lenk} Rinkim? Akcija ,Electoral Action for Lithuania's Poles,,6,7,EALP,4,1992,2008
+LTU v208e,LTU,v208e,LLS,Lietuvos Liberalu S?junga ,Lithuanian Liberal Union,,7,9,LLU,34,1992,2001
+LTU v209e,LTU,v209e,JL-NTS,Jaunosios Lietuvos' ir Naujuj?Tautininku S?junga ,"Young Lithuanians', New Nationalist Union",,9,16,YL-NNU,1,1996,2001
+LTU v210e,LTU,v210e,LPS,Lietuvos Persitvarkymo S?j?dis ,Sajudis/Lithuanian Restructuring Movement,,9,2,S/LRM,30,1992,1996
+LTU v211e,LTU,v211e,LSDP,Lietuvos Socialdemokratu Partija ,Lithuanian Social Democratic Party,In 2000 as AB-SDK; in2004 as ABAP- UL which also contained NS-SL; in 2008 as LsdP,3,4 (+24+,LSDP,51,1992,2008
+LTU v212e,LTU,v212e,LTS,Lietuviu Tautininku S?junga ,Lithuanian Nationalist Union,,10,8,LNU,4,1992,1999
+LTU v213e,LTU,v213e,LVP,Lietuvos Valstieciu Partija ,Lithuanian Peasants' Party,,5,20,LPP,4,1996,2001
+LTU v214e,LTU,v214e,NS-SL,Naujoji S?junga - Socialliberalai ,New Union - Social Liberals,In alliance with LSDP in 2004,7,25,NU-SL,29,2000,2008
+LTU v215e,LTU,v215e,PDP,Pilietin?s Demokratijos Partija ,Party of Civic Democracy,Breakaway from DP in 2006,7,39,CDP,11,2006,2006
+LTU v216e,LTU,v216e,TS-LK,Tevynes Santara - Lietuvos Konservatoriai ,Homeland Union,,7,15 (+34),HU,70,1996,2008
+LTU v217e,LTU,v217e,PK-UTT,Rolando Pakso Koalicija UZ Tvarka ir Teisingumas ,Coalition of Rolandas Paksas For Order and Justice,,10,32,CRPOJ,15,2004,2008
+LTU v218e,LTU,v218e,VNDPS,Valstie?iu ir Naujosios Demokratijos Partij? S?jungos ,Union of Peasants' and New Democracy Parties,From 2005: Lietuvos valstie?i? liaudininku s?junga (LVLS),5,30,UPND,10,2004,2008
+LTU v219e,LTU,v219e,TPP,Tautos Prisik?limo Partija ,Nation's Resurrection Party,,7,35,NRP,16,2008,2008
+LTU v220e,LTU,v220e,LRLS,Lietuvos Respublikos Liberal} Sajunga ,Liberal Movement of the Republic of Lithuania,,8,37,LMRL,11,2008,2008
+LTU v224e,LTU,v224e,,Others,,,,,,7,1992,2008
+LUX v200e,LUX,v200e,KPL,Kommunistesch Partei Letzebuerg ,Communist Party) Dei Lenk 1999) ,KPL had had no MP since 1994. It gained 1 seat in 1999 but then as Dei Lenk in coalition with other parties of the left such as the New Left and the Revolutionary Socialist Party. KPL and DL has run separate lists with only the DL gaining parliamentary representation,1,,KPL,6,1945,2009
+LUX v201e,LUX,v201e,LSAP,Letzebuerger Sozialistesch Aarbechterpartei ,Luxembourg's Socialist Workers Party,,3,,LSAP,21,1945,2009
+LUX v202e,LUX,v202e,SDP,Sozialdemokratesch Partei ,Social Democratic Party,From 1974 to 1984,3,,SDP,5,1974,1979
+LUX v203e,LUX,v203e,GLEI,Greng Lescht Ekologisch Initiativ ,Green Left Ecological Initiative,Since 1989 (first election 1989),4,,GLEI,2,1989,1989
+LUX v204e,LUX,v204e,Dei Greng,Electoral Alliance of the green parties,,"Since 1994, includes GLEI and GAP",4,,Dei Greng,7,1994,2009
+LUX v205e,LUX,v205e,GAP,Greng Alternativ Partei ,Alternative Greens Party,Since 1983 (first election 1984),4,,GAP,2,1984,1989
+LUX v206e,LUX,v206e,CSV,Chreschtlech-Sozial Vollekspartei ,Christian Democrats,,8,,CSV,26,1945,2009
+LUX v207e,LUX,v207e,DP,Demokratesch Partei ,Democratic Party,,7,,DP,15,1945,2009
+LUX v208e,LUX,v208e,ADR,Aktiounskomitee fir Demokratie a Rentegerechtegkeet ,Action Committee for Democracy and Equal Pensions,Since 1987 (first election 1989),10,,ADR,7,1989,2009
+LUX v209e,LUX,v209e,EF,Enröles de Force ,Forcibly enlisted,From 1979 to 1984,(?),,EF,1,1979,1979
+LUX v210e,LUX,v210e,SI,Socialistes Independants ,Independent socialists,From 1979 to 1989,3,,SI,1,1979,1979
+LUX v211e,LUX,v211e,MIP,Mouvement Independant Populaire ,Independent Popular Movement,From 1964 to 1969,10,,MIP,2,1964,1964
+LUX v212e,LUX,v212e,PIE,Parti des Independants de 1'Est ,Party of the Eastern Independents,From 1945 to 1948,7,,PIE,1,1945,1947
+LUX v213e,LUX,v213e,,Other,,,,,,,,
+LUX v214e,LUX,v214e,NN,No party,,,,,NN,,,
+LVA v200e,LVA,v200e,AS,Apvienotais Sarakst ,United List,,12,14,UL,8,1995,1998
+LVA v201e,LVA,v201e,DPS,Demokrätiskä Partija Saimnieks ,Democratic Party Saimnieks,,3,8,DPS,18,1993,2000
+LVA v202e,LVA,v202e,JL,Jaunas Laiks ,New Era,Vienotiba in 2010,7,24,NE,33,2002,2010
+LVA v203e,LVA,v203e,JP,Jauna Partija ,New Party,,3,22,NP,8,1998,2000
+LVA v204e,LVA,v204e,LC,Savieniba Latvijas Cels ,Latvia's Way Alliance,,7,1,LWA,36,1993,2006
+LVA v205e,LVA,v205e,LKDS,Latvijas Ksistigo Demokratu Savieniba ,Latvian Christian Democratic Union,,8,7,LCDU,6,1993,1994
+LVA v206e,LVA,v206e,LNNK,Latvijas Nacionäli Konservativä Partija ,Latvian National Conservative Party,,9,2 (+15),LNCP,15,1993,1998
+LVA v207e,LVA,v207e,LPP,Latvijas Pirmaa Partija ,Latvia's First Party,,8,26,LFP,10,2002,2006
+LVA v208e,LVA,v208e,LPP-LC,Latvijas Pirmaä Partija-Savieniba Latvijas Cels ,First Party and Latvia's Way,Par labu Latviju in 2010,7,32,FP-LW,10,2006,2010
+LVA v209e,LVA,v209e,LSDSP,Latvijas Socialdemokratiskä Stridnieku Partija ,Latvian Social Democratic Workers' Party,Prior 1999: Latvijas Sociäldemokrätu Apvieniba (Social Democratic Alliance),3,16,LSDWP,14,1995,2000
+LVA v210e,LVA,v210e,LZS,Latvijas Zemnieku Savieniba ,Latvian Farmers' Union,,5,5,LFU,12,1993,2000
+LVA v211e,LVA,v211e,LVP,Latvijas Vienibas Partija ,Latvian Unity Party,,2,13,LT JP,8,1995,2000
+LVA v212e,LVA,v212e,LSP,Latvijas Socialistiskä Partija ,Latvian Social st Party,,1,4,LSP,7,1993,1998
+LVA v213e,LVA,v213e,PCTVL,Par Cilveka Tiesibäm Vienotä Latvija ,Human Rights in United Latvia,,2,25,HRUL,25,2002,2010
+LVA v214e,LVA,v214e,SC,Saskanas Centrs ,Harmony Centre,,6,31,HC,29,2006,2010
+LVA v215e,LVA,v215e,TB-LNNK,Apvieniba Tevzemei un Brivibai ,For Fatherland and Freedom,Merged with LNNK in 1997; Nacionäla apvieniba in 2010,9,21 (+6),FFF,17,1993,2010
+LVA v216e,LVA,v216e,TKL-ZP,Tautas Kustiba Latvijai - Zigerista Partija ,Popular movement for Latvia – Siegerist Party,,10,12,PML-SP,16,1995,2000
+LVA v217e,LVA,v217e,TP,Tautas Partija ,People s Party,Par labu Latviju in 2010,10,20,PP,24,1998,2010
+LVA v218e,LVA,v218e,TSP,Tautas Saskanas Partija ,National Harmony Party,,3,3,NHP,16,1993,2000
+LVA v219e,LVA,v219e,ZZS,Zalo un Zeimnieku Savieniba ,Green and Farmers Union,,4,25,GFU,22,2002,2010
+LVA v224e,LVA,v224e,,Others,,,,,,,,
+MLT v200e,MLT,v200e,PL,Partit Laburista ,Malta Labour Party,,3,3,MLP,35,1987,2008
+MLT v201e,MLT,v201e,PN,Partit Nazzjonalista ,Nationalist Party,,8,5,NP,35,1987,2008
+MLT v202e,MLT,v202e,PC,Partit Communista ,Communist Party,,1,13,CP,,,
+MLT v203e,MLT,v203e,AD,Alternativa Demokratika ,Democratic Alternative,,4,14,DA,,,
+MLT v224e,MLT,v224e,,Others,,,,,,,,
+NLD v200e,NLD,v200e,SP,Socialistische Partij ,Socialist Party,,3,,SP,25,1994,2010
+NLD v201e,NLD,v201e,CPN,Communistische Partij Nederland ,Communist Party of the Netherlands,,1,,CPN,10,1946,1982
+NLD v202e,NLD,v202e,PSP,Pacifistische Socialistische Partij ,Pacifist Socialist Party,,2,,PSP,4,1959,1986
+NLD v203e,NLD,v203e,GL,Groen Links ,Green Left,,4,,GL,11,1989,2010
+NLD v204e,NLD,v204e,EVP,Evangelische Volks Partij ,Evangelical People's Party,,8,,EVP,1,1982,1982
+NLD v205e,NLD,v205e,PPR,Politieke Partij Radicalen ,Radical Political Party,,2,,PPR,7,1971,1986
+NLD v206e,NLD,v206e,PvdA,Partij van de Arbeid ,Labour Party,,3,,PvdA,53,1946,2010
+NLD v207e,NLD,v207e,AOV,Algemeen Ouderen Verbond ,General Pensioners League,,12,,AOV,6,1994,1994
+NLD v208e,NLD,v208e,Unie 55+,Unie 55+ ,55+ Union,,12,,Unie 55+,1,1994,1994
+NLD v209e,NLD,v209e,D66,Democraten 66 ,Democrats 66,,7,,D66,24,1967,2010
+NLD v210e,NLD,v210e,ARP,Anti Revolutionaire Partij ,Anti-Revolutionary Party,,8,,ARP,15,1946,1973
+NLD v211e,NLD,v211e,KVP,Katholieke Volks Partij ,Catholic People's Party,,8,,KVP,50,1946,1973
+NLD v212e,NLD,v212e,CDA,Christen-Democratisch Appel ,Christian Democratic Appeal,,8,,CDA,54,1977,2010
+NLD v213e,NLD,v213e,CHU,Christelijk Historische Unie ,Christian Historical union,,8,,CHU,13,1946,1973
+NLD v214e,NLD,v214e,DS70,Democratische Socialisten 70 ,Democratic Socialists'70,,3,,DS70,8,1971,1977
+NLD v215e,NLD,v215e,NMP,Nederlandse Middenstands Partij ,Dutch Retailers' Party,,12,,NMP,2,1971,1972
+NLD v216e,NLD,v216e,CP/CD,Centrum Partij - CP ,Centre Party) and Centum Democraten - CD Centre Democrats,,11,,CP/CD,3,1982,1994
+NLD v217e,NLD,v217e,GPV,Gereformeerd Politiek Verbond ,Reformed Political League,Merged with RPF into CU,8,,GPV,2,1963,1998
+NLD v218e,NLD,v218e,RPF,Reformatorische Politieke Federatie ,Reformed Political Federation,Merged with GPV into CU,8,,RPF,3,1981,1998
+NLD v219e,NLD,v219e,SGP,Staatkundig Gereformeerde Partij ,Political Reformed Party,,8,,SGP,3,1946,2010
+NLD v220e,NLD,v220e,RKPN,Rooms-Katholieke Partij Nederland ,Roman Catholic Party of the Netherlands,,8,,RKPN,2,1948,1973
+NLD v221e,NLD,v221e,VVD,Volkspartij voor Vrijheid en Democratie ,People's Party for Freedom and Democracy,,7,,VVD,38,1946,2010
+NLD v223e,NLD,v223e,,Other,,,,,,2,2002,2010
+NLD v224e,NLD,v224e,NN,No party,,,,,NN,,,
+NLD v225e,NLD,v225e,CU,Christen Unie ,Christian Union,Founded as an alliance between RPF and GPV and formed a common parliamentary party in 2001.,8,,,6,2002,2010
+NLD v226e,NLD,v226e,LPF,Lijst Pim Fortuyn ,List Pim Fortuyn,Created by Pim Fortuyn in 2002 after his dismissal from Leefbar Nederland. The party was dissolved on national level in 2008.,10,,,26,2002,2006
+NLD v227e,NLD,v227e,PVV,Partij voor de Vrijheid ,Party for Freedom,Founded by Geert Wilders after defecting from the VVD in 2004 in protest against the party's positive stance towards Turkish membership in the EU.,10,,,24,2007,2010
+NLD v277e,NLD,v222e,PB/RVP,Farmers' Party ,Boerempartij - BP) and Rightwing People's Party Rechtse Volkspartij- RVP,,9,,BP/RVP,,,
+NOR v200e,NOR,v200e,NKP/RV,Norges Kommunistiske Parti/Rad Valgallianse ,Communist Party/Red Election Alliance,Before 1961=NKP; From 1973 Red Election Alliance,1,,NKP/RV,11,1945,1996
+NOR v201e,NOR,v201e,SF/SV,Socialistik Folkeparti ,Socialist People's Party) Sosialistisk Venstreparti Socialist Left Party,"Before 1973 = Sosialistisk Folkeparti, From 1973 in electoral alliance (Socialist People's Party, Communist Party and Democratic Socialists) From 1975 Socialist Left Party",2,,SF/SV,23,1961,2009
+NOR v202e,NOR,v202e,A,Arbeiderpartiet ,Labour Party,,3,,A,85,1945,2009
+NOR v203e,NOR,v203e,V,Venstre ,Liberal Party,,7,,V,21,1945,2009
+NOR v204e,NOR,v204e,KRF,Ksistelig Folkeparti ,Christian People's Party,,8,,KRF,25,1945,2009
+NOR v205e,NOR,v205e,SP,Senterpartiet ,Centre Party,Before 1959 =Bondepartiet,5,,SP,32,1945,2009
+NOR v206e,NOR,v206e,DLF,Det Liberale Folkeparti ,Liberal People's Party,,7,,DLF,1,1973,1976
+NOR v207e,NOR,v207e,H,Hoyre ,Conservative Party,,9,,H,53,1945,2009
+NOR v208e,NOR,v208e,FRP,Fremskrittspartiet ,Progress Party,Before 1975 = Anders Langes Parti (Anders Langes Party),10,,FRP,41,1973,2009
+NOR v209e,NOR,v209e,,Other,,,,,,1,1989,2001
+NOR v210e,NOR,v210e,NN,No party,,,,,NN,,,
+POL v200e,POL,v200e,AWS,Akcja Wyborcza Solidarnoš? ,Solidarity Electoral Action,,8,24,SEA,201,1997,2004
+POL v201 e,POL,v201e,BBWR,Bezpartyjny Blok Wspierania Reform ,Non-Party Reform Bloc,,7,19,NPRR,,,
+POL v202e,POL,v202e,KLD,Kongres Liberalno-Demoktyczny ,Liberal Democratic Congress,,7,7,LDC,37,1991,1993
+POL v203e,POL,v203e,KPN,Konfederacja Polski Niepodleg?ej ,Confederation for an Independent Poland,,9,6,CIP,46,1991,1996
+POL v204e,POL,v204e,LPR,Liga Polskich Rodzin ,League of Polish Families,,8,31,LPF,38,2001,2007
+POL v205e,POL,v205e,MNSO,Mniejszo?? Niemiecka. Slska Opolskiego ,German Minority in Opole Silesia,,6,13,GM,7,1991,2007
+POL v206e,POL,v206e,PC/POC,Porozumienie Centrum ,Centre Alliance,,8,4,CA,44,1991,1996
+POL v207e,POL,v207e,PChD,Partia Chrze?cija?skich Demokratów ,Christian Democratic Party,,8,16,CDP,4,1991,1993
+POL v208e,POL,v208e,PiS,Prawo i Sprawiedliwo?? ,Law and Justice,,9,30,LJ,166,2001,2007
+POL v209e,POL,v209e,PL,Porozumienie Ludowe ,Peasant Alliance,A break-away 1992: Stronnictwo Luowo-Chrze?cija?skie (SL-CH),5,8,PA,28,1991,1996
+POL v210e,POL,v210e,PPPP,Polka. Partia Przyjaciol Piwa. ,Polish Beer-Lovers' Party,A faction 1992: Polski Program Ekonomiczny (PPG),12,10,PBLP,16,1991,1993
+POL v211e,POL,v211e,PO,Platforma Obywatelska ,Citizens' Platform,,7,29,CP,209,2001,2007
+POL v212e,POL,v212e,PSL,Polskie Stronnistwo Ludowe ,Polish Peasant Party,,5,5,PPP,132,1991,2007
+POL v213e,POL,v213e,ROP,Ruch Odrodzenia Polski ,Movement for the Reconstruction of Poland,,9,23,MRP,6,1997,2000
+POL v214e,POL,v214e,SRP,Samoobrona Rzeczpospolitej Polskiej ,Self-Defence of the Republic of Poland,,10,20,SD,56,1993,2007
+POL v215e,POL,v215e,SLD,Sojusz Lewicy Demokratycznej ,Democratic Left Alliance,,3,2,DL,200,1991,2007
+POL v216e,POL,v216e,S,Solidarno?? ,Solidarity,,12,9,S,27,1991,1993
+POL v217e,POL,v217e,UD,Unia Demokratyczna ,Democratic Union,,7,1,DU,74,1991,1996
+POL v218e,POL,v218e,UP,Unia Pracy ,Union of Labour,,3,12,UL,41,1991,2004
+POL v219e,POL,v219e,PD,Partia Demokreczna ,Democratic Party,Prior 1994: Unia Wolno?ci (JW),7,22,DP,60,1997,2000
+POL v220e,POL,v220e,ZChN,Zjednoczenie Chrze?cija?sko-Narodowe ,Christian National Union,,8,3,CNU,49,1991,1996
+POL v224e,POL,v224e,,Others,,,,,,28,1991,1993
+PRT v200e,PRT,v200e,UDP,Uniao Democratica Popular ,Democratic Popular Union) Bloco de Esquerda Left Bloc,"BE formed in 1999 by left wing parties, among them the UDP","1, from 1999: 2",,UDP,16,1976,2009
+PRT v201e,PRT,v201e,MDP/CDE,Movimento Democratico Popular - Commissao Democratica Eleitoral ,People's Democratic Movement/Electoral Democratic Commission,,2,,MDP/CDE,,,
+PRT v202e,PRT,v202e,PCP,Partido Comunista Portugues ,"Portuguese Communist Party) PEV, Partido Ecologista the Greens",PEV has worked in close alliance with PCP since its foundation in 1982,1,,PCP-,47,1976,2009
+PRT v203e,PRT,v203e,PS,Partido Socialista ,Socialist Party,,3,,PS,121,1976,2009
+PRT v204e,PRT,v204e,PRD,Partido Renovador Democratico ,Democratic Renewal Party,,3,,PRD,45,1985,1987
+PRT v205e,PRT,v205e,PSD,Partido Socialdemocrata ,Social Democratic Party,,8,,PSD,148,1976,2009
+PRT v206e,PRT,v206e,PSN,Partido de Solidariedade National ,Party of National Solidarity,1990-2006. Main focus the protection of pensioners' interest.,9,,PSN,1,1991,1991
+PRT v207e,PRT,v207e,PPM,Partido Popular Monarquico ,Monarchic People's Party,,9,,PPM,5,1980,1981
+PRT v208e,PRT,v208e,CDS,"CDS/PP, Partido do Centro Democratico Social Party ","Party of the Democratic Social Centre), /Partido Popular People's Party",From 1993 CDS/PP,9,,CDS,47,1976,2009
+PRT v209e,PRT,v209e,AD,Alianca Democratica ,Democratic Alliance,"1980-1982. Includes PSD, CDS and PPM.",7,,AD,,,
+PRT v210e,PRT,v210e,,Other,,,,,,,,
+PRT v211e,PRT,v211e,NN,No party,,,,,NN,,,
+ROU v200e,ROU,v200e,AUR,Alianta pentru Unitatea Românilor ,Romanian Unity Alliance,,9,6,RUA,9,1990,1991
+ROU v201e,ROU,v201e,CDR,Conventia. Democrat? din România ,Democratic Convention of Romania,,7,13,DCR,122,1992,2003
+ROU v202e,ROU,v202e,FSN,Frontul Salv?rii Nationale ,National Salvation Front,,1,1,NSF,263,1990,1991
+ROU v203e,ROU,v203e,GDC,Gruparea Democrat? Centrist? ,Democratic Group of the Centre,,12,11,DGC,2,1990,1991
+ROU v204e,ROU,v204e,MER,Mi?c?rea Ecologist? din Romania ,Ecological Movement of Romania,,4,4,EMR,12,1990,1991
+ROU v205e,ROU,v205e,PDAR,Partidul Democrat Agrar din România ,Agrarian Democratic Party of Romania,,5,7,ADPR,9,1990,1991
+ROU v206e,ROU,v206e,PDL,Partidul Democrat Liberal ,Democratic Liberal Party,,8,14,DLP,115,1992,2009
+ROU v207e,ROU,v207e,PDSR,Partidul Democratiei Sociale din România ,Social Democracy Party of Romania,Merged with PSDR to form PSD in 2003,3,19,SDPR,142,1992,2009
+ROU v208e,ROU,v208e,PER,Partidul Ecologist Roman ,Romanian Ecologist Party,,9,8,REP,8,1990,1991
+ROU v209e,ROU,v209e,PNL,Partidul National Liberal ,National Liberal Party,,7,3,NLP,65,1990,2009
+ROU v210e,ROU,v210e,PNTCD,Partidul Na?ional ?äränesc Cre?tin Democrat ,Christian Democratic National Peasants Party,,8,5,CDNPP,12,1990,1991
+ROU v211e,ROU,v211e,PRM,Partidul Romania Mars ,Greater Romania Party,,11,16,GRP,84,1992,2009
+ROU v212e,ROU,v212e,PSDR,Partidul Social Democrat Roman ,Romanian Social Democratic Party,,3,10,RSDP,10,1990,2003
+ROU v213e,ROU,v213e,PSM,Partidul Socialist al Muncii ,Socialist Labor Party,,1,17,SLP,13,1992,1996
+ROU v214e,ROU,v214e,PStDR,Partidul Socialist Democratic din Romania ,Roinanian Socialist Democratic Party,,3,9,RStDP,5,1990,1996
+ROU v215e,ROU,v215e,PUNR,Partidul Unit?tii Nationale Romane ,Romanian National Unity Party,,9,15,RNUP,30,1992,2003
+ROU v216e,ROU,v216e,PUR,Partidul Umanist din Romania ,Humanist Party of Romania) Conservative Party,"Now: Partidul Conservator, PC",8,28,HPR,19,2000,2009
+ROU v217e,ROU,v217e,UDMR,Uniunea Democratic? Maghiar? din Romania,Hungarian Democratic Union,,6,2,HDU,29,1990,2009
+ROU v224e,ROU,v224e,,Others,,,,,,19,1990,2009
+SVK v200e,SVK,v200e,ANO,Aliancia Noveho Ob?ana ,Alliance of the New Citizen,,7,30,NCA,15,2002,2006
+SVK v201e,SVK,v201e,DUS,Demokratickâ. Unia Slovenska ,Democratic Union of Slovakia) group in 1994 before the election,Here constructed as a parliamentary,7,19,DUS,23,1994,1994
+SVK v202e,SVK,v202e,LS-HZDS,L'udov? Strana - Hnutie za Demokratick? Slovensko ,People's Party - Movement for Democratic Slovakia,,10,11,PP-MDS,74,1992,2010
+SVK v203e,SVK,v203e,KDH,Krest'anskodemokraticke Hnutie ,Christian Democratic Movement,,8,2,CDM,18,1992,2010
+SVK v204e,SVK,v204e,KSS,Komunistickâ Strana Slovenska ,Communist Party of Slovakia,,1,21,CPS,11,1994,2006
+SVK v205e,SVK,v205e,S,Smer — Socialna Demokracia ,Direction,,3,29(+34),D,62,2002,2010
+SVK v206e,SVK,v206e,SDK,Slovenskâ Demokratickâ Koalîcia ,Slovak Democratic Co~coalition,,8,26,SDC,42,1998,1998
+SVK v207e,SVK,v207e,SDKU,Slovensk? Demokratick? a Krest'ansk? Unia ,Slovak Democratic and Christian Union,,8,28(+35),SDCU,31,2002,2010
+SVK v208e,SVK,v208e,SDL,Strana Demokratickej L'avice ,Democratic Left,,2,12,DL,29,1992,2006
+SVK v209e,SVK,v209e,SMK,Strana Mad'arskej Koalicje ,Hungarian Co~coalition Party,,6,17(+5),HCP,20,1992,2010
+SVK v210e,SVK,v210e,SNS,Slovensk? N?rodn? Strana ,Slovak National Party,,9,3,SNP,20,1992,2010
+SVK v211e,SVK,v211e,SOP,Strana Ob?ianskeho Porozumenia ,Party of Civic Understanding,,7,26,PCU,13,1998,1998
+SVK v212e,SVK,v212e,SV,Spolo?n? Vod'ba ,Common Choice,,3,18,CC,18,1994,1994
+SVK v213e,SVK,v213e,ZRS,Združenie Robotnikov Slovenska ,Association of ~Workers in Slovakia,,1,20,AWS,13,1994,1998
+SVK v214e,SVK,v214e,SaS,Sloboda a Solidarita ,Freedom and Solidarity,,,,FaS,22,2010,2010
+SVK v215e,SVK,v215e,MH,MOST-HiD ,Bridge,,,,B,14,2010,2010
+SVK v224e,SVK,v224e,Others,,,,,,,,,
+SVN v200e,SVN,v200e,DeSUS,Demokratska Stranka Upokojencev Slovenije ,Democratic Party of Pensioners of Slovenia,,12,9,DPPS,7,1990,2008
+SVN v201e,SVN,v201e,DSS,Demokraticna Stranka Slovenije ,Democratic Party of Slovenia,,7,5,DPS,8,1990,2004
+SVN v202e,SVN,v202e,LDS,Liberalna Demokracija Slovenije ,Liberal Democratic Party,,7,2,LDP,34,1990,2008
+SVN v203e,SVN,v203e,LS,Liberalna Stranka ,Liberal Party,,7,8,LP,3,1990,2000
+SVN v204e,SVN,v204e,Nsi-KLS,Nova Slovenija - Kršcanska Ljudska Stranka ,New Slovenia-Christian People's Party,,8,22,NS-CPP,9,2000,2008
+SVN v205e,SVN,v205e,SDP,Stranka Demokraticne Prenove ,Party of Democratic Reform,,1,1,PDR,14,1990,1992
+SVN v206e,SVN,v206e,SDS,Slovenska Demokratska Stranka ,Slovenian Democratic Party,Prior to 2003: Socialdemokratska Stranka Slovenije (Social Democratic Party),9,7,SDP,29,1990,2008
+SVN v207e,SVN,v207e,SKD,Slovenski Krscanski Demokrati ,Slovenian Christian Democrats,,8,3,SCD,15,1990,2000
+SVN v208e,SVN,v208e,SLSt,Slovenska Ljudska Strana ,Slovenian People's Party,,5,4 (+24+28),SPP,19,1990,2008
+SVN v209e,SVN,v209e,SMS,StrankaMladih Slovenij e ,Party of Slovenian Youth,,4,23,PSY,4,2000,2008
+SVN v210e,SVN,v210e,SNS,Slovenska Naciolna Stranka ,Slovenian National Party,,10,15,SNP,12,1993,2008
+SVN v211e,SVN,v211e,SSS,Socialisticna. Stranka Slovenije ,Socialist Party,,3,10,SP,5,1990,1996
+SVN v212e,SVN,v212e,SD,Socialnih Demokrati ,Social Democrats,Prior to 2005: Zdruzena Lista Socialnih Demokratov (United List of Social Democrats),3,14,SD,29,1993,2008
+SVN v213e,SVN,v213e,ZS,Zeleni Slovenije ,Greens of Slovenia,,4,6,GS,8,1990,2008
+SVN v214e,SVN,v214e,Z,Zares ,For Real,,7,27,FR,9,2008,2008
+SVN v224e,SVN,v224e,,,,Others,,,,2,1990,2008
+SWE v200e,SWE,v200e,KP,Vänsterpartiet ,The Left Party,Before 1991 = Vänsterpartiet Kommunisterna (Left Party Communists),1,,COM,43,1945,2010
+SWE v201e,SWE,v201e,SD,Socialdemokratiska Arbetarpartiet ,The Social Democratic Party,,3,,SD,166,1945,2010
+SWE v202e,SWE,v202e,G,Miljöpartiet de Gröna ,The Environmental Party,Founded 1981,4,,Green,25,1988,2010
+SWE v203e,SWE,v203e,ZE,Centerpartiet ,Center Party,Until 1957 Agrarian Party,5,,Ce,90,1945,2010
+SWE v204e,SWE,v204e,CD,Ksistdemokraterna ,The Christian Democratic Party,Founded 1964,8,,CD,42,1991,2010
+SWE v205e,SWE,v205e,LI,Folkpartiet Liberalerna ,The Liberal Party,,7,,Li,58,1945,2010
+SWE v206e,SWE,v206e,ND,Ny Demokrati ,New Democracy,Founded 1991,10,,New Dem,25,1991,1991
+SWE v207e,SWE,v207e,KO,Moderata Samlingspartiet ,The Conservative Party,Until 1969 The Right,9,,Co,107,1945,2010
+SWE v208e,SWE,v208e,,Other,,,,,,,,
+SWE v209e,SWE,v209e,NN,No party,,,,,NN,,,
+SWE v210e,SWE,v210e,SW,Sverigedemokraterna,,Founded 1988. In parliament for the first time 2010.,10,,,20,2010,2010
