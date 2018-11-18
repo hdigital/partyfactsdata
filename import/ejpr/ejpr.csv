@@ -532,40 +532,40 @@ nz_mm01,NZL,Mana Maori,Mana Maori,MM,1996,2014,1.4
 nz_other01,NZL,Other,Other,Other,1993,2014,2.5
 pl_aws01,POL,Electoral Action Solidarity,Akcja Wyborcza Solidarność,AWS,1997,2001,33.8
 pl_bbwr01,POL,Non-Party Bloc in Support of Reforms,Bezpartyjny Blok Wspierania Reform,BBWR,1993,1993,5.4
-pl_chd01,POL,Christian Democracy,ChrzeScijanska Demokracja,ChD,1899,1899,2.4
+pl_chd01,POL,Christian Democracy,ChrzeScijanska Demokracja,ChD,,1899,2.4
 pl_kdr01,POL,Coalition for the Republic,Koalicja dla Rzeczypospolitej,KDR,1993,1993,2.7
-pl_kld01,POL,Liberal-Democratic Congress,Kongres Liberalno-Demokratyczny,KLD,1899,1993,7.5
+pl_kld01,POL,Liberal-Democratic Congress,Kongres Liberalno-Demokratyczny,KLD,,1993,7.5
 pl_kpeir01,POL,National Party of the Retired and Pensioners,Krajowa Partia Emerytów i Rencistów,KPEiR,1997,1997,2.2
 pl_kpeirrp01,POL,National Alliance of the Polish Republic's Retired and Pensioners,Krajowe Porozumienie Emerytów i Rencistów Rzeczypospolitej Polskiej,KPEiRRP,1997,1997,1.6
-pl_kpn01,POL,Confederation for an Independent Poland,Konfederacja Polski Niepodleglej,KPN,1899,1993,7.5
+pl_kpn01,POL,Confederation for an Independent Poland,Konfederacja Polski Niepodleglej,KPN,,1993,7.5
 pl_lpr01,POL,League of Polish Families,Liga Polskich Rodzin,LPR,2001,2007,8
-pl_mn01,POL,Germany Minority,Mniejszość Niemiecka,MN,1899,2011,1.2
+pl_mn01,POL,Germany Minority,Mniejszość Niemiecka,MN,,2011,1.2
 pl_nchd-bdp01,POL,National Christian Democratic-Bloc for Poland,Narodowo Chrześcijańsko Demokratyczny-Blok dla Polski,NChD-BdP,1997,1997,1.4
 pl_npjkm01,POL,New Right of Janusz Korwin-Mikke,Nowa Prawica – Janusza Korwin-Mikke,NPJKM,2011,2011,1.1
-pl_nszz01,POL,Independent Self-governed Trade Union ‘Solidarity’,Niezalezny Samorzadny Zwiazek Zawodowy ‘Solidarność,NSZZ,1899,1993,5.1
-pl_other01,POL,Other,Inny,Other,1899,2007,7.3
-pl_pchd01,POL,Party of Christian Democrats,Partia Chrześcijańskich Demokratów,PChD,1899,1899,1.1
+pl_nszz01,POL,Independent Self-governed Trade Union ‘Solidarity’,Niezalezny Samorzadny Zwiazek Zawodowy ‘Solidarność,NSZZ,,1993,5.1
+pl_other01,POL,Other,Inny,Other,,2007,7.3
+pl_pchd01,POL,Party of Christian Democrats,Partia Chrześcijańskich Demokratów,PChD,,1899,1.1
 pl_pd01,POL,Democratic Party-democrats.pl,Partia Demokratyczna-demokraci.pl,PD,2005,2005,2.5
 pl_pis01,POL,Law and Justice,Prawo i Sprawiedliwość,PiS,2001,2011,32.1
 pl_pjkm01,POL,Janusz Korwin-Mikke Platform,Platforma Janusza Korwin-Mikke,PJKM,2005,2005,1.6
 pl_pjn01,POL,Poland First,Polska Jest Najważniejsza,PJN,2011,2011,2.2
-pl_pl01,POL,Agrarian Alliance,porozumienie Ludowe,PL,1899,1993,5.5
+pl_pl01,POL,Agrarian Alliance,porozumienie Ludowe,PL,,1993,5.5
 pl_po01,POL,Civic Platform,Platforma Obywatelska,PO,2001,2011,41.5
-pl_poc01,POL,Civic Alliance ‘Center’,porozumienie Obywatelskie Centrum,POC,1899,1993,8.7
-pl_pppp01,POL,Polish Beer-Lovers Party,Polska Patia Przyjacid Piwa,PPPP,1899,1993,3.3
-pl_psl01,POL,Polish Peasant Party,Polskie Stronnictwo Ludowe,PSL,1899,2011,15.5
-pl_px01,POL,Party X,Partia X,PX,1899,1993,2.7
+pl_poc01,POL,Civic Alliance ‘Center’,porozumienie Obywatelskie Centrum,POC,,1993,8.7
+pl_pppp01,POL,Polish Beer-Lovers Party,Polska Patia Przyjacid Piwa,PPPP,,1993,3.3
+pl_psl01,POL,Polish Peasant Party,Polskie Stronnictwo Ludowe,PSL,,2011,15.5
+pl_px01,POL,Party X,Partia X,PX,,1993,2.7
 pl_rop01,POL,Movement for the Rebirth of Poland,Ruch Odrodzenia Polski,ROP,1997,1997,5.6
 pl_rp01,POL,Patriotic Movement,Ruch Patriotyczny,RP,2005,2005,1.1
 pl_rp02,POL,Palikot's Movement,Ruch Palikota,RP,2011,2011,10
-pl_sd01,POL,Democratic Party,Stronnictwo Demokratyczne,SD,1899,1899,1.4
+pl_sd01,POL,Democratic Party,Stronnictwo Demokratyczne,SD,,1899,1.4
 pl_sdpl01,POL,Polish Social Democracy,Socjaldemokracja Polska,SdPl,2005,2005,3.9
-pl_sld01,POL,Alliance of Democratic Left,Sojusz Lewicy Demokratycznej,SLD,1899,2011,41
-pl_sp01,POL,Solidarity of Labor,Solidarność Pracy,SP,1899,1899,2.1
+pl_sld01,POL,Alliance of Democratic Left,Sojusz Lewicy Demokratycznej,SLD,,2011,41
+pl_sp01,POL,Solidarity of Labor,Solidarność Pracy,SP,,1899,2.1
 pl_srp02,POL,Self-Defence of the Republic of Poland (Samoobrona),Samoobrona Rzeczypospolitej Polskiej,SO,1993,2011,11.4
-pl_ud01,POL,Democratic Union,Unia Demokratyczna,UD,1899,2005,13.4
+pl_ud01,POL,Democratic Union,Unia Demokratyczna,UD,,2005,13.4
 pl_up01,POL,Labour Union,Unia Pracy,UP,1993,1997,7.3
-pl_upr01,POL,Union of Real Politics,Unia Polityki Realnej,UPR,1899,1993,3.2
+pl_upr01,POL,Union of Real Politics,Unia Polityki Realnej,UPR,,1993,3.2
 pt_be01,PRT,Bloc of the Left,Bloco da Esquerda,BE,1999,2011,10.1
 pt_cdu01,PRT,United Democratic Coalition,Caligacao Democratica Unitaria,CDU,1991,1995,8.8
 pt_cds-pp01,PRT,Democratic Social Centre/People’s Party,Centro Democratico Social/Partido Popular,CDS/PP,1995,2011,12.2
