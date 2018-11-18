@@ -8,7 +8,7 @@ data <- data_raw %>%
   mutate(id = paste(ccodewb, partynum, sep="-"),
          partysize = round(partysize, 1),
          country = ccodewb,
-         country = recode(country, ROM="ROU"))
+         country = recode(country, ROM="ROU", YUG="SRB"))
 
 # clean-up party acronym -- conditionally replace "pnatacro" with "pengacro"
 data <- data %>% mutate(pnatacro = ifelse(str_detect(pnatacro, regex("^[\\? ]+$")), pengacro, pnatacro))
