@@ -254,13 +254,13 @@ MK,VMRO-DPMNE,Democratic Party for Macedonian National Unity,20.81,2002,MK-VMRO-
 MT,AD,Democratic Alternative,0.7,2003,MT-AD,MLT
 MT,MLP,Malta Labour Party,47.5,2003,MT-MLP,MLT
 MT,NP,Nationalist Party,51.8,2003,MT-NP,MLT
-NI,APNI,Alliance Party of Northern Ireland,3.7,2003,NI-APNI,NIC
-NI,DUP,Democratic Unionist Party,25.7,2003,NI-DUP,NIC
-NI,NIWC,Northern Ireland Women's Coalition,0.8,2003,NI-NIWC,NIC
-NI,PUP,Progressive Unionist Party,1.2,2003,NI-PUP,NIC
-NI,SDLP,Social Democratic and Labour Party,17,2003,NI-SDLP,NIC
-NI,SF,Sinn Fein,23.5,2003,NI-SF,NIC
-NI,UUP,Ulster Unionist Party,22.7,2003,NI-UUP,NIC
+NI,APNI,Alliance Party of Northern Ireland,3.7,2003,NI-APNI,NIR
+NI,DUP,Democratic Unionist Party,25.7,2003,NI-DUP,NIR
+NI,NIWC,Northern Ireland Women's Coalition,0.8,2003,NI-NIWC,NIR
+NI,PUP,Progressive Unionist Party,1.2,2003,NI-PUP,NIR
+NI,SDLP,Social Democratic and Labour Party,17,2003,NI-SDLP,NIR
+NI,SF,Sinn Fein,23.5,2003,NI-SF,NIR
+NI,UUP,Ulster Unionist Party,22.7,2003,NI-UUP,NIR
 NL,CDA,Christen Democratisch Appe`l,28.6,2003,NL-CDA,NLD
 NL,CU,ChristenUnie,2.1,2003,NL-CU,NLD
 NL,D66,Democraten 66,4.1,2003,NL-D66,NLD
@@ -343,11 +343,11 @@ SK,SKDU,Slovak Democratic and Christian Union,15.09,2002,SK-SKDU,SVK
 SK,Smer,Party Direction - Third Way,13.46,2002,SK-Smer,SVK
 SK,SMK,Party of the Hungarian Coalition,11.17,2002,SK-SMK,SVK
 SK,SNS,Slovak National Party,3.33,2002,SK-SNS,SVK
-SR,DS,Democratic Opposition of Serbia,10.72,2003,SR-DS,SUR
-SR,DSS,Democratic Party of Serbia,18,2003,SR-DSS,SUR
-SR,SPO,Serbian Renewal Movement,7.7,2003,SR-SPO,SUR
-SR,SPS,Serb Socialist Party,7.7,2003,SR-SPS,SUR
-SR,SRS,Serb Radical Party,27.7,2003,SR-SRS,SUR
+SR,DS,Democratic Opposition of Serbia,10.72,2003,SR-DS,SRB
+SR,DSS,Democratic Party of Serbia,18,2003,SR-DSS,SRB
+SR,SPO,Serbian Renewal Movement,7.7,2003,SR-SPO,SRB
+SR,SPS,Serb Socialist Party,7.7,2003,SR-SPS,SRB
+SR,SRS,Serb Radical Party,27.7,2003,SR-SRS,SRB
 TR,AKP,Adalet ve Kalkinma Partisi,34.3,2002,TR-AKP,TUR
 TR,ANAP,Anavatan Partisi,5.1,2002,TR-ANAP,TUR
 TR,CHP,Cumhuriyet Halk Partisi,19.4,2002,TR-CHP,TUR
