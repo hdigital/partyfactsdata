@@ -6,7 +6,7 @@ Initial version of the codebook was created by Phillip Hocks and Jan
 Fischer (University of Bremen) in 2015.  
 This work was funded by a small research grant of the University of Bremen (M8 Plus).
 
-More information: [partyfacts.herokuapp.com](http://www.partyfacts.org) --
+More information: [partyfacts.org](http://www.partyfacts.org) --
 [github.com/hdigital/partyfactsdata](https://github.com/hdigital/partyfactsdata)
 
 

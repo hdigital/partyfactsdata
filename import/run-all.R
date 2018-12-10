@@ -1,13 +1,12 @@
 # install and load all required packages
 
-packages <- c("tidyverse", "countrycode", "RCurl")
+packages <- c("tidyverse", "countrycode", "RCurl", "haven", "dbplyr")
 lapply(packages, function(pack) {
   if ( ! pack %in% installed.packages()[,"Package"]) {
-    install.packages(pack, repos="http://cran.r-project.org")
+    install.packages(pack, repos = "https://cran.r-project.org")
   }
-  require(pack, character.only=TRUE, quietly=TRUE)
+  require(pack, character.only = TRUE, quietly = TRUE)
 })
-update.packages(ask=FALSE)
 
 
 # run import scripts in all sub-folders

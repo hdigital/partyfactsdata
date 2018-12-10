@@ -13,9 +13,9 @@ For a detailed instruction how to contribute your dataset, see [our import guide
 
 # R packages and snippets
 
-Most of the data preparation is done in R. Some scripts may require additional packages. We have a strong preference for [RStudio R packages](https://www.rstudio.com/products/rpackages/) (esp. [tidyverse](http://tidyverse.org/)). `run-all.R` includes information about used packages.
+Most of the data preparation is done in R. Some scripts may require additional packages. We have a strong preference for [RStudio R packages](https://www.rstudio.com/products/rpackages/) (esp. [tidyverse](https://tidyverse.org/)). `run-all.R` includes information about used packages.
 
-Please use the [tidyverse R Style Guide](http://style.tidyverse.org/) when writing code in R.  
+Please use the [tidyverse R Style Guide](https://style.tidyverse.org/) when writing code in R.  
 
 Party Facts import requires ISO3 country codes. `country.csv` includes the respective information. Recode country names with the R-package `countrycode`
 
@@ -23,7 +23,7 @@ Party Facts import requires ISO3 country codes. `country.csv` includes the respe
 # Example country recoding from Marpor import
 marpor <- marpor %>%
   mutate(country = countrycode(countryname, "country.name", "iso3c",
-                            custom_match = c(`Northern Ireland`="NIR")))
+                               custom_match = c(`Northern Ireland` = "NIR")))
 if(any(is.na(marpor$country))) {
   warning("Country name clean-up needed")
 }
