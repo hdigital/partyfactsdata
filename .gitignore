@@ -2,11 +2,13 @@
 .*
 
 *.pyc
+
 *.RData
 *.Rhistory
+
+*.Rproj
+.Rproj.user/
 
 source__*
 
 !.gitignore
-
-
