@@ -1,0 +1,646 @@
+country_short,party_name_short,party_name,year_first,year_last,share_year,share,seats,seats_total,party_id
+ARG,ARI,Alternativa para una República de Iguales,2001,2001,2001,6.61,17,257,ARG ARI Alternativa para una República de Iguales
+ARG,MODIN,Movimiento de Dignidad y Indendencia,1991,1995,1993,2.72,7,257,ARG MODIN Movimiento de Dignidad y Indendencia
+ARG,,Accion Chaquena,1991,1995,1993,0.78,2,257,ARG NA Accion Chaquena
+ARG,,Accion por la Republica,1997,2001,1999,4.67,12,257,ARG NA Accion por la Republica
+ARG,,Afirmacion Peronista,1991,1991,1991,1.17,3,257,ARG NA Afirmacion Peronista
+ARG,,Alianza,1997,2001,1999,48.2,124,257,ARG NA Alianza
+ARG,,Alianza Frente Pais Solidario,1995,1997,1995,10.1,26,257,ARG NA Alianza Frente Pais Solidario
+ARG,,Alianza Popular Federalista,1973,1973,1973,2.06,5,243,ARG NA Alianza Popular Federalista
+ARG,,Autonomista-Liberal,1989,1989,1989,1.18,3,254,ARG NA Autonomista-Liberal
+ARG,,Autonomista de Corrientes,1963,1965,1965,1.05,2,191,ARG NA Autonomista de Corrientes
+ARG,,Autonomista Lib. De Corrientes,1973,1999,1987,1.57,4,254,ARG NA Autonomista Lib. De Corrientes
+ARG,,Blanco de los Jubilados,1989,1991,1989,0.39,1,254,ARG NA Blanco de los Jubilados
+ARG,,Bloquista de San Juan,1991,1995,1991,0.39,1,257,ARG NA Bloquista de San Juan
+ARG,,Confederacion Federalista Independiente,1989,1989,1989,2.76,7,254,ARG NA Confederacion Federalista Independiente
+ARG,,Conservador Popular,1993,1993,1993,0.39,1,257,ARG NA Conservador Popular
+ARG,,Cruzada Renovadora,1989,1989,1989,0.39,1,254,ARG NA Cruzada Renovadora
+ARG,,Cruzada Renovadora (San Juan),1991,1999,1991,0.78,2,257,ARG NA Cruzada Renovadora (San Juan)
+ARG,,Defensa Provincial,1960,1989,1989,0.79,2,254,ARG NA Defensa Provincial
+ARG,,Democrata,1963,1999,1963,2.08,4,192,ARG NA Democrata
+ARG,,Demócrata Cristiano,1963,1993,1963,3.65,7,192,ARG NA Demócrata Cristiano
+ARG,,Democráta de Mendoza,1985,2001,1995,0.78,2,257,ARG NA Democráta de Mendoza
+ARG,,Democrata Nacional,1946,1946,1946,0.63,1,158,ARG NA Democrata Nacional
+ARG,,Demócrata Progresista,1946,2001,1963,6.25,12,192,ARG NA Demócrata Progresista
+ARG,,Desarrollo y Justicia,1997,1999,1997,0.39,1,257,ARG NA Desarrollo y Justicia
+ARG,,Federacion de partidos de Centro,1960,1965,1965,5.24,10,191,ARG NA Federacion de partidos de Centro
+ARG,,Federal,1991,1991,1991,0.39,1,257,ARG NA Federal
+ARG,,Frente Corriente Renovadora,1989,1999,1997,0.78,2,257,ARG NA Frente Corriente Renovadora
+ARG,,Frente Grande,1995,1995,1995,0.78,2,257,ARG NA Frente Grande
+ARG,,Fuerza Republicana,1991,2001,1991,1.56,4,257,ARG NA Fuerza Republicana
+ARG,,Humanista,2001,2001,2001,0,0,257,ARG NA Humanista
+ARG,,Intransigente,1983,1993,1985,2.36,6,254,ARG NA Intransigente
+ARG,,Izquierda Unida,1989,2001,1989,0.39,1,254,ARG NA Izquierda Unida
+ARG,,Justicialista,1973,2001,1973,53.9,131,243,ARG NA Justicialista
+ARG,,Laborista,1946,1946,1946,6.96,11,158,ARG NA Laborista
+ARG,,Laborista-UCR; Junta Renovadora,1946,1946,1946,39.2,62,158,ARG NA Laborista-UCR; Junta Renovadora
+ARG,,Laborista Independiente,1946,1946,1946,17.7,28,158,ARG NA Laborista Independiente
+ARG,,Liberal,1958,1963,1958,1.07,2,187,ARG NA Liberal
+ARG,,Liberal de Corrientes,1991,1991,1991,0.78,2,257,ARG NA Liberal de Corrientes
+ARG,,Movimiento al Socialismo,1991,1991,1991,0.39,1,257,ARG NA Movimiento al Socialismo
+ARG,,Movimiento de Afirmacion Popular,1991,1991,1991,0.39,1,257,ARG NA Movimiento de Afirmacion Popular
+ARG,,Movimiento de Integración y Desarrollo,1965,1993,1965,8.38,16,191,ARG NA Movimiento de Integración y Desarrollo
+ARG,,Movimiento Peronista,1991,1991,1991,1.95,5,257,ARG NA Movimiento Peronista
+ARG,,Movimiento Popular Fueguino,1991,1995,1993,1.17,3,257,ARG NA Movimiento Popular Fueguino
+ARG,,Movimiento Popular Jujeño,1973,1995,1985,0.79,2,254,ARG NA Movimiento Popular Jujeño
+ARG,,Movimiento Popular Neuquino,1963,2001,1963,1.04,2,192,ARG NA Movimiento Popular Neuquino
+ARG,,Movimiento Popular Pampeano,1973,1983,1973,0.82,2,243,ARG NA Movimiento Popular Pampeano
+ARG,,Participacion y Justicia,1995,1995,1995,0.39,1,257,ARG NA Participacion y Justicia
+ARG,,Partido Nuevo (Frepanu),1997,2001,1999,1.17,3,257,ARG NA Partido Nuevo (Frepanu)
+ARG,,Peronista,1951,1954,1954,92.1,140,152,ARG NA Peronista
+ARG,,Polo Social,2001,2001,2001,1.95,5,257,ARG NA Polo Social
+ARG,,Renovador de Salta,1985,2001,1991,1.17,3,257,ARG NA Renovador de Salta
+ARG,,Socialista Argentino,1963,1965,1963,3.13,6,192,ARG NA Socialista Argentino
+ARG,,Socialista Democratico,1963,1965,1963,2.6,5,192,ARG NA Socialista Democratico
+ARG,,Surgimiento Innovador,1993,1993,1993,0.39,1,257,ARG NA Surgimiento Innovador
+ARG,,Tres Banderas,1963,1963,1963,1.56,3,192,ARG NA Tres Banderas
+ARG,,UCR Bloquista,1946,1987,1973,1.23,3,243,ARG NA UCR Bloquista
+ARG,,UCR Intransigente,1958,1960,1958,71.1,133,187,ARG NA UCR Intransigente
+ARG,,UCRI,1963,1973,1965,5.76,11,191,ARG NA UCRI
+ARG,,Unidad Bonaerense,1999,1999,1999,0.39,1,257,ARG NA Unidad Bonaerense
+ARG,,Unidad Socialista,1991,1993,1993,1.95,5,257,ARG NA Unidad Socialista
+ARG,,Union del Pueblo Argentina,1963,1965,1963,7.29,14,192,ARG NA Union del Pueblo Argentina
+ARG,,Union Popular,1963,1973,1965,27.2,52,191,ARG NA Union Popular
+ARG,other,other,1946,2001,2001,9.34,24,257,ARG other other
+ARG,PTS,Partido de los Trabajadores para el Socialismo,2001,2001,2001,0,0,257,ARG PTS Partido de los Trabajadores para el Socialismo
+ARG,UCeDe,Unión del Centro Democrático,1983,2001,1989,5.91,15,254,ARG UCeDe Unión del Centro Democrático
+ARG,UCR,Unión Cívica Radical,1946,1995,1951,9.4,14,149,ARG UCR Unión Cívica Radical
+BHS,BDP,Bahamian Democratic Party,1977,1977,1977,15.7,6,38,BHS BDP Bahamian Democratic Party
+BHS,FNM,Free National Movement,1972,2002,1997,87.5,35,40,BHS FNM Free National Movement
+BHS,Ind,Independents,1987,1987,1987,4.08,2,49,BHS Ind Independents
+BHS,Other,Other,2002,2002,2002,10,4,40,BHS Other Other
+BHS,PLP,Progressive Liberal Party,1972,2002,1977,81.5,31,38,BHS PLP Progressive Liberal Party
+BLZ,Ind,Independent,1993,1993,1993,0,0,28,BLZ Ind Independent
+BLZ,PUP,People's United Party,1979,1998,1998,89.6,26,29,BLZ PUP People's United Party
+BLZ,UDP,United Democratic Party,1979,1998,1984,75,21,28,BLZ UDP United Democratic Party
+BOL,A-MNR,Alianza del Movimiento Nacionalista Revolucionario,1979,1980,1979,41,48,117,BOL A-MNR Alianza del Movimiento Nacionalista Revolucionario
+BOL,A D N,Acción Demócratica Nacionalista,1979,2002,1985,31.5,41,130,BOL A D N Acción Demócratica Nacionalista
+BOL,AP,Acuerdo Patriotico,1993,1993,1993,26.9,35,130,BOL AP Acuerdo Patriotico
+BOL,APIN,Alianza Popular de Integración Nacional,1979,1979,1979,4.27,5,117,BOL APIN Alianza Popular de Integración Nacional
+BOL,ARBOL,Alianza de Renovacion Boliviana,1993,1993,1993,0.77,1,130,BOL ARBOL Alianza de Renovacion Boliviana
+BOL,CDC,Comunidad Democrática Cristiana,1966,1966,1966,18.6,19,102,BOL CDC Comunidad Democrática Cristiana
+BOL,CONDEPA,Conciencia de Patria,1989,2002,1989,6.92,9,130,BOL CONDEPA Conciencia de Patria
+BOL,EJE,Eje Pachakuti de Convergencia,1993,1997,1993,0.77,1,130,BOL EJE Eje Pachakuti de Convergencia
+BOL,FDR-NA,Frente Democrático Revolucionario-Nueva Alternativa,1980,1980,1980,3.85,5,130,BOL FDR-NA Frente Democrático Revolucionario-Nueva Alternativa
+BOL,FPU,Frente de Pueblo Unido,1985,1985,1985,3.08,4,130,BOL FPU Frente de Pueblo Unido
+BOL,FRB,Frente de la Revolución Boliviana,1966,1966,1966,80.3,82,102,BOL FRB Frente de la Revolución Boliviana
+BOL,FSB,Falange Socialista Boliviana,1980,1985,1980,2.31,3,130,BOL FSB Falange Socialista Boliviana
+BOL,IU,Izquierda Unida,1989,1997,1989,7.69,10,130,BOL IU Izquierda Unida
+BOL,MAS,Movimiento al Socialismo,2002,2002,2002,20.7,27,130,BOL MAS Movimiento al Socialismo
+BOL,MBL,Movimiento Bolivia Libre,1993,1997,1993,5.38,7,130,BOL MBL Movimiento Bolivia Libre
+BOL,MCC,Movimiento Ciudadano para el Cambio,2002,2002,2002,0,0,130,BOL MCC Movimiento Ciudadano para el Cambio
+BOL,MIP,Movimiento Indigena Pachakuti,2002,2002,2002,4.62,6,130,BOL MIP Movimiento Indigena Pachakuti
+BOL,MIR,Movimiento de Izquierda Revolucionario,1985,2002,1989,25.3,33,130,BOL MIR Movimiento de Izquierda Revolucionario
+BOL,MITKA-1,Movimiento Indio Tupaj Katari Uno,1980,1980,1980,0.77,1,130,BOL MITKA-1 Movimiento Indio Tupaj Katari Uno
+BOL,MITKA,Movimiento Indio Tupaj Katari,1979,1980,1979,0.85,1,117,BOL MITKA Movimiento Indio Tupaj Katari
+BOL,MNP,Movimiento Nacionalista Pazestenssorista,1966,1966,1966,0.98,1,102,BOL MNP Movimiento Nacionalista Pazestenssorista
+BOL,MNR-U,Movimiento Nacionalista Revolucionario Unido,1980,1980,1980,1.54,2,130,BOL MNR-U Movimiento Nacionalista Revolucionario Unido
+BOL,MNR,Movimiento Nacionalista Revolucionario,1985,2002,1993,40,52,130,BOL MNR Movimiento Nacionalista Revolucionario
+BOL,MNRI,Movimiento Nacionalista Revolucionario de Izquierda,1985,1985,1985,6.15,8,130,BOL MNRI Movimiento Nacionalista Revolucionario de Izquierda
+BOL,MNRV,Movimiento Nacionalista Revolucionario Vanguardia,1985,1985,1985,4.62,6,130,BOL MNRV Movimiento Nacionalista Revolucionario Vanguardia
+BOL,MRTKL,Movimiento Revolucionario Tupaj Katari de Liberación,1985,1985,1985,1.54,2,130,BOL MRTKL Movimiento Revolucionario Tupaj Katari de Liberación
+BOL,NFR,Nueva Fuerza Republicana,2002,2002,2002,19.2,25,130,BOL NFR Nueva Fuerza Republicana
+BOL,other,other,1997,1997,1997,0,0,130,BOL other other
+BOL,PDC,Partido Demócrata Cristiano,1985,1985,1985,2.31,3,130,BOL PDC Partido Demócrata Cristiano
+BOL,PLJ,Partido Libertad y Justicia,2002,2002,2002,0,0,130,BOL PLJ Partido Libertad y Justicia
+BOL,PRA,Partido Revolucionario Auténtico,1980,1980,1980,2.31,3,130,BOL PRA Partido Revolucionario Auténtico
+BOL,PS-1,Partido Socialista Uno,1979,1985,1980,7.69,10,130,BOL PS-1 Partido Socialista Uno
+BOL,PS,Partido Socialista,2002,2002,2002,0.77,1,130,BOL PS Partido Socialista
+BOL,PUB,Partido de la Union Boliviana,1979,1979,1979,0.85,1,117,BOL PUB Partido de la Union Boliviana
+BOL,UCS,Unión Cívica Solidaridad,1993,2002,2002,3.85,5,130,BOL UCS Unión Cívica Solidaridad
+BOL,UDP,Unidad Democrática y Popular,1979,1980,1980,36.1,47,130,BOL UDP Unidad Democrática y Popular
+BOL,VSB,Vanguardia Socialista Boliviana,1993,1997,1993,0.77,1,130,BOL VSB Vanguardia Socialista Boliviana
+BRA,ARENA,Alianza Renovadora Nacional,1966,1978,1970,71.9,223,310,BRA ARENA Alianza Renovadora Nacional
+BRA,ind,Independientes,1954,1954,1954,1.84,6,326,BRA ind Independientes
+BRA,MDB,Movimento Democrático Brasileiro,1966,1978,1978,45.2,191,422,BRA MDB Movimento Democrático Brasileiro
+BRA,MTR,Movimiento Trabalhista Renovador,1962,1962,1962,0.63,3,473,BRA MTR Movimiento Trabalhista Renovador
+BRA,other,other,1958,1982,1982,2.71,13,479,BRA other other
+BRA,PAN,Partido dos Aposentados da Nacao,1998,2002,1998,0,0,513,BRA PAN Partido dos Aposentados da Nacao
+BRA,PCB,Partido Comunista Brasileiro,1945,2002,1945,4.9,14,286,BRA PCB Partido Comunista Brasileiro
+BRA,PCdoB,Partido Comiunista do Brasil,1986,2002,2002,2.34,12,512,BRA PCdoB Partido Comiunista do Brasil
+BRA,PCO,Partido de Causa Operaria,1998,2002,1998,0,0,513,BRA PCO Partido de Causa Operaria
+BRA,PDC,Partido Demócrata Cristão,1998,1998,1998,0,0,513,BRA PDC Partido Demócrata Cristão
+BRA,PDC,Partido Democrático Cristão,1945,1990,1990,4.37,22,503,BRA PDC Partido Democrático Cristão
+BRA,PDS,Partido Democrático Social,1982,1994,1990,8.35,42,503,BRA PDS Partido Democrático Social
+BRA,PDT,Partido Democrático Trabalhista,1982,2002,1990,9.15,46,503,BRA PDT Partido Democrático Trabalhista
+BRA,PFL,Partido da Frente Liberal,1986,2002,1986,24.2,118,487,BRA PFL Partido da Frente Liberal
+BRA,PGT,Partido Geral dos Trabalhadores,1998,2002,1998,0,0,513,BRA PGT Partido Geral dos Trabalhadores
+BRA,PHS,,2002,2002,2002,0,0,512,BRA PHS NA
+BRA,PL,Partido Liberal,1945,2002,2002,5.08,26,512,BRA PL Partido Liberal
+BRA,PMDB,Partido do Movimiento Democrático Brasileiro,1982,2002,1986,53.3,260,487,BRA PMDB Partido do Movimiento Democrático Brasileiro
+BRA,PMN,Partido da Mobilizacão Nacional,1990,2002,1994,0.78,4,513,BRA PMN Partido da Mobilizacão Nacional
+BRA,PPB,Partido Progressista Brasileiro,1994,2002,2002,9.57,49,512,BRA PPB Partido Progressista Brasileiro
+BRA,PPS,Partido Popular Sindicalista,1945,2002,2002,2.93,15,512,BRA PPS Partido Popular Sindicalista
+BRA,PR,Partido Republicano,1945,1962,1954,5.83,19,326,BRA PR Partido Republicano
+BRA,PRN,Partido da Reconstrucão Nacional,1990,1998,1990,7.95,40,503,BRA PRN Partido da Reconstrucão Nacional
+BRA,PRONA,Partido de Reedificaçao da Ordem Nacional,1998,2002,2002,1.17,6,512,BRA PRONA Partido de Reedificaçao da Ordem Nacional
+BRA,PRP,Partido de Representacão Popular (1947-1962),1950,1962,1962,1.06,5,473,BRA PRP Partido de Representacão Popular (1947-1962)
+BRA,PRP,Partido Renovador Progressista,1994,2002,1994,0.19,1,513,BRA PRP Partido Renovador Progressista
+BRA,PRS,Partido das Reformas Sociais,1990,1990,1990,0.8,4,503,BRA PRS Partido das Reformas Sociais
+BRA,PRT,Partido Republicano Trabalhista (1950-1960),1950,1962,1962,0.63,3,473,BRA PRT Partido Republicano Trabalhista (1950-1960)
+BRA,PRTB,Partido Renovador Trabalhista Brasileiro,1998,2002,1998,0,0,513,BRA PRTB Partido Renovador Trabalhista Brasileiro
+BRA,PSB,Partido Socialista Brasileiro,1950,2002,2002,4.3,22,512,BRA PSB Partido Socialista Brasileiro
+BRA,PSC,Partido Social Cristão,1986,2002,1990,1.19,6,503,BRA PSC Partido Social Cristão
+BRA,PSD,Partido Social Democrático,1945,2002,1945,52.8,151,286,BRA PSD Partido Social Democrático
+BRA,PSDB,Partido da Social Democracia Brasileira,1990,2002,1990,7.55,38,503,BRA PSDB Partido da Social Democracia Brasileira
+BRA,PSL,Partido Social Liberal,1998,2002,2002,0.2,1,512,BRA PSL Partido Social Liberal
+BRA,PSN,Partido da Solidariedade,1998,1998,1998,0,0,513,BRA PSN Partido da Solidariedade
+BRA,PSP,Partido Social Progressista,1945,1962,1954,9.82,32,326,BRA PSP Partido Social Progressista
+BRA,PST,Partido Social Trabalhista,1950,2002,1950,2.96,9,304,BRA PST Partido Social Trabalhista
+BRA,PSTU,Partido Socialista dos Trabalhadores Unificado,1998,2002,1998,0,0,513,BRA PSTU Partido Socialista dos Trabalhadores Unificado
+BRA,PT,Partido dos Trabalhadores,1982,2002,1994,9.55,49,513,BRA PT Partido dos Trabalhadores
+BRA,PTB,Partido Trabalhista Brasileiro,1945,2002,1945,7.69,22,286,BRA PTB Partido Trabalhista Brasileiro
+BRA,PTC,,2002,2002,2002,0,0,512,BRA PTC NA
+BRA,PTdoB,Partido Socialista dos Trabalhadores do Brasil,1998,2002,1998,0,0,513,BRA PTdoB Partido Socialista dos Trabalhadores do Brasil
+BRA,PTN,Partido Tancredista Nacional,1998,2002,1998,0,0,513,BRA PTN Partido Tancredista Nacional
+BRA,PTN,Partido Trabalhista Nacional,1950,1962,1962,2.33,11,473,BRA PTN Partido Trabalhista Nacional
+BRA,PTR,Partido Trabalhista Renovador,1990,1990,1990,0.4,2,503,BRA PTR Partido Trabalhista Renovador
+BRA,PV,Partido Verde,1994,2002,2002,0.78,4,512,BRA PV Partido Verde
+BRA,UDN,União Democrática Nacional,1945,1962,1945,26.9,77,286,BRA UDN União Democrática Nacional
+BRB,BLP,Barbados Labour Party,1966,1999,1999,92.8,26,28,BRB BLP Barbados Labour Party
+BRB,BNP,Barbados National Party,1966,1966,1966,8.33,2,24,BRB BNP Barbados National Party
+BRB,DLP,Democratic Labour Party,1966,1999,1986,88.8,24,27,BRB DLP Democratic Labour Party
+BRB,NDP,National Democratic Party,1994,1994,1994,3.57,1,28,BRB NDP National Democratic Party
+CHL,DR,Democracia Radical,1949,1973,1949,5.44,8,147,CHL DR Democracia Radical
+CHL,FN,Falange Nacional,1945,1957,1945,2.04,3,147,CHL FN Falange Nacional
+CHL,independents,independents,1957,2001,1957,1.36,2,147,CHL independents independents
+CHL,MNDP,Movimiento Nacional del Pueblo,1953,1953,1953,0.68,1,147,CHL MNDP Movimiento Nacional del Pueblo
+CHL,MNI,Movimiento Nacional Ibañista,1953,1953,1953,4.08,6,147,CHL MNI Movimiento Nacional Ibañista
+CHL,MR,Movimiento Republicano,1957,1957,1957,0.68,1,147,CHL MR Movimiento Republicano
+CHL,,Alianza Independiente,1989,2001,1989,6.67,8,120,CHL NA Alianza Independiente
+CHL,,Concertacion Independiente,1993,2001,2001,2.5,3,120,CHL NA Concertacion Independiente
+CHL,,La Izquierda Independiente,1989,1989,1989,0.83,1,120,CHL NA La Izquierda Independiente
+CHL,NAP,Nueva Aliaza Popular,1997,1997,1997,0,0,120,CHL NAP Nueva Aliaza Popular
+CHL,other,other,1945,1973,1945,4.08,6,147,CHL other other
+CHL,PA,Partido Agrario,1945,1953,1945,2.04,3,147,CHL PA Partido Agrario
+CHL,PADENA,Partido Democrático Nacional,1961,1965,1961,8.16,12,147,CHL PADENA Partido Democrático Nacional
+CHL,PAIS,Partido Amplio de la Izquierda Socialista,1989,1989,1989,1.67,2,120,CHL PAIS Partido Amplio de la Izquierda Socialista
+CHL,PAL,Partido Agrario Laborista,1949,1957,1949,9.52,14,147,CHL PAL Partido Agrario Laborista
+CHL,PC,Partido Comunista,1997,2001,1997,0,0,120,CHL PC Partido Comunista
+CHL,PC,Partido Conservador,1945,1965,1945,24.4,36,147,CHL PC Partido Conservador
+CHL,PCCh (PPN),Partido Comunista de Chile (Partido Progresista Nacional),1945,1973,1973,16.4,25,152,CHL PCCh (PPN) Partido Comunista de Chile (Partido Progresista Nacional)
+CHL,PCT,Partido Conservador Tradicionalista,1949,1961,1961,11.5,17,147,CHL PCT Partido Conservador Tradicionalista
+CHL,PD,Partido Demócrata,1945,1957,1957,3.4,5,147,CHL PD Partido Demócrata
+CHL,PDC,Partido Demócrata Cristiano,1961,2010,1965,55.7,82,147,CHL PDC Partido Demócrata Cristiano
+CHL,PDdP,Partido Democrático del Pueblo,1949,1953,1953,3.4,5,147,CHL PDdP Partido Democrático del Pueblo
+CHL,PDT,Partido del Trabajo,1957,1957,1957,2.72,4,147,CHL PDT Partido del Trabajo
+CHL,PH,Partido Humanista,1989,2001,1989,0.83,1,120,CHL PH Partido Humanista
+CHL,PIR,Partido de Izquierda Radical,1973,1973,1973,0.66,1,152,CHL PIR Partido de Izquierda Radical
+CHL,PL,Partido Liberal,1945,1965,1965,4.08,6,147,CHL PL Partido Liberal
+CHL,PN,Partido Nacional,1969,1973,1973,22.3,34,152,CHL PN Partido Nacional
+CHL,PNC,Partido Nacional Cristiano,1953,1953,1953,2.72,4,147,CHL PNC Partido Nacional Cristiano
+CHL,PPD,Partido por la Democracia,1989,2001,2001,16.6,20,120,CHL PPD Partido por la Democracia
+CHL,PR,Partido Radical,1945,1973,1973,3.29,5,152,CHL PR Partido Radical
+CHL,PRD,Partido Radical Doctrinario,1953,1953,1953,2.04,3,147,CHL PRD Partido Radical Doctrinario
+CHL,PRSD,Partido Radical Social Demócrata,1989,2001,1989,5,6,120,CHL PRSD Partido Radical Social Demócrata
+CHL,PS,Partido Socialista de Chile,1989,2001,1997,9.17,11,120,CHL PS Partido Socialista de Chile
+CHL,PSA,Partido Socialista Auténtico,1945,1949,1945,2.04,3,147,CHL PSA Partido Socialista Auténtico
+CHL,PSCH,Partido Socialista Chileno,1945,1973,1961,8.16,12,147,CHL PSCH Partido Socialista Chileno
+CHL,PSDC,Partido Social Demócrata de Chile,2002,2002,2002,0.2,1,512,CHL PSDC Partido Social Demócrata de Chile
+CHL,PSP,Partido Socialista Popular,1949,1957,1949,4.08,6,147,CHL PSP Partido Socialista Popular
+CHL,PUCC,Partido Union de Centro Centro,1993,1997,1993,0.83,1,120,CHL PUCC Partido Union de Centro Centro
+CHL,RN,Renovación Nacional,1989,2001,1993,25,30,120,CHL RN Renovación Nacional
+CHL,UDI,Unión Democrática Independiente,1989,2001,1989,9.17,11,120,CHL UDI Unión Democrática Independiente
+CHL,UNI,Unión Nacional de Independientes,1953,1973,1957,4.76,7,147,CHL UNI Unión Nacional de Independientes
+CHL,UP,Unidad Popular,1953,1953,1953,0.68,1,147,CHL UP Unidad Popular
+COL,ADM19,Alianza Democrática M-19,1991,2002,1991,7.69,13,169,COL ADM19 Alianza Democrática M-19
+COL,AINCO,Autoridades Indigenas de Colombia,1991,2002,2002,0.61,1,165,COL AINCO Autoridades Indigenas de Colombia
+COL,ANAPO,Alianza Nacional Popular,1974,2002,1974,7.54,15,199,COL ANAPO Alianza Nacional Popular
+COL,ASI,Alianza Social Indigena,1998,2002,1998,1.24,2,161,COL ASI Alianza Social Indigena
+COL,C-4,Comp.Cív.Cristiano Com.,1998,2002,1998,0,0,161,COL C-4 Comp.Cív.Cristiano Com.
+COL,CC,Convergencia Ciudadana,2002,2002,2002,1.21,2,165,COL CC Convergencia Ciudadana
+COL,CDRS,Corriente de Renovacion Socialista,1998,1998,1998,0,0,161,COL CDRS Corriente de Renovacion Socialista
+COL,CE,Circumscipcion Especial,1994,1998,1998,1.24,2,161,COL CE Circumscipcion Especial
+COL,CH,Conservador Humbertista,1991,1991,1991,0.59,1,169,COL CH Conservador Humbertista
+COL,CI,Cívico Independiente,1991,2002,1998,0.62,1,161,COL CI Cívico Independiente
+COL,CI,Conservatismo Independiente,1994,1994,1994,0.62,1,162,COL CI Conservatismo Independiente
+COL,CR,Cambio Radical,2002,2002,2002,4.24,7,165,COL CR Cambio Radical
+COL,CS,Colombia Siempre,2002,2002,2002,1.82,3,165,COL CS Colombia Siempre
+COL,EC,Equipo Colombia,2002,2002,2002,2.42,4,165,COL EC Equipo Colombia
+COL,FD,Frente Democrático,1982,1982,1982,0.5,1,199,COL FD Frente Democrático
+COL,FP,Frente Popular,1991,1991,1991,0.59,1,169,COL FP Frente Popular
+COL,FP,Fuerza Progresista,1991,2002,1998,2.48,4,161,COL FP Fuerza Progresista
+COL,FSP,Frente Social y Politico,2002,2002,2002,1.21,2,165,COL FSP Frente Social y Politico
+COL,FUP,Frente por la Unidad del Pueblo,1978,1978,1978,0.5,1,199,COL FUP Frente por la Unidad del Pueblo
+COL,GOLPE,Movimiento Pol.Gru.Org.Lid.Pop.,2002,2002,2002,0,0,165,COL GOLPE Movimiento Pol.Gru.Org.Lid.Pop.
+COL,IFE,Independiente Frente de Esperanza,1998,1998,1998,0.62,1,161,COL IFE Independiente Frente de Esperanza
+COL,IR,Integración Regional,1991,2002,2002,1.82,3,165,COL IR Integración Regional
+COL,LIDER,Liberalismo Independiente de Restauración,1991,1991,1991,0.59,1,169,COL LIDER Liberalismo Independiente de Restauración
+COL,M19A,Movimiento 19 De Abril,2002,2002,2002,0,0,165,COL M19A Movimiento 19 De Abril
+COL,MAC,Movimiento Autonomia Ciudadana,2002,2002,2002,0,0,165,COL MAC Movimiento Autonomia Ciudadana
+COL,MAD,Mov. Alternativa Democratica,1998,1998,1998,0.62,1,161,COL MAD Mov. Alternativa Democratica
+COL,MAD,Movimiento Alternativa Democrática,2002,2002,2002,0,0,165,COL MAD Movimiento Alternativa Democrática
+COL,MADN,Movimiento Alternativa Democratica Nacional,1998,1998,1998,0,0,161,COL MADN Movimiento Alternativa Democratica Nacional
+COL,MAL,Movimiento Apertura Liberal,1998,2002,2002,3.03,5,165,COL MAL Movimiento Apertura Liberal
+COL,MC,Movimiento Ciudadano,1998,2002,1998,0.62,1,161,COL MC Movimiento Ciudadano
+COL,MC,Movimiento Civico,1982,1982,1982,0.5,1,199,COL MC Movimiento Civico
+COL,MCCN,Movimiento Concertacion Cívica Nac.,2002,2002,2002,0,0,165,COL MCCN Movimiento Concertacion Cívica Nac.
+COL,MCI,Movimiento Conservatismo Independiente,1998,2002,2002,0.61,1,165,COL MCI Movimiento Conservatismo Independiente
+COL,MCMP,Movimiento Colombia mi Pais,1998,2002,1998,0,0,161,COL MCMP Movimiento Colombia mi Pais
+COL,MCPC,Movimiento Convergencia Popular Civic,1998,2002,2002,2.42,4,165,COL MCPC Movimiento Convergencia Popular Civic
+COL,MCSC,Movimiento Civico Seriedad por Colombia,1998,2002,1998,0.62,1,161,COL MCSC Movimiento Civico Seriedad por Colombia
+COL,MDC,Movimiento Defensa Ciudadana,2002,2002,2002,0,0,165,COL MDC Movimiento Defensa Ciudadana
+COL,MFC,Movimiento Fuerza Colombia,1998,2002,1998,0,0,161,COL MFC Movimiento Fuerza Colombia
+COL,MH,Movimiento Humbertista,1991,2002,1998,0.62,1,161,COL MH Movimiento Humbertista
+COL,MHC,Movimiento Huella Ciudadana,2002,2002,2002,1.21,2,165,COL MHC Movimiento Huella Ciudadana
+COL,MIPOL,Movimiento Integracion Popular,2002,2002,2002,1.21,2,165,COL MIPOL Movimiento Integracion Popular
+COL,MIRA,Movimiento Ind.Renovacion Abs.,2002,2002,2002,0,0,165,COL MIRA Movimiento Ind.Renovacion Abs.
+COL,MN,Movimiento Nacional,2002,2002,2002,0.61,1,165,COL MN Movimiento Nacional
+COL,MNC,Movimiento Nacional Conservador,1990,1998,1994,3.7,6,162,COL MNC Movimiento Nacional Conservador
+COL,MNC,Movimiento Nueva Colombia,1991,2002,1994,1.23,2,162,COL MNC Movimiento Nueva Colombia
+COL,MNFD,Movimiento Nueva Fuerza Democratica,1998,2002,1998,1.24,2,161,COL MNFD Movimiento Nueva Fuerza Democratica
+COL,MNP,Movimiento Nacional Progresista,1994,2002,1994,0.62,1,162,COL MNP Movimiento Nacional Progresista
+COL,MOIR,Movimiento Obr.Independ. Revol.,2002,2002,2002,0,0,165,COL MOIR Movimiento Obr.Independ. Revol.
+COL,MPAC,Movimiento Politico Anupac Colombia,2002,2002,2002,0,0,165,COL MPAC Movimiento Politico Anupac Colombia
+COL,MPC,Movimiento Participacion Ciudadana,1998,1998,1998,0.62,1,161,COL MPC Movimiento Participacion Ciudadana
+COL,MPC,Movimiento Participacion Comun.,2002,2002,2002,0.61,1,165,COL MPC Movimiento Participacion Comun.
+COL,MPCCC,Movimiento Pol.Comunal Y Comuni. Col.,2002,2002,2002,1.21,2,165,COL MPCCC Movimiento Pol.Comunal Y Comuni. Col.
+COL,MPCPB,Movimiento Pol. Ciudadanos Por Boyaca,2002,2002,2002,0,0,165,COL MPCPB Movimiento Pol. Ciudadanos Por Boyaca
+COL,MPLPC,Movimiento Politico Laicos por Colombia,1998,2002,1998,0,0,161,COL MPLPC Movimiento Politico Laicos por Colombia
+COL,MPP,Movimiento de Participación Popular,2002,2002,2002,1.21,2,165,COL MPP Movimiento de Participación Popular
+COL,MPPSS,Movimiento Pol.Por La Seguridad Soc.,2002,2002,2002,0,0,165,COL MPPSS Movimiento Pol.Por La Seguridad Soc.
+COL,MPU,Movimiento Popular Unido,2002,2002,2002,1.82,3,165,COL MPU Movimiento Popular Unido
+COL,MR,Movimiento Republicano,2002,2002,2002,0.61,1,165,COL MR Movimiento Republicano
+COL,MRD,Movimiento Renovacion Democratica,1994,2002,1994,0.62,1,162,COL MRD Movimiento Renovacion Democratica
+COL,MRD,Movimiento Revolucion Democratica,2002,2002,2002,0,0,165,COL MRD Movimiento Revolucion Democratica
+COL,MSC,Movimiento Si Colombia,2002,2002,2002,0,0,165,COL MSC Movimiento Si Colombia
+COL,MSC,Movimiento Somos Colombia,2002,2002,2002,0,0,165,COL MSC Movimiento Somos Colombia
+COL,MSN,Movimiento de Salvación Nacional,1991,2002,1991,6.51,11,169,COL MSN Movimiento de Salvación Nacional
+COL,MTN,Movimiento Transformacion Nacional,2002,2002,2002,0,0,165,COL MTN Movimiento Transformacion Nacional
+COL,MU,Movimiento Unionista,2002,2002,2002,1.21,2,165,COL MU Movimiento Unionista
+COL,MUC,Movimiento Unete Colombia,2002,2002,2002,0.61,1,165,COL MUC Movimiento Unete Colombia
+COL,MUM,Movimiento Unitario Metapolitico (antes MUR Mov. Unitario Reginista),1991,1998,1994,0.62,1,162,COL MUM Movimiento Unitario Metapolitico (antes MUR Mov. Unitario Reginista)
+COL,MUNSSU,Movimiento Uni.Nal.Seg.Soc. Unamonos,2002,2002,2002,0,0,165,COL MUNSSU Movimiento Uni.Nal.Seg.Soc. Unamonos
+COL,MURCO,Movimiento Unico de Renovación Conservador,1991,1991,1991,0.59,1,169,COL MURCO Movimiento Unico de Renovación Conservador
+COL,,Coaliciones,1994,1998,1998,9.94,16,161,COL NA Coaliciones
+COL,NL,Nuevo Liberalismo,1986,2002,1986,3.52,7,199,COL NL Nuevo Liberalismo
+COL,other,other,1986,2002,1994,6.79,11,162,COL other other
+COL,PC,Popular Colombiano,1998,2002,2002,0.61,1,165,COL PC Popular Colombiano
+COL,PCC,Partido Comunista de Colombia,1945,1945,1945,3.05,4,131,COL PCC Partido Comunista de Colombia
+COL,PD,Progresismo Democrático,2002,2002,2002,1.21,2,165,COL PD Progresismo Democrático
+COL,PIC,Partido Indigena Colombiano,2002,2002,2002,0,0,165,COL PIC Partido Indigena Colombiano
+COL,PL,Partido Liberal Colombiano,1945,2002,1945,61,80,131,COL PL Partido Liberal Colombiano
+COL,PNC,Partido Nacional Cristiano,1994,2002,1994,0.62,1,162,COL PNC Partido Nacional Cristiano
+COL,PSC,Partido Social Conservador Colombiano (Antes PC: P. Conservador Col.),1945,2002,1958,50,74,148,COL PSC Partido Social Conservador Colombiano (Antes PC: P. Conservador Col.)
+COL,PSC,Partido Socialdemócrata Colombiano,2002,2002,2002,0,0,165,COL PSC Partido Socialdemócrata Colombiano
+COL,PSD,Partido Del Soc. Democratico,2002,2002,2002,0.61,1,165,COL PSD Partido Del Soc. Democratico
+COL,PUD,Partido Unidad Democratica,2002,2002,2002,0.61,1,165,COL PUD Partido Unidad Democratica
+COL,PVMSVC,Partido Vang.Moral Y Soc.Vamos Col.,2002,2002,2002,0.61,1,165,COL PVMSVC Partido Vang.Moral Y Soc.Vamos Col.
+COL,PVO,Partido Verde Oxigeno,2002,2002,2002,0,0,165,COL PVO Partido Verde Oxigeno
+COL,PVS,Partido Viraje Social,2002,2002,2002,0,0,165,COL PVS Partido Viraje Social
+COL,RALM,Renovacion Accion Laboral Moral,2002,2002,2002,1.21,2,165,COL RALM Renovacion Accion Laboral Moral
+COL,RD,Renovación Democrática,1991,1991,1991,0.59,1,169,COL RD Renovación Democrática
+COL,RDN,Reconstrucción Democrática Nacional,2002,2002,2002,0.61,1,165,COL RDN Reconstrucción Democrática Nacional
+COL,T,Transformación,1991,1991,1991,0.59,1,169,COL T Transformación
+COL,UC,Union Cristiana,1991,2002,1991,0.59,1,169,COL UC Union Cristiana
+COL,UNO,Union Nacional de Oposicion,1974,1978,1974,2.51,5,199,COL UNO Union Nacional de Oposicion
+COL,UNV,Unidad Norte Vallecaucana,1991,1991,1991,0.59,1,169,COL UNV Unidad Norte Vallecaucana
+COL,UP,Union Patriotico,1986,2002,1991,1.78,3,169,COL UP Union Patriotico
+COL,UR,Unico de Renovacion,1994,1994,1994,0.62,1,162,COL UR Unico de Renovacion
+COL,VA,Via Alterna,1998,2002,2002,0.61,1,165,COL VA Via Alterna
+COL,VP,Voluntad Popular,2002,2002,2002,1.21,2,165,COL VP Voluntad Popular
+CRI,ADA,Acción Democrática Alajuelense,1994,1998,1994,3.51,2,57,CRI ADA Acción Democrática Alajuelense
+CRI,ALA,Accion Laborista Agricola,1998,2002,1998,1.75,1,57,CRI ALA Accion Laborista Agricola
+CRI,AN,Agrario Nacional,1998,2002,1998,0,0,57,CRI AN Agrario Nacional
+CRI,ANC,Alianza Nacional Cristiana,1998,2002,1998,0,0,57,CRI ANC Alianza Nacional Cristiana
+CRI,C2000,Cambio 2000,2002,2002,2002,0,0,57,CRI C2000 Cambio 2000
+CRI,CN,Convergencia Nacional,1998,2002,1998,0,0,57,CRI CN Convergencia Nacional
+CRI,CY,Cambio Ya,1998,1998,1998,0,0,57,CRI CY Cambio Ya
+CRI,FAC,Fuerza Agraria de los Cartagineses,1998,2002,1998,0,0,57,CRI FAC Fuerza Agraria de los Cartagineses
+CRI,FD,Fuerza Democrática,1994,2002,1998,5.26,3,57,CRI FD Fuerza Democrática
+CRI,GI,Guanacaste Independiente,1998,1998,1998,0,0,57,CRI GI Guanacaste Independiente
+CRI,ML,Movimiento Libertario,2002,2002,2002,10.5,6,57,CRI ML Movimiento Libertario
+CRI,NPD,Nuevo Partido Democratico,1998,1998,1998,0,0,57,CRI NPD Nuevo Partido Democratico
+CRI,other,other,1958,1990,1982,7.02,4,57,CRI other other
+CRI,PAC,Acción Ciudadana,2002,2002,2002,24.5,14,57,CRI PAC Acción Ciudadana
+CRI,PAL,Partido Autentico Limonense,1998,1998,1998,0,0,57,CRI PAL Partido Autentico Limonense
+CRI,PD,Partido Demócrata,1953,1998,1953,24.4,11,45,CRI PD Partido Demócrata
+CRI,PDC,Partido Democrático Cristiana,1970,1970,1970,1.75,1,57,CRI PDC Partido Democrático Cristiana
+CRI,PI,Partido Independiente,1998,1998,1998,0,0,57,CRI PI Partido Independiente
+CRI,PIN,Partido de Integracion Nacional,1998,2002,1998,1.75,1,57,CRI PIN Partido de Integracion Nacional
+CRI,PIO,Partido Independiente Obrero,2002,2002,2002,0,0,57,CRI PIO Partido Independiente Obrero
+CRI,PLN,Partido Liberacion Nacional,1953,2002,1953,66.6,30,45,CRI PLN Partido Liberacion Nacional
+CRI,PML,Partido Movimiento Libertario,1998,1998,1998,1.75,1,57,CRI PML Partido Movimiento Libertario
+CRI,PN,Patriótico Nacional,2002,2002,2002,0,0,57,CRI PN Patriótico Nacional
+CRI,PNI,Partico Nacional Independiente,1998,1998,1998,0,0,57,CRI PNI Partico Nacional Independiente
+CRI,PR,Partido Republicano,1958,1962,1962,31.5,18,57,CRI PR Partido Republicano
+CRI,PRC,Partido Renovacion Costarricense,1998,2002,1998,1.75,1,57,CRI PRC Partido Renovacion Costarricense
+CRI,PRD,Partido Renovación Democrática,1974,1974,1974,5.26,3,57,CRI PRD Partido Renovación Democrática
+CRI,PRN,Partido Republicano Nacional,1953,1974,1953,6.67,3,45,CRI PRN Partido Republicano Nacional
+CRI,PU,Pueblo Unido,1978,1998,1978,5.26,3,57,CRI PU Pueblo Unido
+CRI,PUN,Partido Unidad Nacional,1953,1970,1966,45.6,26,57,CRI PUN Partido Unidad Nacional
+CRI,PUSC,Partido Unidad Social Cristiano,1978,2002,1990,50.8,29,57,CRI PUSC Partido Unidad Social Cristiano
+CRI,RN,Recaste Nacional,1998,1998,1998,0,0,57,CRI RN Recaste Nacional
+CRI,UAC,Unión Agrícola Cartagines,1974,2002,1974,1.75,1,57,CRI UAC Unión Agrícola Cartagines
+CRI,UG,Union Generaleña,1998,2002,1998,0,0,57,CRI UG Union Generaleña
+DOM,AD,Alianza por la Democracia,2002,2002,2002,0,0,150,DOM AD Alianza por la Democracia
+DOM,ASD,Alianza Social Democratica,1998,2002,1998,0,0,149,DOM ASD Alianza Social Democratica
+DOM,BIS,Bloque Institucional Socaildemocrata,1998,2002,1998,0,0,149,DOM BIS Bloque Institucional Socaildemocrata
+DOM,FR,Fuerza de la Revolucion,2002,2002,2002,0,0,150,DOM FR Fuerza de la Revolucion
+DOM,MCN,Movimiento de Conciliacion Nacional,1998,1998,1998,0,0,149,DOM MCN Movimiento de Conciliacion Nacional
+DOM,MISR,Movimiento Independiente de Santiago Rodriguez,2002,2002,2002,0,0,150,DOM MISR Movimiento Independiente de Santiago Rodriguez
+DOM,MIUCA,Movimiento Independiente Unidad y Cambio,2002,2002,2002,0,0,150,DOM MIUCA Movimiento Independiente Unidad y Cambio
+DOM,PAC,Partido Accion Constitucional,1982,1982,1982,0.83,1,120,DOM PAC Partido Accion Constitucional
+DOM,PD,Partido Dominicano,1934,1934,1934,100,31,31,DOM PD Partido Dominicano
+DOM,PDI,Partido Democratico Institucional,1998,1998,1998,0,0,149,DOM PDI Partido Democratico Institucional
+DOM,PDP,Partido Democrata Popular,1998,2002,1998,0,0,149,DOM PDP Partido Democrata Popular
+DOM,PLD,Partido de la Liberacion Dominicana,1982,2002,1982,5.83,7,120,DOM PLD Partido de la Liberacion Dominicana
+DOM,PNA,Partido Nueva Alternativa,2002,2002,2002,0,0,150,DOM PNA Partido Nueva Alternativa
+DOM,PNRD,Partido Nacionalista Revolucionario Democratico,1962,1962,1962,5.41,4,74,DOM PNRD Partido Nacionalista Revolucionario Democratico
+DOM,PNVC,Partido Nacional de Veteranos Civiles,1998,2002,1998,0,0,149,DOM PNVC Partido Nacional de Veteranos Civiles
+DOM,PPC,Partido Popular Cristiano,2002,2002,2002,0,0,150,DOM PPC Partido Popular Cristiano
+DOM,PPD,Partido del Pueblo Dominicano,1998,1998,1998,0,0,149,DOM PPD Partido del Pueblo Dominicano
+DOM,PQD,Partido Quisqueyano Democrata,1998,2002,1998,0,0,149,DOM PQD Partido Quisqueyano Democrata
+DOM,PR,Partido Reformista,1978,1982,1978,47.2,43,91,DOM PR Partido Reformista
+DOM,PRD,Partido Revolucionario Dominicano,1962,2002,1962,66.2,49,74,DOM PRD Partido Revolucionario Dominicano
+DOM,PRI,Partico Revolucionario Independiente,1990,2002,1990,1.67,2,120,DOM PRI Partico Revolucionario Independiente
+DOM,PRN,Partido Renacentista Nacional,1998,2002,1998,0,0,149,DOM PRN Partido Renacentista Nacional
+DOM,PRSC,Partido Reformista Social Cristiano,1986,2002,1986,46.6,56,120,DOM PRSC Partido Reformista Social Cristiano
+DOM,PRSC,Partido Revolucionario Social Cristiano,1962,1962,1962,1.35,1,74,DOM PRSC Partido Revolucionario Social Cristiano
+DOM,PTD,Partido de los Trabajadores Dominicanos,2002,2002,2002,0,0,150,DOM PTD Partido de los Trabajadores Dominicanos
+DOM,PUN,Partido de Unidad Nacional,2002,2002,2002,0,0,150,DOM PUN Partido de Unidad Nacional
+DOM,UCN,Union Civica Nacional,1962,1962,1962,27,20,74,DOM UCN Union Civica Nacional
+DOM,UD,Unidad Democratica,1998,1998,1998,0,0,149,DOM UD Unidad Democratica
+DOM,UDC,Union Democrata Cristiana,2002,2002,2002,0,0,150,DOM UDC Union Democrata Cristiana
+ECU,A2-14,Alianza 2-14,1996,1996,1996,3.66,3,82,ECU A2-14 Alianza 2-14
+ECU,APRE,Acción Popular Revolucionaria Ecuatoriana,1992,1996,1994,2.6,2,77,ECU APRE Acción Popular Revolucionaria Ecuatoriana
+ECU,CFP,Concentración de Fuerzas Populares,1979,2002,1986,9.86,7,71,ECU CFP Concentración de Fuerzas Populares
+ECU,CID,Coalición Institucionalista Demócrata,1979,1979,1979,4.35,3,69,ECU CID Coalición Institucionalista Demócrata
+ECU,CNR,Coalición Nacional Republicana,1984,1984,1984,1.43,1,70,ECU CNR Coalición Nacional Republicana
+ECU,DP,Democracia Popular,1984,2002,1984,7.14,5,70,ECU DP Democracia Popular
+ECU,FNV,Federación Nacional Velasquista,1979,1979,1979,1.45,1,69,ECU FNV Federación Nacional Velasquista
+ECU,FRA,Frente Radical Alfarista,1984,1998,1984,8.57,6,70,ECU FRA Frente Radical Alfarista
+ECU,ID,Izquierda Democrática,1979,2002,1992,9.09,7,77,ECU ID Izquierda Democrática
+ECU,Ind,Independent,1994,2002,2002,5,5,100,ECU Ind Independent
+ECU,MCNP,Movimiento Ciudadanos Nuevo Pais,1998,1998,1998,0.83,1,121,ECU MCNP Movimiento Ciudadanos Nuevo Pais
+ECU,MPD,Movimiento Popular Democrático,1979,2002,1986,5.63,4,71,ECU MPD Movimiento Popular Democrático
+ECU,MPS,Movimiento Patria Solidaria,2002,2002,2002,1,1,100,ECU MPS Movimiento Patria Solidaria
+ECU,MUPPNP,Movimiento Unidad Plurinacional Pachakutik - Nuevo País,1996,2002,1996,9.76,8,82,ECU MUPPNP Movimiento Unidad Plurinacional Pachakutik - Nuevo País
+ECU,other,other,1998,1998,1998,0.83,1,121,ECU other other
+ECU,PCD,"Pueblo, Cambio y Democracia",1986,1986,1986,1.41,1,71,"ECU PCD Pueblo, Cambio y Democracia"
+ECU,PCE,Partido Conservador Ecuatoriana,1979,1998,1992,7.79,6,77,ECU PCE Partido Conservador Ecuatoriana
+ECU,PD,Partido Demócrata,1984,1986,1984,4.29,3,70,ECU PD Partido Demócrata
+ECU,PDP,Partido del Pueblo,1996,1996,1996,1.22,1,82,ECU PDP Partido del Pueblo
+ECU,PLN,Partido Liberación Nacional,1992,1994,1992,1.3,1,77,ECU PLN Partido Liberación Nacional
+ECU,PLRE,Partido Liberal Radical Ecuatoriano,1979,1994,1979,5.8,4,69,ECU PLRE Partido Liberal Radical Ecuatoriano
+ECU,PNR,Partido Nacionalista Revolucionario,1979,1979,1979,2.9,2,69,ECU PNR Partido Nacionalista Revolucionario
+ECU,PRE,Partido Roldosista Ecuatoriano,1984,2002,1986,5.63,4,71,ECU PRE Partido Roldosista Ecuatoriano
+ECU,PRIAN,Partido Renovador Institucional Accion Nacional,2002,2002,2002,10,10,100,ECU PRIAN Partido Renovador Institucional Accion Nacional
+ECU,PSC,Partido Social Cristiano,1979,2002,1979,4.35,3,69,ECU PSC Partido Social Cristiano
+ECU,PSE,Partido Socialista Ecuatoriano,1984,2002,1986,8.45,6,71,ECU PSE Partido Socialista Ecuatoriano
+ECU,PSP,Partido Sociedad Patriotica 21 de Enero,2002,2002,2002,6,6,100,ECU PSP Partido Sociedad Patriotica 21 de Enero
+ECU,PUR,Partido Union Republicana,1992,1994,1994,3.9,3,77,ECU PUR Partido Union Republicana
+ECU,UDP,Unión Democrática Popular,1979,1990,1986,4.23,3,71,ECU UDP Unión Democrática Popular
+ECU,UN-UNO,Partido Union Nacional UNO,2002,2002,2002,1,1,100,ECU UN-UNO Partido Union Nacional UNO
+GTM,CAN,Central Autentica Nacionalista,1982,1985,1982,4.55,3,66,GTM CAN Central Autentica Nacionalista
+GTM,CAO,Central Aranista Organizada,1974,1978,1978,5.56,3,54,GTM CAO Central Aranista Organizada
+GTM,DCG,Democracia Cristiana Guatemalteca,1985,1999,1985,51,51,100,GTM DCG Democracia Cristiana Guatemalteca
+GTM,FDNG,Frente Democrático Nueva Guatemala,1995,1995,1995,7.5,6,80,GTM FDNG Frente Democrático Nueva Guatemala
+GTM,FDP,Fuerza Democratica Popular,1982,1982,1982,50,33,66,GTM FDP Fuerza Democratica Popular
+GTM,FRG,Frente Republicano Guatemalteco,1990,1999,1999,55.7,63,113,GTM FRG Frente Republicano Guatemalteco
+GTM,MAS,Movimiento de Accion Solidaria,1990,1990,1990,15.5,18,116,GTM MAS Movimiento de Accion Solidaria
+GTM,MLN,Movimiento de Liberacion Nacional,1966,1995,1966,9.09,5,55,GTM MLN Movimiento de Liberacion Nacional
+GTM,OTHER,OTHER,1982,1982,1982,10.6,7,66,GTM OTHER OTHER
+GTM,PAN,Partido de Avanzada Nacional,1990,1999,1995,53.7,43,80,GTM PAN Partido de Avanzada Nacional
+GTM,PDCN,Partido Democratico de Cooperacion Nacional,1985,1985,1985,11,11,100,GTM PDCN Partido Democratico de Cooperacion Nacional
+GTM,PID,Partido Institucional Democratico,1966,1978,1966,38.1,21,55,GTM PID Partido Institucional Democratico
+GTM,PLP,Partido Liberador Progresista,1999,1999,1999,0.88,1,113,GTM PLP Partido Liberador Progresista
+GTM,PNR,Partido Nacional Renovador,1985,1985,1985,1,1,100,GTM PNR Partido Nacional Renovador
+GTM,PR,Partido Revolucionario,1966,1990,1966,52.7,29,55,GTM PR Partido Revolucionario
+GTM,PSD,Partido Socialista Democratico,1985,1990,1985,2,2,100,GTM PSD Partido Socialista Democratico
+GTM,UCN,Union del Centro Nacional,1985,1995,1994,8.75,7,80,GTM UCN Union del Centro Nacional
+GTM,UD,Unión Democrática,1994,1999,1995,2.5,2,80,GTM UD Unión Democrática
+GTM,UNO,Union Nacional Organizada,1982,1982,1982,3.03,2,66,GTM UNO Union Nacional Organizada
+GTM,URNG,Unidad Revolucionaria Nacional Guatemalteca,1999,1999,1999,7.96,9,113,GTM URNG Unidad Revolucionaria Nacional Guatemalteca
+GUY,AG,Alliance for Guyana,1997,1997,1997,3.08,2,65,GUY AG Alliance for Guyana
+GUY,PNC,People's National Congress,1964,2001,1985,79.2,42,53,GUY PNC People's National Congress
+GUY,PPP,People's Progressive Party,1964,2001,1992,55.3,36,65,GUY PPP People's Progressive Party
+GUY,RORG,Rise Organise and Rebuild Guyana,2001,2001,2001,1.52,1,66,GUY RORG Rise Organise and Rebuild Guyana
+GUY,UF,United Force,1964,2001,1980,3.77,2,53,GUY UF United Force
+GUY,WPA,Working People's Alliance,1985,2001,1992,3.08,2,65,GUY WPA Working People's Alliance
+HND,ind,Independiente,1981,1981,1981,0,0,82,HND ind Independiente
+HND,PDCH,Partido Demócrata Cristiano de Honduras,1981,2001,2001,2.34,3,128,HND PDCH Partido Demócrata Cristiano de Honduras
+HND,PINU,Partido de Innovación y Unidad-Social Demócrata,1981,2001,1981,3.66,3,82,HND PINU Partido de Innovación y Unidad-Social Demócrata
+HND,PLH,Partido Liberal de Honduras,1981,2001,1993,55.4,71,128,HND PLH Partido Liberal de Honduras
+HND,PN,Partido Nacional,1981,2001,1989,55.4,71,128,HND PN Partido Nacional
+HND,PUD,Partido de Unificación Democrática,1997,2001,2001,3.91,5,128,HND PUD Partido de Unificación Democrática
+JAM,IND,Independent,1944,1949,1949,6.25,2,32,JAM IND Independent
+JAM,JLP,Jamaica Labour Party,1944,1997,1980,85,51,60,JAM JLP Jamaica Labour Party
+JAM,PNP,People's National Party,1944,1997,1993,86.6,52,60,JAM PNP People's National Party
+MEX,AM,Alianza per Mexico,2000,2000,2000,13.6,68,500,MEX AM Alianza per Mexico
+MEX,FDN,Frente Democrático Nacional,1988,1988,1988,3,15,500,MEX FDN Frente Democrático Nacional
+MEX,other,other,1946,1958,1952,1.86,3,161,MEX other other
+MEX,PAN,Partido Acción Nacional,1946,2000,1964,9.52,20,210,MEX PAN Partido Acción Nacional
+MEX,PARM,Partido Auténtico de la Revolución Mexicana,1958,1991,1988,6,30,500,MEX PARM Partido Auténtico de la Revolución Mexicana
+MEX,PCM,Partido Comunista Mexicano,1979,1979,1979,4.5,18,400,MEX PCM Partido Comunista Mexicano
+MEX,PDM,Partido Demócrata Mexicano,1979,1985,1985,3,12,400,MEX PDM Partido Demócrata Mexicano
+MEX,PFCRN,Partido del Frente Cardenista de Reconstrucción Nacional,1985,1991,1988,7.6,38,500,MEX PFCRN Partido del Frente Cardenista de Reconstrucción Nacional
+MEX,PMS,Partido Mexicano Socialista,1988,1988,1988,3.6,18,500,MEX PMS Partido Mexicano Socialista
+MEX,PMT,Partido Mexicano de los Trabajadores,1985,1985,1985,1.5,6,400,MEX PMT Partido Mexicano de los Trabajadores
+MEX,PPS,Partido Popular Socialista,1949,1991,1988,7.4,37,500,MEX PPS Partido Popular Socialista
+MEX,PRD,Partido de la Revolución Democrática,1991,1997,1991,8.2,41,500,MEX PRD Partido de la Revolución Democrática
+MEX,PRI,Partido Revolucionario Institucional,1949,2000,1949,96.6,142,147,MEX PRI Partido Revolucionario Institucional
+MEX,PRM,Partido de la Revolución Mexicana,1946,1946,1946,95.9,141,147,MEX PRM Partido de la Revolución Mexicana
+MEX,PRT,Partido Revolucionario de los Trabajadores,1985,1985,1985,1.5,6,400,MEX PRT Partido Revolucionario de los Trabajadores
+MEX,PST,Partido Socialista de los Trabajadores,1979,1985,1985,3,12,400,MEX PST Partido Socialista de los Trabajadores
+MEX,PSUM,Partido Socialista Unificado de México,1982,1982,1982,4.25,17,400,MEX PSUM Partido Socialista Unificado de México
+MEX,PT,Partido de Trabajo,1994,1997,1994,2,10,500,MEX PT Partido de Trabajo
+MEX,PVEM,Partido Vert Ecologista de Mexico,1997,1997,1997,1.6,8,500,MEX PVEM Partido Vert Ecologista de Mexico
+NIC,AL,Alianza Liberal,1996,1996,1996,45.1,42,93,NIC AL Alianza Liberal
+NIC,ANC,Alianza Nacional Conservador,1996,1996,1996,1.08,1,93,NIC ANC Alianza Nacional Conservador
+NIC,FSLN,Frente Sandinista de Liberacion Nacional,1984,1996,1984,63.5,61,96,NIC FSLN Frente Sandinista de Liberacion Nacional
+NIC,MAP-ML,Movimiento de Accion Popular-Marxista Leninista,1984,1984,1984,2.08,2,96,NIC MAP-ML Movimiento de Accion Popular-Marxista Leninista
+NIC,MRS,Movimiento Renovación Sandinista,1996,1996,1996,1.08,1,93,NIC MRS Movimiento Renovación Sandinista
+NIC,MUR,Movimiento de Unidad Revoluconaria,1990,1990,1990,1.09,1,92,NIC MUR Movimiento de Unidad Revoluconaria
+NIC,PCCN,Partido Camino Cristiano Nicaraguense,1996,1996,1996,4.3,4,93,NIC PCCN Partido Camino Cristiano Nicaraguense
+NIC,PCdeN,Partido Comunista de Nicaragua,1984,1984,1984,2.08,2,96,NIC PCdeN Partido Comunista de Nicaragua
+NIC,PCDN,Partido Conservador Demócrata de Nicaragua,1984,1984,1984,14.5,14,96,NIC PCDN Partido Conservador Demócrata de Nicaragua
+NIC,PCN,Partido Conservador de Nicaragua,1974,1996,1996,3.23,3,93,NIC PCN Partido Conservador de Nicaragua
+NIC,PCN2,Partido Conservador Nicaraguense,1957,1967,1957,33.3,14,42,NIC PCN2 Partido Conservador Nicaraguense
+NIC,PLI,Partido Liberal Independiente,1984,1996,1984,9.38,9,96,NIC PLI Partido Liberal Independiente
+NIC,PLN,Partido Liberal Nacionalista,1957,1974,1957,66.6,28,42,NIC PLN Partido Liberal Nacionalista
+NIC,PPSC,Partido Popular Social Cristiano,1984,1984,1984,6.25,6,96,NIC PPSC Partido Popular Social Cristiano
+NIC,PRN,Partido Resistencia Nicaraguense,1996,1996,1996,1.08,1,93,NIC PRN Partido Resistencia Nicaraguense
+NIC,Pronal,Proyecto Nacional,1996,1996,1996,2.15,2,93,NIC Pronal Proyecto Nacional
+NIC,PSC,Partido Social Cristiano,1990,1990,1990,1.09,1,92,NIC PSC Partido Social Cristiano
+NIC,PSN,Partido Socialista Nicaraguense,1984,1984,1984,2.08,2,96,NIC PSN Partido Socialista Nicaraguense
+NIC,Unidad,Unidad,1996,1996,1996,1.08,1,93,NIC Unidad Unidad
+NIC,UNO 96,Unión Nacional Opositora 96,1996,1996,1996,1.08,1,93,NIC UNO 96 Unión Nacional Opositora 96
+NIC,UNO,Union Nacional Opositora,1967,1990,1990,55.4,51,92,NIC UNO Union Nacional Opositora
+PAN,CD,Cambio Democrático,1999,1999,1999,2.82,2,71,PAN CD Cambio Democrático
+PAN,CPN,Coalicion Patriotica Nacional,1956,1964,1956,79.2,42,53,PAN CPN Coalicion Patriotica Nacional
+PAN,LIBRE,Partido Liberal Republicano,1994,1994,1994,2.78,2,72,PAN LIBRE Partido Liberal Republicano
+PAN,MLN,Movimiento de Liberacion Nacional,1960,1964,1960,7.55,4,53,PAN MLN Movimiento de Liberacion Nacional
+PAN,MOLIRENA,Movimiento de Liberacion Nacional,1984,1999,1994,6.94,5,72,PAN MOLIRENA Movimiento de Liberacion Nacional
+PAN,MORENA,Movimiento de Renovación Nacional,1994,1999,1999,1.41,1,71,PAN MORENA Movimiento de Renovación Nacional
+PAN,MPE,Mov. Papa Egoró,1994,1994,1994,8.33,6,72,PAN MPE Mov. Papa Egoró
+PAN,PA,Partido Arnulfista,1994,1999,1999,25.3,18,71,PAN PA Partido Arnulfista
+PAN,PAD,Partido Accion Democratica,1964,1964,1964,2.38,1,42,PAN PAD Partido Accion Democratica
+PAN,PALA,Partido Laborista,1984,1994,1984,10.4,7,67,PAN PALA Partido Laborista
+PAN,PAR,Partido Accion Radical,1964,1964,1964,2.38,1,42,PAN PAR Partido Accion Radical
+PAN,PD,Partido Dipal,1960,1960,1960,1.89,1,53,PAN PD Partido Dipal
+PAN,PDC,Partido Demócrata Cristiano,1964,1999,1984,8.96,6,67,PAN PDC Partido Demócrata Cristiano
+PAN,PL,Partido Liberal,1984,1994,1994,2.78,2,72,PAN PL Partido Liberal
+PAN,PLA,Partido Laborista Agrario,1964,1964,1964,2.38,1,42,PAN PLA Partido Laborista Agrario
+PAN,PLA,Partido Liberal Auténtico,1989,1994,1989,5.97,4,67,PAN PLA Partido Liberal Auténtico
+PAN,PLN,Partido Liberal Nacional,1956,1999,1999,4.23,3,71,PAN PLN Partido Liberal Nacional
+PAN,PP,Partido Panameñista,1964,1964,1964,28.5,12,42,PAN PP Partido Panameñista
+PAN,PPA,Partido Panameñista Autentico,1984,1989,1984,19.4,13,67,PAN PPA Partido Panameñista Autentico
+PAN,PPN,Partido Progresista Nacional,1960,1964,1964,4.76,2,42,PAN PPN Partido Progresista Nacional
+PAN,PR,Partido Republicano,1960,1984,1964,9.52,4,42,PAN PR Partido Republicano
+PAN,PRC,Partido Renovación Civilista,1994,1999,1994,4.17,3,72,PAN PRC Partido Renovación Civilista
+PAN,PRCL,Partido Resistencia Civil Liberal,1960,1960,1960,5.66,3,53,PAN PRCL Partido Resistencia Civil Liberal
+PAN,PRD,Partido Revolucionario Democrático,1984,1999,1984,50.7,34,67,PAN PRD Partido Revolucionario Democrático
+PAN,PREN,Partido Renovador,1960,1964,1964,2.38,1,42,PAN PREN Partido Renovador
+PAN,PRN,Partido Reformista Nacional,1964,1964,1964,2.38,1,42,PAN PRN Partido Reformista Nacional
+PAN,PS,Partido Socialista,1964,1964,1964,2.38,1,42,PAN PS Partido Socialista
+PAN,PS,Partido Solidaridad,1994,1999,1999,5.63,4,71,PAN PS Partido Solidaridad
+PAN,TPN,Tercer Partido Nacionalista,1960,1964,1964,9.52,4,42,PAN TPN Tercer Partido Nacionalista
+PAN,UDI,Unión Democrática Independiente,1994,1994,1994,1.39,1,72,PAN UDI Unión Democrática Independiente
+PER,A,Avancemos,2000,2000,2000,3.33,4,120,PER A Avancemos
+PER,AP,Acción Popular,1963,2001,1980,54.4,98,180,PER AP Acción Popular
+PER,APRA,Alianza Popular Revolucionaria Americana,1980,2001,1995,6.67,8,120,PER APRA Alianza Popular Revolucionaria Americana
+PER,C90,Cambio 90,1990,2001,1995,55.8,67,120,PER C90 Cambio 90
+PER,CODE,Convergencia Democrática,1995,1995,1995,4.17,5,120,PER CODE Convergencia Democrática
+PER,DC,Democracia Cristiana,1963,1963,1963,7.19,10,139,PER DC Democracia Cristiana
+PER,FIM,Frente Independiente Moralizador,1990,2001,2001,9.32,11,118,PER FIM Frente Independiente Moralizador
+PER,FNTC,Frente Nacional de Trabajadores y Campesinos,1980,1990,1980,2.22,4,180,PER FNTC Frente Nacional de Trabajadores y Campesinos
+PER,FPA,Frente Popular Agricola,1995,2001,2000,1.67,2,120,PER FPA Frente Popular Agricola
+PER,IND,Independents,1985,2000,1990,1.67,3,180,PER IND Independents
+PER,IS,Izquierda Socialista,1990,1990,1990,2.22,4,180,PER IS Izquierda Socialista
+PER,IU,Izquierda Unida,1963,1995,1990,8.89,16,180,PER IU Izquierda Unida
+PER,MCNO,Movimiento Civico Nacional Obras,1995,1995,1995,1.67,2,120,PER MCNO Movimiento Civico Nacional Obras
+PER,MDP,Movimiento Democrático Peruano,1963,1963,1963,1.44,2,139,PER MDP Movimiento Democrático Peruano
+PER,MIA,Movimiento Independiente Agrario,1995,1995,1995,0.83,1,120,PER MIA Movimiento Independiente Agrario
+PER,ML,Movimiento Libertad,1990,1990,1990,5,9,180,PER ML Movimiento Libertad
+PER,MR,Movimiento Renovación,1995,1995,1995,2.5,3,120,PER MR Movimiento Renovación
+PER,other,other,1963,1963,1963,2.16,3,139,PER other other
+PER,P2000,Peru al 2000,1995,2000,2000,43.3,52,120,PER P2000 Peru al 2000
+PER,PAP,Partido Aprista Peruano,1963,1963,1963,40.2,56,139,PER PAP Partido Aprista Peruano
+PER,PP,Peru Posible,2000,2001,2001,38.1,45,118,PER PP Peru Posible
+PER,PP,Proyecto País,2001,2001,2001,0,0,118,PER PP Proyecto País
+PER,PPC,Partido Popular Cristiano,1980,1995,1985,6.67,12,180,PER PPC Partido Popular Cristiano
+PER,RA,Renacimiento Andino,2001,2001,2001,0.85,1,118,PER RA Renacimiento Andino
+PER,SN,Solidaridad Nacional,2000,2000,2000,4.17,5,120,PER SN Solidaridad Nacional
+PER,SODE,Solidaridad y Democracia,1990,1990,1990,1.11,2,180,PER SODE Solidaridad y Democracia
+PER,SP,Solución Popular,2001,2001,2001,0.85,1,118,PER SP Solución Popular
+PER,SP,Somos Peru,2000,2001,2000,6.67,8,120,PER SP Somos Peru
+PER,TV,Todos por la Victoria,2001,2001,2001,0.85,1,118,PER TV Todos por la Victoria
+PER,UN,Unidad Nacional,2001,2001,2001,14.4,17,118,PER UN Unidad Nacional
+PER,UNO,Unión Nacional Odriista,1963,1963,1963,18.7,26,139,PER UNO Unión Nacional Odriista
+PER,UPP,Union por el Peru,1995,2001,2001,5.08,6,118,PER UPP Union por el Peru
+PRY,ANR (PC),Associatión Nacional Republicana (Colorado),1978,2003,1978,66.6,40,60,PRY ANR (PC) Associatión Nacional Republicana (Colorado)
+PRY,EN,Encuentro Nacional,1993,1998,1993,11.2,9,80,PRY EN Encuentro Nacional
+PRY,MFA,Movimiento Frente Amplio Paraguayo,2003,2003,2003,0,0,80,PRY MFA Movimiento Frente Amplio Paraguayo
+PRY,MFC,Movimiento Fuerza Ciudadana,2003,2003,2003,0,0,80,PRY MFC Movimiento Fuerza Ciudadana
+PRY,MFDI,Movimiento Fuerza Democrática Independiente,2003,2003,2003,0,0,80,PRY MFDI Movimiento Fuerza Democrática Independiente
+PRY,MPQ,Movimiento Patria Querida,2003,2003,2003,12.5,10,80,PRY MPQ Movimiento Patria Querida
+PRY,PB,Partido Blanco,1998,1998,1998,0,0,80,PRY PB Partido Blanco
+PRY,PDC,Partido Demócrata Cristiano,1998,2003,1998,0,0,80,PRY PDC Partido Demócrata Cristiano
+PRY,PEN,Partido Encuentro Nacional,2003,2003,2003,0,0,80,PRY PEN Partido Encuentro Nacional
+PRY,PH,Partido Humanista,2003,2003,2003,0,0,80,PRY PH Partido Humanista
+PRY,PIA,Partido Independiente de Acción,2003,2003,2003,0,0,80,PRY PIA Partido Independiente de Acción
+PRY,PL,Partido Liberal,1978,1988,1978,6.67,4,60,PRY PL Partido Liberal
+PRY,PLR,Partido Liberal Radical,1978,1989,1978,26.6,16,60,PRY PLR Partido Liberal Radical
+PRY,PLRA,Partido Liberal Radical Autentico,1989,2003,1993,41.2,33,80,PRY PLRA Partido Liberal Radical Autentico
+PRY,PPL,Partido Partia Libre,2003,2003,2003,0,0,80,PRY PPL Partido Partia Libre
+PRY,PPS,Partido País Solidario,2003,2003,2003,2.5,2,80,PRY PPS Partido País Solidario
+PRY,PRF,Partido Revolucionario Febrerista,1989,2003,1989,2.78,2,72,PRY PRF Partido Revolucionario Febrerista
+PRY,UNACE,Unión Nacional de Ciudadanos Éticos,2003,2003,2003,12.5,10,80,PRY UNACE Unión Nacional de Ciudadanos Éticos
+SLV,AD,Partido Accion Democratica,1985,1991,1985,1.67,1,60,SLV AD Partido Accion Democratica
+SLV,AP,,2003,2003,2003,0,0,83,SLV AP NA
+SLV,ARENA,Alianza Republicana Nacional,1985,2003,1988,51.6,31,60,SLV ARENA Alianza Republicana Nacional
+SLV,CD,Convergencia Democratica,1991,1997,1991,9.52,8,84,SLV CD Convergencia Democratica
+SLV,CDU,Centro Democrático Unido,2000,2003,2003,6.02,5,83,SLV CDU Centro Democrático Unido
+SLV,FMLN,Frente Farabundo Martí para la Liberación Nacional,1994,2003,2003,37.3,31,83,SLV FMLN Frente Farabundo Martí para la Liberación Nacional
+SLV,FUDI,Frente Unido Democratico Independiente,1972,1974,1972,1.92,1,52,SLV FUDI Frente Unido Democratico Independiente
+SLV,MAC,Movimiento Autentico Cristiano,1991,1994,1991,1.19,1,84,SLV MAC Movimiento Autentico Cristiano
+SLV,MAS,,1997,1997,1997,0,0,81,SLV MAS NA
+SLV,MNR,Movimiento Nacional Revolucionario,1968,1994,1968,3.85,2,52,SLV MNR Movimiento Nacional Revolucionario
+SLV,MSN,Movimiento de Solidaridad Nacional,1994,1997,1994,0,0,84,SLV MSN Movimiento de Solidaridad Nacional
+SLV,MU,Movimiento de Unidad,1994,1997,1997,1.23,1,81,SLV MU Movimiento de Unidad
+SLV,PAISA,Partido Autentico Institucional Salvadoreno,1985,1985,1985,1.67,1,60,SLV PAISA Partido Autentico Institucional Salvadoreno
+SLV,PAN,Partido Acción Nacional,2000,2003,2000,2.38,2,84,SLV PAN Partido Acción Nacional
+SLV,PAR,Partido Accion Renovadora,1964,1966,1966,7.69,4,52,SLV PAR Partido Accion Renovadora
+SLV,PCN,Partido de Conciliacion Nacional,1964,2003,1978,92.5,50,54,SLV PCN Partido de Conciliacion Nacional
+SLV,PD,Partido Demócrata,1997,1997,1997,0,0,81,SLV PD Partido Demócrata
+SLV,PDC,Partido Democrata Cristiano,1964,2003,1997,8.64,7,81,SLV PDC Partido Democrata Cristiano
+SLV,PFC,Partido Fuerza Cristiana,2003,2003,2003,0,0,83,SLV PFC Partido Fuerza Cristiana
+SLV,PL,Partido Liberacion,1997,1997,1997,0,0,81,SLV PL Partido Liberacion
+SLV,PLD,Partido Liberal Democrático,1997,2000,1997,2.47,2,81,SLV PLD Partido Liberal Democrático
+SLV,PMR,,2003,2003,2003,0,0,83,SLV PMR NA
+SLV,PPL,Partido Popular Laborista,2000,2000,2000,0,0,84,SLV PPL Partido Popular Laborista
+SLV,PPR,,2003,2003,2003,0,0,83,SLV PPR NA
+SLV,PPS,Partido Popular Salvadoreno,1966,1978,1968,7.69,4,52,SLV PPS Partido Popular Salvadoreno
+SLV,PREN,Partido Republicano de Evolucion Nacional,1966,1966,1966,1.92,1,52,SLV PREN Partido Republicano de Evolucion Nacional
+SLV,PRSC,Partido Renovación Social Cristiano,1997,1997,1997,3.7,3,81,SLV PRSC Partido Renovación Social Cristiano
+SLV,PRUD,Partido Revolucionario de Unificacion Democratica,1952,1960,1952,100,54,54,SLV PRUD Partido Revolucionario de Unificacion Democratica
+SLV,PSD,,2003,2003,2003,0,0,83,SLV PSD NA
+SLV,UDN,Union Democratica Nacionalista,1970,1991,1970,1.92,1,52,SLV UDN Union Democratica Nacionalista
+SLV,UNO,Union Nacional Opositora,1972,1974,1974,28.8,15,52,SLV UNO Union Nacional Opositora
+SLV,USC,Unión Social Cristiana,2000,2000,2000,0,0,84,SLV USC Unión Social Cristiana
+TTO,DAC,Democratic Action Congress,1976,1981,1976,5.56,2,36,TTO DAC Democratic Action Congress
+TTO,DLP,Democratic Labour Party,1961,1966,1961,33.3,10,30,TTO DLP Democratic Labour Party
+TTO,NAR,National Alliance for Reconstruction,1986,2000,1986,91.6,33,36,TTO NAR National Alliance for Reconstruction
+TTO,PNM,People's National Movement,1961,2000,1986,8.33,3,36,TTO PNM People's National Movement
+TTO,ULF,United Labour Front,1976,1981,1976,27.7,10,36,TTO ULF United Labour Front
+TTO,UNC,United National Congress,1991,2000,2000,52.7,19,36,TTO UNC United National Congress
+URY,EP,Encuentro Progresista,1999,1999,1999,40.4,40,99,URY EP Encuentro Progresista
+URY,FA,Frente Amplio,1962,1994,1994,31.3,31,99,URY FA Frente Amplio
+URY,FIdeL,Frente Izquierda de Liberación,1962,1966,1966,5.05,5,99,URY FIdeL Frente Izquierda de Liberación
+URY,NE,Nuevo Espacio,1989,1999,1989,9.09,9,99,URY NE Nuevo Espacio
+URY,PC,Partido Colorado,1946,1999,1950,53.5,53,99,URY PC Partido Colorado
+URY,PCU,Partido Comunista Uruguayo,1946,1958,1946,5.05,5,99,URY PCU Partido Comunista Uruguayo
+URY,PDC,Partido Demócrata Cristiano,1962,1966,1962,3.03,3,99,URY PDC Partido Demócrata Cristiano
+URY,PN,Partido Nacional,1946,1999,1958,51.5,51,99,URY PN Partido Nacional
+URY,PNI,Partido Nacional Independiente,1946,1954,1946,9.09,9,99,URY PNI Partido Nacional Independiente
+URY,PS,Partido Socialista,1946,1958,1954,3.03,3,99,URY PS Partido Socialista
+URY,UC,Unión Cívica,1946,1984,1946,5.05,5,99,URY UC Unión Cívica
+URY,UDR,Unión Democrática Reformista,1958,1958,1958,2.02,2,99,URY UDR Unión Democrática Reformista
+VEN,ABP,Alianza Bravo Pueblo,2000,2000,2000,0.61,1,165,VEN ABP Alianza Bravo Pueblo
+VEN,AD-OP,Acción Democrática Oposición,1963,1963,1963,2.79,5,179,VEN AD-OP Acción Democrática Oposición
+VEN,AD,Acción Democrática,1947,2000,1947,75.4,83,110,VEN AD Acción Democrática
+VEN,APN,Apertura y Participación Nacional,1998,1998,1998,1.48,3,203,VEN APN Apertura y Participación Nacional
+VEN,CC,Causa Común,1978,1978,1978,0.5,1,199,VEN CC Causa Común
+VEN,CCN,Cruzada Cívica Nacionalista,1968,1973,1968,9.81,21,214,VEN CCN Cruzada Cívica Nacionalista
+VEN,CN,Convergencia Nacional,1993,2000,1998,2.46,5,203,VEN CN Convergencia Nacional
+VEN,CONIVE,Consejo Nacional Indio de Venezuela,2000,2000,2000,1.82,3,165,VEN CONIVE Consejo Nacional Indio de Venezuela
+VEN,COPEI,Comité de Organización Política Electoral Independiente,1947,2000,1978,42.2,84,199,VEN COPEI Comité de Organización Política Electoral Independiente
+VEN,FDP,Frente Democrático Popular,1963,1968,1963,8.94,16,179,VEN FDP Frente Democrático Popular
+VEN,FND,Frente Nacional Democrático,1968,1968,1968,1.87,4,214,VEN FND Frente Nacional Democrático
+VEN,FORMULA 1,FORMULA 1,1988,1988,1988,1,2,201,VEN FORMULA 1 FORMULA 1
+VEN,IPFN,Independientes Pro Frente Nacional,1963,1963,1963,12.2,22,179,VEN IPFN Independientes Pro Frente Nacional
+VEN,IRENE,"Integración, Renovación y Nueva Esperanza",1998,1998,1998,1.48,3,203,"VEN IRENE Integración, Renovación y Nueva Esperanza"
+VEN,LAPY,,2000,2000,2000,1.82,3,165,VEN LAPY NA
+VEN,LCR,La Causa Radical,1988,2000,2000,3.03,5,165,VEN LCR La Causa Radical
+VEN,LS,Liga Socialista,1978,1983,1978,0.5,1,199,VEN LS Liga Socialista
+VEN,MAN,Movimiento de Acción Nacional,1968,1968,1968,0.47,1,214,VEN MAN Movimiento de Acción Nacional
+VEN,MAS,Movimiento al Socialismo,1973,2000,1988,8.96,18,201,VEN MAS Movimiento al Socialismo
+VEN,MENI,Movimiento Electoral Nacional Independiente,1963,1963,1963,0.56,1,179,VEN MENI Movimiento Electoral Nacional Independiente
+VEN,MEP,Movimiento Electoral del Pueblo,1968,1998,1973,4,8,200,VEN MEP Movimiento Electoral del Pueblo
+VEN,MIGATO,,2000,2000,2000,0.61,1,165,VEN MIGATO NA
+VEN,MIN,Movimiento Integración Nacional,1978,1983,1978,0.5,1,199,VEN MIN Movimiento Integración Nacional
+VEN,MIR,Movimiento Izquierda Revolucionario,1973,1983,1978,2.01,4,199,VEN MIR Movimiento Izquierda Revolucionario
+VEN,MSI,Movimiento Solidaridad Independiente,1998,1998,1998,0.49,1,203,VEN MSI Movimiento Solidaridad Independiente
+VEN,MVR,Movimiento Quinta Republica,1998,2000,2000,46,76,165,VEN MVR Movimiento Quinta Republica
+VEN,,Nueva Alternativa,1983,1983,1983,0.5,1,200,VEN NA Nueva Alternativa
+VEN,NGD,Nueva Generación Democrática,1988,1988,1988,2.99,6,201,VEN NGD Nueva Generación Democrática
+VEN,OPINA,Opinión Nacional,1973,1988,1983,1.5,3,200,VEN OPINA Opinión Nacional
+VEN,ORA,Organización Renovadora Auténtica,1988,1993,1988,1,2,201,VEN ORA Organización Renovadora Auténtica
+VEN,other,other,1947,1998,1998,0.99,2,203,VEN other other
+VEN,PCV,Partido Comunista Venezolano,1947,1998,1958,5.3,7,132,VEN PCV Partido Comunista Venezolano
+VEN,PJ/EM,Movimiento Primero Justicia,2000,2000,2000,3.03,5,165,VEN PJ/EM Movimiento Primero Justicia
+VEN,PNI,Partido Nacional Integracionista,1973,1973,1973,0.5,1,200,VEN PNI Partido Nacional Integracionista
+VEN,POLO,,2000,2000,2000,0.61,1,165,VEN POLO NA
+VEN,PPT,Patria Para Todos,1998,2000,1998,5.42,11,203,VEN PPT Patria Para Todos
+VEN,PRIN,Partido Revolucionario Integración Nacionalista,1968,1968,1968,1.87,4,214,VEN PRIN Partido Revolucionario Integración Nacionalista
+VEN,PSV,Partido Socialista de Venezuela,1963,1968,1963,0.56,1,179,VEN PSV Partido Socialista de Venezuela
+VEN,PUAMA,Pueblo Unido Multietnico de Amazonas,2000,2000,2000,0.61,1,165,VEN PUAMA Pueblo Unido Multietnico de Amazonas
+VEN,PV,Proyecto Venezuela,1998,2000,1998,9.85,20,203,VEN PV Proyecto Venezuela
+VEN,R,Renovación,1998,1998,1998,0.99,2,203,VEN R Renovación
+VEN,RN,Rescate Nacional,2002,2002,2002,0,0,57,VEN RN Rescate Nacional
+VEN,UDH,Unidad por los Derechos Humanos,1998,1998,1998,0.49,1,203,VEN UDH Unidad por los Derechos Humanos
+VEN,UFR,Unión Federal Republicano,1947,1947,1947,2.73,3,110,VEN UFR Unión Federal Republicano
+VEN,UPA,Unión para Avanzar,1968,1968,1968,2.34,5,214,VEN UPA Unión para Avanzar
+VEN,URD,Unión Republicana Democrática,1947,1993,1968,8.41,18,214,VEN URD Unión Republicana Democrática
+VEN,VUC,Vanguardía Unitaria Comunista,1978,1978,1978,0.5,1,199,VEN VUC Vanguardía Unitaria Comunista
