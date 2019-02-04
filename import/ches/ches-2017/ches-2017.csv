@@ -1,0 +1,133 @@
+country,country_iso3,party_id,party_abbrev,party_name,party_name_english,vote,electionyear,year_first,year_last
+GER,DEU,301,CDU,Christlich Democratische Union Deutschlands,Christian Democratic Union of Germany,26.8,2017,2017,2017
+GER,DEU,302,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,20.5,2017,2017,2017
+GER,DEU,303,FDP,Freie Demokratische Partei,Free Democratic Party,10.7,2017,2017,2017
+GER,DEU,304,Grunen,Bündnis ’90; Die Grünen,Alliance 90; The Greens,8.9,2017,2017,2017
+GER,DEU,306,Linke,Die Linke,The Left,9.2,2017,2017,2017
+GER,DEU,308,CSU,Christlich Soziale Union in Bayern,Christian Social Union in Bavaria,6.2,2017,2017,2017
+GER,DEU,310,AfD,Alternative für Deutschland,Alternative for Germany,12.6,2017,2017,2017
+GER,DEU,350,LKR,Liberal-Konservative Reformer,Liberal Conservative Party,NA,2017,2017,2017
+GER,DEU,351,BLAU,Die Blaue Partei,The Blue Party,NA,2017,2017,2017
+GR,GRC,401,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,5.9,2015,2017,2017
+GR,GRC,402,ND,Néa Dimokratía,New Democracy,28.1,2015,2017,2017
+GR,GRC,403,SYRIZA,Synaspismó’s Rizospastikís Aristerás,Coalition of the Radical Left,35.5,2015,2017,2017
+GR,GRC,404,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,5.6,2015,2017,2017
+GR,GRC,412,ANEL,Anexartitoi Ellines,Independent Greeks,3.7,2015,2017,2017
+GR,GRC,413,Potami,To Potami,The River,4.1,2015,2017,2017
+GR,GRC,414,DIMAR,Dimokratiki Aristera,Democratic Left,0.4,2015,2017,2017
+GR,GRC,415,XA,Laïkós Sýndesmos—Chrysí Avgí,Popular Association- Golden Dawn,7,2015,2017,2017
+GR,GRC,450,EK,Enosi Kentroon,Union of Centrists,3.4,2015,2017,2017
+ESP,ESP,501,PSOE,Partido Socialista Obrero Español,Spanish Socialist Workers’ Party,22.6,2016,2017,2017
+ESP,ESP,502,PP,Partido Popular,People’s Party,33,2016,2017,2017
+ESP,ESP,504,IU,Izquierda Unida,United Left,2.3,2016,2017,2017
+ESP,ESP,506,EAJ/PNV,Euzko Alderdi Jeltzalea/ Partido Nacionalista Vasco,Basque Nationalist Party,1.2,2016,2017,2017
+ESP,ESP,507,EA/EH BILDU,Eusko Alkartasuna/ Euskal Herria Bildu,Basque Solidarity/Basque Country Unite,0.8,2016,2017,2017
+ESP,ESP,511,ERC-CatSI,Esquerra Republicana de Catalunya,Republican Left of Catalonia,2.7,2016,2017,2017
+ESP,ESP,517,CC,Coalición Canaria,Coalición Canaria,0.3,2016,2017,2017
+ESP,ESP,525,Podemos,Podemos,We Can,18.9,2016,2017,2017
+ESP,ESP,526,C’s,Ciudadanos- Partido de la Ciudadanía,Citizens- Party of the Citizenry,13.1,2016,2017,2017
+ESP,ESP,550,CDC/PDeCAT,Convergència Democràtica de Catalunya/ Partit Demòcrata Europeu Català,Democratic Convergence of Catalonia/ Catalan European Democratic Party,2,2016,2017,2017
+FR,FRA,601,PCF,Parti Communiste Français,French Communist Party,2.7,2017,2017,2017
+FR,FRA,602,PS,Parti Socialiste,Socialist Party,7.4,2017,2017,2017
+FR,FRA,605,EELV,Europe Ecologie Les Verts,Europe Ecology—The Greens,4.3,2017,2017,2017
+FR,FRA,609,LR,Les Républicains,The Republicans,15.8,2017,2017,2017
+FR,FRA,610,FN,Front National,National Front,13.2,2017,2017,2017
+FR,FRA,613,MODEM,Mouvement Démocrate,Democratic Movement,4.1,2017,2017,2017
+FR,FRA,621,NC,Nouveau Centre,New Center,NA,2017,2017,2017
+FR,FRA,626,LREM,La République en Marche,The Republic on the Move,28.2,2017,2017,2017
+FR,FRA,627,Insoumis,La France Insoumise,France Unbowed,11,2017,2017,2017
+FR,FRA,628,DLF,Debout la France,France Arise,1.2,2017,2017,2017
+IT,ITA,811,LN,Lega Nord,Northern League,4.1,2013,2017,2017
+IT,ITA,814,UDC,Unione de Centro,Union of the Centre,1.8,2013,2017,2017
+IT,ITA,815,FI,Forza Italia,Forward Italy,21.6,2013,2017,2017
+IT,ITA,827,SVP,Südtiroler Volkspartei,South Tyrolean People’s Party,0.4,2013,2017,2017
+IT,ITA,837,PD,Partido Democratico,Democratic Party,25.4,2013,2017,2017
+IT,ITA,843,CD,Centro Democratico—Diritti e Libertá,Democratic Centre,0.5,2013,2017,2017
+IT,ITA,844,FdI,Fratelli d’Italia,Brothers of Italy,2,2013,2017,2017
+IT,ITA,845,M5S,Movimento Cinque Stelle,Five Star Movement,25.6,2013,2017,2017
+IT,ITA,847,VdA,Vallée d’Aoste,Aosta Valley,0,2013,2017,2017
+IT,ITA,850,SI,Sinistra Italiana,Italian Left,NA,2013,2017,2017
+IT,ITA,851,MDP,Progressista,Democratic and Progressive Movement,NA,2013,2017,2017
+IT,ITA,852,AP,Alternative Popolare,Popular Alternative,NA,2013,2017,2017
+NL,NLD,1001,CDA,Christen-Democratisch Appel,Christian Democratic Appeal,12.4,2017,2017,2017
+NL,NLD,1002,PvdA,Partij van de Arbeid,Labour Party,5.7,2017,2017,2017
+NL,NLD,1003,VVD,Volkspartij voor Vrijheid en Demokratie,People’s Party for Freedom and Democracy,21.3,2017,2017,2017
+NL,NLD,1004,D66,Democraten 66,Democrats 66,12.2,2017,2017,2017
+NL,NLD,1005,GL,GroenLinks,GreenLeft,9.1,2017,2017,2017
+NL,NLD,1006,SGP,Staatkundig Gereformeerde Partij,Political Reformed Party,2.1,2017,2017,2017
+NL,NLD,1014,SP,Socialistische Partij,Socialist Party,9.1,2017,2017,2017
+NL,NLD,1016,CU,ChristenUnie,Christian Union,3.4,2017,2017,2017
+NL,NLD,1017,PVV,Partij voor de Vrijheid,Party for Freedom,13.1,2017,2017,2017
+NL,NLD,1018,PvdD,Partij voor de Dieren,Party for the Animals,3.2,2017,2017,2017
+NL,NLD,1020,50PLUS,50PLUS,50PLUS,3.1,2017,2017,2017
+NL,NLD,1050,Denk,Denk,Think/Equality,2.1,2017,2017,2017
+NL,NLD,1051,FvD,Forum voor Democratie,Forum for Democracy,1.8,2017,2017,2017
+UK,GBR,1101,Cons,Conservative Party,Conservative Party,42.4,2017,2017,2017
+UK,GBR,1102,Lab,Labour Party,Labour Party,40,2017,2017,2017
+UK,GBR,1104,LibDem,Liberal Democratic Party,Liberal Democratic Party,7.4,2017,2017,2017
+UK,GBR,1105,SNP,Scottish National Party,Scottish National Party,3,2017,2017,2017
+UK,GBR,1106,Plaid,Plaid Cymru,Party of Wales,0.5,2017,2017,2017
+UK,GBR,1107,Greens,Green Party,Green Party,1.6,2017,2017,2017
+UK,GBR,1108,UKIP,UK Independence Party,UK Independence Party,1.8,2017,2017,2017
+UK,GBR,1150,SF,Sinn Féin,Ourselves,0.7,2017,2017,2017
+UK,GBR,1151,DUP,Democratic Unionist Party,Democratic Unionist Party,0.9,2017,2017,2017
+POR,PRT,1201,CDU/PCP- PEV,Coligação Democrática Unitária,Democratic Unitarian Coalition,8.6,2015,2017,2017
+POR,PRT,1202,CDS-PP,Partido Popular,People’s Party,6.7,2015,2017,2017
+POR,PRT,1205,PS,Partido Socialista,Socialist Party,33.6,2015,2017,2017
+POR,PRT,1206,PSD,Partido Social Democrata,Social Democratic Party,33.1,2015,2017,2017
+POR,PRT,1208,BE/O Bloco,Bloco de Esquerda,Left Bloc,10.6,2015,2017,2017
+POR,PRT,1209,MPT,Partido da Terra,Earth Party,0.4,2015,2017,2017
+POR,PRT,1250,PAN,Pessoas-Animais-Natureza,People-Animals-Nature,1.4,2015,2017,2017
+POR,PRT,1251,PDR,Partido Democratico Republicano,Democratic Republican Party,1.1,2015,2017,2017
+SV,SWE,1601,V,Vänsterpartiet,Left Party,5.7,2014,2017,2017
+SV,SWE,1602,SAP,Sveriges Socialdemokratiska Arbetareparti,Swedish Social Democratic Party,31,2014,2017,2017
+SV,SWE,1603,C,Centerpartiet,Center Party,6.1,2014,2017,2017
+SV,SWE,1604,FP,Folkpartiet Liberalna,Liberal People’s Party,5.4,2014,2017,2017
+SV,SWE,1605,M,Moderata Samlingspartiet,Moderate Party,23.3,2014,2017,2017
+SV,SWE,1606,KD,Kristdemokraternah,Christian Democrats,4.6,2014,2017,2017
+SV,SWE,1607,MP,Miljöepartiet de Gröna,Environment Party— The Greens,6.9,2014,2017,2017
+SV,SWE,1610,SD,Sverigedemokraterna,Sweden Democrats,12.9,2014,2017,2017
+SV,SWE,1611,PIRAT,Piratpartiet,Pirate Party,0.4,2014,2017,2017
+SV,SWE,1612,FI,Feministiskt Initiativ,Feminist Initiative,3.1,2014,2017,2017
+CZ,CZE,2101,CSSD,Česká strana sociálne demokratická,Czech Social Democratic Party,7.3,2017,2017,2017
+CZ,CZE,2102,ODS,Obcanská Demokratická Strana,Civic Democratic Party,11.3,2017,2017,2017
+CZ,CZE,2103,KSCM,Komunistická strana Cech a Moravy,Communist Party of Bohemia and Moravia,7.8,2017,2017,2017
+CZ,CZE,2104,KDU-CSL,Kresťanská demokratická unie - Československá strana lidová,Christian Democratic Union—Czechoslovak People’s Party,5.8,2017,2017,2017
+CZ,CZE,2109,TOP09,TOP09,TOP09,5.3,2017,2017,2017
+CZ,CZE,2111,ANO2011,"ANO2011, Akce nespokojených občanů","ANO2011, Action of Dissatisfied Citizens",29.6,2017,2017,2017
+CZ,CZE,2114,Pirates,Pirátská strana,Pirate Party,10.8,2017,2017,2017
+CZ,CZE,2115,SPD,Svoboda a přímá demokracie,Freedom and Direct Democracy,10.6,2017,2017,2017
+CZ,CZE,2116,STAN,Starostové a nezávislí,Mayors and Independents,5.2,2017,2017,2017
+EST,EST,2201,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,13.7,2015,2017,2017
+EST,EST,2202,EK,Eesti Keskerakond,Estonian Center Party,24.8,2015,2017,2017
+EST,EST,2203,ER,Eesti Reformierakond,Estonian Reform Party,27.7,2015,2017,2017
+EST,EST,2204,SDE,Sotsiaaldemokraatlik Erakond,Social Democratic Party,15.2,2015,2017,2017
+EST,EST,2208,EVE,Eesti Vabaerakond,Estonian Free Party,8.7,2015,2017,2017
+EST,EST,2209,EKRE,Eesti Konservatiivne Rahvaerakond,Conservative People’s Party of Estonia,8.2,2015,2017,2017
+HUN,HUN,2301,MSzP,Magyar Szocialista Párt,Hungarian Socialist Party,19.5,2014,2017,2017
+HUN,HUN,2302,Fidesz,Fidesz – Magyar Polgári Szövetség,Fidesz- Hungarian Civic Union,39.5,2014,2017,2017
+HUN,HUN,2308,JOBBIK,Jobbik Magyarországért Mozgalom,Jobbik- Movement for a Better Hungary,20.2,2014,2017,2017
+HUN,HUN,2309,LMP,Lehet Más a Politika,Politics Can Be Different,5.3,2014,2017,2017
+HUN,HUN,2310,E14,Együtt – A Korszakváltók Pártja,Together-Party for a New Era,2.1,2014,2017,2017
+HUN,HUN,2311,DK,Demokratikus Koalíció,Democratic Coalition,2.7,2014,2017,2017
+HUN,HUN,2312,PM,Párbeszéd Magyarországért,Dialogue for Hungary,0.7,2014,2017,2017
+HUN,HUN,2313,MLP,Magyar Liberális Párt (Liberálisok),Hungarian Liberal Party,0.7,2014,2017,2017
+POL,POL,2601,SLD,Sojusz Lewicy Demokratycznej,Democratic Left Alliance,1.9,2015,2017,2017
+POL,POL,2603,PO,Platforma Obywatelska,Civic Platform,24.1,2015,2017,2017
+POL,POL,2605,PiS,Prawo i Sprawiedliwosc,Law and Justice Party,37.6,2015,2017,2017
+POL,POL,2606,PSL,Polskie Stronnictwo Ludowe,Polish People’s Party,5.1,2015,2017,2017
+POL,POL,2613,TR,Twoj Ruch (Ruch Palikota),Your Movement (Palikot's Movement),1.9,2015,2017,2017
+POL,POL,2617,Kukiz,Kukiz’15,Kukiz’15,8.8,2015,2017,2017
+POL,POL,2618,Novo,Nowoczesna,Modern,7.6,2015,2017,2017
+POL,POL,2619,Korwin,Wolnosc (Korwin-Mikke),Liberty (Korwin- Mikke),4.8,2015,2017,2017
+POL,POL,2620,Razem,Partia Razem,Together Party,3.6,2015,2017,2017
+SLO,SVK,2803,Smer,Smer–sociálna demokracia,Direction- Social Democracy,28.3,2016,2017,2017
+SLO,SVK,2804,SMK-MDP,Strana maďarskej komunity,Party of the Hungarian Community,4.1,2016,2017,2017
+SLO,SVK,2805,KDH,Kresťanskodemokratické hnutie,Christian Democratic Movement,4.9,2016,2017,2017
+SLO,SVK,2809,SNS,Slovenská národná strana,Slovak National Party,8.6,2016,2017,2017
+SLO,SVK,2812,SaS,Sloboda a Solidarita,Freedom and Solidarity,12.1,2016,2017,2017
+SLO,SVK,2813,Most-Híd,Most–Híd,Bridge,6.5,2016,2017,2017
+SLO,SVK,2814,OlaNO- NOVA,Obyčajní Ľudia a nezávislé osobnosti-NOVA,Ordinary People and Independent Personalities-NOVA,11,2016,2017,2017
+SLO,SVK,2816,Siet,Siet’,Network,5.6,2016,2017,2017
+SLO,SVK,2817,Kotleba LSNS,Ľudová strana – Naše Slovensko (Marian Kotleba),People’s Party- Our Slovakia,8,2016,2017,2017
+SLO,SVK,2818,Sme Rodina,Sme Rodina,We Are Family,6.6,2016,2017,2017
