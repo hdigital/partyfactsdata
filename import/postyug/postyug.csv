@@ -1,0 +1,149 @@
+country,name_short,name_english,name,partyfacts_id,year_first,year_last,share_max,share_year,party_id
+BIH,UBIHSD,Union of Social Democrats of Bosnia and Herzegovina,Unija bosansko-hercegovačkih socijaldemokrata,5747,1996,1998,5.68,1996,BIH-UBIHSD
+BIH,SDP BIH,Social Democratic Party of BIH,Socijaldemokratska partija BIH,537,1996,2002,15.8,2000,BIH-SDP BIH
+BIH,SDA,Party of Democratic Action,Stranka demokratske akcije,1454,1996,2002,37.5,1996,BIH-SDA
+BIH,SDS,Serb Democratic Party,Srpska demokratska stranka,1166,1996,2002,24.11,1996,BIH-SDS
+BIH,HDZ BIH,Croatian Democratic Union of BIH,Hrvatska demokratska zajednica,1760,1996,2002,14.1,1996,BIH-HDZ BIH
+BIH,NSSM,People's Alliance for Free Peace,Narodni savez za slobodan mir,5757,1996,1996,5.67,1996,BIH-NSSM
+BIH,SBIH,Party for Bosnia and Herzegovina,Stranka za Bosnu i Hercegovinu,357,1996,2002,9.4,2002,BIH-SBIH
+BIH,LDS,Liberal Democratic Party of Bosnia and Herzegovina,Liberalno demokratska stranka Bosne i Hercegovine,5478,1998,1998,,,BIH-LDS
+BIH,GDS,Civic Democratic Party,Građanska demokratska stranka,5464,1998,1998,,,BIH-GDS
+BIH,SNSRS,Serbian People's Alliance of Republika Srpska,Srpski narodni savez Republike Srpske,5479,1998,1998,13.8,1998,BIH-SNSRS
+BIH,SPRS,Socialist Party of the Republika Srpska,Socijalistička partija Republike Srpske,998,1998,1998,,,BIH-SPRS
+BIH,SNSD,Alliance of Independent Socal Democrats,Savez nezavisnih socijaldemokrata,292,1998,2002,9.3,2002,BIH-SNSD
+BIH,SRSRS,Serbian Radical Party of the Republika Srpska,Srpska radikalna stranka Republike Srpske,1222,1998,1998,7.6,1998,BIH-SRSRS
+BIH,PDP,Party of Democratic Progress,Partija demokratskog progresa,1673,2000,2002,6.4,2000,BIH-PDP
+BIH,HDZ BIH,Croatian Democratic Union of BIH,Hrvatska demokratska zajednica BIH,1760,2006,2014,12.5,2014,BIH-FED-HDZ BIH
+BIH,HDZ1990,Croatian Democratic Union 1990,Hrvatska demokratska zajednica 1990,3168,2006,2010,6.1,2006,BIH-FED-HDZ1990
+BIH,SDA,Party of Democratic Action,Stranka demokratske akcije,1454,2006,2014,27.87,2014,BIH-FED-SDA
+BIH,SBIH,Party for Bosnia and Herzegovina,Stranka za Bosnu i Hercegovinu,357,2006,2010,22.99,2006,BIH-FED-SBIH
+BIH,SDP BIH,Social Democratic Party of BIH,Socijaldemokratska partija BIH,537,2006,2014,26.07,2010,BIH-FED-SDP BIH
+BIH,HSP BIH,Croatian Party of Rights BIH,Hrvatska stranka prava BIH,1128,2010,2010,,,BIH-FED-HSP BIH
+BIH,SBB,Union for a Better Future of BIH,Savez za bolju budućnost BiH,3171,2010,2014,14.44,2014,BIH-FED-SBB
+BIH,DF,Democratic Front,Demokratska fronta,4717,2014,2014,15.33,2014,BIH-FED-DF
+BIH,SNSD,Alliance of Independent Socal Democrats,Savez nezavisnih socijaldemokrata,292,2006,2014,46.93,2006,BIH-RS-SNSD
+BIH,SDS,Serb Democratic Party,Srpska demokratska stranka,1166,2006,2014,32.67,2014,BIH-RS-SDS
+HRV,HSS,Croatian Peasant Party,Hrvatska seljačka stranka,72,2000,2007,15.6,2000,HRV-HSS
+HRV,IDS,Istrian Democratic Assembly,Istarski demokratski sabor,513,2000,2016,2.18,2016,HRV-IDS
+HRV,HNS,Croatian People's Party -- Liberal Democrats,Hrvatska narodna stranka – Liberalni demokrati,799,2000,2015,8.3,2003,HRV-HNS
+HRV,LS,Liberal Party,Liberalna stranka,381,2000,2003,,,HRV-LS
+HRV,SDP,Social Democratic Party of Croatia,Socijaldemokratska partija Hrvatske,1475,2000,2016,41.08,2011,HRV-SDP
+HRV,HSLS,Croatian Social Liberal Party,Hrvatska socijalno liberalna stranka,214,2000,2015,4.1,2003,HRV-HSLS
+HRV,PGS,Alliance of Primorje-Gorski,Primorsko goranski savez,3133,2000,2000,,,HRV-PGS
+HRV,HDZ,Croatian Democratic Union,Hrvatska demokratska zajednica,1431,2000,2016,35.9,2007,HRV-HDZ
+HRV,HSP,Croatian Party of Rights,Hrvatska stranka prava,253,2000,2007,6.5,2003,HRV-HSP
+HRV,LIBRA,Party of Liberal Democrats,LIBRA – Stranka liberalnih demokrata,3140,2003,2003,,,HRV-LIBRA
+HRV,HSU,Croatian Party of Pensioners,Hrvatska stranka umirovljenika,2062,2003,2015,4.1,2003,HRV-HSU
+HRV,SDSS,Independent Democratic Serb Party,Samostalna demokratska srpska stranka,2348,2003,2007,1.5,2007,HRV-SDSS
+HRV,HDSSB,Croatian Democratic Alliance of Slavonia and Baranja,Hrvatski demokratski savez Slavonije i Baranje,2347,2007,2015,2.96,2011,HRV-HDSSB
+HRV,HGS,Croatian Civic Party,Hrvatska građanska stranka,3139,2011,2011,,,HRV-HGS
+HRV,CL-LP,Croatian Labourists -- Labour Party,Hrvatski laburisti – Stranka rada,3143,2011,2015,4.19,2011,HRV-CL-LP
+HRV,I-IG,Independent List -- PhD Ivan Grubisic,Neovisna lista – dr.sc. Ivan Grubišić,2523,2011,2011,1.25,2011,HRV-I-IG
+HRV,MB,Milan Bandic 365 -- The Party of Labour and Solidarity,Milan Bandić 365 – Stranka rada i solidarnosti,5452,2015,2016,3.84,2016,HRV-MB
+HRV,HSP-AS,Croatian Party of Rights -- Dr. Ante Starcevic,Hrvatska stranka prava dr. Ante Starčević,3706,2015,2015,,,HRV-HSP-AS
+HRV,Most,Bridge of Independent Lists,Most nezavisnih lista,4865,2015,2016,13.42,2015,HRV-Most
+HRV,ZiZi,Human Shield,Živi zid,4867,2015,2016,5.92,2016,HRV-ZiZi
+XKX,LDD,Democratic League of Dardania,Lidhja Demokratike e Dardanisë,3704,2007,2007,10,2007,KOS-LDD
+XKX,PSHDK,Albanian Christian Democratic Party of Kosovo,Partia Shqiptare Demokristiane e Kosovës,5501,2007,2007,,,KOS-PSHDK
+XKX,PDK,Democratic party of Kosovo,Partia Demokratike e Kosovës,2294,2007,2014,34.3,2007,KOS-PDK
+XKX,LDK,Democratic League of Kosovo,Lidhja Demokratike e Kosovës,2295,2007,2014,25.24,2014,KOS-LDK
+XKX,AKR,New Kosovo Alliance,Aleanca Kosova e Re,3703,2007,2010,12.3,2007,KOS-AKR
+XKX,AAK,Alliance for the Future of Kosovo,Aleanca për Ardhmërinë e Kosovës,3243,2007,2014,11.04,2010,KOS-AAK
+XKX,PD,Justice Party,Partia e Drejtësisë,5497,2010,2014,,,KOS-PD
+XKX,PSD,Social Democratic Party,Partia Social Demokrate,5500,2010,2010,,,KOS-PSD
+XKX,VV,Movement Self-determination,Levizja Vetëvendosje!,2296,2010,2014,13.59,2014,KOS-VV
+XKX,SLS,Independent Liberal Party,Samostalna liberalna stranka,3249,2010,2010,2.05,2010,KOS-SLS
+XKX,LB,Movement for Unification,Lëvizja për Bashkim,5498,2014,2014,,,KOS-LB
+XKX,SL,Serbian List,Srpska lista,5499,2014,2014,5.22,2014,KOS-SL
+XKX,NISMA,Initiative for Kosovo,Nisma për Kosovën,4765,2014,2014,5.15,2014,KOS-NISMA
+MKD,PDP,Party for Democratic Prosperity,Partija za demokratski prosperitet,1033,1990,2006,19.26,1998,MKD-PDP
+MKD,NDP,People's Democratic Party,Narodna demokratska partija,155,1990,1994,4.1,1994,MKD-NDP
+MKD,MDPS,Young Democratic - Progressive Party,Mlada demokratsko-progresivna stranka,502,1990,1990,3.9,1990,MKD-MDPS
+MKD,VMRO-DPMNE,Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity,Vnatrešna makedonska revolucionerna organizacija - Demokratska partija za makedonsko nacionalno edinstvo,1674,1990,2016,48.78,2008,MKD-VMRO-DPMNE
+MKD,SKM,League of Communists of Macedonia,Sojuz na komunistite na Makedonija,5764,1990,1990,27.7,1990,MKD-SKM
+MKD,SRS,Union of Reform Forces,Sojuz na reformski sili,5765,1990,1990,16.1,1990,MKD-SRS
+MKD,SPM,Socialist Party of Macedonia,Socijalistička partija na Makedonija,724,1990,2016,4.6,1990,MKD-SPM
+MKD,SDSM,Social Democratic Union of Macedonia,Socijaldemokratski sojuz na Makedonija,1508,1994,2016,53.5,1994,MKD-SDSM
+MKD,LP,Liberal Party of Macedonia,Liberalna partija na Makedonija,2449,1994,2006,3.5,1994,MKD-LP
+MKD,LDP,Liberal Democratic Party,Liberalno demokratska partija,171,1998,2008,6.99,1998,MKD-LDP
+MKD,DPA,Democratic Party of Albanians,Demokratska partija na Albancite,431,1998,2016,8.26,2008,MKD-DPA
+MKD,DA,Democratic Alternative,Demokratska alternativa,354,1998,1998,10.73,1998,MKD-DA
+MKD,TDP,Turkish Democratic Party,Demokratska partija na Turcite,5660,2002,2006,,,MKD-TDP
+MKD,DUI,Democratic Union for Integration,Demokratska unija za integracija,1220,2002,2016,14.19,2014,MKD-DUI
+MKD,NSDP,New Social Democratic Party,Nova socijaldemokratska Partija,2447,2006,2014,6.1,2006,MKD-NSDP
+MKD,PEI,Party for a European Future,Partija za Evropska Idnina,4545,2011,2011,,,MKD-PEI
+MKD,RDK,National Democratic Revival,Nacionalna demokratska prerodba,3179,2011,2016,2.95,2016,MKD-RDK
+MKD,GROM,Citizen Option for Macedonia,Građanska opcija za Makedonija,5760,2014,2014,2.92,2014,MKD-GROM
+MKD,UNITETI,Unity,Uniteti,5759,2016,2016,,,MKD-UNITETI
+MKD,BESA,Besa Movement,Dviženje Besa,5585,2016,2016,4.86,2016,MKD-BESA
+MNE,SDACG,Party of Democratic Action of Montenegro,Stranka demokratske akcije Crne Gore,3103,1990,1996,10.09,1990,MNE-SDACG
+MNE,SKCG,League of Communists of Montenegro,Savez komunista Crne Gore,5488,1990,1990,56.18,1990,MNE-SKCG
+MNE,SRSJ,Union of Reform Forces of Yugoslavia for Montenegro,Savez reformskih snaga Jugoslavije za Crnu Goru,4079,1990,1990,14.05,1990,MNE-SRSJ
+MNE,NS,People's Party,Narodna stranka,3645,1990,2006,24.91,1996,MNE-NS
+MNE,DPS,Democratic Party of Socialists of Montenegro,Demokratska partija socijalista Crne Gore,3162,1992,2016,51.94,2009,MNE-DPS
+MNE,LSCG,Liberal Alliance of Montenegro,Liberalni savez Crne Gore,3164,1992,2002,12.04,1992,MNE-LSCG
+MNE,SRSCG,Serbian Radical Party of Montenegro,Srpska radikalna stranka Crne Gore,3161,1992,1992,7.56,1992,MNE-SRSCG
+MNE,SDPCG,Social Democratic Party of Reformists of Montenegro,Socijaldemokratska partija reformista Crne Gore,3185,1992,2016,5.23,2016,MNE-SDPCG
+MNE,SNPCG,Socialist People's Party of Montenegro,Socijalistička narodna partija Crne Gore,3104,1998,2016,40.56,2001,MNE-SNPCG
+MNE,SNS,Serb People's Party,Srpska narodna stranka,5486,2001,2006,14.68,2006,MNE-SNS
+MNE,LPCG,Liberal Party of Montenegro,Liberalna partija Crne Gore,4768,2006,2006,3.76,2006,MNE-LPCG
+MNE,BP,Bosniak Party,Bošnjačka stranka,3255,2006,2016,4.17,2012,MNE-BP
+MNE,DSS,Democratic Serb Party,Demokratska srpska stranka,5487,2006,2006,,,MNE-DSS
+MNE,PZP,Movement for Changes,Pokret za promjene,4766,2006,2016,22.82,2012,MNE-PZP
+MNE,NOVA,New Serb Democracy,Nova srpska demokratija,3252,2009,2016,20.32,2016,MNE-NOVA
+MNE,PCG,Positive Montenegro,Pozitivna Crna Gora,4767,2012,2012,8.24,2012,MNE-PCG
+MNE,DNP,Democratic People's Party of Montenegro,Demokratska narodna partija Crne Gore,5465,2016,2016,,,MNE-DNP
+MNE,DEMOS,Democratic Alliance,Demokratski savez,5467,2016,2016,11.05,2016,MNE-DEMOS
+MNE,URA,United Reformist Action,Ujedinjena reformska akcija,5468,2016,2016,,,MNE-URA
+MNE,DCG,Democratic Montenegro,Demokratska Crna Gora,5469,2016,2016,10.01,2016,MNE-DCG
+MNE,SDCG,Social Democrats of Montenegro,Socijaldemokrate Crne Gore,5470,2016,2016,3.26,2016,MNE-SDCG
+SRB,SPS,Socialist Party of Serbia,Socijalistička partija Srbije,2178,1990,2016,46.09,1990,SER-SPS
+SRB,SPO,Serbian Renewal Movement,Srpski pokret obnove,2176,1990,2014,19.21,1997,SER-SPO
+SRB,DS,Democratic Party,Demokratska stranka,2189,1990,2016,38.4,2008,SER-DS
+SRB,DZVM,Democratic community of Hungarians in Vojvodina,Demokratska zajednica vojvođanskih Mađara,2186,1990,1993,2.98,1992,SER-DZVM
+SRB,DSS,Democratic Party of Sebia,Demokratska stranka Srbije,2190,1992,2016,17.72,2003,SER-DSS
+SRB,SLS,Serbian Liberal Party,Srpska liberalna stranka,5404,1992,1993,,,SER-SLS
+SRB,ND,New Democracy,Nova demokratija,2197,1992,1993,,,SER-ND
+SRB,SRS,Serbian Radical Party,Srpska radikalna stranka,2175,1992,2016,29.45,2008,SER-SRS
+SRB,GSS,Civic Alliance of Serbia,Građanski savez Srbije,2202,1993,2007,,,SER-GSS
+SRB,NSS,People's Peasant Party,Narodna seljačka stranka,5405,1993,1993,,,SER-NSS
+SRB,JUL,Yugoslav Left,Jugoslovenska levica,2183,1997,1997,,,SER-JUL
+SRB,KV,Vojvodina Coalition,Koalicija Vojvodina,2182,1997,1997,2.72,1997,SER-KV
+SRB,DOS,Democratic Oposition of Serbia,Demokratska opozicija Srbije,2188,2000,2000,64.08,2000,SER-DOS
+SRB,SSJ,Party of Serbian Unity,Stranka Srpskog jedinstva,5399,2000,2000,5.33,2000,SER-SSJ
+SRB,NS,New Serbia,Nova Srbija,2346,2003,2016,,,SER-NS
+SRB,G17+,G17 plus,G17 plus,2193,2003,2007,11.46,2003,SER-G17+
+SRB,LDP,Liberal Democrat Party,Liberalno-demokratska Partija,2196,2007,2016,6.53,2012,SER-LDP
+SRB,LSV,League of Vojvodina Social Democrats,Liga socijaldemokrata Vojvodine,4769,2007,2016,,,SER-LSV
+SRB,PUPS,Party of United Pensioners of Serbia,Partija ujedinjenih penzionera Srbije,2179,2008,2016,,,SER-PUPS
+SRB,JS,United Serbia,Jedinstvena Srbija,5378,2008,2016,,,SER-JS
+SRB,SNS,Forward Serbia,Napred Srbijo,3177,2008,2016,48.35,2014,SER-SNS
+SRB,URS,United Regions of Serbia,Ujedinjeni regioni Srbije,2181,2012,2012,5.51,2012,SER-URS
+SRB,NDS,New Democratic Party,Nova demokratska stranka,4770,2014,2014,5.7,2014,SER-NDS
+SRB,SDP,Social Democratic Party of Serbia,Socijaldemokratska partija Srbije,4771,2014,2016,,,SER-SDP
+SRB,PS,Movement of Socialists,Pokret socijalista,5377,2014,2016,,,SER-PS
+SRB,SVM,Alliance of Vojvodina Hungarians,Savez Vojvođanskih Mađara,2203,2014,2014,2.1,2014,SER-SVM
+SRB,SPD,Dveri,Dveri,4134,2016,2016,5.04,2016,SER-SPD
+SRB,SDS,Social Democratic Party,Socijaldemokratska stranka,4770,2016,2016,5.02,2016,SER-SDS
+SRB,DJB,It's Enough,Dosta je bilo,5379,2016,2016,6.02,2016,SER-DJB
+SVN,ZL-SD,United List -- Social Democrats,Združena lista – Socialni demokrati,1403,1990,2014,30.45,2008,SVN-ZL-SD
+SVN,LDS,Liberal Democracy of Slovenia,Liberalna demokracija Slovenije,975,1990,2008,36.26,2000,SVN-LDS
+SVN,NSI,New Slovenia -- Christian People's Party,Nova Slovenija – Kršćanska ljudska stranka,1618,1990,2014,14.51,1992,SVN-NSI
+SVN,SLS,Slovenian People's Party,Slovenska ljudska stranka,764,1990,2011,19.38,1996,SVN-SLS
+SVN,SDZ,Slovenian Democratic Union,Slovenska demokratična zveza,761,1990,1990,9.5,1990,SVN-SDZ
+SVN,ZS,Greens of Slovenia,Zeleni Slovenije,1494,1990,1992,8.8,1990,SVN-ZS
+SVN,SDS,Slovenian Democratic Party,Slovenska demokratska stranka,472,1990,2014,29.26,2008,SVN-SDS
+SVN,SSS,Socialist Party of Slovenia,Socialistična stranka Slovenije,1037,1990,1990,5.4,1990,SVN-SSS
+SVN,SOS,Slovenian Liberal Party,Slovenska obrtniška stranka,1188,1990,1990,3.5,1990,SVN-SOS
+SVN,SNS,Slovenian National Party,Slovenska nacionalna stranka,96,1992,2008,10.02,1992,SVN-SNS
+SVN,DS,Democratic Party,Demokratska stranka,1479,1992,1992,5.01,1992,SVN-DS
+SVN,Ita,Italian national community,Italijanska narodna skupnost,84,1992,2011,,,SVN-Ita
+SVN,Mad,Hungarian national community,Madžarska narodna skupnost,1399,1992,2011,,,SVN-Mad
+SVN,DeSUS,Democratic Party of Pensioners of Slovenia,Demokratična stranka upokojencev Slovenije,467,1996,2014,10.18,2014,SVN-DeSUS
+SVN,SMS,Youth Party of Slovenia,Stranka mladih Slovenije,1401,2000,2000,4.34,2000,SVN-SMS
+SVN,Zares,For Real,Zares,474,2008,2008,9.37,2008,SVN-Zares
+SVN,LZJ-PS,Zoran Jankovic's List -- Positive Slovenia,Lista Zorana Jankovića – Pozitivna Slovenija,1773,2011,2011,28.51,2011,SVN-LZJ-PS
+SVN,DL,Civic List,Državljanska lista,98,2011,2011,8.37,2011,SVN-DL
+SVN,SMC,Party of Miro Cerar,Stranka Mira Cerarja,3098,2014,2014,34.49,2014,SVN-SMC
+SVN,ZdLe,United Left,Združena levica,4714,2014,2014,5.97,2014,SVN-ZdLe
+SVN,ZaAB,Alliance of Alenka Bratusek,Zavezništvo Alenke Bratušek,3114,2014,2014,4.38,2014,SVN-ZaAB
