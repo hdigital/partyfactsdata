@@ -1,0 +1,579 @@
+country,year_first,year_last,share_year,share,seats,seats_total,name,name_short,country_name,party_id
+AGO,2012,2012,2012,6,8,220,Broad Convergence for the Salvation of Angola-Electoral Coalition,CASA-CE,Angola,AGO-BCSAEC
+AGO,1992,2012,1992,34.1,70,220,National Union for the Total Independence of Angola,UNITA,Angola,AGO-NUTIA
+AGO,1992,2012,2008,81.6,191,220,Popular Movement for the Liberation of Angola,MPLA,Angola,AGO-PMLA
+BDI,1961,1961,1961,17.9,6,64,Common Front,FC,Burundi,BDI-CF
+BDI,1993,2005,1993,72.5,65,81,Front for Democracy in Burundi,FRODEBU,Burundi,BDI-FDB
+BDI,1965,1993,1965,6.1,2,33,Independents,,Burundi,BDI-I
+BDI,2005,2010,2010,76.4,81,106,National Council for the Defense of Democracy-Forces for the Defense of Democracy,CNDD-FDD,Burundi,BDI-NCDDFDD
+BDI,1965,1993,1965,30.3,10,33,People's Party,PP,Burundi,BDI-PP
+BDI,1961,2010,1982,100,65,65,Union for National Progress,UPRONA,Burundi,BDI-UNP
+BEN,1995,1999,1995,12,10,83,Action Front for Renewal and Development,,Benin,BEN-AFRD
+BEN,1999,2003,1999,10.8,9,83,African Movement for Democracy and Progress,MADEP,Benin,BEN-AMDP
+BEN,2007,2007,2007,24.1,20,83,Alliance for a Dynamic Democracy,ADD,Benin,BEN-ADD
+BEN,1979,1989,1979,100,336,336,Benin People's Revolutionary Party,PRPB,Benin,BEN-BPRP
+BEN,2007,2011,2011,49.4,41,83,Cauri Forces for an Emerging Benin,FCBE,Benin,BEN-CFEB
+BEN,1959,1959,1959,17.1,22,70,Dahomey Democratic Rally,RDD,Benin,BEN-DDR
+BEN,1964,1964,1964,100,42,42,Dahomeyan Democratic Party,PDD,Benin,BEN-DDP
+BEN,1957,1960,1959,43.9,11,70,Dahomeyan Democratic Union,UDD,Benin,BEN-DDU
+BEN,1960,1960,1960,68.7,60,60,Dahomeyan Unity Party,PDU,Benin,BEN-DUP
+BEN,1957,1957,1957,10,6,60,Democratic Movement of Dahomey,MDD,Benin,BEN-DMD
+BEN,1995,2007,1995,22.9,19,83,Democratic Renewal Party,PRD,Benin,BEN-DRP
+BEN,1957,1957,1957,20,12,60,Independents,,Benin,BEN-I
+BEN,2003,2007,2003,6,5,83,Key Force,FC,Benin,BEN-KF
+BEN,1991,1991,1991,8.4,6,64,"National Movement for Democracy and Development-Movement for Solidarity, Union, and Progress-Union for Democracy and National Reconstruction",,Benin,BEN-NMDDMSUPUDNR
+BEN,1991,1991,1991,11.7,9,64,National Party for Democracy and Development-Democratic Renewal Party,PNDD-PRD,Benin,BEN-NPDDDRP
+BEN,1991,1991,1991,12.1,7,64,National Rally for Democracy,RND,Benin,BEN-NRD
+BEN,1991,1995,1991,10.1,6,64,Our Common Cause,NCC,Benin,BEN-OCC
+BEN,1991,1995,1991,5.6,4,64,Rally of Liberal Democrats for National Reconstruction-Vivoten,,Benin,BEN-RLDNRV
+BEN,1995,1995,1995,25.3,21,83,Renaissance Party of Benin,PRB,Benin,BEN-RPB
+BEN,1999,2003,1999,32.5,27,83,Renaissance Party of Benin,RB,Benin,BEN-RPB-2
+BEN,1957,1957,1957,58.3,35,60,Republican Party of Dahomey,,Benin,BEN-RPD
+BEN,1959,1959,1959,38.9,37,70,Republican Party of Dahomey,PRD,Benin,BEN-RPD-2
+BEN,1991,1991,1991,9.8,8,64,Social Democratic Party-National Union for Solidarity and Progress,PSD-UNSP,Benin,BEN-SDPNUSP
+BEN,1995,1995,1995,9.6,8,83,Social Democratic Party,PSD,Benin,BEN-SDP
+BEN,1991,1995,1991,7.1,5,64,Union for Democracy and National Solidarity,UDS,Benin,BEN-UDNS
+BEN,2003,2003,2003,37.3,31,83,Union for the Benin of the Future,UBF,Benin,BEN-UBF
+BEN,1991,1991,1991,18.9,12,64,Union for the Triumph of Democratic Renewal,UTRD,Benin,BEN-UTDR
+BEN,2011,2011,2011,36.1,30,83,Union Makes the Nation,UN,Benin,BEN-UMN
+BFA,1959,1997,1959,56.2,64,75,African Democratic Rally,RDA,Burkina Faso,BFA-ADR
+BFA,1959,1978,1959,43.8,11,75,African Regroupment Party,PRA,Burkina Faso,BFA-ARP
+BFA,2002,2007,2002,12.7,17,111,Alliance for Democracy and Federation-African Democratic Rally,ADF-RDA,Burkina Faso,BFA-ADFADR
+BFA,1992,1997,1997,7.4,2,111,Alliance for Democracy and Federation,ADF,Burkina Faso,BFA-ADF
+BFA,1997,2007,1997,68.6,101,111,Congress for Democracy and Progress,CDP,Burkina Faso,BFA-CDP
+BFA,1992,1992,1992,11.2,12,107,National Convention of Progressive Patriots-Social Democratic Party,CNPP-PSD,Burkina Faso,BFA-NCPPSDP
+BFA,1970,1970,1970,10.9,6,57,National Liberation Movement,MNL,Burkina Faso,BFA-NLM
+BFA,1978,1978,1978,22.8,13,57,National Union for the Defence of Democracy,UNDD,Burkina Faso,BFA-NUDD
+BFA,1992,1992,1992,72.9,78,107,Organization for People's Democracy-Labor Movement,ODP-MT,Burkina Faso,BFA-OPDLM
+BFA,1997,1997,1997,7.4,,111,Others,,Burkina Faso,BFA-O
+BFA,2002,2002,2002,7.5,10,111,Party for Democracy and Progress-Socialist Party,PDP,Burkina Faso,BFA-PDPSP
+BFA,1997,1997,1997,10.1,6,111,Party for Democracy and Progress,PDP,Burkina Faso,BFA-PDP
+BFA,1965,1978,1965,100,75,75,Voltaic Democratic Union-African Democratic Rally,UDV-RDA,Burkina Faso,BFA-VDUADR
+BFA,1978,1978,1978,15.8,9,57,Voltaic Progressive Union,UPV,Burkina Faso,BFA-VPU
+BWA,1965,1965,1965,80.4,28,31,Bechuanaland Democratic Party,BDP,Botswana,BWA-BDP
+BWA,1965,1965,1965,14.2,3,31,Bechuanaland People’s Party,BPP,Botswana,BWA-BPP
+BWA,1999,2009,2009,19.1,4,57,Botswana Congress Party,BCP,Botswana,BWA-BCP
+BWA,1969,2009,1974,84.4,27,32,Botswana Democratic Party,BDP,Botswana,BWA-BDP-2
+BWA,1969,2004,1994,37.7,13,40,Botswana National Front,BNF,Botswana,BWA-BNF
+BWA,2009,2009,2009,21.9,6,57,Botswana National Front,BNP,Botswana,BWA-BNF-2
+BWA,1969,2004,1969,12.1,3,31,Botswana People’s Party,BPP,Botswana,BWA-BPP-2
+CAF,1993,2005,1993,7.1,6,85,Alliance for Democracy and Progress,ADP,Central African Republic,CAF-ADP
+CAF,1987,2005,1987,100,52,52,Central African Democratic Rally,RDC,Central African Republic,CAF-CADR
+CAF,1993,2011,2005,32.4,34,105,Independents,,Central African Republic,CAF-I
+CAF,2011,2011,2011,24.8,26,105,Kwa Na Kwa,KNK,Central African Republic,CAF-KNK
+CAF,1993,1998,1993,8.2,7,85,Liberal Democratic Party,PLD,Central African Republic,CAF-LDP
+CAF,1993,1998,1998,7.3,8,109,Movement for Democracy and Development,MDD,Central African Republic,CAF-MDD
+CAF,1993,2011,1998,43.1,47,109,Movement for the Liberation of the Central African People,MLPC,Central African Republic,CAF-MLCAP
+CAF,1959,1993,1964,99,60,60,Movement for the Social Evolution of Black Africa,MESAN,Central African Republic,CAF-MSEBA
+CAF,2005,2005,2005,40,42,105,"National Convergence ""Kwa Na Kwa""",KNK,Central African Republic,CAF-NCKNK
+CAF,1993,2005,1993,8.2,7,85,Patriotic Front for Progress,FPP,Central African Republic,CAF-PFP
+CAF,1993,2005,1998,5.5,6,109,Social Democratic Party,PSD,Central African Republic,CAF-SDP
+CAF,2011,2011,2011,64.8,68,105,To Be Decided in the Second Round,,Central African Republic,CAF-TBDSR
+CIV,1959,2011,1959,100,100,100,Democratic Party of Côte d'Ivoire-African Democratic Rally,PDCI-RDA,Côte d’Ivoire,CIV-DPCIADR
+CIV,1990,2011,2011,13.8,31,225,Independents,,Côte d’Ivoire,CIV-I
+CIV,1990,2000,2000,42.7,96,225,Ivorian Popular Front,FPI,Côte d’Ivoire,CIV-IPF
+CIV,1995,2011,2011,54.2,122,225,Rally of the Republicans,RDR,Côte d’Ivoire,CIV-RR
+CMR,1988,2007,1988,100,180,180,Cameroon People's Democratic Movement,RDPC,Cameroon,CMR-CPDM
+CMR,1961,1964,1961,26.8,10,37,Cameroon People's National Convention,CPNC,Cameroon,CMR-CPNC
+CMR,1956,1956,1956,11.4,8,70,Cameroonian National Action Movement,MANC,Cameroon,CMR-CNAM
+CMR,1970,1983,1970,100,50,50,Cameroonian National Union,UNC,Cameroon,CMR-CNU
+CMR,1956,1964,1956,28.6,20,70,Cameroonian Party of Democrats,PDC,Cameroon,CMR-CPD
+CMR,1956,1964,1964,93.5,40,40,Cameroonian Union,UC,Cameroon,CMR-CU
+CMR,1956,1956,1956,12.9,9,70,Independent Peasants,PI,Cameroon,CMR-IP
+CMR,1959,1961,1961,10.8,2,37,Independents,,Cameroon,CMR-I
+CMR,1959,1959,1959,37.5,12,26,Kamerun National Congress-Kamerun People's Party,KNC-KPP,Cameroon,CMR-KNCKPP
+CMR,1959,1959,1959,30.8,8,26,Kamerun National Congress,KNC,Cameroon,CMR-KNC
+CMR,1959,1964,1964,76,10,10,Kamerun National Democratic Party,KNDP,Cameroon,CMR-KNDP
+CMR,1959,1959,1959,15.4,4,26,Kamerun People's Party,KPP,Cameroon,CMR-KPP
+CMR,1992,1997,1992,10,18,180,Movement for the Defense of the Republic,MDR,Cameroon,CMR-MDR
+CMR,1992,2007,1992,37.8,68,180,National Union for Democracy and Progress,UNDP,Cameroon,CMR-NUDP
+CMR,1959,1961,1961,6.9,1,37,One Kamerun,OK,Cameroon,CMR-OK
+CMR,1956,1961,1960,17.3,,100,Others,,Cameroon,CMR-O
+CMR,1960,1960,1960,10.8,19,100,Popular Front for Unity and Peace,FPUP,Cameroon,CMR-PFUP
+CMR,1997,2007,1997,23.9,43,180,Social Democratic Front,SDF,Cameroon,CMR-SDF
+CMR,1960,2002,1960,11.2,8,100,Union of the Peoples of Cameroon,UPC,Cameroon,CMR-UPC
+COD,1960,1960,1960,12.5,13,137,African Solidarity Party,PSA,Congo - Kinshasa,COD-ASP
+COD,1960,1965,1960,9.5,12,137,Alliance of the Bakongo,ABAKO,Congo - Kinshasa,COD-AB
+COD,1960,1965,1965,5.4,9,167,Confederation of Tribal Associations of Katanga,CONAKAT,Congo - Kinshasa,COD-CTAK
+COD,1965,1965,1965,22.2,37,167,Congolese National Convention,CONACO,Congo - Kinshasa,COD-CNC-2
+COD,1960,1960,1960,6.6,7,137,Congolese National Movement-Kalonji,MNC-K,Congo - Kinshasa,COD-CNMK
+COD,1960,1965,1960,23.4,33,137,Congolese National Movement-Lumumba,MNC-L,Congo - Kinshasa,COD-CNML
+COD,2006,2006,2006,5.2,26,500,Forces of Renewal,FR,Congo - Kinshasa,COD-FR
+COD,1960,2011,2006,12.6,63,500,Independents,,Congo - Kinshasa,COD-I-2
+COD,2006,2011,2006,12.8,64,500,Movement for the Liberation of Congo,MLC,Congo - Kinshasa,COD-MLC
+COD,1960,1960,1960,6.2,7,137,National Progress Party,PNP,Congo - Kinshasa,COD-NPP-2
+COD,2011,2011,2011,6,30,500,People's Party for Peace and Democracy,PPPD,Congo - Kinshasa,COD-PPPD
+COD,2006,2011,2006,22.2,111,500,People's Party for Reconstruction and Democracy,PPRD,Congo - Kinshasa,COD-PPRD
+COD,1970,2006,1970,100,420,420,Popular Movement of the Revolution,MPR,Congo - Kinshasa,COD-PMR
+COD,2006,2011,2011,5.6,28,500,Social Movement for Renewal,MSR,Congo - Kinshasa,COD-SMR
+COD,2006,2011,2006,6.8,34,500,Unified Lumumbist Party,PALU,Congo - Kinshasa,COD-ULP
+COD,2011,2011,2011,8.4,42,500,Union for Democracy and Progress-Tshisekedi,,Congo - Kinshasa,COD-UDPT
+COG,1959,1959,1959,40.5,10,61,African Socialist Movement-Congolese Progressive Party,MSA-PPC,Congo - Brazzaville,COG-ASMCPP
+COG,1973,2012,1973,100,115,115,Congolese Labor Party,PCT,Congo - Brazzaville,COG-CLP
+COG,1992,2012,1992,23.2,29,125,Congolese Movement for Democracy and Integral Development,MCDDI,Congo - Brazzaville,COG-CMDID
+COG,1959,1959,1959,59.5,51,61,Democratic Union for the Defense of African Interests,UDDIA,Congo - Brazzaville,COG-DUDAI
+COG,1992,2012,2007,27,37,137,Independents,,Congo - Brazzaville,COG-I-2
+COG,1963,1963,1963,100,55,55,National Revolutionary Movement,MNR,Congo - Brazzaville,COG-NRM
+COG,2002,2002,2002,25.5,35,137,Others & Independents,,Congo - Brazzaville,COG-OI
+COG,1992,2012,1993,37.6,47,125,Pan-African Union for Social Democracy,UPADS,Congo - Brazzaville,COG-PAUSD
+COG,1992,2012,1993,8,10,125,Rally for Democracy and Social Progress,RDPS,Congo - Brazzaville,COG-RDSP
+COG,2002,2002,2002,21.9,30,137,United Democratic Forces,FDU,Congo - Brazzaville,COG-UDF-2
+COG,2002,2012,2002,5.8,8,137,Vacant,,Congo - Brazzaville,COG-V-2
+COM,2009,2009,2009,70.8,17,24,Baobab Movement,,Comoros,COM-BM
+COM,2004,2004,2004,66.7,12,18,Camp of the Autonomous Islands,CdÎA,Comoros,COM-CAI
+COM,1992,1993,1992,7.1,3,42,Comoran Party for Democracy and Progress,,Comoros,COM-CPDP
+COM,1982,1993,1982,100,38,38,Comoran Union for Progress,UDZIMA,Comoros,COM-CUP
+COM,2004,2004,2004,33.3,6,18,Convention for the Renewal of the Comoros,CRC,Comoros,COM-CRC
+COM,1978,1996,1978,100,38,38,Independents,,Comoros,COM-I
+COM,1992,1993,1992,7.1,3,42,Islands' Fraternity and Unity Party,CHUMA,Comoros,COM-IFUP
+COM,1992,1992,1992,7.1,3,42,Maecha Bora,,Comoros,COM-MB
+COM,1992,1993,1992,7.1,3,42,Movement for Democracy and Progress-New Democratic Generation of the Comoros,MDP-NGDC,Comoros,COM-MDPNDGC
+COM,1996,1996,1996,7,3,43,National Front for Justice,FNJ,Comoros,COM-NFJ
+COM,1996,1996,1996,83.7,36,43,National Rally for Development,RND,Comoros,COM-NRD
+COM,1993,1993,1993,9.5,4,42,National Union for Democracy in the Comoros,UNDC,Comoros,COM-NUDC
+COM,2009,2009,2009,16.7,4,24,Opposition,,Comoros,COM-O
+COM,1992,2009,1992,33.3,14,42,Others,,Comoros,COM-O-2
+COM,1993,1993,1993,66.7,28,42,Rally for Democracy and Renewal,RDR,Comoros,COM-RDR
+COM,1992,1992,1992,16.7,7,42,Union of Democrats for Development,UDD,Comoros,COM-UDD
+CPV,1985,2011,1985,100,83,83,African Party for the Independence of Cape Verde,PAICV,Cape Verde,CPV-APICV
+CPV,1975,1980,1975,100,56,56,African Party for the Independence of Guinea and Cape Verde,PAIGC,Cape Verde,CPV-APIGCV
+CPV,2001,2001,2001,6.1,2,72,Democratic Alliance for Change,ADM,Cape Verde,CPV-DAC
+CPV,1995,1995,1995,6.7,1,72,Democratic Convergence Party,PCD,Cape Verde,CPV-DCP
+CPV,1991,2011,1991,66.4,56,79,Movement for Democracy,MpD,Cape Verde,CPV-MD
+DJI,1992,1997,1992,25.4,,65,Democratic Renewal Party,PRD,Djibouti,DJI-DRP
+DJI,1997,1997,1997,16.9,11,65,Front for the Restoration of Unity and Democracy,FRUD,Djibouti,DJI-FRUD
+DJI,1973,1973,1973,75.9,40,40,Majority,,Djibouti,DJI-M
+DJI,1973,1973,1973,15.1,,40,Moderate Opposition,,Djibouti,DJI-MO
+DJI,1973,1973,1973,9.1,,40,Other Opposition,,Djibouti,DJI-OO
+DJI,1977,1977,1977,100,,,People's Rally for Independence,RPI,Djibouti,DJI-PRI
+DJI,1997,1997,1997,78.6,65,65,People's Rally for Progress-Front for the Restoration of Unity and Democracy,RPP-FRUD,Djibouti,DJI-PRPFRUD
+DJI,1982,1997,1982,100,65,65,People's Rally for Progress,RPP,Djibouti,DJI-PRP
+DJI,2003,2003,2003,37.6,,65,Union for a Democratic Alternative,UAD,Djibouti,DJI-UDA
+DJI,2003,2008,2008,100,65,65,Union for a Presidential Majority,UMP,Djibouti,DJI-UPM
+ETH,2000,2000,2000,26.7,146,547,Amhara National Democratic Movement,ANDM,Ethiopia,ETH-ANDM
+ETH,2005,2005,2005,19.9,109,547,Coalition for Unity and Democracy,CUD,Ethiopia,ETH-CUD
+ETH,2000,2000,2000,6.8,37,547,EPRDF-Affiliated Parties,,Ethiopia,ETH-EPRDFAP
+ETH,1995,2010,2010,91.2,499,547,Ethiopian People's Revolutionary Democratic Front,EPRDF,Ethiopia,ETH-EPRDF
+ETH,1994,2005,1994,88.5,484,547,Ethiopian People’s Revolutionary Democratic Front,EPRDF,Ethiopia,ETH-EPRDF-2
+ETH,2000,2000,2000,33.5,183,547,Oromo People’s Democratic Organization,OPDO,Ethiopia,ETH-OPDO
+ETH,1994,2000,1994,11.5,63,547,Others,,Ethiopia,ETH-O
+ETH,2000,2000,2000,20.5,112,547,Southern Ethiopia People’s Democratic Movement,SEPDM,Ethiopia,ETH-SEPDM
+ETH,2000,2000,2000,7.3,40,547,Tigray People’s Liberation Front,TPLF,Ethiopia,ETH-TPLF
+ETH,2005,2005,2005,9.5,52,547,United Ethiopian Democratic Forces,UEDF,Ethiopia,ETH-UEDF
+ETH,1987,1987,1987,100,835,835,Worker’s Party of Ethiopia,WPE,Ethiopia,ETH-WPE
+GAB,1990,1990,1990,5,6,120,Association for Socialism in Gabon,APSG,Gabon,GAB-ASG
+GAB,1957,1957,1957,7.5,3,40,Defense of Gabonese Interests,DIG,Gabon,GAB-DGI
+GAB,1957,1957,1957,20,8,40,Entente for the Defense of Gabonese Interests,EDIG,Gabon,GAB-EDGI
+GAB,1957,1957,1957,45,18,40,Gabonese Democratic and Social Union,UDSG,Gabon,GAB-GDSU
+GAB,1964,1964,1964,25.8,,47,Gabonese Democratic and Social Union (UDSG) & Defense of Democratic Institutions,,Gabon,GAB-GDSU-2
+GAB,1957,1964,1964,48.8,,47,Gabonese Democratic Bloc,BDG,Gabon,GAB-GDB
+GAB,1964,1964,1964,55.4,31,47,Gabonese Democratic Bloc,BDG,Gabon,GAB-GDB-2
+GAB,1973,2011,1973,100,70,70,Gabonese Democratic Party,PDG,Gabon,GAB-GDP
+GAB,1990,2001,1990,15,18,120,Gabonese Progress Party,PGP,Gabon,GAB-GPP
+GAB,1957,2006,2001,10,12,120,Independents,,Gabon,GAB-I
+GAB,2001,2001,2001,6.7,8,120,National Rally of Woodcutters-Rally for Gabon,RNB-RPG,Gabon,GAB-NRWRG
+GAB,1996,1996,1996,5.8,7,120,National Rally of Woodcutters,RNB,Gabon,GAB-NRW
+GAB,1990,1990,1990,16.7,20,120,National Recovery Movement-Woodcutters,,Gabon,GAB-NRMW
+GAB,1990,1996,1990,5.8,7,120,National Recovery Movement,,Gabon,GAB-NRM
+GAB,1964,1964,1964,44.6,16,47,Opposition,,Gabon,GAB-O
+GAB,1964,1964,1964,18.8,,47,Others,,Gabon,GAB-O-2
+GAB,2006,2011,2006,6.7,8,120,Rally for Gabon,RPG,Gabon,GAB-RG
+GAB,1996,2006,2006,6.7,8,120,Union of the Gabonese People,UPG,Gabon,GAB-UGP
+GHA,1979,1979,1979,8.8,10,140,Action Congress Party,ACP,Ghana,GHA-ACP
+GHA,1951,2008,1965,100,198,198,Convention People's Party,CPP,Ghana,GHA-CPP
+GHA,1951,2008,1954,15.4,16,104,Independents,,Ghana,GHA-I-2
+GHA,2000,2000,2000,6.3,4,200,Independents & Others,,Ghana,GHA-IO
+GHA,1969,1969,1969,30.8,29,140,National Alliance of Liberals,NAL,Ghana,GHA-NAL
+GHA,1992,1992,1992,19.2,8,200,National Convention Party,NCP,Ghana,GHA-NCP
+GHA,1992,2008,1992,77.5,189,200,National Democratic Congress,NDC,Ghana,GHA-NDC
+GHA,1956,1956,1956,20.9,12,104,National Liberation Movement,NLM,Ghana,GHA-NLM
+GHA,1996,2008,2004,64,128,200,New Patriotic Party,NPP,Ghana,GHA-NPP
+GHA,1954,1956,1954,11.5,12,104,Northern People's Party,NPP,Ghana,GHA-NPP-2
+GHA,1979,1979,1979,36.4,71,140,People's National Party,PNP,Ghana,GHA-PNP
+GHA,1979,1979,1979,30.6,42,140,Popular Front Party,PFP,Ghana,GHA-PFP
+GHA,1969,1969,1969,58.3,105,140,Progress Party,PP,Ghana,GHA-PP
+GHA,1951,1951,1951,5.3,2,38,United Gold Coast Convention,UGCC,Ghana,GHA-UGCC
+GHA,1979,1979,1979,17.5,13,140,United National Convention,UNC,Ghana,GHA-UNC
+GIN,1957,1957,1957,6,,60,African Bloc of Guinea,BAG,Guinea,GIN-ABG
+GIN,1957,1995,1957,77.4,56,60,Democratic Party of Guinea-African Democratic Rally,PDG-RDA,Guinea,GIN-DPGADR
+GIN,1963,2002,1968,100,75,75,Democratic Party of Guinea,PDG,Guinea,GIN-DPG
+GIN,1957,1957,1957,6.3,1,60,Others,,Guinea,GIN-O
+GIN,1995,1995,1995,7.9,9,114,Party of Renewal and Progress,PRP,Guinea,GIN-PRP
+GIN,1995,2002,1995,62.3,71,114,Party of Unity and Progress,PUP,Guinea,GIN-PUP
+GIN,1995,1995,1995,16.7,19,114,Rally of the Guinean People,RPG,Guinea,GIN-RGP
+GIN,1957,1957,1957,10.3,3,60,Socialist Democracy of Guinea,DSG,Guinea,GIN-SDG
+GIN,2002,2002,2002,26.6,20,114,Union for Progress and Renewal,UPR,Guinea,GIN-UPR
+GIN,1995,1995,1995,7.9,9,114,Union for the New Republic,UNR,Guinea,GIN-UNR
+GMB,1997,2012,2002,93.8,45,48,Alliance for Patriotic Reorientation and Construction,APRC,Gambia,GMB-APRC
+GMB,1960,1962,1960,5.1,1,19,Democratic Congress Alliance,DCA,Gambia,GMB-DCA
+GMB,1987,1992,1987,14.9,,36,Gambian People's Party,GPP,Gambia,GMB-GPP
+GMB,1960,2012,1960,39.9,4,19,Independents,,Gambia,GMB-I
+GMB,1977,1992,1987,27.6,5,36,National Convention Party,NCP,Gambia,GMB-NCP
+GMB,1997,2012,2012,9.4,1,48,National Reconciliation Party,NRP,Gambia,GMB-NRP
+GMB,1987,2002,1997,7.9,1,45,People's Democratic Organisation for Independence and Socialism,PDOIS,Gambia,GMB-PDOIS
+GMB,1962,1962,1962,62,19,32,People's Progressive Party-Democratic Congress Alliance,PPP-DCA,Gambia,GMB-PPPDCA
+GMB,1960,1992,1977,69.6,27,35,People's Progressive Party,PPP,Gambia,GMB-PPP
+GMB,1997,2007,1997,34,7,45,United Democratic Party,UDP,Gambia,GMB-UDP
+GMB,1966,1966,1966,33.4,8,32,United Party-Gambia Congress Party,UP-GCP,Gambia,GMB-UPGCP
+GMB,1960,1982,1966,21.9,7,32,United Party,UP,Gambia,GMB-UP
+GMB,1962,1962,1962,37.9,13,32,United Party,UP,Gambia,GMB-UP-2
+GNB,1972,2008,1977,100,150,150,African Party for the Independence of Guinea and Cape Verde,PAIGC,Guinea-Bissau,GNB-APIGCV
+GNB,1994,1994,1994,5.3,1,100,Democratic Convergence Party,PCD,Guinea-Bissau,GNB-DCP
+GNB,2008,2008,2008,7.5,3,100,Republican Party for Independence and Development,PRID,Guinea-Bissau,GNB-RPID
+GNB,1994,2004,1999,28.4,29,102,Resistance of Guinea-Bissau-Bafatá Movement,RGB-MB,Guinea-Bissau,GNB-RGBBM
+GNB,1994,2008,1999,37.3,38,102,Social Renewal Party,PRS,Guinea-Bissau,GNB-SRP
+GNB,1994,1999,1994,12.7,6,100,Union for Change,UM,Guinea-Bissau,GNB-UC-2
+GNB,1994,2008,2004,17.6,17,100,United Social Democratic Party,PUSD,Guinea-Bissau,GNB-USDP
+GNQ,1968,1968,1968,20,7,35,Bubi Union,UB,Equatorial Guinea,GNQ-BU
+GNQ,1999,2008,2004,6,2,100,Convergence for Social Democracy,CPDS,Equatorial Guinea,GNQ-CSD
+GNQ,2004,2008,2004,42.4,30,100,Democratic Opposition,,Equatorial Guinea,GNQ-DO
+GNQ,1988,2008,2008,89,89,100,Democratic Party of Equatorial Guinea,PDGE,Equatorial Guinea,GNQ-DPEG
+GNQ,1983,1983,1983,100,41,41,Independents,,Equatorial Guinea,GNQ-I
+GNQ,1993,1993,1993,6.4,1,80,Liberal Party,PL,Equatorial Guinea,GNQ-LP
+GNQ,1968,1968,1968,28.6,10,35,National Liberation Movement of Equatorial Guinea,MONALIGE,Equatorial Guinea,GNQ-NLMEG
+GNQ,1968,1968,1968,28.6,10,35,National Unity Movement of Equatorial Guinea,MUNGE,Equatorial Guinea,GNQ-NUMEG
+GNQ,1968,1968,1968,22.9,8,35,Popular Idea of Equatorial Guinea,IPGE,Equatorial Guinea,GNQ-PIEG
+GNQ,1999,1999,1999,6.4,4,80,Popular Union,UP,Equatorial Guinea,GNQ-PU
+GNQ,1993,1993,1993,10.3,6,80,Social Democratic and Popular Convergence,CSDP,Equatorial Guinea,GNQ-SDPC
+GNQ,1993,1993,1993,7.4,5,80,Social Democratic Union,UDS,Equatorial Guinea,GNQ-SDU
+KEN,1992,2007,1997,19.5,41,210,Democratic Party,DP,Kenya,KEN-DP
+KEN,1992,2007,1992,15.5,31,200,Forum for the Restoration of Democracy-Asili,FORD-A,Kenya,KEN-FRDA
+KEN,1992,2007,1992,15.5,31,200,Forum for the Restoration of Democracy-Kenya,FORD-K,Kenya,KEN-FRDK
+KEN,2002,2007,2002,6.7,15,224,Forum for the Restoration of Democracy-People,FORD-P,Kenya,KEN-FRDP
+KEN,1961,1961,1961,33.3,11,33,Kenya African Democratic Union,KADU,Kenya,KEN-KADU
+KEN,1961,2007,1969,100,158,158,Kenya African National Union,KANU,Kenya,KEN-KANU
+KEN,2002,2002,2002,26.3,59,224,Liberal Democratic Party,LDP,Kenya,KEN-LDP
+KEN,1997,1997,1997,10.5,22,210,National Development Party,NDP,Kenya,KEN-NDP
+KEN,2002,2002,2002,58.9,132,224,National Rainbow Coalition,NARC,Kenya,KEN-NRC-2
+KEN,2007,2007,2007,7.6,16,210,Orange Democratic Movement-Kenya,ODM-K,Kenya,KEN-ODMK
+KEN,2007,2007,2007,47.1,99,210,Orange Democratic Movement,ODM,Kenya,KEN-ODM
+KEN,1963,1963,1963,33.1,41,124,Others,,Kenya,KEN-O
+KEN,2007,2007,2007,20.5,43,210,Party of National Unity,PNU,Kenya,KEN-PNU
+KEN,1997,1997,1997,7.6,16,210,Social Democratic Party,SDP,Kenya,KEN-SDP
+LBR,2005,2005,2005,14.7,8,64,Coalition for the Transformation of Liberia,COTOL,Liberia,LBR-CTL
+LBR,2005,2011,2005,16.9,15,64,Congress for Democratic Change,CDC,Liberia,LBR-CDC
+LBR,2005,2011,2011,21,9,73,Independents,,Liberia,LBR-I
+LBR,1985,1985,1985,12.5,8,64,Liberian Action Party,LAP,Liberia,LBR-LAP
+LBR,2005,2011,2005,13.4,9,64,Liberty Party,LP,Liberia,LBR-LP
+LBR,2011,2011,2011,5.9,5,73,National Democratic Coalition,NDC,Liberia,LBR-NDC
+LBR,1985,2011,1985,79.7,51,64,National Democratic Party of Liberia,NDPL,Liberia,LBR-NDPL
+LBR,1997,2011,1997,75.3,49,64,National Patriotic Party,NPP,Liberia,LBR-NPP
+LBR,1985,2011,2011,19,24,73,Unity Party,UP,Liberia,LBR-UP
+LSO,2007,2012,2012,25.2,30,120,All Basotho Convention,ABC,Lesotho,LSO-ABC
+LSO,1970,2012,1970,42.2,23,60,Basotho National Party,BNP,Lesotho,LSO-BNP
+LSO,1960,2002,1960,75,30,40,Basutoland Congress Party,BCP,Lesotho,LSO-BCP-2
+LSO,1960,1965,1965,41.6,35,60,Basutoland National Party,BNP,Lesotho,LSO-BNP-2
+LSO,2012,2012,2012,39.6,48,120,Democratic Congress,DC,Lesotho,LSO-DC
+LSO,1960,2012,1960,10,4,40,Independents,,Lesotho,LSO-I
+LSO,1998,2012,1998,60.7,78,80,Lesotho Congress for Democracy,LCD,Lesotho,LSO-LCD
+LSO,2002,2012,2002,5.8,5,120,Lesotho People's Congress,LPC,Lesotho,LSO-LPC
+LSO,2002,2012,2007,24.3,10,120,Lesotho Workers' Party,LWP,Lesotho,LSO-LWP
+LSO,1960,1965,1960,12.5,5,40,Marema Tlou Party,MTP,Lesotho,LSO-MTP
+LSO,1965,2012,1965,16.5,4,60,Marematlou Freedom Party,MFP,Lesotho,LSO-MFP
+LSO,1993,2012,2007,51.8,21,120,National Independent Party,NIP,Lesotho,LSO-NIP
+MDG,1993,1993,1993,8,11,138,Association of United Malagasys,FAMIMA,Madagascar,MDG-AUM
+MDG,1993,1993,1993,34.1,47,138,Committee of Living Forces,CFV,Madagascar,MDG-CLF
+MDG,1993,1998,1993,5.8,8,138,Confederation of Civil Societies for Development,CSCD,Madagascar,MDG-CCSD
+MDG,1965,1989,1977,11.7,16,137,Congress Party for the Independence of Madagascar,AKFM,Madagascar,MDG-CPIM
+MDG,1998,2007,1998,13.3,16,150,Economic Liberalism and Democratic Action for National Recovery,,Madagascar,MDG-ELDANR
+MDG,1993,1993,1993,9.4,13,138,Economic Liberalism and Democratic Action for Recovery,,Madagascar,MDG-ELDAR
+MDG,2002,2007,2007,82.7,105,127,I Love Madagascar,TIM,Madagascar,MDG-ILM
+MDG,1998,2007,1998,26.8,32,150,Independents,,Madagascar,MDG-I
+MDG,1998,1998,1998,6.9,14,150,Judged by Your Work,AVI,Madagascar,MDG-JYW
+MDG,1993,1993,1993,10.9,15,138,Militant Party for the Development of Madagascar,PMDM,Madagascar,MDG-MPDM
+MDG,1983,1989,1989,11,7,137,Movement for Proletarian Power,MFM,Madagascar,MDG-MPP
+MDG,2002,2002,2002,13.8,22,160,National Union,FP,Madagascar,MDG-NU
+MDG,1993,1993,1993,5.1,7,138,National Union for Development and Democracy,UNDD,Madagascar,MDG-NUDD
+MDG,1960,2007,1960,29.9,32,107,Others,,Madagascar,MDG-O
+MDG,1977,1989,1983,10.6,6,137,Popular Impulse for National Unity,VONJY,Madagascar,MDG-PINU
+MDG,1993,2002,1993,5.8,8,138,Rally for Socialism and Democracy,RPSD,Madagascar,MDG-RSD
+MDG,1960,1970,1965,97.2,104,107,Social Democratic Party,PSD,Madagascar,MDG-SDP
+MDG,1977,2002,1977,81.8,112,137,Vanguard of the Malagasy Revolution,AREMA,Madagascar,MDG-VMR
+MLI,1992,2007,1997,87.1,128,147,Alliance for Democracy in Mali,ADEMA,Mali,MLI-ADM
+MLI,2002,2002,2002,6.8,10,147,Convergence for Alternation and Change,ACC,Mali,MLI-CAC
+MLI,1979,1988,1979,100,82,82,Democratic Union of the Malian People,UDPM,Mali,MLI-DUMP
+MLI,2002,2007,2007,10.2,15,147,Independents,,Mali,MLI-I
+MLI,1992,2007,2002,8.8,13,147,National Congress for Democratic Initiative,CNID,Mali,MLI-NCDI
+MLI,1997,2007,1997,5.4,8,147,Party for National Renewal,PARENA,Mali,MLI-PNR
+MLI,2002,2007,2007,5.4,8,147,Patriotic Movement for Renewal,MPR,Mali,MLI-PMR
+MLI,1992,1992,1992,5.2,6,116,Popular Movement for the Development of the Republic of West Africa,MPD,Mali,MLI-PMDRWA
+MLI,2002,2007,2002,31.3,46,147,Rally for Mali,RPM,Mali,MLI-RM
+MLI,1957,1957,1957,27.5,6,70,Sudanese Progressive Party,PSP,Mali,MLI-SPP-2
+MLI,1959,1959,1959,24.2,,80,Sudanese Regrouping Party,PRS,Mali,MLI-SRP
+MLI,1957,2007,1964,100,80,80,Sudanese Union-African Democratic Rally,US-RDA,Mali,MLI-SUADR
+MLI,2007,2007,2007,23.1,34,147,Union for the Republic and Democracy,URD,Mali,MLI-URD
+MLI,1957,1957,1957,6.3,7,70,Union of the Populations of Bandiagara,UPB,Mali,MLI-UPB
+MLI,2002,2002,2002,5.4,8,147,Vacant,,Mali,MLI-V
+MOZ,1994,1999,1994,5.2,9,250,Democratic Union,UD,Mozambique,MOZ-DU-2
+MOZ,1999,2004,1999,38.8,117,250,Mozambican National Resistance-Electoral Union,RENAMO-UE,Mozambique,MOZ-MNREU
+MOZ,1994,2009,1994,37.8,112,250,Mozambican National Resistance,RENAMO,Mozambique,MOZ-MNR
+MOZ,1977,2009,2009,74.7,191,250,Mozambique Liberation Front,FRELIMO,Mozambique,MOZ-MLF
+MRT,1992,2001,1996,88.6,70,79,Democratic and Social Republican Party,PRDS,Mauritania,MRT-DSRP
+MRT,1992,2006,2006,43.2,41,95,Independents,,Mauritania,MRT-I
+MRT,1965,1976,1965,100,40,40,Mauritanian People's Party,PPM,Mauritania,MRT-MPP
+MRT,1959,1959,1959,100,40,40,Mauritanian Regroupment Party,PRM,Mauritania,MRT-MRP
+MRT,2006,2006,2006,5.3,5,95,Popular Progressive Alliance,APP,Mauritania,MRT-PPA
+MRT,2001,2006,2006,15.8,15,95,Rally of Democratic Forces,RFD,Mauritania,MRT-RDF
+MRT,2006,2006,2006,7.4,7,95,Republican Party for Democracy and Renewal,PRDR,Mauritania,MRT-RPDR
+MRT,2006,2006,2006,8.4,8,95,Union of the Forces for Progress,UFP,Mauritania,MRT-UFP
+MUS,1976,1976,1976,40,28,70,Independence Party,IP,Mauritius,MUS-IP
+MUS,1967,1967,1967,61.4,43,70,Independence Party,IP,Mauritius,MUS-IP-2
+MUS,1959,1967,1963,17.5,7,40,Independent Forward Bloc,IFB,Mauritius,MUS-IFB
+MUS,1959,1963,1959,5,2,40,Independents,,Mauritius,MUS-I
+MUS,2000,2005,2000,82.9,58,70,Mauritian Militant Movement-Mauritian Socialist Movement,MMM-MSM,Mauritius,MUS-MMMMSM
+MUS,1976,1995,1982,63.6,42,66,Mauritian Militant Movement,MMM,Mauritius,MUS-MMM
+MUS,1959,1987,1967,38.6,27,70,Mauritian Social Democratic Party,PMSD,Mauritius,MUS-MSDP
+MUS,1983,1983,1983,58.6,41,70,Mauritian Socialist Movement-Mauritius Labour Party,MSM-MLP,Mauritius,MUS-MSMMLP
+MUS,1987,1991,1987,44.3,31,70,Mauritian Socialist Movement,MSM,Mauritius,MUS-MSM
+MUS,1982,1982,1982,27.3,18,66,Mauritian Socialist Party,PSM,Mauritius,MUS-MSP
+MUS,2000,2000,2000,11.4,8,70,Mauritius Labour Party-Mauritian Party of Xavier Duval,MLP-PMXD,Mauritius,MUS-MLPMPXD
+MUS,1991,1991,1991,10.6,7,66,Mauritius Labour Party-Mauritian Social-Democratic Party,MLP-PMSD,Mauritius,MUS-MLPMSDP
+MUS,1959,1995,1959,60,24,40,Mauritius Labour Party,MLP,Mauritius,MUS-MLP
+MUS,1959,1967,1959,12.5,5,40,Muslim Committee of Action,CAM,Mauritius,MUS-MCA
+MUS,2005,2005,2005,60,42,70,Social Alliance,AS,Mauritius,MUS-SA
+MWI,1994,2009,1994,19,36,177,Alliance for Democracy,AFORD,Malawi,MWI-AD
+MWI,2009,2009,2009,58.5,113,193,Democratic Progressive Party,DPP,Malawi,MWI-DPP
+MWI,1961,2009,2004,24.2,40,193,Independents,,Malawi,MWI-I
+MWI,1961,2009,1971,100,60,60,Malawi Congress Party,MCP,Malawi,MWI-MCP
+MWI,2004,2004,2004,8.1,9,193,National Democratic Alliance,NDA,Malawi,MWI-NDA
+MWI,2004,2004,2004,7.3,15,193,Republican Party,RP,Malawi,MWI-RP
+MWI,1994,2009,1999,47.3,93,193,United Democratic Front,UDF,Malawi,MWI-UDF
+MWI,1961,1961,1961,17.9,5,28,United Federal Party,UFP,Malawi,MWI-UFP
+NAM,1978,1978,1978,11.9,6,50,Action Front for the Retention of Turnhalle Principles,ACTUR,Namibia,NAM-AFRTP
+NAM,1999,2009,1999,9.9,7,72,Congress of Democrats,COD,Namibia,NAM-CD
+NAM,1978,2009,1978,82.2,41,50,Democratic Turnhalle Alliance,DTA,Namibia,NAM-DTA
+NAM,1929,1929,1929,33.3,4,12,German League in South West Africa,DB,Namibia,NAM-GLSWA
+NAM,1926,1926,1926,15.4,2,13,Independents,,Namibia,NAM-I
+NAM,1926,1974,1965,100,18,18,National Party of South West Africa,NPSWA,Namibia,NAM-NPSWA
+NAM,1934,1934,1934,25,3,12,Others,,Namibia,NAM-O
+NAM,2009,2009,2009,11.3,8,72,Rally for Democracy and Progress,RDP,Namibia,NAM-RDP
+NAM,1989,2009,1999,76.2,55,72,South West Africa People's Organization,SWAPO,Namibia,NAM-SWAPO
+NAM,1989,2009,1989,5.7,4,72,United Democratic Front,UDF,Namibia,NAM-UDF
+NAM,1926,1961,1945,100,16,16,United National South West Party,UNSWP,Namibia,NAM-UNSWP
+NER,1993,2011,1995,28.9,24,83,Democratic and Social Convention-Rahama,,Niger,NER-DSCR
+NER,1996,2009,2009,8.8,10,113,Independents,,Niger,NER-I
+NER,2011,2011,2011,5.3,6,113,Invalidated,,Niger,NER-I-2
+NER,1993,2011,2009,67.3,76,113,National Movement for the Development of Society-Nassara,,Niger,NER-NMDSN
+NER,1989,1989,1989,100,93,93,National Movement for the Development of Society,MNSD,Niger,NER-NMDS
+NER,1996,1996,1996,67.5,56,83,National Union of Independents for Democratic Renewal,UNIRD,Niger,NER-NUIDR
+NER,1993,2011,1993,13.3,11,83,Nigerien Alliance for Democracy and Progress-Zaman Lahiya,,Niger,NER-NADPZL
+NER,1996,1996,1996,9.6,8,83,Nigerien Alliance for Democracy and Social Progress-Zaman Lahiya,,Niger,NER-NADSPZL
+NER,2011,2011,2011,19.7,23,113,Nigerien Democratic Movement for an African Federation,,Niger,NER-NDMAF
+NER,1958,1958,1958,18.3,11,60,Nigerien Democratic Union-Sawaba,,Niger,NER-NDUS
+NER,1993,2011,2011,33,34,113,Nigerien Party for Democracy and Socialism-Tarayya,,Niger,NER-NPDST
+NER,1965,1970,1965,100,50,50,Nigerien Progressive Party-African Democratic Rally,PPN-RDA,Niger,NER-NPPADR-2
+NER,1999,2011,1999,9.6,8,83,Rally for Democracy and Progress-Jama'a,,Niger,NER-RDPJ
+NER,2004,2011,2009,13.3,15,113,Social Democratic Rally-Gaskiya,,Niger,NER-SDRG
+NER,2011,2011,2011,5.4,6,113,Union for Democracy and the Republic-Tabbat,,Niger,NER-UDRT
+NER,1958,1958,1958,81.7,49,60,Union for the Franco-African Community,UCFA,Niger,NER-UFAC
+NGA,2007,2007,2007,8.3,30,360,Action Congress,AC,Nigeria,NGA-AC
+NGA,2011,2011,2011,13.1,47,360,Action Congress of Nigeria,ACN,Nigeria,NGA-ACN
+NGA,1959,1959,1959,23.4,73,312,Action Group,,Nigeria,NGA-AG
+NGA,1965,1965,1965,6.7,21,312,Action Group,AG,Nigeria,NGA-AG-2
+NGA,2003,2011,2003,27.4,96,360,All Nigeria People's Party,ANPP,Nigeria,NGA-ANPP
+NGA,1999,1999,1999,30.6,74,360,All People's Party,APP,Nigeria,NGA-APP
+NGA,1999,2003,1999,12.4,68,360,Alliance for Democracy,AD,Nigeria,NGA-AD
+NGA,2011,2011,2011,8.3,30,360,Congress for Progressive Change,CPC,Nigeria,NGA-CPC
+NGA,1998,1998,1998,13.8,39,282,Democratic Party of Nigeria,DPN,Nigeria,NGA-DPN
+NGA,1979,1983,1979,9.6,43,449,Greater Nigerian People's Party,GNPP,Nigeria,NGA-GNPP
+NGA,1959,1959,1959,26,81,312,National Council of Nigeria and the Cameroons,NCNC,Nigeria,NGA-NCNC
+NGA,1965,1965,1965,26.9,84,312,National Council of Nigerian Citizens,NCNC,Nigeria,NGA-NCNC-2
+NGA,1979,1983,1983,58.7,264,450,National Party of Nigeria,NPN,Nigeria,NGA-NPN
+NGA,1992,1992,1992,50.6,275,593,National Republican Convention,NRC,Nigeria,NGA-NRC
+NGA,1965,1965,1965,11.5,36,312,Nigerian National Democratic Party,NNDP,Nigeria,NGA-NNDP
+NGA,1979,1983,1979,17.4,78,449,Nigerian People's Party,NPP,Nigeria,NGA-NPP
+NGA,1959,1965,1965,51.9,162,312,Northern People's Congress,NPC,Nigeria,NGA-NPC
+NGA,1999,2011,2007,73.1,263,360,People's Democratic Party,PDP,Nigeria,NGA-PDP
+NGA,1979,2003,1979,10.9,49,449,People's Redemption Party,PRP,Nigeria,NGA-PRP
+NGA,1992,1992,1992,49.4,314,593,Social Democratic Party,SDP,Nigeria,NGA-SDP
+NGA,1998,1998,1998,81.2,229,282,United Nigeria Congress Party,UNCP,Nigeria,NGA-UNCP
+NGA,1979,1983,1979,24.7,111,449,Unity Party of Nigeria,UPN,Nigeria,NGA-UPN
+NGA,1983,1983,1983,14.2,64,450,Vacant,,Nigeria,NGA-V-2
+RWA,2003,2003,2003,5.7,3,53,Centrist Democratic Party,PDC,Rwanda,RWA-CDP-2
+RWA,1969,1969,1969,100,47,47,Democratic Republican Movement-Party of the Hutu Emancipation Movement,,Rwanda,RWA-DRMPHEM
+RWA,2003,2008,2003,10.6,6,53,Liberal Party,PL,Rwanda,RWA-LP
+RWA,1981,1988,1981,100,64,64,National Revolutionary Movement for Development,MRND,Rwanda,RWA-NRMD
+RWA,1961,1965,1965,100,47,47,Party of the Hutu Emancipation Movement,PARMEHUTU,Rwanda,RWA-PHEM
+RWA,2003,2008,2008,67.9,36,53,Rwandan Patriotic Front,FPR,Rwanda,RWA-RPF
+RWA,2003,2003,2003,73.8,40,53,Rwandan Patriotic Front,FPR,Rwanda,RWA-RPF-2
+RWA,1961,1961,1961,16.9,7,44,Rwandese National Union,UNAR,Rwanda,RWA-RNU
+RWA,2003,2008,2008,13.2,7,53,Social Democratic Party,PSD,Rwanda,RWA-SDP
+SDN,1968,2010,1968,46.3,101,218,Democratic Unionist Party,DUP,Sudan,SDN-DUP
+SDN,1953,2010,1996,100,400,400,Independents,,Sudan,SDN-I
+SDN,2000,2010,2000,98.6,355,360,National Congress Party,NCP,Sudan,SDN-NCP
+SDN,1986,1986,1986,19.6,51,260,National Islamic Front,,Sudan,SDN-NIF
+SDN,1953,1958,1953,52.6,51,97,National Unionist Party,NUP,Sudan,SDN-NUP
+SDN,1958,1958,1958,15,26,173,People's Democratic Party,PDP,Sudan,SDN-PDP
+SDN,1958,1958,1958,23.1,40,173,Southern Liberal Party,SLP,Sudan,SDN-SLP
+SDN,1953,1953,1953,9.3,9,97,Southern Party,SP,Sudan,SDN-SP
+SDN,1968,1968,1968,6.9,15,218,Sudan African National Union,SANU,Sudan,SDN-SANU
+SDN,2010,2010,2010,22,99,450,Sudan People's Liberation Movement,SPLM,Sudan,SDN-SPLM
+SDN,1978,1982,1978,100,304,304,Sudanese Socialist Union,SSU,Sudan,SDN-SSU
+SDN,1968,1968,1968,13.8,30,218,Umma Party-Imam al-Hadi faction,UMMA-Imam,Sudan,SDN-UPIH
+SDN,1968,1968,1968,16.5,36,218,Umma Party-Sadiq al-Mahdi faction,,Sudan,SDN-UPSM
+SDN,1953,1986,1986,38.5,100,260,Umma Party,UMMA,Sudan,SDN-UP
+SEN,2001,2001,2001,16.1,11,120,Alliance of Progressive Forces,AFP,Senegal,SEN-APF
+SEN,2012,2012,2012,53.1,119,150,Benno Bokk Yakaar coalition,,Senegal,SEN-BBY
+SEN,2012,2012,2012,7.3,4,150,Bokk Giss Giss coalition,,Senegal,SEN-BGG
+SEN,2012,2012,2012,5.8,4,150,Citizen Movement for National Reform,,Senegal,SEN-CMNR
+SEN,1959,2001,2001,5.3,,120,Others,,Senegal,SEN-O
+SEN,1963,1963,1963,5.8,,80,Senegalese Democracy and Unity,DUS,Senegal,SEN-SDU
+SEN,1978,2012,1993,30.2,27,120,Senegalese Democratic Party,PDS,Senegal,SEN-SDP
+SEN,1959,1973,1968,100,80,80,Senegalese Progressive Union,UPS,Senegal,SEN-SPU
+SEN,1959,1959,1959,12.1,,80,Senegalese Solidarity Party,PSS,Senegal,SEN-SSP
+SEN,1978,2001,1978,81.7,83,100,Socialist Party,PS,Senegal,SEN-SP
+SEN,2007,2007,2007,69.2,131,150,Sopi 2007 coalition,,Senegal,SEN-S-2
+SEN,2001,2001,2001,49.6,89,120,Sopi Coalition,,Senegal,SEN-SC
+SEN,2007,2007,2007,5,3,150,Takku Defaraat Sénégal coalition,,Senegal,SEN-TDS
+SEN,1998,1998,1998,13.2,11,140,Union for Democratic Renewal,URD,Senegal,SEN-UDR-2
+SLE,1962,2007,1982,100,104,104,All People's Congress,APC,Sierra Leone,SLE-APC
+SLE,1957,2007,1962,42.6,14,62,Independents,,Sierra Leone,SLE-I-2
+SLE,1996,1996,1996,5.3,4,68,National Unity Party,NUP,Sierra Leone,SLE-NUP
+SLE,1996,2002,1996,15.3,12,68,People's Democratic Party,PDP,Sierra Leone,SLE-PDP
+SLE,2007,2007,2007,15.4,10,112,People's Movement for Democratic Change,PMDC,Sierra Leone,SLE-PMDC
+SLE,1957,2007,2002,69.9,83,112,Sierra Leone People's Party,SLPP,Sierra Leone,SLE-SLPP
+SLE,1977,1977,1977,9.4,8,85,Undecided,,Sierra Leone,SLE-U
+SLE,1996,2007,1996,21.6,17,68,United National People's Party,UNPP,Sierra Leone,SLE-UNPP
+SLE,1957,1962,1957,12.6,5,39,United Progressive Party,UPP,Sierra Leone,SLE-UPP
+SML,2005,2005,2005,26.9,21,82,Justice and Welfare Party,UCID,Somaliland,SML-JWP
+SML,2005,2005,2005,34.1,28,82,"Peace, Unity, and Development Party",KULMIYE,Somaliland,SML-PUDP
+SML,2005,2005,2005,39,33,82,Unity of Democrats Party,UDUB,Somaliland,SML-UDP
+SOM,1956,1956,1956,26,13,60,Hizbia Digil and Mirifle,HDM,Somalia,SOM-HDM
+SOM,1959,1969,1959,11.4,2,90,Liberal Somali Youth Party,PLGS,Somalia,SOM-LSYP
+SOM,1960,1960,1960,24.9,1,33,National United Front,NUF,Somalia,SOM-NUF
+SOM,1956,1969,1969,22.8,12,123,Others,,Somalia,SOM-O
+SOM,1969,1969,1969,5.5,2,123,Popular Movement for Democratic Action,PMDA,Somalia,SOM-PMDA
+SOM,1964,1969,1969,5.4,6,123,Somali African National Union,SANU,Somalia,SOM-SANU
+SOM,1956,1956,1956,13.2,3,60,Somali Democratic Movement,SDM,Somalia,SOM-SDM
+SOM,1964,1969,1964,10.5,15,123,Somali Democratic Union,SDU,Somalia,SOM-SDU
+SOM,1959,1969,1959,13,5,90,Somali Independent Constitutional Party,HDMS,Somalia,SOM-SICP
+SOM,1964,1969,1964,20.4,22,123,Somali National Congress,SNC,Somalia,SOM-SNC
+SOM,1960,1964,1960,52.1,20,33,Somali National League,SNL,Somalia,SOM-SNL
+SOM,1979,1984,1979,100,171,171,Somali Revolutionary Socialist Party,SRSP,Somalia,SOM-SRSP
+SOM,1956,1969,1959,75.6,83,90,Somali Youth League,SYL,Somalia,SOM-SYL
+SOM,1960,1969,1960,16.4,12,33,United Somali Party,USP,Somalia,SOM-USP
+SSD,2010,2010,2010,94.1,160,170,Sudan People's Liberation Movement,SPLM,South Sudan,SSD-SPLM
+STP,1991,1994,1991,5,1,55,Democratic Coalition of the Opposition,CODO,São Tomé & Príncipe,STP-DCO
+STP,1991,2010,1991,54.4,33,55,Democratic Convergence Party-Reflection Group,PCD-GR,São Tomé & Príncipe,STP-DCPRG
+STP,2002,2006,2002,39.4,23,55,Force for Change Democratic Movement-Democratic Convergence Party,MDFM-PCD,São Tomé & Príncipe,STP-FCDMDCP
+STP,2010,2010,2010,7.3,1,55,Force for Change Democratic Movement-Liberal Party,MDFM-PL,São Tomé & Príncipe,STP-FCDMLP
+STP,1994,2010,2010,43.1,26,55,Independent Democratic Action,ADI,São Tomé & Príncipe,STP-IDA
+STP,1975,1985,1975,100,16,16,Movement for the Liberation of São Tomé and Príncipe,,São Tomé & Príncipe,STP-MLSTP
+STP,1991,2010,1998,50.6,31,55,Movement for the Liberation of São Tomé and Príncipe-Social Democratic Party,MLSTP-PSD,São Tomé & Príncipe,STP-MLSTPSDP
+STP,1991,1998,1991,8.6,,55,Others,,São Tomé & Príncipe,STP-O
+STP,2002,2006,2002,16.2,8,55,Uê Kédadji,UK,São Tomé & Príncipe,STP-UK
+SWZ,1964,1972,1967,79.3,24,24,Imbokodvo National Movement,INM,Swaziland,SWZ-INM
+SWZ,1964,1972,1967,20.2,,24,Ngwane National Liberatory Congress,NNLC,Swaziland,SWZ-NNLC
+SWZ,1978,2008,1978,100,50,50,Non-Partisan,,Swaziland,SWZ-NP
+SWZ,1964,1964,1964,33.3,8,24,Tinkhundla seats,,Swaziland,SWZ-T
+SWZ,1964,1964,1964,25,6,24,United Swaziland Association,USA,Swaziland,SWZ-USA
+SYC,1992,2002,1992,33.7,8,22,Democratic Party,DP,Seychelles,SYC-DP
+SYC,2011,2011,2011,88.6,31,31,People's Party,PL,Seychelles,SYC-PP
+SYC,2011,2011,2011,10.9,,31,Popular Democratic Movement,PDM,Seychelles,SYC-PDM
+SYC,1970,1974,1970,53.8,10,15,Seychelles Democratic Party,SDP,Seychelles,SYC-SDP
+SYC,2007,2007,2007,43.8,11,34,Seychelles National Party-Democratic Party,SNP-DP,Seychelles,SYC-SNPDP
+SYC,1992,2002,2002,42.6,11,34,Seychelles National Party,SNP,Seychelles,SYC-SNP
+SYC,1979,2007,1979,100,25,25,Seychelles People's Progressive Front,SPPF,Seychelles,SYC-SPPF
+SYC,1970,1974,1974,47.6,2,15,Seychelles People's United Party,SPUP,Seychelles,SYC-SPUP
+SYC,1998,1998,1998,26.1,3,34,United Opposition,UO,Seychelles,SYC-UO
+SYC,1993,1993,1993,9.7,1,33,United Opposition,UO,Seychelles,SYC-UO-2
+TCD,1959,1959,1959,9.8,,85,African Socialist Movement,MSA,Chad,TCD-ASM
+TCD,1959,1969,1962,100,85,85,Chadian Progressive Party,PPT,Chad,TCD-CPP
+TCD,2002,2011,2002,6.5,10,155,Federation Action for the Republic,FAR,Chad,TCD-FAR
+TCD,1959,1959,1959,7.8,2,85,Grouping of Rural and Independent Chadians,GIRT,Chad,TCD-GRIC
+TCD,1959,1959,1959,7.3,17,85,Independent Democratic Union of Chad,UDIT,Chad,TCD-IDUC
+TCD,1990,1990,1990,100,123,123,Independents,,Chad,TCD-I
+TCD,2011,2011,2011,6.9,13,188,Invalidated,,Chad,TCD-I-2
+TCD,1997,2011,1997,12,15,125,National Union for Democracy and Renewal,UNDR,Chad,TCD-NUDR
+TCD,1997,2011,2002,72.9,113,155,Patriotic Salvation Movement,MPS,Chad,TCD-PSM
+TCD,1997,2011,2002,6.5,10,155,Rally for Democracy and Progress,RDP,Chad,TCD-RDP
+TCD,1997,2011,1997,23.2,29,125,Union for Renewal and Democracy,URD,Chad,TCD-URD
+TGO,1994,2007,1994,44.4,36,81,Action Committee for Renewal,CAR,Togo,TGO-ACR
+TGO,1958,1958,1958,63,29,46,Committee of Togolese Unity,CUT,Togo,TGO-CTU
+TGO,1958,2002,1958,8.7,4,46,Independents,,Togo,TGO-I
+TGO,1961,1961,1961,100,52,52,Party of Togolese Unity,PUT,Togo,TGO-PTU
+TGO,1979,2007,1979,100,67,67,Rally of the Togolese People,RPT,Togo,TGO-RTP
+TGO,1958,1958,1958,6.5,3,46,Togolese Progress Party,PTP,Togo,TGO-TPP
+TGO,1994,1994,1994,8.6,7,81,Togolese Union for Democracy,UTD,Togo,TGO-TUD
+TGO,1958,1958,1958,21.7,10,46,Union of Chiefs and Populations of the North,UCPN,Togo,TGO-UCPN
+TGO,2007,2007,2007,33.3,27,81,Union of Forces for Change,UFC,Togo,TGO-UFC
+TZA,1995,2010,2010,13.7,48,350,Chama cha Demokrasia na Maendeleo,CHADEMA,Tanzania,TZA-CDM
+TZA,1980,2010,1980,100,,,Chama Cha Mapinduzi,CCM,Tanzania,TZA-CCM
+TZA,1995,2010,2005,14.2,31,323,Civic United Front,CUF,Tanzania,TZA-CUF
+TZA,1960,1960,1960,16.9,1,71,Independents,,Tanzania,TZA-I
+TZA,1995,2010,1995,21.8,19,269,National Convention for Construction and Reform-Mageuzi,,Tanzania,TZA-NCCRM
+TZA,1959,1959,1959,6.7,2,30,Others,,Tanzania,TZA-O-2
+TZA,1959,1960,1959,93.3,28,30,Tanganyika African National Union,TANU,Tanzania,TZA-TANU
+TZA,1995,2010,2000,9.2,5,295,Tanzania Labour Party,TLP,Tanzania,TZA-TLP
+UGA,1958,2011,1961,47.3,43,91,Democratic Party,DP,Uganda,UGA-DP
+UGA,2006,2011,2006,13,37,284,Forum for Democratic Change,FDC,Uganda,UGA-FDC
+UGA,1958,2011,1989,75.5,210,278,Independents,,Uganda,UGA-I
+UGA,1962,1962,1962,25.6,21,82,Kabaka Yekka,KY,Uganda,UGA-KY
+UGA,1989,1989,1989,24.5,68,278,,,Uganda,UGA-NA
+UGA,1996,2011,2011,72.1,263,365,National Resistance Movement,NRM,Uganda,UGA-NRM
+UGA,1994,1994,1994,100,284,284,non-partisan delegates,,Uganda,UGA-
+UGA,1961,1996,1996,43.5,120,276,Others,,Uganda,UGA-O
+UGA,1958,1962,1958,50,5,10,Uganda National Congress,UNC,Uganda,UGA-UNC
+UGA,1962,2011,1962,51.8,37,82,Uganda People's Congress,UPC,Uganda,UGA-UPC
+UGA,1961,2006,1961,38.5,35,91,Uganda People’s Congress,UPC,Uganda,UGA-UPC-2
+ZAF,1994,2009,2004,69.7,279,400,African National Congress,ANC,South Africa,ZAF-ANC
+ZAF,2009,2009,2009,7.4,30,400,Congress of the People,COPE,South Africa,ZAF-CP
+ZAF,1969,1989,1989,31.5,41,178,Conservative Party,CP,South Africa,ZAF-CP-2
+ZAF,2004,2009,2009,16.7,67,400,Democratic Alliance,DA,South Africa,ZAF-DA
+ZAF,1989,1999,1989,20,34,178,Democratic Party,DP,South Africa,ZAF-DP
+ZAF,1989,1989,1989,5.9,5,85,Democratic Reform Party,DRP,South Africa,ZAF-DRP
+ZAF,1938,1943,1938,6.3,8,150,Dominion Party,DP,South Africa,ZAF-DP-2
+ZAF,1969,1994,1969,27.5,11,40,Federal Party,FP,South Africa,ZAF-FP
+ZAF,1910,1989,1933,27.3,6,150,Independents,,South Africa,ZAF-I-2
+ZAF,1994,2009,1994,10.5,43,400,Inkatha Freedom Party,IFP,South Africa,ZAF-IFP
+ZAF,1969,1989,1984,95,76,80,Labour Party,LP,South Africa,ZAF-LP
+ZAF,1989,1989,1989,5.3,1,45,National Federal Party,NFP,South Africa,ZAF-NFP
+ZAF,1915,1994,1974,72.2,122,169,National Party,NP,South Africa,ZAF-NP
+ZAF,1969,1989,1984,45,18,40,National People’s Party,NPP,South Africa,ZAF-NPP
+ZAF,1961,1961,1961,6.3,1,156,National Union,NU,South Africa,ZAF-NU
+ZAF,1999,2004,1999,6.9,28,400,New National Party,NNP,South Africa,ZAF-NNP
+ZAF,1977,1987,1977,12.1,10,165,New Republic Party,NRP,South Africa,ZAF-NRP
+ZAF,1958,1987,1975,22.5,9,40,Others,,South Africa,ZAF-O
+ZAF,1977,1987,1977,16.7,17,165,Progressive Federal Party,PFP,South Africa,ZAF-PFP
+ZAF,1961,1974,1961,8.6,1,156,Progressive Party,PP,South Africa,ZAF-PP
+ZAF,1938,1938,1938,31.3,27,150,Purified National Party,GNP,South Africa,ZAF-PNP
+ZAF,1943,1943,1943,36.7,43,150,Reunited National Party,HNP,South Africa,ZAF-RNP
+ZAF,1948,1948,1948,37.7,70,150,Reunited National Party,HNP,South Africa,ZAF-RNP-2
+ZAF,1933,1933,1933,8.6,2,150,Roos Party,RP,South Africa,ZAF-RP-2
+ZAF,1984,1989,1984,42.5,17,40,Solidarity,SOL,South Africa,ZAF-S
+ZAF,1910,1961,1920,15.7,21,134,South African Labour Party,SALP,South Africa,ZAF-SALP
+ZAF,1924,1924,1924,39.6,53,134,South African Party-Unionist Party,SAP-UP,South Africa,ZAF-SAPUP
+ZAF,1910,1977,1910,54.5,66,121,South African Party,SAP,South Africa,ZAF-SAP
+ZAF,1910,1920,1910,31.4,38,121,Unionist Party,UP,South Africa,ZAF-UP
+ZAF,1938,1989,1938,53.8,111,150,United Party,UP,South Africa,ZAF-UP-2
+ZMB,1964,1968,1968,25.4,23,105,African National Congress,ANC,Zambia,ZMB-ANC
+ZMB,2001,2011,2001,15.6,12,150,Forum for Democracy and Development,FDD,Zambia,ZMB-FDD
+ZMB,2001,2011,2001,7.5,4,150,Heritage Party,HP,Zambia,ZMB-HP
+ZMB,1964,2011,1996,10.3,10,150,Independents,,Zambia,ZMB-I
+ZMB,1991,2011,1991,83.3,125,150,Movement for Multiparty Democracy,MMD,Zambia,ZMB-MMD
+ZMB,1996,2011,1996,7.2,5,150,National Party,NP,Zambia,ZMB-NP
+ZMB,1964,1964,1964,13.3,10,75,National Progressive Party,NPP,Zambia,ZMB-NPP
+ZMB,1996,2001,1996,6.8,,150,Others,,Zambia,ZMB-O
+ZMB,2001,2011,2011,38.2,60,150,Patriotic Front,PF,Zambia,ZMB-PF
+ZMB,2006,2006,2006,18,27,150,United Democratic Alliance,UDA,Zambia,ZMB-UDA
+ZMB,1964,2011,1973,100,136,136,United National Independence Party,UNIP,Zambia,ZMB-UNIP
+ZMB,2001,2011,2001,23.8,49,150,United Party for National Development,UPND,Zambia,ZMB-UPND
+ZMB,1996,1996,1996,14.1,2,150,Zambian Democratic Congress,ZDC,Zambia,ZMB-ZDC
+ZMB,2001,2001,2001,5.5,1,150,Zambian Republican Party,ZRP,Zambia,ZMB-ZRP
+ZWE,1970,1970,1970,9.2,7,76,Centre Party,CP,Zimbabwe,ZWE-CP
+ZWE,1985,1985,1985,15,15,100,Conservative Alliance of Zimbabwe,CAZ,Zimbabwe,ZWE-CAZ
+ZWE,1995,1995,1995,6,,120,Forum Party of Zimbabwe,FPZ,Zimbabwe,ZWE-FPZ
+ZWE,1980,2005,1995,5,,120,Independents,,Zimbabwe,ZWE-I
+ZWE,1970,1977,1970,10.5,8,76,Members selected by African Chiefs,,Zimbabwe,ZWE-MAC
+ZWE,2000,2005,2000,47,57,120,Movement for Democratic Change,MDC,Zimbabwe,ZWE-MDC
+ZWE,1965,1965,1965,13.3,10,75,National People’s Party,NPP,Zimbabwe,ZWE-NPP
+ZWE,1965,2000,1974,10.5,8,76,Others,,Zimbabwe,ZWE-O-2
+ZWE,1965,1980,1965,66.7,50,75,Rhodesian Front,RF,Zimbabwe,ZWE-RF
+ZWE,1979,1979,1979,67.3,51,72,United National African Council,UANC,Zimbabwe,ZWE-UNAC
+ZWE,1979,1980,1979,10.8,9,72,United National Federal Party,UNFP,Zimbabwe,ZWE-UNFP
+ZWE,1980,2005,1995,6.9,2,120,Zimbabwe African National Union-Ndonga,,Zimbabwe,ZWE-ZANUN
+ZWE,1990,2005,1995,81.4,118,120,Zimbabwe African National Union-Patriotic Front,ZANU-PF,Zimbabwe,ZWE-ZANUPF
+ZWE,1979,1985,1985,64,64,100,Zimbabwe African National Union,ZANU,Zimbabwe,ZWE-ZANU
+ZWE,1980,1985,1980,20,20,100,Zimbabwe African People’s Union,ZAPU,Zimbabwe,ZWE-ZAPU
+ZWE,1979,1979,1979,6.4,,72,Zimbabwe United People's Organization,ZUPO,Zimbabwe,ZWE-ZUPO
+ZWE,1990,1990,1990,17.6,2,120,Zimbabwe Unity Movement,ZUM,Zimbabwe,ZWE-ZUM
