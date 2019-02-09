@@ -12,3 +12,8 @@ Chapel Hill expert surveys 1999–2017 – [chesdata.eu](https://www.chesdata.eu
 + see CHES 1999-2014 trend file import – `ches-2014`
 + see CHES 2017 flash survey import – `ches-2017`
 + see `ches.R` for final party information
+
+
+---
+
+![European political space 2017](ches-2017/ches-2017-space.png)
