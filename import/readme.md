@@ -15,7 +15,7 @@ For a detailed instruction how to contribute your dataset, see [our import guide
 
 Most of the data preparation is done in R. Some scripts may require additional packages. We have a strong preference for [RStudio R packages](https://www.rstudio.com/products/rpackages/) (esp. [tidyverse](https://tidyverse.org/)). `run-all.R` includes information about used packages.
 
-Please use the [tidyverse R Style Guide](https://style.tidyverse.org/) when writing code in R.  
+Please use the [tidyverse R Style Guide](https://style.tidyverse.org/) when writing code in R.
 
 Party Facts import requires ISO3 country codes. `country.csv` includes the respective information. Recode country names with the R-package `countrycode`
 
@@ -59,4 +59,13 @@ Template for dataset readme.md files
 
  * (...)
 
+
+---
+
+ _add figure for dataset if feasible_
+
+`ggsave(..., width = 20, height = 15, units = "cm")`
+
 ```
+
+![PF Data number of parties in dataset](pf-data.png)
