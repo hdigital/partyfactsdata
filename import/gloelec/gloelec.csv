@@ -1,0 +1,658 @@
+country_short,cnty,party_name,year_first,year_last,share_year,share_vote,party_id
+ALB,Albania,Socialist Party of Albania,2001,2005,2001,43,ALBP10
+ALB,Albania,Socialist Movement for Integration,2005,2005,2005,8.3,ALBP11
+ALB,Albania,Democratic Party,2001,2005,2005,25.9,ALBP34
+ALB,Albania,Union for Victory,2001,2001,2001,37.7,ALBP35
+ALB,Albania,Republican Party,2005,2005,2005,10,ALBP65
+ALB,Albania,Social Democratic Party,2001,2005,2005,7,ALBP70
+AUS,Australia,Australian Democrats,1993,2001,1996,6.8,AUSP15
+AUS,Australia,Liberal Party of Australia,1993,2001,1996,38.7,AUSP31
+AUS,Australia,National Party of Australia,1993,2001,1996,8.2,AUSP34
+AUS,Australia,Australian Labor Party,1993,2001,1993,44.9,AUSP6
+AUS,Australia,Pauline Hanson's One Nation,1998,2001,1998,8.4,AUSP68
+AUT,Austria,Austrian People's Party,1945,2008,1995,60.3,AUTP1
+AUT,Austria,Austrian People's Opposition,1953,1953,1953,5.3,AUTP12
+AUT,Austria,Freedom Party of Austria,1956,2008,1995,27,AUTP19
+AUT,Austria,Austrian Socialist Party,1945,2008,1995,81.1,AUTP2
+AUT,Austria,Austrian Communist Party,1945,2008,1995,46.6,AUTP3
+AUT,Austria,Green Alternatie/Green in Parliament,1990,2008,2006,11,AUTP46
+AUT,Austria,Austrian Communist Party-Left Socialists,1949,1949,1949,5.1,AUTP5
+AUT,Austria,Liberal Forum-Heide Schmidt,1994,1999,1995,11.7,AUTP53
+AUT,Austria,Electoral Party of Independents,1949,1953,1949,11.7,AUTP6
+AUT,Austria,Alliance for the Future of Austria,2008,2008,2008,10.7,AUTP72
+BEL,Belgium,CVP,1978,1999,1978,26.1,BELP1
+BEL,Belgium,VLD,1995,2003,2003,15.4,BELP119
+BEL,Belgium,AGALEV,1978,2003,1999,7,BELP12
+BEL,Belgium,PRL/FDF,1995,1999,1995,10.3,BELP125
+BEL,Belgium,ECOLO,1978,2007,1999,7.4,BELP13
+BEL,Belgium,VU/ID,1999,1999,1999,5.6,BELP158
+BEL,Belgium,PSC,1978,1999,1978,9.3,BELP21
+BEL,Belgium,CD&V NVA,2007,2007,2007,18.5,BELP224
+BEL,Belgium,CD&V,2003,2003,2003,13.2,BELP225
+BEL,Belgium,VLAAMS BELANG,2007,2007,2007,12,BELP227
+BEL,Belgium,OPEN VLD,2007,2007,2007,11.8,BELP229
+BEL,Belgium,PSB,1978,1978,1978,11.9,BELP23
+BEL,Belgium,SP.A.SPIRIT,2003,2007,2003,14.9,BELP230
+BEL,Belgium,CDH,2003,2007,2007,6.1,BELP234
+BEL,Belgium,MR,2003,2007,2007,12.5,BELP235
+BEL,Belgium,BSP,1978,1978,1978,12.4,BELP3
+BEL,Belgium,PVV,1978,1991,1981,12.9,BELP5
+BEL,Belgium,SP,1981,1999,1987,14.9,BELP52
+BEL,Belgium,PRL,1981,1991,1985,9.6,BELP57
+BEL,Belgium,PS,1981,2007,1987,15.6,BELP59
+BEL,Belgium,VU,1978,1995,1981,9.8,BELP6
+BEL,Belgium,VLBLOK,1978,2003,1999,9.9,BELP7
+BEL,Belgium,PSB,1978,2003,2003,7.6,BELP70
+BGR,Bulgaria,MRF-Liberal Union-EuroRoma,2001,2001,2001,7.5,BGRP101
+BGR,Bulgaria,United Democratic Forces-People's Union BSDP and National MRF,2001,2001,2001,18.2,BGRP115
+BGR,Bulgaria,Union of Free Democrats Agrarian Union-People's Union [BZNS] BMRO-Bulgarian National Movement-Coalition Bulgarian People's Union,2005,2005,2005,5.2,BGRP12
+BGR,Bulgaria,Ataka Coalition,2005,2005,2005,8.1,BGRP14
+BGR,Bulgaria,Movement for Rights and Freedoms [MRF],1994,2005,2005,12.8,BGRP17
+BGR,Bulgaria,Union of Democratic Forces-Democratic Party-Movement Gergovden-BZNS NS-BZNS DROM,2005,2005,2005,7.7,BGRP19
+BGR,Bulgaria,Union of the Democratic Forces,1994,1994,1994,24.2,BGRP25
+BGR,Bulgaria,People's Union: BAPU-DP,1994,1994,1994,6.5,BGRP28
+BGR,Bulgaria,Coalition for Bulgaria*,2005,2005,2005,31,BGRP3
+BGR,Bulgaria,Coalition-BSP BAPU Al. Stamboliyski and PC Ecoglasnost,1994,1994,1994,43.5,BGRP45
+BGR,Bulgaria,National Movement of Simeon II,2001,2005,2001,42.7,BGRP6
+BGR,Bulgaria,Coalition for Bulgaria - BSP,2001,2001,2001,17.1,BGRP65
+BGR,Bulgaria,United Democratic Forces: DP-BAPU-BSDP,1997,1997,1997,52.3,BGRP78
+BGR,Bulgaria,Democrats for Strong Bulgaria,2005,2005,2005,6.4,BGRP8
+BGR,Bulgaria,Euroleft,1997,1997,1997,5.5,BGRP83
+BGR,Bulgaria,Democratic Left-BSP PC Ecoglasnost,1997,1997,1997,22.1,BGRP85
+BGR,Bulgaria,Union For National Salvation-BAPU-Nikola Petkov Movement for Rights and Freedoms Green Party Party of the Democratic Center New Choice Federation Kingdom of Bulgaria,1997,1997,1997,7.6,BGRP88
+BIH,Bosnia-Herzegovina,Democratic Action Party,1996,2006,1996,37.9,BIHP10
+BIH,Bosnia-Herzegovina,United List of Bosnia Herzegovina,1996,1996,1996,5.7,BIHP13
+BIH,Bosnia-Herzegovina,People's Union for Peace,1996,1996,1996,5.7,BIHP16
+BIH,Bosnia-Herzegovina,Serbian Democratic Party,1996,2006,1996,24.1,BIHP18
+BIH,Bosnia-Herzegovina,Serbian Radical Party of Republic of Serbia,1996,2006,1998,6.9,BIHP19
+BIH,Bosnia-Herzegovina,Coalition for a United and Democratic BiH,1998,1998,1998,33.8,BIHP24
+BIH,Bosnia-Herzegovina,Social Democratic Party BiH,1998,2006,2006,10.1,BIHP25
+BIH,Bosnia-Herzegovina,Croatian Democratic Community BiH,1996,1998,1996,14.1,BIHP33
+BIH,Bosnia-Herzegovina,Sloga Coalition [SLOGA],1998,1998,1998,12.4,BIHP43
+BIH,Bosnia-Herzegovina,SDS List [SDS Lista],1998,1998,1998,9.4,BIHP44
+BIH,Bosnia-Herzegovina,Alliance of Independent Social Democrats-Milorad Dodik,2006,2006,2006,19.1,BIHP62
+BIH,Bosnia-Herzegovina,Party for BiH,1996,2006,2006,15.5,BIHP9
+BMU,Bermuda,National Liberal Party [NLP],1989,1998,1989,9.8,BMUP2
+BMU,Bermuda,Progressive Labour Party [PLP],1989,1998,1998,53.8,BMUP3
+BMU,Bermuda,United Bermuda Party [UBP],1989,1998,1993,50,BMUP4
+BOL,Bolivia,Free Bolivia Movement,1993,1997,1993,5.4,BOLP10
+BOL,Bolivia,New Republican Power,2002,2002,2002,18.3,BOLP12
+BOL,Bolivia,Movement of the Revolutionary Left-New Majority,2002,2002,2002,9,BOLP14
+BOL,Bolivia,Movement toward Socialism,2002,2002,2002,17.9,BOLP15
+BOL,Bolivia,Indigenous Pachakuti Movement,2002,2002,2002,5.7,BOLP16
+BOL,Bolivia,Nationalist Revolutionary Movement-Free Bolivia Movement,2002,2002,2002,11.5,BOLP17
+BOL,Bolivia,Nationaist Revolutionary Movement of the Left,1985,1985,1985,5.5,BOLP25
+BOL,Bolivia,United Left,1985,1997,1989,8,BOLP3
+BOL,Bolivia,Democratic Nationalist Action,1985,2002,1985,32.8,BOLP4
+BOL,Bolivia,Patriotic Agreement,1993,1993,1993,21.1,BOLP40
+BOL,Bolivia,National Revolutionary Movement - Tupaj Katari Revolutionary Movement of Liberation,1993,1993,1993,35.6,BOLP41
+BOL,Bolivia,Nationalist Revolutionary Movement,1985,2002,1985,30.4,BOLP5
+BOL,Bolivia,Unity of Civic Solidarity,1993,2002,1997,15.1,BOLP6
+BOL,Bolivia,Conscious of the Homeland,1989,2002,1997,15.6,BOLP8
+BOL,Bolivia,Movement of the Revolutionary Left,1985,2002,1989,21.8,BOLP9
+BWA,Botswana,Botswana Congress Party [BCP],1999,1999,1999,11.9,BWAP2
+BWA,Botswana,Botswana Democratic Party [BDP],1999,1999,1999,57.2,BWAP3
+BWA,Botswana,Botswana National Front [BNF],1999,1999,1999,26,BWAP4
+CAN,Canada,CCF,1945,1958,1945,15.6,CANP10
+CAN,Canada,Independent,1945,2000,1945,5.4,CANP20
+CAN,Canada,Liberal,1945,2000,1949,49.4,CANP27
+CAN,Canada,Bloc Quebecois,1993,2000,1993,13.5,CANP3
+CAN,Canada,NDP,1962,2000,1988,20.4,CANP35
+CAN,Canada,Progressive Conservative,1945,2000,1958,53.6,CANP44
+CAN,Canada,Reform Party,1988,1997,1997,19.4,CANP46
+CAN,Canada,Social Credit,1945,1993,1963,11.9,CANP48
+CAN,Canada,Canadian Alliance,2000,2000,2000,25.5,CANP6
+CHE,Switzerland,Radical Free Democratic Party of Switzerland,1947,2007,1979,24,CHEP1
+CHE,Switzerland,Green Party of Switzerland,1975,2007,2007,9.6,CHEP13
+CHE,Switzerland,Freedom Party of Switzerland,1987,2007,1991,5.1,CHEP17
+CHE,Switzerland,Christian Democratic People's Party of Switzerland,1947,2007,1963,23.4,CHEP2
+CHE,Switzerland,Social Democratic Party of Switzerland,1947,2007,1955,27,CHEP3
+CHE,Switzerland,Swiss People's Party of the Centre,1947,2007,2007,28.9,CHEP4
+CHE,Switzerland,Independents' Alliance,1947,1999,1967,9.1,CHEP6
+CHE,Switzerland,Swiss Labour Party,1947,2007,1947,5.1,CHEP9
+COL,Colombia,Columbian Liberal Party,1958,1998,1960,58.3,COLP12
+COL,Colombia,National Popular Alliance,1974,1998,1974,9,COLP2
+COL,Colombia,Coalition,1998,1998,1998,9.7,COLP5
+COL,Colombia,Other Parties,1974,1998,1986,6.4,COLP64
+COL,Colombia,Colombian Conservatice Party,1958,1998,1970,48.7,COLP7
+COL,Colombia,New Liberalism,1986,1986,1986,6.6,COLP70
+CRI,Costa Rica,Democrat,1953,1998,1953,21.2,CRIP1
+CRI,Costa Rica,Republican,1958,1962,1962,33.5,CRIP10
+CRI,Costa Rica,National Unification Party,1966,1978,1966,43.3,CRIP18
+CRI,Costa Rica,National Liberation,1953,2002,1953,64.7,CRIP2
+CRI,Costa Rica,Socialist Action,1970,1974,1970,5.5,CRIP24
+CRI,Costa Rica,Democratic Renovation,1974,1974,1974,7.7,CRIP25
+CRI,Costa Rica,People's Union (Coalition),1978,1998,1978,7.7,CRIP28
+CRI,Costa Rica,National Independent,1974,1998,1974,10,CRIP29
+CRI,Costa Rica,National Union,1953,1970,1958,21.4,CRIP3
+CRI,Costa Rica,United Coalition,1978,1982,1978,43.4,CRIP36
+CRI,Costa Rica,Republican National Independence,1953,1953,1953,7.2,CRIP4
+CRI,Costa Rica,Christian Social Unity,1986,2002,1990,46.2,CRIP48
+CRI,Costa Rica,Democratic Power,1994,2002,1998,5.8,CRIP53
+CRI,Costa Rica,Libertarian Movement,1998,2002,2002,9.3,CRIP54
+CRI,Costa Rica,Independent,1958,1998,1958,9.8,CRIP6
+CRI,Costa Rica,Citizen Action,2002,2002,2002,22,CRIP63
+CRI,Costa Rica,Civic Revolutionary Union,1958,1966,1966,5.5,CRIP7
+CZE,Czechoslovakia,Civic Forum,1990,1990,1990,53.2,CSKP1
+CZE,Czechoslovakia,Communist Party of Czechoslovakia,1990,1990,1990,13.5,CSKP2
+CZE,Czechoslovakia,Czechoslovak Social Democracy Party,1992,1992,1992,7.7,CSKP24
+CZE,Czechoslovakia,Christian Democratic Union-Czechoslovak People's Party,1992,1992,1992,6,CSKP26
+CZE,Czechoslovakia,Liberal Social Union,1992,1992,1992,5.8,CSKP27
+CZE,Czechoslovakia,The Assembly for the Republic-Republican Party of Czechoslovakia,1992,1992,1992,6.5,CSKP28
+CZE,Czechoslovakia,Left Block,1992,1992,1992,14.3,CSKP29
+CZE,Czechoslovakia,Civic Democratic Party-Christian Democratic Party,1992,1992,1992,33.9,CSKP30
+CZE,Czechoslovakia,Civic Democratic Alliance,1992,1992,1992,5,CSKP31
+CZE,Czechoslovakia,Movement for Autonomous Democracy-Association for Moravia and Silisea,1990,1992,1990,7.9,CSKP32
+CZE,Czechoslovakia,Christian Democratic Union,1990,1990,1990,8.7,CSKP5
+CYP,Cyprus,Progressive Party of the Working People [AKEL],1981,1996,1996,33,CYPP1
+CYP,Cyprus,Democratic Rally of Cyprus and Liberals,1991,1996,1991,35.8,CYPP14
+CYP,Cyprus,Democratic Party [DIKO],1981,1996,1985,27.6,CYPP2
+CYP,Cyprus,Democratic Rally of Cyprus [DISY],1981,1985,1985,33.6,CYPP3
+CYP,Cyprus,Movement of Social Democrats [EDEK],1981,1996,1985,11.1,CYPP4
+CZE,Czech Republic,Green Party,1998,2006,2006,6.3,CZEP1
+CZE,Czech Republic,Czech and Moravian Communist Party,1996,2006,2002,18.5,CZEP16
+CZE,Czech Republic,Czech Social Democracy Party,1996,2006,2006,32.3,CZEP2
+CZE,Czech Republic,Freedom Union,1998,1998,1998,9,CZEP20
+CZE,Czech Republic,Christian Democratic Union-Czechoslovak People's Party,1996,2006,1998,9.8,CZEP3
+CZE,Czech Republic,Assembly for the Republic-Republican Party of Czechoslovakia,1996,1998,1996,8.1,CZEP4
+CZE,Czech Republic,Christian Democratic Union -Czech People's Party and Freedom Union-Democratic Union,2002,2002,2002,14.3,CZEP47
+CZE,Czech Republic,Civic Democratic Alliance,1996,2002,1996,7.4,CZEP6
+CZE,Czech Republic,Civic Democratic Party,1996,2006,2006,35.4,CZEP8
+DEU,Germany,The Left,2005,2009,2009,11.5,DEUP113
+DEU,West Germany,Christian Democratic Union of Germany,1949,2009,1957,39.7,DEUP20
+DEU,West Germany,Christian Social Union,1949,2009,1983,10.9,DEUP23
+DEU,West Germany,Free Democratic Party,1949,2009,1961,12.4,DEUP54
+DEU,West Germany,All-German Bloc/League of Expellees and the Rights Deprived,1953,1957,1953,5.9,DEUP61
+DEU,Germany,The Greens,1980,2009,2009,10,DEUP66
+DEU,West Germany,Communist Party of Germany,1949,2002,1949,5.7,DEUP70
+DEU,Germany,Party of the Democratic Socialism,1990,2002,1998,5,DEUP81
+DEU,West Germany,Social Democratic Party of Germany,1949,2009,1972,47.4,DEUP94
+DOM,Dominican Republic,Movement of Democratic Integration,1970,1982,1970,20.4,DOMP12
+DOM,Dominican Republic,Quisqueyano Democratic Party,1970,1994,1970,13.6,DOMP14
+DOM,Dominican Republic,Dominican Liberation Party,1978,1986,1986,18.4,DOMP20
+DOM,Dominican Republic,Social Christian Reformist Party,1986,1994,1986,40.5,DOMP21
+DOM,Dominican Republic,Party of Dominican Liberation Alliance,1994,1994,1994,15.8,DOMP36
+DOM,Dominican Republic,Liberal Evolutionary Party,1966,1986,1986,5.3,DOMP4
+DOM,Dominican Republic,Reformist Party,1966,1982,1966,56.5,DOMP6
+DOM,Dominican Republic,Dominican Revolutionary Party,1966,1994,1978,51.7,DOMP7
+DOM,Dominican Republic,Christian Social Revolutionary,1966,1978,1970,5.1,DOMP8
+ESP,Spain,Communist Party of Spain,1977,1982,1979,7.6,ESPP144
+ESP,Spain,Convergence and Union,1979,2008,1989,5.1,ESPP163
+ESP,Spain,Democratic and Social Center,1982,2008,1986,9.3,ESPP165
+ESP,Spain,Democratic Center,1979,1979,1979,5.8,ESPP169
+ESP,Spain,Democratic Center Union,1977,1982,1977,34.5,ESPP170
+ESP,Spain,Party of the Catalonian Socialists-Spanish Workers' Socialist Party,1977,2008,1982,7.6,ESPP348
+ESP,Spain,People's Party,1989,2008,2000,44.4,ESPP364
+ESP,Spain,Popular Alliance,1977,1977,1977,7.5,ESPP372
+ESP,Spain,Popular Alliance-Popular Democratic Party,1982,1982,1982,21.5,ESPP374
+ESP,Spain,Popular Alliance-Popular Democratic Party-Liberal Party,1986,1986,1986,23.2,ESPP375
+ESP,Spain,Socialist Party of Andalusia-Spanish Workers' Socialist Party,1982,1982,1982,9.9,ESPP451
+ESP,Spain,Spanish Socialist Workers Party-Andalusia,1989,2008,1993,8.8,ESPP489
+ESP,Spain,Spanish Workers' Party-Progressives,2000,2000,2000,26.3,ESPP492
+ESP,Spain,Spanish Workers' Socialist Party,1977,2008,1986,34.4,ESPP494
+EST,Estonia,Secure Home,1992,1992,1992,13.6,ESTP11
+EST,Estonia,People's Front,1992,1992,1992,12.2,ESTP12
+EST,Estonia,Estonian National Independence Party,1992,1992,1992,8.8,ESTP14
+EST,Estonia,Estonian Citizen,1992,1992,1992,6.9,ESTP15
+EST,Estonia,Independent Royalists,1992,1992,1992,7.1,ESTP17
+EST,Estonia,The Right Wingers,1995,1995,1995,5,ESTP19
+EST,Estonia,Coalition Party and Rural Union,1995,1995,1995,32.2,ESTP20
+EST,Estonia,Center Party,1995,2007,2007,26.1,ESTP21
+EST,Estonia,Pro-Patria and ERSP Union,1995,1995,1995,7.9,ESTP26
+EST,Estonia,Our Home is Estonia,1995,1995,1995,5.9,ESTP28
+EST,Estonia,Moderates,1992,2003,1999,15.2,ESTP3
+EST,Estonia,Estonian Reform Party,1995,2007,2007,27.8,ESTP31
+EST,Estonia,Estonian Country People's Party,1999,1999,1999,7.3,ESTP35
+EST,Estonia,Union for the Republic-Res Publica,2003,2003,2003,24.6,ESTP37
+EST,Estonia,Estonian Coalition Party,1999,1999,1999,7.6,ESTP38
+EST,Estonia,Pro-Patria Union,1992,2003,1992,22,ESTP4
+EST,Estonia,Estonian United People's Party,1999,2003,1999,6.1,ESTP41
+EST,Estonia,Estonian People's Union,2003,2007,2003,13,ESTP43
+EST,Estonia,Union of Pro-Patria and Res Publica,2007,2007,2007,17.9,ESTP44
+EST,Estonia,Estonian Green Party,2007,2007,2007,7.1,ESTP45
+EST,Estonia,Social Democratic Party,2007,2007,2007,10.6,ESTP46
+FIN,Finland,Centre Party of Finland,1983,2007,1991,24.8,FINP1
+FIN,Finland,Finnish Rural Party,1983,1995,1983,9.7,FINP11
+FIN,Finland,National Coalition Party,1983,2007,1987,23.1,FINP2
+FIN,Finland,Social Democratic Party of Finland,1983,2007,1995,28.3,FINP3
+FIN,Finland,Left Alliance,1999,2007,1999,10.9,FINP4
+FIN,Finland,Left Wing Alliance [LEFT],1991,1995,1995,11.2,FINP41
+FIN,Finland,Democratic League of the People of Finland,1983,1987,1983,13.5,FINP5
+FIN,Finland,Green League,1987,2007,2007,8.5,FINP6
+FIN,Finland,Christian Democrats in Finland,2003,2007,2003,5.3,FINP7
+FIN,Finland,Swedish People's Party in Finland,1983,2007,1991,5.5,FINP9
+FRA,France,National Front,1988,2007,1997,13,FRAP1
+FRA,France,Union for Presidential Majority,2002,2002,2002,33.3,FRAP103
+FRA,France,Rally for the Republic,1988,1997,1997,9.6,FRAP12
+FRA,France,Union for French Democracy,1988,2002,1993,8.2,FRAP14
+FRA,France,Union of the Rally and the Center,1988,1988,1988,19.3,FRAP16
+FRA,France,Union for France,1993,1993,1993,5.1,FRAP164
+FRA,France,Presidential Majority for United France,1988,1988,1988,12.1,FRAP19
+FRA,France,French Communist Party,1988,2007,1988,10.4,FRAP2
+FRA,France,List of National and Popular Accord,1988,1988,1988,6.5,FRAP22
+FRA,France,Not Designated/No Label,1988,1997,1988,26.9,FRAP269
+FRA,France,Rally for the Republic-Union for Democracy,1988,1997,1997,8.5,FRAP281
+FRA,France,Socialist Party,1988,2007,2007,25.1,FRAP3
+FRA,France,National Front-French First,1993,1997,1993,5.6,FRAP445
+FRA,France,Union for French Democracy-Democratic Movement,2007,2007,2007,7.7,FRAP448
+FRA,France,Socialist Party-Socialist Radical Party and Those Related,1997,1997,1997,10.9,FRAP499
+FRA,France,Union for Popular Mouvement,2007,2007,2007,39.8,FRAP8
+GBR,United Kingdom,Labour,1945,2005,1951,48.6,GBRP188
+GBR,United Kingdom,LibDem,2005,2005,2005,22.1,GBRP200
+GBR,United Kingdom,Liberal,1945,2005,1974,19.3,GBRP201
+GBR,United Kingdom,Liberal Democrat,1983,2001,2001,18.2,GBRP202
+GBR,United Kingdom,Social Democratic,1983,1987,1983,11.6,GBRP335
+GBR,United Kingdom,Conservative,1945,2005,1959,45.3,GBRP69
+GRC,Greece,National Radical Union,1956,1963,1961,50.8,GRCP1
+GRC,Greece,Coalition of the Left of Movements and Ecology,1989,2004,1989,13.1,GRCP109
+GRC,Greece,Union of the Center-Progressive Party,1961,1961,1961,33.7,GRCP12
+GRC,Greece,Pan-Democratic Agricultural Front of Greece,1961,1961,1961,14.6,GRCP13
+GRC,Greece,National Party of Greece,1946,1950,1946,6,GRCP18
+GRC,Greece,United Coalition of Nationalists,1946,1946,1946,55.1,GRCP19
+GRC,Greece,United Left Democracy,1951,1964,1958,24.4,GRCP2
+GRC,Greece,Coalition of the Radical Left,2007,2007,2007,5,GRCP211
+GRC,Greece,National Political Union,1946,1946,1946,19.3,GRCP23
+GRC,Greece,Political Independent Front,1950,1950,1950,8.1,GRCP29
+GRC,Greece,Liberal Party,1946,2007,1958,20.7,GRCP3
+GRC,Greece,Popular Party,1950,1951,1950,18.8,GRCP31
+GRC,Greece,National Recreation Front,1950,1950,1950,5.3,GRCP38
+GRC,Greece,Union of Progressive Agricultural Democracy,1958,1958,1958,10.6,GRCP4
+GRC,Greece,Party of G. Papandreou,1950,1951,1950,10.7,GRCP43
+GRC,Greece,Progressive National Union of the Center,1950,1950,1950,16.4,GRCP52
+GRC,Greece,Democratic Front,1950,1950,1950,9.7,GRCP53
+GRC,Greece,Hellenic Association Party,1951,1951,1951,36.5,GRCP54
+GRC,Greece,National Progressive Party of the Center,1951,1951,1951,23.5,GRCP56
+GRC,Greece,Union of the Center,1963,1964,1964,52.7,GRCP60
+GRC,Greece,National Radical Union-Progressive Party,1964,1964,1964,35.3,GRCP63
+GRC,Greece,New Democracy,1974,2007,1974,54.4,GRCP64
+GRC,Greece,Union of the Center-New Forces,1974,1974,1974,20.4,GRCP65
+GRC,Greece,Pan-Hellenic Socialist Movement,1974,2007,1981,48.1,GRCP66
+GRC,Greece,United Left,1974,1974,1974,9.5,GRCP68
+GRC,Greece,Conservative Democratic Party,1977,1977,1977,11.9,GRCP72
+GRC,Greece,Communist Party of Greece,1977,2007,1981,10.9,GRCP74
+GRC,Greece,Union of Progressives,1977,1977,1977,6.8,GRCP75
+GRC,Greece,Union Democracy,1956,1956,1956,48.2,GRCP8
+HRV,Croatia,Croatian Democratic Community,2000,2007,2007,36.6,HRVP23
+HRV,Croatia,Croatian People's Party,2003,2007,2007,6.8,HRVP40
+HRV,Croatia,Croatian Peasant Party,2003,2003,2003,7,HRVP43
+HRV,Croatia,Croatian Party of Rights,2000,2007,2003,5,HRVP45
+HRV,Croatia,Croatian Social Liberal Party-Croatian Social Democratic Party,2000,2000,2000,27,HRVP49
+HRV,Croatia,Croatian Peasant Party-Liberal Party-Croatian National Party,2000,2000,2000,7.6,HRVP53
+HRV,Croatia,Social Democratic Party,2003,2007,2007,31.3,HRVP97
+HUN,Hungary,Alliance of Free Democrats,2002,2006,2002,6.8,HUNP2
+HUN,Hungary,Hungarian Socialist Party,2002,2006,2002,40.5,HUNP3
+HUN,Hungary,Federation of Young Democrats-Christian Democratic People's Party,2006,2006,2006,42,HUNP59
+HUN,Hungary,Federation of Young Democrats--Hungarian Democratic Forum,2002,2002,2002,39.4,HUNP60
+IDN,Indonesia,Perjuangan PDI Perjuangan [PDI],1999,1999,1999,34.3,IDNP11
+IDN,Indonesia,Partai Amanat Nasional [PAN],1999,1999,1999,7.5,IDNP15
+IDN,Indonesia,Partai GOLKAR [GOLKAR],1999,1999,1999,22,IDNP33
+IDN,Indonesia,Partai Kebangkitan [PKB],1999,1999,1999,12.2,IDNP35
+IDN,Indonesia,Partai Persatuan Pembangunan [PPP],1999,1999,1999,10.7,IDNP9
+IRL,Ireland,Republican Party,1948,1997,1977,50.6,IRLP13
+IRL,Ireland,United Ireland,1948,1997,1982,39.2,IRLP14
+IRL,Ireland,Independent [Ind.],1948,1997,1951,8.9,IRLP20
+IRL,Ireland,Labour [Lab.],1948,1997,1992,19.3,IRLP25
+IRL,Ireland,Children,1948,1965,1948,13.3,IRLP3
+IRL,Ireland,Workers' Party [W.P.],1982,1997,1989,5,IRLP31
+IRL,Ireland,Progressive Democrats [P.D.],1987,1997,1987,11.8,IRLP34
+IRL,Ireland,We Ourselves,1954,1997,1957,5.3,IRLP36
+IRL,Ireland,Children,1948,1961,1948,5.5,IRLP4
+ISL,Iceland,Social Democratic Party,1959,1991,1978,22,ISLP1
+ISL,Iceland,Social Democratic Alliance,1983,1987,1983,7.3,ISLP12
+ISL,Iceland,Women's Alliance,1983,1991,1987,10.1,ISLP13
+ISL,Iceland,Citizen's Party,1987,1987,1987,10.9,ISLP14
+ISL,Iceland,Progressive Party,1959,2007,1963,28.2,ISLP2
+ISL,Iceland,The Alliance,1999,2007,2003,31,ISLP25
+ISL,Iceland,Left Green Movement,1999,2007,2007,14.3,ISLP26
+ISL,Iceland,Independence Party,1959,2007,1974,42.7,ISLP3
+ISL,Iceland,Labour Union,1959,1991,1978,22.9,ISLP4
+ISL,Iceland,Liberal Party of Iceland,1999,2007,2003,7.4,ISLP40
+ISL,Iceland,Union of Liberals and Leftists,1971,1978,1971,8.9,ISLP9
+ISR,Israel,Democratic Movement for Change,1977,1977,1977,11.9,ISRP10
+ISR,Israel,Gahal,1965,1969,1969,21.9,ISRP14
+ISR,Israel,General Zionists,1949,1959,1951,16.3,ISRP15
+ISR,Israel,Halchud HaLeumi,1999,2003,2003,5.8,ISRP17
+ISR,Israel,Ahdut Ha'avodah,1955,1961,1955,8.3,ISRP2
+ISR,Israel,Hapo'el Hamizrahi,1951,1951,1951,6.8,ISRP22
+ISR,Israel,Herut Movement,1949,1961,1961,13.9,ISRP23
+ISR,Israel,Labor,1992,1996,1992,36.5,ISRP27
+ISR,Israel,Labor-Meimad,2003,2003,2003,15.1,ISRP28
+ISR,Israel,Liberal Party,1961,1961,1961,13.8,ISRP29
+ISR,Israel,Alignment,1965,1988,1969,46.8,ISRP3
+ISR,Israel,Likud,1973,2003,1981,39.2,ISRP30
+ISR,Israel,Likud-Gesher-Tsomet,1996,1996,1996,25.8,ISRP31
+ISR,Israel,Mapai,1949,1961,1959,39.6,ISRP34
+ISR,Israel,Mapam,1949,1988,1949,15.4,ISRP35
+ISR,Israel,Meretz,1992,2003,1992,10.1,ISRP36
+ISR,Israel,National Religious Party,1959,2003,1959,10.2,ISRP39
+ISR,Israel,One Israel,1999,1999,1999,21.5,ISRP40
+ISR,Israel,Rafi,1965,1965,1965,8,ISRP45
+ISR,Israel,Shas,1984,2003,1999,13.8,ISRP50
+ISR,Israel,Shinui,1981,2003,2003,12.8,ISRP51
+ISR,Israel,Tsomet,1988,1992,1992,6.7,ISRP60
+ISR,Israel,United Religious Front,1949,1955,1949,12.8,ISRP62
+ISR,Israel,Yisrael Be'aliyah,1996,1999,1996,5.9,ISRP68
+ISR,Israel,Center Party,1999,1999,1999,5.3,ISRP8
+ITA,Italy,Christian Democracy,1948,1992,1948,48.5,ITAP1
+ITA,Italy,Italian Socialist Party and Italian Socialist Democratic Party,1968,1968,1968,14.5,ITAP100
+ITA,Italy,Italian Social Movement-Our Nation,1976,1992,1983,6.8,ITAP131
+ITA,Italy,Lombard League,1987,1992,1992,8.7,ITAP179
+ITA,Italy,Democratic Party of the Left,1992,1992,1992,16.1,ITAP190
+ITA,Italy,Party of Communist Renewal,1992,2001,1992,5.6,ITAP191
+ITA,Italy,"Popular Democratic Front for Liberty, Peace, and Work",1948,1948,1948,31,ITAP2
+ITA,Italy,Christian Democratic Center-Forza Italia -Northern League -Union of the Center,1994,1994,1994,21.7,ITAP229
+ITA,Italy,Progressive,1994,1994,1994,32.8,ITAP230
+ITA,Italy,Pact for Italy,1994,1994,1994,15.4,ITAP231
+ITA,Italy,National Alliance-Christian Democratic Center-Forza Italia -Liberal Democratic Pole,1994,1994,1994,14.3,ITAP232
+ITA,Italy,Forward Italy,1994,2006,2006,23.7,ITAP251
+ITA,Italy,National Alliance-Forza Italia,1994,2006,2006,12.3,ITAP272
+ITA,Italy,Italian Republican Party,1948,1992,1983,5.1,ITAP3
+ITA,Italy,National Alliance,1994,2001,1994,6.6,ITAP318
+ITA,Italy,Democratic Left,2001,2001,2001,8.3,ITAP337
+ITA,Italy,The Daisy,2001,2001,2001,7.2,ITAP338
+ITA,Italy,House of Freedoms,2001,2001,2001,22.7,ITAP366
+ITA,Italy,Olive Tree,2001,2006,2006,31.2,ITAP367
+ITA,Italy,Communist Reformers,2006,2006,2006,5.8,ITAP368
+ITA,Italy,Union of Christian Democrats and Democrats of the Center Democrats,2006,2006,2006,6.8,ITAP373
+ITA,Italy,Italian Communist Party,1953,1987,1976,34.4,ITAP39
+ITA,Italy,Socialist Unity,1948,1948,1948,7.1,ITAP4
+ITA,Italy,Italian Socialist Party,1953,1994,1987,14.3,ITAP40
+ITA,Italy,Italian Socialist Democratic Party,1953,1992,1963,6.1,ITAP41
+ITA,Italy,Italian Liberal Party,1953,1992,1963,7,ITAP42
+ITA,Italy,Italian Social Movement,1948,1972,1972,8.7,ITAP6
+ITA,Italy,National Monarchy Party,1948,1958,1953,6.8,ITAP8
+LTU,Lithuania,Homeland Union-Conservatives of Lithuania,1996,2000,1996,32.2,LTUP1
+LTU,Lithuania,Lithuanian Liberal Union,1996,2000,2000,16.5,LTUP12
+LTU,Lithuania,Lithuanian Peasant Party,1996,2000,2000,5.2,LTUP13
+LTU,Lithuania,Lithuanian Christian Democratic Party,1992,2000,1996,10.1,LTUP2
+LTU,Lithuania,A.Brazauskas Social Democratic Coalition,2000,2000,2000,15.6,LTUP25
+LTU,Lithuania,New Union,2000,2008,2000,17.5,LTUP26
+LTU,Lithuania,Lithuanian Democratic Labour Party,1992,2000,1992,51.2,LTUP3
+LTU,Lithuania,Lithuanian Centre Union,1996,2000,1996,8.6,LTUP4
+LTU,Lithuania,Homeland Union,2004,2004,2004,14.6,LTUP40
+LTU,Lithuania,Revolutionary Movement of Lithuania,1992,1992,1992,23,LTUP44
+LTU,Lithuania,Lithuanian Social Democratic Party,1992,2008,2008,13,LTUP5
+LTU,Lithuania,Lithuanian Christian Democratic Party-Union of Political Prisoners and Deportees- Lithuanian Democratic Party,1992,1992,1992,12.5,LTUP51
+LTU,Lithuania,Labour Party,2004,2008,2004,25,LTUP53
+LTU,Lithuania,Liberal and Centre Union,2004,2008,2004,10.8,LTUP55
+LTU,Lithuania,Union of Farmers' Party and New Democracy Party,2004,2004,2004,7.1,LTUP61
+LTU,Lithuania,Coalition of Rolandas Pakas For the Order and Justice,2004,2004,2004,5.8,LTUP63
+LTU,Lithuania,Coalition of Algirdas Brazauskas and Arturas Paulauskas Working for Lithuania,2004,2004,2004,10.5,LTUP64
+LTU,Lithuania,Rising Nation Party,2008,2008,2008,12.3,LTUP65
+LTU,Lithuania,Liberals Movement of the Republic of Lithuania,2008,2008,2008,6.1,LTUP68
+LTU,Lithuania,Homeland Union-Lithuanian Christian Democrats,2008,2008,2008,19.6,LTUP69
+LTU,Lithuania,Order and Justice Party,2008,2008,2008,12.4,LTUP73
+LUX,Luxembourg,Christian-Socialist Party,1945,2004,1954,42.4,LUXP1
+LUX,Luxembourg,Popular Independent Movement,1964,1964,1964,6,LUXP10
+LUX,Luxembourg,Social-Democratic Party,1974,1979,1974,9.2,LUXP11
+LUX,Luxembourg,Alternative Green Party,1984,1989,1984,5.2,LUXP19
+LUX,Luxembourg,Communist Party of Luxembourg,1945,2004,1948,16.9,LUXP2
+LUX,Luxembourg,Committee of Action 5/6,1989,1989,1989,7.3,LUXP21
+LUX,Luxembourg,Democratic Party,1945,2004,1974,22.2,LUXP3
+LUX,Luxembourg,Alternative Green Party-Green List Ecological Alternative,1994,1994,1994,10.2,LUXP30
+LUX,Luxembourg,Action Committee for Democracy and Pensions Justice,1994,2004,1999,10.4,LUXP31
+LUX,Luxembourg,Socialist Workers Party,1945,2004,1948,41.5,LUXP4
+LUX,Luxembourg,The Greens,1999,2004,2004,11.5,LUXP41
+LVA,Latvia,Alliance Latvia's Way,1993,2002,1993,32.4,LVAP1
+LVA,Latvia,Latvian National Independent Movement,1993,1993,1993,13.4,LVAP2
+LVA,Latvia,Latvian Unity Party,1993,1998,1995,7.2,LVAP22
+LVA,Latvia,Latvian Farmers Union-Latvian Christian Democratic Alliance,1995,1995,1995,6.4,LVAP24
+LVA,Latvia,National Harmony Party,1995,1998,1998,14.2,LVAP27
+LVA,Latvia,Democratic Party 'Master',1995,1998,1995,15.2,LVAP29
+LVA,Latvia,Harmony for Latvia,1993,1993,1993,12,LVAP3
+LVA,Latvia,Latvian Socialist Party,1995,1995,1995,5.6,LVAP30
+LVA,Latvia,People's Movement for Latvia,1995,1998,1995,15,LVAP33
+LVA,Latvia,Alliance for Homeland and Freedom,1995,1995,1995,12,LVAP34
+LVA,Latvia,Latvian National Conservative Party-Latvian Green Party,1995,1995,1995,6.3,LVAP36
+LVA,Latvia,Latvia'a Farmers' Union,1993,1998,1993,10.7,LVAP4
+LVA,Latvia,New Party,1998,1998,1998,7.3,LVAP42
+LVA,Latvia,Popular Party,1998,2006,1998,21.3,LVAP46
+LVA,Latvia,Latvian Social-Democratic Alliance,1998,1998,1998,12.9,LVAP47
+LVA,Latvia,Equal Rights,1993,1993,1993,5.8,LVAP5
+LVA,Latvia,Harmony Center,2006,2006,2006,14.5,LVAP52
+LVA,Latvia,Alliance for Homeland and Freedom /Latvian National Conservative Party [LNNK],1998,2006,1998,14.7,LVAP53
+LVA,Latvia,New Era,2002,2006,2002,24,LVAP54
+LVA,Latvia,Latvia's First Party and Latvia's Way Union,2006,2006,2006,8.6,LVAP55
+LVA,Latvia,Union for Fatherland and Freedom,1993,1993,1993,5.4,LVAP6
+LVA,Latvia,Political Organization Alliance For Human Rights in a United Latvia,2002,2006,2002,19.1,LVAP63
+LVA,Latvia,Green and Farmer's Union,2002,2006,2006,16.8,LVAP65
+LVA,Latvia,Latvia's First Party,2002,2002,2002,9.6,LVAP68
+LVA,Latvia,Latvia's Christian Democratic Union,1993,1993,1993,5,LVAP7
+MDA,Moldova,Democratic Agrarian Party,1994,1998,1994,43.2,MDAP1
+MDA,Moldova,Independent Candidates,1994,1998,1998,5.6,MDAP14
+MDA,Moldova,Communist Party,1998,1998,1998,30,MDAP15
+MDA,Moldova,Democratic Convention of Moldova Electoral Bloc,1998,1998,1998,19.4,MDAP16
+MDA,Moldova,For a Democratic and Prosperous Moldova Electoral Bloc,1998,1998,1998,18.2,MDAP17
+MDA,Moldova,Party of Democratic Forces,1998,1998,1998,8.8,MDAP18
+MDA,Moldova,Socialist Party-Unitate-Edinstvo Movement,1994,1994,1994,22,MDAP2
+MDA,Moldova,Peasants and Intellectuals Bloc,1994,1994,1994,9.2,MDAP3
+MDA,Moldova,Alliance of the Christian Democratic People's Front,1994,1994,1994,7.5,MDAP4
+MEX,Mexico,Alliance for Change,1997,2000,2000,39.2,MEXP1
+MEX,Mexico,Democratic Revolutionary Party,1997,2000,1997,25.7,MEXP10
+MEX,Mexico,Institutional Revolutionary Party,1997,2000,1997,39.1,MEXP11
+MEX,Mexico,Alliance for Mexico,1997,2000,2000,19.1,MEXP2
+MEX,Mexico,National Action Party,1997,2000,1997,26.6,MEXP4
+MLT,Malta,Nationalist Party,1947,2003,1992,51.8,MLTP1
+MLT,Malta,Christian Workers' Party,1962,1966,1962,9.5,MLTP10
+MLT,Malta,Independents,1945,2003,1945,23.8,MLTP15
+MLT,Malta,Maltese Labour Party,1945,2003,1945,76.2,MLTP2
+MLT,Malta,Constitutionalist Party,1950,1953,1950,10,MLTP3
+MLT,Malta,Democratic Nationalist Party,1962,1966,1962,9.3,MLTP4
+MLT,Malta,Democratic Action Party [DAP],1947,1950,1947,13.3,MLTP6
+MLT,Malta,Gozo Party [GOZ],1947,1947,1947,5.2,MLTP7
+MLT,Malta,Maltese Workers' Party [MWP],1950,1953,1950,23.2,MLTP8
+MUS,Mauritius,Labour Party-Militant Mauritian Party,1995,2000,1995,66.4,MUSP1
+MUS,Mauritius,Mauritian Socialist Movement-Militant Mauritian Movement,1995,2000,2000,52.6,MUSP16
+MUS,Mauritius,Labor Party-Mauritian Xavier Duval Party,1995,2000,2000,37.1,MUSP17
+MUS,Mauritius,Gaetan Duval Party,1995,2000,1995,6.5,MUSP2
+MUS,Mauritius,Militant Socialist Movement-Mauritian Militant Renewal,1995,2000,1995,20.2,MUSP3
+MYS,Malaysia,Alliance,1959,1969,1964,58.5,MYSP1
+MYS,Malaysia,Malaysian People's Movement Party,1969,1969,1969,7.5,MYSP10
+MYS,Malaysia,Democratic Action Party,1969,1969,1969,12,MYSP11
+MYS,Malaysia,Sabah People's United Front,1969,1969,1969,21,MYSP12
+MYS,Malaysia,Islamic Party of Malaysia,1959,1999,1959,21.3,MYSP2
+MYS,Malaysia,National Front,1978,1999,1995,65.2,MYSP22
+MYS,Malaysia,Sarawak Peoples' Party,1978,1978,1978,19.1,MYSP24
+MYS,Malaysia,Malayan People's Socialist Front,1959,1964,1964,16.1,MYSP3
+MYS,Malaysia,Sarawak Native People's Party,1982,1999,1982,19.4,MYSP37
+MYS,Malaysia,People's Progressive Party,1959,1964,1959,6.3,MYSP4
+MYS,Malaysia,Spirit of '46 Malay Party,1990,1999,1990,14.8,MYSP40
+MYS,Malaysia,People's Justice Party,1999,1999,1999,11.5,MYSP46
+MYS,Malaysia,Pan-Malaya Islamic Party [PMIP]),1959,1964,1964,14.6,MYSP6
+MYS,Malaysia,United Democratic Party,1964,1964,1964,5.7,MYSP7
+NER,Niger,Nigerien Alliance for Democracy and Progress,1999,1999,1999,6.6,NERP1
+NER,Niger,Rally for Democracy and Progress,1999,1999,1999,10.9,NERP15
+NER,Niger,Democratic and Social Convention,1999,1999,1999,17.2,NERP2
+NER,Niger,National Movement for Society and Development,1999,1999,1999,34.7,NERP5
+NER,Niger,Nigerien Party for Democracy and Socialism,1999,1999,1999,21.5,NERP9
+NLD,Netherlands,Labour Party,1948,2006,1977,33.8,NLDP118
+NLD,Netherlands,Socialist Party,1977,2006,2006,16.6,NLDP148
+NLD,Netherlands,People's Party for Freedom and Democracy,1948,2006,1998,24.7,NLDP162
+NLD,Netherlands,Christian-Historical Union,1948,1972,1948,9.2,NLDP24
+NLD,Netherlands,Christian Democratic Appeal,1977,2006,1989,35.3,NLDP26
+NLD,Netherlands,Communist Party of the Netherlands,1948,1986,1948,7.7,NLDP28
+NLD,Netherlands,Democrats '66,1967,2006,1994,15.5,NLDP36
+NLD,Netherlands,Democratic Socialists '70,1971,1982,1971,5.3,NLDP38
+NLD,Netherlands,Green Left,1989,2006,1998,7.3,NLDP49
+NLD,Netherlands,Wilders Group/Party for Freedom,2006,2006,2006,5.9,NLDP50
+NLD,Netherlands,Catholic People's Party,1948,1972,1963,31.9,NLDP60
+NLD,Netherlands,Anti-Revolutionary Party,1948,1972,1948,13.2,NLDP7
+NLD,Netherlands,Pim Fortuyn List,2002,2003,2002,17,NLDP71
+NOR,Norway,Center Party,1977,2005,1993,16.8,NORP1
+NOR,Norway,Norweigan Labour Party,1977,2005,1977,42.3,NORP17
+NOR,Norway,Liberal Party,1977,2005,2005,5.9,NORP18
+NOR,Norway,Other,1977,2005,1977,5.1,NORP23
+NOR,Norway,Progress Party,1977,2005,2005,22.1,NORP24
+NOR,Norway,Socialist Left Party,1977,2005,2001,12.5,NORP27
+NOR,Norway,Christian People's Party,1977,2005,1997,13.7,NORP5
+NOR,Norway,Conservative Party,1977,2005,1981,31.8,NORP9
+NZL,New Zealand,Social Credit [SC],1954,1987,1981,20.7,NZLP122
+NZL,New Zealand,Values [V],1972,1987,1975,5.2,NZLP139
+NZL,New Zealand,Green,1990,1990,1990,6.8,NZLP146
+NZL,New Zealand,ACT New Zealand,1996,1999,1999,5.8,NZLP150
+NZL,New Zealand,Alliance,1996,1999,1996,10.7,NZLP152
+NZL,New Zealand,New Zealand First Party,1996,1999,1996,13.4,NZLP161
+NZL,New Zealand,Democratic,1987,1987,1987,5.2,NZLP26
+NZL,New Zealand,Labour [LAB],1946,1999,1953,62,NZLP70
+NZL,New Zealand,National [NAT],1946,1999,1958,57.4,NZLP88
+NZL,New Zealand,New Labour [NL],1990,1990,1990,5.2,NZLP92
+NZL,New Zealand,New Zealand Party [NZP],1984,1987,1984,12.3,NZLP96
+POL,Poland,KKWFatherland,1993,1993,1993,6.4,POLP11
+POL,Poland,KW Democratic Union,1991,1993,1991,12.3,POLP121
+POL,Poland,KW Labor Union,1993,1997,1993,7.3,POLP127
+POL,Poland,OgKW Confederation Independent Poland,1991,1993,1991,7.5,POLP128
+POL,Poland,KKW Polish People's Party Program Alliance,1991,1993,1993,15.4,POLP139
+POL,Poland,KKW Alliance of the Democratic Left,1991,1997,1997,27.1,POLP146
+POL,Poland,Supreme KW Polish People's Party,1997,1997,1997,7.3,POLP155
+POL,Poland,Homeland Commission NSZZ Solidarity,1991,1993,1991,5.1,POLP17
+POL,Poland,KW Law and Justice,2001,2007,2007,32.1,POLP2
+POL,Poland,KW League of Polish Families,2001,2007,2005,8,POLP20
+POL,Poland,KW Citizens' Center Accord,1991,1993,1991,8.7,POLP203
+POL,Poland,Coalition KW of the Left and Democrats,2007,2007,2007,13.2,POLP21
+POL,Poland,KKW Liberal-Democratic Congress,1991,1993,1991,7.5,POLP212
+POL,Poland,Coalition KW Alliance of Democratic Left [SLD]-Labor Union [UP],2001,2005,2001,41,POLP267
+POL,Poland,ZG Movement for Rebuilding Poland,1997,1997,1997,5.6,POLP268
+POL,Poland,KW Polish People's Party,2001,2007,2001,9,POLP283
+POL,Poland,Coalition KW-Electoral Campaign Solidarity Right,2001,2001,2001,5.6,POLP287
+POL,Poland,KW Catholic Electoral Action,1991,1991,1991,8.7,POLP31
+POL,Poland,KW People's Movement People's Accord,1991,1991,1991,5.5,POLP36
+POL,Poland,Board of Freedom Union,1997,1997,1997,13.4,POLP368
+POL,Poland,KW Electoral Solidarity Action,1997,1997,1997,33.8,POLP41
+POL,Poland,Non-party Bloc for Support of the Reforms,1993,1993,1993,5.4,POLP5
+POL,Poland,KW Voters' Civil Platform of Republic of Poland,2001,2007,2007,41.5,POLP8
+POL,Poland,KW Self-defense Polish Republic,2001,2007,2005,11.4,POLP9
+PRT,Portugal,Democratic Alliance,1979,1980,1980,45.5,PRTP1
+PRT,Portugal,United Democratic Coalition,1987,1987,1987,12.5,PRTP10
+PRT,Portugal,Republican and Socialist Front,1980,1980,1980,27.8,PRTP13
+PRT,Portugal,Portuguese Communist Party,1975,1976,1976,15.2,PRTP25
+PRT,Portugal,Portuguese Communist Party-Ecology Party The Greeens-United Democratic Coalition,2002,2002,2002,7.1,PRTP28
+PRT,Portugal,Portuguese Communist Party-Ecology Party The Greeens,1991,2005,1999,9.2,PRTP29
+PRT,Portugal,United People Alliance,1979,1985,1979,19.5,PRTP4
+PRT,Portugal,Popular Democratic Party,1975,1976,1975,28.3,PRTP40
+PRT,Portugal,Popular Democratic Party-Social Democratic Party,1983,2005,1991,51.5,PRTP41
+PRT,Portugal,Democratic Renovation Party,1985,1991,1985,18.5,PRTP44
+PRT,Portugal,Socialist Party,1975,2005,2005,46.4,PRTP46
+PRT,Portugal,Left Block,1999,2005,2005,6.6,PRTP5
+PRT,Portugal,Democratic Social Center Party,1975,1991,1976,16.7,PRTP8
+PRT,Portugal,Democratic Social Center Party-People's Party,1995,2005,1995,9.3,PRTP9
+ROU,Romania,National Salvation Democratic Front,1992,1992,1992,34.4,ROUP1
+ROU,Romania,Democratic Social Union,1996,1996,1996,15.7,ROUP10
+ROU,Romania,Democratic Convention of Romania,1992,1996,1996,36.7,ROUP2
+ROU,Romania,Truth and Justice Alliance PNL-PD,2004,2004,2004,31.3,ROUP27
+ROU,Romania,National Salvation Front,1992,1992,1992,12.6,ROUP3
+ROU,Romania,Romanian National Unity Party,1992,2004,1992,9.6,ROUP4
+ROU,Romania,National Union PSD-PUR,2004,2004,2004,36.6,ROUP44
+ROU,Romania,Hungarian Democratic Union of Romania,1992,2004,1992,9.3,ROUP5
+ROU,Romania,Greater Romania Party,1992,2004,2000,19.4,ROUP6
+ROU,Romania,Other,2000,2000,2000,26.3,ROUP61
+ROU,Romania,Democratic Party,2000,2000,2000,5.9,ROUP62
+ROU,Romania,National Liberal Party,2000,2000,2000,5.4,ROUP63
+ROU,Romania,Social Democracy of Romania,1996,2000,2000,36.5,ROUP9
+RUS,Russia,Independents Bloc,1995,1999,1999,21.5,RUSP16
+RUS,Russia,Our Home is Russia Public Political Movement,1995,1999,1995,8,RUSP17
+RUS,Russia,United Yabloko,1995,1999,1999,5.5,RUSP19
+RUS,Russia,KPRF Communist Party of Russian Federation,1995,1999,1999,19.2,RUSP25
+RUS,Russia,Liberal-Democratic Party of Russia,1995,1999,1995,8.5,RUSP33
+RUS,Russia,Against all,1995,1999,1999,7.6,RUSP44
+RUS,Russia,Unity,1999,1999,1999,13,RUSP54
+RUS,Russia,Fatherland-All Russia,1999,1999,1999,11.2,RUSP58
+RUS,Russia,Union of Right Forces,1999,1999,1999,5.9,RUSP61
+SLB,Solomon Islands,Our Party,1980,2010,2010,10.2,SLBP11
+SLB,Solomon Islands,Peoples Alliance Party,1980,2010,1989,22.9,SLBP12
+SLB,Solomon Islands,Solomon Islands Democratic Party,1980,2010,2010,10.5,SLBP19
+SLB,Solomon Islands,Independent,1980,2010,2010,62.2,SLBP2
+SLB,Solomon Islands,Solomon Islands National Unity and Reconciliation Party,1980,2010,1993,23.9,SLBP20
+SLB,Solomon Islands,Solomone Ago Sagefanua,1980,2010,1984,7.7,SLBP22
+SLB,Solomon Islands,United Party,1980,2010,1984,21.2,SLBP23
+SLB,Solomon Islands,Labour Party,1980,2010,1989,8.4,SLBP4
+SLB,Solomon Islands,Liberal Party,1980,2010,1989,9.5,SLBP5
+SLB,Solomon Islands,National Action Party of Solomon Islands,1980,2010,1993,11.4,SLBP6
+SLB,Solomon Islands,National Democratic Party,1980,2010,1980,8.4,SLBP7
+SLB,Solomon Islands,National Front for Progress,1980,2010,1989,9,SLBP8
+SVK,Slovakia,Slovak National Party,1994,1998,1998,9.1,SVKP14
+SVK,Slovakia,Christian Democratic Movement,1994,1994,1994,10.1,SVKP15
+SVK,Slovakia,Coalition of the Movement for a Democratic Slovakia-Agricultural Party of Slovakia,1994,1994,1994,35,SVKP16
+SVK,Slovakia,Movement for a Democratic Slovakia,1998,1998,1998,27,SVKP19
+SVK,Slovakia,Hungarian Coalition Party,1998,1998,1998,9.1,SVKP22
+SVK,Slovakia,Party of Civic Understanding,1998,1998,1998,8,SVKP25
+SVK,Slovakia,Slovak Democratic Coalition,1998,1998,1998,26.3,SVKP26
+SVK,Slovakia,Association for Workers in Slovakia,1994,1998,1994,7.3,SVKP3
+SVK,Slovakia,Party of the Democratic Left,1998,1998,1998,14.7,SVKP30
+SVK,Slovakia,Hungarian Coalition,1994,1994,1994,10.2,SVKP4
+SVK,Slovakia,Common Choice-Party of the Democratic Left Social Democratic Party of Slovakia Green Party of Slovakia,1994,1994,1994,10.4,SVKP5
+SVK,Slovakia,Democratic Union of Slovakia,1994,1994,1994,8.6,SVKP6
+SVN,Slovenia,Liberal Democracy of Slovenia,1996,2008,2000,35.7,SVNP1
+SVN,Slovenia,Democratic Party of Slovenia,1996,2008,2008,29.3,SVNP10
+SVN,Slovenia,Social Democratic Party of Slovenia,1996,2004,2004,29.1,SVNP2
+SVN,Slovenia,Slovenian People's Party,1996,2004,1996,19.4,SVNP25
+SVN,Slovenia,Christian Democrats of Slovenia,1996,1996,1996,9.6,SVNP29
+SVN,Slovenia,United List of Social Democrats,2000,2004,2000,11.9,SVNP3
+SVN,Slovenia,The United List of Social Democrats,1996,1996,1996,9,SVNP31
+SVN,Slovenia,Slovenian People's Party-Christian Democrats of Slovenia,2000,2000,2000,9.4,SVNP4
+SVN,Slovenia,Slovenian People's Party and Youth Party of Slovenia,2008,2008,2008,5.2,SVNP42
+SVN,Slovenia,New Slovenia-Christian People's Party,2000,2008,2004,9.1,SVNP5
+SVN,Slovenia,Social Democrats,2008,2008,2008,30.4,SVNP50
+SVN,Slovenia,Zares-New Politics,2008,2008,2008,9.4,SVNP51
+SVN,Slovenia,Democratic Party of Retired Person of Slovenia,1996,2008,2008,7.4,SVNP6
+SVN,Slovenia,Slovenian National Party,1996,2008,2004,6.3,SVNP7
+SWE,Sweden,Conservative Party,1944,1968,1958,19.5,SWEP1
+SWE,Sweden,Environmental Party The Greens,1964,2006,1988,5.5,SWEP10
+SWE,Sweden,Moderate Union Party,1970,2006,2006,26.2,SWEP12
+SWE,Sweden,Left Communist Party,1970,1988,1988,5.8,SWEP13
+SWE,Sweden,New Democracy,1991,1994,1991,6.7,SWEP18
+SWE,Sweden,Left Party,1991,2006,1998,12,SWEP19
+SWE,Sweden,Social Democrats,1944,1960,1960,47.8,SWEP2
+SWE,Sweden,Social Democratic Labour Party,1964,2006,1968,50.1,SWEP20
+SWE,Sweden,Center Party,1958,2006,1973,25.1,SWEP21
+SWE,Sweden,Christian Democratic Party,1998,2006,1998,11.7,SWEP22
+SWE,Sweden,Liberal People's Party,1979,2006,1985,14.2,SWEP23
+SWE,Sweden,Farmer's League,1944,1956,1944,13.6,SWEP3
+SWE,Sweden,People's Party,1944,1976,1952,24.4,SWEP4
+SWE,Sweden,Communist Party,1944,1968,1944,10.3,SWEP5
+SWE,Sweden,Other,1944,2006,2006,5.7,SWEP6
+SWE,Sweden,Christian Democratic Unity Party,1964,1994,1991,7.1,SWEP8
+TTO,Trinidad and Tobago,Liberal Party [LP],1966,1966,1966,8.9,TTOP10
+TTO,Trinidad and Tobago,National Alliance for Reconstruction [NAR],1986,2002,1986,66.3,TTOP12
+TTO,Trinidad and Tobago,Organization for National Reconstruction [ONR],1981,1981,1981,22.2,TTOP19
+TTO,Trinidad and Tobago,People's National Movement [PNM],1966,2002,1971,84.1,TTOP22
+TTO,Trinidad and Tobago,United Labour Front [ULF],1976,1981,1976,27.2,TTOP33
+TTO,Trinidad and Tobago,United National Congress [UNC],1991,2002,2000,51.7,TTOP34
+TTO,Trinidad and Tobago,Democratic Action Congress [DAC],1976,1981,1976,8.2,TTOP4
+TTO,Trinidad and Tobago,Democratic Labour Party [DLP],1966,1976,1966,34,TTOP5
+TUR,Turkey,Justice and Development Party (Adalet ve Kalkinma Partisi) [AKP],2002,2002,2002,34.3,TURP1
+TUR,Turkey,People's Democracy Party [DEHAP],2002,2002,2002,6.2,TURP11
+TUR,Turkey,Democrat Party (Demokrat Partisi) [DP],1973,1999,1973,11.9,TURP13
+TUR,Turkey,Democratic Left Party (Demokratik Sol Parti) [DSP],1987,2002,1999,22.2,TURP14
+TUR,Turkey,True Path Party (Dogru Yol Partisi) [DYP],1987,2002,1991,27,TURP16
+TUR,Turkey,Fazilet Partisi [FP]),1999,1999,1999,15.4,TURP18
+TUR,Turkey,Young Party (Genc Parti) [GP]),2002,2002,2002,7.2,TURP19
+TUR,Turkey,Motherland Party (Anavatan Partisi) [ANAP],1983,2002,1983,45.1,TURP2
+TUR,Turkey,Populist Party [HP],1983,1991,1983,30.5,TURP21
+TUR,Turkey,Independents (Bagimsizlar),1961,2002,1969,5.6,TURP23
+TUR,Turkey,Nationalist Democracy Party (Milliyetci Demokrasi Partisi) [MDP]),1983,1983,1983,23.3,TURP28
+TUR,Turkey,Nationalist Movement Party (Milliyetci Hareket Partisi) [MHP],1969,2002,1999,18,TURP29
+TUR,Turkey,(Anayol Partisi) [AP],1961,1977,1965,52.9,TURP3
+TUR,Turkey,National Party (Millet Partisi) [MP],1965,2002,1965,6.3,TURP30
+TUR,Turkey,National Salvation Party (Milli Selamet Partisi) [MSP],1973,1977,1973,11.8,TURP31
+TUR,Turkey,[RP],1987,1995,1995,21.4,TURP33
+TUR,Turkey,Social Democratic Populist Party (Sosyal Demokrat Halkci Parti) [SHP],1987,1991,1987,24.7,TURP34
+TUR,Turkey,[YPT],1961,2002,1961,13.7,TURP43
+TUR,Turkey,[CGP],1969,1977,1969,6.6,TURP7
+TUR,Turkey,Republican People's Party (Cumhuriyetci Halk Partisi) [CHP]),1961,2002,1977,41.4,TURP8
+TUR,Turkey,[CKMP],1961,1965,1961,14,TURP9
+USA,United States,Democratic Party,1986,2000,1986,54.1,USAP1
+USA,United States,Republican Party,1986,2000,1994,51.5,USAP2
+VEN,Venezuela,Democratic Action,1958,1988,1983,49.9,VENP1
+VEN,Venezuela,Nationalist Civic Crusade,1968,1973,1968,11.1,VENP14
+VEN,Venezuela,Popular Democratic Front,1963,1973,1963,9.6,VENP15
+VEN,Venezuela,Committee of Independent Electoral Political Organization,1958,1988,1978,39.8,VENP2
+VEN,Venezuela,Movement Towards Socialism,1973,1983,1978,6.2,VENP3
+VEN,Venezuela,Independents for the Democratic Front,1963,1988,1963,13.3,VENP46
+VEN,Venezuela,People's Electoral Movement,1968,1988,1968,12.7,VENP5
+VEN,Venezuela,Others,1958,1983,1968,13.1,VENP50
+VEN,Venezuela,Democratic Republican Union,1958,1988,1958,26.8,VENP6
+VEN,Venezuela,Venezuelan Communist Party,1958,1988,1958,6.2,VENP7
+ZAF,South Africa,New National Party [NP].,1994,1999,1994,20.5,ZAFP10
+ZAF,South Africa,African National Congress Party [ANC],1994,1999,1999,66.3,ZAFP3
+ZAF,South Africa,Democratic Party [DP],1994,1999,1999,9.6,ZAFP6
+ZAF,South Africa,Inkatha Freedom Party [IFP],1994,1999,1994,10.6,ZAFP8
