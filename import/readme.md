@@ -10,8 +10,7 @@ Import of data into the Party Facts database is done by the project maintainers.
 
 For a detailed instruction how to contribute your dataset, see [our import guide](https://github.com/hdigital/partyfactsdata/blob/master/import/import-guide.md).
 
-
-# R packages and snippets
+## R packages and snippets
 
 Most of the data preparation is done in R. Some scripts may require additional packages. We have a strong preference for [RStudio R packages](https://www.rstudio.com/products/rpackages/) (esp. [tidyverse](https://tidyverse.org/)). `run-all.R` includes information about used packages.
 
@@ -29,37 +28,32 @@ if(any(is.na(marpor$country))) {
 }
 ```
 
-
-# Template
+## Template
 
 Template for dataset readme.md files
 
 ```Markdown
+# Dataset name
+
 ## Source
 
- * (...) reference in APSR style
-
++ (...) reference in APSR style
 
 ## Credits (optional)
 
- * (...) name -- institution -- year(s)
-
++ (...) name -- institution -- year(s)
 
 ## Import
 
- * (...) short description of data preparation pipeline
-
++ (...) short description of data preparation pipeline
 
 ## Comments (optional)
 
- * (...)
-
++ (...)
 
 ## Todo later -- (optional)
 
- * (...)
-
-
++ (...)
 ---
 
  _add figure for dataset if feasible_
