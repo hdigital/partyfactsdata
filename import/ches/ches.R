@@ -1,16 +1,27 @@
-library(dplyr)
+library(tidyverse)
 
-party <- read.csv("ches-parties.csv", fileEncoding="utf-8", as.is=TRUE)
-country <- read.csv("ches-country.csv", fileEncoding="utf-8", as.is=TRUE)
-info <- read.csv("ches-party-info.csv", fileEncoding="utf-8", as.is=TRUE)
+ches14 <- read_csv("ches-2014/ches.csv")
+ches17 <- read_csv("ches-2017/ches-2017.csv")
 
-year_default <- 2014  # for countries not in trendfile
+# combined 2014 and 2017 CHES data
+ches_all <-
+  ches14 %>%
+  select(-cmp_id) %>%
+  bind_rows(ches17)
 
-ches <- party %>%
-  left_join(country %>% select(country=abbr, country_iso3=iso3)) %>%
-  left_join(info %>% select(-country, -party)) %>%
-  mutate(year_first = ifelse(is.na(year_first), year_default, year_first),
-         year_last = ifelse(is.na(year_last), year_default, year_last))
+# first and last year
+ches_first_last <-
+  ches_all %>%
+  group_by(party_id) %>%
+  summarise(year_first = min(year_first), year_last = max(year_last))
 
-write.csv(ches, "ches.csv", na="", row.names = FALSE, fileEncoding="utf-8")
+# final data for PF import
+ches_out <-
+  ches_all %>%
+  select(-year_first, -year_last) %>%
+  distinct(party_id, .keep_all = TRUE) %>%
+  left_join(ches_first_last) %>%
+  select(country_iso3, everything(), -country) %>%
+  arrange(country_iso3, party_name)
 
+write_csv(ches_out, "ches.csv", na = "")

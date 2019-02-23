@@ -1,19 +1,19 @@
 ## Source
 
-Ryan Bakker, Erica Edwards, Liesbet Hooghe, Seth Jolly, Jelle Koedam, Filip Kostelka, Gary Marks, Jonathan Polk, Jan Rovny, Gijs Schumacher, Marco Steenbergen, Milada Vachudova, and Marko Zilovic. 2015. Version 2015.1. Available on [chesdata.eu](http://www.chesdata.eu). Chapel Hill, NC: University of North Carolina, Chapel Hill.
+Chapel Hill expert surveys 1999–2017 – [chesdata.eu](https://www.chesdata.eu/)
 
-http://www.chesdata.eu/
++ Ryan Bakker, Catherine de Vries, Erica Edwards, Liesbet Hooghe, Seth Jolly, Gary Marks, Jonathan Polk, Jan Rovny, Marco Steenbergen, and Milada Vachudova. 2015. "Measuring party positions in Europe: The Chapel Hill expert survey trend file, 1999-2010." Party Politics 21.1: 143-152.
+
++ Polk, Jonathan, Jan Rovny, Ryan Bakker, Erica Edwards, Liesbet Hooghe, Seth Jolly, Jelle Koedam, Filip Kostelka, Gary Marks, Gijs Schumacher, Marco Steenbergen, Milada Vachudova and Marko Zilovic. 2017. "Explaining the salience of anti-elitism and reducing political corruption for political parties in Europe with the 2014 Chapel Hill Expert Survey data," Research & Politics (January-March): 1-9.
+
 
 ## Import
 
-List of parties provided by CHES project members and some manual clean-up.
++ see CHES 1999-2014 trend file import – `ches-2014`
++ see CHES 2017 flash survey import – `ches-2017`
++ see `ches.R` for final party information
 
-CHES country IDs taken from codebooks and "iso3" added. Short country names taken from trend file. -- `ches-country.csv`
 
-Additional information extracted from CHES trend file (1999-2014). -- `ches-party-info.R`
+---
 
-## Comments
-
-initial party IDs for merging from ParlGov project
-
-additional parties not in CHES trend file (1999-2014) from "2014 Chapel Hill expert survey" and "2014 CHES candidate survey"
+![European political space 2017](ches-2017/ches-2017-space.png)
