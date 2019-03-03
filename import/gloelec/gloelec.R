@@ -1,5 +1,6 @@
 library(tidyverse)
 
+
 gloelec_raw <- read_csv("gloelec_parties.csv")
 
 gloelec <- 
