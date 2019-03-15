@@ -1,0 +1,243 @@
+country,country_short,name_short,name,party_id
+Austria,AUT,BZO,Bündnis Zukunft Österreichs,AUT-BZO
+Austria,AUT,FPO,Freiheitliche Partei Österreichs,AUT-FPO
+Austria,AUT,GRUNEN,Die Grünen,AUT-GRUNEN
+Austria,AUT,NEOS,das Neue Österreich,AUT-NEOS
+Austria,AUT,OVP,Österreichische Volkspartei,AUT-OVP
+Austria,AUT,SPO,Sozialdemokratische Partei Österreichs,AUT-SPO
+Bulgaria,BGR,ABV,Alternative for Bulgarian Renaissance,BGR-ABV
+Bulgaria,BGR,BBC,Bulgaria without Censorship,BGR-BBC
+Bulgaria,BGR,BSP,Bulgarian Socialist Party,BGR-BSP
+Bulgaria,BGR,DPS,Movement for Rights and Freedom,BGR-DPS
+Bulgaria,BGR,GERB,Citizens for European Development of Bulgaria,BGR-GERB
+Bulgaria,BGR,NFSB,National Front for the salvation of Bulgaria,BGR-NFSB
+Bulgaria,BGR,RB,Reformatorski Blok,BGR-RB
+Bulgaria,BGR,АТАКА,Attack,BGR-АТАКА
+Croatia,HRV,HDZ,Koalicija HDZ-HSS-HSPAS,HRV-HDZ
+Croatia,HRV,HL,Hrvatski laburisti - Stranka rada,HRV-HL
+Croatia,HRV,HSLS,Hrvatska socijalno liberalna stranka,HRV-HSLS
+Croatia,HRV,KUKURIKU,KUKURIKU,HRV-KUKURIKU
+Croatia,HRV,NF,Nacionalni Forum,HRV-NF
+Croatia,HRV,ORAH,Odrzivi razvoj Hrvatske,HRV-ORAH
+Croatia,HRV,SZH,Savez za Hrvatsku,HRV-SZH
+Cyprus,CYP,AKEL,Ανορθωτικό Κόμμα Εργαζόμενου Λαού,CYP-AKEL
+Cyprus,CYP,DIKO,Δημοκρατικό Κόμμα,CYP-DIKO
+Cyprus,CYP,DISY,Δημοκρατικός Συναγερμός,CYP-DISY
+Cyprus,CYP,EDEK,Κίνημα Σοσιαλδημοκρατών ΕΔΕΚ,CYP-EDEK
+Cyprus,CYP,ELAM,Εθνικό Λαϊκό Μέτωπο,CYP-ELAM
+Cyprus,CYP,EVROKO,Ευρωπαϊκό Κόμμα,CYP-EVROKO
+Cyprus,CYP,KOP,Κίνημα Οικολόγων Περιβαλλοντιστών,CYP-KOP
+Cyprus,CYP,SYPO,Συμμαχία Πολιτών - Γιώργος Λιλλήκας,CYP-SYPO
+Czech Republic,CZE,ANO,ANO 2011,CZE-ANO
+Czech Republic,CZE,CSSD,Česká strana sociálně demokratická,CZE-CSSD
+Czech Republic,CZE,KDUCSL,KDU-CSL,CZE-KDUCSL
+Czech Republic,CZE,KSCM,Komunistická strana Čech a Moravy,CZE-KSCM
+Czech Republic,CZE,LEV21,Národní socialisté – levice 21. století,CZE-LEV21
+Czech Republic,CZE,ODS,Občanská demokratická strana,CZE-ODS
+Czech Republic,CZE,PIRATI,Česká pirátská strana,CZE-PIRATI
+Czech Republic,CZE,SZH,Strana zelených,CZE-SZH
+Czech Republic,CZE,TOP09,Tradice Odpovědnost Prosperita,CZE-TOP09
+Czech Republic,CZE,USVIT,Úsvit přímé demokracie Tomia Okamury,CZE-USVIT
+Denmark,DNK,B,Det Radikale Venstre,DNK-B
+Denmark,DNK,C,Det Konservative Folkeparti,DNK-C
+Denmark,DNK,I,Liberal Alliance,DNK-I
+Denmark,DNK,N,Folkebevægelsen mod EU,DNK-N
+Denmark,DNK,O,Dansk Folkeparti,DNK-O
+Denmark,DNK,S,Socialdemokraterne,DNK-S
+Denmark,DNK,SF,Socialistisk Folkeparti,DNK-SF
+Denmark,DNK,V,Venstre,DNK-V
+Estonia,EST,EER,Erakond Eestimaa Rohelised,EST-EER
+Estonia,EST,EKRE,Eesti Konservatiivne Rahvaerakond,EST-EKRE
+Estonia,EST,IRL,Isamaa ja Res Publica Liit,EST-IRL
+Estonia,EST,KESK,Keskerakond,EST-KESK
+Estonia,EST,REF,Reformierakond,EST-REF
+Estonia,EST,SDE,Sotsiaaldemokraatlik Erakond,EST-SDE
+Estonia,EST,TARAND,Indrek Tarand,EST-TARAND
+Finland,FIN,KD,Christian Democrats in Finland,FIN-KD
+Finland,FIN,KESK,Centre Party of Finland,FIN-KESK
+Finland,FIN,KOK,National Coalition Party,FIN-KOK
+Finland,FIN,MUUTOS2011,Change 2011,FIN-MUUTOS2011
+Finland,FIN,PIRAATTI,Pirate Party of Finland,FIN-PIRAATTI
+Finland,FIN,PS,The Finns Party,FIN-PS
+Finland,FIN,SDP,The Finnish Social Democratic Party,FIN-SDP
+Finland,FIN,SFP,Swedish People's Party in Finland,FIN-SFP
+Finland,FIN,VAS,The Left Alliance,FIN-VAS
+Finland,FIN,VIHR,Green League,FIN-VIHR
+Flanders,BEL,CDV,Christen-Democratisch & Vlaams,BEL-CDV
+Flanders,BEL,GROEN,Groen,BEL-GROEN
+Flanders,BEL,NVA,Nieuw-Vlaamse Alliantie,BEL-NVA
+Flanders,BEL,OVLD,Open Vlaamse Liberalen en Democraten,BEL-OVLD
+Flanders,BEL,PVDA,Partij van de Arbeid,BEL-PVDA
+Flanders,BEL,SPA,Socialistische Partij Anders,BEL-SPA
+Flanders,BEL,VB,Vlaams Belang,BEL-VB
+France,FRA,DLR,Debout la République,FRA-DLR
+France,FRA,EELV,Europe Ecologie - Les Verts,FRA-EELV
+France,FRA,FG,Front de Gauche,FRA-FG
+France,FRA,FN,Front National,FRA-FN
+France,FRA,LO,Lutte Ouvrière,FRA-LO
+France,FRA,MRC,Mouvement Républicain et Citoyen,FRA-MRC
+France,FRA,NPA,Nouveau Parti Anticapitaliste,FRA-NPA
+France,FRA,PS,Parti Socialiste,FRA-PS
+France,FRA,UDIMODEM,Union des Démocrates et Indépendants Modem,FRA-UDIMODEM
+France,FRA,UMP,Union pour un Mouvement Populaire,FRA-UMP
+Germany,DEU,AFD,Alternative für Deutschland,DEU-AFD
+Germany,DEU,CDU,Christlich Demokratische Union Deutschlands,DEU-CDU
+Germany,DEU,CSU,Christlich-Soziale Union in Bayern,DEU-CSU
+Germany,DEU,FAMILIE,Familien Partei Deutschlands,DEU-FAMILIE
+Germany,DEU,FDP,Freie Demokratische Partei,DEU-FDP
+Germany,DEU,FW,Freie Wähler,DEU-FW
+Germany,DEU,GRUNEN,Bündnis 90/Die Grünen,DEU-GRUNEN
+Germany,DEU,LINKE,DIE LINKE,DEU-LINKE
+Germany,DEU,NPD,Nationaldemokratische Partei Deutschlands,DEU-NPD
+Germany,DEU,PIRATEN,Piratenpartei Deutschland,DEU-PIRATEN
+Germany,DEU,REP,Die Republikaner,DEU-REP
+Germany,DEU,SPD,Sozialdemokratische Partei Deutschlands,DEU-SPD
+Germany,DEU,TIERSCHUTZ,Partei Mensch Umwelt Tierschutz,DEU-TIERSCHUTZ
+Greece,GRC,ANEL,Ανεξάρτητοι Έλληνες,GRC-ANEL
+Greece,GRC,DIMAR,Δημοκρατική Αριστερά,GRC-DIMAR
+Greece,GRC,DRASSI,Δράση,GRC-DRASSI
+Greece,GRC,DX,Δημιουργία Ξανά!,GRC-DX
+Greece,GRC,KKE,Κομμουνιστικό Κόμμα Ελλάδας,GRC-KKE
+Greece,GRC,LAOS,Λαϊκός Ορθόδοξος Συναγερμός,GRC-LAOS
+Greece,GRC,ND,Νέα Δημοκρατία,GRC-ND
+Greece,GRC,OP,Οικολόγοι Πράσινοι,GRC-OP
+Greece,GRC,PASOK,ΠΑΣΟΚ - Ελιά - Δημοκρατική Παράταξη,GRC-PASOK
+Greece,GRC,SYRIZA,Συνασπισμός Ριζοσπαστικής Αριστεράς,GRC-SYRIZA
+Greece,GRC,TOPOTAMI,Το Ποτάμι,GRC-TOPOTAMI
+Greece,GRC,XA,Χρυσή Αυγή,GRC-XA
+Hungary,HUN,DK,Demokratikus Koalíció,HUN-DK
+Hungary,HUN,EGYUTT,Együtt - Párbeszéd Magyarországért,HUN-EGYUTT
+Hungary,HUN,FIDESZ,Fidesz,HUN-FIDESZ
+Hungary,HUN,JOBBIK,Jobbik Magyarországért Mozgalom,HUN-JOBBIK
+Hungary,HUN,LMP,Lehet Más a Politika,HUN-LMP
+Hungary,HUN,MSZP,Magyar Szocialista Párt,HUN-MSZP
+Ireland,IRL,FF,Fianna Fail,IRL-FF
+Ireland,IRL,FG,Fine Gael,IRL-FG
+Ireland,IRL,GP,Green Party,IRL-GP
+Ireland,IRL,LP,Labour Party,IRL-LP
+Ireland,IRL,SF,Sinn Fein,IRL-SF
+Ireland,IRL,SP,Socialist Party,IRL-SP
+Italy,ITA,FDI,Fratelli d'Italia-Alleanza Nazionale,ITA-FDI
+Italy,ITA,FI,Forza Italia,ITA-FI
+Italy,ITA,GRI,Green Italia,ITA-GRI
+Italy,ITA,IDV,Italia dei Valori,ITA-IDV
+Italy,ITA,LN,Lega Nord,ITA-LN
+Italy,ITA,M5S,Movimento Cinque Stelle,ITA-M5S
+Italy,ITA,NCD,Nuovo Centro Destra,ITA-NCD
+Italy,ITA,PD,Partito Democratico,ITA-PD
+Italy,ITA,SEALDE,Scelta Europea ALDE,ITA-SEALDE
+Italy,ITA,TSIPRAS,L'Altra Europa con Tsipras,ITA-TSIPRAS
+Italy,ITA,UDC,Unione di Centro,ITA-UDC
+Latvia,LVA,ATTISTIBAI,Latvijas attīstībai,LVA-ATTISTIBAI
+Latvia,LVA,LKS,Latvijas Krievu savienība,LVA-LKS
+Latvia,LVA,LSP,Latvijas Sociālistiskā partija,LVA-LSP
+Latvia,LVA,SASKANA,"""Saskaņa"" sociāldemokrātiskā partija",LVA-SASKANA
+Latvia,LVA,TBLNNK,"Nacionālā apvienība ""Visu Latvijai"" – ""TB/LNNK""",LVA-TBLNNK
+Latvia,LVA,VIENOTIBA,Vienotība,LVA-VIENOTIBA
+Latvia,LVA,ZZS,Zaļo un zemnieku savienība,LVA-ZZS
+Lithuania,LTU,DP,Darbo partija,LTU-DP
+Lithuania,LTU,LLRA,Lietuvos lenkų rinkimų akcija,LTU-LLRA
+Lithuania,LTU,LRLS,Lietuvos Respublikos liberalų sąjūdis,LTU-LRLS
+Lithuania,LTU,LSDP,Lietuvos Socialdemokratų Partija,LTU-LSDP
+Lithuania,LTU,LZP,Lietuvos Žaliųjų partija,LTU-LZP
+Lithuania,LTU,PTIT,Partija Tvarka ir teisingumas,LTU-PTIT
+Lithuania,LTU,TSLKD,Tėvynės sąjunga - Lietuvos krikščionys demokratai,LTU-TSLKD
+Luxembourg,LUX,ADR,Alternativ Demokratesch Reformpartei,LUX-ADR
+Luxembourg,LUX,CSV,CSV,LUX-CSV
+Luxembourg,LUX,DP,Demokratesch Partei,LUX-DP
+Luxembourg,LUX,GRENG,déi gréng,LUX-GRENG
+Luxembourg,LUX,LENK,déi Lénk,LUX-LENK
+Luxembourg,LUX,LSAP,LSAP,LUX-LSAP
+Luxembourg,LUX,PID,Partei fir INTEGRAL Demokratie,LUX-PID
+Luxembourg,LUX,PIRATEN,Parti Pirate Luxembourg,LUX-PIRATEN
+Malta,MLT,AD,Alternattiva Demokratika,MLT-AD
+Malta,MLT,PL,Partit Laburista,MLT-PL
+Malta,MLT,PN,Partit Nazzjonalista,MLT-PN
+Netherlands,NLD,50PLUS,50Plus Partij,NLD-50PLUS
+Netherlands,NLD,CDA,Christen Democratisch Appèl,NLD-CDA
+Netherlands,NLD,CUSGP,Christen Unie/Staatkundig Gereformeerde Partij,NLD-CUSGP
+Netherlands,NLD,D66,Democraten 66,NLD-D66
+Netherlands,NLD,GL,GroenLinks,NLD-GL
+Netherlands,NLD,LIBDEM,Liberaal Democratische Partij,NLD-LIBDEM
+Netherlands,NLD,PP,Piratenpartij,NLD-PP
+Netherlands,NLD,PVDA,Partij van de Arbeid,NLD-PVDA
+Netherlands,NLD,PVDD,Partij voor de Dieren,NLD-PVDD
+Netherlands,NLD,PVV,Partij voor de Vrijheid,NLD-PVV
+Netherlands,NLD,SP,Socialistische Partij,NLD-SP
+Netherlands,NLD,VVD,Volkspartij voor Vrijheid en Democratie,NLD-VVD
+Poland,POL,EUROPAPLUS,Europa Plus Twój Ruch,POL-EUROPAPLUS
+Poland,POL,KNP,Kongres Nowej Prawicy,POL-KNP
+Poland,POL,PIS,Prawo i Sprawiedliwość,POL-PIS
+Poland,POL,PO,Platforma Obywatelska,POL-PO
+Poland,POL,PRJG,Polska Razem Jarosława Gowina,POL-PRJG
+Poland,POL,PSL,Polskie Stronnictwo Ludowe,POL-PSL
+Poland,POL,SLD,Sojusz Lewicy Demokratycznej,POL-SLD
+Poland,POL,SP,Solidarna Polska,POL-SP
+Portugal,PRT,AP,Aliança Portugal,PRT-AP
+Portugal,PRT,BE,Bloco de Esquerda,PRT-BE
+Portugal,PRT,CDU,Coligação Democrática Unitária,PRT-CDU
+Portugal,PRT,LIVRE,"LIVRE - Liberdade, Esquerda, Europa, Ecologia (L)",PRT-LIVRE
+Portugal,PRT,MAS,Movimento Alternativa Socialista,PRT-MAS
+Portugal,PRT,PAN,Partido pelos Animais e pela Natureza,PRT-PAN
+Portugal,PRT,PCTP,Partido Comunista dos Trabalhadores Portugueses,PRT-PCTP
+Portugal,PRT,PS,Partido Socialista,PRT-PS
+Romania,ROU,FC,Forța Civică,ROU-FC
+Romania,ROU,PDL,Partidul Democrat Liberal,ROU-PDL
+Romania,ROU,PMP,Partidul Mişcarea Populară,ROU-PMP
+Romania,ROU,PNL,Partidul Național Liberal,ROU-PNL
+Romania,ROU,PNȚCD,Partidul Naţional Ţărănesc Creştin Democrat,ROU-PNȚCD
+Romania,ROU,PPDD,Partidul Poporului-Dan Diaconescu,ROU-PPDD
+Romania,ROU,PRM,Partidul România Mare,ROU-PRM
+Romania,ROU,PSD,Partidul Social Democrat,ROU-PSD
+Romania,ROU,UDMR,Uniunea Democrată Maghiară din România,ROU-UDMR
+Slovakia,SVK,KDH,Kresťanskodemokratické hnutie,SVK-KDH
+Slovakia,SVK,LSNS,Ľudová strana Naše Slovensko,SVK-LSNS
+Slovakia,SVK,MOSTHID,Most-Híd,SVK-MOSTHID
+Slovakia,SVK,NOVA,Nová väčšina,SVK-NOVA
+Slovakia,SVK,OLANO,Obyčajní ľudia a nezávislé osobnosti,SVK-OLANO
+Slovakia,SVK,SAS,Sloboda a solidarita,SVK-SAS
+Slovakia,SVK,SDKUDS,Slovenská demokratická a kresťanská únia,SVK-SDKUDS
+Slovakia,SVK,SMERSD,Smer - sociálna demokracia,SVK-SMERSD
+Slovakia,SVK,SMKMKP,Strana maďarskej komunity – Magyar Közösség Pártja,SVK-SMKMKP
+Slovakia,SVK,SNS,Slovenská národná strana,SVK-SNS
+Slovenia,SVN,DESUS,Demokratična stranka upokojencev Slovenije,SVN-DESUS
+Slovenia,SVN,DL,Državljanska lista,SVN-DL
+Slovenia,SVN,NSI,Nova Slovenija – krščanski demokrati,SVN-NSI
+Slovenia,SVN,PS,Pozitivna Slovenija,SVN-PS
+Slovenia,SVN,SD,Socialni demokrati,SVN-SD
+Slovenia,SVN,SDS,Slovenska demokratska stranka,SVN-SDS
+Slovenia,SVN,SLS,Slovenska ljudska stranka,SVN-SLS
+Slovenia,SVN,SOLIDARNOST,"Solidarnost, za pravično družbo",SVN-SOLIDARNOST
+Slovenia,SVN,ZL,Zdruzena levica,SVN-ZL
+Spain,ESP,IU,Izquierda Unida,ESP-IU
+Spain,ESP,PP,Partido Popular,ESP-PP
+Spain,ESP,PSOE,Partido Socialista Obrero Espagnol,ESP-PSOE
+Spain,ESP,UPYD,Union Progreso y Democracia,ESP-UPYD
+Sweden,SWE,C,Centerpartiet,SWE-C
+Sweden,SWE,FI,Feministiskt initiativ,SWE-FI
+Sweden,SWE,FP,Folkpartiet liberalerna,SWE-FP
+Sweden,SWE,KD,Kristdemokraterna,SWE-KD
+Sweden,SWE,M,Moderaterna,SWE-M
+Sweden,SWE,MP,Miljöpartiet de gröna,SWE-MP
+Sweden,SWE,PP,Piratpartiet,SWE-PP
+Sweden,SWE,SAP,Arbetarepartiet-Socialdemokraterna,SWE-SAP
+Sweden,SWE,SD,Sverigedemokraterna,SWE-SD
+Sweden,SWE,V,Vänsterpartiet,SWE-V
+United Kingdom,GBR,BNP,British National Party,GBR-BNP
+United Kingdom,GBR,CON,Conservative Party,GBR-CON
+United Kingdom,GBR,DUP,Democratic Unionist Party,GBR-DUP
+United Kingdom,GBR,GP,Green Party,GBR-GP
+United Kingdom,GBR,LAB,Labour Party,GBR-LAB
+United Kingdom,GBR,LIB,Liberal Democrats,GBR-LIB
+United Kingdom,GBR,PC,Plaid Cymru,GBR-PC
+United Kingdom,GBR,SDLP,Social Democratic and Labour Party,GBR-SDLP
+United Kingdom,GBR,SF,Sinn Féin,GBR-SF
+United Kingdom,GBR,SGP,Scottish Green Party,GBR-SGP
+United Kingdom,GBR,SNP,Scottish National Party,GBR-SNP
+United Kingdom,GBR,UKIP,United Kingdom Independence Party,GBR-UKIP
+United Kingdom,GBR,UUP,Ulster Unionist Party,GBR-UUP
+Walonia,BEL,CDH,Centre Démocrate Humaniste,BEL-CDH
+Walonia,BEL,ECOLO,Ecolo,BEL-ECOLO
+Walonia,BEL,FDF,Fédéralistes Démocrates Francophones,BEL-FDF
+Walonia,BEL,MR,Mouvement Réformateur,BEL-MR
+Walonia,BEL,PS,Parti Socialiste,BEL-PS
