@@ -1,0 +1,286 @@
+"country","party_id","party_name_english","year_first","year_last","share","share_year","partyfacts_id"
+"AUS",120,"Australian Democrats",1977,2015,11.3,1990,990
+"AUS",184,"National Party",1946,2015,11.5,1987,1743
+"AUS",751,"Australian Greens",1990,2015,11.8,2010,1209
+"AUS",1253,"Labor Party",1946,2015,50.1,1954,424
+"AUS",1306,"Democratic Labor Party",1955,1977,9.4,1958,1540
+"AUS",1411,"Liberal Party of Australia",1946,2015,41.8,1975,486
+"AUT",50,"Freedom Movement",1949,2015,26.9,1999,463
+"AUT",769,"Communist Party of Austria",1945,2015,5.3,1953,996
+"AUT",955,"Liberal Forum",1993,2008,6,1994,605
+"AUT",973,"Social Democratic Party",1945,2015,51,1979,1384
+"AUT",1013,"People's Party",1945,2015,48.4,1966,1329
+"AUT",1429,"Green Party",1983,2015,12.4,2013,1659
+"AUT",1536,"Alliance for the Future of Austria",2005,2015,10.7,2008,599
+"AUT",2150,"Team Stronach",2012,2015,5.7,2013,1971
+"BEL",63,"Party of Liberty and Progress",1946,1970,21.6,1965,275
+"BEL",161,"Confederated Ecologists (W)",1980,2015,7.3,1999,1563
+"BEL",167,"Belgian Socialist Party",1946,1977,37.3,1954,480
+"BEL",171,"National Front (W)",1991,2015,2.3,1995,191
+"BEL",221,"List Dedecker (F)",2007,2015,2.3,2010,43
+"BEL",290,"People's Union (F)",1954,2002,11.1,1971,1424
+"BEL",454,"Liberal Reformist Party (W)",1971,2002,10.3,1995,554
+"BEL",460,"Walloon Rally",1968,1985,6.7,1971,281
+"BEL",501,"New Flemish Alliance",2003,2015,17.4,2010,36
+"BEL",640,"Liberal Democratic and Pluralist Party",1971,1981,1.4,1974,382
+"BEL",708,"Belgian Communist Party",1946,1989,12.7,1946,302
+"BEL",723,"Christian People's Party (F)",1968,2015,26.2,1977,622
+"BEL",915,"Reform Movement (W)",2003,2015,11.4,2003,789
+"BEL",969,"Francophone Democratic Front",1965,2015,5,1974,698
+"BEL",993,"Flemish Bloc",1978,2015,11.6,2003,553
+"BEL",1029,"Socialist Party (F)",1978,2015,14.9,1987,1680
+"BEL",1051,"Christian People's Party",1946,1967,47.7,1950,405
+"BEL",1110,"Flemish Liberals and Democrats",1971,2015,15.4,2003,49
+"BEL",1192,"Christian Social Party (W)",1968,2015,11.7,1968,633
+"BEL",1378,"Socialist Party (W)",1978,2015,15.7,1987,500
+"BEL",1594,"Live Differently (F)",1981,2015,7,1999,528
+"CAN",296,"New Democratic Party",1945,2015,30.6,2011,152
+"CAN",368,"Liberal Party of Canada",1945,2015,50.1,1949,1739
+"CAN",448,"Bloc Quebecois",1991,2015,13.5,1993,1428
+"CAN",794,"Progressive Conservative Party",1945,2004,53.7,1958,232
+"CAN",897,"Reform Party",1987,2004,25.5,2000,1757
+"CAN",1255,"Conservative Party of Canada",2003,2015,39.6,2011,1004
+"CAN",1259,"Green Party of Canada",2004,2015,6.8,2008,931
+"CAN",1392,"Socred Social Credit",1945,1980,11.9,1963,1156
+"DNK",189,"Left Socialist Party",1967,1988,3.7,1979,1136
+"DNK",211,"Radical Party",1945,2015,15,1968,1507
+"DNK",306,"Red-Green Alliance / Unity List",1989,2015,6.6,2011,1527
+"DNK",367,"Common Course",1986,1990,2.2,1987,1676
+"DNK",376,"Liberal Alliance",2007,2015,4.9,2011,212
+"DNK",412,"Danish Union",1945,1964,3.1,1945,637
+"DNK",538,"Independents' Party",1953,1975,3.3,1960,932
+"DNK",590,"Conservative People's Party",1945,2015,23.4,1984,536
+"DNK",978,"Progress Party",1972,2015,15.9,1973,1601
+"DNK",1239,"Communist Party of Denmark",1945,2011,12.5,1945,277
+"DNK",1324,"Centre Democrats",1973,2015,8.3,1981,800
+"DNK",1331,"Christian People's Party",1970,2015,5.3,1975,53
+"DNK",1418,"Danish People's Party",1995,2015,13.9,2007,1022
+"DNK",1478,"Liberal Centre",1965,1969,2.5,1966,1118
+"DNK",1605,"Liberal Party",1945,2015,31.2,2001,1204
+"DNK",1606,"Justice Party",1945,1984,8.2,1950,1134
+"DNK",1629,"Social Democratic Party",1945,2015,42.1,1960,379
+"DNK",1644,"Socialist People's Party",1959,2015,14.6,1987,329
+"FIN",94,"Centre Party",1945,2015,24.8,1991,901
+"FIN",200,"True Finns",1959,2015,19.1,2011,1689
+"FIN",229,"Democratic Alternative",1986,1990,4.2,1987,166
+"FIN",395,"Social Democratic Party of Finland",1945,2015,28.3,1995,1303
+"FIN",585,"Swedish People's Party",1945,2015,7.9,1945,1229
+"FIN",1009,"Young Finnish Party",1994,1999,2.8,1995,856
+"FIN",1062,"Green League",1983,2015,8.5,2007,479
+"FIN",1108,"Social Democratic Union of Workers and Smallholders",1958,1974,4.4,1962,1164
+"FIN",1118,"National Coalition",1945,2015,23.1,1987,495
+"FIN",1219,"People's Party",1945,2007,7.9,1954,249
+"FIN",1292,"People's Democratic Union",1945,2015,23.5,1945,1096
+"FIN",1463,"Christian Democrats",1966,2015,5.3,2003,703
+"FRA",138,"Rally for the Republic",1978,2001,22.5,1978,509
+"FRA",213,"Reformers' Movement",1973,1978,13.3,1973,167
+"FRA",259,"Hunting, Fishing, Nature, Tradition",1987,2015,1.7,2002,1313
+"FRA",270,"National Front",1986,2015,14.9,1997,433
+"FRA",401,"Radical Socialist Party",1945,1973,11.1,1956,14
+"FRA",509,"Union for French Democracy",1978,2015,26.2,1978,213
+"FRA",658,"Union for the Presidential Majority",2002,2015,33.3,2002,1595
+"FRA",686,"French Communist Party",1945,2015,28.6,1946,1251
+"FRA",873,"The Greens",1993,2015,7.6,1993,1108
+"FRA",885,"Centre for Democracy and Progress",1973,1978,3.8,1973,288
+"FRA",898,"Union for the Defence of Traders and Artisans",1956,1959,11.7,1956,1580
+"FRA",1058,"New Centre",2007,2015,2.2,2012,1255
+"FRA",1086,"Popular Republican Movement",1945,1967,26.3,1946,737
+"FRA",1094,"Union for the Defense of the Republic",1946,1977,38,1968,1083
+"FRA",1297,"Republic Party for Liberty",1945,1993,12.8,1946,1473
+"FRA",1491,"Democratic Centre",1967,1973,14.1,1967,399
+"FRA",1492,"Radical Left Party",1973,2012,1.5,2002,1783
+"FRA",1539,"Socialist Party",1945,2015,36,1981,1478
+"DEU",137,"Centre Party",1946,1957,3.1,1949,1798
+"DEU",187,"German Reich Party",1946,1957,1.8,1949,1151
+"DEU",543,"Free Democratic Party",1946,2015,14.6,2009,573
+"DEU",558,"Social Democratic Party",1946,2015,45.8,1972,383
+"DEU",649,"Communist Party of Germany",1946,1956,5.7,1949,1135
+"DEU",772,"Alliance '90/The Greens",1980,2015,10.7,2009,1816
+"DEU",791,"The Left Party",1990,2015,11.9,2009,86
+"DEU",808,"Christian Democratic Union",1946,2015,39.7,1957,1375
+"DEU",912,"German Party",1946,1961,4,1949,1502
+"DEU",1131,"Bavarian Party",1946,1953,4.2,1949,61
+"DEU",1180,"Christian Social Union",1946,2015,10.6,1976,1731
+"DEU",1420,"Economic Reconstruction League",1946,1953,2.9,1949,735
+"DEU",1507,"Refugee Party",1950,1961,5.9,1953,1010
+"GBR",467,"Green Party ",1987,2015,1,2005,1794
+"GBR",659,"Liberal Party",1945,1987,19.3,1974,540
+"GBR",773,"Conservative Party",1945,2015,54.8,1959,1567
+"GBR",1210,"Ulster Unionist Party",1945,2015,1.1,1974,1366
+"GBR",1250,"British National Party",1982,2015,1.9,2010,855
+"GBR",1272,"UK Independence Party",1993,2015,3.1,2010,601
+"GBR",1284,"Scottish National Party",1945,2015,2.9,1974,986
+"GBR",1302,"Liberal Democratic Party",1988,2015,23,2010,
+"GBR",1556,"Labour Party",1945,2015,48.8,1951,1516
+"GRC",47,"New Democracy",1974,2015,54.4,1974,794
+"GRC",489,"Centre Union",1974,1985,20.4,1974,82
+"GRC",614,"Communist Party of Greece",1974,2015,10.9,1981,48
+"GRC",720,"Democratic Social Movement",1995,2007,4.4,1996,1682
+"GRC",1027,"National Alignment",1977,1981,6.8,1977,943
+"GRC",1179,"Popular Orthodox Rally",2000,2015,5.6,2009,965
+"GRC",1338,"Panhellenic Socialist Movement",1974,2015,48.1,1981,1468
+"GRC",1412,"Political Spring",1993,2004,4.9,1993,312
+"GRC",1441,"Progressive Left Coalition",1989,2015,13.1,1989,516
+"GRC",1592,"Syriza",2004,2015,26.9,2012,301
+"ISL",53,"Union of Liberals and Leftists",1967,1978,8.9,1971,1517
+"ISL",147,"Women's Alliance",1983,1999,10.1,1987,525
+"ISL",205,"Awakening of the Nation",1995,1999,7.2,1995,494
+"ISL",210,"Left Green Movement",1999,2015,21.7,2009,457
+"ISL",228,"Social Democratic Party  ",1946,2000,22,1978,1325
+"ISL",506,"Liberal Party",1998,2015,7.3,2007,1224
+"ISL",587,"Citizens' Movement",2009,2012,7.2,2009,224
+"ISL",828,"Citizens' Party",1987,1994,10.9,1987,1433
+"ISL",988,"Social Democratic Federation",1983,1987,7.3,1983,854
+"ISL",1006,"Social Democratic Alliance",1999,2015,29.8,2009,1396
+"ISL",1172,"National Preservation Party",1953,1956,6,1953,673
+"ISL",1319,"United Socialist Party",1946,1955,19.5,1946,1208
+"ISL",1342,"Independence Party",1946,2015,42.7,1974,363
+"ISL",1360,"People's Alliance",1956,1998,22.9,1978,1249
+"ISL",1455,"Progressive Party",1946,2015,28.2,1963,964
+"IRL",92,"Republican Party",1946,1969,13.2,1948,1354
+"IRL",280,"Fianna Fail",1944,2015,50.6,1977,1055
+"IRL",318,"Labour Party",1944,2015,19.4,2011,562
+"IRL",433,"Workers' Party",1957,2015,5,1989,208
+"IRL",651,"Progressive Democrats",1985,2011,11.8,1987,924
+"IRL",923,"Party of the Land",1944,1965,5.6,1948,1024
+"IRL",1014,"Socialist Party",1996,2015,1.2,2011,1448
+"IRL",1393,"Fine Gael",1944,2015,39.2,1982,1288
+"IRL",1573,"Green Party",1981,2015,4.7,2007,1775
+"IRL",1580,"Democratic Left Party",1992,1999,2.8,1992,1172
+"ITA",67,"Casa delle Liberta",1994,2015,45.6,2001,365
+"ITA",93,"Italian Republic Party",1946,1994,5.1,1983,394
+"ITA",99,"Christian Democratic Centre",1994,2002,4.6,1994,1767
+"ITA",142,"Italian People's Party",1994,2002,15.7,1994,1701
+"ITA",226,"Union for Christian and Center Democrats",2002,2015,6.8,2006,1758
+"ITA",242,"Democratic Socialist Party",1947,1998,7.1,1948,1126
+"ITA",350,"Italian Renewal",1996,2002,4.1,1996,630
+"ITA",366,"The Network/Movement for Democracy",1992,1996,1.9,1992,131
+"ITA",373,"National Alliance",1994,2008,17.3,1994,813
+"ITA",382,"Democratic Party  ",2007,2015,34,2008,802
+"ITA",399,"UDEur Union for European Democracy",1999,2010,1.4,2006,115
+"ITA",465,"Left Ecology Freedom",2009,2015,3.2,2013,1212
+"ITA",487,"Italian Liberal Party",1946,1994,7,1963,1461
+"ITA",488,"European Democracy",1999,2002,2.4,2001,1327
+"ITA",596,"Go Italy",1994,2009,38.2,2008,1626
+"ITA",627,"Biancofiore",1996,2001,6.6,2001,962
+"ITA",693,"Italy of Values",1998,2015,4.5,2008,768
+"ITA",809,"Democratic Party of the Left",1992,2007,27.1,1996,878
+"ITA",831,"Italian Social Movement",1946,1993,8.7,1972,1696
+"ITA",896,"Democratic Alliance",1993,1996,2.9,1994,
+"ITA",910,"Green Federation",1992,2015,2.8,1992,851
+"ITA",968,"Proletarian Unity for Communism",1972,1984,1.4,1979,598
+"ITA",1005,"Margherita",2001,2007,13.1,2001,279
+"ITA",1008,"United Socialist Party",1966,1972,14.5,1968,
+"ITA",1048,"Olive Tree",1995,2007,43.1,2001,1737
+"ITA",1088,"Italian Communist Party",1946,1991,34.4,1976,34
+"ITA",1246,"The Union List--Prodi",2006,2006,1.1,2006,1372
+"ITA",1296,"Radical Party",1960,2005,3.5,1979,1449
+"ITA",1304,"Green Federation",1987,1991,2.5,1987,851
+"ITA",1321,"Newly Founded Communists",1991,2015,8.6,1996,1404
+"ITA",1424,"Proletarian Democracy",1975,1992,1.7,1987,1429
+"ITA",1436,"Northern League",1989,2015,18.6,1994,1221
+"ITA",1475,"Italian Socialist Party",1946,1994,20.7,1946,742
+"ITA",1593,"Italian Socialist Party of Proletarian Unity",1964,1975,4.5,1968,1505
+"ITA",1633,"Christian Democrats",1946,1993,48.5,1948,934
+"ITA",1661,"Party of Italian Communists",1998,2015,2.2,2006,1635
+"ITA",1702,"Italian Democratic Party of Monarchist Unity",1960,1972,1.8,1963,1371
+"LUX",151,"Communist Party of Luxembourg",1945,1994,16.9,1948,1647
+"LUX",310,"The Greens",1984,2015,11.7,2009,1138
+"LUX",315,"Green Alternative Party",1984,1994,4.2,1989,493
+"LUX",457,"The Left",1999,2015,3.8,1999,271
+"LUX",701,"Socialist Worker's Party of Luxembourg",1945,2015,41.5,1948,186
+"LUX",967,"Democratic Party",1945,2015,22.2,1974,300
+"LUX",1158,"Green List, Ecological Alternative",1985,1994,4.2,1989,475
+"LUX",1234,"Christian Social People's Party",1945,2015,42.4,1954,539
+"LUX",1582,"Action Committee for Democracy and Pension Justice",1989,2015,10.4,1999,1114
+"NLD",209,"Centre Democrats",1989,1998,2.5,1994,1472
+"NLD",212,"Reformatory Political Federation",1975,2000,2,1998,172
+"NLD",235,"Christian Democratic Appeal",1977,2015,35.3,1989,1157
+"NLD",300,"Anti-Revolutionary Party",1946,1976,13.2,1948,163
+"NLD",342,"Political Party Radicals",1968,1989,4.8,1972,1581
+"NLD",345,"Democrats 66",1966,2015,15.5,1994,45
+"NLD",357,"Socialist Party",1994,2015,16.6,2006,1363
+"NLD",402,"Democratic Socialists '70",1970,1982,5.3,1971,921
+"NLD",405,"Christian Historical Union",1946,1976,9.2,1948,1102
+"NLD",451,"Catholic People's Party",1946,1976,31.9,1963,1390
+"NLD",456,"List Pim Fortuyn",2002,2006,17,2002,1528
+"NLD",625,"Reformed Political League",1963,2000,1.8,1972,1602
+"NLD",742,"Labour",1946,2015,33.8,1977,1234
+"NLD",744,"Livable Netherlands",2002,2003,1.6,2002,1420
+"NLD",756,"Green Left",1989,2015,7.3,1998,1537
+"NLD",990,"The Party for the Animals",2002,2015,1.9,2012,1467
+"NLD",1194,"Communist Party Netherlands",1946,1989,10.6,1946,459
+"NLD",1206,"Christian Union",2001,2015,4,2006,1459
+"NLD",1251,"Reformed Political Party",1946,2015,2.4,1948,1178
+"NLD",1409,"People's Party for Freedom and Democracy",1946,2015,26.6,2012,828
+"NLD",1452,"Pacifist Socialist Party",1959,1989,3,1963,1050
+"NLD",1501,"Freedom Party",2004,2015,15.4,2010,298
+"NLD",1595,"Boerenpartij",1963,1981,4.8,1967,1110
+"NZL",114,"Maori Party",2004,2015,2.4,2008,1716
+"NZL",354,"Jim Anderton's Progressive Coalition",2002,2012,1.7,2002,150
+"NZL",617,"Association of Consumers and Taxpayers",1994,2015,7.1,2002,752
+"NZL",878,"Labour Party",1946,2015,51.3,1946,1049
+"NZL",891,"New Zealand First Party",1993,2015,13.3,1996,591
+"NZL",997,"National Party",1946,2015,53.9,1951,1824
+"NZL",1171,"Green Party of Aortearoa",1990,2015,11.1,2011,1099
+"NZL",1313,"United Future",2002,2015,6.7,2002,940
+"NZL",1444,"Alliance",1990,2015,18.2,1993,716
+"NZL",1636,"Social Credit/Democratic Party",1946,1990,20.6,1981,911
+"NOR",27,"Communist Party of Norway",1945,1981,11.9,1945,1079
+"NOR",81,"Socialist Left Party",1973,2015,12.5,2001,719
+"NOR",104,"Labour Party",1945,2015,48.3,1957,448
+"NOR",351,"Progress Party",1973,2015,22.9,2009,101
+"NOR",647,"Liberal Party",1945,2015,13.8,1945,1173
+"NOR",702,"Centre Party",1945,2015,16.7,1993,1072
+"NOR",1209,"Liberal People's Party",1972,1978,3.4,1973,1020
+"NOR",1435,"Conservative Party",1945,2015,31.7,1981,503
+"NOR",1538,"Christian People's Party",1945,2015,13.7,1997,705
+"NOR",1773,"Socialist People's Party",1961,1972,6,1965,1203
+"PRT",82,"National Solidarity Party",1991,1995,1.7,1991,181
+"PRT",107,"Popular Monarchist Party",1974,1985,2.4,1980,1480
+"PRT",251,"Centre Social Democrats",1974,2015,18.4,1980,1308
+"PRT",260,"Popular Democratic Union",1975,1998,2.2,1979,896
+"PRT",341,"Democratic Renewal Party",1985,2000,18.4,1985,1600
+"PRT",514,"Portuguese Communist Party",1974,2015,17.6,1979,310
+"PRT",557,"Left Bloc",1998,2015,10.1,2009,1310
+"PRT",565,"Union of the Social and Democratic Left",1978,1983,1.6,1980,
+"PRT",622,"Independent Social Democrats",1980,1983,1.6,1980,
+"PRT",725,"Portuguese Socialist Party",1974,2015,46.4,2005,655
+"PRT",1273,"Social Democratic Party",1974,2015,51.6,1991,1359
+"PRT",1281,"Democratic Movement",1974,1987,4.5,1975,1688
+"PRT",1295,"Unified Democratic Coalition",1987,2015,12.4,1987,284
+"ESP",118,"Communist Party of Spain",1976,2015,10.8,1979,247
+"ESP",135,"Centrist Bloc",1976,1986,35,1979,1271
+"ESP",234,"Canarian Coalition",1993,2015,1.1,2000,81
+"ESP",370,"Andalusian Party",1976,2015,1.8,1979,1497
+"ESP",520,"Galician Nationalist Party",1986,2015,1.3,2000,1011
+"ESP",551,"Union for Progress and Democracy",2007,2015,4.8,2011,55
+"ESP",637,"Centre Democrats",1982,1994,9.3,1986,1248
+"ESP",645,"Popular Party",1976,2015,45.2,2000,441
+"ESP",757,"Catalan Republican Left",1976,2015,2.6,2004,848
+"ESP",894,"Convergence and Unity",1976,2015,5.1,1989,139
+"ESP",902,"Socialist Workers' Party",1976,2015,48.3,1982,1338
+"ESP",1221,"Aragonese Regionalist Party",1976,2015,1.4,2011,946
+"ESP",1361,"Basque Nationalist Party",1976,2015,1.9,1982,1637
+"ESP",1975,"Amaiur",2011,2015,1.4,2011,
+"SWE",282,"Christian Democrats",1964,2015,11.8,1998,651
+"SWE",657,"Moderate Coalition Party",1944,2015,30.1,2010,690
+"SWE",882,"Vp Left Party",1944,2015,12,1998,830
+"SWE",892,"People's Party",1944,2015,24.4,1952,1274
+"SWE",904,"Social Democratic Workers' Party",1944,2015,50.1,1968,487
+"SWE",951,"New Democracy",1991,2000,6.7,1991,343
+"SWE",1154,"Environmental Party",1981,2015,7.3,2010,456
+"SWE",1461,"CP Centre Party",1944,2015,25.1,1973,199
+"SWE",1546,"Sweden Democrats",2006,2015,5.7,2010,409
+"CHE",26,"Radical Democratic Party",1946,2015,24,1951,360
+"CHE",35,"Social Democratic Party",1946,2015,27,1955,29
+"CHE",141,"Green Party",1979,2015,9.6,2007,1006
+"CHE",458,"Liberal Party",1946,2011,3,1991,444
+"CHE",531,"Conservative Christian Social Party",1946,2015,23.4,1963,1808
+"CHE",602,"Protestant People's Party",1946,2015,2.4,2007,1123
+"CHE",628,"Swiss Democrats",1967,2015,3.4,1991,1819
+"CHE",750,"People's Party",1946,2015,28.9,2007,308
+"CHE",1167,"Labour Party",1946,2015,5.1,1947,669
+"CHE",1264,"Independents' Alliance",1946,2015,9.1,1967,1194
+"CHE",1318,"Federal Democratic Union",1975,2015,1.3,1995,631
+"CHE",1602,"Motorists' Party",1984,2015,5.1,1991,1311
