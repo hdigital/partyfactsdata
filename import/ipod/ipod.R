@@ -9,6 +9,18 @@ raw_ipod <- data_ipod
 rm(data_ipod)
 
 
+## Party Facts based link file for ParlGov IDs ----
+
+if(FALSE) {
+  pf_ext <- read_csv("source__partyfacts-external-parties.csv") %>%
+    filter(dataset_key == "parlgov") %>%
+    select(parlgov_id = dataset_party_id, partyfacts_id) %>% 
+    write_csv("partyfacts-parlgov-ids.csv")
+}
+
+pf_ext <- read_csv("partyfacts-parlgov-ids.csv")
+  
+
 ## Extract information ----
 
 ipod <- raw_ipod %>%
@@ -44,18 +56,12 @@ ipod_party <- ipod %>%
     country, party_id, party_name_english, year_first,
     year_last, share, share_year
   )
-  
-
-# load external PartyFacts-IDs
-pf_ext <- read_csv("partyfacts-external-parties.csv") %>%
-  filter(dataset_key == "parlgov") %>%
-  select(dataset_party_id, partyfacts_id)
 
 
 ## Final data ----
 
 ipod_compl <- ipod_party %>% 
-  left_join(pf_ext, by = c("party_id" = "dataset_party_id")) %>%
+  left_join(pf_ext, by = c("party_id" = "parlgov_id")) %>%
   filter(share >= 1) %>% 
   distinct(party_id, .keep_all = TRUE)
 
