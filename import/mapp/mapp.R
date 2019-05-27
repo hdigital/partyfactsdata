@@ -76,9 +76,3 @@ write.csv(mapp, "mapp.csv", row.names = FALSE, fileEncoding = "UTF-8", na = "")
 # check wether there are any duplicates or differences in the number of
 # party_id after the manipulation
 duplicated(mapp$party_id) %>% any()
-
-raw_mapp %>%
-  mutate(party_id = paste(`Party ID (MAPP)`)) %>%
-  moonBook::mytable()
-
-moonBook::mytable(mapp)
