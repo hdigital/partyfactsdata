@@ -1,7 +1,17 @@
 library(tidyverse)
 library(countrycode)
 
-raw_mapp <- readxl::read_xlsx("source__MAPP_dataset_-_Version_2.0.xlsx", sheet = 1)
+
+## Get/read data ----
+
+mapp_file <- "source__MAPP_dataset_-_Version_2.0.xlsx"
+
+if(! mapp_file %in% list.files()) {
+  download.file("https://zenodo.org/record/61234/files/MAPP_dataset_-_Version_2.0.xlsx",
+                mapp_file)
+}
+
+raw_mapp <- readxl::read_xlsx(mapp_file)
 
 # dataset with Party Facts and ParlGov IDs
 if(FALSE) {
@@ -12,12 +22,11 @@ if(FALSE) {
 }
 
 raw_pfext <- read.csv("partyfacts-parlgov.csv") %>% 
-  mutate(
-    parlgov_id = as.character(parlgov_id)
-  )
+  mutate(parlgov_id = as.character(parlgov_id))
 
 
-# Extract information ----
+## Extract information ----
+
 mapp_temp <- raw_mapp %>%
   select(
     `Party ID (MAPP)`, `PartyID (ParlGov)`, Country, `Party acronym`,
