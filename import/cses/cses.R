@@ -1,12 +1,25 @@
 library(tidyverse)
 
+## Get and load CSES data ----
 
-load("source__cses_imd.rdata")
+cses_file_name <- "source__cses_imd.rdata"
 
-cses_cb <- read.csv("cses-codebook.csv") %>%
+if( ! cses_file_name %in% list.files()) {
+  download.file("http://www.cses.org/datacenter/imd/data/cses_imd_r.zip", "tmp.zip")
+  unzip("tmp.zip")
+  fs::file_move("cses_imd.rdata", )
+  fs::file_delete("tmp.zip", cses_file_name)
+}
+
+load(cses_file_name)
+
+cses_cb <- read_csv("cses-codebook.csv") %>%
   mutate(
     party_id = as.numeric(str_remove(party_id, "\\#"))
   )
+
+
+## Create party data ----
 
 cses <- cses_imd %>%
   select(IMD1006_NAM, IMD1008_YEAR, IMD3002_LH_PL) %>%
@@ -21,7 +34,9 @@ cses <- cses_imd %>%
     number = n(),
     share = round(number / total_number * 100, 2)
   ) %>%
-  ungroup() %>%
+  ungroup()
+
+cses <- cses %>% 
   select(
     country_short, party_short, party_name, IMD1008_YEAR, share,
     IMD3002_LH_PL, comment, polity_notes
@@ -34,25 +49,24 @@ cses <- cses_imd %>%
     year_last = max(IMD1008_YEAR)
   ) %>%
   slice(1L) %>%
-  ungroup() %>%
-  filter(share == share_max) %>%
-  filter(share >= 1) %>%
+  ungroup()
+
+cses <- cses %>% 
+  filter(share == share_max, share >= 1) %>%
   select(
-    country_short, party_short, party_name, year_first, year_last, IMD1008_YEAR,
-    share, IMD3002_LH_PL, comment, polity_notes
+    country_short, party_short, party_name, year_first, year_last,
+    IMD1008_YEAR, share, IMD3002_LH_PL, comment, polity_notes
   )
 
-
-## rename columns
+# rename columns
 colnames(cses) <- c(
   "country", "name_short", "name_english", "year_first", "year_last",
   "share_year", "share", "party_id", "comment", "polity_note"
 )
 
 
-## check for duplicated IDs
+## Final check and data ----
+
 duplicated(cses$party_id) %>% any()
 
-
-## write csv
 write.csv(cses, "cses.csv", fileEncoding = "UTF-8", na = "", row.names = FALSE)

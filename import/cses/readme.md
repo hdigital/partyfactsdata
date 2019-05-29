@@ -11,7 +11,6 @@
 + Party information were extracted from the codebook part 3 (no script provided)
 + `share` information are gathered by the variable `IMD3002_LH_PL`
 
-
 ## Comments
 
 + The dataset covers the years 1996 to 2016. To see which countries are covered in which year, please visit the website of CSES.
