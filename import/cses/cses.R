@@ -48,16 +48,16 @@ cses <- cses %>%
   distinct() %>%
   group_by(IMD3002_LH_PL) %>%
   mutate(
-    share_max = max(share),
     year_first = min(IMD1008_YEAR),
     year_last = max(IMD1008_YEAR)
   ) %>%
+  arrange(-share) %>% 
   slice(1L) %>%
   ungroup()
 
 # filter parties above 1 percent
 cses <- cses %>% 
-  filter(share == share_max, share >= 1) %>%
+  filter(share >= 1) %>%
   select(
     country_short, party_short, party_name, year_first, year_last,
     IMD1008_YEAR, share, IMD3002_LH_PL, comment, polity_notes
