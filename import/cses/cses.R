@@ -21,6 +21,8 @@ cses_cb <- read_csv("cses-codebook.csv") %>%
 
 ## Create party data ----
 
+# add codebook party informations
+# generate share for each year
 cses <- cses_imd %>%
   select(IMD1006_NAM, IMD1008_YEAR, IMD3002_LH_PL) %>%
   left_join(cses_cb, by = c("IMD3002_LH_PL" = "party_id")) %>%
@@ -36,6 +38,8 @@ cses <- cses_imd %>%
   ) %>%
   ungroup()
 
+# keep only relevant variables & one observation for each party
+# get max share and year informations
 cses <- cses %>% 
   select(
     country_short, party_short, party_name, IMD1008_YEAR, share,
@@ -51,6 +55,7 @@ cses <- cses %>%
   slice(1L) %>%
   ungroup()
 
+# filter parties above 1 percent
 cses <- cses %>% 
   filter(share == share_max, share >= 1) %>%
   select(
