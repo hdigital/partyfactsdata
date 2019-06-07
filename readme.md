@@ -7,9 +7,12 @@
 
 see full credits at [Party Facts “about section”](https://partyfacts.herokuapp.com/documentation/about/)
 
-## Reference
+## References
 
 Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of Political Parties Worldwide:” Party Politics. Advance online publication. doi: [10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671).
+
+Bederke, Paul, Holger Döring, and Sven Regel. 2019. “Party Facts Dataverse.” [https://dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts).
+
 
 ## Summary
 
