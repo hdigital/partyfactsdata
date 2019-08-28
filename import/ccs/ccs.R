@@ -12,11 +12,29 @@ ccs_party_id <- read_csv("ccs-parties-all.csv") %>%
   ungroup()
 
 # combine all information
-ccs <- ccs_parties %>% 
+ccs_temp <- ccs_parties %>% 
   select(-party_id) %>% 
   left_join(ccs_party_id, by = "partyfacts_id") %>% 
   left_join(pf_tech, by = "partyfacts_id") %>% 
   filter(is.na(technical)) %>%                        # filter technicals
   select_if(~sum(!is.na(.)) > 0)                      # drop empty columns
 
+# correct special case in Belgium
+ccs <- ccs_temp %>% 
+  mutate(
+    party_id_2 = case_when(
+      (country == "BEL" & name_short %in% c("PVDA", "PTB")) ~ NA_character_,
+      T ~ party_id_2
+    ),
+    party_id_1 = case_when(
+      (country == "BEL" & name_short == "PVDA") ~ "2-18-19-2014",
+      T ~ party_id_1
+    )
+  ) %>% 
+  group_by(party_id_1) %>%    # remove duplicate entries 
+  slice(1L) %>% 
+  ungroup()
+
+
+  
 write_csv(ccs, "ccs.csv", na = "")
