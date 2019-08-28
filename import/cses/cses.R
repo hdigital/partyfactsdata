@@ -19,12 +19,14 @@ cses_cb <- read_csv("cses-codebook.csv") %>%
   )
 
 
-## Create party data ----
+## Create party data -----------------------------------------------------------------------------
+
+## parties which are named in variable IMD3002_LH_PL 
 
 # add codebook party informations
 # generate share for each year
-cses <- cses_imd %>%
-  select(IMD1006_NAM, IMD1008_YEAR, IMD3002_LH_PL) %>%
+cses_share_temp <- cses_imd %>%
+  select(IMD1006_NAM, IMD1008_YEAR, IMD3002_LH_PL, IMD3002_LH_DC, IMD3002_PR_1) %>%
   left_join(cses_cb, by = c("IMD3002_LH_PL" = "party_id")) %>%
   drop_na(country) %>%
   group_by(country, IMD1008_YEAR) %>%
@@ -38,30 +40,76 @@ cses <- cses_imd %>%
   ) %>%
   ungroup()
 
+
 # keep only relevant variables & one observation for each party
 # get max share and year informations
-cses <- cses %>% 
+cses_share <- cses_share_temp %>% 
+  mutate(party_id = IMD3002_LH_PL) %>% 
   select(
+    IMD1006_NAM,
     country_short, party_short, party_name, IMD1008_YEAR, share,
-    IMD3002_LH_PL, comment, polity_notes
+    party_id, comment, polity_notes
   ) %>%
   distinct() %>%
-  group_by(IMD3002_LH_PL) %>%
+  group_by(party_id) %>%
   mutate(
     year_first = min(IMD1008_YEAR),
     year_last = max(IMD1008_YEAR)
   ) %>%
   arrange(-share) %>% 
   slice(1L) %>%
-  ungroup()
+  ungroup() 
 
-# filter parties above 1 percent
-cses <- cses %>% 
+
+## -----------------------------------------------------------------------------------------------
+
+## six most popular parties/coalitions + supplemental parties
+
+cses_top <- cses_imd %>% 
+  select(IMD1006_NAM, IMD1008_YEAR, starts_with("IMD5000_")) %>% 
+  distinct() %>% 
+  gather(key = "key", value = "party_id", starts_with("IMD5000_")) %>% 
+  distinct() %>% 
+  left_join(cses_cb, by = "party_id") %>% 
+  group_by(party_id) %>%
+  mutate(
+    year_first = min(IMD1008_YEAR),
+    year_last = max(IMD1008_YEAR)
+  ) %>%
+  ungroup() %>% 
+  select(country_short, IMD1006_NAM, party_short, party_name, year_first, year_last, party_id, comment, polity_notes) %>% 
+  distinct()
+
+
+## -----------------------------------------------------------------------------------------------
+
+## combine parties with share above 1% and the six most popular parties/coalitions + supplemental parties
+
+cses_top_and_share <- cses_share %>% 
   filter(share >= 1) %>%
-  select(
-    country_short, party_short, party_name, year_first, year_last,
-    IMD1008_YEAR, share, IMD3002_LH_PL, comment, polity_notes
-  )
+  select(country_short, IMD1006_NAM, party_short, party_name, year_first, year_last, party_id, comment, polity_notes) %>% 
+  distinct() %>% 
+  rbind(cses_top) %>% 
+  distinct() %>% 
+  drop_na(country_short)
+
+
+## share information 
+cses_share_merge <- cses_share %>% 
+  select(party_id, share, IMD1008_YEAR)
+
+
+## merge share information to data
+cses <- cses_top_and_share %>% 
+  select(-IMD1006_NAM) %>% 
+  left_join(cses_share_merge, by = c("party_id" = "party_id")) %>% 
+  select(country_short, party_short, party_name, year_first, year_last, IMD1008_YEAR, share, party_id, comment, polity_notes) %>% 
+  distinct() %>% 
+  group_by(party_id) %>% 
+  slice(1L) %>% 
+  ungroup() %>% 
+  filter(share >= 1 | is.na(share))
+
 
 # rename columns
 colnames(cses) <- c(
@@ -73,5 +121,6 @@ colnames(cses) <- c(
 ## Final check and data ----
 
 duplicated(cses$party_id) %>% any()
+
 
 write.csv(cses, "cses.csv", fileEncoding = "UTF-8", na = "", row.names = FALSE)
