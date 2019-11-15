@@ -1,0 +1,112 @@
+country,name_short,name,year_first,year_last,party_id
+ALB,BK,Balli Kombëtar,1991,,ALB-BK-1991
+ALB,PDD,Partia Demokratike e Djahte,1994,,ALB-PDD-1994
+ALB,PUK,Partia e Unitetit Kombëtar,1991,,ALB-PUK-1991
+AUT,BZÖ,Bündnis Zukunft Österreich,2005,,AUT-BZÖ-2005
+AUT,FPÖ,Freiheitliche Partei Österreichs,1986,,AUT-FPÖ-1986
+BLR,BPS,Belarusskaya partiya svobody,,,BLR-BPS-NA
+BLR,LDPB,Liberalno-demokraticheskaya partiya Belarusa,,,BLR-LDPB-NA
+BEL,,Agir,1989,1994,BEL-NA-1989
+BEL,FNb,Front National (Belge),1985,,BEL-FNb-1985
+BEL,FNB,Front Nouveau de Belgique,1995,,BEL-FNB-1995
+BEL,VB,Vlaams Blok,1979,2004,BEL-VB-1979
+BEL,VB,Vlaams Belang,2004,,BEL-VB-2004
+BIH,HDZBiH,Hrvatska demokratska zajednica Bosne i Hercegovine,1990,,BIH-HDZBiH-1990
+BIH,SDS,Srpska demokratska stranka,1990,1998,BIH-SDS-1990
+BIH,SRS RS,Srpska radikalna stranka Republike Srpske,1991,,BIH-SRS RS-1991
+BIH,SDA,Stranka demokratska akcije,1990,,BIH-SDA-1990
+BGR,BChP,Bălgarska Christijandemokratičeska partija,1990,,BGR-BChP-1990
+BGR,BNRP,Bălgarska nacionalna radikalna partija,1989,,BGR-BNRP-1989
+BGR,NSA,Nacionalen sayuz Ataka,2005,,BGR-NSA-2005
+BGR,Ataka,Partiya Ataka,2005,,BGR-Ataka-2005
+BGR,VMRO-SMD,Vătrešna makedonska revoljucionna organizacija–Săjuz na makedonskite družestva,1990,,BGR-VMRO-SMD-1990
+HRV,HB,Hrvatski blok,2000,,HRV-HB-2000
+HRV,HDZBiH,Hrvatska demokratska zajednica,1989,2000,HRV-HDZBiH-1989
+HRV,HIP,Hrvatski istinski preporod,2001,,HRV-HIP-2001
+HRV,HSP,Hrvatska stranka prava,1990,,HRV-HSP-1990
+HRV,HSP 1861,Hrvatska stranka prava-1861,1995,,HRV-HSP 1861-1995
+CYP,YDP,Yeni Doğuş Partisi,1984,,CYP-YDP-1984
+CZE,NSA,Národni strana,1998,,CZE-NSA-1998
+CZE,RMS,Republikáni Miroslava Sládka,2001,,CZE-RMS-2001
+CZE,SPR-RSC,Sdruženi pro republiku–Republikánská strana Československa,1989,2001,CZE-SPR-RSC-1989
+DNK,DFP,Dansk Folkeparti,1995,,DNK-DFP-1995
+EST,EIP,Eesti Iseseisvuspartei,1999,,EST-EIP-1999
+EST,EK,Eesti Kodanik,1992,1995,EST-EK-1992
+EST,ERE,Eesti Rahvuslik Eduerakond,1993,,EST-ERE-1993
+EST,ERSP,Eesti Rahvusliku Soltumatuse Partei,1988,1995,EST-ERSP-1988
+EST,ERKL,Eesti Rahvuslaste Keskliit,1994,1996,EST-ERKL-1994
+EST,PE,Parem Eesti,1994,1995,EST-PE-1994
+FIN,IKL,Isänmaallinen kansanliike-Liitto,1993,,FIN-IKL-1993
+FRA,,Alsace d’abord,1989,,FRA-NA-1989
+FRA,FN,Front national,1972,,FRA-FN-1972
+FRA,MCA,Mouvement Corse pour l’Autodétermination,1984,,FRA-MCA-1984
+FRA,MNR,Mouvement national républicaine,1999,,FRA-MNR-1999
+DEU,DLVH,Deutsche Liga für Volk und Heimat,1991,,DEU-DLVH-1991
+DEU,DVU,Deutsche Volksunion,1987,,DEU-DVU-1987
+DEU,REP,Republikaner,1983,,DEU-REP-1983
+GRC,EK,Eoniko Komma,1989,,GRC-EK-1989
+GRC,FL,Front Line,1999,,GRC-FL-1999
+GRC,EM,Elliniko Metopo,1994,,GRC-EM-1994
+GRC,KE,,1996,,GRC-KE-1996
+GRC,LAOS,Laikos Orthodoxos Synagermos,2000,,GRC-LAOS-2000
+HUN,MIÉP,Magyar Igazság és Élet Pártja,1993,,HUN-MIÉP-1993
+IRL,ICP,Immigration Control Platform,1997,,IRL-ICP-1997
+ITA,F,Die Freiheitlichen,1998,,ITA-F-1998
+ITA,LL,Lega Lombarda,1984,1991,ITA-LL-1984
+ITA,LN,Lega Nord,1991,,ITA-LN-1991
+ITA,LV,Lega Veneto,1982,1991,ITA-LV-1982
+ITA,MS-FT,Movimento Sociale–Fiamma Tricolore,1994,,ITA-MS-FT-1994
+LVA,TB,Tēvzeme un Brīvibaī,1993,1995,LVA-TB-1993
+LUX,,Aktiounskomitee fir Demokratie a Rentegerechtegkeet,,,LUX-NA-NA
+LUX,,Lëtzebuerger Partei,1989,,LUX-NA-1989
+LUX,NB,Nationalbewegong,1987,1995,LUX-NB-1987
+MKD,MAAK,Dviženje za Semakedonska Akcija,1990,,MKD-MAAK-1990
+MKD,,Partia Demokratika Shqiptare,1997,,MKD-NA-1997
+MKD,VMRO-DP,Vnatreška Makedonska Revolucionerna Organizacija – Demokratska Partija,1991,,MKD-VMRO-DP-1991
+MKD,VMRO-DPMNE,Vnatreška Makedonska Revolucionerna Organizacija–Demokratska Partija za Makedonsko Nacionalno Edinstvo,1990,1998,MKD-VMRO-DPMNE-1990
+MKD,VMRO-Makedonska,Vnatreška Makedonska Revolucionerna Organizacija–Makedonska,,,MKD-VMRO-Makedonska-NA
+NLD,CP,Centrumpartij,1980,1986,NLD-CP-1980
+NLD,CD,Centrumdemocraten,1984,2002,NLD-CD-1984
+NLD,CP'86,Centrumpartij ’86/Nationale Volkspartij,1986,1998,NLD-CP'86-1986
+NLD,NVU,Nederlandse Volksunie,1971,1996,NLD-NVU-1971
+NLD,,Nieuw Rechts,2003,,NLD-NA-2003
+POL,APP,Alternatywa Partia Pracy,2001,,POL-APP-2001
+POL,KPN-O,Konfederacja Polski Niepodleglej–Ojczyzna,1999,,POL-KPN-O-1999
+POL,LPR,Liga Polskich Rodzin,2001,,POL-LPR-2001
+POL,,Party X,1990,1991,POL-NA-1990
+POL,ROP,Ruch Odbudowy Polski,1995,,POL-ROP-1995
+POL,RSA,Ruch Spoleczny Alternatywa,1998,2001,POL-RSA-1998
+POL,SR,Stronnictwo Narodowe,1989,,POL-SR-1989
+PRT,,Alliança Nacional,,,PRT-NA-NA
+PRT,PRN,Partido Renovador Nacional,,,PRT-PRN-NA
+ROU,PRM,Partidul (Popular) România Mare,1991,,ROU-PRM-1991
+ROU,PUNR,Partidul Unităţii Naţionale a Românilor,1990,,ROU-PUNR-1990
+RUS,LDPR,Liberal’no-demokraticheskoi partii Rossii,1989,,RUS-LDPR-1989
+SRB,LKCK,Lëvizja Kombëtare për Çlirimin e Kosovës,1993,,SRB-LKCK-1993
+SRB,SPO,Srpski pokret obnove,1990,1996,SRB-SPO-1990
+SRB,SRS,Srpska radikalna stranka,1991,,SRB-SRS-1991
+SRB,SSJ,Stranka srpskog jedinstva,1990,,SRB-SSJ-1990
+SVK,PSNS,Prava Slovenská národná strana,2001,2003,SVK-PSNS-2001
+SVK,SNS,Slovenská národná strana,1994,,SVK-SNS-1994
+SVN,RS,Republikanci Slovenije,1992,,SVN-RS-1992
+SVN,SND,Slovenska nacionalna desnica,1993,1996,SVN-SND-1993
+SVN,SNS,Slovenska nacionalna stranka,1990,2000,SVN-SNS-1990
+SVN,SSN,Stranka slovenskega naroda,1996,,SVN-SSN-1996
+ESP,,Alternativa Española,2005,,ESP-NA-2005
+ESP,DN,Democracia nacional,1994,,ESP-DN-1994
+ESP,,España 2000,2002,,ESP-NA-2002
+ESP,,Frente Nacional,1986,,ESP-NA-1986
+SWE,ND,Nationaldemokraterna,2001,,SWE-ND-2001
+SWE,SV,Skånes Val,1997,,SWE-SV-1997
+SWE,SD,Sverigedemokraterna,1988,,SWE-SD-1988
+CHE,FPS,Freiheits-Partei der Schweiz,1994,,CHE-FPS-1994
+CHE,,Nationale Aktion für Volk und Heimat,1961,1990,CHE-NA-1961
+CHE,SD,Schweizer Demokraten/Démocrates suisses,1990,,CHE-SD-1990
+CHE,SRB,Schweizer Republikaner Bewegung/Mouvement républicaine Suisse,1971,1989,CHE-SRB-1971
+CHE,,Vigilance,1964,1989,CHE-NA-1964
+UKR,,All-Ukrainian Union “Svoboda”,2004,,UKR-NA-2004
+UKR,KUN,Kongres Ukraiins’kikh Natsionalistiv,1992,,UKR-KUN-1992
+GBR,BNP,British National Party,1980,,GBR-BNP-1980
+GBR,,Freedom Party,2004,,GBR-NA-2004
+GBR,NF,National Front,1967,,GBR-NF-1967
+GBR,,Veritas,2005,,GBR-NA-2005
