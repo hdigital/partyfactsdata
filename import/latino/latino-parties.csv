@@ -1,0 +1,697 @@
+"country","name_short","name","year_first","year_last","share","share_year","party_id"
+"ARG","FPV"," Frente para la Victoria ",2009,2010,33.6,2010,101
+"ARG","PJ"," Partido Justicialista ",2009,2010,36.7,2010,102
+"ARG","FREPASO"," Frente País Solidario ",2009,2010,0.5,2009,103
+"ARG","ARI"," Afirmación para una República Igualitaria ",2009,2010,6.2,2009,104
+"ARG","UCR"," Unión Cívica Radical ",2009,2010,19.4,2009,105
+"ARG","PRO"," Propuesta Republicana ",2009,2010,13.7,2009,106
+"ARG","PH/ IU"," Partido Humanista ",2009,2010,1,2009,107
+"ARG","PS"," Partido Socialista ",2009,2010,10.9,2009,108
+"ARG","PC"," Partido Comunista ",2009,2010,0.5,2009,109
+"ARG","MST"," Movimiento Socialista de los Trabajadores ",2009,2009,0.8,2009,112
+"ARG","PO"," Partido Obrero ",2009,2010,2.3,2010,113
+"BOL","MAS"," Movimiento al Socialismo ",2009,2010,79.1,2010,201
+"BOL","PODEMOS"," Poder Democrático Social ",2009,2010,10.2,2009,202
+"BOL","UN"," Unidad Nacional ",2009,2010,19.8,2009,203
+"BOL","MNR"," Movimiento Nacionalista Revolucionario ",2009,2010,3.9,2010,204
+"BOL","MIR"," Movimiento de Izquierda Revolucionaria ",2009,2010,0.3,2010,205
+"BOL","AS"," Alianza Social ",2009,2010,1.2,2010,208
+"BOL","MSM"," Movimiento sin Miedo ",2010,2010,3.6,2010,209
+"BOL","CC"," Camino al Cambio ",2009,2010,1.2,2009,210
+"BOL","AAI"," Alianza Andrés Ibáñez ",2010,2010,4.5,2010,212
+"BRA","PT"," Partido dos Trabalhadores ",2009,2010,63.9,2010,301
+"BRA","PRB"," Partido Republicano Brasileiro ",2009,2009,0.2,2009,302
+"BRA","PMDB"," Partido do Movimento Democrático Brasileiro ",2009,2010,13.4,2009,303
+"BRA","PC do B"," Partido Comunista do Brasil ",2009,2010,1.4,2009,304
+"BRA","PSB"," Partido Socialista Brasileiro ",2009,2010,0.9,2009,305
+"BRA","PR"," Partido da República ",2009,2009,0.2,2009,306
+"BRA","PTB"," Partido Trabalhista Brasileiro ",2009,2010,0.7,2009,307
+"BRA","PDT"," Partido Democrático Trabalhista ",2009,2010,2,2009,308
+"BRA","PV"," Partido Verde ",2009,2010,6.3,2010,309
+"BRA","PP"," Partido Progressita ",2009,2010,0.7,2009,310
+"BRA","PSDB"," Partido da Social Democracia Brasileira ",2009,2010,16.6,2010,311
+"BRA","DEM"," Democratas ",2009,2010,2.1,2009,312
+"BRA","PPS"," Partido Popular Socialista ",2009,2009,0.5,2009,313
+"BRA","PSOL"," Partido Socialismo e Liberdade ",2009,2010,1.4,2009,314
+"COL",," Partido Social de Unidad Nacional",2009,2010,39.5,2009,401
+"COL","CR"," Partido Cambio Radical ",2009,2010,14.5,2010,402
+"COL","PCC"," Partido Conservador Colombiano ",2009,2009,12.6,2009,403
+"COL","PLC"," Partido Liberal Colombiano ",2009,2010,36.7,2009,404
+"COL","PDA"," Partido Polo Democrático Alternativo ",2009,2010,10,2009,405
+"COL",," Alas Equipo Colombia",2010,2010,0.1,2010,406
+"COL",," Alianza Social Indígena",2010,2010,0.1,2010,407
+"COL",," Partido Convergencia Ciudadana",2010,2010,0.9,2010,408
+"COL",," Partido Colombia Democrática",2010,2010,44,2010,409
+"COL",," Movimiento MIRA",2010,2010,4.9,2010,410
+"COL","PVC"," Partido Verde Opción Centro ",2010,2010,0.1,2010,414
+"CRI","PLN"," Partido de Liberación Nacional ",2009,2010,73,2009,501
+"CRI","PAC"," Partido Acción Ciudadana ",2009,2010,14.7,2009,502
+"CRI","ML"," Movimiento Libertario ",2009,2010,7,2009,503
+"CRI","PUSC"," Partido Unidad Social Cristiana ",2009,2010,22.2,2010,504
+"CRI","ANC"," Alianza Nacional Cristiana ",2009,2010,0.2,2009,505
+"CRI","FD"," Partido Fuerza Democrática ",2010,2010,0.2,2010,506
+"CRI","PIO"," Partido Independiente Obrero ",2009,2009,0.2,2009,507
+"CRI","PIN"," Partido Integración Nacional ",2010,2010,0.5,2010,508
+"CRI","PRC"," Partido Renovación Costarricense ",2009,2010,0.2,2009,511
+"CHL","PDC"," Partido Demócrata Cristiano ",2009,2010,27.9,2009,601
+"CHL","PPD"," Partido por la Democracia ",2009,2010,13.2,2010,602
+"CHL","PS"," Partido Socialista ",2009,2010,15.9,2009,603
+"CHL","PRSD"," Partido Radical Social Democrático ",2009,2010,0.7,2009,604
+"CHL","UDI"," Unión Demócrata Independiente ",2009,2010,12.3,2010,605
+"CHL","RN"," Renovación Nacional ",2009,2010,25,2009,606
+"CHL","PC"," Partido Comunista ",2009,2010,5.1,2009,607
+"CHL","PH"," Partido Humanista ",2009,2010,0.4,2009,608
+"CHL","PRI"," Partido Regionalista de los Independiente ",2009,2009,1.5,2009,609
+"CHL","UCCP"," Unión de Centro Centro Progresista ",2010,2010,0.3,2010,610
+"CHL","PHV"," Partido Humanista Verde ",2010,2010,6.1,2010,611
+"CHL",," Concertación de Partidos por la Democracia",2010,2010,1.9,2010,612
+"CHL",," Alianza por Chile",2010,2010,3.8,2010,613
+"CHL",," Vota por personas",2010,2010,3.8,2010,614
+"CHL",," Juntos Podemos",2010,2010,1.2,2010,615
+"ECU",," Movimiento Alianza País",2009,2010,72.5,2010,701
+"ECU",," Pachakutic",2009,2010,2.1,2009,702
+"ECU","MPD"," Movimiento Popular Democrático ",2009,2010,1.8,2009,703
+"ECU","ID"," Izquierda Democrática ",2009,2010,1.6,2009,704
+"ECU","PRE"," Partido Roldosista Ecuatoriano ",2009,2010,3.8,2010,705
+"ECU","PRIAN"," Partido Renovador Inst",2009,2010,4.8,2010,709
+"ECU","PSC"," Partido Social Cristiano ",2009,2010,10.7,2009,710
+"ECU",," Partido Sociedad Patriótica ",2009,2010,12,2010,711
+"ECU","PLR"," Partido Liberal Radical ",2010,2010,0.2,2010,714
+"ECU","UNO"," Partido Una Nueva Opción ",2010,2010,0.2,2010,716
+"SLV","FMLN"," Frente Farabundo Martí para la Liberación Nacional ",2009,2010,75.6,2009,801
+"SLV","ARENA"," Alianza Republicana Nacionalista ",2009,2010,42.5,2010,802
+"SLV","PCN"," Partido de Conciliación Nacional ",2009,2010,1.8,2010,803
+"SLV","PDC"," Partido Demócrata Cristiano ",2009,2010,1.1,2009,804
+"SLV","MAC"," Movimiento Auténtico Cristiano ",2009,2009,0.2,2009,807
+"GTM","UNE"," Unidad Nacional de Esperanza ",2009,2010,39.6,2009,901
+"GTM","PP"," Partido Patriota ",2009,2010,57.4,2010,902
+"GTM","GANA"," Gran Alianza Nacional ",2009,2010,4.5,2009,903
+"GTM","CASA"," Centro de Acción Social ",2009,2010,2.9,2009,904
+"GTM",," Encuentro por Guatemala",2009,2010,0.6,2010,905
+"GTM","PU"," Partido Unionista ",2009,2009,2.6,2009,906
+"GTM","FRG"," Frente Republicano Guatemalteco ",2009,2010,4.3,2010,907
+"GTM","UCN"," Unión del Cambio Nacional ",2009,2010,1.4,2010,908
+"GTM","PAN"," Partido de Avanzada Nacional ",2009,2010,2.2,2009,909
+"GTM","UD"," Unión Democrática ",2009,2009,1.3,2009,910
+"GTM","URNG"," Unidad Revolucionaria Nacional Guatemalteca ",2009,2010,1.9,2009,911
+"GTM","DCG"," Democracia Cristiana Guatemalteca ",2009,2010,4.2,2009,912
+"GTM","ANN"," Alianza Nueva Nación ",2010,2010,0.9,2010,914
+"HND","PL"," Partido Liberal ",2009,2010,58.1,2010,1001
+"HND","PNH"," Partido Nacional de Honduras ",2009,2010,52.2,2009,1002
+"HND","PUD"," Partido de Unión Democrática ",2009,2009,1.7,2009,1003
+"HND","PDCH"," Partido Demócrata Cristiano de Honduras ",2009,2010,1.3,2009,1004
+"HND","PINU"," Partido Innovación y Unidad ",2009,2010,2.2,2009,1005
+"MEX","PAN"," Partido Acción Nacional ",2009,2010,30.2,2010,1101
+"MEX","PRI"," Partido Revolucionario Institucional ",2009,2010,53.6,2009,1102
+"MEX","PRD"," Partido de la Revolución Democrática ",2009,2010,13,2010,1103
+"MEX","PVEM"," Partido Verde Ecologista de México ",2009,2010,3.3,2010,1104
+"MEX","PT"," Partido del Trabajo ",2009,2010,1.4,2009,1105
+"MEX","PANAL"," Partido Nueva Alianza ",2009,2010,1,2009,1106
+"MEX",," Convergencia",2009,2010,1,2009,1107
+"NIC","FSLN"," Partido Frente Sandinista de Liberación Nacional ",2009,2010,62.7,2009,1201
+"NIC","PLC"," Partido Liberal Constitucionalista ",2009,2010,39.4,2010,1202
+"NIC","ALN"," Partido Alianza Liberal Nicaragüense ",2009,2010,4.4,2009,1203
+"NIC","MRS"," Alianza Partido Movimiento Renovador Sandinista ",2009,2010,2.2,2009,1204
+"NIC","PSC"," Partido Social Cristiano ",2010,2010,0.8,2010,1206
+"NIC","PC"," Partido Conservador ",2010,2010,0.6,2010,1208
+"PAN","PRD"," Partido Revolucionario Democrático ",2009,2010,50.7,2010,1301
+"PAN","MOLIRENA"," Movimiento Liberal Republicano Nacionalista ",2009,2010,1.1,2010,1302
+"PAN","UP"," Unión Patriótica ",2009,2009,0.8,2009,1303
+"PAN","CD"," Partido Cambio Democrático ",2009,2010,58.5,2009,1304
+"PAN",," Partido Panameñista",2009,2010,12.5,2009,1305
+"PAN","PP"," Partido Popular ",2009,2009,0.5,2009,1306
+"PAN",," Vanguardia Moral a la Patria",2009,2009,1.4,2009,1307
+"PRY","PLRA"," Partido Liberal Radical Auténtico ",2009,2010,32.9,2010,1401
+"PRY","PPS"," Partido País Solidario ",2009,2010,0.9,2009,1402
+"PRY","PEN"," Partido Encuentro Nacional ",2009,2010,0.9,2010,1403
+"PRY","PMAS"," Partido del Movimiento al Socialismo ",2009,2010,0.2,2009,1404
+"PRY","PDP"," Partido Democrático Progresista ",2009,2009,0.6,2009,1405
+"PRY","MPT"," Movimiento Popular Tekojojá ",2009,2010,2.4,2009,1406
+"PRY","ANR"," Asociación Nacional Republicana ",2009,2010,55.2,2010,1407
+"PRY","UNACE"," Unión Nacional de Ciudadanos Éticos ",2009,2010,7.4,2009,1408
+"PRY","PPQ"," Partido Patria Querida ",2009,2010,4.5,2010,1409
+"PRY","PRF"," Partido Revolucionario Febrerista ",2009,2009,0.4,2009,1410
+"PER","PAP"," Partido Aprista Peruano ",2009,2010,19.7,2009,1501
+"PER","PNP"," Partido Nacionalista Peruano ",2009,2010,23.9,2009,1502
+"PER","AP"," Acción Popular ",2009,2010,7.4,2010,1503
+"PER","PC"," Perú Posible ",2009,2010,13.1,2010,1504
+"PER","PPC"," Partido Popular Cristiano ",2009,2010,14.9,2010,1505
+"PER","RN"," Restauración Nacional ",2009,2010,3.9,2010,1506
+"PER","SC"," Sí Cumple",2009,2010,21.7,2009,1508
+"PER","SP"," Somos Perú ",2009,2010,5,2010,1509
+"PER","PSN"," Solidaridad Nacional ",2009,2010,12.4,2010,1510
+"PER","Partido Popular Cristiano"," Unidad Nacional ",2009,2010,10.8,2009,1511
+"PER","UPP"," Unión por el Perú ",2010,2010,1.4,2010,1512
+"URY","FA"," Frente Amplio ",2009,2010,67.9,2010,1601
+"URY","PN"," Partido Nacional ",2009,2010,25.9,2009,1602
+"URY","PC"," Partido Colorado ",2009,2010,11.2,2009,1603
+"URY","PI"," Partido Independiente ",2009,2010,2.3,2009,1604
+"URY",," Asamblea Popular",2009,2010,0.9,2010,1605
+"VEN","PSUV"," Partido Socialista Unido de Venezuela ",2009,2010,73.9,2009,1701
+"VEN","PPT"," Patria Para Todos ",2009,2010,2.8,2010,1702
+"VEN","PCV"," Partido Comunista de Venezuela ",2009,2009,0.4,2009,1703
+"VEN",," Tupamaro",2009,2010,0.4,2009,1704
+"VEN","UPV"," Unión Popular Venezolana ",2009,2009,0.2,2009,1705
+"VEN","UNT"," Un Nuevo Tiempo ",2009,2010,8.7,2010,1706
+"VEN","PJ"," Primero Justicia ",2009,2010,6.4,2010,1707
+"VEN","AD"," Acción Democrática ",2009,2010,8.6,2009,1708
+"VEN","COPE"," Comite de Organización Política Electoral Independ ",2009,2010,1.2,2010,1709
+"VEN","PV"," Proyecto Venezuela ",2009,2010,2.1,2010,1711
+"VEN","PODEMOS"," Por la Democracia Social ",2009,2010,0.9,2009,1712
+"VEN","LCR"," La Causa Radical ",2009,2010,0.4,2009,1714
+"VEN","MVR"," Movimiento V República ",2010,2010,1.6,2010,1718
+"VEN","MEP"," Movimiento Electoral del Pueblo ",2010,2010,9.2,2010,1719
+"VEN",," PIEDRA",2010,2010,0.1,2010,1720
+"VEN","USP"," Un Solo Pueblo ",2010,2010,0.1,2010,1721
+"ESP","PSOE"," Partido Socialista Obrero Español ",2009,2009,53.6,2009,1801
+"ESP","PP"," Partido Popular ",2009,2009,32.7,2009,1802
+"ESP","IU/ICV"," Izquierda Unida ",2009,2009,4.9,2009,1803
+"ESP","CiU"," Convergencia i Unió ",2009,2009,3.1,2009,1804
+"ESP","PNV"," Partido Nacionalista Vasco ",2009,2009,1.6,2009,1805
+"ESP","UPyD"," Unión Progreso y Democracia ",2009,2009,1.8,2009,1806
+"ESP","ERC"," Esquerra Republicana de Catalunya ",2009,2009,1.4,2009,1807
+"ESP","BNG"," Bloque Nacionalista Gallego ",2009,2009,0.5,2009,1808
+"ESP","CC"," Coalición Canaria ",2009,2009,0.1,2009,1809
+"ESP","Na Bai"," Nafarroa Bai ",2009,2009,0.3,2009,1810
+"DOM","PLD"," Partido de la Liberación Dominicana ",2009,2010,48.2,2010,1901
+"DOM","PRD"," Partido Revolucionario Dominicano ",2009,2010,50.4,2009,1902
+"DOM","PRSC"," Partido Reformista Social Cristiano ",2009,2010,3.8,2009,1903
+"DOM","UD"," Partido de Unidad Democrática ",2009,2010,0.3,2009,1904
+"DOM","APD"," Partido Alianza por la Democracia ",2010,2010,0.1,2010,1905
+"DOM","BIS"," Partido Bloque Institucional ",2010,2010,0.1,2010,1907
+"DOM","PDP"," Partido Demócrata Popular ",2009,2009,0.1,2009,1908
+"DOM","MIUCA"," Movimiento Independencia",2009,2010,0.1,2009,1912
+"DOM","PNVC"," Partido Nacional de Veteranos y Civiles ",2010,2010,0.1,2010,1914
+"DOM","PNA"," Partido Nueva Alternativa ",2010,2010,0.1,2010,1915
+"DOM","UDC"," Partido de la Unión Demócrata Cristiana ",2009,2009,0.1,2009,1921
+"ARG","FPV"," Frente para la Victoria ",2008,2018,63.1,2013,32001
+"ARG","PJ"," Partido Justicialista ",1995,2013,100,1997,32002
+"ARG","FREPASO"," Frente País Solidario ",1995,2008,32.4,1995,32003
+"ARG",," Partido Coalición Cívica",2005,2011,6.4,2005,32004
+"ARG","UCR"," Unión Cívica Radical ",1995,2018,36.3,1996,32005
+"ARG","PRO"," Propuesta Republicana ",2011,2018,36.7,2016,32006
+"ARG","PH/ IU"," Partido Humanista ",1998,2011,4.6,2008,32007
+"ARG","PS"," Partido Socialista ",1998,2018,7.1,2011,32008
+"ARG","PC"," Partido Comunista ",1998,2018,1.1,2006,32009
+"ARG","PDC"," Partido Demócrata Cristiano ",2006,2006,0.9,2006,32010
+"ARG","PDP"," Partido Demócrata Progresista ",1995,2006,1.1,2006,32011
+"ARG","MST"," Movimiento Socialista de los Trabajadores ",2006,2018,3.8,2013,32012
+"ARG","PO"," Partido Obrero ",1998,2011,8.7,2002,32013
+"ARG","CPC"," Partido Compromiso para el Cambio ",2005,2008,4.1,2008,32014
+"ARG","López Murphy"," Mov",2002,2007,15.5,2002,32015
+"ARG","Elisa Carrió"," Alternativa por una República de Iguales ",2002,2007,8.6,2007,32016
+"ARG","IU"," Izquierda Unida ",2001,2007,18.8,2002,32017
+"ARG","PRO"," Partido para una República con Oportunidades ",2007,2007,3.6,2007,32018
+"ARG","RECREAR"," Recrear Argentina ",2005,2005,1.5,2005,32019
+"ARG","A y L"," Autodeterminación y Libertad ",2005,2005,0.7,2005,32020
+"ARG",," Partido Proyecto Sur",1995,2018,16.2,2018,32021
+"ARG",," Partido Peronismo Federal",1995,2018,22.4,2016,32022
+"ARG","UCR"," La Alianza ",1998,2001,51.9,1998,32029
+"ARG",," Acción por la República",1998,2001,8.7,2001,32030
+"ARG",," Partido de Rico Modín",1995,1998,1.9,1995,32031
+"ARG","Patricia Bullrich"," Partido Nueva Mayoría ",1998,1998,1.2,1998,32032
+"ARG",," Nueva Dirigencia",2000,2000,0.6,2000,32033
+"ARG","UCD"," Unión del Centro Democrático ",1995,1996,0.4,1996,32034
+"ARG",," Fuerza Republicana",1995,1995,0.1,1995,32035
+"ARG",," Partido Independencia",1995,1995,0.1,1995,32036
+"ARG","MAS"," Nuevo Movimiento al Socialismo ",1995,1995,1.2,1995,32037
+"ARG","EDE"," Nuevo Encuentro ",2013,2013,0.5,2013,32038
+"ARG","CC"," Coalición Cívica ",2013,2018,1.1,2013,32039
+"ARG","FAP"," Frente Amplio Progresista ",2013,2013,1.4,2013,32040
+"ARG","FIT"," Frente de Izquierda y los Trabajadores ",2013,2018,10.3,2017,32041
+"ARG","FR"," Frente Renovador ",2015,2018,13.1,2015,32042
+"ARG",," Partido Humanista",2015,2017,0.2,2015,32043
+"ARG","Alianza UCR/PRO/CC","Cambiemos ",2017,2018,32.2,2017,32044
+"BOL","MAS"," Movimiento al Socialismo ",2002,2018,88,2016,68001
+"BOL","PODEMOS"," Poder Democrático Social ",2006,2018,15.7,2006,68002
+"BOL","UN"," Unidad Nacional ",2006,2018,6.9,2018,68003
+"BOL","MNR"," Movimiento Nacionalista Revolucionario ",1996,2018,44.5,2001,68004
+"BOL","MIR"," Movimiento de Izquierda Revolucionaria ",1996,2018,26.8,2001,68005
+"BOL","CN"," Concertación Nacional ",2006,2018,1,2015,68006
+"BOL","APB"," Autonomías Para Bolivia ",2006,2018,1,2006,68007
+"BOL","AS"," Alianza Social ",2007,2018,1,2015,68008
+"BOL","MSM"," Movimiento sin Miedo ",2003,2015,46.1,2004,68009
+"BOL","CC"," Camino al Cambio ",2011,2018,1.4,2015,68010
+"BOL","MOP"," Movimiento Originario Popular ",2008,2017,0.2,2008,68011
+"BOL","AAI"," Alianza Andrés Ibáñez ",2006,2006,0.2,2006,68012
+"BOL","MBL"," Movimiento Bolivia Libre ",1996,2006,9.1,1996,68013
+"BOL","CONDEPA"," Conciencia de Patria ",1996,2003,10.4,1996,68016
+"BOL","FSB"," Falange Socialista de Bolivia ",2001,2003,1.9,2001,68017
+"BOL","MRTK"," Movimiento Revolucionario Tupac Katari ",2001,2004,1.3,2004,68018
+"BOL","ADN"," Acción Democratica Nacionalista ",1996,2018,86.1,2000,68019
+"BOL","PDC"," Partido Demócrata Cristiano ",2004,2004,1.3,2004,68020
+"BOL","UCS"," Unidad Civica Solidaridad ",1996,2005,17.5,1996,68021
+"BOL","FRI"," Frente Revolucionario de Izquierda ",2000,2000,5.9,2000,68022
+"BOL","IU"," Izquierda Unida ",1996,2004,43.4,2004,68023
+"BOL","PS"," Partido Socialista ",2001,2005,33.4,2002,68024
+"BOL","NFR"," Nueva Fuerza Republicana ",1998,2005,21,2002,68025
+"BOL","MCC"," Movimiento Ciudadano para el Cambio ",2002,2002,0.9,2002,68026
+"BOL","MIP"," Movimiento Indígena Pachakuti ",2002,2005,33.4,2002,68027
+"BOL",," Libertad y Justicia",2002,2003,1.8,2002,68028
+"BOL",," UN ",2005,2005,14.2,2005,68029
+"BOL",," Carlos Mesa G",2005,2005,0.2,2005,68030
+"BOL",," Jorge Tuto Quiroga",2005,2005,9.2,2005,68031
+"BOL",," René Joaquino",2005,2005,4.8,2005,68032
+"BOL",," Verdes",2013,2018,4.5,2013,68033
+"BOL","PC"," Partido Comunista Boliviano ",2004,2004,6.6,2004,68034
+"BOL","VS"," Vanguardia Socialista de Bolivia ",1997,2002,30.9,1997,68035
+"BOL","KND"," Katarismo Nacional Democrático ",2000,2000,2.1,2000,68036
+"BOL","PDB"," Partido Demócrata Boliviano ",1997,1997,2.9,1997,68037
+"BOL",," Eje Pachakuti",1997,1997,0.8,1997,68038
+"BOL",," Partido Verde de Bolivia",2015,2018,1.9,2018,68039
+"BOL","UD"," Unidad Demócrata ",2015,2018,7.8,2015,68040
+"BOL",," Primero el Beni",2015,2018,0.6,2018,68041
+"BOL","SL"," Soberanía y Libertad ",2017,2018,2.1,2017,68042
+"BOL","TC"," Todos por Cochabamba ",2017,2018,0.2,2017,68043
+"BOL","PAN"," Poder autonomico nacional ",2018,2018,0.4,2018,68044
+"BRA","PT"," Partido dos Trabalhadores ",1995,2018,72.5,2018,76001
+"BRA","PRB"," Partido Republicano Brasileiro ",2008,2017,1.3,2016,76002
+"BRA","PMDB"," Partido do Movimento Democrático Brasileiro ",1995,2018,34.6,1995,76003
+"BRA","PC do B"," Partido Comunista do Brasil ",1995,2018,18.6,2004,76004
+"BRA","PSB"," Partido Socialista Brasileiro ",1995,2018,4.3,2016,76005
+"BRA","PR"," Partido da República ",2007,2016,0.9,2013,76006
+"BRA","PTB"," Partido Trabalhista Brasileiro ",1995,2018,11.6,1996,76007
+"BRA","PDT"," Partido Democrático Trabalhista ",1995,2018,43.2,2004,76008
+"BRA","PV"," Partido Verde ",1998,2018,6.2,2016,76009
+"BRA","PP"," Partido Progressita ",1996,2017,6,1997,76010
+"BRA","PSDB"," Partido da Social Democracia Brasileira ",1995,2017,32.9,2015,76011
+"BRA","DEM"," Democratas ",2007,2016,4.7,2007,76012
+"BRA","PPS"," Partido Popular Socialista ",1995,2016,1.6,2001,76013
+"BRA","PSOL"," Partido Socialismo e Liberdade ",2006,2017,4,2017,76014
+"BRA","PSDC"," Partido Social Demócrata Cristão ",2008,2011,0.4,2011,76015
+"BRA","PTC"," Partido Trabalhista Cristão ",2008,2008,0.3,2008,76016
+"BRA","PT do B"," Partido Trabalhista do Brasil ",2008,2008,0.3,2008,76017
+"BRA","PRP"," Partido Republicano Progresista ",2008,2008,0.2,2008,76018
+"BRA","PSL"," Partido Social Liberal ",2004,2018,5.9,2004,76019
+"BRA","PFL"," Partido Da Frente Liberal ",1995,2006,11.3,1995,76020
+"BRA","PL"," Partido Liberal ",1995,2006,41.6,1997,76021
+"BRA",," Partido de Reedificação da Ordem Nacional",2005,2005,0.4,2005,76022
+"BRA","PSTU"," Partido Socialista de los Trabajadores Unificado ",1998,2015,0.5,2015,76023
+"BRA","PPB"," Partido Progressista Brasileiro ",1996,2001,2,1997,76024
+"BRA","PRONA"," Partido de la Reconstrucción del Orden Nacional ",1998,2004,0.7,2004,76025
+"BRA","PSC"," Partido Social Cristiano ",1998,2018,4,2017,76026
+"BRA","PSTU"," Partido Socialista dos Trabalhadores Unificado ",2004,2011,0.9,2004,76027
+"BRA","PSD"," Partido Social Democratico ",1995,2018,8.2,2018,76028
+"BRA","PHS"," Partido Humanista da Solidariedade ",2004,2013,1.8,2004,76029
+"BRA","PRN"," Partido de la Reconstrucción Nacional ",2004,2004,0.9,2004,76030
+"BRA","PPR"," Partido Progressista Renovador ",1995,1995,2.3,1995,76031
+"BRA","REDE"," Rede Sustentabilidade ",2016,2018,2.3,2016,76032
+"BRA",," Solidariedade",2016,2018,1,2016,76033
+"BRA",," Democratas ",2017,2018,0.4,2017,76034
+"BRA",," Partido Novo ",2017,2018,0.9,2018,76035
+"BRA",," Partido Socialismo e Liberdade",2018,2018,2.1,2018,76036
+"BRA",," Podemos",2018,2018,0.3,2018,76037
+"CHL","PDC"," Partido Demócrata Cristiano ",1995,2018,40.9,1995,152001
+"CHL","PPD"," Partido por la Democracia ",1995,2018,34,1998,152002
+"CHL","PS"," Partido Socialista ",1995,2018,29.8,2013,152003
+"CHL","PRSD"," Partido Radical Social Democrático ",1995,2017,25.1,2017,152004
+"CHL","UDI"," Unión Demócrata Independiente ",1995,2018,29.4,2003,152005
+"CHL","RN"," Renovacion Nacional ",1995,2018,30.5,2018,152006
+"CHL","PC"," Partido Comunista ",1995,2018,8.7,2015,152007
+"CHL","PH"," Partido Humanista ",2006,2016,18.1,2016,152008
+"CHL","PRI"," Partido Regionalista de los Independiente ",2011,2016,1.5,2011,152009
+"CHL","UCCP"," Unión de Centro Centro Progresista ",1995,2003,11.3,1998,152010
+"CHL","PHV"," Partido Humanista Verde ",1995,2005,40.8,1996,152011
+"CHL",," Concertación de Partidos por la Democracia",2005,2005,5.7,2005,152012
+"CHL",," Alianza por Chile",2004,2005,7.8,2004,152013
+"CHL",," Vota por personas",2005,2005,4.9,2005,152014
+"CHL",," Juntos Podemos",2005,2005,1.3,2005,152015
+"CHL",," Joaquín Lavín",2005,2005,1.1,2005,152016
+"CHL",," Sebastián Piñera",2005,2005,0.7,2005,152017
+"CHL",," Michelle Bachelet",2005,2005,3.3,2005,152018
+"CHL",," Tomás Hirsch",2005,2005,0.3,2005,152019
+"CHL","MEO"," Partido Progresista ",2011,2015,4.1,2015,152020
+"CHL",," Concertación",2003,2004,9.1,2004,152021
+"CHL",," Independiente",1995,1995,7.1,1995,152024
+"CHL","PRO"," Partido Progresista ",2016,2016,1.3,2016,152025
+"CHL","Evopoli"," Partido Evolucion Politica ",2016,2018,1.7,2018,152026
+"CHL","RD"," Revolución Democrática ",2016,2018,1.3,2016,152027
+"CHL",," Partido Democracia Regional Patagónica",2016,2016,0.4,2016,152028
+"CHL","IA"," Izquierda Autónoma ",2016,2016,1.3,2016,152029
+"CHL",," Nueva Izquierda",2016,2016,1.3,2016,152030
+"CHL",," Partido Ecologista Verde",2017,2017,0.4,2017,152031
+"CHL",," Ciudadanos",2017,2017,0.4,2017,152032
+"CHL",," Partido Liberal",2017,2018,0.9,2017,152033
+"CHL",," Evopoli",2017,2017,2.2,2017,152034
+"CHL",," Partido País",2017,2017,0.4,2017,152035
+"CHL",," Chile Vamos",2018,2018,8.2,2018,152036
+"CHL",," Frente Amplio",2018,2018,10.2,2018,152037
+"CHL",," A todos los partidos",2016,2016,0.4,2016,152999
+"COL",," Partido Social de Unidad Nacional",2006,2018,39.3,2011,170001
+"COL","CR"," Partido Cambio Radical ",2006,2018,6.2,2007,170002
+"COL","PCC"," Partido Conservador Colombiano ",1996,2018,33.3,1996,170003
+"COL","PLC"," Partido Liberal Colombiano ",1996,2018,77.6,2005,170004
+"COL","PDA"," Partido Polo Democrático Alternativo ",2005,2018,12.4,2007,170005
+"COL",," Alas Equipo Colombia",2006,2008,0.5,2006,170006
+"COL",," Partido Convergencia Ciudadana",2006,2007,1.6,2007,170008
+"COL",," Partido Colombia Democrática",2007,2007,1.1,2007,170009
+"COL",," Movimiento MIRA",2003,2018,1.6,2017,170010
+"COL",," Movimiento Colombia Viva",2007,2007,0.6,2007,170011
+"COL",," Movimiento Apertura Liberal",2007,2007,0.2,2007,170012
+"COL","IN"," Independiente ",1998,2005,14.3,1998,170013
+"COL","PVC"," Partido Verde Opción Centro ",2011,2015,6.1,2011,170014
+"COL","AICO"," Movimiento Autoridades Indígenas de Colombia ",2013,2018,0.2,2013,170015
+"COL","ASI"," Movimiento Alianza Social Indígena ",2011,2015,0.5,2011,170016
+"COL","PIN"," Partido de Integración Nacional ",2011,2013,0.2,2011,170017
+"COL",," Movimiento Nacional Afrocolombiano AFRO",2011,2011,0.2,2011,170018
+"COL",," Movimiento Alianza Social Afrocolombiana",2011,2011,0.2,2011,170019
+"COL",," Nuevo Liberal",2003,2003,0.3,2003,170020
+"COL",," Partido de Izquierda",2003,2003,0.3,2003,170021
+"COL",," Partido Cristiano",1996,2003,0.8,1996,170022
+"COL",," Partido Democrático",2003,2003,0.3,2003,170023
+"COL",," Partido Ecológico",2003,2003,0.3,2003,170024
+"COL",," Partido Social Democrático",2003,2003,0.3,2003,170025
+"COL",," Movimiento Nacional Conservador",1997,1997,27.1,1997,170026
+"COL",," Unión Patriótica",1996,2016,1.3,1996,170027
+"COL",," Movimiento Unión Cristiana",1996,1996,0.3,1996,170028
+"COL",," Alianza Democrática M",1996,1996,0.3,1996,170029
+"COL",," Movimiento Salvación Nacional",1996,1996,0.3,1996,170030
+"COL",," Movimiento Fuerza Progresista",1996,2018,21.1,2018,170031
+"COL",," Movimiento Cívico Independiente",1996,1996,0.3,1996,170032
+"COL",," Movimiento Único de Renovación Conservador MURCO",1996,1996,0.3,1996,170033
+"COL",," Movimiento Corriente de Renovación Socialista",1996,1996,0.3,1996,170034
+"COL",," Movimiento Independiente Obrero y Revolucionario MOIR",1996,1996,0.3,1996,170035
+"COL",," Movimiento Ciudadano",1996,2018,1.3,2018,170036
+"COL","CD"," Centro Democrático ",2015,2017,21.2,2016,170037
+"COL","PVC"," Alianza Verde ",2016,2018,12.5,2017,170038
+"COL","ASI"," Alianza Social Independiente ",2016,2018,0.6,2016,170039
+"COL","PIN"," Opción Ciudadana ",2016,2016,0.2,2016,170040
+"COL",,"  Movimiento Alternativo Indigena y Social MAIS",2017,2018,0.8,2017,170041
+"COL",," Centro Democratico",2018,2018,35,2018,170042
+"CRI","PLN"," Partido de Liberación Nacional ",1998,2018,65.8,2011,188001
+"CRI","PAC"," Partido Accion Ciudadana ",2001,2018,51.5,2018,188002
+"CRI","ML"," Movimiento Libertario ",2001,2018,6.6,2005,188003
+"CRI","PUSC"," Partido Unidad Social Cristiana ",1998,2018,43.7,2001,188004
+"CRI","ANC"," Alianza Nacional Cristiana ",2006,2007,0.6,2007,188005
+"CRI","FD"," Partido Fuerza Democrática ",1997,2008,45.8,1997,188006
+"CRI","PIO"," Partido Independiente Obrero ",2005,2005,0.2,2005,188007
+"CRI","PIN"," Partido Integración Nacional ",2001,2018,3.9,2017,188008
+"CRI","PN"," Partido Patriótico Nacional ",2005,2007,0.2,2005,188009
+"CRI","PPU"," Partido Pueblo Unido ",2005,2005,0.4,2005,188010
+"CRI","PRC"," Partido Renovación Costarricense ",2006,2017,1.5,2013,188011
+"CRI","PRN"," Partido Rescate Nacional ",2006,2006,0.2,2006,188012
+"CRI","UPC"," Unión para el Cambio ",2005,2005,3.5,2005,188014
+"CRI",," Accesibilidad sin Exclusión",2011,2018,2.4,2013,188015
+"CRI",," Frente Amplio",2011,2018,10.3,2016,188016
+"CRI",," Partido Demócrata",1997,1997,53.2,1997,188017
+"CRI",," Partido Nacional Independiente",1997,1997,1,1997,188018
+"CRI","AP"," Alianza Patriótica ",2013,2016,1.7,2013,188019
+"CRI","PRN"," Partido Restauracion Nacional ",2013,2018,20.9,2018,188020
+"CRI",," Partido Nueva Generación",2016,2018,0.7,2016,188021
+"CRI",," Costarricense",2018,2018,1.4,2018,188022
+"CRI",," Alianza Democrata Cristiana",2018,2018,0.2,2018,188023
+"DOM","PLD"," Partido de la Liberación Dominicana ",2005,2018,79.6,2015,214001
+"DOM","PRD"," Partido Revolucionario Dominicano ",2005,2018,56.5,2011,214002
+"DOM","PRSC"," Partido Reformista Social Cristiano ",2005,2018,17.8,2005,214003
+"DOM","UD"," Partido de Unidad Democrática ",2006,2006,0.2,2006,214004
+"DOM","APD"," Partido Alianza por la Democracia ",2006,2018,0.9,2018,214005
+"DOM","ASD"," Partido Alianza Social Dominicana ",2008,2018,0.8,2018,214006
+"DOM","PDP"," Partido Demócrata Popular ",2013,2013,0.4,2013,214008
+"DOM","FNP"," Partido Fuerza Nacional Progresista ",2013,2018,0.3,2013,214010
+"DOM","PLRD"," Partido Liberal de la República Dominicana ",2017,2017,0.2,2017,214011
+"DOM","MIUCA"," Movimiento Independencia",2007,2011,0.4,2007,214012
+"DOM","MPD"," Movimiento Popular Dominicano ",2005,2005,0.2,2005,214013
+"DOM","PNVC"," Partido Nacional de Veteranos y Civiles ",2013,2013,0.1,2013,214014
+"DOM","PNA"," Partido Nueva Alternativa ",2007,2007,0.1,2007,214015
+"DOM","PPC"," Partido Popular Cristiano ",2011,2017,0.2,2017,214016
+"DOM","PQD"," Partido Quisqueyano Demócrata Cristiano ",2005,2017,0.2,2005,214017
+"DOM","PRI"," Partido Revolucionario Independiente ",2005,2018,0.2,2005,214019
+"DOM","PTD"," Partido de los Trabajadores Dominicanos  ",2005,2015,0.2,2005,214020
+"DOM","UDC"," Partido de la Unión Demócrata Cristiana ",2011,2011,0.4,2011,214021
+"DOM","PUN"," Partido de Unidad Nacional ",2007,2008,0.1,2007,214022
+"DOM","Mayoritario"," Partido Revolucionario Moderno ",2015,2018,25.6,2016,214023
+"DOM","PDI"," Partido Democrata Institucional  ",2018,2018,4,2018,214024
+"ECU",," Movimiento Alianza País",2006,2016,83,2011,218001
+"ECU","PK"," Movimiento Pachakutik ",1998,2018,2.6,2003,218002
+"ECU","MPD"," Movimiento Popular Democrático ",1996,2016,5.6,2003,218003
+"ECU","ID"," Izquierda Democrática ",1997,2018,95.4,1997,218004
+"ECU","PRE"," Partido Roldosista Ecuatoriano ",1996,2011,42.4,1996,218005
+"ECU","CFP"," Partido Concentración de Fuerzas Populares ",1996,1998,0.6,1998,218006
+"ECU","PS"," Partido Socialista",1996,2016,1,1996,218007
+"ECU","PRIAN"," Partido Renovador Inst",2003,2016,35.1,2006,218009
+"ECU","PSC"," Partido Social Cristiano ",1996,2018,40.3,2001,218010
+"ECU",," Partido Sociedad Patriótica ",2003,2018,13,2006,218011
+"ECU","DP"," Democracia Popular ",1996,2011,23.1,1998,218012
+"ECU","PLR"," Partido Liberal Radical ",2003,2011,1.6,2005,218014
+"ECU","FRA"," Frente Radical Alfarista ",1996,2001,0.5,1996,218017
+"ECU","PC"," Partido Conservador ",2003,2008,1.9,2003,218018
+"ECU",," Alianza RED",1996,2006,11.2,2006,218019
+"ECU",," Movimiento Indígena Amauta Jatari",2003,2003,0.4,2003,218020
+"ECU","PSE"," Partido Socialista Ecuatoriano ",2003,2003,1.1,2003,218021
+"ECU","PUN"," Partido Conservador ",1997,1998,3,1997,218022
+"ECU","PL"," Partido Liberal ",1996,1998,1.5,1998,218023
+"ECU","APRE"," Acción Popular Revolucionaria ",1996,1998,1.5,1996,218024
+"ECU","NP"," Movimiento Nuevo País ",1998,1998,2.9,1998,218025
+"ECU",," Pachakutic",1996,2017,11.1,1996,218026
+"ECU","PUR"," Partido de Unión Republicana ",1996,2001,0.6,2001,218027
+"ECU","PL"," Liberación Nacional ",1996,1996,0.1,1996,218028
+"ECU",," Movimiento Ruptura",2013,2013,0.6,2013,218029
+"ECU","EQUIPO"," Movimiento Equidad",2013,2015,0.2,2015,218030
+"ECU","PSP"," Partido Sociedad Patriótica ",2013,2017,1.6,2017,218031
+"ECU","PAIS"," Movimiento Patria Altiva y Soberana ",2013,2018,94.1,2013,218032
+"ECU","CREO"," Creando Oportunidades ",2015,2017,21.4,2017,218033
+"ECU",," Movimiento de la Concertación Nacional Democrática",2017,2017,0.1,2017,218034
+"ECU","CREO"," Creando Oportunidades ",2016,2018,21,2016,218035
+"ECU","SUMA"," Movimiento Sociedad Unida Mas Accion ",2017,2018,0.8,2018,218040
+"ECU",," Movimiento F Compromiso social",2017,2017,0.3,2017,218041
+"ECU",," Partido Adelante Ecuatoriano Adelante",2018,2018,0.5,2018,218042
+"ECU",," Partido Fuerza Ecuador",2018,2018,0.5,2018,218044
+"ECU",," Movimiento Unidad Popular",2018,2018,0.3,2018,218046
+"SLV","FML"," Frente Farabundo Martí para la Liberación Nacional  ",1996,2018,53.9,2008,222001
+"SLV","ARENA"," Alianza Republicana Nacionalista ",1996,2018,58.3,2005,222002
+"SLV","PCN"," Partido de Conciliación Nacional ",1996,2017,27.6,1996,222003
+"SLV","PDC"," Partido Demócrata Cristiano ",1996,2013,8.8,1996,222004
+"SLV","CDU"," Centro Demócrata Unido ",1998,2018,10.2,1998,222005
+"SLV",," Fuerza Cristiana",2006,2008,0.4,2008,222006
+"SLV","MAC"," Movimiento Auténtico Cristiano ",2007,2007,0.2,2007,222007
+"SLV","MERECEN"," Movimiento Estable Republicano Centrista ",2007,2008,0.2,2007,222008
+"SLV","MR"," Movimiento Renovador ",2007,2007,0.2,2007,222009
+"SLV","AD"," Partido Acción Demócrata ",2008,2008,0.4,2008,222010
+"SLV","PD"," Partido Demócrata ",2005,2005,0.2,2005,222013
+"SLV","PLD"," Partido Liberal Democrático ",2001,2003,0.3,2001,222014
+"SLV","PNL"," Partido Nacional Liberal ",2005,2006,0.2,2005,222015
+"SLV","POP"," Partido de Orientación Popular ",2007,2007,0.2,2007,222016
+"SLV","USC"," Unión Social Cristiana ",2001,2003,0.5,2003,222021
+"SLV","GANA"," Gran Alianza por la Unidad Nacional ",2011,2018,17.4,2013,222022
+"SLV","LIDER"," Liga Democrática Republicana ",1998,1998,1.7,1998,222023
+"SLV","PUNTO"," Pueblo Unido Nuevo Trato ",1998,1998,0.3,1998,222024
+"SLV","FDR"," Frente Democrático Revolucionario ",1998,1998,9,1998,222025
+"SLV",," Partido Acción Nacional",2001,2001,0.3,2001,222026
+"SLV",," Partido Convergencia Democrática",2001,2001,0.3,2001,222027
+"SLV","MSN"," Movimiento de Solidaridad Nacional ",1997,1997,49.4,1997,222028
+"SLV","PES"," PES: Partido de la Esperanza ",2017,2017,0.9,2017,222029
+"SLV","CN"," Concertacion Nacional ",2018,2018,1.7,2018,222030
+"SLV",," Nuevas Ideas",2018,2018,37.8,2018,222031
+"GTM","UNE"," Unidad Nacional de Esperanza ",2006,2017,52.6,2007,320001
+"GTM","PP"," Partido Patriota ",2005,2018,51.5,2011,320002
+"GTM","GANA"," Gran Alianza Nacional ",2003,2015,50.8,2003,320003
+"GTM","CASA"," Centro de Acción Social ",2007,2013,4.3,2008,320004
+"GTM",," Encuentro por Guatemala",2008,2013,0.6,2008,320005
+"GTM","PU"," Partido Unionista ",2003,2017,5.3,2003,320006
+"GTM","FRG"," Frente Republicano Guatemalteco ",1996,2018,28.7,1996,320007
+"GTM","UCN"," Unión del Cambio Nacional ",1996,2018,11.6,1996,320008
+"GTM","PAN"," Partido de Avanzada Nacional ",1996,2018,70.1,1998,320009
+"GTM","UD"," Unión Democrática ",2003,2018,4.2,2017,320010
+"GTM","URNG"," Unidad Revolucionaria Nacional Guatemalteca ",1998,2017,2.5,2017,320011
+"GTM","DCG"," Democracia Cristiana Guatemalteca ",1996,2008,53.4,1997,320012
+"GTM","DIA"," Desarrollo Integral Auténtico ",2001,2008,1.7,2001,320013
+"GTM","ANN"," Alianza Nueva Nación ",2001,2008,7.8,2001,320014
+"GTM","LV"," Los Verdes ",2005,2006,2.8,2005,320016
+"GTM","MLN"," Movimiento de Liberación Nacional ",1996,2005,23.1,2005,320017
+"GTM","PLP"," Partido Libertador Progresista ",2001,2001,3.9,2001,320020
+"GTM",," No documentado ",2005,2005,1.1,2005,320023
+"GTM",," No documentado ",2005,2005,0.1,2005,320024
+"GTM",," No documentado ",2005,2005,7.1,2005,320025
+"GTM",," No documentado ",2005,2005,0.5,2005,320026
+"GTM",," No documentado ",2005,2005,0.1,2005,320027
+"GTM",," No documentado ",2005,2005,1.8,2005,320028
+"GTM",," No documentado ",2005,2005,7.2,2005,320029
+"GTM",," No documentado ",2005,2005,0.5,2005,320030
+"GTM","VIVA"," Partido Político Visión con Valores ",2011,2018,4.2,2017,320031
+"GTM","CREO"," Compromiso Renovación y Orden ",2011,2018,10.8,2011,320032
+"GTM","LIDER"," Libertad Democrática Renovada ",2011,2018,46.8,2015,320033
+"GTM","VICTORIA"," Victoria ",2011,2011,0.6,2011,320034
+"GTM","FDNG"," Frente Democrático Nueva Guatemala ",1998,1998,3.8,1998,320035
+"GTM","PDC"," Partido Demócrata Cristiano  ",2001,2003,6.1,2001,320036
+"GTM","ARDE"," Acción Reconciliadora Democrática ",1997,1997,32.3,1997,320037
+"GTM","UNO"," Unidad Nacionalista Organizada ",1997,1997,12.7,1997,320038
+"GTM","FCN"," Frente de Convergencia Nacional ",2016,2018,51.2,2016,320039
+"GTM",," Unidad nacional de la esperanza",2003,2018,22.9,2018,320900
+"HND","PL"," Partido Liberal ",1996,2018,64.2,1998,340001
+"HND","PNH"," Partido Nacional de Honduras ",1996,2018,100,1997,340002
+"HND","PUD"," Partido de Unión Democrática ",2001,2018,1.4,2006,340003
+"HND","PDCH"," Partido Demócrata Cristiano de Honduras ",1996,2018,2.7,1996,340004
+"HND","PINU"," Partido Innovación y Unidad ",1996,2018,2.9,2008,340005
+"HND","LIBRE"," El Partido Libertad y Refundación ",2013,2018,23.8,2013,340006
+"HND","PAC"," El Partido Anti Corrupción ",2013,2016,17.9,2016,340007
+"MEX","PAN"," Partido Acción Nacional ",1995,2018,100,1997,484001
+"MEX","PRI"," Partido Revolucionario Institucional ",1995,2018,49,2011,484002
+"MEX","PRD"," Partido de la Revolución Democrática ",1995,2018,32.7,2005,484003
+"MEX","PVEM"," Partido Verde Ecologista de México ",1996,2018,8,2003,484004
+"MEX","PT"," Partido del Trabajo ",1996,2018,3.1,2001,484005
+"MEX","PANAL"," Partido Nueva Alianza ",2006,2018,2,2013,484006
+"MEX",," Convergencia",2007,2011,1.1,2007,484007
+"MEX","antes Alternativa Socialdem"," Alternativa Socialdemócrata ",2005,2007,0.4,2005,484008
+"MEX","PCD"," Partido de Centro Democrático ",1998,1998,0.3,1998,484009
+"MEX","PARM"," Partido Auténtico de la Revolución Mexicana ",2001,2001,0.1,2001,484010
+"MEX","PSD"," Partido Social Demócrata ",2001,2001,1.4,2001,484011
+"MEX","PPS"," Partido Popular Socialista ",1996,1996,0.2,1996,484012
+"MEX",," Partido del Frente Cardenista de Reconstrucción Nacional",1996,1996,1,1996,484013
+"MEX","MC"," Movimiento ciudadano ",2013,2018,1.6,2013,484014
+"MEX","MORENA"," Movimiento Regeneracion Nacional ",2015,2018,56.7,2018,484015
+"MEX","PES"," Partido Encuentro Social ",2016,2018,1.3,2016,484016
+"MEX",," Independiente",2016,2016,1.8,2016,484017
+"NIC","FSLN"," Partido Frente Sandinista de Liberación Nacional ",1997,2018,94.2,2015,558001
+"NIC","PLC"," Partido Liberal Constitucionalista ",1997,2018,46.2,2005,558002
+"NIC","ALN"," Partido Alianza Liberal Nicaragüense ",1996,2013,22.8,2006,558003
+"NIC","MRS"," Alianza Partido Movimiento Renovador Sandinista ",1996,2008,4.2,1996,558004
+"NIC","PRN"," Partido Resistencia Nicaragüense ",2008,2013,0.7,2013,558005
+"NIC","CCN"," Partido Camino Cristiano Nicaragüense ",1997,2008,45.7,1997,558007
+"NIC","PC"," Partido Conservador ",1998,2013,15,1998,558008
+"NIC","MRS"," Partido Movimiento Renovador Sandinista ",1998,2018,13.2,2006,558010
+"NIC","APRE"," Alianza por la República ",2005,2011,1.8,2005,558011
+"NIC","AC"," Alternativa Cristiana ",2006,2013,0.3,2013,558012
+"NIC","ANC"," Partido Acción Nacional Conservadora ",2005,2006,0.8,2006,558014
+"NIC","ALCON"," Partido Alianza Conservadora ",2005,2005,0.6,2005,558015
+"NIC","PL"," Partido Liberal ",2005,2005,2.5,2005,558017
+"NIC","PLI"," Partido Liberal Independiente ",2011,2018,24.8,2011,558018
+"NIC","PLN"," Partido Liberal Nacionalista ",2001,2013,1,2013,558019
+"NIC","PRONAL"," Proyecto Nacional ",1996,1996,4.8,1996,558025
+"NIC","UDC"," Partido Unión Demócrata Cristiana ",2013,2013,0.2,2013,558032
+"NIC","AC"," Alternativa por el Cambio ",2006,2006,0.2,2006,558034
+"NIC",," No documentado ",2005,2005,0.3,2005,558035
+"NIC",," No documentado ",2005,2005,0.3,2005,558036
+"NIC",," No documentado ",2005,2005,2.5,2005,558037
+"NIC",," No documentado ",2005,2005,0.3,2005,558038
+"NIC","UNO"," Unión Nacional Opositora ",1998,1998,0.9,1998,558039
+"NIC","UDEL"," Unión Democrática de Liberación ",2001,2003,0.8,2003,558040
+"NIC",," Alianza Pan y Fuerza",1997,1997,0.3,1997,558041
+"NIC",," Izquierda",2001,2003,0.5,2001,558900
+"NIC",," Tercera opción",2001,2001,0.3,2001,558901
+"NIC",," Alianza Evangélica Nicaragüense",2001,2001,0.5,2001,558902
+"NIC","PAL"," Partido Alianza Liberal ",1996,1996,52.3,1996,558942
+"NIC","FLN"," Frente de Liberación Nacional ",1996,1996,36.8,1996,558943
+"NIC","UNE"," Unidad Nicaraguense por la Esperanza ",2018,2018,0.5,2018,558944
+"PAN","PRD"," Partido Revolucionario Democrático ",1996,2018,69.1,2003,591001
+"PAN","MOLIRENA"," Movimiento Liberal Republicano Nacionalista ",1998,2007,3.6,2001,591002
+"PAN","UP"," Unión Patriótica ",2007,2008,1.6,2007,591003
+"PAN","CD"," Partido Cambio Democratico ",2001,2018,46.6,2018,591004
+"PAN","PP"," Partido Panameñista ",2007,2018,44.8,2015,591005
+"PAN","PP"," Partido Popular ",2005,2015,2.9,2013,591006
+"PAN",," Vanguardia Moral a la Patria",2007,2013,3.3,2007,591007
+"PAN","PA"," Partido Arnulfista ",1996,2006,65,1997,591008
+"PAN","PS"," Partido Solidaridad ",2001,2006,16.6,2003,591009
+"PAN","PLN"," Partido Liberal Nacional ",1998,2006,0.9,2001,591010
+"PAN","PL"," Partido Liberal ",2005,2006,0.9,2006,591011
+"PAN",,"PDC",1997,2003,10.9,2001,591012
+"PAN",,,1996,1998,30.8,1996,591013
+"PAN",,,1998,1998,1.3,1998,591014
+"PAN",,,1997,1997,33.7,1997,591015
+"PRY","PLRA"," Partido Liberal Radical Autentico ",1995,2018,34.7,2018,600001
+"PRY","PPS"," Partido País Solidario ",2008,2018,38.8,2008,600002
+"PRY","PEN"," Partido Encuentro Nacional ",1995,2018,26.1,2008,600003
+"PRY","PMAS"," Partido del Movimiento al Socialismo ",2008,2018,1.7,2008,600004
+"PRY","PDP"," Partido Democrático Progresista ",2008,2018,1.3,2008,600005
+"PRY","MPT"," Movimiento Popular Tekojojá ",2008,2018,6.6,2016,600006
+"PRY","ANR"," Asociación Nacional Republicana ",1997,2018,100,1997,600007
+"PRY","UNACE"," Unión Nacional de Ciudadanos Éticos ",2011,2018,3.1,2011,600008
+"PRY","PPQ"," Partido Patria Querida ",2011,2018,1.3,2018,600009
+"PRY","PRF"," Partido Revolucionario Febrerista ",1998,2018,19.2,2007,600010
+"PRY","PCP"," Partido Comunista Paraguayo ",2006,2007,2,2007,600011
+"PRY","PB"," Partido Blanco ",1998,2007,2.4,1998,600012
+"PRY","PC"," Partido Colorado ",1995,1996,63.8,1996,600013
+"PRY","PDC"," Partido Demócrata Cristiano ",1996,2007,0.6,2007,600014
+"PER","PAP"," Partido Aprista Peruano ",2001,2018,56.3,2003,604001
+"PER","PNP"," Partido Nacionalista Peruano ",2008,2018,56.9,2011,604002
+"PER","AP"," Accion Popular ",1996,2018,14.7,2018,604003
+"PER","PC"," Perú Posible ",1995,2015,49.7,2001,604004
+"PER","PPC"," Partido Popular Cristiano ",1995,2018,31.8,1997,604005
+"PER","RN"," Restauracion Nacional ",2006,2018,3.4,2018,604006
+"PER","R"," Renovación ",1995,1996,0.5,1996,604007
+"PER","SC"," Sí Cumple",2005,2015,43.5,2015,604008
+"PER","SP"," Somos Perú ",1995,2018,34.2,1998,604009
+"PER","PSN"," Partido Solidaridad Nacional ",1998,2018,4.7,1998,604010
+"PER","Partido Popular Cristiano"," Unidad Nacional ",2001,2015,16.9,2006,604011
+"PER","UPP"," Unión por el Perú ",1995,2008,9.4,1996,604012
+"PER","AF"," Alianza por el Futuro ",2006,2007,6.9,2006,604013
+"PER","Somos Perú"," Frente de Centro ",2006,2007,8.9,2006,604014
+"PER",," Unión por el Perú ",1998,2007,34.7,2007,604015
+"PER","FIM"," Frente Independiente Moralizador ",1996,2005,2.5,2001,604016
+"PER",," Cambio ",1995,1998,62.1,1996,604017
+"PER",," Vamos Vecino",1998,1998,6.3,1998,604018
+"PER","APRA"," Alianza Popular Revolucionaria Americana ",1995,1998,9.7,1996,604019
+"PER","PRAN"," Partido Renacimiento Andino ",2001,2001,0.2,2001,604020
+"PER","UPP"," Unión por el Perú",2001,2001,0.2,2001,604021
+"PER",," Partido Proyecto País",2001,2001,0.2,2001,604022
+"PER","PREPAP"," Frente Popular Agrícola Fia del Perú ",1997,1997,4.5,1997,604023
+"PER","MIA"," Movimiento Independiente Agrario ",1997,1997,5.9,1997,604024
+"PER","IU"," Izquierda Unida ",1996,1997,6.2,1996,604025
+"PER",,"FRENATRACA",1996,1996,0.2,1996,604026
+"PER",,"FREPAP",1996,1996,0.5,1996,604027
+"PER","antiguo "," Fuerza Popular ",2016,2018,52.3,2017,604028
+"PER","antiguo "," Todos por el Peru ",2016,2018,7.6,2018,604029
+"PER",," Alianza para el Progreso",2016,2018,5.9,2018,604030
+"PER","PPK"," Peruanos por el Kambio ",2016,2018,33.7,2016,604031
+"PER",," Alianza Popular",2016,2017,1.6,2017,604032
+"PER",," Frente Amplio",2016,2018,10.8,2016,604033
+"PER",," Peru Patria Segura",2018,2018,0.4,2018,604034
+"PER",," Partido Revolucionario etnocacerista Unido",2018,2018,2.1,2018,604035
+"PER",," Democracia Directa",2018,2018,1.3,2018,604036
+"PER",," Avanza pais",2018,2018,0.8,2018,604037
+"PER",," Siempre Unidos",2018,2018,0.8,2018,604038
+"PER",," Juntos por el Peru",2018,2018,0.8,2018,604039
+"PER",," Union por el Peru",2018,2018,0.8,2018,604040
+"PER",," Partido Independiente",1995,2018,19.3,1998,604090
+"ESP","PSOE"," Partido Socialista Obrero Español ",1998,2008,56,2004,724001
+"ESP","PP"," Partido Popular ",1998,2008,41.9,1998,724002
+"ESP","IU/ICV"," Izquierda Unida ",1998,2008,9.9,1998,724003
+"ESP","CiU"," Convergencia i Unió ",1998,2008,4.7,1998,724004
+"ESP","PNV"," Partido Nacionalista Vasco ",1998,2008,3,2004,724005
+"ESP","UPyD"," Unión Progreso y Democracia ",2003,2008,1.6,2006,724006
+"ESP","ERC"," Esquerra Republicana de Catalunya ",1998,2008,1.6,2008,724007
+"ESP","BNG"," Bloque Nacionalista Gallego ",1998,2008,1.1,1998,724008
+"ESP","CC"," Coalición Canaria ",1998,2008,1.5,2003,724009
+"ESP","Na Bai"," Nafarroa Bai ",2003,2008,0.6,2003,724010
+"ESP","UPN"," Unión del Pueblo Navarro ",2003,2004,0.4,2004,724011
+"ESP","EA"," Eusko Alkartasuna ",1998,2004,1.9,2004,724012
+"ESP","HB"," Herri Batasuna ",1998,2003,1.6,2003,724013
+"ESP","IC"," Iniciativa por Catalunya",1998,1998,0.2,1998,724014
+"ESP","PA"," Partido Andalucista ",1998,1998,0.2,1998,724015
+"ESP","UV"," Unió Valenciana ",1998,1998,0.2,1998,724016
+"URY","FA"," Frente Amplio ",1995,2018,73.4,2005,858001
+"URY","PN"," Partido Nacional ",1995,2018,46.1,1997,858002
+"URY","PC"," Partido Colorado ",1995,2018,53.9,1997,858003
+"URY","PI"," Partido Independiente ",2006,2018,4.4,2018,858004
+"URY",," Asamblea Popular",2011,2017,1,2015,858005
+"URY",," Nuevo Espacio",1995,2003,6.1,1995,858006
+"URY",," Encuentro Progresista",1998,2001,57,2001,858007
+"URY",," Union popular",2018,2018,1.5,2018,858008
+"VEN","PSUV"," Partido Socialista Unido de Venezuela ",2007,2018,72,2007,862001
+"VEN","PPT"," Patria Para Todos ",1997,2018,7.5,1997,862002
+"VEN","PCV"," Partido Comunista de Venezuela ",2003,2018,2.7,2003,862003
+"VEN",," Tupamaro",2006,2013,0.7,2006,862004
+"VEN","UPV"," Unión Popular Venezolana ",2006,2006,1.2,2006,862005
+"VEN","UNT"," Un Nuevo Tiempo ",2006,2018,17.5,2006,862006
+"VEN","PJ"," Primero Justicia ",2001,2018,13.7,2008,862007
+"VEN","AD"," Acción Democrática ",1997,2018,46.5,1997,862008
+"VEN","COPE"," Comite de Organización Política Electoral Independ ",1997,2018,5.4,2003,862009
+"VEN","MAS"," Movimiento al Socialismo ",1996,2016,13.1,1996,862010
+"VEN","PV"," Proyecto Venezuela ",1997,2011,29,1998,862011
+"VEN","PODEMOS"," Por la Democracia Social ",2003,2015,5.2,2006,862012
+"VEN","LCR"," La Causa Radical ",1998,2007,0.9,1998,862014
+"VEN","ABP"," Alianza Bravo Pueblo ",2015,2015,0.3,2015,862016
+"VEN","MVR"," Movimiento V República ",1998,2006,80.9,2005,862018
+"VEN","MEP"," Movimiento Electoral del Pueblo ",2006,2018,0.5,2006,862019
+"VEN",," PIEDRA",2006,2006,2,2006,862020
+"VEN",," Convergencia",1996,2001,13.7,1996,862022
+"VEN",," Partidos independientes",2001,2001,5.8,2001,862023
+"VEN","MUD"," Mesa de la Unidad Democrática ",2011,2018,49.4,2016,862024
+"VEN",," Voluntad Popular",2011,2018,3.6,2017,862027
+"VEN",," Partido de la Oposición",2011,2011,4.8,2011,862028
+"VEN","IRENE"," Integración y Renovación Nueva Esperanza ",1997,1998,3.1,1997,862029
+"VEN",," Apertura a la Participación Nacional",1997,1998,5.2,1997,862030
+"VEN","MBR"," Movimiento Bolivariano Revolucionario ",1996,1997,73.2,1996,862031
+"VEN",," Avanzada Progresista",2015,2018,1,2015,862032
+"VEN","VENTE"," Vente Venezuela ",2018,2018,1.3,2018,862033
+"VEN","SV"," Somos Venezuela ",2018,2018,0.2,2018,862034
+"VEN","IPP"," Independientes por el Progreso GENTE ",2018,2018,1.3,2018,862035
