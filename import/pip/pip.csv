@@ -1,0 +1,569 @@
+"country","name_english","year_first","year_last","party_id","name_short","partyfacts_id"
+"SWE","Green Ecology Party",1982,2016,11110,"MP",456
+"SWE","Left Party",1944,2016,11220,,830
+"SWE","Social Democratic Labour Party",1944,2016,11320,"SDA",487
+"SWE","Liberals",1944,2016,11420,"FP",1274
+"SWE","Christian Democratic Community Party",1964,2016,11520,"KD",651
+"SWE","Moderate Coalition Party",1944,2016,11620,"M",690
+"SWE","Sweden Democrats",1988,2016,11710,"S",409
+"SWE","Centre Party",1944,2016,11810,"BF/CP",199
+"SWE","New Democracy",1991,2006,11951,,343
+"NOR","Norwegian Communist Party",1945,2013,12220,,1079
+"NOR","Socialist Left Party",1961,2016,12221,"SL",1203
+"NOR","Labour Party",1945,2016,12320,"AP",448
+"NOR","Liberal Peopleâ€™s Party",1973,1989,12410,,1020
+"NOR","Liberal Party",1945,2016,12420,"LIB",1173
+"NOR","Christian Peopleâ€™s Party",1945,2016,12520,"CPP",705
+"NOR","Conservative Party",1945,2016,12620,"CON",503
+"NOR","Centre Party",1945,2016,12810,"CP",1072
+"NOR","Progress Party",1973,2016,12951,"FrP",101
+"DNK","Liberal Alliance",2007,2016,13001,,212
+"DNK","Left Socialist Party",1968,1990,13210,,1136
+"DNK","Danish Communist Party",1945,1990,13220,,277
+"DNK","Common Course",1987,1988,13221,,1676
+"DNK","Red-Green Unity List",1991,2016,13229,,1527
+"DNK","Socialist Peopleâ€™s Party",1960,2016,13230,"SF",329
+"DNK","Social Democratic Party",1945,2016,13320,"SD",379
+"DNK","Centre Democrats",1974,2007,13330,"CDM",800
+"DNK","Danish Social-Liberal Party",1945,2016,13410,"RAD",1507
+"DNK","Liberals",1945,2016,13420,"LIB",1204
+"DNK","Independentsâ€™ Party",1953,1971,13421,,932
+"DNK","Liberal Centre",1967,1967,13422,,1118
+"DNK","Christian Peopleâ€™s Party",1971,2007,13520,"CPP",53
+"DNK","Conservative Peopleâ€™s Party",1945,2016,13620,"CON",536
+"DNK","Danish Peopleâ€™s Party",1998,2016,13720,,1022
+"DNK","Progress Party",1974,2004,13951,,1601
+"DNK","Justice Party",1945,1988,13952,"JP",1134
+"DNK","Danish Union",1945,1947,13953,,637
+"FIN","Green Union",1983,2016,14110,"GREENS",479
+"FIN","Finnish Peopleâ€™s Democratic Union",1945,1991,14221,"SKDL",1096
+"FIN","Democratic Alternative",1987,1991,14222,,166
+"FIN","Left Wing Alliance",1991,2016,14223,"VAS",1044
+"FIN","Social Democratic League of Workers and Smallholders",1958,1975,14310,"TPSL",1164
+"FIN","Finnish Social Democrats",1945,2016,14320,"SDP",1303
+"FIN","Liberal Peopleâ€™s Party",1945,1995,14420,"FPP",249
+"FIN","Young Finnish Party",1995,1999,14430,,856
+"FIN","Christian Democrats in Finland",1958,2016,14520,"KD",703
+"FIN","National Coalition",1945,2016,14620,"KOK",495
+"FIN","Finnish Centre",1945,2016,14810,"KESK",901
+"FIN","True Finns",1962,2016,14820,"FRP",1689
+"FIN","Swedish Peopleâ€™s Party",1945,2016,14901,"RKP",1229
+"ISL","Left Green Movement",1999,2016,15111,"LG",457
+"ISL","Peopleâ€™s Alliance",1944,1999,15220,"USP/PA",1249
+"ISL","Social Democratic Party",1944,1999,15320,"SDP",1325
+"ISL","Social Democratic Federation",1983,1991,15321,,854
+"ISL","Union of Liberals and Leftists",1967,1979,15322,"ULL",1517
+"ISL","Awakening of the Nation",1995,1999,15323,,494
+"ISL","The Alliance",1999,2016,15328,"SDA",1396
+"ISL","Liberal Party",1999,2013,15420,,1224
+"ISL","Citizens' Movement",2009,2013,15430,,224
+"ISL","Bright Future",2013,2016,15440,,2517
+"ISL","Independence Party",1944,2016,15620,"IP",363
+"ISL","Citizensâ€™ Party",1987,1991,15621,"CP",1433
+"ISL","National Preservation Party",1953,1963,15710,,673
+"ISL","Progressive Party",1946,2016,15810,"FRFL",964
+"ISL","Womenâ€™s Alliance",1983,1999,15951,,525
+"ISL","Pirate Party",2013,2016,15952,,2048
+"BEL",,1945,1991,21001,"KPB",
+"BEL","Ecologists",1977,2016,21111,"ECOLO",1563
+"BEL","Green!",1977,2016,21112,"AGALEV",528
+"BEL","Belgian Socialist Party",1945,1977,21320,"BSP/PSB",480
+"BEL","Socialist Party Different",1977,2016,21321,"SP",1680
+"BEL","Francophone Socialist Party",1977,2016,21322,"PS",500
+"BEL","Party of Liberty and Progress",1945,1971,21420,"LP/PL",275
+"BEL","Open Flemish Liberals and Democrats",1971,2016,21421,"Open VLD",49
+"BEL","Liberal Reformation Party",1971,1995,21422,"PRL",554
+"BEL","Liberal Party",1971,1981,21424,,382
+"BEL","Reform Movement",1995,2016,21426,"MR",789
+"BEL","List Dedecker",2007,2016,21430,,43
+"BEL","Francophone Christian Social Party and Flemish Christian Peopleâ€™s Party",1945,1968,21520,"PSC/CVP",405
+"BEL","Christian Democratic and Flemish",1968,2016,21521,"CD&V",622
+"BEL","Christian Social Party",1968,2016,21522,"CD&V",633
+"BEL","Walloon Rally",1968,1991,21911,"RW",281
+"BEL","Francophone Democratic Front of Francophones",1965,2016,21912,"FDF",698
+"BEL","Peoplesâ€™ Union",1954,2003,21913,"VU",36
+"BEL","Flemish Bloc",1979,2016,21914,,553
+"BEL","New Flemish Alliance",2003,2016,21916,"N-VA",36
+"BEL",,1945,2016,21999,"DU",
+"NLD","Green Left",1989,2016,22110,,1537
+"NLD","Communist Party of the Netherlands",1946,1991,22210,,459
+"NLD","Socialist Party",1977,2016,22220,,1363
+"NLD","Pacifist Socialist Party",1986,1989,22230,,1050
+"NLD","Radical Political Party",1969,1991,22310,"PPR",1581
+"NLD","Labour Party",1946,2016,22320,"PvdA",1234
+"NLD","Democratsâ€˜66",1967,2016,22330,"D66",45
+"NLD","Peopleâ€™s Party for Freedom and Democracy",1946,2016,22420,"VVD",828
+"NLD","Livable Netherlands",2002,2006,22430,,1420
+"NLD","Christian Democratic Appeal",1977,2016,22521,"CDA",1157
+"NLD","Catholic Peopleâ€™s Party",1946,1977,22522,"KVP",1390
+"NLD","Anti-Revolutionary Party",1946,1977,22523,"ARP",163
+"NLD","Democratic Socialistsâ€˜70",1971,1986,22524,"DS70",921
+"NLD","Christian Historical Union",1946,1977,22525,"CHU",1102
+"NLD","Christian Union",1999,2016,22526,"CU",1459
+"NLD","Reformed Political League",1982,2002,22527,,1602
+"NLD","Reformatory Political Federation",1981,2002,22528,,172
+"NLD","Centre Party",1982,1986,22710,,960
+"NLD","Centre Democrats",1989,1998,22711,,1472
+"NLD","List Pim Fortuyn",2002,2010,22720,"LPF",1528
+"NLD","Party of Freedom",2007,2016,22722,,298
+"NLD","Party for the Animals",2007,2016,22951,,1467
+"NLD","Reformed Political Party",1946,2016,22952,,1178
+"NLD","50Plus",2012,2016,22953,,714
+"NLD","General Elderly Alliance",1994,1998,22954,,994
+"NLD","Union 55+",1994,1998,22955,,873
+"LUX","Green Left Ecological Initiative",1989,1994,23111,,475
+"LUX","Green Alternative",1984,1994,23112,,493
+"LUX","The Greens",1994,2016,23113,"Greng",1138
+"LUX","Communist Party of Luxembourg",1945,2016,23220,"CP",1647
+"LUX","The Left",2009,2016,23230,,271
+"LUX","Socialist Workersâ€™ Party of Luxembourg",1945,2016,23320,"LSAP",186
+"LUX","Democratic Group",1945,2016,23420,"DP",300
+"LUX","Christian Social Peopleâ€™s Party",1945,2016,23520,"CSP",539
+"LUX","Alternative Democatic Reform Party",1989,2016,23951,,1114
+"FRA","Europe Ecology - The Greens",1993,2016,31110,"GREENS",1108
+"FRA","Ecology Generation",1991,2002,31111,"Ecology Generation",1273
+"FRA","French Communist Party",1945,2016,31220,"PCF",1251
+"FRA","Socialist Party",1945,2016,31320,"PS",1478
+"FRA","Radical Party",1945,2016,31421,"RSP",14
+"FRA","Popular Republican Movement",1945,1973,31521,"MRP",737
+"FRA","Centre, Democracy and Progress",1969,1978,31523,"CDP",288
+"FRA","Reformersâ€™ Movement",1971,1978,31529,"REF",167
+"FRA","Rally for the Republic - Gaullists",1946,2016,31621,"GAUL",1083
+"FRA","Union for a New Majority - Conservatives/Gaullists",1945,2004,31622,"CONS",1629
+"FRA","Union for the Defence of Traders and Artisans - Poujadists",1956,1958,31623,,1580
+"FRA","Democratic Mouvement",1977,2016,31624,"UDF",213
+"FRA","New Centre",2007,2016,31630,"NC",1255
+"FRA","Centrist Alliance",2012,2016,31631,,1177
+"FRA","National Front",1986,2016,31720,,433
+"FRA",,1945,2016,31999,"GD",
+"ITA",,2013,2016,32001,"NCD",
+"ITA","Civil Revolution",2013,2016,32021,,2277
+"ITA","People of Freedom",2008,2016,32061,"PdL",365
+"ITA","Green Federation",1987,2008,32110,"FdV",851
+"ITA","Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)",1979,1983,32210,,598
+"ITA","Proletarian Democracy",1976,1992,32211,,1429
+"ITA","Communist Refoundation Party",1992,2008,32212,"PRC",1404
+"ITA","Party of Italian Communists",1998,2008,32213,"PCDI",1635
+"ITA","Democratic Party of the Left",1946,2006,32220,"DS",878
+"ITA","Rose in the Fist",2006,2008,32221,"RnP",1711
+"ITA","Left Ecology Freedom",2013,2016,32230,,1212
+"ITA","Pannella-Riformatori List",1976,2001,32310,,1449
+"ITA","Italian Socialist Party",1946,1996,32320,"PSI",742
+"ITA","Italian Renewal",1996,2001,32321,"RI",259
+"ITA","Unified Italian Socialist Party-Italian Democratic Socialist Party",1968,1972,32322,"PSU",1218
+"ITA","Italian Democratic Socialist Party",1948,1994,32330,"PSDI",1126
+"ITA","Italian Republican Party",1946,1994,32410,"PRI",394
+"ITA","Italian Liberal Party",1946,1994,32420,"NDU",1461
+"ITA","Daisy - Democracy is Freedom",2001,2006,32421,,279
+"ITA","Democratic Party",2001,2016,32440,"PD",802
+"ITA","Democratic Centre",2013,2016,32450,,2278
+"ITA","Civic Choice",2013,2016,32460,"SC",2281
+"ITA","Italian Popular Party",1946,2001,32520,"DC",934
+"ITA","Christian Democratic Centre",1994,1996,32521,"CCD",1767
+"ITA","Pact for Italy",1994,1996,32528,,203
+"ITA","Democratic Alliance",1994,2001,32529,,614
+"ITA","Union of the Center",2001,2016,32530,"Biancofiore",201
+"ITA","Go Italy",1994,2008,32610,"FI",1626
+"ITA","New Italian Socialist Party",2001,2008,32611,"Nuovo PSI",888
+"ITA","Brothers of Italy",2013,2016,32630,,2280
+"ITA","Italian Social Movement-National Right",1948,2008,32710,"AN",813
+"ITA","League",1987,2016,32720,"LN",1221
+"ITA","European Democracy",2001,2006,32901,,1327
+"ITA","List Di Pietro - Italy of Values",2001,2013,32902,"IdV",768
+"ITA","Autonomy Liberty Democracy (Aosta Valley)",1992,2006,32903,,2415
+"ITA","South Tyrolean Peopleâ€™s Party",1948,2016,32904,,1369
+"ITA","The Network/Movement for Democracy",1992,1996,32951,,131
+"ITA","Popular Democratic Union for Europe",2000,2008,32953,"UDEUR",115
+"ITA","Five Star Movement",2013,2016,32956,,2046
+"ESP","Future Yes",2012,2015,33091,,2538
+"ESP","Amaiur",2012,2015,33092,,1671
+"ESP","Commitment-Q",2012,2015,33093,,2538
+"ESP","Basque Country Unite",2016,2016,33095,,5668
+"ESP","In Common We Can",2016,2016,33096,,3203
+"ESP","In Tide",2016,2016,33097,,5873
+"ESP","Valencian style",2016,2016,33098,,4019
+"ESP","We can",2016,2016,33210,,3203
+"ESP","United Left",1977,2016,33220,,247
+"ESP","Spanish Socialist Workersâ€™ Party",1977,2016,33320,"PSOE",1338
+"ESP","Citizens",2016,2016,33420,,3217
+"ESP","Union of the Democratic Centre/Centrist Bloc",1977,1986,33430,"UCD",1271
+"ESP","Popular Democratic Party",1982,1989,33438,,206
+"ESP","Liberal Party",1986,1989,33439,,366
+"ESP","Union, Progress and Democracy",2012,2015,33440,,55
+"ESP","Centre Democrats",1982,1996,33512,,1248
+"ESP","People's Party",1977,2016,33610,"PP",441
+"ESP","Convergence and Union",1977,2016,33611,,139
+"ESP","Forum Asturias",2012,2015,33612,,2538
+"ESP","Basque Left",1977,1993,33901,,1326
+"ESP","Basque Nationalist Party",1977,2016,33902,,1637
+"ESP","Basque Solidarity",1989,2011,33903,,1324
+"ESP","Aragonese Party",1979,1996,33904,,946
+"ESP","Catalan Republican Left",1977,2016,33905,,848
+"ESP","Andalusian Party",1979,2008,33906,,1497
+"ESP","Canarian Coalition",1993,2016,33907,,81
+"ESP","Galician Nationalist Bloc",1996,2015,33908,,1011
+"ESP","Aragonist Council",2000,2011,33909,,1564
+"GRC","Coalition of the Radical Left",2004,2016,34020,"SYRIZA",301
+"GRC","Communist Party of Greece",1974,2016,34210,,48
+"GRC","Progressive Left Coalition",1978,2004,34211,"SYN",516
+"GRC","Democratic Left",2012,2014,34213,"DIMAR",1160
+"GRC","Popular Unity",2015,2016,34214,,4512
+"GRC","Panhellenic Socialist Movement",1974,2016,34313,"PASOK",1468
+"GRC","Democratic Social Movement",1996,2004,34314,,1682
+"GRC","The River",2015,2016,34340,,3118
+"GRC","Union of Centrists",2015,2016,34410,,2510
+"GRC","Union of the Democratic Centre",1974,1985,34510,"CU",82
+"GRC","New Democracy",1974,2016,34511,"ND",794
+"GRC","Political Spring",1993,2000,34512,,312
+"GRC","National Alignment",1974,1989,34610,,943
+"GRC","Popular Orthodox Rally",2007,2014,34710,"LAOS",965
+"GRC","Golden Dawn",2012,2016,34720,,1660
+"GRC","Independent Greeks",2012,2016,34730,"ANEL",1651
+"PRT","Ecologist Party â€˜The Greens'",1983,2016,35110,,886
+"PRT","Popular Democratic Union",1975,1999,35210,,896
+"PRT","Left Bloc",1999,2016,35211,,1310
+"PRT","Portuguese Communist Party",1975,2015,35220,,310
+"PRT","Popular Democratic Movement",1975,1987,35310,,1688
+"PRT","Socialist Party",1975,2016,35311,"PS",655
+"PRT","Democratic Renewal Party",1985,1995,35312,,1600
+"PRT","Social Democratic Party",1975,2016,35313,"AD-PSD",1359
+"PRT","Social Democratic Center-Popular Party",1975,2016,35520,"AD-CDS",1308
+"PRT","Popular Monarchist Party",1975,1985,35710,"AD-PPM",1480
+"PRT","National Solidarity Party",1991,2002,35951,,181
+"PRT",,1974,2016,35999,"MFA",
+"DEU","Allianceâ€˜90/Greens",,,41113,"GREENS",1816
+"DEU","Communist Party of Germany",1949,1953,41220,,1135
+"DEU","Party of Democratic Socialism",,,41221,,86
+"DEU","Social Democratic Party of Germany",,,41320,"SPD",383
+"DEU","Free Democratic Party",,,41420,"FDP",573
+"DEU","Christian Democratic Union/Christian Social Union",,,41521,"CDU/CSU",211
+"DEU","Centre Party",1949,1957,41522,,1798
+"DEU","German Party",1949,1961,41620,"DP",1502
+"DEU","Economic Reconstruction League",1949,1953,41711,,735
+"DEU","German Reich Party",1949,1953,41712,,1151
+"DEU","Bavarian Party",1949,1953,41911,,61
+"DEU","South Schleswig Votersâ€™ Union",1949,1953,41912,,50
+"DEU","Refugee Party",1953,1961,41951,"GB/BHE",1010
+"DEU","Pirates",,,41952,,1287
+"DEU","Alternative for Germany",,,41953,,1976
+"AUT","The Greens",1983,2016,42110,,1659
+"AUT","Austrian Communist Party",1945,2016,42220,"KPÖ",996
+"AUT","Austrian Social Democratic Party",1945,2016,42320,"SPÖ",1384
+"AUT","Austrian Freedom Party",1949,2016,42420,"FPÖ",463
+"AUT","Liberal Forum",1994,2013,42421,,605
+"AUT","The New Austria and Liberal Forum",2013,2016,42430,,1970
+"AUT","Austrian Peopleâ€™s Party",1945,2016,42520,"ÖVP",1329
+"AUT","Alliance for the Future of Austria",2005,2016,42710,"BZÖ",599
+"AUT","Team Stronach for Austria",2013,2016,42951,,1971
+"CHE","Federation of Green Parties",1979,2016,43110,,1006
+"CHE","Green Liberal Party",2007,2016,43120,,1759
+"CHE","Swiss Labour Party",1947,2016,43220,,669
+"CHE","Social Democratic Party of Switzerland",1944,2016,43320,"SPS",29
+"CHE","Independentsâ€™ Alliance",1947,2003,43321,,1194
+"CHE","FDP.The Liberals",1944,2016,43420,"FDP",360
+"CHE","Conservative Christian Social Party",1944,2016,43520,"CVP",1808
+"CHE","Protestant Peopleâ€™s Party of Switzerland",1947,2016,43530,,1123
+"CHE","Liberal Party of Switzerland",1947,2011,43531,,444
+"CHE","Christian Social Party",1991,2015,43540,,1122
+"CHE","Swiss Democrats",1967,2015,43710,,1819
+"CHE","Federal Democratic Union",1991,2015,43711,,631
+"CHE","Swiss Peopleâ€™s Party",1944,2016,43810,"SVP",308
+"CHE","Conservative Democratic Party of Switzerland",2008,2016,43811,"BDP",1415
+"CHE","Ticino League",1991,2016,43901,,1661
+"CHE","Geneva Citizens' Movement",2011,2016,43902,,2939
+"CHE","Freedom Party of Switzerland",1987,2007,43951,,1311
+"GBR","Green Party of England and Wales",2015,2016,51110,,1794
+"GBR","We Ourselves",1950,2016,51210,,963
+"GBR","Labour Party",1945,2016,51320,"LAB",1516
+"GBR","Social Democratic Party",1983,1992,51330,,957
+"GBR","Social Democratic and Labour Party",2015,2016,51340,,762
+"GBR","Liberal Party",1945,1992,51420,,540
+"GBR","Liberal Democrats",1992,2016,51421,"LDP",1388
+"GBR","Conservative Party",1945,2016,51620,"CON",1567
+"GBR","Ulster Unionist Party",1974,2016,51621,,1366
+"GBR","The Party of Wales",2015,2016,51901,,1002
+"GBR","Scottish National Party",1959,2016,51902,,986
+"GBR","Democratic Unionist Party",1974,2016,51903,,335
+"GBR","United Kingdom Independence Party",2001,2016,51951,,601
+"IRL","United Left Alliance",2011,2016,53021,,1978
+"IRL","Green Party",1987,2016,53110,"GP",1775
+"IRL","Workersâ€™ Party",1981,1997,53220,,208
+"IRL","Democratic Left Party",1993,2002,53221,"DLP",1172
+"IRL","Socialist Party",1997,2016,53230,,1448
+"IRL","People Before Profit Alliance",2016,2016,53231,,242
+"IRL","Anti-Austerity Alliance",2016,2016,53240,,242
+"IRL","Labour Party",1948,2016,53320,"LAB",562
+"IRL","Social Democrats",2016,2016,53321,,4870
+"IRL","Progressive Democrats",1987,2011,53420,"PD",924
+"IRL","Familiy of the Irish",1948,2016,53520,"FG",1288
+"IRL","Soldiers of Destiny",1945,2016,53620,"FF",1055
+"IRL","Republican Party",1948,1969,53714,"CNP",1354
+"IRL","Party of the Land",1948,1965,53810,"CNT",1024
+"IRL","We Ourselves",1957,2016,53951,,4
+"MLT","Labour Party",1966,2016,54320,"LAB",808
+"MLT","Nationalist Party",1962,2016,54620,"NP",699
+"CYP","Movement of Ecologists - Citizens' Cooperation",1996,2016,55110,,858
+"CYP","Progressive Party of the Working People",1960,2016,55321,"AKEL",1076
+"CYP","United Democratic Union of Cyprus",1970,2016,55322,,321
+"CYP","Democratic Party",1976,2016,55422,"DIKO",635
+"CYP","Free Democrats Movement",1996,2006,55423,,321
+"CYP","European Party",2006,2016,55430,,1817
+"CYP","Democratic Coalition",1970,2016,55711,"DISY",563
+"USA","Democratic Party",1945,2016,61320,"DEM",432
+"USA","Republican Party",1947,2016,61620,"REP",809
+"CAN","Green Party",2004,2016,62110,,931
+"CAN","New Democratic Party",1945,2016,62320,,152
+"CAN","Liberal Party of Canada",1945,2016,62420,"LIB",1739
+"CAN","Progressive Conservative Party",1945,2004,62620,"CON",232
+"CAN","Reform Party of Canada",1993,2004,62621,,1757
+"CAN","Conservative Party of Canada",2004,2016,62623,"CON",1004
+"CAN","Quebec Bloc",1993,2016,62901,,1428
+"CAN","Social Credit",1945,1983,62951,,1156
+"AUS","Australian Greens",1990,2016,63110,,1209
+"AUS","Australian Labor Party",1945,2016,63320,"ALP",424
+"AUS","Australian Democrats",1978,2010,63321,,990
+"AUS","Democratic Labor Party",1956,2013,63330,,1540
+"AUS","Palmer United Party",2013,2016,63410,,1996
+"AUS","Liberal Party of Australia",1946,2016,63620,"LIB",486
+"AUS","Katter's Australian Party",2013,2016,63710,,1997
+"AUS","National Party of Australia",1946,2016,63810,"CNT",1743
+"NZL","Green Party of Aotearoa New Zealand",1993,2016,64110,,1099
+"NZL","New Zealand Labour Party",1946,2016,64320,"LAB",1049
+"NZL","The Alliance",1993,2011,64321,"A",716
+"NZL","ACT New Zealand",1996,2016,64420,"A",752
+"NZL","United Future New Zealand",1996,2016,64421,"U",940
+"NZL","Progressive Party",2002,2011,64422,"PC",150
+"NZL","New Zealand National Party",1946,2016,64620,"NP",1824
+"NZL","New Zealand First Party",1993,2016,64621,"NZF",591
+"NZL","MÄori Party",2005,2016,64901,"M",1716
+"NZL","Mana Party",2012,2016,64902,,1427
+"NZL","New Zealand Democratic Party",1954,2011,64951,,911
+"JPN","People's Life Party",2016,2016,71111,,2078
+"JPN","Japanese Communist Party",1959,2016,71220,,736
+"JPN","Social Democratic Party of Japan",1959,2016,71320,"SDP",3
+"JPN","Democratic Socialist Party",1960,1996,71321,"DSP",867
+"JPN","Social Democratic Federation",1979,1993,71322,,492
+"JPN","Your Party",2009,2016,71410,,1777
+"JPN","Japan Restoration Party",2013,2016,71430,,2080
+"JPN","New Clean Government Party",1962,2016,71530,"CGP",1515
+"JPN","Liberal Democratic Party",1959,2016,71620,"LDP",1746
+"JPN","New Liberal Club",1977,1992,71621,"NLC",1524
+"JPN","Japan Renewal Party",1993,1996,71622,"SHIN",1109
+"JPN","New Frontier Party",1995,2001,71623,,282
+"JPN","Democratic Party of Japan",1996,2016,71624,"DPJ",1804
+"JPN","Liberal Party",1998,2004,71625,"LP",13
+"JPN","New Conservative Party",2000,2005,71626,"NCP",702
+"JPN","People's New Party",2005,2014,71630,"PNP",352
+"JPN","Independent's Party",2000,2005,71640,,2750
+"JPN","New Party Harbinger",1993,2001,71951,"SAKI",392
+"JPN","Japan New Party",1992,1996,71952,"JNP",88
+"BGR","Reformist bloc",2014,2016,80061,"RB",3189
+"BGR","Patriotic Front - NFSB and VMRO",2013,2016,80062,,5649
+"BGR","Political Club â€˜Ekoglasnost'",1995,2001,80110,"Ecoglasnost party",820
+"BGR","Bulgarian Socialist Party",1989,2016,80220,"BCP",757
+"BGR","Euroleft Coalition",1997,2005,80320,,149
+"BGR","Alternative for Bulgarian Revival",2014,2016,80330,"ABV",3187
+"BGR","United Democratic Forces",1990,2014,80411,"UDF",1183
+"BGR","Citizens for European Development of Bulgaria",2009,2016,80510,"GERB",760
+"BGR","Democrats for a Strong Bulgaria",2005,2014,80610,,1195
+"BGR","Order, Law and Justice",2009,2014,80620,,272
+"BGR","Bulgaria without Censorship",2014,2016,80630,,3188
+"BGR","National Union Attack",2005,2016,80710,,1793
+"BGR","Bulgarian Agrarian National Union",1990,1994,80810,"BZNS",2060
+"BGR","Peopleâ€™s Union",1995,1997,80811,,747
+"BGR","Bulgarian Agrarian Peopleâ€™s Union - Alexandar Stambolijski",1995,1996,80812,"AZ-BZNS",2635
+"BGR","Bulgarian People's Union",2005,2009,80813,,263
+"BGR","Bulgarian Business Bloc",1991,2005,80901,,1027
+"BGR","National Movement Simeon the Second",2001,2013,80902,"NDSV",374
+"BGR","Movement for Rights and Freedoms",1990,2016,80951,"DPS",982
+"HRV","Social Democratic Party of Croatia",1990,2016,81223,"SDP",1475
+"HRV","Croatian Labourists - Labour Party",2012,2016,81230,,214
+"HRV","Croatian Social-Liberal Party",1991,2016,81410,"HSLS",214
+"HRV","Liberal Party",2000,2007,81411,,381
+"HRV","Coalition of Peopleâ€™s Accord",1990,1992,81420,,3643
+"HRV","Independent List of Ivan GrubiÅ¡iÄ‡",2012,2015,81440,,2523
+"HRV","People's Party - Reformists",2015,2016,81450,,4866
+"HRV","Bridge of Independent Lists",2015,2016,81460,"MOST",4865
+"HRV","Croatian Democratic Union",1990,2016,81711,"HDZ",1431
+"HRV","Croatian Peopleâ€™s Party - Liberal Democrats",1992,2016,81712,"HNS",799
+"HRV","Croatian Party of Rights",1992,2016,81713,,253
+"HRV","Croatian Peasant Party",1992,2016,81810,"HSS",72
+"HRV","Independent Democratic Serbian Party",2004,2015,81910,"SDSS",2348
+"HRV","Croatian Democratic Assembly of Slavonia and Baranja",2008,2016,81952,,2347
+"HRV","Istrian Democratic Assembly",1992,2016,81953,"IDS",513
+"HRV","Croatian Party of Pensioners",2004,2016,81957,,2062
+"HRV","Human Shield",2015,2016,81960,,4867
+"HRV","Milan BandiÄ‡ 365 - The Party of Labour and Solidarity",2015,2016,81961,,5452
+"HRV",,1990,2016,81999,"HKDS",
+"CZE","Green Party",1990,2016,82110,"SZ",1554
+"CZE","Communist Party of Bohemia and Moravia",1989,2016,82220,"KSCS",1728
+"CZE","Czech Social Democratic Party",1990,2016,82320,"CSSD",177
+"CZE","Civic Forum",1990,1992,82410,"Civic Forum",1349
+"CZE","Civic Democratic Alliance",1992,2006,82412,"ODA",1008
+"CZE","Civic Democratic Party",1992,2016,82413,"ODS",466
+"CZE","Liberal Social Union",1992,1996,82420,,936
+"CZE","Freedom Union",1998,2006,82421,"US",104
+"CZE","ANO 2011",2013,2016,82430,"ANO",2141
+"CZE","Christian and Democratic Union - Czech People's Party",1989,2016,82523,"CSL",676
+"CZE","Tradition, Responsibility, Prosperity 09",2010,2016,82530,"TOP 09",223
+"CZE","Association for the Republic â€“ Republican Party of Czechoslovakia",1990,2006,82710,,1657
+"CZE","Tomio Okamura's Dawn of Direct Democracy",2013,2016,82720,,2049
+"CZE","Movement for an Autonomous Democracy - Society for Moravia-Silesia",1990,1996,82951,,952
+"CZE","Public Affairs",2010,2013,82952,"VV",1202
+"CZE",,1989,2016,82999,"ex-ODS",
+"EST","Estonian Greens",1992,2015,83110,,1040
+"EST","Social Democratic Party",1992,2016,83410,"Moderates",1150
+"EST","Estonian Center Party",1992,2016,83411,"KESK",533
+"EST","Estonian Reform Party",1994,2016,83430,"ER",821
+"EST","Free Party",2015,2016,83440,,3271
+"EST","Republican and Conservative Peopleâ€™s Party â€˜Right-wingers'",1994,1999,83610,"Parempool",83
+"EST","Pro Patria and Res Publica Union",2003,2016,83611,"IresPL",685
+"EST","Estonian Peopleâ€™s Union",1999,2015,83612,"RL",110
+"EST","Pro Patria Union",1992,2007,83710,"Isamaa",779
+"EST","Estonian National Independence Party",1992,1995,83711,"ERSP",1299
+"EST","Electoral Union â€˜Estonian Citizen'",1992,1999,83712,,1319
+"EST","Coalition Party",1992,2003,83713,,1556
+"EST","Coalition Party and Rural Union",1995,1999,83719,"KMU",1603
+"EST","Conservative People's Party of Estonia",2015,2016,83720,,4094
+"EST","Electoral Union â€˜Independent Royalists'",1992,1995,83901,,1361
+"EST","Electoral Union â€˜Our Home is Estonia'",1995,1999,83951,,106
+"EST","Estonian United Peopleâ€™s Party",1999,2003,83952,,18
+"EST",,1990,2016,83999,"AP",
+"HUN","Politics Can Be Different",2010,2016,86110,,1650
+"HUN","Hungarian Socialist Party",1989,2016,86220,"MSzP",1408
+"HUN","Democratic Coalition",2014,2016,86221,,469
+"HUN","Together 2014 -Dialogue for Hungary Electoral Alliance",2014,2016,86340,,2458
+"HUN","Federation of Young Democrats - Hungarian Civic Union",1990,2016,86421,"Fidesz",1691
+"HUN","Alliance of Free Democrats",1990,2010,86422,"SzDSz",910
+"HUN","Hungarian Democratic Forum",1990,2014,86521,"HDF",1697
+"HUN","Christian Democratic Peopleâ€™s Party",1990,2016,86522,"KDNP",1412
+"HUN","Hungarian Justice and Life Party",1994,2010,86620,,1597
+"HUN","Movement for a Better Hungary",2010,2016,86710,,42
+"HUN","Independent Smallholdersâ€™ Party",1990,2006,86810,"FKgP",1294
+"HUN","Agrarian Alliance",1990,1998,86811,,1132
+"LVA","Concord Centre",2006,2014,87021,,1056
+"LVA","For a Good Latvia",2010,2011,87061,,393
+"LVA","Greens' and Farmersâ€™ Union",2002,2016,87110,"ZZS",701
+"LVA","Latvian Socialist Party",1993,1998,87310,,588
+"LVA","Latvian Social Democratic Alliance",1995,2006,87311,"LSDU",741
+"LVA","Latvian Unity Party",1995,1998,87320,"LVP",373
+"LVA","Social Democartic Party ""Harmony""",2014,2016,87340,,5976
+"LVA","Latvian Way Union",1992,2006,87410,"LC",1043
+"LVA","Democratic Party â€˜Saimnieksâ€™",1993,2002,87411,"DPS",19
+"LVA","National Harmony Party",1993,2002,87421,,1719
+"LVA","For Human Rights in a United Latvia",2002,2010,87422,,176
+"LVA","New Era",2002,2016,87423,"JL",1531
+"LVA","New Party",1998,2002,87431,"JP",1632
+"LVA","Christian Democratic Union",1993,1995,87520,,304
+"LVA","Latviaâ€™s First Party",2002,2010,87521,"LPP",1778
+"LVA","Peopleâ€™s Party",1998,2010,87610,"TP",1755
+"LVA","Zatlers' Reform Party",2011,2016,87620,"RP",1476
+"LVA","For Latvia from the Heart",2014,2016,87630,,3193
+"LVA","Latvian National Independence Movement",1993,1998,87710,"LNNK",1789
+"LVA","For Fatherland and Freedom",1993,1998,87721,"TUBS",671
+"LVA","Popular Movement for Latvia-Zigerista Party",1995,2002,87722,,1654
+"LVA","For Fatherland and Freedom - Latvian National Independence Movement",1998,2016,87723,"TB-LNNK",1704
+"LVA","Latvian Farmersâ€™ Union",1993,1996,87810,"LZS",1702
+"LVA","Coalition of Latvian Farmers' Union, Latvian Christian Democratic Union and Democratic Party of Latgale",1995,1999,87811,"LZS",1612
+"LVA","Latvian Association of Regions",2014,2016,87901,,3194
+"LVA",,1990,2013,87999,"LTF",
+"LTU","Lithuanian Democratic Labour Party",1990,2000,88220,"CPL",546
+"LTU","Lithuanian Social Democratic Party",1992,2016,88320,"LSdP",64
+"LTU","New Union (Social Liberals)",2000,2012,88410,"NSSL",1800
+"LTU","Lithuanian Centre Union",1992,2004,88420,"LCS",1185
+"LTU","Lithuanian Liberal Union",1992,2004,88422,"LLS",1357
+"LTU","Liberal and Centre Union",2004,2016,88430,"LbCS",1193
+"LTU","Labour Party",2004,2016,88440,"DP",102
+"LTU","Liberal Movement",2008,2016,88450,"LRLS",1744
+"LTU","Order and Justice",2004,2016,88460,"TT",237
+"LTU","Lithuanian Christian Democratic Party",1990,2008,88521,"LKDP",
+"LTU","Lithuanian Union of Political Prisoners and Deportees",1996,2004,88523,,753
+"LTU","Lithuanian Christian Democratic Party Coalition",1992,1996,88529,,1364
+"LTU","Homeland Union",1991,2016,88620,"Sajudis",193
+"LTU","National Resurrection Party",2008,2012,88630,"TPP",347
+"LTU","Lithuanian National Union",1992,2008,88710,,377
+"LTU","Lithuanian Peasants Party",1996,2004,88810,,21
+"LTU","Lithuanian Peasant and Green Union",2004,2016,88820,"UFP",1490
+"LTU","Election Action of Lithuaniaâ€™s Poles",1992,2016,88951,"LLRA",556
+"LTU","The Way of Courage",2012,2016,88952,,74
+"POL","Democratic Left Alliance",1989,2015,92210,"SDRP",57
+"POL","Democratic Party",1989,1993,92211,"SD",919
+"POL","Independent Self-governing Trade Union â€˜Solidarityâ€™",1989,1997,92320,"NSZZ",767
+"POL","Union of Labour",1991,2007,92322,"UP",1104
+"POL","Democratic Union",1991,1997,92410,"UD",1046
+"POL","Liberal-Democratic Congress",1991,1997,92420,"KLD",153
+"POL","Polish Beer-Lovers' Party",1991,1997,92431,,464
+"POL","Union of Real Politics",1991,2001,92432,,283
+"POL","Polish Economic Program (Large Beer)",1992,1993,92433,"PPG",1535
+"POL","Freedom Union",1997,2007,92434,"UW",1566
+"POL","Civic Platform",2001,2016,92435,"PO",1117
+"POL","Law and Justice",2001,2016,92436,"PiS",1565
+"POL","Palikot's Movement",2011,2015,92440,,731
+"POL","Christian Democratic Labour Party",1991,1993,92520,,468
+"POL","Centre Citizensâ€™ Alliance",1991,1997,92521,"POC",1649
+"POL","Party of Christian Democrats",1991,1993,92522,"PChD",188
+"POL","Catholic Electoral Action",1991,1997,92530,"WAK",1458
+"POL","Electoral Action â€˜Solidarity'",1997,2005,92620,"AWS",863
+"POL","Movement for the Reconstruction of Poland",1997,2001,92621,,1712
+"POL","Self-Defence of the Polish Republic",1993,2011,92622,"SRP",727
+"POL","Confederation for an Independent Poland",1991,1997,92710,,1615
+"POL","Polish Western Union",1991,1993,92711,,2890
+"POL","Party X",1991,1997,92712,,146
+"POL","League of Polish Families",2001,2007,92713,"LPR",1768
+"POL","Peasant Accord",1991,1997,92810,"PL",1266
+"POL","Polish Peasants' Party",1989,2016,92811,"PSL",602
+"POL","Non-Party Bloc in Support of Reforms",1993,1997,92901,,1681
+"POL","Movement for the Autonomy of Silesia",1991,1997,92952,,1430
+"POL","German Minority",1991,2016,92953,,1439
+"ROU",,2001,2016,93003,"PC",
+"ROU",,2010,2016,93004,"UNPR",
+"ROU","Ecological Movement of Romania",1990,1996,93111,"REM",1511
+"ROU","Romanian Ecological Party",1990,2008,93112,,1373
+"ROU","Democratic Party - National Salvation Front",1990,2016,93221,"DP",1715
+"ROU","Romanian Socialist Democratic Party",1990,1996,93222,,1078
+"ROU","Social Democratic Pole of Romania",1989,2016,93223,"FDSN",276
+"ROU","Romanian Social Democratic Party",1990,2000,93320,"PSDR",1034
+"ROU","National Liberal Party",1990,2016,93430,"NLP",874
+"ROU","Christian Democratic National Peasantsâ€™ Party",1990,2016,93521,"PNTCD",1750
+"ROU","Democratic Group of the Centre",1990,1992,93529,,477
+"ROU","Romanian National Unity Party",1990,2008,93711,"RNUP",1451
+"ROU","Greater Romania Party",1992,2012,93712,,1305
+"ROU","Socialist Labour Party",1992,2004,93713,,1217
+"ROU","Democratic Agrarian Party of Romania",1990,1996,93810,"ADP",1085
+"ROU","Hungarian Democratic Alliance of Romania",1990,2016,93951,"UDMR",1105
+"ROU","People's Party - Dan Dianconescu",2013,2016,93981,,2474
+"SVK","Green Party of Slovakia",1990,1994,96111,,1569
+"SVK","Workersâ€™ Association of Slovakia",1994,2002,96210,"ZRS",230
+"SVK","Party of the Democratic Left",1989,2006,96220,"KSCS",1242
+"SVK","Communist Party of Slovakia",1994,2010,96222,,340
+"SVK","Democratic Party",1990,1998,96420,,983
+"SVK","Democratic Union of Slovakia",1994,1998,96421,"DUS",707
+"SVK","Party of Civic Understanding",1998,2004,96422,"SOP",9
+"SVK","Direction-Social Democracy",2002,2016,96423,"Smer-SD",311
+"SVK","Alliance of the New Citizen",2002,2010,96424,"ANO",217
+"SVK","Public Against Violence",1990,1992,96430,"PAV",5
+"SVK","Freedom and Solidarity",2010,2016,96440,"SAS",1386
+"SVK","Christian Democratic Movement",1990,2016,96521,"KDH",63
+"SVK","Slovak Democratic and Christian Union - Democartic Party",1998,2016,96523,"SDK",582
+"SVK","Ordinary People and Independent Personalities",2012,2016,96620,,2130
+"SVK","Slovak National Party",1990,2016,96710,"SNS",730
+"SVK","Movement for a Democratic Slovakia",1992,2012,96711,"HZDS",560
+"SVK","Hungarian Coalition",1990,2016,96952,"SMK",349
+"SVK","Bridge",2010,2016,96955,"Most-Hid",258
+"SVN",,2014,2016,97001,"SMC",
+"SVN",,2014,2016,97002,"ZaAB",
+"SVN","Greens of Slovenia",1990,1996,97110,"ZS",1494
+"SVN","Social Democratic Party",1990,2016,97322,"SD",
+"SVN","Slovenian Democratic Party",1990,2016,97330,"SDS",472
+"SVN","Zoran JankoviÄ‡'s List - Positive Slovenia",2012,2016,97340,"PS",1773
+"SVN","Liberal Democracy of Slovenia",1990,2014,97421,"LDS",975
+"SVN","Democratic Party of Slovenia",1990,1996,97430,"DSS",1479
+"SVN","For Real",2008,2014,97440,"Zares",474
+"SVN","Gregor Virant's Civic List",2012,2014,97450,"LGV",98
+"SVN","Slovenian Christian Democrats",1990,2000,97520,"SKD",644
+"SVN","Slovenian People's Party",1990,2016,97521,"SKZ",764
+"SVN","New Slovenian Christian Peopleâ€™s Party",2000,2016,97522,"NSi",1618
+"SVN","Slovenian National Party",1993,2016,97710,,96
+"SVN","Democratic Party of Pensioners of Slovenia",1996,2016,97951,"DeSUS",467
+"SVN","Party of Slovenian Youth",2000,2008,97952,,1401
+"SVN",,1990,2016,97999,"LDSt",
