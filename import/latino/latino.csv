@@ -1,282 +1,282 @@
 country,name_short,name,year_first,year_last,share,share_year,party_id
-ARG,FPV,Frente para la Victoria,2009,2010,33.6,2010,101
-ARG,PJ,Partido Justicialista,2009,2010,36.7,2010,102
-ARG,ARI,Afirmación para una República Igualitaria,2009,2010,6.2,2009,104
-ARG,UCR,Unión Cívica Radical,2009,2010,19.4,2009,105
-ARG,PRO,Propuesta Republicana,2009,2010,13.7,2009,106
-ARG,PS,Partido Socialista,2009,2010,10.9,2009,108
-BOL,MAS,Movimiento al Socialismo,2009,2010,79.1,2010,201
-BOL,PODEMOS,Poder Democrático Social,2009,2010,10.2,2009,202
-BOL,UN,Unidad Nacional,2009,2010,19.8,2009,203
-BRA,PT,Partido dos Trabalhadores,2009,2010,63.9,2010,301
-BRA,PMDB,Partido do Movimento Democrático Brasileiro,2009,2010,13.4,2009,303
-BRA,PV,Partido Verde,2009,2010,6.3,2010,309
-BRA,PSDB,Partido da Social Democracia Brasileira,2009,2010,16.6,2010,311
-COL,,Partido Social de Unidad Nacional,2009,2010,39.5,2009,401
-COL,CR,Partido Cambio Radical,2009,2010,14.5,2010,402
-COL,PCC,Partido Conservador Colombiano,2009,2009,12.6,2009,403
-COL,PLC,Partido Liberal Colombiano,2009,2010,36.7,2009,404
-COL,PDA,Partido Polo Democrático Alternativo,2009,2010,10,2009,405
-COL,,Partido Colombia Democrática,2010,2010,44,2010,409
-CRI,PLN,Partido de Liberación Nacional,2009,2010,73,2009,501
-CRI,PAC,Partido Acción Ciudadana,2009,2010,14.7,2009,502
-CRI,ML,Movimiento Libertario,2009,2010,7,2009,503
-CRI,PUSC,Partido Unidad Social Cristiana,2009,2010,22.2,2010,504
-CHL,PDC,Partido Demócrata Cristiano,2009,2010,27.9,2009,601
-CHL,PPD,Partido por la Democracia,2009,2010,13.2,2010,602
-CHL,PS,Partido Socialista,2009,2010,15.9,2009,603
-CHL,UDI,Unión Demócrata Independiente,2009,2010,12.3,2010,605
-CHL,RN,Renovación Nacional,2009,2010,25,2009,606
-CHL,PC,Partido Comunista,2009,2010,5.1,2009,607
-CHL,PHV,Partido Humanista Verde,2010,2010,6.1,2010,611
-ECU,,Movimiento Alianza País,2009,2010,72.5,2010,701
-ECU,PSC,Partido Social Cristiano,2009,2010,10.7,2009,710
-ECU,,Partido Sociedad Patriótica,2009,2010,12,2010,711
-SLV,FMLN,Frente Farabundo Martí para la Liberación Nacional,2009,2010,75.6,2009,801
-SLV,ARENA,Alianza Republicana Nacionalista,2009,2010,42.5,2010,802
-GTM,UNE,Unidad Nacional de Esperanza,2009,2010,39.6,2009,901
-GTM,PP,Partido Patriota,2009,2010,57.4,2010,902
-HND,PL,Partido Liberal,2009,2010,58.1,2010,1001
-HND,PNH,Partido Nacional de Honduras,2009,2010,52.2,2009,1002
-MEX,PAN,Partido Acción Nacional,2009,2010,30.2,2010,1101
-MEX,PRI,Partido Revolucionario Institucional,2009,2010,53.6,2009,1102
-MEX,PRD,Partido de la Revolución Democrática,2009,2010,13,2010,1103
-NIC,FSLN,Partido Frente Sandinista de Liberación Nacional,2009,2010,62.7,2009,1201
-NIC,PLC,Partido Liberal Constitucionalista,2009,2010,39.4,2010,1202
-PAN,PRD,Partido Revolucionario Democrático,2009,2010,50.7,2010,1301
-PAN,CD,Partido Cambio Democrático,2009,2010,58.5,2009,1304
-PAN,,Partido Panameñista,2009,2010,12.5,2009,1305
-PRY,PLRA,Partido Liberal Radical Auténtico,2009,2010,32.9,2010,1401
-PRY,ANR,Asociación Nacional Republicana,2009,2010,55.2,2010,1407
-PRY,UNACE,Unión Nacional de Ciudadanos Éticos,2009,2010,7.4,2009,1408
-PER,PAP,Partido Aprista Peruano,2009,2010,19.7,2009,1501
-PER,PNP,Partido Nacionalista Peruano,2009,2010,23.9,2009,1502
-PER,AP,Acción Popular,2009,2010,7.4,2010,1503
-PER,PC,Perú Posible,2009,2010,13.1,2010,1504
-PER,PPC,Partido Popular Cristiano,2009,2010,14.9,2010,1505
-PER,SC,Sí Cumple,2009,2010,21.7,2009,1508
-PER,SP,Somos Perú,2009,2010,5,2010,1509
-PER,PSN,Solidaridad Nacional,2009,2010,12.4,2010,1510
-PER,Partido Popular Cristiano,Unidad Nacional,2009,2010,10.8,2009,1511
-URY,FA,Frente Amplio,2009,2010,67.9,2010,1601
-URY,PN,Partido Nacional,2009,2010,25.9,2009,1602
-URY,PC,Partido Colorado,2009,2010,11.2,2009,1603
-VEN,PSUV,Partido Socialista Unido de Venezuela,2009,2010,73.9,2009,1701
-VEN,UNT,Un Nuevo Tiempo,2009,2010,8.7,2010,1706
-VEN,PJ,Primero Justicia,2009,2010,6.4,2010,1707
-VEN,AD,Acción Democrática,2009,2010,8.6,2009,1708
-VEN,MEP,Movimiento Electoral del Pueblo,2010,2010,9.2,2010,1719
-ESP,PSOE,Partido Socialista Obrero Español,2009,2009,53.6,2009,1801
-ESP,PP,Partido Popular,2009,2009,32.7,2009,1802
-DOM,PLD,Partido de la Liberación Dominicana,2009,2010,48.2,2010,1901
-DOM,PRD,Partido Revolucionario Dominicano,2009,2010,50.4,2009,1902
-ARG,FPV,Frente para la Victoria,2008,2018,63.1,2013,32001
-ARG,PJ,Partido Justicialista,1995,2013,100,1997,32002
-ARG,FREPASO,Frente País Solidario,1995,2008,32.4,1995,32003
-ARG,,Partido Coalición Cívica,2005,2011,6.4,2005,32004
-ARG,UCR,Unión Cívica Radical,1995,2018,36.3,1996,32005
-ARG,PRO,Propuesta Republicana,2011,2018,36.7,2016,32006
-ARG,PS,Partido Socialista,1998,2018,7.1,2011,32008
-ARG,PO,Partido Obrero,1998,2011,8.7,2002,32013
-ARG,López Murphy,Mov,2002,2007,15.5,2002,32015
-ARG,Elisa Carrió,Alternativa por una República de Iguales,2002,2007,8.6,2007,32016
-ARG,IU,Izquierda Unida,2001,2007,18.8,2002,32017
-ARG,,Partido Proyecto Sur,1995,2018,16.2,2018,32021
-ARG,,Partido Peronismo Federal,1995,2018,22.4,2016,32022
-ARG,UCR,La Alianza,1998,2001,51.9,1998,32029
 ARG,,Acción por la República,1998,2001,8.7,2001,32030
+ARG,ARI,Afirmación para una República Igualitaria,2009,2010,6.2,2009,104
+ARG,Elisa Carrió,Alternativa por una República de Iguales,2002,2007,8.6,2007,32016
 ARG,FIT,Frente de Izquierda y los Trabajadores,2013,2018,10.3,2017,32041
+ARG,FREPASO,Frente País Solidario,1995,2008,32.4,1995,32003
+ARG,FPV,Frente para la Victoria,2009,2010,33.6,2010,101
+ARG,FPV,Frente para la Victoria,2008,2018,63.1,2013,32001
 ARG,FR,Frente Renovador,2015,2018,13.1,2015,32042
+ARG,IU,Izquierda Unida,2001,2007,18.8,2002,32017
+ARG,UCR,La Alianza,1998,2001,51.9,1998,32029
+ARG,López Murphy,Mov,2002,2007,15.5,2002,32015
+ARG,,Partido Coalición Cívica,2005,2011,6.4,2005,32004
+ARG,PJ,Partido Justicialista,2009,2010,36.7,2010,102
+ARG,PJ,Partido Justicialista,1995,2013,100,1997,32002
+ARG,PO,Partido Obrero,1998,2011,8.7,2002,32013
+ARG,,Partido Peronismo Federal,1995,2018,22.4,2016,32022
+ARG,,Partido Proyecto Sur,1995,2018,16.2,2018,32021
+ARG,PS,Partido Socialista,2009,2010,10.9,2009,108
+ARG,PS,Partido Socialista,1998,2018,7.1,2011,32008
+ARG,PRO,Propuesta Republicana,2009,2010,13.7,2009,106
+ARG,PRO,Propuesta Republicana,2011,2018,36.7,2016,32006
+ARG,UCR,Unión Cívica Radical,2009,2010,19.4,2009,105
+ARG,UCR,Unión Cívica Radical,1995,2018,36.3,1996,32005
 ARG,Alianza UCR/PRO/CC,Cambiemos,2017,2018,32.2,2017,32044
-BOL,MAS,Movimiento al Socialismo,2002,2018,88,2016,68001
-BOL,PODEMOS,Poder Democrático Social,2006,2018,15.7,2006,68002
-BOL,UN,Unidad Nacional,2006,2018,6.9,2018,68003
-BOL,MNR,Movimiento Nacionalista Revolucionario,1996,2018,44.5,2001,68004
-BOL,MIR,Movimiento de Izquierda Revolucionaria,1996,2018,26.8,2001,68005
-BOL,MSM,Movimiento sin Miedo,2003,2015,46.1,2004,68009
-BOL,MBL,Movimiento Bolivia Libre,1996,2006,9.1,1996,68013
-BOL,CONDEPA,Conciencia de Patria,1996,2003,10.4,1996,68016
 BOL,ADN,Acción Democratica Nacionalista,1996,2018,86.1,2000,68019
-BOL,UCS,Unidad Civica Solidaridad,1996,2005,17.5,1996,68021
+BOL,CONDEPA,Conciencia de Patria,1996,2003,10.4,1996,68016
 BOL,FRI,Frente Revolucionario de Izquierda,2000,2000,5.9,2000,68022
 BOL,IU,Izquierda Unida,1996,2004,43.4,2004,68023
-BOL,PS,Partido Socialista,2001,2005,33.4,2002,68024
-BOL,NFR,Nueva Fuerza Republicana,1998,2005,21,2002,68025
-BOL,MIP,Movimiento Indígena Pachakuti,2002,2005,33.4,2002,68027
-BOL,,UN,2005,2005,14.2,2005,68029
 BOL,,Jorge Tuto Quiroga,2005,2005,9.2,2005,68031
+BOL,MAS,Movimiento al Socialismo,2009,2010,79.1,2010,201
+BOL,MAS,Movimiento al Socialismo,2002,2018,88,2016,68001
+BOL,MBL,Movimiento Bolivia Libre,1996,2006,9.1,1996,68013
+BOL,MIR,Movimiento de Izquierda Revolucionaria,1996,2018,26.8,2001,68005
+BOL,MIP,Movimiento Indígena Pachakuti,2002,2005,33.4,2002,68027
+BOL,MNR,Movimiento Nacionalista Revolucionario,1996,2018,44.5,2001,68004
+BOL,MSM,Movimiento sin Miedo,2003,2015,46.1,2004,68009
+BOL,NFR,Nueva Fuerza Republicana,1998,2005,21,2002,68025
 BOL,PC,Partido Comunista Boliviano,2004,2004,6.6,2004,68034
-BOL,VS,Vanguardia Socialista de Bolivia,1997,2002,30.9,1997,68035
+BOL,PS,Partido Socialista,2001,2005,33.4,2002,68024
+BOL,PODEMOS,Poder Democrático Social,2009,2010,10.2,2009,202
+BOL,PODEMOS,Poder Democrático Social,2006,2018,15.7,2006,68002
+BOL,,UN,2005,2005,14.2,2005,68029
+BOL,UCS,Unidad Civica Solidaridad,1996,2005,17.5,1996,68021
 BOL,UD,Unidad Demócrata,2015,2018,7.8,2015,68040
-BRA,PT,Partido dos Trabalhadores,1995,2018,72.5,2018,76001
-BRA,PMDB,Partido do Movimento Democrático Brasileiro,1995,2018,34.6,1995,76003
+BOL,UN,Unidad Nacional,2009,2010,19.8,2009,203
+BOL,UN,Unidad Nacional,2006,2018,6.9,2018,68003
+BOL,VS,Vanguardia Socialista de Bolivia,1997,2002,30.9,1997,68035
 BRA,PC do B,Partido Comunista do Brasil,1995,2018,18.6,2004,76004
-BRA,PTB,Partido Trabalhista Brasileiro,1995,2018,11.6,1996,76007
-BRA,PDT,Partido Democrático Trabalhista,1995,2018,43.2,2004,76008
-BRA,PV,Partido Verde,1998,2018,6.2,2016,76009
-BRA,PP,Partido Progressita,1996,2017,6,1997,76010
-BRA,PSDB,Partido da Social Democracia Brasileira,1995,2017,32.9,2015,76011
-BRA,PSL,Partido Social Liberal,2004,2018,5.9,2004,76019
 BRA,PFL,Partido Da Frente Liberal,1995,2006,11.3,1995,76020
+BRA,PSDB,Partido da Social Democracia Brasileira,2009,2010,16.6,2010,311
+BRA,PSDB,Partido da Social Democracia Brasileira,1995,2017,32.9,2015,76011
+BRA,PDT,Partido Democrático Trabalhista,1995,2018,43.2,2004,76008
+BRA,PMDB,Partido do Movimento Democrático Brasileiro,2009,2010,13.4,2009,303
+BRA,PMDB,Partido do Movimento Democrático Brasileiro,1995,2018,34.6,1995,76003
+BRA,PT,Partido dos Trabalhadores,2009,2010,63.9,2010,301
+BRA,PT,Partido dos Trabalhadores,1995,2018,72.5,2018,76001
 BRA,PL,Partido Liberal,1995,2006,41.6,1997,76021
+BRA,PP,Partido Progressita,1996,2017,6,1997,76010
 BRA,PSD,Partido Social Democratico,1995,2018,8.2,2018,76028
-CHL,PDC,Partido Demócrata Cristiano,1995,2018,40.9,1995,152001
-CHL,PPD,Partido por la Democracia,1995,2018,34,1998,152002
-CHL,PS,Partido Socialista,1995,2018,29.8,2013,152003
-CHL,PRSD,Partido Radical Social Democrático,1995,2017,25.1,2017,152004
-CHL,UDI,Unión Demócrata Independiente,1995,2018,29.4,2003,152005
-CHL,RN,Renovacion Nacional,1995,2018,30.5,2018,152006
-CHL,PC,Partido Comunista,1995,2018,8.7,2015,152007
-CHL,PH,Partido Humanista,2006,2016,18.1,2016,152008
-CHL,UCCP,Unión de Centro Centro Progresista,1995,2003,11.3,1998,152010
-CHL,PHV,Partido Humanista Verde,1995,2005,40.8,1996,152011
-CHL,,Concertación de Partidos por la Democracia,2005,2005,5.7,2005,152012
+BRA,PSL,Partido Social Liberal,2004,2018,5.9,2004,76019
+BRA,PTB,Partido Trabalhista Brasileiro,1995,2018,11.6,1996,76007
+BRA,PV,Partido Verde,2009,2010,6.3,2010,309
+BRA,PV,Partido Verde,1998,2018,6.2,2016,76009
 CHL,,Alianza por Chile,2004,2005,7.8,2004,152013
-CHL,,Concertación,2003,2004,9.1,2004,152021
-CHL,,Independiente,1995,1995,7.1,1995,152024
 CHL,,Chile Vamos,2018,2018,8.2,2018,152036
+CHL,,Concertación,2003,2004,9.1,2004,152021
+CHL,,Concertación de Partidos por la Democracia,2005,2005,5.7,2005,152012
 CHL,,Frente Amplio,2018,2018,10.2,2018,152037
-COL,,Partido Social de Unidad Nacional,2006,2018,39.3,2011,170001
-COL,CR,Partido Cambio Radical,2006,2018,6.2,2007,170002
-COL,PCC,Partido Conservador Colombiano,1996,2018,33.3,1996,170003
-COL,PLC,Partido Liberal Colombiano,1996,2018,77.6,2005,170004
-COL,PDA,Partido Polo Democrático Alternativo,2005,2018,12.4,2007,170005
-COL,IN,Independiente,1998,2005,14.3,1998,170013
-COL,PVC,Partido Verde Opción Centro,2011,2015,6.1,2011,170014
-COL,,Movimiento Nacional Conservador,1997,1997,27.1,1997,170026
-COL,,Movimiento Fuerza Progresista,1996,2018,21.1,2018,170031
-COL,CD,Centro Democrático,2015,2017,21.2,2016,170037
+CHL,,Independiente,1995,1995,7.1,1995,152024
+CHL,PC,Partido Comunista,2009,2010,5.1,2009,607
+CHL,PC,Partido Comunista,1995,2018,8.7,2015,152007
+CHL,PDC,Partido Demócrata Cristiano,2009,2010,27.9,2009,601
+CHL,PDC,Partido Demócrata Cristiano,1995,2018,40.9,1995,152001
+CHL,PH,Partido Humanista,2006,2016,18.1,2016,152008
+CHL,PHV,Partido Humanista Verde,2010,2010,6.1,2010,611
+CHL,PHV,Partido Humanista Verde,1995,2005,40.8,1996,152011
+CHL,PPD,Partido por la Democracia,2009,2010,13.2,2010,602
+CHL,PPD,Partido por la Democracia,1995,2018,34,1998,152002
+CHL,PRSD,Partido Radical Social Democrático,1995,2017,25.1,2017,152004
+CHL,PS,Partido Socialista,2009,2010,15.9,2009,603
+CHL,PS,Partido Socialista,1995,2018,29.8,2013,152003
+CHL,RN,Renovacion Nacional,1995,2018,30.5,2018,152006
+CHL,RN,Renovación Nacional,2009,2010,25,2009,606
+CHL,UCCP,Unión de Centro Centro Progresista,1995,2003,11.3,1998,152010
+CHL,UDI,Unión Demócrata Independiente,2009,2010,12.3,2010,605
+CHL,UDI,Unión Demócrata Independiente,1995,2018,29.4,2003,152005
 COL,PVC,Alianza Verde,2016,2018,12.5,2017,170038
 COL,,Centro Democratico,2018,2018,35,2018,170042
-CRI,PLN,Partido de Liberación Nacional,1998,2018,65.8,2011,188001
-CRI,PAC,Partido Accion Ciudadana,2001,2018,51.5,2018,188002
-CRI,ML,Movimiento Libertario,2001,2018,6.6,2005,188003
-CRI,PUSC,Partido Unidad Social Cristiana,1998,2018,43.7,2001,188004
-CRI,FD,Partido Fuerza Democrática,1997,2008,45.8,1997,188006
+COL,CD,Centro Democrático,2015,2017,21.2,2016,170037
+COL,IN,Independiente,1998,2005,14.3,1998,170013
+COL,,Movimiento Fuerza Progresista,1996,2018,21.1,2018,170031
+COL,,Movimiento Nacional Conservador,1997,1997,27.1,1997,170026
+COL,CR,Partido Cambio Radical,2009,2010,14.5,2010,402
+COL,CR,Partido Cambio Radical,2006,2018,6.2,2007,170002
+COL,,Partido Colombia Democrática,2010,2010,44,2010,409
+COL,PCC,Partido Conservador Colombiano,2009,2009,12.6,2009,403
+COL,PCC,Partido Conservador Colombiano,1996,2018,33.3,1996,170003
+COL,PLC,Partido Liberal Colombiano,2009,2010,36.7,2009,404
+COL,PLC,Partido Liberal Colombiano,1996,2018,77.6,2005,170004
+COL,PDA,Partido Polo Democrático Alternativo,2009,2010,10,2009,405
+COL,PDA,Partido Polo Democrático Alternativo,2005,2018,12.4,2007,170005
+COL,,Partido Social de Unidad Nacional,2009,2010,39.5,2009,401
+COL,,Partido Social de Unidad Nacional,2006,2018,39.3,2011,170001
+COL,PVC,Partido Verde Opci,2011,2015,6.1,2011,170014
 CRI,,Frente Amplio,2011,2018,10.3,2016,188016
+CRI,ML,Movimiento Libertario,2009,2010,7,2009,503
+CRI,ML,Movimiento Libertario,2001,2018,6.6,2005,188003
+CRI,PAC,Partido Accion Ciudadana,2001,2018,51.5,2018,188002
+CRI,PAC,Partido Acción Ciudadana,2009,2010,14.7,2009,502
+CRI,PLN,Partido de Liberaci,1998,2018,65.8,2011,188001
+CRI,PLN,Partido de Liberación Nacional,2009,2010,73,2009,501
 CRI,,Partido Demócrata,1997,1997,53.2,1997,188017
+CRI,FD,Partido Fuerza Democrática,1997,2008,45.8,1997,188006
 CRI,PRN,Partido Restauracion Nacional,2013,2018,20.9,2018,188020
+CRI,PUSC,Partido Unidad Social Cristiana,2009,2010,22.2,2010,504
+CRI,PUSC,Partido Unidad Social Cristiana,1998,2018,43.7,2001,188004
+DOM,PLD,Partido de la Liberación Dominicana,2009,2010,48.2,2010,1901
 DOM,PLD,Partido de la Liberación Dominicana,2005,2018,79.6,2015,214001
-DOM,PRD,Partido Revolucionario Dominicano,2005,2018,56.5,2011,214002
 DOM,PRSC,Partido Reformista Social Cristiano,2005,2018,17.8,2005,214003
+DOM,PRD,Partido Revolucionario Dominicano,2009,2010,50.4,2009,1902
+DOM,PRD,Partido Revolucionario Dominicano,2005,2018,56.5,2011,214002
 DOM,Mayoritario,Partido Revolucionario Moderno,2015,2018,25.6,2016,214023
-ECU,,Movimiento Alianza País,2006,2016,83,2011,218001
-ECU,MPD,Movimiento Popular Democrático,1996,2016,5.6,2003,218003
-ECU,ID,Izquierda Democrática,1997,2018,95.4,1997,218004
-ECU,PRE,Partido Roldosista Ecuatoriano,1996,2011,42.4,1996,218005
-ECU,PRIAN,Partido Renovador Inst,2003,2016,35.1,2006,218009
-ECU,PSC,Partido Social Cristiano,1996,2018,40.3,2001,218010
-ECU,,Partido Sociedad Patriótica,2003,2018,13,2006,218011
-ECU,DP,Democracia Popular,1996,2011,23.1,1998,218012
 ECU,,Alianza RED,1996,2006,11.2,2006,218019
-ECU,,Pachakutic,1996,2017,11.1,1996,218026
-ECU,PAIS,Movimiento Patria Altiva y Soberana,2013,2018,94.1,2013,218032
 ECU,CREO,Creando Oportunidades,2015,2017,21.4,2017,218033
 ECU,CREO,Creando Oportunidades,2016,2018,21,2016,218035
-SLV,FML,Frente Farabundo Martí para la Liberación Nacional,1996,2018,53.9,2008,222001
-SLV,ARENA,Alianza Republicana Nacionalista,1996,2018,58.3,2005,222002
-SLV,PCN,Partido de Conciliación Nacional,1996,2017,27.6,1996,222003
-SLV,PDC,Partido Demócrata Cristiano,1996,2013,8.8,1996,222004
-SLV,CDU,Centro Demócrata Unido,1998,2018,10.2,1998,222005
-SLV,GANA,Gran Alianza por la Unidad Nacional,2011,2018,17.4,2013,222022
-SLV,FDR,Frente Democrático Revolucionario,1998,1998,9,1998,222025
-SLV,MSN,Movimiento de Solidaridad Nacional,1997,1997,49.4,1997,222028
-SLV,,Nuevas Ideas,2018,2018,37.8,2018,222031
-GTM,UNE,Unidad Nacional de Esperanza,2006,2017,52.6,2007,320001
-GTM,PP,Partido Patriota,2005,2018,51.5,2011,320002
-GTM,GANA,Gran Alianza Nacional,2003,2015,50.8,2003,320003
-GTM,PU,Partido Unionista,2003,2017,5.3,2003,320006
-GTM,FRG,Frente Republicano Guatemalteco,1996,2018,28.7,1996,320007
-GTM,UCN,Unión del Cambio Nacional,1996,2018,11.6,1996,320008
-GTM,PAN,Partido de Avanzada Nacional,1996,2018,70.1,1998,320009
-GTM,DCG,Democracia Cristiana Guatemalteca,1996,2008,53.4,1997,320012
+ECU,DP,Democracia Popular,1996,2011,23.1,1998,218012
+ECU,ID,Izquierda Democrática,1997,2018,95.4,1997,218004
+ECU,,Movimiento Alianza Pa,2006,2016,83,2011,218001
+ECU,,Movimiento Alianza País,2009,2010,72.5,2010,701
+ECU,PAIS,Movimiento Patria Altiva y Soberana,2013,2018,94.1,2013,218032
+ECU,MPD,Movimiento Popular Democrático,1996,2016,5.6,2003,218003
+ECU,,Pachakutic,1996,2017,11.1,1996,218026
+ECU,PRIAN,Partido Renovador Inst,2003,2016,35.1,2006,218009
+ECU,PRE,Partido Roldosista Ecuatoriano,1996,2011,42.4,1996,218005
+ECU,PSC,Partido Social Cristiano,2009,2010,10.7,2009,710
+ECU,PSC,Partido Social Cristiano,1996,2018,40.3,2001,218010
+ECU,,Partido Sociedad Patriótica,2009,2010,12,2010,711
+ECU,,Partido Sociedad Patriótica,2003,2018,13,2006,218011
+ESP,IU/ICV,Izquierda Unida,1998,2008,9.9,1998,724003
+ESP,PP,Partido Popular,2009,2009,32.7,2009,1802
+ESP,PP,Partido Popular,1998,2008,41.9,1998,724002
+ESP,PSOE,Partido Socialista Obrero Español,2009,2009,53.6,2009,1801
+ESP,PSOE,Partido Socialista Obrero Español,1998,2008,56,2004,724001
+GTM,ARDE,Acción Reconciliadora Democrática,1997,1997,32.3,1997,320037
 GTM,ANN,Alianza Nueva Nación,2001,2008,7.8,2001,320014
+GTM,CREO,Compromiso Renovaci,2011,2018,10.8,2011,320032
+GTM,DCG,Democracia Cristiana Guatemalteca,1996,2008,53.4,1997,320012
+GTM,FCN,Frente de Convergencia Nacional,2016,2018,51.2,2016,320039
+GTM,FRG,Frente Republicano Guatemalteco,1996,2018,28.7,1996,320007
+GTM,GANA,Gran Alianza Nacional,2003,2015,50.8,2003,320003
+GTM,LIDER,Libertad Democrática Renovada,2011,2018,46.8,2015,320033
 GTM,MLN,Movimiento de Liberación Nacional,1996,2005,23.1,2005,320017
 GTM,,No documentado,2005,2005,7.1,2005,320025
 GTM,,No documentado,2005,2005,7.2,2005,320029
-GTM,CREO,Compromiso Renovación y Orden,2011,2018,10.8,2011,320032
-GTM,LIDER,Libertad Democrática Renovada,2011,2018,46.8,2015,320033
+GTM,PAN,Partido de Avanzada Nacional,1996,2018,70.1,1998,320009
 GTM,PDC,Partido Demócrata Cristiano,2001,2003,6.1,2001,320036
-GTM,ARDE,Acción Reconciliadora Democrática,1997,1997,32.3,1997,320037
-GTM,UNO,Unidad Nacionalista Organizada,1997,1997,12.7,1997,320038
-GTM,FCN,Frente de Convergencia Nacional,2016,2018,51.2,2016,320039
+GTM,PP,Partido Patriota,2009,2010,57.4,2010,902
+GTM,PP,Partido Patriota,2005,2018,51.5,2011,320002
+GTM,PU,Partido Unionista,2003,2017,5.3,2003,320006
+GTM,UNE,Unidad Nacional de Esperanza,2009,2010,39.6,2009,901
+GTM,UNE,Unidad Nacional de Esperanza,2006,2017,52.6,2007,320001
 GTM,,Unidad nacional de la esperanza,2003,2018,22.9,2018,320900
-HND,PL,Partido Liberal,1996,2018,64.2,1998,340001
-HND,PNH,Partido Nacional de Honduras,1996,2018,100,1997,340002
-HND,LIBRE,El Partido Libertad y Refundación,2013,2018,23.8,2013,340006
+GTM,UNO,Unidad Nacionalista Organizada,1997,1997,12.7,1997,320038
+GTM,UCN,Unión del Cambio Nacional,1996,2018,11.6,1996,320008
 HND,PAC,El Partido Anti Corrupción,2013,2016,17.9,2016,340007
-MEX,PAN,Partido Acción Nacional,1995,2018,100,1997,484001
-MEX,PRI,Partido Revolucionario Institucional,1995,2018,49,2011,484002
-MEX,PRD,Partido de la Revolución Democrática,1995,2018,32.7,2005,484003
-MEX,PVEM,Partido Verde Ecologista de México,1996,2018,8,2003,484004
+HND,LIBRE,El Partido Libertad y Refundación,2013,2018,23.8,2013,340006
+HND,PL,Partido Liberal,2009,2010,58.1,2010,1001
+HND,PL,Partido Liberal,1996,2018,64.2,1998,340001
+HND,PNH,Partido Nacional de Honduras,2009,2010,52.2,2009,1002
+HND,PNH,Partido Nacional de Honduras,1996,2018,100,1997,340002
 MEX,MORENA,Movimiento Regeneracion Nacional,2015,2018,56.7,2018,484015
-NIC,FSLN,Partido Frente Sandinista de Liberación Nacional,1997,2018,94.2,2015,558001
-NIC,PLC,Partido Liberal Constitucionalista,1997,2018,46.2,2005,558002
+MEX,PAN,Partido Acción Nacional,2009,2010,30.2,2010,1101
+MEX,PAN,Partido Acción Nacional,1995,2018,100,1997,484001
+MEX,PRD,Partido de la Revolución Democrática,2009,2010,13,2010,1103
+MEX,PRD,Partido de la Revolución Democrática,1995,2018,32.7,2005,484003
+MEX,PRI,Partido Revolucionario Institucional,2009,2010,53.6,2009,1102
+MEX,PRI,Partido Revolucionario Institucional,1995,2018,49,2011,484002
+MEX,PVEM,Partido Verde Ecologista de México,1996,2018,8,2003,484004
+NIC,FLN,Frente de Liberación Nacional,1996,1996,36.8,1996,558943
+NIC,PAL,Partido Alianza Liberal,1996,1996,52.3,1996,558942
 NIC,ALN,Partido Alianza Liberal Nicaragüense,1996,2013,22.8,2006,558003
 NIC,CCN,Partido Camino Cristiano Nicaragüense,1997,2008,45.7,1997,558007
 NIC,PC,Partido Conservador,1998,2013,15,1998,558008
-NIC,MRS,Partido Movimiento Renovador Sandinista,1998,2018,13.2,2006,558010
+NIC,FSLN,Partido Frente Sandinista de Liberación Nacional,2009,2010,62.7,2009,1201
+NIC,FSLN,Partido Frente Sandinista de Liberación Nacional,1997,2018,94.2,2015,558001
+NIC,PLC,Partido Liberal Constitucionalista,2009,2010,39.4,2010,1202
+NIC,PLC,Partido Liberal Constitucionalista,1997,2018,46.2,2005,558002
 NIC,PLI,Partido Liberal Independiente,2011,2018,24.8,2011,558018
-NIC,PAL,Partido Alianza Liberal,1996,1996,52.3,1996,558942
-NIC,FLN,Frente de Liberación Nacional,1996,1996,36.8,1996,558943
-PAN,PRD,Partido Revolucionario Democrático,1996,2018,69.1,2003,591001
-PAN,CD,Partido Cambio Democratico,2001,2018,46.6,2018,591004
-PAN,PP,Partido Panameñista,2007,2018,44.8,2015,591005
+NIC,MRS,Partido Movimiento Renovador Sandinista,1998,2018,13.2,2006,558010
 PAN,PA,Partido Arnulfista,1996,2006,65,1997,591008
+PAN,CD,Partido Cambio Democratico,2001,2018,46.6,2018,591004
+PAN,CD,Partido Cambio Democrático,2009,2010,58.5,2009,1304
+PAN,,Partido Panameñista,2009,2010,12.5,2009,1305
+PAN,PP,Partido Panameñista,2007,2018,44.8,2015,591005
+PAN,PRD,Partido Revolucionario Democrático,2009,2010,50.7,2010,1301
+PAN,PRD,Partido Revolucionario Democrático,1996,2018,69.1,2003,591001
 PAN,PS,Partido Solidaridad,2001,2006,16.6,2003,591009
 PAN,,PDC,1997,2003,10.9,2001,591012
 PAN,,,1996,1998,30.8,1996,591013
 PAN,,,1997,1997,33.7,1997,591015
-PRY,PLRA,Partido Liberal Radical Autentico,1995,2018,34.7,2018,600001
-PRY,PPS,Partido País Solidario,2008,2018,38.8,2008,600002
-PRY,PEN,Partido Encuentro Nacional,1995,2018,26.1,2008,600003
-PRY,MPT,Movimiento Popular Tekojojá,2008,2018,6.6,2016,600006
-PRY,ANR,Asociación Nacional Republicana,1997,2018,100,1997,600007
-PRY,PRF,Partido Revolucionario Febrerista,1998,2018,19.2,2007,600010
-PRY,PC,Partido Colorado,1995,1996,63.8,1996,600013
-PER,PAP,Partido Aprista Peruano,2001,2018,56.3,2003,604001
-PER,PNP,Partido Nacionalista Peruano,2008,2018,56.9,2011,604002
 PER,AP,Accion Popular,1996,2018,14.7,2018,604003
-PER,PC,Perú Posible,1995,2015,49.7,2001,604004
+PER,AP,Acción Popular,2009,2010,7.4,2010,1503
+PER,,Alianza para el Progreso,2016,2018,5.9,2018,604030
+PER,APRA,Alianza Popular Revolucionaria Americana,1995,1998,9.7,1996,604019
+PER,AF,Alianza por el Futuro,2006,2007,6.9,2006,604013
+PER,,Cambio,1995,1998,62.1,1996,604017
+PER,,Frente Amplio,2016,2018,10.8,2016,604033
+PER,Somos Perú,Frente de Centro,2006,2007,8.9,2006,604014
+PER,antiguo,Fuerza Popular,2016,2018,52.3,2017,604028
+PER,IU,Izquierda Unida,1996,1997,6.2,1996,604025
+PER,MIA,Movimiento Independiente Agrario,1997,1997,5.9,1997,604024
+PER,PAP,Partido Aprista Peruano,2009,2010,19.7,2009,1501
+PER,PAP,Partido Aprista Peruano,2001,2018,56.3,2003,604001
+PER,,Partido Independiente,1995,2018,19.3,1998,604090
+PER,PNP,Partido Nacionalista Peruano,2009,2010,23.9,2009,1502
+PER,PNP,Partido Nacionalista Peruano,2008,2018,56.9,2011,604002
+PER,PPC,Partido Popular Cristiano,2009,2010,14.9,2010,1505
 PER,PPC,Partido Popular Cristiano,1995,2018,31.8,1997,604005
+PER,PC,Perú Posible,2009,2010,13.1,2010,1504
+PER,PC,Perú Posible,1995,2015,49.7,2001,604004
+PER,PPK,Peruanos por el Kambio,2016,2018,33.7,2016,604031
+PER,SC,Sí Cumple,2009,2010,21.7,2009,1508
 PER,SC,Sí Cumple,2005,2015,43.5,2015,604008
+PER,PSN,Solidaridad Nacional,2009,2010,12.4,2010,1510
+PER,SP,Somos Perú,2009,2010,5,2010,1509
 PER,SP,Somos Perú,1995,2018,34.2,1998,604009
+PER,antiguo,Todos por el Peru,2016,2018,7.6,2018,604029
+PER,Partido Popular Cristiano,Unidad Nacional,2009,2010,10.8,2009,1511
 PER,Partido Popular Cristiano,Unidad Nacional,2001,2015,16.9,2006,604011
 PER,UPP,Unión por el Perú,1995,2008,9.4,1996,604012
-PER,AF,Alianza por el Futuro,2006,2007,6.9,2006,604013
-PER,Somos Perú,Frente de Centro,2006,2007,8.9,2006,604014
 PER,,Unión por el Perú,1998,2007,34.7,2007,604015
-PER,,Cambio,1995,1998,62.1,1996,604017
 PER,,Vamos Vecino,1998,1998,6.3,1998,604018
-PER,APRA,Alianza Popular Revolucionaria Americana,1995,1998,9.7,1996,604019
-PER,MIA,Movimiento Independiente Agrario,1997,1997,5.9,1997,604024
-PER,IU,Izquierda Unida,1996,1997,6.2,1996,604025
-PER,antiguo,Fuerza Popular,2016,2018,52.3,2017,604028
-PER,antiguo,Todos por el Peru,2016,2018,7.6,2018,604029
-PER,,Alianza para el Progreso,2016,2018,5.9,2018,604030
-PER,PPK,Peruanos por el Kambio,2016,2018,33.7,2016,604031
-PER,,Frente Amplio,2016,2018,10.8,2016,604033
-PER,,Partido Independiente,1995,2018,19.3,1998,604090
-ESP,PSOE,Partido Socialista Obrero Español,1998,2008,56,2004,724001
-ESP,PP,Partido Popular,1998,2008,41.9,1998,724002
-ESP,IU/ICV,Izquierda Unida,1998,2008,9.9,1998,724003
-URY,FA,Frente Amplio,1995,2018,73.4,2005,858001
-URY,PN,Partido Nacional,1995,2018,46.1,1997,858002
-URY,PC,Partido Colorado,1995,2018,53.9,1997,858003
-URY,,Nuevo Espacio,1995,2003,6.1,1995,858006
+PRY,ANR,Asociación Nacional Republicana,2009,2010,55.2,2010,1407
+PRY,ANR,Asociación Nacional Republicana,1997,2018,100,1997,600007
+PRY,MPT,Movimiento Popular Tekojojá,2008,2018,6.6,2016,600006
+PRY,PC,Partido Colorado,1995,1996,63.8,1996,600013
+PRY,PEN,Partido Encuentro Nacional,1995,2018,26.1,2008,600003
+PRY,PLRA,Partido Liberal Radical Autentico,1995,2018,34.7,2018,600001
+PRY,PLRA,Partido Liberal Radical Auténtico,2009,2010,32.9,2010,1401
+PRY,PPS,Partido País Solidario,2008,2018,38.8,2008,600002
+PRY,PRF,Partido Revolucionario Febrerista,1998,2018,19.2,2007,600010
+PRY,UNACE,Unión Nacional de Ciudadanos Éticos,2009,2010,7.4,2009,1408
+SLV,ARENA,Alianza Republicana Nacionalista,2009,2010,42.5,2010,802
+SLV,ARENA,Alianza Republicana Nacionalista,1996,2018,58.3,2005,222002
+SLV,CDU,Centro Demócrata Unido,1998,2018,10.2,1998,222005
+SLV,FDR,Frente Democrático Revolucionario,1998,1998,9,1998,222025
+SLV,FMLN,Frente Farabundo Martí para la Liberación Nacional,2009,2010,75.6,2009,801
+SLV,FML,Frente Farabundo Martí para la Liberación Nacional,1996,2018,53.9,2008,222001
+SLV,GANA,Gran Alianza por la Unidad Nacional,2011,2018,17.4,2013,222022
+SLV,MSN,Movimiento de Solidaridad Nacional,1997,1997,49.4,1997,222028
+SLV,,Nuevas Ideas,2018,2018,37.8,2018,222031
+SLV,PCN,Partido de Conciliación Nacional,1996,2017,27.6,1996,222003
+SLV,PDC,Partido Demócrata Cristiano,1996,2013,8.8,1996,222004
 URY,,Encuentro Progresista,1998,2001,57,2001,858007
-VEN,PSUV,Partido Socialista Unido de Venezuela,2007,2018,72,2007,862001
-VEN,PPT,Patria Para Todos,1997,2018,7.5,1997,862002
-VEN,UNT,Un Nuevo Tiempo,2006,2018,17.5,2006,862006
-VEN,PJ,Primero Justicia,2001,2018,13.7,2008,862007
+URY,FA,Frente Amplio,2009,2010,67.9,2010,1601
+URY,FA,Frente Amplio,1995,2018,73.4,2005,858001
+URY,,Nuevo Espacio,1995,2003,6.1,1995,858006
+URY,PC,Partido Colorado,2009,2010,11.2,2009,1603
+URY,PC,Partido Colorado,1995,2018,53.9,1997,858003
+URY,PN,Partido Nacional,2009,2010,25.9,2009,1602
+URY,PN,Partido Nacional,1995,2018,46.1,1997,858002
+VEN,AD,Acción Democrática,2009,2010,8.6,2009,1708
 VEN,AD,Acción Democrática,1997,2018,46.5,1997,862008
-VEN,COPE,Comite de Organización Política Electoral Independ,1997,2018,5.4,2003,862009
-VEN,MAS,Movimiento al Socialismo,1996,2016,13.1,1996,862010
-VEN,PV,Proyecto Venezuela,1997,2011,29,1998,862011
-VEN,PODEMOS,Por la Democracia Social,2003,2015,5.2,2006,862012
-VEN,MVR,Movimiento V República,1998,2006,80.9,2005,862018
-VEN,,Convergencia,1996,2001,13.7,1996,862022
-VEN,,Partidos independientes,2001,2001,5.8,2001,862023
-VEN,MUD,Mesa de la Unidad Democrática,2011,2018,49.4,2016,862024
 VEN,,Apertura a la Participación Nacional,1997,1998,5.2,1997,862030
+VEN,COPE,Comite de Organización Política Electoral Independ,1997,2018,5.4,2003,862009
+VEN,,Convergencia,1996,2001,13.7,1996,862022
+VEN,MUD,Mesa de la Unidad Democrática,2011,2018,49.4,2016,862024
+VEN,MAS,Movimiento al Socialismo,1996,2016,13.1,1996,862010
 VEN,MBR,Movimiento Bolivariano Revolucionario,1996,1997,73.2,1996,862031
+VEN,MEP,Movimiento Electoral del Pueblo,2010,2010,9.2,2010,1719
+VEN,MVR,Movimiento V República,1998,2006,80.9,2005,862018
+VEN,PSUV,Partido Socialista Unido de Venezuela,2009,2010,73.9,2009,1701
+VEN,PSUV,Partido Socialista Unido de Venezuela,2007,2018,72,2007,862001
+VEN,,Partidos independientes,2001,2001,5.8,2001,862023
+VEN,PPT,Patria Para Todos,1997,2018,7.5,1997,862002
+VEN,PODEMOS,Por la Democracia Social,2003,2015,5.2,2006,862012
+VEN,PJ,Primero Justicia,2009,2010,6.4,2010,1707
+VEN,PJ,Primero Justicia,2001,2018,13.7,2008,862007
+VEN,PV,Proyecto Venezuela,1997,2011,29,1998,862011
+VEN,UNT,Un Nuevo Tiempo,2009,2010,8.7,2010,1706
+VEN,UNT,Un Nuevo Tiempo,2006,2018,17.5,2006,862006
