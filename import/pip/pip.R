@@ -3,15 +3,14 @@ library(countrycode)
 
 
 ## load PIP
-raw_pip <- read.csv("source__pip_ts.csv")
+raw_pip <- read_csv("source__pip_ts_csv.zip", locale = locale(encoding = "latin1"))
 
 
 ## load external Party Facts information
-partyfacts <- read.csv("https://partyfacts.herokuapp.com/download/external-parties-csv/") %>%
+partyfacts <- 
+  read.csv("https://partyfacts.herokuapp.com/download/external-parties-csv/") %>%
   filter(dataset_key == "manifesto") %>%
-  mutate(
-    dataset_party_id = as.numeric(as.character(dataset_party_id))
-  ) %>%
+  mutate(dataset_party_id = as.numeric(as.character(dataset_party_id))) %>%
   select(dataset_party_id, name_english, partyfacts_id)
 
 
@@ -33,22 +32,20 @@ pip_temp <-
   ) %>%
   ungroup()
 
-pip <- 
+pip_temp_2 <- 
   pip_temp %>% 
   select(country, name_english, year_first, year_last, p101, p102, partyfacts_id) %>%
   distinct() %>% 
-  filter(!is.na(p102) | !is.na(name_english)) %>% 
+  filter(!is.na(p102) | !is.na(name_english))
+
+pip <- 
+  pip_temp_2 %>% 
   group_by(p101) %>% 
   arrange(p102) %>% 
   slice(1L) %>% 
   ungroup() %>% 
-  filter(p102 != "NONA" | is.na(p102))
-
-
-## rename columns
-colnames(pip) <- c(
-  "country", "name_english", "year_first", "year_last", "party_id", "name_short", "partyfacts_id"
-)
+  filter(p102 != "NONA" | is.na(p102)) %>% 
+  rename(party_id = p101, name_short = p102)
 
 
 ## check duplicated party_id
@@ -56,4 +53,4 @@ duplicated(pip$party_id) %>% any()
 
 
 ## write csv
-write.csv(pip, "pip.csv", fileEncoding = "UTF-8", na = "", row.names = FALSE)
+write_csv(pip, "pip.csv", na = "")
