@@ -6,12 +6,19 @@ library(countrycode)
 raw_pip <- read_csv("source__pip_ts_csv.zip", locale = locale(encoding = "latin1"))
 
 
+if(FALSE) {
+  # make copy of Party Facts and Manifesto link file 
+  pf_raw <- 
+    read_csv("https://partyfacts.herokuapp.com/download/external-parties-csv/") %>%
+    filter(dataset_key == "manifesto") %>%
+    mutate(dataset_party_id = as.numeric(as.character(dataset_party_id))) %>%
+    select(dataset_party_id, name_english, partyfacts_id)
+  
+  write_csv(pf_raw, "pf-manifesto-ids.csv")
+}
+
 ## load external Party Facts information
-partyfacts <- 
-  read.csv("https://partyfacts.herokuapp.com/download/external-parties-csv/") %>%
-  filter(dataset_key == "manifesto") %>%
-  mutate(dataset_party_id = as.numeric(as.character(dataset_party_id))) %>%
-  select(dataset_party_id, name_english, partyfacts_id)
+partyfacts <- read_csv("pf-manifesto-ids.csv")
 
 
 ## keep only observation with already linked manifesto_id
@@ -34,18 +41,18 @@ pip_temp <-
 
 pip_temp_2 <- 
   pip_temp %>% 
-  select(country, name_english, year_first, year_last, p101, p102, partyfacts_id) %>%
+  select(country, name_short=p102, name_english, year_first, year_last, party_id=p101, partyfacts_id) %>%
   distinct() %>% 
-  filter(!is.na(p102) | !is.na(name_english))
+  filter(!is.na(name_short) | !is.na(name_english)) 
 
 pip <- 
   pip_temp_2 %>% 
-  group_by(p101) %>% 
-  arrange(p102) %>% 
+  group_by(party_id) %>% 
+  arrange(name_short) %>% 
   slice(1L) %>% 
   ungroup() %>% 
-  filter(p102 != "NONA" | is.na(p102)) %>% 
-  rename(party_id = p101, name_short = p102)
+  filter(name_short != "NONA" | is.na(name_short)) %>% 
+  arrange(country, name_english)
 
 
 ## check duplicated party_id
