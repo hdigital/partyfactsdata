@@ -5,11 +5,11 @@ library(readstata13)
 
 
 get_lb_parties <- function(lb_file, var_country, var_party, year) {
-  party_keys <- 
+  party_keys <-
     read.dta13(lb_file, fromEncoding = "UTF-8", convert.factors = FALSE) %>%
     select(.data[[var_party]]) %>%
     pull()
-  
+
   read.dta13(lb_file, fromEncoding = "UTF-8") %>%
     select(.data[[var_country]], .data[[var_party]]) %>%
     mutate(
@@ -17,7 +17,7 @@ get_lb_parties <- function(lb_file, var_country, var_party, year) {
       party_key = party_keys,
       year = year
     ) %>%
-    rename(party = .data[[var_party]]) %>% 
+    rename(party = .data[[var_party]]) %>%
     select(country, year, party, party_key)
 }
 
@@ -27,7 +27,7 @@ get_lb_path <- function(file_part_path) {
 
 # tmp <- get_lb_parties(get_lb_path("_1995_data_english_v2014_06_27.dta"), "pais", "p33", 1995)
 
-lb_params <- 
+lb_params <-
   tribble(
     ~lb_file, ~var_country, ~var_party, ~year,
     get_lb_path("_1995_data_english_v2014_06_27.dta"), "pais", "p33", 1995,
@@ -51,13 +51,13 @@ lb_params <-
     get_lb_path("2016Eng_v20170205.dta"), "idenpa", "P15STGBS", 2016,
     get_lb_path("2017Eng_v20180117.dta"), "idenpa", "P16STGBS", 2017,
     get_lb_path("_2018_Eng_Stata_v20190303.dta"), "IDENPA", "P21STGBS.A", 2018
-)
+  )
 
 lb_tmp <- pmap(lb_params, ~ get_lb_parties(..1, ..2, ..3, ..4)) %>% bind_rows()
 
 
 ## fix some missing countries
-lb_tmp_2 <- 
+lb_tmp_2 <-
   lb_tmp %>%
   mutate(
     cntry = str_extract(party, "[:alpha:]{2}"),
@@ -70,9 +70,9 @@ lb_tmp_2 <-
 
 
 ## filter technicals & calculate share
-lb <- 
+lb <-
   lb_tmp_2 %>%
-  filter( ! party_key %in% c(-7, -4, -3, -2, -1, 92:97)) %>%
+  filter(!party_key %in% c(-7, -4, -3, -2, -1, 92:97)) %>%
   group_by(year, country) %>%
   mutate(t = n()) %>%
   group_by(year, country, party_key) %>%
@@ -97,7 +97,7 @@ lb <-
 
 
 ## extract party name
-lb_parties <- 
+lb_parties <-
   lb %>%
   mutate(
     party = str_extract(party, "(?<=[:punct:]).*"),
@@ -105,8 +105,9 @@ lb_parties <-
     name_short = str_extract(party, "(?<=\\()[[:alpha:][:space:]\\/]*")
   ) %>%
   select(country, name_short, name, year_first, year_last, share,
-         share_year=year, party_id=party_key) %>%
-  arrange(country, name) %>% 
+    share_year = year, party_id = party_key
+  ) %>%
+  arrange(country, name) %>%
   distinct()
 
 
