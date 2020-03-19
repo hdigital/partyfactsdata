@@ -1,23 +1,32 @@
 library(tidyverse)
-library(glue)
+library(lubridate)
 
 ps_all <- read_csv("parlspeech-mps.csv")
 
-# summarize party information from ParlSpeech
-ps_party <- ps_all %>% 
+# clean-up ParlSpeech MP data
+ps_clean <- 
+  ps_all %>% 
+  rename(country = iso3country) %>% 
   mutate(
+    country = if_else(country == "AUS", "AUT", country),
     party = case_when(
       country == "SWE" & party == "L" ~ "FP",
       country == "SWE" & party == "T" ~ "KD",
       TRUE ~ party
       ),
-    party_id = glue("{country}-{party}")
-    ) %>% 
+    party_id = glue::glue("{country}-{party}")
+    )
+
+# summarize party information from ParlSpeech
+ps_party <- 
+  ps_clean %>% 
+  filter( ! is.na(party)) %>% 
   group_by(party_id, country, party) %>% 
   summarise(
-    year_first = str_extract(date_first, "\\d*") %>% min(), 
-    year_last = str_extract(date_last, "\\d*") %>% max()
+    year_first = year(date_first) %>% min(), 
+    year_last = year(date_last) %>% max(),
+    partyfacts_id = first(party.facts.id)  # rename needed for PF linking on import
     ) %>%
   arrange(country, party, year_first)
 
-write_csv(ps_party, "parlspeech.csv")
+write_csv(ps_party, "parlspeech.csv", na = "")
