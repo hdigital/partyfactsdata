@@ -1,0 +1,163 @@
+country,country_iso,party,partyname,party_id
+AT,AUT,FPO,Freedom Party of Austria,AT-1
+AT,AUT,Gru,The Greens,AT-2
+AT,AUT,KPO,Communist Party of Austria,AT-3
+AT,AUT,OVP,Austrian People's Party,AT-4
+AT,AUT,SPO,Austrian Social Democratic Party,AT-5
+AU,AUS,AD,Australian Democrats,AU-1
+AU,AUS,ALP,Australian Labor Party,AU-2
+AU,AUS,LPA,Liberal Party of Australia,AU-3
+AU,AUS,NP,National Party of Australia,AU-4
+BE,BEL,AGA,Flemish Environmentalist Party (Agalev),BE-1
+BE,BEL,CVP,Flemish Cristian People's Party,BE-2
+BE,BEL,Eco,Ecolo,BE-3
+BE,BEL,FB,Flemish Nationalist Party,BE-4
+BE,BEL,FDF,Francophone Democratic Front,BE-5
+BE,BEL,PRL,Francophone Reform Liberal Party,BE-6
+BE,BEL,PS,Socialist Party,BE-7
+BE,BEL,PSC,Francophone Christian Democrat Party,BE-8
+BE,BEL,PVV,Flemish Party of Liberty and Progress,BE-9
+BE,BEL,SPSp,SP.A-Spirit,BE-10
+BE,BEL,VU,Flemish People's Union,BE-11
+CA,CAN,BQ,Bloc QuÈbÈcois,CA-1
+CA,CAN,CON,Canadian Conservative Party,CA-2
+CA,CAN,LPC,Liberal Party of Canada,CA-3
+CA,CAN,NDP,New Democratic Party,CA-4
+DE,DEU,CDU/C,Christian Democratic Union/Christian Social Union,DE-1
+DE,DEU,FDP,Free Democratic Party,DE-2
+DE,DEU,GR‹,Green Party,DE-3
+DE,DEU,NPD,National Democratic Party,DE-4
+DE,DEU,SPD,Social Democratic Party of Germany,DE-5
+DK,DNK,CC,Common Course,DK-1
+DK,DNK,CD,Centrumdemokraterne,DK-2
+DK,DNK,DKP,Danish Communist Party,DK-3
+DK,DNK,FP,Progress Party,DK-4
+DK,DNK,G,Greens,DK-5
+DK,DNK,KF,Konservative Folkeparti,DK-6
+DK,DNK,KrF,Kristeligt Folkeparti,DK-7
+DK,DNK,RF,???? name not given in L&H,DK-8
+DK,DNK,RV,Radikale Venstre,DK-9
+DK,DNK,SD,Socialdemokratiet i Danmark,DK-10
+DK,DNK,SF,Socialistisk Folkeparti,DK-11
+DK,DNK,V,"Venstre, Danmarks liberale parti",DK-12
+DK,DNK,VS,Left Socialists,DK-13
+ES,ESP,CDS,Democratic adn Social Centre,ES-1
+ES,ESP,CiU,ConvergËncia i UniÛ de Catalunya,ES-2
+ES,ESP,HB,Herri Batsuna,ES-3
+ES,ESP,IU,Izquerda Unida,ES-4
+ES,ESP,MUC,Communist Unity,ES-5
+ES,ESP,PNV,Partido Nacionalista Vasco,ES-6
+ES,ESP,PP,Partido Popular,ES-7
+ES,ESP,PRD,Democratic Reformist Party,ES-8
+ES,ESP,PSOE,Partido Socialista Obrero EspaÒol,ES-9
+FI,FIN,DA,Democratic Alternative,FI-1
+FI,FIN,FCL,Christian League,FI-2
+FI,FIN,FDPL,Finnish People's Democratic Union,FI-3
+FI,FIN,FRP,Rural Party,FI-4
+FI,FIN,KESK,Suomen Keskusta,FI-5
+FI,FIN,KOK,Kansallinen Kokoomus,FI-6
+FI,FIN,LPP,Liberal People's Party,FI-7
+FI,FIN,P,Pensioner's Party,FI-8
+FI,FIN,SDP,Suomen Sosialidemokraattinen Puolue,FI-9
+FI,FIN,SFP,Svenska Folkepartiet i Finland,FI-10
+FI,FIN,VIHR,Vihre‰ Liitto,FI-11
+FR,FRA,FN,Front National,FR-1
+FR,FRA,MRG,Left Radicals,FR-2
+FR,FRA,PCF,Parti Communiste Francais,FR-3
+FR,FRA,PS,Parti Socialiste,FR-4
+FR,FRA,RPR,Rassemblement pour la Republique,FR-5
+FR,FRA,UDF,Union pour la Democratie Francaise,FR-6
+FR,FRA,V,Les Verts,FR-7
+GR,GRC,KKE,Kommunistiko Koma Ellados,GR-1
+GR,GRC,KKEes,Communist Party of the Interior,GR-2
+GR,GRC,ND,Nea Dimokratia,GR-3
+GR,GRC,PASOK,Panellinio Sosialistiko Kinima,GR-4
+IE,IRL,DSP,Democratic Socialist Party,IE-1
+IE,IRL,FF,Fianna F&aacute;il,IE-2
+IE,IRL,FG,Fine Gael,IE-3
+IE,IRL,LB,Labour,IE-4
+IE,IRL,PD,Progressive Democrats,IE-5
+IE,IRL,SF,Sinn F&eacute;in,IE-6
+IE,IRL,WP,Workers Party,IE-7
+IL,ISR,AG,Agudat Israel,IL-1
+IL,ISR,Hada,Hazit Democratit le-Shalom ve-Shivayon,IL-2
+IL,ISR,Lab,Labor,IL-3
+IL,ISR,LIB,Liberal party,IL-4
+IL,ISR,Lik,Likud,IL-5
+IL,ISR,NRP,National Religious Party,IL-6
+IL,ISR,Shas,Shas,IL-7
+IS,ISL,CP,Citizens' Party,IS-1
+IS,ISL,PA,People's Alliance,IS-2
+IS,ISL,SDP,Social Democratic Party,IS-3
+IS,ISL,WA,Women's Alliance,IS-4
+IS,ISL,X-B,FramsÛknarflokkurinn,IS-5
+IS,ISL,X-D,Sj·lfstÊ?isflokkurinn,IS-6
+IT,ITA,DC,Christian Democratic Party,IT-1
+IT,ITA,DP,Proletarian Democracy,IT-2
+IT,ITA,Green,Federazione dei Verdi,IT-3
+IT,ITA,MSI,Italian Social Movement,IT-4
+IT,ITA,PDCI,Partito dei Comunisti Italiani,IT-5
+IT,ITA,PLI,Liberal Party,IT-6
+IT,ITA,PR,Radical Party,IT-7
+IT,ITA,PRI,Republican Party,IT-8
+IT,ITA,PSI,Socialist Party,IT-9
+IT,ITA,SDI,Socialisti Democratici Italiani,IT-10
+JP,JPN,CGP,Clean Government Party,JP-1
+JP,JPN,DSP,Democratic Socialist Party,JP-2
+JP,JPN,JCP,Japan Communist Party,JP-3
+JP,JPN,LDP,Liberal Democratic Party,JP-4
+JP,JPN,SDP,Social Democratic Party,JP-5
+JP,JPN,SOC,Socialist Party,JP-6
+LU,LUX,CSV,Christian Social People's Party,LU-1
+LU,LUX,DP,Democratic Party,LU-2
+LU,LUX,G,The Green,LU-3
+LU,LUX,KPL,Communist Party,LU-4
+LU,LUX,LSAP,Luxembourg Socialist Workers' Party,LU-5
+MT,MLT,MLP,Malta Labour Party,MT-1
+MT,MLT,NP,Nationalist Party,MT-2
+NL,NLD,CDA,Christen Democratisch Appe`l,NL-1
+NL,NLD,CPN,Communist Party of Netherlands,NL-2
+NL,NLD,D66,Democraten 66,NL-3
+NL,NLD,GPV,Reformed Political Union,NL-4
+NL,NLD,PPR,Radical Political Party,NL-5
+NL,NLD,PSP,Pacifist Socialist Party,NL-6
+NL,NLD,PvdA,Partij van de Arbeid,NL-7
+NL,NLD,RPF,Reformed Political Federation,NL-8
+NL,NLD,SGP,Staatkundig Gereformeerde Partij,NL-9
+NL,NLD,VVD,Volkspartij voor Vrijheid en Democratie,NL-10
+NO,NOR,DLF,Liberal People's Party,NO-1
+NO,NOR,DNA,Det Norske Arbeiderparti,NO-2
+NO,NOR,FrP,Fremskrittspartiet,NO-3
+NO,NOR,H,H¯yre,NO-4
+NO,NOR,KrF,Kristelig Folkeparti,NO-5
+NO,NOR,SF,Socialist Left Party,NO-6
+NO,NOR,Sp,Senterpartiet,NO-7
+NO,NOR,V,Venstre,NO-8
+NZ,NZL,DEM,New Zealand Democrats,NZ-1
+NZ,NZL,NP,New Zealand National Party,NZ-2
+NZ,NZL,NZLP,New Zealand Labour Party,NZ-3
+PT,PRT,CDS,People's Party,PT-1
+PT,PRT,DI,Democratic Intervention,PT-2
+PT,PRT,MDP,Democratic Movement,PT-3
+PT,PRT,PCP,Portuguese Communist Party,PT-4
+PT,PRT,PDC,Christian Democratic Party,PT-5
+PT,PRT,PEV,Ecology Party- Greens,PT-6
+PT,PRT,PRD,Democratic Renewal Party,PT-7
+PT,PRT,PS,Socialist Party,PT-8
+PT,PRT,PSD,Social Democratic Party,PT-9
+PT,PRT,PSR,Revolutionary Socialist Party,PT-10
+PT,PRT,UDP,Popular Democratic Union,PT-11
+SE,SWE,C,Centerpartiet,SE-1
+SE,SWE,COM,Communist Left,SE-2
+SE,SWE,FP,Folkpartiet Liberalerna,SE-3
+SE,SWE,KD,Kristdemokraterna,SE-4
+SE,SWE,M,Moderata Samlingspartiet,SE-5
+SE,SWE,MP,Miljˆpartiet de Grˆna,SE-6
+SE,SWE,SAP,Socialdemokratiska Arbetarepartiet,SE-7
+UK,GBR,Con,Conservative Party,UK-1
+UK,GBR,Lab,Labour Party,UK-2
+UK,GBR,LD,Liberal Democrats,UK-3
+UK,GBR,PCy,Plaid Cymru,UK-4
+UK,GBR,SNP,Scottish National Party,UK-5
+US,USA,Dem,Democratic Party,US-1
+US,USA,Rep,Republican Party,US-2
