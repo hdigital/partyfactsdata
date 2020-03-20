@@ -1,4 +1,4 @@
-﻿# Comparative Candidates Survey (CCS)
+# Comparative Candidates Survey (CCS)
 
 ## Source
 
@@ -9,7 +9,7 @@
 
 * imported only first `party_id` of a party across waves and years
 * extracted information from codebook (no script provided)
-* Party informations are extracted from the codebooks question "A1.For which party did you stand as a candidate?"
+* party information are extracted from the codebooks question "A1.For which party did you stand as a candidate?"
 * `party_id` consist of `wave_number-T1-A1-T3`
   + `wave_number` -- no variable in the dataset
   + "dataset_620" is wave 1
@@ -20,8 +20,8 @@
 
 ## Linking
 
-* For linking the CCS data, please use `ccs-parties-all.csv` in our GitHub Repository. There are all `party_id` for all waves and years with a `partyfacts_id`. Imported were only the first occured `party_id` of a party.
+* For linking the CCS data, please use `ccs-partyfacts.csv` in our GitHub Repository. There are all `party_id` for all waves and years with a `partyfacts_id`. Imported were only the first occured `party_id` of a party.
 
-## Todo later
+## Note
 
-* remove Party Facts IDs and migrate to harmonized CCS party IDs
+* `ccs-partyfacts.R` provided to add party short name to `ccs-partyfacts.csv` for double checking
