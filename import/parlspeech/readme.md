@@ -1,7 +1,8 @@
+# ParlSpeech
+
 ## Source
 
-Rauh, Christian, Pieter De Wilde, and Jan Schwalbach. 2017. “The ParlSpeech Data Set: Annotated Full-Text Vectors of 3.9 Million Plenary Speeches in the Key Legislative Chambers of Seven European States.” https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E4RSP9
-
+Rauh, Christian and Jan Schwalbach 2020. "The ParlSpeech V2 data set: Full-text corpora of 6.3 million parliamentary speeches in the key legislative chambers of nine representative democracies", https://doi.org/10.7910/DVN/L4OAKN, Harvard Dataverse, V1
 
 ## Import
 
