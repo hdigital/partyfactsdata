@@ -10,11 +10,8 @@ ps_clean <-
   mutate(
     country = case_when(
       country == "AUS" ~ "AUT",
-      country == "DNK" & party == "IA" ~ "GRL",
-      country == "DNK" & party == "NQ" ~ "GRL",
-      country == "DNK" & party == "FF" ~ "FRO",
-      country == "DNK" & party == "T" ~ "FRO",
-      country == "DNK" & party == "JF" ~ "FRO",
+      country == "DNK" & party %in% c("IA", "NQ") ~ "GRL",
+      country == "DNK" & party %in% c("FF", "T", "JF") ~ "FRO",
       TRUE ~ country
     ), # LH, UP
     party = case_when(
