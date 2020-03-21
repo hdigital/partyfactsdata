@@ -1,0 +1,163 @@
+country,country_iso,party,partyname,party_id
+AT,AUT,FPO,Freedom Party of Austria,AT-FPO
+AT,AUT,Gru,The Greens,AT-Gru
+AT,AUT,KPO,Communist Party of Austria,AT-KPO
+AT,AUT,OVP,Austrian People's Party,AT-OVP
+AT,AUT,SPO,Austrian Social Democratic Party,AT-SPO
+AU,AUS,AD,Australian Democrats,AU-AD
+AU,AUS,ALP,Australian Labor Party,AU-ALP
+AU,AUS,LPA,Liberal Party of Australia,AU-LPA
+AU,AUS,NP,National Party of Australia,AU-NP
+BE,BEL,AGA,Flemish Environmentalist Party (Agalev),BE-AGA
+BE,BEL,CVP,Flemish Cristian People's Party,BE-CVP
+BE,BEL,Eco,Ecolo,BE-Eco
+BE,BEL,FB,Flemish Nationalist Party,BE-FB
+BE,BEL,FDF,Francophone Democratic Front,BE-FDF
+BE,BEL,PRL,Francophone Reform Liberal Party,BE-PRL
+BE,BEL,PS,Socialist Party,BE-PS
+BE,BEL,PSC,Francophone Christian Democrat Party,BE-PSC
+BE,BEL,PVV,Flemish Party of Liberty and Progress,BE-PVV
+BE,BEL,SPSp,SP.A-Spirit,BE-SPSp
+BE,BEL,VU,Flemish People's Union,BE-VU
+CA,CAN,BQ,Bloc QuÈbÈcois,CA-BQ
+CA,CAN,CON,Canadian Conservative Party,CA-CON
+CA,CAN,LPC,Liberal Party of Canada,CA-LPC
+CA,CAN,NDP,New Democratic Party,CA-NDP
+DE,DEU,CDU/C,Christian Democratic Union/Christian Social Union,DE-CDU/C
+DE,DEU,FDP,Free Democratic Party,DE-FDP
+DE,DEU,GR‹,Green Party,DE-GR‹
+DE,DEU,NPD,National Democratic Party,DE-NPD
+DE,DEU,SPD,Social Democratic Party of Germany,DE-SPD
+DK,DNK,CC,Common Course,DK-CC
+DK,DNK,CD,Centrumdemokraterne,DK-CD
+DK,DNK,DKP,Danish Communist Party,DK-DKP
+DK,DNK,FP,Progress Party,DK-FP
+DK,DNK,G,Greens,DK-G
+DK,DNK,KF,Konservative Folkeparti,DK-KF
+DK,DNK,KrF,Kristeligt Folkeparti,DK-KrF
+DK,DNK,RF,???? name not given in L&H,DK-RF
+DK,DNK,RV,Radikale Venstre,DK-RV
+DK,DNK,SD,Socialdemokratiet i Danmark,DK-SD
+DK,DNK,SF,Socialistisk Folkeparti,DK-SF
+DK,DNK,V,"Venstre, Danmarks liberale parti",DK-V
+DK,DNK,VS,Left Socialists,DK-VS
+ES,ESP,CDS,Democratic adn Social Centre,ES-CDS
+ES,ESP,CiU,ConvergËncia i UniÛ de Catalunya,ES-CiU
+ES,ESP,HB,Herri Batsuna,ES-HB
+ES,ESP,IU,Izquerda Unida,ES-IU
+ES,ESP,MUC,Communist Unity,ES-MUC
+ES,ESP,PNV,Partido Nacionalista Vasco,ES-PNV
+ES,ESP,PP,Partido Popular,ES-PP
+ES,ESP,PRD,Democratic Reformist Party,ES-PRD
+ES,ESP,PSOE,Partido Socialista Obrero EspaÒol,ES-PSOE
+FI,FIN,DA,Democratic Alternative,FI-DA
+FI,FIN,FCL,Christian League,FI-FCL
+FI,FIN,FDPL,Finnish People's Democratic Union,FI-FDPL
+FI,FIN,FRP,Rural Party,FI-FRP
+FI,FIN,KESK,Suomen Keskusta,FI-KESK
+FI,FIN,KOK,Kansallinen Kokoomus,FI-KOK
+FI,FIN,LPP,Liberal People's Party,FI-LPP
+FI,FIN,P,Pensioner's Party,FI-P
+FI,FIN,SDP,Suomen Sosialidemokraattinen Puolue,FI-SDP
+FI,FIN,SFP,Svenska Folkepartiet i Finland,FI-SFP
+FI,FIN,VIHR,Vihre‰ Liitto,FI-VIHR
+FR,FRA,FN,Front National,FR-FN
+FR,FRA,MRG,Left Radicals,FR-MRG
+FR,FRA,PCF,Parti Communiste Francais,FR-PCF
+FR,FRA,PS,Parti Socialiste,FR-PS
+FR,FRA,RPR,Rassemblement pour la Republique,FR-RPR
+FR,FRA,UDF,Union pour la Democratie Francaise,FR-UDF
+FR,FRA,V,Les Verts,FR-V
+GR,GRC,KKE,Kommunistiko Koma Ellados,GR-KKE
+GR,GRC,KKEes,Communist Party of the Interior,GR-KKEes
+GR,GRC,ND,Nea Dimokratia,GR-ND
+GR,GRC,PASOK,Panellinio Sosialistiko Kinima,GR-PASOK
+IE,IRL,DSP,Democratic Socialist Party,IE-DSP
+IE,IRL,FF,Fianna F&aacute;il,IE-FF
+IE,IRL,FG,Fine Gael,IE-FG
+IE,IRL,LB,Labour,IE-LB
+IE,IRL,PD,Progressive Democrats,IE-PD
+IE,IRL,SF,Sinn F&eacute;in,IE-SF
+IE,IRL,WP,Workers Party,IE-WP
+IL,ISR,AG,Agudat Israel,IL-AG
+IL,ISR,Hada,Hazit Democratit le-Shalom ve-Shivayon,IL-Hada
+IL,ISR,Lab,Labor,IL-Lab
+IL,ISR,LIB,Liberal party,IL-LIB
+IL,ISR,Lik,Likud,IL-Lik
+IL,ISR,NRP,National Religious Party,IL-NRP
+IL,ISR,Shas,Shas,IL-Shas
+IS,ISL,CP,Citizens' Party,IS-CP
+IS,ISL,PA,People's Alliance,IS-PA
+IS,ISL,SDP,Social Democratic Party,IS-SDP
+IS,ISL,WA,Women's Alliance,IS-WA
+IS,ISL,X-B,FramsÛknarflokkurinn,IS-X-B
+IS,ISL,X-D,Sj·lfstÊ?isflokkurinn,IS-X-D
+IT,ITA,DC,Christian Democratic Party,IT-DC
+IT,ITA,DP,Proletarian Democracy,IT-DP
+IT,ITA,Green,Federazione dei Verdi,IT-Green
+IT,ITA,MSI,Italian Social Movement,IT-MSI
+IT,ITA,PDCI,Partito dei Comunisti Italiani,IT-PDCI
+IT,ITA,PLI,Liberal Party,IT-PLI
+IT,ITA,PR,Radical Party,IT-PR
+IT,ITA,PRI,Republican Party,IT-PRI
+IT,ITA,PSI,Socialist Party,IT-PSI
+IT,ITA,SDI,Socialisti Democratici Italiani,IT-SDI
+JP,JPN,CGP,Clean Government Party,JP-CGP
+JP,JPN,DSP,Democratic Socialist Party,JP-DSP
+JP,JPN,JCP,Japan Communist Party,JP-JCP
+JP,JPN,LDP,Liberal Democratic Party,JP-LDP
+JP,JPN,SDP,Social Democratic Party,JP-SDP
+JP,JPN,SOC,Socialist Party,JP-SOC
+LU,LUX,CSV,Christian Social People's Party,LU-CSV
+LU,LUX,DP,Democratic Party,LU-DP
+LU,LUX,G,The Green,LU-G
+LU,LUX,KPL,Communist Party,LU-KPL
+LU,LUX,LSAP,Luxembourg Socialist Workers' Party,LU-LSAP
+MT,MLT,MLP,Malta Labour Party,MT-MLP
+MT,MLT,NP,Nationalist Party,MT-NP
+NL,NLD,CDA,Christen Democratisch Appe`l,NL-CDA
+NL,NLD,CPN,Communist Party of Netherlands,NL-CPN
+NL,NLD,D66,Democraten 66,NL-D66
+NL,NLD,GPV,Reformed Political Union,NL-GPV
+NL,NLD,PPR,Radical Political Party,NL-PPR
+NL,NLD,PSP,Pacifist Socialist Party,NL-PSP
+NL,NLD,PvdA,Partij van de Arbeid,NL-PvdA
+NL,NLD,RPF,Reformed Political Federation,NL-RPF
+NL,NLD,SGP,Staatkundig Gereformeerde Partij,NL-SGP
+NL,NLD,VVD,Volkspartij voor Vrijheid en Democratie,NL-VVD
+NO,NOR,DLF,Liberal People's Party,NO-DLF
+NO,NOR,DNA,Det Norske Arbeiderparti,NO-DNA
+NO,NOR,FrP,Fremskrittspartiet,NO-FrP
+NO,NOR,H,H¯yre,NO-H
+NO,NOR,KrF,Kristelig Folkeparti,NO-KrF
+NO,NOR,SF,Socialist Left Party,NO-SF
+NO,NOR,Sp,Senterpartiet,NO-Sp
+NO,NOR,V,Venstre,NO-V
+NZ,NZL,DEM,New Zealand Democrats,NZ-DEM
+NZ,NZL,NP,New Zealand National Party,NZ-NP
+NZ,NZL,NZLP,New Zealand Labour Party,NZ-NZLP
+PT,PRT,CDS,People's Party,PT-CDS
+PT,PRT,DI,Democratic Intervention,PT-DI
+PT,PRT,MDP,Democratic Movement,PT-MDP
+PT,PRT,PCP,Portuguese Communist Party,PT-PCP
+PT,PRT,PDC,Christian Democratic Party,PT-PDC
+PT,PRT,PEV,Ecology Party- Greens,PT-PEV
+PT,PRT,PRD,Democratic Renewal Party,PT-PRD
+PT,PRT,PS,Socialist Party,PT-PS
+PT,PRT,PSD,Social Democratic Party,PT-PSD
+PT,PRT,PSR,Revolutionary Socialist Party,PT-PSR
+PT,PRT,UDP,Popular Democratic Union,PT-UDP
+SE,SWE,C,Centerpartiet,SE-C
+SE,SWE,COM,Communist Left,SE-COM
+SE,SWE,FP,Folkpartiet Liberalerna,SE-FP
+SE,SWE,KD,Kristdemokraterna,SE-KD
+SE,SWE,M,Moderata Samlingspartiet,SE-M
+SE,SWE,MP,Miljˆpartiet de Grˆna,SE-MP
+SE,SWE,SAP,Socialdemokratiska Arbetarepartiet,SE-SAP
+UK,GBR,Con,Conservative Party,UK-Con
+UK,GBR,Lab,Labour Party,UK-Lab
+UK,GBR,LD,Liberal Democrats,UK-LD
+UK,GBR,PCy,Plaid Cymru,UK-PCy
+UK,GBR,SNP,Scottish National Party,UK-SNP
+US,USA,Dem,Democratic Party,US-Dem
+US,USA,Rep,Republican Party,US-Rep
