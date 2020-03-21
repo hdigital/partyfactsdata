@@ -8,7 +8,15 @@ ps_clean <-
   ps_all %>% 
   rename(country = iso3country) %>% 
   mutate(
-    country = if_else(country == "AUS", "AUT", country),
+    country = case_when(
+      country == "AUS" ~ "AUT",
+      country == "DNK" & party == "IA" ~ "GRL",
+      country == "DNK" & party == "NQ" ~ "GRL",
+      country == "DNK" & party == "FF" ~ "FRO",
+      country == "DNK" & party == "T" ~ "FRO",
+      country == "DNK" & party == "JF" ~ "FRO",
+      TRUE ~ country
+    ), # LH, UP
     party = case_when(
       country == "SWE" & party == "L" ~ "FP",
       country == "SWE" & party == "T" ~ "KD",
