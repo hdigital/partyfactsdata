@@ -8,6 +8,8 @@ lh <-
   distinct() %>% 
   arrange(country, party) %>% 
   group_by(country) %>% 
-  mutate(party_id = paste(country, row_number(), sep = "-"))
+  mutate(party_id = paste(country, party, sep = "-"))
+
+duplicated(lh$party_id) %>% any()
 
 write_csv(lh, "laverhunt.csv")
