@@ -2,17 +2,17 @@
 
 ## Authors
 
-+ Holger Döring
-+ Sven Regel
++ Paul Bederke — since 2019
++ Holger Döring — since 2012
++ Sven Regel — since 2012
 
 see full credits at [Party Facts “about section”](https://partyfacts.herokuapp.com/documentation/about/)
 
 ## References
 
-Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of Political Parties Worldwide:” Party Politics. Advance online publication. doi: [10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671).
+Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of Political Parties Worldwide.” Party Politics 25(2): 97–109. doi: [doi.org/10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671).
 
 Bederke, Paul, Holger Döring, and Sven Regel. 2019. “Party Facts Dataverse.” [https://dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts).
-
 
 ## Summary
 
