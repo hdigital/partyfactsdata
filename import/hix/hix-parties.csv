@@ -1,0 +1,164 @@
+national_party,abbrev,member_state,code,party_family,country_name,year_first,year_last,share_year,share
+Freiheitliche Partei Österreichs,FPO,A,1001,Right,Austria,1994,1999,1994,31.6
+Die Grünen – Die Grüne Alternative,GRUNE,A,1002,Grn,Austria,1994,1999,1999,9.5
+Liberales Forum,LIF,A,1003,Lib,Austria,1994,1994,1994,5.3
+Österreichische Volkspartei,OVP,A,1004,CDem,Austria,1994,1999,1999,33.3
+Sozialdemokratische Partei Österreichs,SPO,A,1005,Soc,Austria,1994,1999,1999,33.3
+"Anders gaan arbeiden, leven en vrijen",AGALEV,B,1101,Grn,Belgium,1984,1999,1999,8.3
+Christlische Soziale Partei: Europäische Volkspartei,CSP-EVP,B,1102,CDem,Belgium,1994,1999,1994,3.6
+Christelijke Volkspartij / Christen-Democratisch & Vlaams,CVP / CD&V,B,1103,CDem,Belgium,1979,1999,1979,31.4
+Ecolo,ECOLO,B,1104,Grn,Belgium,1984,1999,1999,8.3
+Front démocratique des francophones / Mouvement des Citoyens pour le Changement,FDF-RW / MCC,B,1105,Reg,Belgium,1979,1999,1979,5.7
+Front national,FN,B,1106,Right,Belgium,1994,1994,1994,3.6
+Parti réformateur libéral,PRL,B,1107,Lib,Belgium,1979,1999,1984,14.8
+Parti socialiste,PS,B,1108,Soc,Belgium,1979,1999,1984,22.2
+Parti social-chrétien,PSC,B,1109,CDem,Belgium,1979,1999,1979,11.4
+Vlaamse liberalen en democraten,PVV / VLD,B,1110,Lib,Belgium,1979,1999,1979,11.4
+Socialistische Partij,SP,B,1111,Soc,Belgium,1979,1999,1984,18.5
+Vlaams Blok,VB,B,1112,Right,Belgium,1989,1999,1999,11.1
+Volskunie / België Spirit,VU / BS,B,1113,Reg,Belgium,1979,1999,1984,7.4
+Christlich Demokratische Union,CDU,D,1201,CDem,Germany,1979,1999,1999,42.6
+Christlich-Soziale Union,CSU,D,1202,CDem,Germany,1979,1999,1989,12.1
+Freie Demokratische Partei,FDP,D,1203,Lib,Germany,1979,1989,1979,4.4
+Bündnis 90/Die Grünen,GRUNE,D,1204,Grn,Germany,1984,1999,1994,12.6
+Partei des Demokratischen Sozialismus,PDS,D,1205,Left,Germany,1979,1999,1999,5.9
+Die Republikaner,REP,D,1206,Right,Germany,1989,1989,1989,6.6
+Sozialdemokratische Partei Deutschlands,SPD,D,1207,Soc,Germany,1979,1999,1979,43.3
+Partido Popular / Partido Demócrata Popular,PP / PDP,E,1301,Con,Spain,1984,1999,1999,42.7
+Bloque Nacionalista Gallego,BNG,E,1302,Reg,Spain,1999,1999,1999,1.3
+Convergència Democràtica Catalunya,CDC,E,1303,Lib,Spain,1984,1999,1999,4
+Centro Democràtico y Social,CDS,E,1304,Lib,Spain,1984,1989,1989,8.2
+Coalición Canaria,CC,E,1305,Reg,Spain,1989,1999,1989,1.4
+Eusko Alkartasuna,EA,E,1306,Reg,Spain,1984,1999,1989,1.4
+Herri Battasuna / Euskal Herritarrok,EH / HB,E,1307,Reg,Spain,1984,1999,1989,2.7
+Coalición por la Europa de los Pueblos: Esquerra Republicana de Catalunya,CEP-ERC,E,1308,Reg,Spain,1989,1999,1989,1.4
+Izquierda de los Pueblos,IP,E,1309,Reg,Spain,1984,1989,1989,1.4
+Grupo Mixto Senado,GMS,E,1310,Lib,Spain,1984,1984,1984,1.2
+Izquierda Unida / Izquierda Unida-Iniciativa per Catalunya,IU / IU-IPC,E,1311,Left,Spain,1984,1999,1994,13.7
+Partido Andalucista,PA,E,1312,Reg,Spain,1989,1999,1989,2.7
+Partido Nacionalista Vasco,PNV,E,1313,Reg,Spain,1984,1999,1984,2.4
+Partido Socialista Obrero Español,PSOE,E,1314,Soc,Spain,1984,1999,1984,47.6
+Partit dels Socialistes de Catalunya,PSC,E,1315,Soc,Spain,1984,1999,1999,2.7
+Agrupación de Electores José María Ruiz-Mateos,R-Mateos,E,1316,Con,Spain,1989,1989,1989,2.7
+Unión Centro Democràtico,UCD,E,1317,CDem,Spain,1984,1984,1984,1.2
+Unió Democràtica de Catalunya,UDC,E,1318,CDem,Spain,1984,1999,1994,5.5
+Coalición Nacionalista,CN,E,1319,Reg,Spain,1989,1989,1989,1.4
+Unió Valenciana,UV,E,1320,Lib,Spain,1999,1999,1999,1.3
+Centre Démocrates Sociaux,CDS,F,1401,CDem,Drance,1979,1994,1989,6.4
+Centre national des indépendants et paysans,CNI,F,1402,Con,Drance,1979,1994,1984,1.8
+"Chasse, Pêche, Nature, Traditions",CPNT,F,1403,Anti-EU,Drance,1999,1999,1999,6.1
+Rassemblement pour la République / Défence des intérêts de la France en Europe,DIFE / RPR,F,1404,Con,Drance,1979,1999,1979,31.2
+Energie Radicale / Mouvement Radicaux de Gauche / Parti radical de gauche,EN.RAD / MRG / PRG,F,1405,Soc,Drance,1979,1999,1994,8.4
+Front national,FN,F,1406,Right,Drance,1984,1999,1984,11.5
+Mouvement pour l'Autre Europe / Rassemblement pour la France / Mouvement pour la France,L'AE / RPF / MPF,F,1407,Anti-EU,Drance,1994,1999,1999,12.1
+Lutte ouvrière / Ligue Communiste Révolutionnaire,LO / LCR,F,1408,Left,Drance,1999,1999,1999,5.1
+Parti communiste française / Gauche unitaire / Parti communiste réunionnais,PCF / GU / PCR,F,1409,Left,Drance,1979,1999,1979,16
+Parti républicain / Démocratie libérale,PR / DL,F,1410,Con,Drance,1979,1999,1999,9.1
+Parti radical socialiste,PRS,F,1411,Soc,Drance,1994,1994,1994,1.9
+Parti Socialiste,PS,F,1412,Soc,Drance,1979,1999,1979,27.2
+Parti radical,RAD,F,1413,Lib,Drance,1979,1999,1994,5.6
+Union pour la démocratie française / Union pour la démocratie française - Force démocrate / Union pour la démocratie française - Parti populaire pour la démocratie française / Union pour la France en Europe,UDF / UDF-FD / UDF-PPDF / UFE,F,1414,Con,Drance,1979,1999,1979,15.2
+Europe des peuples - Per un avvene corsu - Avenir corse,UPC,F,1415,Reg,Drance,1989,1989,1989,0.9
+Les Verts,V,F,1416,Grn,Drance,1989,1999,1989,15.5
+Association des Démocrates,AD,F,1417,Lib,Drance,1989,1989,1989,0.9
+sans étiquette (Independent),s.e. (Ind),F,1418,Ind,Drance,1989,1999,1999,5.1
+Démocratie chrétienne française / Parti social-chrétien,DCF / PSC,F,1420,CDem,Drance,1979,1984,1984,0.9
+Parti social démocrate,PSD,F,1421,Lib,Drance,1989,1989,1989,0.9
+Mouvement des citoyens,MDC,F,1423,Left,Drance,1999,1999,1999,2
+Union pour la Majorité Présidentielle / Union pour un Mouvement Populaire,UMP,F,1424,Con,Drance,1999,1999,1999,1
+Dimogratiki Anaeossi / Politiki Anixi,DIANA / POL.AN,G,1501,Con,Greece,1989,1994,1994,7.4
+Dimokratiko Kinoniko Kinima,DIKKI,G,1502,Left,Greece,1999,1999,1999,7.1
+Komma Proodevtikon / Ethniki Politiki Enossis / Enosi Dimokratikou Kentrou,KP / EPEN / EDIK,G,1503,Right,Greece,1979,1984,1984,9.1
+Kommounistiko Komma Elladas,KKE,G,1504,Left,Greece,1979,1999,1984,15.2
+Nea Dimokratia,ND,G,1505,Con,Greece,1979,1999,1989,42.9
+Panellinio Socialistiko Kinima,PASOK,G,1506,Soc,Greece,1979,1999,1994,44.4
+Synaspismos tis Aristeras kai tis Proodou / Neo Aristero Revma,SYN / NAR,G,1507,Left,Greece,1984,1999,1989,14.3
+Independent,Ind,G,1508,Ind,Greece,1984,1984,1984,3
+Movimento soziale italiano / Alleanza nazionale,MSI / AN,I,1601,Right,Italy,1979,1999,1994,12.8
+Centro cristiano democratico,CCD,I,1603,CDem,Italy,1994,1999,1994,3.2
+Cristiani democratici uniti,CDU,I,1604,CDem,Italy,1994,1999,1999,3.1
+Democrazia proletaria / Partito democratico di unità proletaria / Comunisti unitari,DP / PDUP / CU,I,1605,Left,Italy,1979,1994,1984,3.1
+Democratico Cristiana / Partito populare italiano,DC / PPI,I,1606,CDem,Italy,1979,1999,1979,35.9
+I Democratici,Dem,I,1607,Lib,Italy,1994,1999,1999,6.1
+Forza Italia,FI,I,1608,Con,Italy,1994,1999,1994,26.6
+Verdi Arcobaleno / Federazione dei Verdi / Verdi Europa,FV / V,I,1609,Grn,Italy,1989,1999,1989,7.2
+Indipendenti di sinistra,IND SIN,I,1610,Left,Italy,1979,1994,1979,5.4
+Lega Nord,LN,I,1611,Reg,Italy,1989,1999,1994,6.4
+Movimento sociale fiamma tricolore,MSFT,I,1612,Right,Italy,1999,1999,1999,1
+Partito Communista Italiano / Partito Democratico della Sinistra / Democratici di Sinistra,PCI / PDS / DS,I,1613,Soc,Italy,1979,1999,1984,26.8
+Partito dei Comunisti Italiani / Rifondazione Communista / Partito della rifondazione comunista,PdCI / RC / PRC,I,1614,Left,Italy,1994,1999,1999,6.1
+Pensionati,Pensionati,I,1615,Con,Italy,1999,1999,1999,1
+Partito reppublicano italiano,PLI,I,1616,Lib,Italy,1979,1999,1979,3.3
+Partito radicale / Pannella-Riformatori / Lista Bonino / Lega antiproibizionisti droga,PR / PANN.RIF. / Bon / L.A.DROGA,I,1617,Lib,Italy,1979,1999,1999,7.1
+Partito reppublicano italiano,PRI,I,1618,Lib,Italy,1979,1999,1979,4.3
+Partito Sardo d'Azione,PSdA,I,1619,Reg,Italy,1984,1989,1984,1
+Partito socialista democratico italiano,PSDI,I,1620,Soc,Italy,1979,1989,1979,4.3
+Partito socialista italiano / Socialisti democratici italiani,PSI / SDI,I,1621,Soc,Italy,1979,1999,1989,14.4
+La Rete movimento democratico,RETE,I,1622,Left,Italy,1994,1994,1994,1.1
+Rinnovamento italiano - Dini,RI-DINI,I,1623,CDem,Italy,1999,1999,1999,1
+Patto Segni,Segni,I,1624,CDem,Italy,1994,1999,1994,3.2
+Südtiroler Volkspartei,SVP,I,1625,Reg,Italy,1979,1999,1979,1.1
+Unione Democratici per l'Europa,UDEUR,I,1626,CDem,Italy,1999,1999,1999,1
+Union Valdostana,UV,I,1627,Reg,Italy,1999,1999,1999,1
+Centrum-Democraterne,CD,K,1701,CDem,Denmark,1979,1989,1989,17.6
+Dansk Folkeparti,DF,K,1702,Con,Denmark,1999,1999,1999,5.6
+Folkebevægelsen mod EF - Unionen,FmEF,K,1703,Anti-EU,Denmark,1979,1999,1984,23.8
+JuniBevægelsen,JB,K,1705,Anti-EU,Denmark,1994,1999,1999,22.2
+Det Konservative Folkeparti,KF,K,1706,Con,Denmark,1979,1999,1984,28.6
+Det Radikale Venstre,RV,K,1707,Lib,Denmark,1994,1999,1994,5.9
+Socialdemokratiet,SD,K,1708,Soc,Denmark,1979,1999,1979,27.8
+Socialistisk Folkeparti,SF,K,1709,Left,Denmark,1979,1999,1994,11.8
+Siumut,Siumut,K,1710,Reg,Denmark,1979,1984,1979,5.6
+Venstre,V,K,1711,Lib,Denmark,1979,1999,1999,33.3
+Déi Gréng,DG / GLEI/GAP,L,1801,Grn,Luxembourg,1994,1999,1994,14.3
+Parti démcratique,DP,L,1802,Lib,Luxembourg,1979,1999,1979,38.5
+Parti chrétien social,PCS,L,1803,CDem,Luxembourg,1979,1999,1979,53.8
+Parti ouvrier socialiste luxembourgeois,POSL,L,1804,Soc,Luxembourg,1979,1999,1984,37.5
+Christen Democratisch Appèl,CDA,N,1901,CDem,Netherlands,1979,1999,1979,39.3
+Democraten 66,D66,N,1902,Lib,Netherlands,1979,1999,1994,11.8
+Groen Links / De Groenen,GL / DG,N,1903,Grn,Netherlands,1994,1999,1999,11.8
+Politieke Partij Radikalen,PPR,N,1904,Left,Netherlands,1984,1989,1984,3.7
+Pacifistisch Socialistische Partij / Communistische Partij Nederland,PSP / CPN,N,1905,Left,Netherlands,1984,1989,1984,7.4
+Partij van de Arbeid,PvdA,N,1906,Soc,Netherlands,1979,1999,1979,35.7
+Staatkundig Gereformeerde Partij-Gereformeerd Politiek Verbond-Reformatorisch Politieke Federatie,SGP/GPV/RPF,N,1907,Con,Netherlands,1984,1999,1994,8.8
+Socialistiese Partij,SP,N,1908,Soc,Netherlands,1999,1999,1999,2.9
+Volkspartij voor Vrijheid en Democratie,VVD,N,1909,L,Netherlands,1979,1999,1994,20.6
+Soumen Keskusta,KESK,O,2001,Lib,Finland,1994,1999,1994,26.7
+Kansallinen Kokoomus,KOK,O,2002,Con,Finland,1994,1999,1994,26.7
+Suomen Sosialidemkraattinen Poulue,SDP,O,2003,Soc,Finland,1994,1999,1994,23.3
+Svenska Folpartiet,SFP,O,2004,Reg,Finland,1994,1999,1994,6.7
+Soumen Kristillinen Liitto,SKL,O,2005,CDem,Finland,1999,1999,1999,5.9
+Vasemmistoliitto,VAS,O,2006,Left,Finland,1994,1999,1994,13.3
+Vihreät,VIHR,O,2007,Grn,Finland,1994,1999,1999,17.6
+Partido do Centro Democrático e Social / Partido do Centro Democrático e Social-Partido Popular,CDS / CDS-PP,P,2101,Con,Portugal,1984,1999,1994,15.2
+Coligação Democrática Unitária / Partido Communista Português,CDU / CDU-PCP / PCP,P,2102,Left,Portugal,1984,1999,1989,20.7
+Os Verdes,Os Verdes,P,2103,Grn,Portugal,1989,1989,1989,3.4
+Partido Renovador Democratico,PRD,P,2104,Con,Portugal,1984,1984,1984,10.8
+Partido Socialista,PS,P,2105,Soc,Portugal,1984,1999,1999,44.8
+Partido Social Democrata,PSD,P,2106,CDem,Portugal,1984,1999,1984,40.5
+Fianna Fáil,FF,R,2201,Con,Ireland,1979,1999,1984,52.9
+Fine Gael,FG,R,2202,CDem,Ireland,1979,1999,1984,41.2
+Green Party,GP,R,2203,Grn,Ireland,1994,1999,1994,13.3
+Independent-CDem (Dana),IND-Cdem,R,2204,CDem,Ireland,1999,1999,1999,6.2
+Independent-Lib (Maher/Cox),IND-Lib,R,2205,Lib,Ireland,1979,1999,1994,6.7
+Labour Party,LAB,R,2206,Soc,Ireland,1979,1999,1979,50
+Workers' Party / Democratic Left,WP / DL,R,2207,Left,Ireland,1989,1989,1989,11.8
+Independent-Reg (Blaney),IND-Reg,R,2208,Reg,Ireland,1979,1989,1989,5.9
+Progressive Democrats,PD,R,2209,Lib,Ireland,1989,1989,1989,5.9
+Centerpartiet,CP,S,2301,Lib,Sweden,1994,1999,1994,8.8
+Folkpartiet liberalaerna,FP,S,2302,Lib,Sweden,1994,1999,1999,11.5
+Kristdemokraterna,KD / KDS,S,2303,CDem,Sweden,1994,1999,1999,7.7
+Moderata samlingspartiet,M,S,2304,Con,Sweden,1994,1999,1999,26.9
+Miljöpartiet,MP,S,2305,Grn,Sweden,1994,1999,1994,11.8
+Socialdemokratiska arbetarepartiet,SAP,S,2306,Soc,Sweden,1994,1999,1994,41.2
+Vänsterpartiet,V,S,2307,Left,Sweden,1994,1999,1994,11.8
+Conservative and Unionist Party,CON,U,2401,Con,United Kingdom,1979,1999,1979,74.1
+Democratic Unionist Party,DUP,U,2402,Reg,United Kingdom,1979,1999,1979,1.2
+Green Party,GP,U,2403,Grn,United Kingdom,1999,1999,1999,2.2
+Labour Party,LAB,U,2404,Soc,United Kingdom,1979,1999,1994,70.3
+Liberal Democrat Party,LD,U,2405,Lib,United Kingdom,1994,1999,1999,12.2
+Plaid Cymru - Party of Wales,PC,U,2406,Reg,United Kingdom,1999,1999,1999,2.2
+Social Democratic and Labour Party,SDLP,U,2407,Soc,United Kingdom,1979,1999,1979,1.2
+Scottish National Party,SNP,U,2408,Reg,United Kingdom,1979,1999,1994,3.3
+United Kingdom Independence Party,UKIP,U,2409,Anti-EU,United Kingdom,1999,1999,1999,4.4
+Official Unionist Party / Ulster Unionist Party,UUP,U,2410,Con,United Kingdom,1979,1999,1979,1.2
