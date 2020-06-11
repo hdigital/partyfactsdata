@@ -6,11 +6,13 @@ Chapel Hill expert surveys 1999–2017 – [chesdata.eu](https://www.chesdata.eu
 
 + Polk, Jonathan, Jan Rovny, Ryan Bakker, Erica Edwards, Liesbet Hooghe, Seth Jolly, Jelle Koedam, Filip Kostelka, Gary Marks, Gijs Schumacher, Marco Steenbergen, Milada Vachudova and Marko Zilovic. 2017. "Explaining the salience of anti-elitism and reducing political corruption for political parties in Europe with the 2014 Chapel Hill Expert Survey data," Research & Politics (January-March): 1-9.
 
++ Ryan Bakker, Liesbet Hooghe, Seth Jolly, Gary Marks, Jonathan Polk, Jan Rovny, Marco Steenbergen, and Milada Anna Vachudova. 2020. “2019 Chapel Hill Expert Survey.” Version 2019.1. Available on chesdata.eu. Chapel Hill, NC: University of North Carolina, Chapel Hill.
 
 ## Import
 
 + see CHES 1999-2014 trend file import – `ches-2014`
 + see CHES 2017 flash survey import – `ches-2017`
++ see CHES 2019 import - `ches-2019`
 + see `ches.R` for final party information
 
 
