@@ -5,6 +5,7 @@
 + Paul Bederke — since 2019
 + Holger Döring — since 2012
 + Sven Regel — since 2012
++ [ _contact information_ — pbederke uni-bremen ]
 
 see full credits at [Party Facts “about section”](https://partyfacts.herokuapp.com/documentation/about/)
 
