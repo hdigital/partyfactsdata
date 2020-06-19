@@ -1,0 +1,278 @@
+country,country_iso3,party_id,party_abbrev,party_name,party_name_english,vote,electionyear,year_first,year_last
+BE,BEL,102,PS,Parti Socialiste,SocialistParty,,,2019,2019
+BE,BEL,103,SPA,Socialistische Partij Anders,SocialistParty Differently,,,2019,2019
+BE,BEL,104,ECOLO,Ecolo,Ecolo,,,2019,2019
+BE,BEL,105,Groen,Groen,Green,,,2019,2019
+BE,BEL,106,MR,Mouvement Réformateur,ReformistMovement,,,2019,2019
+BE,BEL,107,VLD,Open Vlaamse Liberalen en Democraten,OpenFlemish Liberals and Democrats,,,2019,2019
+BE,BEL,108,cdH,Centre Démocrate Humaniste,HumanistDemocratic Centre,,,2019,2019
+BE,BEL,109,CD&V,Christen-Democratisch en Vlaams,ChristianDemocratic and Flemish,,,2019,2019
+BE,BEL,110,NVA,Nieuw-Vlaamse Alliantie,NewFlemish Alliance,,,2019,2019
+BE,BEL,112,VB,Vlaams Belang,FlemishInterest,,,2019,2019
+BE,BEL,119,PVDA-PTB,Partij van de Arbeid van België - Parti du Travail de Belgique,Workers’Party of Belgium,,,2019,2019
+DK,DNK,201,SD,Socialdemokraterne,SocialDemocracy,,,2019,2019
+DK,DNK,202,RV,Det Radikale Venstre,RadicalLeft-Social Liberal Party,,,2019,2019
+DK,DNK,203,KF,Det Konservative Folkeparti,ConservativePeople’s Party,,,2019,2019
+DK,DNK,206,SF,Socialistisk Folkeparti,SocialistPeople’s Party,,,2019,2019
+DK,DNK,211,V,"Venstre, Danmarks Liberale Parti Venstre",LiberalParty of Denmark,,,2019,2019
+DK,DNK,213,EL,Enhedslisten—De Rød-Grønne,UnityList/Red-Green Alliance,,,2019,2019
+DK,DNK,215,DF,Dansk Folkeparti,DanishPeople’s Party,,,2019,2019
+DK,DNK,218,LA,Liberal Alliance,LiberalAlliance,,,2019,2019
+DK,DNK,219,A,Alternativet,TheAlternative,,,2019,2019
+DK,DNK,220,NB,Nye Borgerlige,TheNew Right,,,2019,2019
+GE,DEU,301,CDU,Christlich Demokratische Union Deutschlands,ChristianDemocratic Union of Germany,,,2019,2019
+GE,DEU,302,SPD,Sozialdemokratische Partei Deutschlands,SocialDemocratic Party of Germany,,,2019,2019
+GE,DEU,303,FDP,Freie Demokratische Partei,FreeDemocratic Party,,,2019,2019
+GE,DEU,304,Grunen,Bündnis 90/Die Grünen,Alliance’90/The Greens,,,2019,2019
+GE,DEU,306,Linke,Die Linke,TheLeft,,,2019,2019
+GE,DEU,308,CSU,Christlich Soziale Union in Bayern,ChristianSocial Union in Bavaria,,,2019,2019
+GE,DEU,310,AfD,Alternative für Deutschland,Alternativefor Germany,,,2019,2019
+GE,DEU,311,Piraten,Piratenpartei Deutschland,PirateParty of Germany,,,2019,2019
+GE,DEU,312,DieTier,Mensch Umwelt Tierschutz,HumanEnvironment Animal Protection,,,2019,2019
+GR,GRC,401,PASOK,Panellinio Sosialistikó Kínima,PanhellenicSocialist Movement,,,2019,2019
+GR,GRC,402,ND,Néa Dimokratía,NewDemocracy,,,2019,2019
+GR,GRC,403,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalitionof the Radical Left,,,2019,2019
+GR,GRC,404,KKE,Kommounistikó Kómma Elládas,CommunistParty of Greece,,,2019,2019
+GR,GRC,415,XA,Laïkós Sýndesmos—Chrysí Avgí,PopularAssociation—Golden Dawn,,,2019,2019
+GR,GRC,416,EL,Elliniki Lisi,GreekSolution,,,2019,2019
+GR,GRC,417,MR25,Métopo Evropaikís Realistikís Anypakoís,EuropeanRealistic Disobedience Front [MeRa25],,,2019,2019
+GR,GRC,418,KIDISO,Kinima Dimokraton Sosialiston,Movementof Democratic Socialists,,,2019,2019
+ESP,ESP,501,PSOE,Partido Socialista Obrero Español,SpanishSocialist Workers’ Party,,,2019,2019
+ESP,ESP,502,PPP,Partido Popular,People’sParty,,,2019,2019
+ESP,ESP,504,IU,Izquierda Unida,UnitedLeft,,,2019,2019
+ESP,ESP,506,PNV,Partido Nacionalista Vasco,BasqueNationalist Party,,,2019,2019
+ESP,ESP,511,ERC,Esquerra Republicana de Catalunya,RepublicanLeft of Catalonia,,,2019,2019
+ESP,ESP,513,BNG,Bloque Nacionalista Galego,GalicianNationalist Bloc,,,2019,2019
+ESP,ESP,517,CC,Coalición Canaria,CanarianCoalition,,,2019,2019
+ESP,ESP,524,EHB,Euskal Herria Bildu,BasqueCountry Unite/Gather,,,2019,2019
+ESP,ESP,525,Podemos,Podemos Unidas,PodemosWe Can,,,2019,2019
+ESP,ESP,526,Cs,Ciudadanos—Partido de la Ciudadanía,Citizens—Partyof the Citizenry,,,2019,2019
+ESP,ESP,527,Vox,Vox,Voice(Latin),,,2019,2019
+ESP,ESP,528,Pais,Más Pais,MoreCountry,,,2019,2019
+ESP,ESP,550,PdeCat,Partit Demócrata Europeu Catalá (Junts per Cataluyna),CatalanEuropean Democratic Party (Together for Catalonia partner),,,2019,2019
+FR,FRA,601,PCF,Parti Communiste Français,FrenchCommunist Party,,,2019,2019
+FR,FRA,602,PS,Parti Socialiste,SocialistParty,,,2019,2019
+FR,FRA,605,EELV,Europe Écologie Les Verts,EuropeEcology—The Greens,,,2019,2019
+FR,FRA,609,LR,Les Républicains,TheRepublicans,,,2019,2019
+FR,FRA,610,RN,Rassemblement national,NationalRally,,,2019,2019
+FR,FRA,613,MoDem,Mouvement Démocrate,DemocraticMovement,,,2019,2019
+FR,FRA,626,LREM,La République En Marche,TheRepublic Forward,,,2019,2019
+FR,FRA,627,FI,La France Insourmise,UnbowedFrance,,,2019,2019
+FR,FRA,628,DLF,Debout la France,FranceArise,,,2019,2019
+IRL,IRL,701,FF,Fianna Fáil,Soldiersof Destiny,,,2019,2019
+IRL,IRL,702,FG,Fine Gael,Familyof the Irish,,,2019,2019
+IRL,IRL,703,Lab,Páirti Lucht,OibreLabour,,,2019,2019
+IRL,IRL,705,GP,Comhaontas Glas,GreenParty,,,2019,2019
+IRL,IRL,707,SF,Sinn Féin,WeOurselves,,,2019,2019
+IRL,IRL,709,S-PBP,Dlúthphairtíocht–Pobal Roimh Bhrabús,Solidarity—PeopleBefore Profit,,,2019,2019
+IRL,IRL,710,DS,Daonlathaigh Shóisialta,SocialDemocrats,,,2019,2019
+IRL,IRL,711,I4C,Independents for Change,Independentsfor Change,,,2019,2019
+IRL,IRL,712,RI,Renua Ireland,RenuaIreland,,,2019,2019
+IT,ITA,811,LN,Lega Nord,NorthernLeague,,,2019,2019
+IT,ITA,813,RI,Radicali Italiani,ItalianRadicals,,,2019,2019
+IT,ITA,815,FI,Forza Italia,ForwardItaly,,,2019,2019
+IT,ITA,827,SVP,Südtiroler Volkspartei,SouthTyrolean People’s Party,,,2019,2019
+IT,ITA,837,PD,Partito Democratico,DemocraticParty,,,2019,2019
+IT,ITA,838,SI,Sinistra Italiana,ItalianLeft—Left Ecology Freedom,,,2019,2019
+IT,ITA,843,FdI,Fratelli d’Italia,Brothersof Italy,,,2019,2019
+IT,ITA,845,M5S,MoVimento Cinque Stelle,FiveStar Movement,,,2019,2019
+NL,NLD,1001,CDA,Christen-Democratisch Appél,ChristianDemocratic Appeal,,,2019,2019
+NL,NLD,1002,PvdA,Partij van de Arbeid,LabourParty,,,2019,2019
+NL,NLD,1003,VVD,Volkspartij voor Vrijheid en Democratie,People’sParty for Freedom and Democracy,,,2019,2019
+NL,NLD,1004,D66,Democraten 66,Democrats66,,,2019,2019
+NL,NLD,1005,GL,GroenLinks,GreenLeft,,,2019,2019
+NL,NLD,1006,SGP,Staatkundig Gereformeerde Partij,ReformedPolitical Party,,,2019,2019
+NL,NLD,1014,SP,Socialistische Partij,SocialistParty,,,2019,2019
+NL,NLD,1016,CU,ChristenUnie,ChristianUnion,,,2019,2019
+NL,NLD,1017,PVV,Partij voor de Vrijheid,Partyfor Freedom,,,2019,2019
+NL,NLD,1018,PvdD,Partij voor de Dieren,Partyfor the Animals,,,2019,2019
+NL,NLD,1020,50PLUS,50PLUS,50PLUS,,,2019,2019
+NL,NLD,1050,DENK,Beweging DENK,Think,,,2019,2019
+NL,NLD,1051,FvD,Forum voor Democratie,Forumfor Democracy,,,2019,2019
+UK,GBR,1101,Cons,Conservative Party,ConservativeParty,,,2019,2019
+UK,GBR,1102,Lab,Labour Party,LabourParty,,,2019,2019
+UK,GBR,1104,LibDem,Liberal Democratic Party,LiberalDemocratic Party,,,2019,2019
+UK,GBR,1105,SNP,Scottish National Party,ScottishNational Party,,,2019,2019
+UK,GBR,1106,Plaid,Plaid Cymru,Partyof Wales,,,2019,2019
+UK,GBR,1107,Green,Green Party,GreenParty,,,2019,2019
+UK,GBR,1108,UKIP,United Kingdom Independence Party,UnitedKingdom Independence Party,,,2019,2019
+UK,GBR,1110,Brexit,Brexit Party,BrexitParty,,,2019,2019
+POR,PRT,1201,CDU,Coligação Democrática Unitária,DemocraticUnitarian Coalition,,,2019,2019
+POR,PRT,1202,CDS-PP,Centro Democrático e Social—Partido,PopularCDS—People’s Party,,,2019,2019
+POR,PRT,1205,PS,Partido Socialista,SocialistParty,,,2019,2019
+POR,PRT,1206,PSD,Partido Social Democrata,SocialDemocratic Party,,,2019,2019
+POR,PRT,1208,BE,Bloco de Esquerda,LeftBloc,,,2019,2019
+POR,PRT,1210,PCP,Partido Comunista Português,PortugueseCommunist Party,,,2019,2019
+POR,PRT,1211,PEV,Partido Ecologista “Os Verdes�,�Ecologist Party “The Greens”,,,2019,2019
+POR,PRT,1250,PAN,Pessosas—Animais—Natureza,People—Animals—Nature,,,2019,2019
+AUS,AUT,1301,SPÖ,Sozialdemokratische Partei Österreichs,SocialDemocratic Party of Austria,,,2019,2019
+AUS,AUT,1302,ÖVP,Österreichische Volkspartei,AustrianPeople’s Party,,,2019,2019
+AUS,AUT,1303,FPÖ,Freiheitliche Partei Österreichs,FreedomParty of Austria,,,2019,2019
+AUS,AUT,1304,Grüne,Die Grünen— Die Grünen,AlternativeThe Greens—The Green Alternative,,,2019,2019
+AUS,AUT,1306,NEOS,NEOS—Das Neue Österreich und Liberales Forum,NEOS—TheNew Austria and Liberal Forum,,,2019,2019
+FIN,FIN,1401,SDP,Suomen Sosialidemokraattinen Puolue,SocialDemocratic Party of Finland,,,2019,2019
+FIN,FIN,1402,KOK,Kansallinen Kokoomus,NationalCoalition Party,,,2019,2019
+FIN,FIN,1403,KESK,Suomen Keskusta,CentreParty,,,2019,2019
+FIN,FIN,1404,VAS,Vasemmistoliitto,LeftAlliance,,,2019,2019
+FIN,FIN,1405,PS,Persussuomalaiset,TheFinns Party,,,2019,2019
+FIN,FIN,1406,SFP,Ruotsalainen kansanpuolue/Svenska folkpartiet,SwedishPeople’s Party,,,2019,2019
+FIN,FIN,1408,VIHR,Vihreä Liitto,GreenLeague,,,2019,2019
+FIN,FIN,1409,KD,Kristillisdemokraatit,ChristianDemocrats,,,2019,2019
+SV,SWE,1601,V,Vänsterpartiet,LeftParty,,,2019,2019
+SV,SWE,1602,S/SAP,Sveriges Socialdemokratiska Arbetareparti,SwedishSocial Democratic Party,,,2019,2019
+SV,SWE,1603,C,Centerpartiet,CenterParty,,,2019,2019
+SV,SWE,1604,L,Liberalerna Liberal,People’sParty,,,2019,2019
+SV,SWE,1605,M,Moderata Samlingspartiet,ModerateParty,,,2019,2019
+SV,SWE,1606,KD,Kristdemokraterna,ChristianDemocrats,,,2019,2019
+SV,SWE,1607,MP,Miljöepartiet de Gröna,EnvironmentParty—The Greens,,,2019,2019
+SV,SWE,1610,SD,Sverigedemokraterna,SwedenDemocrats,,,2019,2019
+BUL,BGR,2003,BSP,Balgarska sotsialisticheska partiya,BulgarianSocialist Party,,,2019,2019
+BUL,BGR,2004,DPS,Dvizhenie za Prava i Svobodi,Movementfor Rights and Freedoms,,,2019,2019
+BUL,BGR,2005,BMRO,BMRO - Balgarsko natsionalno dvizhenie,BulgarianNational Movement,,,2019,2019
+BUL,BGR,2007,Ataka,Ataka,Attack,,,2019,2019
+BUL,BGR,2008,DSB,Demokrati za Silna Bˇalgarija,Democratsfor a Strong Bulgaria,,,2019,2019
+BUL,BGR,2010,GERB,Grazhdani za evropeysko razvitie na Balgariya,Citizensfor European Development of Bulgaria,,,2019,2019
+BUL,BGR,2014,NFSB,Natsionalen front za spasenie na Balgariya,NationalFront for the Salvation of Bulgaria,,,2019,2019
+BUL,BGR,2017,Volya,Volya,Will,,,2019,2019
+BUL,BGR,2018,DB,Da Bulgaria,"Yes,Bulgaria!",,,2019,2019
+BUL,BGR,2019,Slavi,Trifonov Slavi Trifonov,Partyof Slavi Trifonov,,,2019,2019
+CZ,CZE,2101,CSSD,˘Ceská strana sociáln˘e demokratická,CzechSocial Democratic Party,,,2019,2019
+CZ,CZE,2102,ODS,Ob˘canská demokratická strana,CivicDemocratic Party,,,2019,2019
+CZ,CZE,2103,KSCM,Komunistická strana ˘Cech a Moravy,CommunistParty of Bohemia and Moravia,,,2019,2019
+CZ,CZE,2104,KDU-CSL,K˘restanská demokratická unie -˘Ceskoslovenská strana lidová,ChristianDemocratic Union-Czechoslovak People’s Party,,,2019,2019
+CZ,CZE,2109,TOP09,Tradice Odpov˘ednost Prosperita 09,TraditionResponsibility Prosperity 09,,,2019,2019
+CZ,CZE,2111,ANO2011,Akce nespokojených ob˘canu,Actionof Dissatisfied Citizens,,,2019,2019
+CZ,CZE,2114,Pirates,Ceska piratska strana,CzechPirate Party,,,2019,2019
+CZ,CZE,2115,SPD,Svoboda a p˘rímá demokracie Tomio Okamura,Freedomand Direct Democracy Tomio Okamura,,,2019,2019
+CZ,CZE,2116,STAN,Starostové a nezávislí,Mayorsand Independents,,,2019,2019
+EST,EST,2201,IRL,Erakond Isamaa ja Res Publica Liit,ProPatria and Res Publica Union,,,2019,2019
+EST,EST,2202,EK,Eesti Keskerakond,EstonianCenter Party,,,2019,2019
+EST,EST,2203,ER,Eesti Reformierakond,EstonianReform Party,,,2019,2019
+EST,EST,2204,SDE,Sotsiaaldemokraatlik Erakond,SocialDemocratic Party,,,2019,2019
+EST,EST,2209,EKRE,Eesti Konservatiivne Rahvaerakond,ConservativePeople’s Party,,,2019,2019
+EST,EST,2210,E200,Erakond Eesti 200,Estonia200,,,2019,2019
+HUN,HUN,2301,MSzP,Magyar Szocialista Párt,HungarianSocialist Party,,,2019,2019
+HUN,HUN,2302,Fidesz-KDNP,Fidesz—Magyar Polgári Szövetség Kereszténydemokrata Néppárt,Fidesz—HungarianCivic Union Christian Democratic People’s Party,,,2019,2019
+HUN,HUN,2308,JOBBIK,Jobbik Magyarországért Mozgalom,Jobbik—Movementfor a Better Hungary,,,2019,2019
+HUN,HUN,2309,LMP,Lehet Más a Politika,PoliticsCan Be Different,,,2019,2019
+HUN,HUN,2310,E14,Együtt 2019,Together2019,,,2019,2019
+HUN,HUN,2311,DK,Demokratikus Koalíció,DemocraticCoalition,,,2019,2019
+HUN,HUN,2314,MM,Momentum Mozgalom,MomentumMovement,,,2019,2019
+LAT,LVA,2402,LKS,Latvijas Krievu savien¯ıba,LatvianRussian Union,,,2019,2019
+LAT,LVA,2405,ZZS,"Zal,o un Zemnieku Savien¯ıba",Unionof Greens and Farmers,,,2019,2019
+LAT,LVA,2406,NA,Nacion¯al¯a apvien¯ıba T¯evzemei un Br¯ıv¯ıbai/LNNK,NationalAlliance  For Fatherland and Freedom/LNNK,,,2019,2019
+LAT,LVA,2410,SDPS,"Soci¯aldemokr¯atisk¯a Partija “Saskan, a""",SocialDemocratic Party “Harmony”,,,2019,2019
+LAT,LVA,2412,V,Vienot¯ıba,Unity,,,2019,2019
+LAT,LVA,2414,LRA,Latvijas Re´gionu apvien¯iba,LatvianAssociation of Regions,,,2019,2019
+LAT,LVA,2415,KPV,LV Kam pieder valsts?,Whoowns the state?,,,2019,2019
+LAT,LVA,2416,JKP,Jaun¯a konservat¯ıv¯a partija,NewConservative Party,,,2019,2019
+LAT,LVA,2417,AP!,Att¯ıst¯ıbai/Par!,Development/For!,,,2019,2019
+LITH,LTU,2501,LSDP,Lietuvos socialdemokratu˛ partija,SocialDemocratic Party of Lithuania,,,2019,2019
+LITH,LTU,2506,TS-LKD,T˙evyn˙es sajunga,HomelandUnion,,,2019,2019
+LITH,LTU,2507,LVZS,Lietuvos valstieci¸u sajunga,LithuanianPeasant Union,,,2019,2019
+LITH,LTU,2511,LLRA,Lietuvos lenku˛ rinkimu˛ akcija Electoral,Actionof Lithuania’s Poles,,,2019,2019
+LITH,LTU,2515,TT,Tvarka ir Teisingumas,Orderand Justice,,,2019,2019
+LITH,LTU,2516,DP,Darbo Partija,LabourParty,,,2019,2019
+LITH,LTU,2518,LRLS,Lietuvos Respublikos Liberalu˛ Saj¯udis,LiberalMovement of the Republic of Lithuania,,,2019,2019
+LITH,LTU,2521,LCP,Lietuvos Centro Partija,LithuanianCentre Party,,,2019,2019
+LITH,LTU,2522,LZP,Lietuvos žalioji partija,LithuanianGreen Party,,,2019,2019
+LITH,LTU,2523,VKM-AMT,Visuomeninis rinkimu˛ komitetas “Aušros Maldeikien˙es traukinys�,�Public election committee  “Aušra Maldeikien˙e’s Train”,,,2019,2019
+POL,POL,2601,SLD,Sojusz Lewicy Demokratycznej,DemocraticLeft Alliance,,,2019,2019
+POL,POL,2603,PO,Platforma Obywatelska,CivicPlatform,,,2019,2019
+POL,POL,2605,PiS,Prawo i Sprawiedliwosc,Lawand Justice Party,,,2019,2019
+POL,POL,2606,PSL,Polskie Stronnictwo Ludowe,PolishPeople’s Party,,,2019,2019
+POL,POL,2617,Kukiz,Kukiz ’15,Kukiz’15,,,2019,2019
+POL,POL,2618,Nowo,Nowoczesna,Modern,,,2019,2019
+POL,POL,2619,Konfederacia,Konfederacja Wolnosc i Niepodległosc,ConfederationLiberty and Independence,,,2019,2019
+POL,POL,2620,Lewica,Razem Lewica Razem,LeftTogether,,,2019,2019
+POL,POL,2621,Wiosnia,Wiosna,Spring,,,2019,2019
+ROM,ROU,2701,PSD,Partidul Social Democrat,SocialDemocratic Party,,,2019,2019
+ROM,ROU,2705,PNL,Partidul Naµional,LiberalNational Liberal Party,,,2019,2019
+ROM,ROU,2706,UDMR,Uniunea Democratˇa Maghiarˇa din România,HungarianDemocratic Union of Romania,,,2019,2019
+ROM,ROU,2711,PMP,Partidul Mis˛carea Popularˇa,People’sMovement Party,,,2019,2019
+ROM,ROU,2712,ALDE,"Aliant,a Liberalilor si Democrat,ilor",Allianceof Liberals and Democrats,,,2019,2019
+ROM,ROU,2713,USR,"Uniunea Salvat, i România",SaveRomania Union,,,2019,2019
+ROM,ROU,2714,PRO,PRO România,PRORomania,,,2019,2019
+SLO,SVK,2803,Smer-SD,Smer—sociálna demokrçacia,Direction—SocialDemocracy,,,2019,2019
+SLO,SVK,2804,SMK-MKP,Madarskej kooalície/Magyar kooalície,HungarianCoalition,,,2019,2019
+SLO,SVK,2805,KDH,Krestanskodemokratické hnutie,ChristianDemocratic Movement,,,2019,2019
+SLO,SVK,2809,SNS,Slovenská národná strana,SlovakNational Party,,,2019,2019
+SLO,SVK,2812,SaS,Sloboda a Solidarita,Freedomand Solidarity,,,2019,2019
+SLO,SVK,2813,MH,Most-Híd,Bridge,,,2019,2019
+SLO,SVK,2814,OLaNO,Obycajní Ludia a nezávislé osobnosti,OrdinaryPeople and Independent,,,2019,2019
+SLO,SVK,2816,Siet,Siet,Network,,,2019,2019
+SLO,SVK,2817,LSNS,Ludová strana Naše Slovensko (Marian Kotleba),People’sParty—Our Slovakia,,,2019,2019
+SLO,SVK,2818,Sme,Rodina Sme Rodina—Boris Kollár,Weare family—Boris Kollar,,,2019,2019
+SLO,SVK,2819,PS,Progresívne Slovensko,ProgressiveSlovakia,,,2019,2019
+SLO,SVK,2820,SPOLU,SPOLU—obcianska demokracia,TOGETHER—CivicDemocracy,,,2019,2019
+SLO,SVK,2821,Za,Ludi Za Ludí (Andrej Kiska),Forthe People,,,2019,2019
+SLE,SVN,2902,SDS,Slovenska Demokratska Stranka,SlovenianDemocratic Party,,,2019,2019
+SLE,SVN,2903,SD,Socialni Demokrati,SocialDemocrats,,,2019,2019
+SLE,SVN,2905,NSI,Nova Slovenija-Kršcanska Ljudska Stranka,NewSlovenia-Christian People’s Party,,,2019,2019
+SLE,SVN,2906,DeSUS,Demokraticna Stranka Upokojencev Slovenije,DemocraticParty of Pensioners of Slovenia,,,2019,2019
+SLE,SVN,2907,SNS,Slovenska nacionalna stranka,SlovenianNational Party,,,2019,2019
+SLE,SVN,2911,SMC,Stranka Mira Cerarja,Partyof Miro Cerar,,,2019,2019
+SLE,SVN,2912,Levica,Levica,TheLeft,,,2019,2019
+SLE,SVN,2913,Alenka,Bratusek Stranka Alenke Bratušek,Partyof Alenka Bratusek,,,2019,2019
+SLE,SVN,2915,LMS,Lista Marjana Šarca,Listof Marjan Sarec,,,2019,2019
+CRO,HRV,3101,HDZ,Hrvatska Demokratska Zajednica,CroatianDemocratic Union,,,2019,2019
+CRO,HRV,3102,SDP,Socialdemokratska Partija Hrvatske,SocialDemocratic Party of Croatia,,,2019,2019
+CRO,HRV,3103,HSS,Hrvatska Seljacka Stranka,CroatianPeasant Party,,,2019,2019
+CRO,HRV,3104,HSLS,Hrvatska Socijalno Liberalna Stranka,CroatianSocial Liberal Party,,,2019,2019
+CRO,HRV,3105,HNS,Hrvatska Narodna Stranka—Liberalni Demokrati,CroatianPeople’s Party—Liberal Democrats,,,2019,2019
+CRO,HRV,3106,IDS,Istarski Demokratski Sabor,IstrianDemocratic Assembly,,,2019,2019
+CRO,HRV,3107,HDSSB,Hrvatski Demokrtski Sabor Slavonije i Baranje,CroatianDemocratic Assembly of Slavonija and Baranja,,,2019,2019
+CRO,HRV,3108,HSU,Hrvatska stranka umirovljenika,CroatianParty of Pensioners,,,2019,2019
+CRO,HRV,3110,SDSS,Samostalna demokratska srpska stranka,IndependentDemocratic Serb Party,,,2019,2019
+CRO,HRV,3115,Most,Most nezavisnih lista,Bridgeof Independent Lists,,,2019,2019
+CRO,HRV,3116,ZZ,Živi zid,HumanShield,,,2019,2019
+CRO,HRV,3117,MB,365 Milan Bandic 365—Stranka rada i solidarnosti,MilanBandic 365—The Party of Labour and Solidarity,,,2019,2019
+CRO,HRV,3118,NS-R,Narodna stranka-Reformisti,People’sParty-Reformists,,,2019,2019
+CRO,HRV,3119,HKS,Hrvatska konzervativna stranka,CroatianConservative Party,,,2019,2019
+TUR,TUR,3401,AKP,Adalet ve Kalkinma Partisi,Justiceand Development Party,,,2019,2019
+TUR,TUR,3402,CHP,Cumhuriyet Halk Patisi,RepublicanPeople’s Party,,,2019,2019
+TUR,TUR,3403,MHP,Milliyetci Hareket Partisi,NationalistMovement Party,,,2019,2019
+TUR,TUR,3407,HDP,Halklarin Demokratik Partisi,Peoples’Democratic Party,,,2019,2019
+TUR,TUR,3408,IYI,Iyi Parti,GoodParty,,,2019,2019
+NOR,NOR,3501,Ap,Arbeiderpartiet,LabourParty,,,2019,2019
+NOR,NOR,3502,FrP,Fremskrittspartiet,ProgressParty,,,2019,2019
+NOR,NOR,3503,H,Høyre,ConservativeParty,,,2019,2019
+NOR,NOR,3504,SV,Sosialistisk Venstreparti,SocialistLeft Party,,,2019,2019
+NOR,NOR,3505,Sp,Senterpartiet,CentreParty,,,2019,2019
+NOR,NOR,3506,KrF,Kristelig Folkeparti,ChristianDemocratic Party,,,2019,2019
+NOR,NOR,3507,V,Venstre,LiberalParty,,,2019,2019
+NOR,NOR,3508,MDG,Miljøpartiet De Grønne,GreenParty,,,2019,2019
+NOR,NOR,3509,RV,Raudt,RedParty,,,2019,2019
+SWI,CHE,3601,SVP/UDC,Swiss People’s,Party,,,2019,2019
+SWI,CHE,3602,SP/PS,,SocialDemocratic Party of Switzerland,,,2019,2019
+SWI,CHE,3603,FDP/PLR,,FDP.The Liberals,,,2019,2019
+SWI,CHE,3604,CVP/PVC,,ChristianDemocratic People’s Party,,,2019,2019
+SWI,CHE,3605,GPS/PES,,GreenParty,,,2019,2019
+SWI,CHE,3606,GLP/PVL,,GreenLiberal Party,,,2019,2019
+SWI,CHE,3607,EVP/PEV,,EvangelicalPeople’s Party,,,2019,2019
+SWI,CHE,3612,BDP/PBD,,ConservativeDemocratic Party,,,2019,2019
+MAL,MLT,3701,PL,Partit Laburista,LabourParty,,,2019,2019
+MAL,MLT,3702,PN,Partit Nazzjonalista,NationalistParty,,,2019,2019
+LUX,LUX,3801,CSV,Chrëschtlech Sozial Vollekspartei,ChristianSocial People’s Party,,,2019,2019
+LUX,LUX,3802,Greng,Déi Gréng,TheGreens,,,2019,2019
+LUX,LUX,3803,DP,Demokratesch Partei,DemocraticParty,,,2019,2019
+LUX,LUX,3804,LSAP,Lëtzebuerger Sozialistesch Aarbechterpartei,LuxembourgSocialist Workers’ Party,,,2019,2019
+LUX,LUX,3805,ADR,Alternativ Demokratesch Reformpartei,AlternativeDemocratic Reform Party,,,2019,2019
+LUX,LUX,3806,DL,Déi Lénk,TheLeft,,,2019,2019
+LUX,LUX,3807,PPLU,Piratepartei Lëtzebuerg,PirateParty Luxembourg,,,2019,2019
+CYP,CYP,4001,DISY,Dimokratikós Sinagermós,DemocraticRally,,,2019,2019
+CYP,CYP,4003,AKEL,Anorthotikó Kómma Ergazómenou Laoú,ProgressiveParty of Working People,,,2019,2019
+CYP,CYP,4004,DIKO,Dimokratikó Kómma,DemocraticParty,,,2019,2019
+CYP,CYP,4005,EDEK,Kinima Sosialdimokraton EDEK,Movementfor Social Democracy EDEK,,,2019,2019
+CYP,CYP,4006,KOP,Kinima Oikologon Perivallontiston,Ecologicaland Environmental Movement,,,2019,2019
+CYP,CYP,4007,SYM,Symmachía Politón,Citizens’Alliance,,,2019,2019
+CYP,CYP,4008,Kinhma,Kinima Allilengyu,SolidarityMovement,,,2019,2019
+CYP,CYP,4009,ELAM,Ethniko Laiko Metopo,NationalPopular Front,,,2019,2019
+ICE,ISL,4501,Sj,Sjálfstæðisflokkurinn,IndependenceParty,,,2019,2019
+ICE,ISL,4502,Graen,Vinstrihreyfingin—grænt framboð,Left-GreenMovement,,,2019,2019
+ICE,ISL,4503,F,Framsóknarflokkurinn,ProgressiveParty,,,2019,2019
+ICE,ISL,4504,M,Miðflokkurinn,CentreParty,,,2019,2019
+ICE,ISL,4505,Sam,Samfylkingin,SocialDemocratic Alliance,,,2019,2019
+ICE,ISL,4506,Pi,Píratar,PirateParty,,,2019,2019
+ICE,ISL,4507,V,Viðreisn,ReformParty,,,2019,2019
+ICE,ISL,4508,FIF,Flokkur fólksins,People’sParty,,,2019,2019
