@@ -1,44 +1,36 @@
 library(tidyverse)
 
-raw_ccs_parties <- read_csv("ccs-parties.csv")  # harmonized party list
-pf_tech <- read_csv("pf-technical.csv") %>% select(-country)  # pf-core with only technicals
+raw_ccs <- read_csv("ccs.csv", na = "")
 
-raw_ccs_all <- read_csv("ccs-parties-all.csv")
+file_pf_ext <- "pf-ext.csv"
 
-# wide dataset of CCS party IDs
-ccs_party_id <-
-  raw_ccs_all %>%
-  select(partyfacts_id, party_id) %>%
-  group_by(partyfacts_id) %>%
-  mutate(wave = paste0("party_id_", row_number())) %>%
-  spread(wave, party_id) %>%
-  ungroup()
+# update latest list of Party Facts external parties
+if(F) {
+  url <- "https://partyfacts.herokuapp.com/download/external-parties-csv/"
+  read.csv(url, na = "") %>%
+    select(dataset_key, dataset_party_id, partyfacts_id) %>% 
+    filter(dataset_key == "ccs") %>% 
+    select(-dataset_key) %>% 
+    write_csv(file_pf_ext, na = "")
+}
 
-# combine all information
-ccs_temp <-
-  raw_ccs_parties %>%
-  select(-party_id) %>%
-  left_join(ccs_party_id, by = "partyfacts_id") %>%
-  left_join(pf_tech, by = "partyfacts_id") %>%
-  filter(is.na(technical)) %>%                        # filter technicals
-  select_if( ~ sum(!is.na(.)) > 0)                    # drop empty columns
+pf_ext <- read.csv(file_pf_ext, na = "")
 
-# correct special case in Belgium
-ccs <-
-  ccs_temp %>%
-  mutate(
-    party_id_2 = case_when(
-      (country == "BEL" & name_short %in% c("PVDA", "PTB")) ~ NA_character_,
-      TRUE ~ party_id_2
-    ),
-    party_id_1 = case_when(
-      (country == "BEL" & name_short == "PVDA") ~ "2-18-19-2014",
-      TRUE ~ party_id_1
-    )
-  ) %>%
-  group_by(party_id_1) %>%    # remove duplicate entries
-  slice(1L) %>%
-  ungroup()
 
+# update partyfacts_id in import file
+ccs <- 
+  raw_ccs %>% 
+  select(-partyfacts_id) %>% 
+  left_join(pf_ext, by = c("party_id_1" = "dataset_party_id"))
 
 write_csv(ccs, "ccs.csv", na = "")
+
+# generate link file
+ccs_partyfacts <- 
+  ccs %>% 
+  pivot_longer(party_id_1:party_id_4, values_to = "party_id", names_to = "numb") %>% 
+  select(-numb) %>% 
+  drop_na(party_id) %>% 
+  select()
+
+write_csv(ccs_partyfacts, "ccs-partyfacts.csv", na = "")
