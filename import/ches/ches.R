@@ -4,7 +4,7 @@ ches14 <- read_csv("ches-2014/ches.csv")
 ches17 <- read_csv("ches-2017/ches-2017.csv")
 ches19 <- read_csv("ches-2019/ches-2019.csv")
 
-# combined 2014 and 2017 CHES data
+# combined CHES data
 ches_all <-
   ches14 %>%
   select(-cmp_id) %>%
