@@ -1,0 +1,172 @@
+country,name_short,name,year_first,year_last,share,share_year,party_id
+AUT,BZÖ,Bündnis Zukunft Österreich,2005,,10.7,2008,AUT BZÖ
+AUT,FPÖ,Freiheitliche Partei Österreichs,1956,,27.4,2017,AUT FPÖ
+AUT,KPÖ,Kommunistische Partei Österreichs,1918,,1,2006,AUT KPÖ
+BEL,FN,Front National,1985,2012,2.3,1995,BEL FN
+BEL,KPB-PCB,Kommunistische Partij van België,1921,1989,2.3,1981,BEL KPB-PCB
+BEL,PVDA,Partij van de Arbeid van België,1979,,8.6,2019,BEL PVDA
+BEL,VB,Vlaams Belang,1979,,12,2007,BEL VB
+BGR,ATAKA,Ataka,2005,,9.4,2009,BUL ATAKA
+BGR,KPB,Bulgarian Communist Party,,,1.5,1994,BUL KPB
+BGR,,Bulgarian National Radical Party,,,1.1,1991,BUL BNRP
+BGR,NFSB,Nacionalen Front za Spasenie na Bălgaria,2011,,7.3,2014,BUL NFSB
+BGR,PG,Prezaredi Balgariya,2014,,5.7,2014,BUL PG
+BGR,RZS,"Red, zakonnost i spravedlivost",2005,,4.1,2009,BUL RZS
+BGR,Revival,Vazrazhdane,2014,,1.1,2017,BUL Revival
+BGR,IMRO,VMRO – Bălgarsko Nacionalno Dviženie,1991,,9.1,2017,BUL IMRO
+BGR,Volya,Volya,2007,,4.2,2017,BUL Volya
+CHE,AL,Alternative Linke,2010,2018,1.2,2015,SWI AL
+CHE,EDU,Eidgenössisch-Demokratische Union,1975,,1.3,1995,SWI EDU
+CHE,FPS,Freiheits-Partei der Schweiz,1984,,5.1,1991,SWI FPS
+CHE,LEGA,Lega dei Ticinesi,1991,,1.4,1991,SWI LEGA
+CHE,PdA,Partei der Arbeit der Schweiz,1944,,1.2,1995,SWI PdA
+CHE,POCH,Progressive Organisationen der Schweiz,1969,1993,2.2,1983,SWI POCH
+CHE,SD,Schweizer Demokraten (earlier Nationale Aktion für Volk und Heimat),1961,,3.4,1991,SWI SD
+CHE,SVP,Schweizerische Volkspartei,1971,,29.4,2015,SWI SVP
+CYP,AKEL,Anorthotiko Komma Ergazomenou Laou,1926,,34.7,2001,CYP AKEL
+CYP,ELAM,Ethniko Laiko Metopo,2008,,3.7,2016,CYP ELAM
+CYP,Evroko,Evropaiko Komma,2005,2016,5.8,2006,CYP Evroko
+CYP,ADIK,Fighting Democratic Movement,,2011,2.2,2001,CYP ADIK
+CYP,KA,Kinima Allileggyi,2016,,5.2,2016,CYP KA
+CYP,NEO,New Horizons,1996,2005,3,2001,CYP NEO
+CZE,DSSS,Dělnická strana sociální spravedlnosti,2010,,1.1,2010,CZE DSSS
+CZE,KSCM,Komunistická Strana Čech a Moravy,1989,,18.5,2002,CZE KSCM
+CZE,SPR–RSČ,Sdružení pro Republiku - Republikánská strana Československa,1989,,8,1996,CZE SPR–RSČ
+CZE,SPO,Strana Práv Občanů - Zemanovci,2009,,4.3,2010,CZE SPO
+CZE,SPD,Svoboda a Prímá Demokracie,2015,,10.6,2017,CZE SPD
+CZE,USVIT,Usvit prime demokracie,2013,,6.9,2013,CZE USVIT
+DEU,AfD,Alternative für Deutschland,2013,,12.6,2017,GER AfD
+DEU,PDS/Linke,Die Linke,2007,,11.9,2009,GER PDS/Linke
+DEU,REP,Die Republikaner,1983,,2.1,1990,GER REP
+DEU,NPD,Nationaldemokratische Partei Deutschlands,1964,,1.6,2005,GER NPD
+DNK,DKP,Danmarks Kommunistiske Parti,1919,,1.1,1981,DEN DKP
+DNK,DF,Dansk Folkeparti,1995,,21.1,2015,DEN DF
+DNK,EL,Enhedslistan,1989,,7.8,2015,DEN EL
+DNK,FK,Faelles Kurs,1986,2001,2.2,1987,DEN FK
+DNK,FRP,Fremskridtspartiet,1972,,9,1988,DEN FRP
+DNK,,Nye Borgerlige,2015,,2.4,2019,DEN NB
+DNK,,Stram Kurs,2017,,1.8,2019,DEN SK
+DNK,VS,Venstresocialisterne,1967,1998,2.7,1981,DEN VS
+ESP,HB,Herri Batasuna,1978,2001,1.2,1986,ESP HB
+ESP,IU,Izquierda Unida,1986,,10.5,1996,ESP IU
+ESP,PCPE,Partido Comunista de los Pueblos de España,1984,,4,1982,ESP PCPE
+ESP,PTE-UC,Partido de los Trabajadores de España-Unidad Comunista,1981,1991,1.1,1986,ESP PTE-UC
+ESP,Podemos,Podemos,2014,,21.1,2016,ESP Podemos
+EST,EKRE,Eesti Konservatiivne Rahvaerakond,2012,,17.8,2019,EST EKRE
+FIN,SIN,Blå reform,,,1,2019,FIN SIN
+FIN,DV,Demokratiska alternativet,1986,1990,4.2,1987,FIN DV
+FIN,SKDL,Demokratiska förbundet för Finlands folk,1944,1990,13.5,1983,FIN SKDL
+FIN,PS,Sannfinländarna,1995,,19,2011,FIN PS
+FRA,DLF,Debout La France,2008,,1.2,2017,FRA DLF
+FRA,FG,Front de Gauche,2008,2018,6.9,2012,FRA FG
+FRA,FN,Front National,1972,,14.9,1997,FRA FN
+FRA,FI,Le France Insoumise,2016,,11,2017,FRA FI
+FRA,LCR,Ligue communiste révolutionnaire,1974,,1.3,2002,FRA LCR
+FRA,LO,Lutte Ouvrière,1939,,3.9,1997,FRA LO
+FRA,MNR,Mouvement National Républicain,1999,,1.1,2002,FRA MNR
+FRA,MPF,Mouvement pour la France ,1994,,2.4,1997,FRA MPF
+FRA,PCF,Parti Communiste Francais,1920,,16.2,1981,FRA PCF
+GBR,BREXIT,Brexit Party,,,2,2019,UK BREXIT
+GBR,BNP,British National Party,1982,,1.9,2010,UK BNP
+GBR,UKIP,United Kingdom Independence Party,1993,,12.6,2015,UK UKIP
+GRC,XA,Chrysi Avgui,1985,,2.9,2019,GRE XA
+GRC,EL,Elliniki Lisi,2016,,3.7,2019,GRE EL
+GRC,KKE,Kommounistiko Komma Elladas,1918,,10.9,1981,GRE KKE
+GRC,LAE,Laïkí Enótita,2015,,2.9,2015,GRE LAE
+GRC,LAOS,Laikos Orthodoxos Synagermos,2000,,5.6,2009,GRE LAOS
+GRC,PE,Plefsi Eleftherias,2016,,1.5,2019,GRE PE
+GRC,Syriza,Synaspismos Rizospastikis Aristeras,2004,,35.5,2015,GRE Syriza
+GRC,SYN,Synaspismós tīs Aristerás tōn Kinīmátōn kai tīs Oikologías,1989,2013,11,1989,GRE SYN
+GRC,KKE (Interior),,1968,1987,1.8,1985,GRE KKE (Interior)
+HRV,HSP (HSP ADKU),Hrvatska stranka prava,1990,,6.4,2003,CRO HSP (HSP ADKU)
+HRV,HSP-AS,Hrvatska stranka prava dr. Ante Starčević,2009,,2.8,2011,CRO HSP-AS
+HRV,HDSSB,Hrvatski Demokratski Savez Slavonije i Baranje,2006,,2.9,2011,CRO HDSSB
+HRV,ZZ,Živi zid,2011,,6.2,2016,CRO ZZ
+HUN,FIDESZ,Fidesz - Magyar Polgäri Szövetség,1988,,52.7,2010,HUN FIDESZ
+HUN,JOBBIK,Jobbik Magyarországért Moszgalom,2003,,20.3,2014,HUN JOBBIK
+HUN,MIEP,Magyar Igazság és Élet Pártja,1993,,5.5,1998,HUN MIEP
+HUN,MM,Magyar Munkáspárt,1989,,4.1,1998,HUN MM
+IRL,PBP,People Before Profits Alliance,2005,,3.9,2016,IRE PBP
+IRL,SP,Socialist Party,1996,,1.2,2011,IRE SP
+IRL,WP,Workers Party of Ireland,1970,,5,1989,IRE WP
+ISL,AB,Alþýðubandalagið,1956,1998,17.3,1983,ICE AB
+ISL,M,Miðflokkurinn,2017,,10.7,2017,ICE M
+ITA,DP,Democrazia Proletaria,1975,1991,1.7,1987,ITA DP
+ITA,FDI,Fratelli d'Italia - Alleanza Nationale,2013,,4.1,2018,ITA FDI
+ITA,LD,La Destra,2007,2017,2.4,2008,ITA LD
+ITA,SA,La Sinistra – L'Arcobaleno,2007,2008,3.1,2008,ITA SA
+ITA,LN,Lega (Lega Nord),2013,,17.4,2018,ITA LN
+ITA,M5S,Movimento Cinque Stelle,,,32.7,2018,ITA M5S
+ITA,MSI,Movimento Sociale Italiano,1946,1995,6.8,1983,ITA MSI
+ITA,PCI,Partito Comunista Italiano,1943,1991,29.9,1983,ITA PCI
+ITA,PdCI,Partito dei Comunisti Italiani,1998,2014,2.3,2006,ITA PdCI
+ITA,PRC,Partito della Rifondazione Comunista,1991,,8.5,1996,ITA PRC
+ITA,PaP,Potere al Popolo,2017,,1.1,2018,ITA PaP
+ITA,RC,Rivoluzione Civile,2012,2013,2.3,2013,ITA RC
+LTU,Frontas,Fronto partija,2008,2009,3.2,2008,LIT Frontas
+LTU,JL,Jaunoji Lietuva,2009,,4,1996,LIT JL
+LTU,LTS,Lietuvių tautininkų sąjunga,1924,,2.2,1996,LIT LTS
+LTU,LCP,Lietuvos Centro Partija,2003,,6.3,2016,LIT LCP
+LTU,SLF,Socialistinis liaudies frontas,2009,,1.2,2012,LIT SLF
+LTU,TT,Tvarka ir teisingumas,2002,,12.7,2008,LIT TT
+LUX,ADR,Alternativ Demokratesch Reformpartei,1987,,9.9,2004,LUX ADR
+LUX,KPL,Kommunistesch Partei Lëtzebuerg,1921,,4.4,1984,LUX KPL
+LUX,NB,National Bewegong,1987,1999,2.6,1994,LUX NB
+LUX,PSI,Parti socialiste indépendant,1970,1999,2.4,1984,LUX PSI
+LVA,KPV LV,Kam pieder valsts?,2016,,14.3,2018,LAT KPV LV
+LVA,LSP,Latvijas Sociālistiskā partija,1994,,5.6,1995,LAT LSP
+LVA,NA,"Nacionala apvieniba Visu Latvijai! - Tevze,ei un Brivibai/LNNK",2010,,16.6,2014,LAT NA
+LVA,TB/LNNK,Tēvzemei un Brīvībai,1993,2011,14.7,1998,LAT TB/LNNK
+LVA,VL,Visu Lavijai,2006,2011,1.5,2006,LAT VL
+MNE,NSD,Nova srpska demokratija,2009,,22.8,2012,MNE NSD
+MNE,SNS,Srpska narodna stranka,1998,2009,14.7,2006,MNE SNS
+MNE,SSR,Stranka srpskih radikala,,,1.3,2009,MNE SSR
+NLD,CD,Centrum Democraten,1984,2002,2.5,1994,NET CD
+NLD,CPN,Communistische Partij Nederland,1909,1991,2.1,1981,NET CPN
+NLD,FvD,Forum voor Democratie,2016,,1.8,2017,NET FvD
+NLD,LPF,Lijst Pim Fortuyn,2002,2008,17,2002,NET LPF
+NLD,PVV,Partij voor de Vrijheid,2006,,20.4,2010,NET PVV
+NLD,SP,Socialistische Partij,1971,,63,2003,NET SP
+NLD,SGP,Staatkundig Gereformeerde Partij,1918,,2.1,2012,NET SGP
+NOR,FrP,Fremskrittspartiet,1973,,22.9,2009,NOR FrP
+NOR,RV,Röd Valgallianse,1973,2007,2.1,2001,NOR RV
+NOR,Rödt,Rödt,2007,,2.4,2017,NOR Rödt
+POL,KPN,Konfederacja Polski Niepodległej,1979,,7.5,1991,POL KPN
+POL,Konfederacja,Konfederacja Wolność i Niepodległość,2018,,6.8,2019,POL Konfederacja
+POL,KNP,Kongres Nowej Prawicy,2011,,1.1,2011,POL KNP
+POL,K,Kukiz 15,2015,,8.8,2015,POL K
+POL,LPR,Liga Polskich Rodzin,2001,,8,2005,POL LPR
+POL,PPP,Polska Partia Pracy,2001,2017,1,2007,POL PPP
+POL,PiS,Prawo i Sprawiedliwość,2001,,43.6,2019,POL PiS
+POL,ROP,Ruch Odbudowy Polski,1995,2012,5.6,1997,POL ROP
+POL,SD,Samoobrona Rzeczpospolitej Polskiej,1992,,11.4,2005,POL SD
+POL,ZCHN,Zjednoczenie Chrześcijańsko-Narodowe,1989,,8.7,1991,POL ZCHN
+PRT,BE,Bloco de Esquerda,1999,,10.2,2015,POR BE
+PRT,CH,Chega,2019,,1.3,2019,POR CH
+PRT,PCTP/MRPP,Partido Comunista dos Trabalhadores Portugueses/Movimento Reorganizativo do Partido do Proletariado,1970,,1.1,2011,POR PCTP/MRPP
+PRT,PCP,Partido Comunista Português,1921,,18.1,1983,POR PCP
+PRT,POUS,Partido Operário de Unidade Socialista,1976,,1.4,1980,POR POUS
+PRT,PSR,Partido Socialista Revolucionário,1978,1999,1.1,1991,POR PSR
+PRT,UDP,União Democrática Popular,1974,,1.4,1980,POR UDP
+ROU,PNGCD,Partidul Noua Generație - Creștin Democrat,2000,,2.3,2008,ROM PNGCD
+ROU,PP-DD,Partidul Poporului – Dan Diaconescu,2011,2015,14,2012,ROM PP-DD
+ROU,PRM,Partidul România Mare,1991,,19.5,2000,ROM PRM
+ROU,PRU,Partidul România Unită,2015,,2.8,2016,ROM PRU
+ROU,PSM,Partidul Socialist al Muncii,1990,2003,3,1992,ROM PSM
+ROU,PUNR,Partidul Unităţii Naţionale a Românilor,1990,2006,7.7,1992,ROM PUNR
+SRB,Dveri,Pokret Dveri,1999,,5,2016,SER Dveri
+SRB,SRS,Srpska Radikalna Stranka,1991,,29.5,2008,SER SRS
+SRB,SSJ,Stranka Srpskog Jedinstva,1993,2007,5.3,2000,SER SSJ
+SVK,KSS,Komunistická strana Slovenska,1939,,13.9,1990,SLK KSS
+SVK,LSNS,L'udová Strana Naše Slovensko,2010,,8,2016,SLK LSNS
+SVK,LS-HZDS,Ľudová strana – Hnutie za demokratické Slovensko,1991,2014,37.3,1992,SLK LS-HZDS
+SVK,PSNS,Pravá Slovenská národná strana,2001,2005,3.7,2002,SLK PSNS
+SVK,SNS,Slovenska Narodna Strana,1989,,13.9,1990,SLK SNS
+SVK,SR,Sme Rodina,2015,,6.6,2016,SLK SR
+SVK,ZRS,Združenie robotníkov Slovenska,1994,,7.3,1994,SLK ZRS
+SVN,Lipa,Lipa,2008,,1.8,2008,SLN Lipa
+SVN,SDS,Slovenska demokratska stranka,1989,,29.2,2008,SLN SDS
+SVN,SNS,Slovenska naciolna stranka,1991,,10,1992,SLN SNS
+SWE,NyD,Ny Demokrati,1990,2000,6.7,1991,SWE NyD
+SWE,SD,Sverigedemokraterna,1988,,17.5,2018,SWE SD
+SWE,V (VPK),Vänsterpartiet (previously Vänsterpartiet Kommunisterna),1917,,12,1998,SWE V (VPK)
