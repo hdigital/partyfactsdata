@@ -9,8 +9,8 @@ ESS / Party Facts (PF) linking for variables
 
 Link datasets for ESS and PF ids
 
-+ [__essprt-all.csv__](ess-link-all.csv) — one observation for each __ESS id__ and PF id/data
-+ [__essprtv.csv__](essprtv.csv) / [__essprtc.csv__](essprtc/essprtc.csv) — one
++ [__essprt-all.csv__](essprt-all.csv) — one observation for each __ESS id__ and PF id/data
++ [__essprtv.csv__](essprtv.csv) / [__essprtc.csv__](../essprtc/essprtc.csv) — one
   observation for each __ESS party__ (harmonized) and PF id/data
 
 `first_ess_id` uniquely identifies an ESS party in PF through harmonization — _see "ESS ids" below_
