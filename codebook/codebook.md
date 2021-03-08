@@ -112,12 +112,12 @@ Core vs. external parties
 
 **Core parties** are observations that have been gathered by the Party
 Facts project. They can be added and edited on the Party Facts webpage.
-Currently we include **6895 core parties**.
+Currently we include **5718 core parties**.
 
 **External parties** are observations with party information extracted
 from other datasets – see [Party Facts
 Data](https://github.com/hdigital/partyfactsdata). Currently we include
-**25319 external parties**.
+**34512 external parties**.
 
 Countries
 =========
@@ -125,7 +125,7 @@ Countries
 Party Facts covers every country in the world that is included in an
 external dataset.
 
-Currently, it includes **220 countries**. The main focus of the project
+Currently, it includes **218 countries**. The main focus of the project
 is on the national level but parties from relevant sub-national units
 may be included as well, if they are covered by several datasets.
 
@@ -241,15 +241,20 @@ Variables
 -   **Name** – Name in language of origin.
     -   Different language versions in “Name” are divided by “//”.
     -   *see also* “Name other” below for non-latin and minority
-        language names
+        language names (e.g. [Christian Social People’s
+        Party](https://partyfacts.herokuapp.com/data/partycodes/539/))
 -   **Name english** – Translation of the party name into English.
--   **Name other** – Party name in languages with non-latin letters.
+-   **Name other** – Party name in languages with non-latin letters and
+    for minority language names.
     -   *Required*: Indicate the name of the language followed by a
         colon
     -   Several names are divided by a semicolon.
     -   e.g. [Malayalam: ഇന്ത്യൻ യൂണിയൻ മുസ്ലിം ലീഗ്; Urdu: انڈین یونین
         مسلم
         لیگ](https://partyfacts.herokuapp.com/data/partycodes/1455/)
+    -   e.g. [French: Parti populaire chrétien-social; German:
+        Christlich Soziale
+        Volkspartei](https://partyfacts.herokuapp.com/data/partycodes/539/)
 -   **Wikipedia** – A link to the party website on the English
     Wikipedia. We use this link to download the Wikipedia data (Infobox
     and Wikidata).
@@ -366,8 +371,8 @@ Datasets
 In Party Facts we collect party level information from external
 datasets. We do not include these external datasets but **extract party
 information only**. Therefore different datasets from the social
-sciences are linked but are not combined. Currently **45 external
-datasets** are imported and **25319 external parties** are linked.
+sciences are linked but are not combined. Currently **51 external
+datasets** are imported and **34512 external parties** are linked.
 
 Categories
 ----------
@@ -559,6 +564,11 @@ Changes
 =======
 
 ### Codebook
+
+2021-03-08
+
+-   add example for ‘name other’
+-   correct number of core parties
 
 2020-07-17
 

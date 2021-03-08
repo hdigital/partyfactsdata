@@ -2,6 +2,11 @@
 title: "Party Facts"
 subtitle: '*Codebook version: `r Sys.Date()`*'
 output:
+  md_document:
+    variant: markdown_github
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
   html_document:
     code_folding: hide
     fig_height: 5
@@ -10,11 +15,6 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
-  md_document:
-    variant: markdown_github
 ---
 
 <style type="text/css">
@@ -54,6 +54,7 @@ library(tidyverse)
 
 # core parties + countries
 pf_core <- read_csv("https://partyfacts.herokuapp.com/download/core-parties-csv/", na = "") %>% 
+  filter(is.na(technical)) %>% 
   summarise(
     number_countries = n_distinct(country),
     number_parties = n_distinct(partyfacts_id)
@@ -222,12 +223,13 @@ New core parties should include a **vote share** or seats share with its year to
 If no common abbreviation is identifiable, a new short version is added.
 - **Name** -- Name in language of origin.
   - Different language versions in “Name” are divided by “//”.
-  - *see also* “Name other” below for non-latin and minority language names
+  - *see also* “Name other” below for non-latin and minority language names (e.g. [Christian Social People's Party](https://partyfacts.herokuapp.com/data/partycodes/539/))
 - **Name english** -- Translation of the party name into English.
-- **Name other** -- Party name in languages with non-latin letters.
+- **Name other** -- Party name in languages with non-latin letters and for minority language names.
   - _Required_: Indicate the name of the language followed by a colon
   - Several names are divided by a semicolon.
   - e.g. [Malayalam: ഇന്ത്യൻ യൂണിയൻ മുസ്ലിം ലീഗ്; Urdu: انڈین یونین مسلم لیگ](https://partyfacts.herokuapp.com/data/partycodes/1455/)
+  - e.g. [French: Parti populaire chrétien-social; German: Christlich Soziale Volkspartei](https://partyfacts.herokuapp.com/data/partycodes/539/)
 - **Wikipedia** -- A link to the party website on the English Wikipedia. We use this link to download the Wikipedia data (Infobox and Wikidata). 
 - **Year first** -- Foundation of the party (usually automatically filled out based on source).
 If no information is available, the first election occurrence may be entered or the first year the party appears on an external dataset.
@@ -439,6 +441,10 @@ We review all comments and mark them as solved once the issue has been addressed
 
 ### Codebook
 
+2021-03-08
+
+- add example for 'name other'
+- correct number of core parties
 
 2020-07-17
 
