@@ -112,12 +112,12 @@ Core vs. external parties
 
 **Core parties** are observations that have been gathered by the Party
 Facts project. They can be added and edited on the Party Facts webpage.
-Currently we include **5718 core parties**.
+Currently we include around **5700 core parties**.
 
 **External parties** are observations with party information extracted
 from other datasets – see [Party Facts
 Data](https://github.com/hdigital/partyfactsdata). Currently we include
-**34512 external parties**.
+around **35000 external parties**.
 
 Countries
 =========
@@ -372,7 +372,8 @@ In Party Facts we collect party level information from external
 datasets. We do not include these external datasets but **extract party
 information only**. Therefore different datasets from the social
 sciences are linked but are not combined. Currently **51 external
-datasets** are imported and **34512 external parties** are linked.
+datasets** are imported and around **35000 external parties** are
+linked.
 
 Categories
 ----------

@@ -2,11 +2,6 @@
 title: "Party Facts"
 subtitle: '*Codebook version: `r Sys.Date()`*'
 output:
-  md_document:
-    variant: markdown_github
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
   html_document:
     code_folding: hide
     fig_height: 5
@@ -15,6 +10,11 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+  md_document:
+    variant: markdown_github
 ---
 
 <style type="text/css">
@@ -57,14 +57,14 @@ pf_core <- read_csv("https://partyfacts.herokuapp.com/download/core-parties-csv/
   filter(is.na(technical)) %>% 
   summarise(
     number_countries = n_distinct(country),
-    number_parties = n_distinct(partyfacts_id)
+    number_parties = round(n_distinct(partyfacts_id) / 100) * 100
   )
 
 # external parties + datasets
 pf_external <- read_csv("https://partyfacts.herokuapp.com/download/external-parties-csv/", na = "") %>% 
   summarise(
     number_datasets = n_distinct(dataset_key),
-    number_external_parties = n()
+    number_external_parties = as.character(round(n() / 5000) * 5000)
   )
 ```
 
@@ -149,9 +149,9 @@ A party with a significant leader (prime minister, president, etc.) does also se
 
 ## Core vs. external parties
 
-**Core parties** are observations that have been gathered by the Party Facts project. They can be added and edited on the Party Facts webpage. Currently we include **`r  pf_core$number_parties` core parties**.
+**Core parties** are observations that have been gathered by the Party Facts project. They can be added and edited on the Party Facts webpage. Currently we include around **`r  pf_core$number_parties` core parties**.
 
-**External parties** are observations with party information extracted from other datasets – see [Party Facts Data](https://github.com/hdigital/partyfactsdata). Currently we include **`r  pf_external$number_external_parties` external parties**.
+**External parties** are observations with party information extracted from other datasets – see [Party Facts Data](https://github.com/hdigital/partyfactsdata). Currently we include around **`r  pf_external$number_external_parties` external parties**.
 
 
 # Countries
@@ -299,7 +299,7 @@ You can remove your validation by clicking the highlighted validate-button again
 
 # Datasets
 
-In Party Facts we collect party level information from external datasets. We do not include these external datasets but **extract party information only**. Therefore different datasets from the social sciences are linked but are not combined. Currently **`r pf_external$number_datasets` external datasets** are imported and **`r pf_external$number_external_parties` external parties** are linked.
+In Party Facts we collect party level information from external datasets. We do not include these external datasets but **extract party information only**. Therefore different datasets from the social sciences are linked but are not combined. Currently **`r pf_external$number_datasets` external datasets** are imported and around **`r pf_external$number_external_parties` external parties** are linked.
 
 
 ## Categories
