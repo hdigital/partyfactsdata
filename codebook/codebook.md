@@ -177,7 +177,7 @@ There are other technical options for linking parties:
 -   **unknown** – parties that could not be identified (should include a
     short discussion comment)
 -   **independent** – non-partisan, independent
--   **other** – category other in external dataset
+-   **other** – category *other* in external dataset
 -   **1perc** – a party winning less than 1.0% vote share in national
     elections
     -   Please add a short comment to the external party with the
