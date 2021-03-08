@@ -2,6 +2,11 @@
 title: "Party Facts"
 subtitle: '*Codebook version: `r Sys.Date()`*'
 output:
+  md_document:
+    variant: markdown_github
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
   html_document:
     code_folding: hide
     fig_height: 5
@@ -10,11 +15,6 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
-  md_document:
-    variant: markdown_github
 ---
 
 <style type="text/css">
@@ -329,7 +329,7 @@ For each dataset we document in the Party Facts database the following variables
 - **key** -- A unique key (letters and numbers only) identifying the dataset. This key is the same as the folder name of the dataset in the Github repository.
 - **type** -- The type of the dataset and its connection to the Party Facts project -- see above.
 - **name** -- Name of the dataset as it appears on the website.
-- **reference** -- A reference for the dataset to be used for citing the source.
+- **reference** -- A reference for the dataset to be used for citing the source ([APSA style guide](https://connect.apsanet.org/stylemanual/references/)).
 - **url** -- Dataset webpage (if available).
 - **description** -- A short summary of the party level information included in the dataset.
 - **comment** -- Additional information about the dataset (not required).

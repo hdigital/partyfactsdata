@@ -418,7 +418,8 @@ variables to extract the desired information:
     Facts project – see above.
 -   **name** – Name of the dataset as it appears on the website.
 -   **reference** – A reference for the dataset to be used for citing
-    the source.
+    the source ([APSA style
+    guide](https://connect.apsanet.org/stylemanual/references/)).
 -   **url** – Dataset webpage (if available).
 -   **description** – A short summary of the party level information
     included in the dataset.

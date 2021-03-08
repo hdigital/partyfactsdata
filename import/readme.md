@@ -37,7 +37,7 @@ Template for dataset readme.md files
 
 ## Source
 
-+ (...) reference in APSR style
++ (...) reference in APSA style
 
 ## Credits (optional)
 
