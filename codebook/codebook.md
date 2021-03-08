@@ -9,36 +9,29 @@ body {
 
 **Project leaders**
 
-Paul Bederke (University of Bremen) – since 2019
-
-Holger Döring (Bremen) – since 2012
-
-Sven Regel (WZB Berlin Social Science Center) – since 2012 </br>
+-   Paul Bederke (University of Bremen) – since 2019
+-   Holger Döring (Bremen) – since 2012
+-   Sven Regel (WZB Berlin Social Science Center) – since 2012 </br>
 
 **Contact**
 
-Paul Bederke –
-<a href="mailto:pbederke@uni-bremen.de" class="email">pbederke@uni-bremen.de</a>
-</br>
+-   Paul Bederke – <pbederke@uni-bremen.de> </br>
 
 **References**
 
-Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of
-Political Parties Worldwide.” Party Politics 25(2): 97–109. doi:
-[doi.org/10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671).
+-   Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of
+    Political Parties Worldwide.” Party Politics 25(2): 97–109. doi:
+    [doi.org/10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671).
+-   Bederke, Paul, Holger Döring, and Sven Regel. 2020. “Party Facts
+    Dataverse.”
+    [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts).
 
-Bederke, Paul, Holger Döring, and Sven Regel. 2020. “Party Facts
-Dataverse.”
-[dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts).
-
-Overview
-========
+# Overview
 
 Party Facts Website -
 [partyfacts.herokuapp.com](https://partyfacts.herokuapp.com)
 
-Credits
--------
+## Credits
 
 see full credits at [Party Facts “about
 section”](https://partyfacts.herokuapp.com/documentation/about/)
@@ -48,8 +41,7 @@ Schwalbach (University of Bremen) in 2015. This work was funded by a
 small research grant of the University of Bremen ([M8
 Plus](https://www.uni-bremen.de/universitaet/profil/exzellenz/)).
 
-Summary
--------
+## Summary
 
 The Party Facts project aims to offer a gateway to empirical data about
 political parties and provides a modern online platform about parties
@@ -66,8 +58,7 @@ history.
 
 ![](codebook_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
-Working platform
-----------------
+## Working platform
 
 The main output and workflow of the project takes place on the [Party
 Facts Website](https://partyfacts.herokuapp.com).
@@ -81,11 +72,9 @@ a team.
 Long term archiving is provided at the Party Facts Archive
 [Dataverse](https://dataverse.harvard.edu/dataverse/partyfacts).
 
-Parties
-=======
+# Parties
 
-Included parties
-----------------
+## Included parties
 
 The Party Facts project aims to gather information on **all parties** in
 the world which won at least **5.0%** of the votes in a national
@@ -94,7 +83,8 @@ election.
 The project may add parties
 
 -   from external datasets that won at least 1.0% of the vote
--   with a significant leader
+    (preferably in two elections)
+-   with a significant leader (prime minister, president)
 -   included in multiple external datasets (preferably at least three
     datasets)
 
@@ -104,14 +94,14 @@ first/last year, election results) in the external source. We aim to
 avoid including small and short lived parties. If feasible, we remove
 these smaller parties during the import.
 
-We include electoral alliances that take part in **at least two
-elections** (see section “[Electoral alliances](#electoral-alliances)”).
+Examples for additional, optional inclusion criteria of parties:
 
-A party with a significant leader (prime minister, president, etc.) does
-also serve as an inclusion criteria for Party Facts.
+-   electoral alliances with *at least two elections* (see section
+    “[Electoral alliances](#electoral-alliances)”).
+-   senior minister, multiple ministers
+-   below 1% vote share over a long period
 
-Core vs. external parties
--------------------------
+## Core vs. external parties
 
 **Core parties** are observations that have been gathered by the Party
 Facts project. They can be added and edited on the Party Facts webpage.
@@ -122,8 +112,7 @@ from other datasets – see [Party Facts
 Data](https://github.com/hdigital/partyfactsdata). Currently we include
 around **35000 external parties**.
 
-Countries
-=========
+# Countries
 
 Party Facts covers every country in the world that is included in an
 external dataset.
@@ -142,11 +131,9 @@ definitions.
 -   ISO 3166-1 Codes for the Representation of Names of Countries and
     their Subdivisions – Part 1: Country Codes
 
-Linking
-=======
+# Linking
 
-Party links
------------
+## Party links
 
 The aim of the project is to combine and harmonize party information
 from different datasets of political science. Parties from external
@@ -165,8 +152,7 @@ in mind:
 -   If the respective core party does not exist yet, please add it (see
     chapter “[Adding parties](#adding-parties)”).
 
-Technical links
----------------
+## Technical links
 
 There are other technical options for linking parties:
 
@@ -180,11 +166,8 @@ There are other technical options for linking parties:
 -   **other** – category *other* in external dataset
 -   **1perc** – a party winning less than 1.0% vote share in national
     elections
-    -   Please add a short comment to the external party with the
-        respective max. vote share (\< 1.0%) and year of election
 
-Multiple links
---------------
+## Multiple links
 
 Most external parties are linked to exactly one core party. A few
 external parties may be linked to multiple core parties.
@@ -207,8 +190,7 @@ primary link for an external party with multiple links to core parties
 can also be reset on the page of the respective external party. A user
 comment for this party is created for any change in the primary link.
 
-Adding parties
-==============
+# Adding parties
 
 If a party of an external dataset has no corresponding match among the
 core parties, please add a new core party. Again, we included all
@@ -220,8 +202,7 @@ New core parties should include a **vote share** or seats share with its
 year to identify the party. A short **description** should be included
 if no share information is available (e.g. party in government only).
 
-Party names
------------
+## Party names
 
 -   Names should be *capitalized* and cleaned with respect to spelling,
     characters etc.
@@ -235,8 +216,7 @@ Party names
     (e.g. [\[United\] Democratic
     Party](https://partyfacts.herokuapp.com/data/partycodes/2305/))
 
-Variables
----------
+## Variables
 
 -   **Name short** – Common abbreviation of the party name in the
     language of origin. If no common abbreviation is identifiable, a new
@@ -279,19 +259,16 @@ Variables
     include party relations such as predecessor, successor, name
     changes, mergers and alliances.
 
-Deleting parties
-----------------
+## Deleting parties
 
 Observations (parties, links, etc.) may be removed by any user due to
 coding mistakes or duplicates. It is important to **give a short reason
 for deleting** an observation in the comment to document the coding
 decision.
 
-Alliances and changes
-=====================
+# Alliances and changes
 
-Electoral alliances
--------------------
+## Electoral alliances
 
 We record only electoral alliances that take part in **at least two
 elections**. All other (one term) electoral alliances are linked to the
@@ -313,39 +290,25 @@ be recorded in the following format
     -   e.g. [Polish United Workers’
         Party](http://partyfacts.herokuapp.com/data/partycodes/1286/)
 
-*Note*: This applies only to alliances (that took part in at least two
-elections) and relevant parties (\> 1% share).
+## Party changes
 
-Party changes
--------------
-
-*Experimental – initial implementation December 2015*
+*Note — Coding of party changes and party names incomplete.*
 
 Relations between parties are shown on the core party’s page, containing
-**successor and predecessor** parties. Despite simple successor or
-predecessor relationships, there is a variety of special relations,
-which are recorded in the project.
+**successor and predecessor** parties.
 
-First of all, the emergence of a party from a different party is noted
-by adding a successor or predecessor relationship on the core party’s
-page. The plus-button allows you to add a party relation and its year.
-It does not matter from which side of the relationship you start. If a
-successor relationship has been implemented, the predecessor information
-will be filled out automatically.
+Renamings of parties are recorded in the description:
 
-If a party is renamed only without a party change, add an entry to the
-comments section:
-
--   renamed into `<name>` in `<year>`
--   e.g. [Democratic Liberal Party / New Korea
-    Party](http://partyfacts.herokuapp.com/data/partycodes/894/)
+-   `<year>` `<name_english>` (`<name>`, `<name_short>`)
+-   e.g. [Left Party / Communist
+    Party](http://partyfacts.herokuapp.com/data/partycodes/830/) ·
+    Sweden
 
 Additionally the new (or respective old) name of the party may be added
 to the party name by using a slash to divide the names. Please see
 chapter “[Adding parties](#adding-parties)” for further instructions.
 
-Validation
-==========
+# Validation
 
 As a measure to review existing party links, users are able and
 encouraged to validate links of other users. An active validation of
@@ -369,8 +332,7 @@ validate-button again. Negative validations are summarized and reviewed
 on the [recent
 linking](https://partyfacts.herokuapp.com/activity/linking/) page.
 
-Datasets
-========
+# Datasets
 
 In Party Facts we collect party level information from external
 datasets. We do not include these external datasets but **extract party
@@ -379,8 +341,7 @@ sciences are linked but are not combined. Currently **51 external
 datasets** are imported and around **35000 external parties** are
 linked.
 
-Categories
-----------
+## Categories
 
 Datasets are grouped into different categories depending on their
 connection to the Party Facts project as well as their contribution to
@@ -405,8 +366,7 @@ Currently we include the following categories for
 -   **User dataset**
 -   **Test mapping:** explore interface
 
-Included datasets
------------------
+## Included datasets
 
 Please note that party information from the respective datasets are only
 included into Party Facts and may not yet be completely linked to core
@@ -443,16 +403,14 @@ variables to extract the desired information:
 -   **Var description** – Further remarks.
 -   **Var comment** – Further comments.
 
-Information on datasets
------------------------
+## Information on datasets
 
 For further information about the content of different datasets
 (e.g. number of parties, countries, time span etc.) and the respective
 projects, see [datasets
 overview](https://partyfacts.herokuapp.com/documentation/datasets/).
 
-Available downloads
--------------------
+## Available downloads
 
 Party Facts offers two different datasets, which are directly available
 [here](https://partyfacts.herokuapp.com/download/).
@@ -461,39 +419,38 @@ The dataset “Datasets parties” contains all external parties currently
 included and linked in Party Facts. The information covers:
 
 -   **country** – ISO-code of the country.
--   **dataset\_key** – Abbreviation of the dataset name.
--   **dataset\_party\_id** – unique key of party in external dataset.
--   **name\_short** – Common abbreviation of party.
+-   **dataset_key** – Abbreviation of the dataset name.
+-   **dataset_party_id** – unique key of party in external dataset.
+-   **name_short** – Common abbreviation of party.
 -   **name** – Name of party in language of origin.
--   **name\_english** – Name of party in English.
--   **year\_first** – First observation of the party.
--   **year\_last** – Last observation of the party.
+-   **name_english** – Name of party in English.
+-   **year_first** – First observation of the party.
+-   **year_last** – Last observation of the party.
 -   **share** – Result in a parliamentary election.
--   **share\_year** – Year of the election result.
+-   **share_year** – Year of the election result.
 -   **description** – For further description.
 -   **comment** – Section for comments.
 -   **created** – Date of creation in Party Facts.
 -   **modified** – Date of last modification.
--   **external\_id** – Unique numeric id of external party in Party
+-   **external_id** – Unique numeric id of external party in Party
     Facts.
--   **partyfacts\_id** – Party Facts identification number.
+-   **partyfacts_id** – Party Facts identification number.
 
 The dataset “Core Parties” contains all Party Facts’ core parties with
 the following information:
 
 -   **country** – ISO-code of the country.
--   **partyfacts\_id** – Party Facts identification number.
+-   **partyfacts_id** – Party Facts identification number.
 -   **technical** – Technical identification number the party has been
     linked to.
--   **name\_short** – Common abbreviation of party.
+-   **name_short** – Common abbreviation of party.
 -   **name** – Name of party in language of origin.
--   **name\_english** – Name of party in English.
--   **name\_other** – Party name in languages with non-latin letters.
--   **year\_first** – Foundation of the party.
--   **year\_last** – Dissolvement of the party (blank if still
-    existing).
+-   **name_english** – Name of party in English.
+-   **name_other** – Party name in languages with non-latin letters.
+-   **year_first** – Foundation of the party.
+-   **year_last** – Dissolvement of the party (blank if still existing).
 -   **share** – Result in a parliamentary election.
--   **share\_year** – Year of the election result.
+-   **share_year** – Year of the election result.
 -   **new** – Genuinely new party.
 -   **wikipedia** – Link to the respective Wikipedia homepage.
 -   **description** – For further description.
@@ -503,8 +460,7 @@ the following information:
 
 The download section provides merge examples in R and Stata.
 
-Importing data
-==============
+# Importing data
 
 In general everyone can add a dataset to the project. But please make
 sure that the dataset fits the following criteria:
@@ -541,8 +497,7 @@ automatically linked during the import into the database.
 
 If you have further questions, please contact the project coordinator.
 
-Comments and user interaction
-=============================
+# Comments and user interaction
 
 We use [comments](https://partyfacts.herokuapp.com/activity/comment/)
 for party specific coding information, user interaction, issue tracking,
@@ -566,8 +521,7 @@ core parties information).
 We review all comments and mark them as solved once the issue has been
 addressed.
 
-Changes
-=======
+# Changes
 
 ### Codebook
 

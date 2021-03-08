@@ -29,23 +29,20 @@ body {
 
 **Project leaders**
 
-Paul Bederke (University of Bremen) -- since 2019
-
-Holger Döring (Bremen) -- since 2012
-
-Sven Regel (WZB Berlin Social Science Center) -- since 2012
++ Paul Bederke (University of Bremen) -- since 2019
++ Holger Döring (Bremen) -- since 2012
++ Sven Regel (WZB Berlin Social Science Center) -- since 2012
 </br>
 
 **Contact**
 
-Paul Bederke -- pbederke@uni-bremen.de
++ Paul Bederke -- pbederke@uni-bremen.de
 </br>
 
 **References**
 
-Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of Political Parties Worldwide.” Party Politics 25(2): 97–109. doi: [doi.org/10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671).
-
-Bederke, Paul, Holger Döring, and Sven Regel. 2020. “Party Facts Dataverse.” [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts).
++ Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of Political Parties Worldwide.” Party Politics 25(2): 97–109. doi: [doi.org/10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671).
++ Bederke, Paul, Holger Döring, and Sven Regel. 2020. “Party Facts Dataverse.” [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts).
 
 
 
@@ -139,15 +136,17 @@ The Party Facts project aims to gather information on **all parties** in the wor
 
 The project may add parties
 
-- from external datasets that won at least 1.0% of the vote
-- with a significant leader
+- from external datasets that won at least 1.0% of the vote (preferably in two elections)
+- with a significant leader (prime minister, president)
 - included in multiple external datasets (preferably at least three datasets)
 
 The respective threshold for including and linking parties from external datasets depends on the quality of the party level information (names, first/last year, election results) in the external source. We aim to avoid including small and short lived parties. If feasible, we remove these smaller parties during the import. 
 
-We include electoral alliances that take part in **at least two elections** (see section "[Electoral alliances]").
+Examples for additional, optional inclusion criteria of parties:
 
-A party with a significant leader (prime minister, president, etc.) does also serve as an inclusion criteria for Party Facts.
++ electoral alliances with *at least two elections* (see section "[Electoral alliances]").
++ senior minister, multiple ministers
++ below 1% vote share over a long period
 
 ## Core vs. external parties
 
@@ -190,7 +189,6 @@ There are other technical options for linking parties:
 - **independent** -- non-partisan, independent
 - **other** -- category _other_ in external dataset
 - **1perc** -- a party winning less than 1.0% vote share in national elections
-  + Please add a short comment to the external party with the respective max. vote share (< 1.0%) and year of election
 
 
 ## Multiple links
@@ -266,21 +264,17 @@ Core parties that form an electoral alliance included in Party Facts can be reco
   - member of `<PartyFactsID>`
   - e.g. [Polish United Workers' Party](http://partyfacts.herokuapp.com/data/partycodes/1286/)
 
-_Note_: This applies only to alliances (that took part in at least two elections) and relevant parties (> 1% share).
-
 
 ## Party changes
 
-*Experimental -- initial implementation December 2015*
+_Note — Coding of party changes and party names incomplete._
 
-Relations between parties are shown on the core party’s page, containing **successor and predecessor** parties. Despite simple successor or predecessor relationships, there is a variety of special relations, which are recorded in the project.
+Relations between parties are shown on the core party’s page, containing **successor and predecessor** parties.
 
-First of all, the emergence of a party from a different party is noted by adding a successor or predecessor relationship on the core party’s page. The plus-button allows you to add a party relation and its year. It does not matter from which side of the relationship you start. If a successor relationship has been implemented, the predecessor information will be filled out automatically.
+Renamings of parties are recorded in the description:
 
-If a party is renamed only without a party change, add an entry to the comments section:
-
-- renamed into `<name>` in `<year>`
-- e.g. [Democratic Liberal Party / New Korea Party](http://partyfacts.herokuapp.com/data/partycodes/894/)
+- `<year>` `<name_english>` (`<name>`, `<name_short>`)
+- e.g. [Left Party / Communist Party](http://partyfacts.herokuapp.com/data/partycodes/830/) · Sweden
 
 Additionally the new (or respective old) name of the party may be added to the party name by using a slash to divide the names. Please see chapter "[Adding parties]" for further instructions.
 
