@@ -574,7 +574,10 @@ Changes
 2021-03-08
 
 -   add example for ‘name other’
--   correct number of core parties
+-   round number of core parties
+-   APSA style guide reference
+-   add/revise inclusion criteria for electoral alliances
+-   minor revisions
 
 2020-07-17
 
@@ -666,6 +669,11 @@ Changes
 
 Documentation of automatic data changes since November 2018 (user
 robot).
+
+2021-03-08
+
+-   update core parties share information using external datasets
+-   removed “ParIS” entry from comment field in core parties (about 500)
 
 2018-11-17
 
