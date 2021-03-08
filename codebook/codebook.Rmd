@@ -2,11 +2,6 @@
 title: "Party Facts"
 subtitle: '*Codebook version: `r Sys.Date()`*'
 output:
-  md_document:
-    variant: markdown_github
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
   html_document:
     code_folding: hide
     fig_height: 5
@@ -15,6 +10,11 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+  md_document:
+    variant: markdown_github
 ---
 
 <style type="text/css">
@@ -143,7 +143,9 @@ The project may add parties
 - with a significant leader
 - included in multiple external datasets (preferably at least three datasets)
 
-The respective threshold for including and linking parties from external datasets depends on the quality of the party level information (names, first/last year, election results) in the external source. We aim to avoid including small and short lived parties. If feasible, we remove these smaller parties during the import.
+The respective threshold for including and linking parties from external datasets depends on the quality of the party level information (names, first/last year, election results) in the external source. We aim to avoid including small and short lived parties. If feasible, we remove these smaller parties during the import. 
+
+We include electoral alliances that take part in **at least two elections** (see section "[Electoral alliances]").
 
 A party with a significant leader (prime minister, president, etc.) does also serve as an inclusion criteria for Party Facts.
 
@@ -175,7 +177,7 @@ The aim of the project is to combine and harmonize party information from differ
 While linking a dataset to the project, please keep the following issues in mind:
 
 - If possible link the party to an existing corresponding core party.
-- If the respective core party does not exist yet, please add it (see chapter "Adding parties").
+- If the respective core party does not exist yet, please add it (see chapter "[Adding parties]").
 
 
 ## Technical links
@@ -183,7 +185,7 @@ While linking a dataset to the project, please keep the following issues in mind
 There are other technical options for linking parties:
 
 - **technical** -- e.g. invalid votes, blank votes, no vote, mixed vote etc.
-- **alliance** -- electoral alliance which took part in only one election (see section"Electoral alliances")
+- **alliance** -- electoral alliance which took part in only one election (see section "[Electoral alliances]")
 - **unknown** -- parties that could not be identified (should include a short discussion comment)
 - **independent** -- non-partisan, independent
 - **other** -- category other in external dataset
@@ -204,7 +206,7 @@ We distinguish between the two types to make merging datasets easier and to avoi
 
 # Adding parties
 
-If a party of an external dataset has no corresponding match among the core parties, please add a new core party. Again, we included all parties that won **at least one percent in a national election** (see [Parties]). This can be either achieved through the core parties list of the respective country or through the linking section.
+If a party of an external dataset has no corresponding match among the core parties, please add a new core party. Again, we included all parties that won **at least one percent in a national election** (see "[Parties]"). This can be either achieved through the core parties list of the respective country or through the linking section.
 
 New core parties should include a **vote share** or seats share with its year to identify the party. A short **description** should be included if no share information is available (e.g. party in government only).
 
@@ -250,7 +252,7 @@ Observations (parties, links, etc.) may be removed by any user due to coding mis
 
 ## Electoral alliances
 
-We record only electoral alliances that take part in **at least two elections**. All other (one term) electoral alliances are linked to the “technical” category -- see section "Technical links".
+We record only electoral alliances that take part in **at least two elections**. All other (one term) electoral alliances are linked to the “technical” category -- see section "[Technical links]".
 
 An electoral alliance included in at least **three other datasets** may be added as well.
 
@@ -280,7 +282,7 @@ If a party is renamed only without a party change, add an entry to the comments 
 - renamed into `<name>` in `<year>`
 - e.g. [Democratic Liberal Party / New Korea Party](http://partyfacts.herokuapp.com/data/partycodes/894/)
 
-Additionally the new (or respective old) name of the party may be added to the party name by using a slash to divide the names. Please see chapter "Adding parties" for further instructions.
+Additionally the new (or respective old) name of the party may be added to the party name by using a slash to divide the names. Please see chapter "[Adding parties]" for further instructions.
 
 
 # Validation
@@ -404,7 +406,7 @@ The download section provides merge examples in R and Stata.
 In general everyone can add a dataset to the project. But please make sure that the dataset fits the following criteria:
 
 - Only datasets with a scientific background are added to Party Facts
-- The dataset should contain the following information as variables. (For detailed information see chapters "Adding parties" and "Datasets")
+- The dataset should contain the following information as variables. (For detailed information see chapters "[Adding parties]" and "[Datasets]")
   - English name
   - Name short
   - Original name

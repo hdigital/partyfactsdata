@@ -104,6 +104,9 @@ first/last year, election results) in the external source. We aim to
 avoid including small and short lived parties. If feasible, we remove
 these smaller parties during the import.
 
+We include electoral alliances that take part in **at least two
+elections** (see section “[Electoral alliances](#electoral-alliances)”).
+
 A party with a significant leader (prime minister, president, etc.) does
 also serve as an inclusion criteria for Party Facts.
 
@@ -160,7 +163,7 @@ in mind:
 
 -   If possible link the party to an existing corresponding core party.
 -   If the respective core party does not exist yet, please add it (see
-    chapter “Adding parties”).
+    chapter “[Adding parties](#adding-parties)”).
 
 Technical links
 ---------------
@@ -170,7 +173,7 @@ There are other technical options for linking parties:
 -   **technical** – e.g. invalid votes, blank votes, no vote, mixed vote
     etc.
 -   **alliance** – electoral alliance which took part in only one
-    election (see section“Electoral alliances”)
+    election (see section “[Electoral alliances](#electoral-alliances)”)
 -   **unknown** – parties that could not be identified (should include a
     short discussion comment)
 -   **independent** – non-partisan, independent
@@ -210,7 +213,7 @@ Adding parties
 If a party of an external dataset has no corresponding match among the
 core parties, please add a new core party. Again, we included all
 parties that won **at least one percent in a national election** (see
-[Parties](#parties)). This can be either achieved through the core
+“[Parties](#parties)”). This can be either achieved through the core
 parties list of the respective country or through the linking section.
 
 New core parties should include a **vote share** or seats share with its
@@ -292,7 +295,8 @@ Electoral alliances
 
 We record only electoral alliances that take part in **at least two
 elections**. All other (one term) electoral alliances are linked to the
-“technical” category – see section “Technical links”.
+“technical” category – see section “[Technical
+links](#technical-links)”.
 
 An electoral alliance included in at least **three other datasets** may
 be added as well.
@@ -338,7 +342,7 @@ comments section:
 
 Additionally the new (or respective old) name of the party may be added
 to the party name by using a slash to divide the names. Please see
-chapter “Adding parties” for further instructions.
+chapter “[Adding parties](#adding-parties)” for further instructions.
 
 Validation
 ==========
@@ -507,8 +511,8 @@ sure that the dataset fits the following criteria:
 
 -   Only datasets with a scientific background are added to Party Facts
 -   The dataset should contain the following information as variables.
-    (For detailed information see chapters “Adding parties” and
-    “Datasets”)
+    (For detailed information see chapters “[Adding
+    parties](#adding-parties)” and “[Datasets](#datasets)”)
     -   English name
     -   Name short
     -   Original name
