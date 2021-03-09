@@ -9,9 +9,18 @@ manifesto <- manifesto_raw %>% select(-country) %>% inner_join(manifesto_share)
 # add Party Facts country codes
 country_custom <- c(`German Democratic Republic` = "DDR",
                     `Northern Ireland` = "NIR")
+
 manifesto <- manifesto %>%
-  mutate(country = countrycode(countryname, "country.name", "iso3c",
-                               custom_match = country_custom))
+  mutate(country = countrycode(
+    countryname, "country.name", "iso3c", custom_match = country_custom
+  ),
+  dummy_nir = if_else(country == "NIR", 1, 0),
+  country = case_when(
+    country == "NIR" ~ "GBR",
+    TRUE ~ country
+  )
+  )
+
 if(any(is.na(manifesto$country))) {
   warning("Country name clean-up needed")
 }
@@ -19,4 +28,4 @@ if(any(is.na(manifesto$country))) {
 # replace party short longer than 25 chars
 manifesto[nchar(manifesto$abbrev) > 25 & ! is.na(manifesto$abbrev), "abbrev"] <- NA
 
-write.csv(manifesto, "manifesto.csv", na = "", fileEncoding = "utf-8", row.names = FALSE)
+write_csv(manifesto, "manifesto.csv", na = "")
