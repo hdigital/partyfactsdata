@@ -1,301 +1,301 @@
-huber_id,country,name_english,name,name_short,country_short
-101,ARGENTINA,Radical Civic Union,Union Civica Radical,UCR,ARG
-102,ARGENTINA,Justice Party,Partido Justicialista,PJ,ARG
-203,AUSTRALIA,Australian Democrats,Australian Democrats,AD,AUS
-204,AUSTRALIA,Australian Labour Party,Australian Labour Party,ALP,AUS
-205,AUSTRALIA,Liberal Party,Liberal Party,LPA,AUS
-206,AUSTRALIA,National Party of Australia,National Party of Australia,NPA,AUS
-307,AUSTRIA,Green Alternative,Gruene Alternativen,GA,AUT
-308,AUSTRIA,Austrian Socialist Party,Sozialistische Partei,SPO,AUT
-309,AUSTRIA,Austrian People's Party,Volkspartei,OVP,AUT
-310,AUSTRIA,Liberal Forum,Liberales Forum,LF,AUT
-311,AUSTRIA,Austrian Freedom Party,Freiheitliche Partei,FPO,AUT
-401,BELGIUM,Ecologist,Agalev,A,BEL
-402,BELGIUM,Ecologist,Ecolo,E,BEL
-403,BELGIUM,Socialist,Parti Socialiste,PS,BEL
-404,BELGIUM,Flemish Socialist Party,Socialistische Partij,SP,BEL
-405,BELGIUM,Christian-Social Party,Parti Social Chretien,PSC,BEL
-406,BELGIUM,Flemish Christian People's Party,Christelijke Volkspartij,CVP,BEL
-407,BELGIUM,People's Union,Volksunie,VU,BEL
-408,BELGIUM,Democratic Front of the Francophones,Front Democratique des Francophones,FDF,BEL
-409,BELGIUM,Liberal Reform Party,Parti Reformateur Liberal,PRL,BEL
-501,BRAZIL,Brazilian Communist Party,Partido Comunista do Brasil,PCdoB,BRA
-502,BRAZIL,Brasileire Workers' Party,Partido Trabalhista,PTB,BRA
-503,BRAZIL,People's Social Party,Partido Popular Social,PPS,BRA
-504,BRAZIL,Democratic Labour Party,Partido Democratico Trabalhista,PDT,BRA
-505,BRAZIL,Brazilian Social Democracy,Partido da Social Democrata Brasileira,PSDB,BRA
-506,BRAZIL,Party of Brazilian Democratic Movement,Partido do Movimento Democratico Brasiliero,PMDB,BRA
-507,BRAZIL,Liberal Party,Partido Liberal,PL,BRA
-508,BRAZIL,Liberal Front,Partido da Frente Liberal,PFL,BRA
-509,BRAZIL,Social Democratic Party,Partido Democratico Social,PDS,BRA
-601,BRITAIN,Labour,Labour,Lab,GBR
-602,BRITAIN,Liberal Democratic Party,Liberal Democratic Party,LDP,GBR
-603,BRITAIN,Conservative Party,Conservative Party,Con,GBR
-701,BULGARIA,Bulgarian Communist Party,Bulgarska Komunisticheska Partiya,BKP,BGR
-702,BULGARIA,Bulgarian Socialist Party,Bulgarska Socialisticheska Partiya,BSP,BGR
-703,BULGARIA,Bulgarian Social Democratic Party,,BSDP,BGR
-704,BULGARIA,Naroden Soyuz Bulgarian Agrarian National Movement,Bulgarski Zemedelski,BANU,BGR
-705,BULGARIA,Green Party,,GP,BGR
-706,BULGARIA,Union of Democratic Forces,Soyuz na Demokratichnite Sili,SDS,BGR
-707,BULGARIA,Bulgarian Liberal Party,,BPL,BGR
-708,BULGARIA,Bulgarian Business Bloc,,BBB,BGR
-709,BULGARIA,Democratic Party,,DP,BGR
-801,CANADA,New Democratic Party,New Democratic Party,NDP,CAN
-802,CANADA,Bloc Quebecois,Bloc Quebecois,BQ,CAN
-803,CANADA,Liberal Party,Liberal Party,L,CAN
-804,CANADA,Progressive Conservative Party,Progressive Conservative Party,PCP,CAN
-805,CANADA,Reform Party,Reform Party,RP,CAN
-901,CHILE,Communist,Partido Comunista,PC,CHL
-902,CHILE,Socialist,Partido Socialista,PS,CHL
-903,CHILE,Reformed Socialist,Partido por la Democracia,PPD,CHL
-904,CHILE,Christian Democrat,Partido Democrata Cristiano,PDC,CHL
-905,CHILE,Radical Party,Partido Radical,PR,CHL
-906,CHILE,Moderate right,Renovacion National,RN,CHL
-907,CHILE,Pinochet,Union Democrata Independiente,UDI,CHL
-1001,CZECH REPUBLIC,Left Bloc,Komunisticka Strana C.a.M.,KSCM,CZE
-1002,CZECH REPUBLIC,Social Democrats,Ceskastrana Socialne Demokraticka,CSSD,CZE
-1003,CZECH REPUBLIC,Liberal Social,Liberalni Socialni Unie,LSU,CZE
-1004,CZECH REPUBLIC,Civic Movement,Obcanske Hunte,OH,CZE
-1005,CZECH REPUBLIC,Civic Democratic Party,Obcansko Demokraticka Strana,ODS,CZE
-1006,CZECH REPUBLIC,Civic Democratic Alliance,Obcansko Demokraticka Aliance,ODA,CZE
-1007,CZECH REPUBLIC,Christian Democratic Union -- Czech People's Party,Krestanska Demokraticka Unie-Ceska Strana Lidova,KDU-CSL,CZE
-1008,CZECH REPUBLIC,Christian Democratic Party,Krestansko Demokracie,KDS,CZE
-1009,CZECH REPUBLIC,Republican Party,Republik Duska Strana Ceska,SPR-RSC,CZE
-1101,DENMARK,Red-Green List,Rod-Gron Enhedsliste,RGE,DNK
-1102,DENMARK,Socialist People's,Socialistik Folkeparti,SF,DNK
-1103,DENMARK,Social Democrat,Socialdemokratiet,SD,DNK
-1104,DENMARK,Radical Liberals,Radikale Venstre,RV,DNK
-1105,DENMARK,Centre Democrats,Centrum-demokraterne,CD,DNK
-1106,DENMARK,Christian People's,Kristeligt Folkeparti,KRF,DNK
-1107,DENMARK,Conservatives,Konservative Folkeparti,KF,DNK
-1108,DENMARK,Liberal,Venstre,V,DNK
-1109,DENMARK,Progress Party,Fremskridtspartiet,FRP,DNK
-1201,ESTONIA,Russian Democratic Movement,,RDM,EST
-1202,ESTONIA,Estonian Democratic Labor Party,,EDLP,EST
-1203,ESTONIA,Estonian Rural Union,,ERU,EST
-1204,ESTONIA,Estonian Center Party,,ECP,EST
-1205,ESTONIA,Estonian Social Democratic Party,,ESDP,EST
-1206,ESTONIA,Greens,,-,EST
-1207,ESTONIA,Estonian Rural Center Party,,ERCP,EST
-1208,ESTONIA,Liberal Democratic Party,,ELDP,EST
-1209,ESTONIA,Coalition Party,,CP,EST
-1210,ESTONIA,Estonian National Independence Party,,ENIP,EST
-1211,ESTONIA,Estonian Party of Entrepreneurs,,EPE,EST
-1212,ESTONIA,Pro Patria,,NCP,EST
-1213,ESTONIA,National Party of the Unlawfully Repressed,,NPUR,EST
-1214,ESTONIA,Estonian Farmers' Party,,EFP,EST
-1301,FINLAND,left-Wing Alliance,Vasemmistoliitto,VAS,FIN
-1302,FINLAND,Green League,Vihrea Liitto,VIHR,FIN
-1303,FINLAND,Social Democratic Party,Sosialidemokraattinen Puolue,SDP,FIN
-1304,FINLAND,Liberal People's Party,Liberaalinen Kansanpuolue,LKP,FIN
-1305,FINLAND,Swedish People's Party,Svenska Folkpartiet,SFP,FIN
-1306,FINLAND,Centre Party,Suomen Keskusta,KESK,FIN
-1307,FINLAND,Rural Party,Maaseudun Puole,SMP,FIN
-1308,FINLAND,National Coalition,Kansallinen Kokoomus,KOK,FIN
-1309,FINLAND,Christian Union,Kristillinen Liitto,SKL,FIN
-1401,FRANCE,Republican Communist Front,Lutte Communiste pour la Republique,LCR,FRA
-1402,FRANCE,Workers' Front,Lutte Ouvriere,LO,FRA
-1403,FRANCE,Communist,Parti Communiste,PCF,FRA
-1404,FRANCE,Socialist,Parti Socialiste,PS,FRA
-1405,FRANCE,Ecologists,Generation Ecologie,GE,FRA
-1406,FRANCE,Ecologist,Ecologiste,E,FRA
-1407,FRANCE,left Radicals,Mouvement des Radicaux de Gauche,MRG,FRA
-1408,FRANCE,Social Democratic Center,Centre des Democrats Sociaux,CDS,FRA
-1409,FRANCE,Union for French Democracy,Union pour la Democratie Francaise,UDF,FRA
-1410,FRANCE,Republican,Parti Republicain,PR,FRA
-1411,FRANCE,Rally for the Republic,Rassemblement pour la Republique,RPR,FRA
-1412,FRANCE,National Front,Front National,FN,FRA
-1501,GERMANY,Democratic Socialist,Demokratisch-Sozialistische Partei,PDS,DEU
-1502,GERMANY,Green,Die Gruenen,G,DEU
-1503,GERMANY,Social Democrat,Sozialdemokratische Partei Deutschlands,SPD,DEU
-1504,GERMANY,Free Democrat,Freie Demokratische Partei,FDP,DEU
-1505,GERMANY,Christian Democrat,Christlich Demokratische Union,CDU,DEU
-1506,GERMANY,Christian Social Union,Christlich Soziale Union,CSU,DEU
-1507,GERMANY,Republican,Republikaner,Rep,DEU
-1601,HUNGARY,Hungarian Socialist Party,Magyar Szocialista Part,MSZP,HUN
-1602,HUNGARY,Alliance of Free Democrats,Szabad Demokratak Szoevetsege,SLDSZ,HUN
-1603,HUNGARY,Federation of Young Democrats,Fiatal Demokratak Szoevetsege,FIDESZ,HUN
-1604,HUNGARY,Christian Democratic People's Party,Keresztenydemokrata Neppart,KDNP,HUN
-1605,HUNGARY,Hungarian Democratic Forum,Magyar Demokrata Forum,MDF,HUN
-1606,HUNGARY,Independent Smallholders' Party,Fuggetlen Kisgazda Part,FKGP,HUN
-1701,ICELAND,Womens' Alliance,Samtok um kvennalista,WA,ISL
-1702,ICELAND,People's Alliance,Althydubandalag,PA,ISL
-1703,ICELAND,Progressive Party,Framsoknarflokkurinn,PP,ISL
-1704,ICELAND,Social Democrat,Althyduflokkurinn,SDP,ISL
-1705,ICELAND,Independence Party,Sjaltstaedisflokkurinn,IP,ISL
-1801,INDIA,Communist Party of India (Marxist-Leninist),,CPI/ML,IND
-1802,INDIA,Communist Party of India (Marxist),,CPM,IND
-1803,INDIA,Communist Party of India,,CPI,IND
-1804,INDIA,People's Party -- A,Janata Dal  (A),JD A,IND
-1805,INDIA,Janata Dal,,JD,IND
-1806,INDIA,All Indian Anna Party (=rural Tamil party),,AIDMK,IND
-1807,INDIA,Indian National Congress,,INC,IND
-1808,INDIA,Bahurja Sanaj Party,,BSP,IND
-1809,INDIA,Dravidian Progressive Federation =rural Tamil party,Dravida Munnetra Kazhagam,DMK,IND
-1810,INDIA,Bharatiya Janata Party,,BJP,IND
-1811,INDIA,Indian Union Muslim League,,IUML,IND
-1901,IRELAND,Democratic Left,Democratic Left,DL,IRL
-1902,IRELAND,Labour,Labour,LAB,IRL
-1903,IRELAND,Republican Party,Fianna Fail,FF,IRL
-1904,IRELAND,United Ireland,Fine Gael,FG,IRL
-1905,IRELAND,Progressive Democrats,Progressive Democrats,PDP,IRL
-2001,NORTHERN IRELAND,Sinn Fein,Sinn Fein,SF,NIR
-2002,NORTHERN IRELAND,Worker Party,Worker Party,WP,NIR
-2003,NORTHERN IRELAND,Labour,Labour,LAB,NIR
-2004,NORTHERN IRELAND,Liberal Democrats,Liberal Democrats,LD,NIR
-2005,NORTHERN IRELAND,Alliance,Alliance,A,NIR
-2006,NORTHERN IRELAND,Conservatives,Conservatives,Con,NIR
-2007,NORTHERN IRELAND,Democratic Unionist,Democratic Unionist,DUP,NIR
-2008,NORTHERN IRELAND,Ulster Unionist Party,Ulster Unionist Party,UUP,NIR
-2101,ITALY,Reform Communist,Rifondazione Communista,RC,ITA
-2102,ITALY,Democratic Left,Partito Democratico della Sinistra,PDS,ITA
-2103,ITALY,Green,Liste Verdi,RV,ITA
-2104,ITALY,Socialist,Partito Socialista,PS!,ITA
-2105,ITALY,Democratic Socialist,Partito Socialista Democratico,PSDI,ITA
-2106,ITALY,Republican,Partito Republicano,PRI,ITA
-2107,ITALY,Christian Democrat,Democrazia Cristiana,DC,ITA
-2108,ITALY,Liberal,Partito Liberale,PLI,ITA
-2109,ITALY,League of Northern Italy,Lega Nord,Lega,ITA
-2110,ITALY,Social Movement,Movimento Sociale,MSI,ITA
-2201,JAPAN,Japan Communist Party,Nihon Kyosan-to,JCP,JPN
-2202,JAPAN,Japan Socialist Party,Nihon Shakai-to,JSP (SDPJ),JPN
-2203,JAPAN,Clean Government,Komeito,KOMEI,JPN
-2204,JAPAN,Democratic Socialist Party,Minshato,DSP,JPN
-2205,JAPAN,Liberal Democratic Party,Jiyu Minshu-to,LDP,JPN
-2301,SOUTH KOREA,New Politics Party,Sa Jongjhi Dang,NPP,KOR
-2302,SOUTH KOREA,Democratic Party,Minju Dang,DP,KOR
-2303,SOUTH KOREA,Democratic Liberal Party,Minja Dang,DLP,KOR
-2304,SOUTH KOREA,Unification Nationalist Party,Tongi Kookmin Dang,UNP,KOR
-2401,LITHUANIA,Democratic Labor Party,Lietuvos Demokratine Darbo Partija,LDLP,LTU
-2402,LITHUANIA,Social Democratic Party,Lietuvos Socialdemokratu Partija,LSDP,LTU
-2403,LITHUANIA,Center Movement,Lietuvos Centras Sajudis,LCM,LTU
-2404,LITHUANIA,Christian Democratic Party,Lietuvos Krikscioniu Demokratu Partija,LCDP,LTU
-2405,LITHUANIA,Liberal Union,Liberalu Sajunga,LLU,LTU
-2406,LITHUANIA,Lithuanian Conservatives,Tevynes Sajunga,LC,LTU
-2407,LITHUANIA,Democratic Party,Demokratu Partija,LDP,LTU
-2501,MEXICO,Democratic Revolutionary Party,Partido Revolutionario Democratico,PRD,MEX
-2502,MEXICO,Institutional Revolutionary Party,Partido Revolutionario Institucional,PRI,MEX
-2503,MEXICO,National Action Party,Partido Accion Nacional,PAN,MEX
-2601,NETHERLANDS,Green Left,Groen Links,GL,NLD
-2602,NETHERLANDS,Labour,Partij van de Arbeid,Pvda,NLD
-2603,NETHERLANDS,Democrats '66,Democraten '66,D'66,NLD
-2604,NETHERLANDS,Christian Democrat,Christen-Democratisch Appel,CDA,NLD
-2605,NETHERLANDS,Liberal,Volkspartij voor Vrijheid en Demokratie,VVD,NLD
-2606,NETHERLANDS,Reformed Political Union,Gereformeerd Politiek Verbond,GPV,NLD
-2607,NETHERLANDS,Political Reformed Party,Staatkundig Gereformeerde Partij,SGP,NLD
-2608,NETHERLANDS,Reformed Political Federation,Reformatische Politieke Federatie,RPF,NLD
-2609,NETHERLANDS,Center Democrats,Centrumdemocraten,CD,NLD
-2701,NEW ZEALAND,New Labour Party,New Labour Party,NLP,NZL
-2702,NEW ZEALAND,People's Alliance,People's Alliance,A,NZL
-2703,NEW ZEALAND,Labour Party,Labour Party,LP,NZL
-2704,NEW ZEALAND,National Party,National Party,NP,NZL
-2801,NIGERIA,Social Democratic Party,Social Democratic Party,SDP,NGA
-2802,NIGERIA,National Republican Convention,National Republican Convention,NRC,NGA
-2901,NORWAY,Radical Party,Radikale Venstreparti,RV,NOR
-2902,NORWAY,Socialist Party,Sosialistik Venstreparti,SV,NOR
-2903,NORWAY,Labour Party,Det Norske Arbeiderparti,Ap,NOR
-2904,NORWAY,Center Party,Senterpartiet,SP,NOR
-2905,NORWAY,Agrarian Party,Landmansforbundet,L,NOR
-2906,NORWAY,Liberal,Venstre,V,NOR
-2907,NORWAY,Christian People's Party,Kristelig Folkeparti,KrF,NOR
-2908,NORWAY,Conservative,Hoyre,H,NOR
-2909,NORWAY,Progress Party,Fremskrittspartiet,Fp,NOR
-3001,POLAND,Alliance of Democratic Left,Sojusz Lewicy Demokratycznej,SLD,POL
-3002,POLAND,Polish Peasant Party,Polskie Stronnictwo Ludowe,PSL,POL
-3003,POLAND,Democratic Union,Unia Demokratyczna,UD,POL
-3004,POLAND,Liberal-Democratic Congress,Kongres Liberalno-Demokratyczny,KLD,POL
-3005,POLAND,Civic Alliance Center,Porozumienie Obywatelskie Centrum,POC,POL
-3006,POLAND,Confederation for an Independent Poland,Konfederacja Polski Niepodleglej,KPN,POL
-3007,POLAND,Catholic Elector Action,Wyborcza Akcja Katolicka,ZChN/WAK,POL
-3101,PORTUGAL,Communist,Partido Comunista Portugues,PCP,PRT
-3102,PORTUGAL,Socialist,Partido Socialista,PSP,PRT
-3103,PORTUGAL,Social Democrat,Partido Social Democrata,PSD,PRT
-3104,PORTUGAL,Social and Democratic Center Party or Popular Party,Partido do Centro Democratico e Social,CDS,PRT
-3201,ROMANIA,Liberal Party,Liberal Party,PL,ROU
-3202,ROMANIA,Romanian Social Democratic Party,Partidul Social-Democrat Roman,PSDR,ROU
-3203,ROMANIA,Party of the Civic Alliance,Party of the Civic Alliance,PAC,ROU
-3204,ROMANIA,National Salvation Front,National Salvation Front,FNS,ROU
-3205,ROMANIA,Christian Democratic National Peasants' Party,Partidul National Taranesc-Crestin si Democrat,PNTCD,ROU
-3206,ROMANIA,FDSN,FDSN,FDSN,ROU
-3207,ROMANIA,Agrarian Democratic Party,Agrarian Democratic Party,PDAR,ROU
-3208,ROMANIA,Romanian National Unity Party,Romanian National Unity Party,PUNR,ROU
-3209,ROMANIA,PRM,PRM,PRM,ROU
-3210,ROMANIA,Socialist Labor Party,Socialist Labor Party,PSM,ROU
-3301,RUSSIA,Democratic Union,Demokraticheskii Soyuz,DS,RUS
-3302,RUSSIA,Social Democratic Party of Russia,Sotsial-Demokrati-cheskaia Partiia Rossii,SDPR,RUS
-3303,RUSSIA,Free Democratic Party of Russia,Svobodnaia Demokratichestraia Partiia Rossii,,RUS
-3304,RUSSIA,Russian Party of Free Labor,Rossiiskaia Partiia Svobodnoyo Truda,RPST,RUS
-3305,RUSSIA,Democratic Party of Russia,Demokraticheskaia Partiia Rossii,DPR,RUS
-3306,RUSSIA,Republican Party of Russian Federation,Respublikanskaia Partiia Rossiiskoi Federatsii,RPRF,RUS
-3307,RUSSIA,People's Party of Free Russia/Democratic Party of Communism of Russia,Narodnaia Partiio Svobodnoi Rossii,NPSR,RUS
-3308,RUSSIA,Civic Union,Gradzhdanskii Soyuz,GS,RUS
-3309,RUSSIA,Russian Christian Democratic Movement,Rossiiskoye Khristiansko Demokraticheskoye Dvizhenie,RKDD,RUS
-3310,RUSSIA,Constitution Democratic Party,Konstitutsionno-Demokraticheskaia Partiia,KDP,RUS
-3311,RUSSIA,Russian National Council,Rossiiskii Natsional'nyi Sovet,RNS,RUS
-3312,RUSSIA,Liberal Democratic Party,Liberal'no-Demokraticheskaia Partiia,LDP,RUS
-3401,SLOVAKIA,Slovak National Party,Slovenka Narodna Strana,SNS,SVK
-3402,SLOVAKIA,Party of the Democratic Left,Party of the Democratic Left,SDL,SVK
-3403,SLOVAKIA,Movement for a Democratic Slovakia,Movement for a Democratic Slovakia,HZDS,SVK
-3404,SLOVAKIA,Social Democratic Party,Socialno-Demokraticka Strana na Slovensku,SDSS,SVK
-3405,SLOVAKIA,Christian Democratic Movement,Christian Democratic Movement,KDH,SVK
-3406,SLOVAKIA,Christian Social Union,Christian Social Union,KSU,SVK
-3407,SLOVAKIA,Hungarian Christian Democratic Movement,Hungarian Christian Democratic Movement,MKDH,SVK
-3501,SOUTH AFRICA,Azanian People's Organization,Azanian People's Organization,Azapo,ZAF
-3502,SOUTH AFRICA,South African Communist Party,South African Communist Party,SACP,ZAF
-3503,SOUTH AFRICA,Pan Africanist Congress,Pan Africanist Congress,PAC,ZAF
-3504,SOUTH AFRICA,African National Congress,African National Congress,ANC,ZAF
-3505,SOUTH AFRICA,Liberal Party,Liberal Party,LP,ZAF
-3506,SOUTH AFRICA,Democratic Party,Democratic Party,DP,ZAF
-3507,SOUTH AFRICA,National Party,National Party,NP,ZAF
-3508,SOUTH AFRICA,Inkatha Freedom Party,Inkatha Freedom Party,IFP,ZAF
-3509,SOUTH AFRICA,Conservative Party,Conservative Party,CP,ZAF
-3510,SOUTH AFRICA,African Resistance Movement,Afrikaner Weerstandsbewegung,AWB,ZAF
-3601,SPAIN,Basque United People,Herri Batasuna,HB,ESP
-3602,SPAIN,United Left,Izquierda Unida,IU,ESP
-3603,SPAIN,Socialist,Partido Socialista Obrero Espanol,PSOE,ESP
-3604,SPAIN,Basque Solidarity,Eusko Alkartasuna,EA,ESP
-3605,SPAIN,Social and Democratic Center,Centro Democratico y Social,CDS,ESP
-3606,SPAIN,Basque Nationalist Party,Partido Nacionalista Vasco,PNV,ESP
-3607,SPAIN,Convergence and Unity,Convergencia i Unio (Catalan),CiU,ESP
-3608,SPAIN,Popular Party,Partido Popular,PP,ESP
-3701,SWEDEN,Left Party,Vansterpartiet,V,SWE
-3702,SWEDEN,Social Democrat,Socialdemokraterna,SdAP,SWE
-3703,SWEDEN,Green Ecology Party,Miljopartiet de Grona,MP,SWE
-3704,SWEDEN,Liberal Party,Folkpartiet Liberalerna,FP,SWE
-3705,SWEDEN,Center Party,Centerpartiet,C,SWE
-3706,SWEDEN,Christian Democrat,Kristdemokratiska Samhallspartiet,KDS,SWE
-3707,SWEDEN,Conservative Party,Moderata Samlingspartiet,MSP,SWE
-3708,SWEDEN,New Democracy,Ny Demokrati,NYD,SWE
-3801,SWITZERLAND,Social Democratic Party,Parti Socialiste Suisse,PSS,CHE
-3802,SWITZERLAND,Christian Democratic Party,Parti Democrate-Chretien,PDC,CHE
-3803,SWITZERLAND,Radical Democratic Party,Parti Radical Suisse,PRD,CHE
-3804,SWITZERLAND,Swiss People's Party,Union Democratique du Centre,UDC,CHE
-3805,SWITZERLAND,Liberal Party,Parti Liberal Suisse,PL,CHE
-3806,SWITZERLAND,Swiss Motorists,Parti des Automobiliste,PA,CHE
-3901,TAIWAN,Democratic Progressive Party,Minjin Dang,DDP,TWN
-3902,TAIWAN,Social Democratic Party,Shemin Dang,SDP,TWN
-3903,TAIWAN,Nationalist Party,Kuomintang,KMT,TWN
-4001,TURKEY,Socialist Party,Turkiye Sosyalist Partisi,TSP,TUR
-4002,TURKEY,People's Labour Party,Halk Emekci Partisi,HEP,TUR
-4003,TURKEY,Social Democrat Populist Party,Sosyal Democrasi Halkci Partisi,SHP,TUR
-4004,TURKEY,People's Republican Party,Cumhuriyet Halk Partisi,CHP,TUR
-4005,TURKEY,Democratic Left Party,Demokratik Sol Parti,DSP,TUR
-4006,TURKEY,True Path,Dogru Yol Partisi,DYP,TUR
-4007,TURKEY,Motherland Party,Anavatan Partisi,ANAP,TUR
-4008,TURKEY,Welfare Party,Refah Partisi,RP,TUR
-4009,TURKEY,Nationalist Action Party,Milliyetci Hareket Partisi,MHP,TUR
-4101,UKRAINE,Ukrainian Communist Party,,CPU,UKR
-4102,UKRAINE,Social Democratic Party,,SDPU,UKR
-4103,UKRAINE,Party of Democratic Restoration,,PDRU,UKR
-4104,UKRAINE,Greens,,GPU,UKR
-4105,UKRAINE,`Ruh' Party,,RP,UKR
-4106,UKRAINE,Liberal Democratic Party,,LDPU,UKR
-4107,UKRAINE,Socialist Party,,SPU,UKR
-4108,UKRAINE,Democratic Party,,DPU,UKR
-4109,UKRAINE,Responsibility Party,,-,UKR
-4110,UKRAINE,Conservative Republican Party,,UCRP,UKR
-4111,UKRAINE,Christian Democratic Party,,CDPU,UKR
-4112,UKRAINE,Ukrainian National Assembly,,UNSO,UKR
-4113,UKRAINE,Communist Party of Bolshevics,,BCP,UKR
-4201,USA,Democratic Party,Democratic Party,D,USA
-4202,USA,Republican Party,Republican Party,R,USA
+huber_id,country,name_english,name,name_short,country_short,dummy_nir
+101,ARGENTINA,Radical Civic Union,Union Civica Radical,UCR,ARG,0
+102,ARGENTINA,Justice Party,Partido Justicialista,PJ,ARG,0
+203,AUSTRALIA,Australian Democrats,Australian Democrats,AD,AUS,0
+204,AUSTRALIA,Australian Labour Party,Australian Labour Party,ALP,AUS,0
+205,AUSTRALIA,Liberal Party,Liberal Party,LPA,AUS,0
+206,AUSTRALIA,National Party of Australia,National Party of Australia,NPA,AUS,0
+307,AUSTRIA,Green Alternative,Gruene Alternativen,GA,AUT,0
+308,AUSTRIA,Austrian Socialist Party,Sozialistische Partei,SPO,AUT,0
+309,AUSTRIA,Austrian People's Party,Volkspartei,OVP,AUT,0
+310,AUSTRIA,Liberal Forum,Liberales Forum,LF,AUT,0
+311,AUSTRIA,Austrian Freedom Party,Freiheitliche Partei,FPO,AUT,0
+401,BELGIUM,Ecologist,Agalev,A,BEL,0
+402,BELGIUM,Ecologist,Ecolo,E,BEL,0
+403,BELGIUM,Socialist,Parti Socialiste,PS,BEL,0
+404,BELGIUM,Flemish Socialist Party,Socialistische Partij,SP,BEL,0
+405,BELGIUM,Christian-Social Party,Parti Social Chretien,PSC,BEL,0
+406,BELGIUM,Flemish Christian People's Party,Christelijke Volkspartij,CVP,BEL,0
+407,BELGIUM,People's Union,Volksunie,VU,BEL,0
+408,BELGIUM,Democratic Front of the Francophones,Front Democratique des Francophones,FDF,BEL,0
+409,BELGIUM,Liberal Reform Party,Parti Reformateur Liberal,PRL,BEL,0
+501,BRAZIL,Brazilian Communist Party,Partido Comunista do Brasil,PCdoB,BRA,0
+502,BRAZIL,Brasileire Workers' Party,Partido Trabalhista,PTB,BRA,0
+503,BRAZIL,People's Social Party,Partido Popular Social,PPS,BRA,0
+504,BRAZIL,Democratic Labour Party,Partido Democratico Trabalhista,PDT,BRA,0
+505,BRAZIL,Brazilian Social Democracy,Partido da Social Democrata Brasileira,PSDB,BRA,0
+506,BRAZIL,Party of Brazilian Democratic Movement,Partido do Movimento Democratico Brasiliero,PMDB,BRA,0
+507,BRAZIL,Liberal Party,Partido Liberal,PL,BRA,0
+508,BRAZIL,Liberal Front,Partido da Frente Liberal,PFL,BRA,0
+509,BRAZIL,Social Democratic Party,Partido Democratico Social,PDS,BRA,0
+601,BRITAIN,Labour,Labour,Lab,GBR,0
+602,BRITAIN,Liberal Democratic Party,Liberal Democratic Party,LDP,GBR,0
+603,BRITAIN,Conservative Party,Conservative Party,Con,GBR,0
+701,BULGARIA,Bulgarian Communist Party,Bulgarska Komunisticheska Partiya,BKP,BGR,0
+702,BULGARIA,Bulgarian Socialist Party,Bulgarska Socialisticheska Partiya,BSP,BGR,0
+703,BULGARIA,Bulgarian Social Democratic Party,,BSDP,BGR,0
+704,BULGARIA,Naroden Soyuz Bulgarian Agrarian National Movement,Bulgarski Zemedelski,BANU,BGR,0
+705,BULGARIA,Green Party,,GP,BGR,0
+706,BULGARIA,Union of Democratic Forces,Soyuz na Demokratichnite Sili,SDS,BGR,0
+707,BULGARIA,Bulgarian Liberal Party,,BPL,BGR,0
+708,BULGARIA,Bulgarian Business Bloc,,BBB,BGR,0
+709,BULGARIA,Democratic Party,,DP,BGR,0
+801,CANADA,New Democratic Party,New Democratic Party,NDP,CAN,0
+802,CANADA,Bloc Quebecois,Bloc Quebecois,BQ,CAN,0
+803,CANADA,Liberal Party,Liberal Party,L,CAN,0
+804,CANADA,Progressive Conservative Party,Progressive Conservative Party,PCP,CAN,0
+805,CANADA,Reform Party,Reform Party,RP,CAN,0
+901,CHILE,Communist,Partido Comunista,PC,CHL,0
+902,CHILE,Socialist,Partido Socialista,PS,CHL,0
+903,CHILE,Reformed Socialist,Partido por la Democracia,PPD,CHL,0
+904,CHILE,Christian Democrat,Partido Democrata Cristiano,PDC,CHL,0
+905,CHILE,Radical Party,Partido Radical,PR,CHL,0
+906,CHILE,Moderate right,Renovacion National,RN,CHL,0
+907,CHILE,Pinochet,Union Democrata Independiente,UDI,CHL,0
+1001,CZECH REPUBLIC,Left Bloc,Komunisticka Strana C.a.M.,KSCM,CZE,0
+1002,CZECH REPUBLIC,Social Democrats,Ceskastrana Socialne Demokraticka,CSSD,CZE,0
+1003,CZECH REPUBLIC,Liberal Social,Liberalni Socialni Unie,LSU,CZE,0
+1004,CZECH REPUBLIC,Civic Movement,Obcanske Hunte,OH,CZE,0
+1005,CZECH REPUBLIC,Civic Democratic Party,Obcansko Demokraticka Strana,ODS,CZE,0
+1006,CZECH REPUBLIC,Civic Democratic Alliance,Obcansko Demokraticka Aliance,ODA,CZE,0
+1007,CZECH REPUBLIC,Christian Democratic Union -- Czech People's Party,Krestanska Demokraticka Unie-Ceska Strana Lidova,KDU-CSL,CZE,0
+1008,CZECH REPUBLIC,Christian Democratic Party,Krestansko Demokracie,KDS,CZE,0
+1009,CZECH REPUBLIC,Republican Party,Republik Duska Strana Ceska,SPR-RSC,CZE,0
+1101,DENMARK,Red-Green List,Rod-Gron Enhedsliste,RGE,DNK,0
+1102,DENMARK,Socialist People's,Socialistik Folkeparti,SF,DNK,0
+1103,DENMARK,Social Democrat,Socialdemokratiet,SD,DNK,0
+1104,DENMARK,Radical Liberals,Radikale Venstre,RV,DNK,0
+1105,DENMARK,Centre Democrats,Centrum-demokraterne,CD,DNK,0
+1106,DENMARK,Christian People's,Kristeligt Folkeparti,KRF,DNK,0
+1107,DENMARK,Conservatives,Konservative Folkeparti,KF,DNK,0
+1108,DENMARK,Liberal,Venstre,V,DNK,0
+1109,DENMARK,Progress Party,Fremskridtspartiet,FRP,DNK,0
+1201,ESTONIA,Russian Democratic Movement,,RDM,EST,0
+1202,ESTONIA,Estonian Democratic Labor Party,,EDLP,EST,0
+1203,ESTONIA,Estonian Rural Union,,ERU,EST,0
+1204,ESTONIA,Estonian Center Party,,ECP,EST,0
+1205,ESTONIA,Estonian Social Democratic Party,,ESDP,EST,0
+1206,ESTONIA,Greens,,-,EST,0
+1207,ESTONIA,Estonian Rural Center Party,,ERCP,EST,0
+1208,ESTONIA,Liberal Democratic Party,,ELDP,EST,0
+1209,ESTONIA,Coalition Party,,CP,EST,0
+1210,ESTONIA,Estonian National Independence Party,,ENIP,EST,0
+1211,ESTONIA,Estonian Party of Entrepreneurs,,EPE,EST,0
+1212,ESTONIA,Pro Patria,,NCP,EST,0
+1213,ESTONIA,National Party of the Unlawfully Repressed,,NPUR,EST,0
+1214,ESTONIA,Estonian Farmers' Party,,EFP,EST,0
+1301,FINLAND,left-Wing Alliance,Vasemmistoliitto,VAS,FIN,0
+1302,FINLAND,Green League,Vihrea Liitto,VIHR,FIN,0
+1303,FINLAND,Social Democratic Party,Sosialidemokraattinen Puolue,SDP,FIN,0
+1304,FINLAND,Liberal People's Party,Liberaalinen Kansanpuolue,LKP,FIN,0
+1305,FINLAND,Swedish People's Party,Svenska Folkpartiet,SFP,FIN,0
+1306,FINLAND,Centre Party,Suomen Keskusta,KESK,FIN,0
+1307,FINLAND,Rural Party,Maaseudun Puole,SMP,FIN,0
+1308,FINLAND,National Coalition,Kansallinen Kokoomus,KOK,FIN,0
+1309,FINLAND,Christian Union,Kristillinen Liitto,SKL,FIN,0
+1401,FRANCE,Republican Communist Front,Lutte Communiste pour la Republique,LCR,FRA,0
+1402,FRANCE,Workers' Front,Lutte Ouvriere,LO,FRA,0
+1403,FRANCE,Communist,Parti Communiste,PCF,FRA,0
+1404,FRANCE,Socialist,Parti Socialiste,PS,FRA,0
+1405,FRANCE,Ecologists,Generation Ecologie,GE,FRA,0
+1406,FRANCE,Ecologist,Ecologiste,E,FRA,0
+1407,FRANCE,left Radicals,Mouvement des Radicaux de Gauche,MRG,FRA,0
+1408,FRANCE,Social Democratic Center,Centre des Democrats Sociaux,CDS,FRA,0
+1409,FRANCE,Union for French Democracy,Union pour la Democratie Francaise,UDF,FRA,0
+1410,FRANCE,Republican,Parti Republicain,PR,FRA,0
+1411,FRANCE,Rally for the Republic,Rassemblement pour la Republique,RPR,FRA,0
+1412,FRANCE,National Front,Front National,FN,FRA,0
+1501,GERMANY,Democratic Socialist,Demokratisch-Sozialistische Partei,PDS,DEU,0
+1502,GERMANY,Green,Die Gruenen,G,DEU,0
+1503,GERMANY,Social Democrat,Sozialdemokratische Partei Deutschlands,SPD,DEU,0
+1504,GERMANY,Free Democrat,Freie Demokratische Partei,FDP,DEU,0
+1505,GERMANY,Christian Democrat,Christlich Demokratische Union,CDU,DEU,0
+1506,GERMANY,Christian Social Union,Christlich Soziale Union,CSU,DEU,0
+1507,GERMANY,Republican,Republikaner,Rep,DEU,0
+1601,HUNGARY,Hungarian Socialist Party,Magyar Szocialista Part,MSZP,HUN,0
+1602,HUNGARY,Alliance of Free Democrats,Szabad Demokratak Szoevetsege,SLDSZ,HUN,0
+1603,HUNGARY,Federation of Young Democrats,Fiatal Demokratak Szoevetsege,FIDESZ,HUN,0
+1604,HUNGARY,Christian Democratic People's Party,Keresztenydemokrata Neppart,KDNP,HUN,0
+1605,HUNGARY,Hungarian Democratic Forum,Magyar Demokrata Forum,MDF,HUN,0
+1606,HUNGARY,Independent Smallholders' Party,Fuggetlen Kisgazda Part,FKGP,HUN,0
+1701,ICELAND,Womens' Alliance,Samtok um kvennalista,WA,ISL,0
+1702,ICELAND,People's Alliance,Althydubandalag,PA,ISL,0
+1703,ICELAND,Progressive Party,Framsoknarflokkurinn,PP,ISL,0
+1704,ICELAND,Social Democrat,Althyduflokkurinn,SDP,ISL,0
+1705,ICELAND,Independence Party,Sjaltstaedisflokkurinn,IP,ISL,0
+1801,INDIA,Communist Party of India (Marxist-Leninist),,CPI/ML,IND,0
+1802,INDIA,Communist Party of India (Marxist),,CPM,IND,0
+1803,INDIA,Communist Party of India,,CPI,IND,0
+1804,INDIA,People's Party -- A,Janata Dal  (A),JD A,IND,0
+1805,INDIA,Janata Dal,,JD,IND,0
+1806,INDIA,All Indian Anna Party (=rural Tamil party),,AIDMK,IND,0
+1807,INDIA,Indian National Congress,,INC,IND,0
+1808,INDIA,Bahurja Sanaj Party,,BSP,IND,0
+1809,INDIA,Dravidian Progressive Federation =rural Tamil party,Dravida Munnetra Kazhagam,DMK,IND,0
+1810,INDIA,Bharatiya Janata Party,,BJP,IND,0
+1811,INDIA,Indian Union Muslim League,,IUML,IND,0
+1901,IRELAND,Democratic Left,Democratic Left,DL,IRL,0
+1902,IRELAND,Labour,Labour,LAB,IRL,0
+1903,IRELAND,Republican Party,Fianna Fail,FF,IRL,0
+1904,IRELAND,United Ireland,Fine Gael,FG,IRL,0
+1905,IRELAND,Progressive Democrats,Progressive Democrats,PDP,IRL,0
+2001,NORTHERN IRELAND,Sinn Fein,Sinn Fein,SF,GBR,1
+2002,NORTHERN IRELAND,Worker Party,Worker Party,WP,GBR,1
+2003,NORTHERN IRELAND,Labour,Labour,LAB,GBR,1
+2004,NORTHERN IRELAND,Liberal Democrats,Liberal Democrats,LD,GBR,1
+2005,NORTHERN IRELAND,Alliance,Alliance,A,GBR,1
+2006,NORTHERN IRELAND,Conservatives,Conservatives,Con,GBR,1
+2007,NORTHERN IRELAND,Democratic Unionist,Democratic Unionist,DUP,GBR,1
+2008,NORTHERN IRELAND,Ulster Unionist Party,Ulster Unionist Party,UUP,GBR,1
+2101,ITALY,Reform Communist,Rifondazione Communista,RC,ITA,0
+2102,ITALY,Democratic Left,Partito Democratico della Sinistra,PDS,ITA,0
+2103,ITALY,Green,Liste Verdi,RV,ITA,0
+2104,ITALY,Socialist,Partito Socialista,PS!,ITA,0
+2105,ITALY,Democratic Socialist,Partito Socialista Democratico,PSDI,ITA,0
+2106,ITALY,Republican,Partito Republicano,PRI,ITA,0
+2107,ITALY,Christian Democrat,Democrazia Cristiana,DC,ITA,0
+2108,ITALY,Liberal,Partito Liberale,PLI,ITA,0
+2109,ITALY,League of Northern Italy,Lega Nord,Lega,ITA,0
+2110,ITALY,Social Movement,Movimento Sociale,MSI,ITA,0
+2201,JAPAN,Japan Communist Party,Nihon Kyosan-to,JCP,JPN,0
+2202,JAPAN,Japan Socialist Party,Nihon Shakai-to,JSP (SDPJ),JPN,0
+2203,JAPAN,Clean Government,Komeito,KOMEI,JPN,0
+2204,JAPAN,Democratic Socialist Party,Minshato,DSP,JPN,0
+2205,JAPAN,Liberal Democratic Party,Jiyu Minshu-to,LDP,JPN,0
+2301,SOUTH KOREA,New Politics Party,Sa Jongjhi Dang,NPP,KOR,0
+2302,SOUTH KOREA,Democratic Party,Minju Dang,DP,KOR,0
+2303,SOUTH KOREA,Democratic Liberal Party,Minja Dang,DLP,KOR,0
+2304,SOUTH KOREA,Unification Nationalist Party,Tongi Kookmin Dang,UNP,KOR,0
+2401,LITHUANIA,Democratic Labor Party,Lietuvos Demokratine Darbo Partija,LDLP,LTU,0
+2402,LITHUANIA,Social Democratic Party,Lietuvos Socialdemokratu Partija,LSDP,LTU,0
+2403,LITHUANIA,Center Movement,Lietuvos Centras Sajudis,LCM,LTU,0
+2404,LITHUANIA,Christian Democratic Party,Lietuvos Krikscioniu Demokratu Partija,LCDP,LTU,0
+2405,LITHUANIA,Liberal Union,Liberalu Sajunga,LLU,LTU,0
+2406,LITHUANIA,Lithuanian Conservatives,Tevynes Sajunga,LC,LTU,0
+2407,LITHUANIA,Democratic Party,Demokratu Partija,LDP,LTU,0
+2501,MEXICO,Democratic Revolutionary Party,Partido Revolutionario Democratico,PRD,MEX,0
+2502,MEXICO,Institutional Revolutionary Party,Partido Revolutionario Institucional,PRI,MEX,0
+2503,MEXICO,National Action Party,Partido Accion Nacional,PAN,MEX,0
+2601,NETHERLANDS,Green Left,Groen Links,GL,NLD,0
+2602,NETHERLANDS,Labour,Partij van de Arbeid,Pvda,NLD,0
+2603,NETHERLANDS,Democrats '66,Democraten '66,D'66,NLD,0
+2604,NETHERLANDS,Christian Democrat,Christen-Democratisch Appel,CDA,NLD,0
+2605,NETHERLANDS,Liberal,Volkspartij voor Vrijheid en Demokratie,VVD,NLD,0
+2606,NETHERLANDS,Reformed Political Union,Gereformeerd Politiek Verbond,GPV,NLD,0
+2607,NETHERLANDS,Political Reformed Party,Staatkundig Gereformeerde Partij,SGP,NLD,0
+2608,NETHERLANDS,Reformed Political Federation,Reformatische Politieke Federatie,RPF,NLD,0
+2609,NETHERLANDS,Center Democrats,Centrumdemocraten,CD,NLD,0
+2701,NEW ZEALAND,New Labour Party,New Labour Party,NLP,NZL,0
+2702,NEW ZEALAND,People's Alliance,People's Alliance,A,NZL,0
+2703,NEW ZEALAND,Labour Party,Labour Party,LP,NZL,0
+2704,NEW ZEALAND,National Party,National Party,NP,NZL,0
+2801,NIGERIA,Social Democratic Party,Social Democratic Party,SDP,NGA,0
+2802,NIGERIA,National Republican Convention,National Republican Convention,NRC,NGA,0
+2901,NORWAY,Radical Party,Radikale Venstreparti,RV,NOR,0
+2902,NORWAY,Socialist Party,Sosialistik Venstreparti,SV,NOR,0
+2903,NORWAY,Labour Party,Det Norske Arbeiderparti,Ap,NOR,0
+2904,NORWAY,Center Party,Senterpartiet,SP,NOR,0
+2905,NORWAY,Agrarian Party,Landmansforbundet,L,NOR,0
+2906,NORWAY,Liberal,Venstre,V,NOR,0
+2907,NORWAY,Christian People's Party,Kristelig Folkeparti,KrF,NOR,0
+2908,NORWAY,Conservative,Hoyre,H,NOR,0
+2909,NORWAY,Progress Party,Fremskrittspartiet,Fp,NOR,0
+3001,POLAND,Alliance of Democratic Left,Sojusz Lewicy Demokratycznej,SLD,POL,0
+3002,POLAND,Polish Peasant Party,Polskie Stronnictwo Ludowe,PSL,POL,0
+3003,POLAND,Democratic Union,Unia Demokratyczna,UD,POL,0
+3004,POLAND,Liberal-Democratic Congress,Kongres Liberalno-Demokratyczny,KLD,POL,0
+3005,POLAND,Civic Alliance Center,Porozumienie Obywatelskie Centrum,POC,POL,0
+3006,POLAND,Confederation for an Independent Poland,Konfederacja Polski Niepodleglej,KPN,POL,0
+3007,POLAND,Catholic Elector Action,Wyborcza Akcja Katolicka,ZChN/WAK,POL,0
+3101,PORTUGAL,Communist,Partido Comunista Portugues,PCP,PRT,0
+3102,PORTUGAL,Socialist,Partido Socialista,PSP,PRT,0
+3103,PORTUGAL,Social Democrat,Partido Social Democrata,PSD,PRT,0
+3104,PORTUGAL,Social and Democratic Center Party or Popular Party,Partido do Centro Democratico e Social,CDS,PRT,0
+3201,ROMANIA,Liberal Party,Liberal Party,PL,ROU,0
+3202,ROMANIA,Romanian Social Democratic Party,Partidul Social-Democrat Roman,PSDR,ROU,0
+3203,ROMANIA,Party of the Civic Alliance,Party of the Civic Alliance,PAC,ROU,0
+3204,ROMANIA,National Salvation Front,National Salvation Front,FNS,ROU,0
+3205,ROMANIA,Christian Democratic National Peasants' Party,Partidul National Taranesc-Crestin si Democrat,PNTCD,ROU,0
+3206,ROMANIA,FDSN,FDSN,FDSN,ROU,0
+3207,ROMANIA,Agrarian Democratic Party,Agrarian Democratic Party,PDAR,ROU,0
+3208,ROMANIA,Romanian National Unity Party,Romanian National Unity Party,PUNR,ROU,0
+3209,ROMANIA,PRM,PRM,PRM,ROU,0
+3210,ROMANIA,Socialist Labor Party,Socialist Labor Party,PSM,ROU,0
+3301,RUSSIA,Democratic Union,Demokraticheskii Soyuz,DS,RUS,0
+3302,RUSSIA,Social Democratic Party of Russia,Sotsial-Demokrati-cheskaia Partiia Rossii,SDPR,RUS,0
+3303,RUSSIA,Free Democratic Party of Russia,Svobodnaia Demokratichestraia Partiia Rossii,,RUS,0
+3304,RUSSIA,Russian Party of Free Labor,Rossiiskaia Partiia Svobodnoyo Truda,RPST,RUS,0
+3305,RUSSIA,Democratic Party of Russia,Demokraticheskaia Partiia Rossii,DPR,RUS,0
+3306,RUSSIA,Republican Party of Russian Federation,Respublikanskaia Partiia Rossiiskoi Federatsii,RPRF,RUS,0
+3307,RUSSIA,People's Party of Free Russia/Democratic Party of Communism of Russia,Narodnaia Partiio Svobodnoi Rossii,NPSR,RUS,0
+3308,RUSSIA,Civic Union,Gradzhdanskii Soyuz,GS,RUS,0
+3309,RUSSIA,Russian Christian Democratic Movement,Rossiiskoye Khristiansko Demokraticheskoye Dvizhenie,RKDD,RUS,0
+3310,RUSSIA,Constitution Democratic Party,Konstitutsionno-Demokraticheskaia Partiia,KDP,RUS,0
+3311,RUSSIA,Russian National Council,Rossiiskii Natsional'nyi Sovet,RNS,RUS,0
+3312,RUSSIA,Liberal Democratic Party,Liberal'no-Demokraticheskaia Partiia,LDP,RUS,0
+3401,SLOVAKIA,Slovak National Party,Slovenka Narodna Strana,SNS,SVK,0
+3402,SLOVAKIA,Party of the Democratic Left,Party of the Democratic Left,SDL,SVK,0
+3403,SLOVAKIA,Movement for a Democratic Slovakia,Movement for a Democratic Slovakia,HZDS,SVK,0
+3404,SLOVAKIA,Social Democratic Party,Socialno-Demokraticka Strana na Slovensku,SDSS,SVK,0
+3405,SLOVAKIA,Christian Democratic Movement,Christian Democratic Movement,KDH,SVK,0
+3406,SLOVAKIA,Christian Social Union,Christian Social Union,KSU,SVK,0
+3407,SLOVAKIA,Hungarian Christian Democratic Movement,Hungarian Christian Democratic Movement,MKDH,SVK,0
+3501,SOUTH AFRICA,Azanian People's Organization,Azanian People's Organization,Azapo,ZAF,0
+3502,SOUTH AFRICA,South African Communist Party,South African Communist Party,SACP,ZAF,0
+3503,SOUTH AFRICA,Pan Africanist Congress,Pan Africanist Congress,PAC,ZAF,0
+3504,SOUTH AFRICA,African National Congress,African National Congress,ANC,ZAF,0
+3505,SOUTH AFRICA,Liberal Party,Liberal Party,LP,ZAF,0
+3506,SOUTH AFRICA,Democratic Party,Democratic Party,DP,ZAF,0
+3507,SOUTH AFRICA,National Party,National Party,NP,ZAF,0
+3508,SOUTH AFRICA,Inkatha Freedom Party,Inkatha Freedom Party,IFP,ZAF,0
+3509,SOUTH AFRICA,Conservative Party,Conservative Party,CP,ZAF,0
+3510,SOUTH AFRICA,African Resistance Movement,Afrikaner Weerstandsbewegung,AWB,ZAF,0
+3601,SPAIN,Basque United People,Herri Batasuna,HB,ESP,0
+3602,SPAIN,United Left,Izquierda Unida,IU,ESP,0
+3603,SPAIN,Socialist,Partido Socialista Obrero Espanol,PSOE,ESP,0
+3604,SPAIN,Basque Solidarity,Eusko Alkartasuna,EA,ESP,0
+3605,SPAIN,Social and Democratic Center,Centro Democratico y Social,CDS,ESP,0
+3606,SPAIN,Basque Nationalist Party,Partido Nacionalista Vasco,PNV,ESP,0
+3607,SPAIN,Convergence and Unity,Convergencia i Unio (Catalan),CiU,ESP,0
+3608,SPAIN,Popular Party,Partido Popular,PP,ESP,0
+3701,SWEDEN,Left Party,Vansterpartiet,V,SWE,0
+3702,SWEDEN,Social Democrat,Socialdemokraterna,SdAP,SWE,0
+3703,SWEDEN,Green Ecology Party,Miljopartiet de Grona,MP,SWE,0
+3704,SWEDEN,Liberal Party,Folkpartiet Liberalerna,FP,SWE,0
+3705,SWEDEN,Center Party,Centerpartiet,C,SWE,0
+3706,SWEDEN,Christian Democrat,Kristdemokratiska Samhallspartiet,KDS,SWE,0
+3707,SWEDEN,Conservative Party,Moderata Samlingspartiet,MSP,SWE,0
+3708,SWEDEN,New Democracy,Ny Demokrati,NYD,SWE,0
+3801,SWITZERLAND,Social Democratic Party,Parti Socialiste Suisse,PSS,CHE,0
+3802,SWITZERLAND,Christian Democratic Party,Parti Democrate-Chretien,PDC,CHE,0
+3803,SWITZERLAND,Radical Democratic Party,Parti Radical Suisse,PRD,CHE,0
+3804,SWITZERLAND,Swiss People's Party,Union Democratique du Centre,UDC,CHE,0
+3805,SWITZERLAND,Liberal Party,Parti Liberal Suisse,PL,CHE,0
+3806,SWITZERLAND,Swiss Motorists,Parti des Automobiliste,PA,CHE,0
+3901,TAIWAN,Democratic Progressive Party,Minjin Dang,DDP,TWN,0
+3902,TAIWAN,Social Democratic Party,Shemin Dang,SDP,TWN,0
+3903,TAIWAN,Nationalist Party,Kuomintang,KMT,TWN,0
+4001,TURKEY,Socialist Party,Turkiye Sosyalist Partisi,TSP,TUR,0
+4002,TURKEY,People's Labour Party,Halk Emekci Partisi,HEP,TUR,0
+4003,TURKEY,Social Democrat Populist Party,Sosyal Democrasi Halkci Partisi,SHP,TUR,0
+4004,TURKEY,People's Republican Party,Cumhuriyet Halk Partisi,CHP,TUR,0
+4005,TURKEY,Democratic Left Party,Demokratik Sol Parti,DSP,TUR,0
+4006,TURKEY,True Path,Dogru Yol Partisi,DYP,TUR,0
+4007,TURKEY,Motherland Party,Anavatan Partisi,ANAP,TUR,0
+4008,TURKEY,Welfare Party,Refah Partisi,RP,TUR,0
+4009,TURKEY,Nationalist Action Party,Milliyetci Hareket Partisi,MHP,TUR,0
+4101,UKRAINE,Ukrainian Communist Party,,CPU,UKR,0
+4102,UKRAINE,Social Democratic Party,,SDPU,UKR,0
+4103,UKRAINE,Party of Democratic Restoration,,PDRU,UKR,0
+4104,UKRAINE,Greens,,GPU,UKR,0
+4105,UKRAINE,`Ruh' Party,,RP,UKR,0
+4106,UKRAINE,Liberal Democratic Party,,LDPU,UKR,0
+4107,UKRAINE,Socialist Party,,SPU,UKR,0
+4108,UKRAINE,Democratic Party,,DPU,UKR,0
+4109,UKRAINE,Responsibility Party,,-,UKR,0
+4110,UKRAINE,Conservative Republican Party,,UCRP,UKR,0
+4111,UKRAINE,Christian Democratic Party,,CDPU,UKR,0
+4112,UKRAINE,Ukrainian National Assembly,,UNSO,UKR,0
+4113,UKRAINE,Communist Party of Bolshevics,,BCP,UKR,0
+4201,USA,Democratic Party,Democratic Party,D,USA,0
+4202,USA,Republican Party,Republican Party,R,USA,0
