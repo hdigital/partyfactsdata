@@ -139,14 +139,14 @@ huber_id,country,name_english,name,name_short,country_short,dummy_nir
 1903,IRELAND,Republican Party,Fianna Fail,FF,IRL,0
 1904,IRELAND,United Ireland,Fine Gael,FG,IRL,0
 1905,IRELAND,Progressive Democrats,Progressive Democrats,PDP,IRL,0
-2001,NORTHERN IRELAND,Sinn Fein,Sinn Fein,SF,NIR,0
-2002,NORTHERN IRELAND,Worker Party,Worker Party,WP,NIR,0
-2003,NORTHERN IRELAND,Labour,Labour,LAB,NIR,0
-2004,NORTHERN IRELAND,Liberal Democrats,Liberal Democrats,LD,NIR,0
-2005,NORTHERN IRELAND,Alliance,Alliance,A,NIR,0
-2006,NORTHERN IRELAND,Conservatives,Conservatives,Con,NIR,0
-2007,NORTHERN IRELAND,Democratic Unionist,Democratic Unionist,DUP,NIR,0
-2008,NORTHERN IRELAND,Ulster Unionist Party,Ulster Unionist Party,UUP,NIR,0
+2001,NORTHERN IRELAND,Sinn Fein,Sinn Fein,SF,GBR,1
+2002,NORTHERN IRELAND,Worker Party,Worker Party,WP,GBR,1
+2003,NORTHERN IRELAND,Labour,Labour,LAB,GBR,1
+2004,NORTHERN IRELAND,Liberal Democrats,Liberal Democrats,LD,GBR,1
+2005,NORTHERN IRELAND,Alliance,Alliance,A,GBR,1
+2006,NORTHERN IRELAND,Conservatives,Conservatives,Con,GBR,1
+2007,NORTHERN IRELAND,Democratic Unionist,Democratic Unionist,DUP,GBR,1
+2008,NORTHERN IRELAND,Ulster Unionist Party,Ulster Unionist Party,UUP,GBR,1
 2101,ITALY,Reform Communist,Rifondazione Communista,RC,ITA,0
 2102,ITALY,Democratic Left,Partito Democratico della Sinistra,PDS,ITA,0
 2103,ITALY,Green,Liste Verdi,RV,ITA,0
