@@ -35,9 +35,9 @@ Template for dataset readme.md files
 ```Markdown
 # Dataset name
 
-## Source
+## Source(s)
 
-+ (...) reference in APSA style
++ (...) reference in [APSA style](https://connect.apsanet.org/stylemanual/references/)
 
 ## Credits (optional)
 
@@ -47,11 +47,15 @@ Template for dataset readme.md files
 
 + (...) short description of data preparation pipeline
 
+## Linking status (optional)
+
++ (...) e.g. "completed linking parties > 5% share (staggered import)""
+
 ## Comments (optional)
 
 + (...)
 
-## Todo later -- (optional)
+## Todo later (optional)
 
 + (...)
 ---
