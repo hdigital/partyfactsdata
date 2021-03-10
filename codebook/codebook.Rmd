@@ -324,7 +324,7 @@ Datasets are grouped into different categories depending on their connection to 
 Currently we include the following categories for [datasets](https://partyfacts.herokuapp.com/documentation/datasets/):
 
 - **Core member:** ParlGov, MARPOR
-- **Partner project:** CLEA, CHES, EJPR-PDY
+- **Partner project:** CLEA, CHES, EJPR-PDY, V-Party
 - **Main dataset**
 - **All dataset**
 - **Article dataset**
