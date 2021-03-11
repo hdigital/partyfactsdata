@@ -566,11 +566,12 @@ We review all comments and mark them as solved once the issue has been addressed
 
 Documentation of automatic data changes since November 2018 (user robot).
 
-2021-03-08 to 2021-03-10
+2021-03-08 to 2021-03-11
 
 - update core parties share information using external datasets
-- removed "ParIS" entry from _description_ and _comment_ field in core parties (around 1000)
-- renamed "Prime Minister" into PM in core party _description_ field
+- removed "ParIS" entry from *description* and *comment* field in core parties (around 1000)
+- renamed "Prime Minister" into PM in core party *description* field
+- replace "--" with "—" in *name* and *name_english* field in core parties (around 50)
 
 2018-11-17
 
