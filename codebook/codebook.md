@@ -147,6 +147,16 @@ definitions.
 -   ISO 3166-1 Codes for the Representation of Names of Countries and
     their Subdivisions – Part 1: Country Codes
 
+For some datasets we harmonize the **sub-national** or **autonomous
+regions** data. This may require updating the country data in the import
+script. See for example the [ParlGov
+import](https://github.com/hdigital/partyfactsdata/blob/master/import/parlgov/parlgov.R)
+for Greenland and Faroe Islands.
+
+-   Northern Ireland (NIR) recoded into United Kingdom (GBR)
+-   Greenland (GRL) and Faroe Islands (FRO) coded independently from
+    Denmark (DNK)
+
 # Linking
 
 ## Party links
@@ -290,6 +300,9 @@ Gandhi (1969-1977)” ).
 -   **Comment** – Comments about the coding to the party. May also
     include party relations such as predecessor, successor, name
     changes, mergers and alliances.
+-   **Data** – Additional data in
+    [JSON](https://en.wikipedia.org/wiki/JSON) as a collection
+    name–value pairs in an object. (e.g. ‘{“inclusion”: “leader”}’)
 
 ## Deleting parties
 
@@ -389,7 +402,7 @@ Currently we include the following categories for
 [datasets](https://partyfacts.herokuapp.com/documentation/datasets/):
 
 -   **Core member:** ParlGov, MARPOR
--   **Partner project:** CLEA, CHES, EJPR-PDY
+-   **Partner project:** CLEA, CHES, EJPR-PDY, V-Party
 -   **Main dataset**
 -   **All dataset**
 -   **Article dataset**
@@ -573,6 +586,7 @@ addressed.
 
 -   add/revise inclusion criteria for electoral alliances
 -   revise format of naming history in description field
+-   add region information and examples (NIR, GRL, FRO)
 -   round number of core parties
 -   APSA style guide reference
 -   add example for *name other*
@@ -670,18 +684,23 @@ addressed.
 
 -   recoded NIR parties into GBR
 -   harmonized dataset descriptions with categories
+-   converted data fields (PartyAll, Trash) into PostgresSQL jsonb
+-   added data field (JSON format) to core party model
 
 ### Data (robot)
 
 Documentation of automatic data changes since November 2018 (user
 robot).
 
-2021-03-08 to 2021-03-10
+2021-03-08 — 2021-03-12
 
--   update core parties share information using external datasets
+-   updated core parties share information using linked external parties
+    share (esp. V-Party)
 -   removed “ParIS” entry from *description* and *comment* field in core
     parties (around 1000)
 -   renamed “Prime Minister” into PM in core party *description* field
+-   replaced “–” with “—” in *name* and *name_english* field in core
+    parties (around 50)
 
 2018-11-17
 

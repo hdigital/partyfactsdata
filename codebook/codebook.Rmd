@@ -2,11 +2,6 @@
 title: "Party Facts"
 subtitle: '*Codebook version: `r Sys.Date()`*'
 output:
-  md_document:
-    variant: markdown_github
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
   html_document:
     code_folding: hide
     fig_height: 5
@@ -15,6 +10,11 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+  md_document:
+    variant: markdown_github
 ---
 
 <style type="text/css">
@@ -174,6 +174,10 @@ Country definitions follow **V-Dem Country Coding Units**. V-Dem does not cover 
 + Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, and Lisa Gastaldi. 2021. ”V-Dem Country Coding Units v11” Varieties of Democracy (V-Dem) Project.
 + ISO 3166-1 Codes for the Representation of Names of Countries and their Subdivisions – Part 1: Country Codes
 
+For some datasets we harmonize the **sub-national** or **autonomous regions** data. This may require updating the country data in the import script. See for example the [ParlGov import](https://github.com/hdigital/partyfactsdata/blob/master/import/parlgov/parlgov.R) for Greenland and Faroe Islands.
+
++ Northern Ireland (NIR) recoded into United Kingdom (GBR)
++ Greenland (GRL) and Faroe Islands (FRO) coded independently from Denmark (DNK)
 
 # Linking
 
@@ -256,6 +260,7 @@ If no information is available, the first election occurrence may be entered or 
 - **New** -- Genuinely new party, not formed through party change.
 - **Description** -- Further information about the party (e.g. evolution, name changes etc.).
 - **Comment** -- Comments about the coding to the party. May also include party relations such as predecessor, successor, name changes, mergers and alliances.
+- **Data** -- Additional data in [JSON](https://en.wikipedia.org/wiki/JSON) as a collection name–value pairs in an object. (e.g. '{"inclusion": "leader"}')  
 
 
 ## Deleting parties
@@ -463,6 +468,7 @@ We review all comments and mark them as solved once the issue has been addressed
 
 - add/revise inclusion criteria for electoral alliances
 - revise format of naming history in description field
+- add region information and examples (NIR, GRL, FRO)
 - round number of core parties
 - APSA style guide reference
 - add example for *name other*
@@ -561,17 +567,19 @@ We review all comments and mark them as solved once the issue has been addressed
 
 - recoded NIR parties into GBR
 - harmonized dataset descriptions with categories
+- converted data fields (PartyAll, Trash) into PostgresSQL jsonb
+- added data field (JSON format) to core party model
 
 ### Data (robot)
 
 Documentation of automatic data changes since November 2018 (user robot).
 
-2021-03-08 to 2021-03-11
+2021-03-08 — 2021-03-12
 
-- update core parties share information using external datasets
+- updated core parties share information using linked external parties share (esp. V-Party)
 - removed "ParIS" entry from *description* and *comment* field in core parties (around 1000)
 - renamed "Prime Minister" into PM in core party *description* field
-- replace "--" with "—" in *name* and *name_english* field in core parties (around 50)
+- replaced "--" with "—" in *name* and *name_english* field in core parties (around 50)
 
 2018-11-17
 
