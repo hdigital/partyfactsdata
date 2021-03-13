@@ -692,7 +692,7 @@ addressed.
 Documentation of automatic data changes since November 2018 (user
 robot).
 
-2021-03-08 — 2021-03-12
+2021-03-08 — 2021-03-13
 
 -   updated core parties share information using linked external parties
     share (esp. V-Party)
@@ -701,6 +701,7 @@ robot).
 -   renamed “Prime Minister” into PM in core party *description* field
 -   replaced “–” with “—” in *name* and *name_english* field in core
     parties (around 50)
+-   updated “year_last” with “dissolved” from Wikipedia element
 
 2018-11-17
 
