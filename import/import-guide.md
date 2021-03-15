@@ -126,7 +126,7 @@ Please provide the Readme file in the following style.
 ```Markdown
 ## Source
 
- * (...) reference in APSR style
+ * (...) reference in APSA style
 
 
 ## Credits (optional)
