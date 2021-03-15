@@ -52,4 +52,4 @@ party_out <-
   relocate(chisols_first, .after = name) %>% 
   distinct(party_id, .keep_all = TRUE)
 
-write.csv(party_out, "chisols.csv", na = "", row.names = FALSE)
+write.csv(party_out, "chisols.csv", na = "", row.names = FALSE, fileEncoding = "utf-8")
