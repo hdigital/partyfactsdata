@@ -1,1157 +1,1157 @@
-"statename","party","first","last","country","name_english","name","chisols_first","party_id"
-"Afghanistan","HDK",1978,1992,"AFG","People’s Democratic Party of Afghanistan",,"1978 Taraki (HDK)","AFG-HDK"
-"Afghanistan","JIA",1992,1996,"AFG","Islamic Association of Afghanistan",,"1992 Burhanuddin Rabbani (JIA)","AFG-JIA"
-"Afghanistan","JNM",1992,1992,"AFG","National Liberation Front of Afghanistan",,"1992 Mojadidi (JNM)","AFG-JNM"
-"Afghanistan","NRP",1977,1978,"AFG","National Revolutionary Party",,,"AFG-NRP"
-"Afghanistan","Tal",1996,2001,"AFG",,,"1996 Mullah Omar (Tal)","AFG-Tal"
-"Albania","Mati",1925,1939,"ALB",,,"1925 Zogu (Mati)","ALB-Mati"
-"Albania","PDS",1992,2008,"ALB",,,"1992 Berisha (PDS)","ALB-PDS"
-"Albania","PPS",1944,1992,"ALB","Albanian Workers’ Party",,"1944 Hoxha (PPS)","ALB-PPS"
-"Albania","PSS",1997,2005,"ALB",,,"1997 Fatos Nano (PSS)","ALB-PSS"
-"Algeria","FLN",1962,1992,"DZA","Libération Nationale",,,"DZA-FLN"
-"Angola","MPLA-PT",1975,2008,"AGO","Popular Liberation Movement of Angola-Labor Party",,"1975 Neto (MPLA-PT)","AGO-MPLA-PT"
-"Argentina","AL",1999,2001,"ARG",,,,"ARG-AL"
-"Argentina","CC",1932,1938,"ARG","Concordance",,"1932 Justo (CC)","ARG-CC"
-"Argentina","FJL",1973,1973,"ARG","Justicialist Liberation Front",,"1973 Campora (FJL)","ARG-FJL"
-"Argentina","PJ",1973,2008,"ARG","Justicalist Party","Partido Justicialista","1973 Peron (PJ)","ARG-PJ"
-"Argentina","PL",1946,1955,"ARG","Labor Party","Partitdo Laborista",,"ARG-PL"
-"Argentina","PP",1946,1955,"ARG","Partido Peronista",,,"ARG-PP"
-"Argentina","UCR",1919,2001,"ARG","Radical Civic Union",,"1922 Alvear (UCR)","ARG-UCR"
-"Argentina","UCRI",1958,1962,"ARG","Radical Intransigent Civic Union","Unión Cívica Radical Intransigente","1958 Frondizi (UCRI)","ARG-UCRI"
-"Argentina","UCRP",1963,1966,"ARG","Radical Civic Union",,"1963 Illia (UCRP)","ARG-UCRP"
-"Armenia","HHK",2008,2008,"ARM","Hayastani Hanrapetakan Kusaktsutyun",,"2008 Sarkisyan (HHK)","ARM-HHK"
-"Armenia","HHS",1991,1998,"ARM","Hayots Hamazgain Sharzhum",,,"ARM-HHS"
-"Australia","ACP",1923,1941,"AUS","Country Party",,"1939 Page (ACP)","AUS-ACP"
-"Australia","ALP",1929,2008,"AUS","Australian Labor",,"1929 Scullin (ALP)","AUS-ALP"
-"Australia","CNT",1949,1983,"AUS",,,"1967 McEwen (CNT)","AUS-CNT"
-"Australia","LP",1949,2007,"AUS",,,"1949 Menzies (LP)","AUS-LP"
-"Australia","NP",1920,2007,"AUS",,,"1923 Bruce (NP)","AUS-NP"
-"Australia","UAP",1932,1941,"AUS",,,,"AUS-UAP"
-"Austria","BZO",2006,2007,"AUT",,,,"AUT-BZO"
-"Austria","CS",1919,1933,"AUT",,,"1920 Mayr (CS)","AUT-CS"
-"Austria","FPO",1983,2005,"AUT",,,,"AUT-FPO"
-"Austria","GV",1920,1932,"AUT","Greater German People’s Party",,,"AUT-GV"
-"Austria","HB",1930,1933,"AUT","Heimatblock",,,"AUT-HB"
-"Austria","L",1926,1933,"AUT","Agrarian League",,,"AUT-L"
-"Austria","OVP",1955,2008,"AUT",,,"1961 Gorbach (OVP)","AUT-OVP"
-"Austria","SDAP",1919,1920,"AUT",,,,"AUT-SDAP"
-"Austria","SPO",1955,2008,"AUT",,,"1970 Kreisky (SPO)","AUT-SPO"
-"Austria","VF",1934,1938,"AUT",,,"1934 Schuschnigg (VF)","AUT-VF"
-"Azerbaijan","AKC",1992,1993,"AZE","Azerbaijani Popular Front (nationalist)","Azerbaycan Khalq Cabhasi","1992 Gambarov (AKC)","AZE-AKC"
-"Azerbaijan","YAP",1993,2008,"AZE",,,"1993 H. Aliyev (YAP)","AZE-YAP"
-"Bangladesh","BAL",1971,2001,"BGD",,,"1972 Rahman (BAL)","BGD-BAL"
-"Bangladesh","BJD",1979,2006,"BGD","Bengal Nationalist Party",,"1981 Sattar (BJD)","BGD-BJD"
-"Bangladesh","Jammat",2001,2006,"BGD",,,,"BGD-Jammat"
-"Bangladesh","JD",1987,1997,"BGD","Jatiyo Dal",,,"BGD-JD"
-"Bangladesh","JP",2001,2006,"BGD",,,,"BGD-JP"
-"Bangladesh","JSD-Rab",1996,2001,"BGD",,,,"BGD-JSD-Rab"
-"Bangladesh","OIJ",2001,2006,"BGD","Islami Oikya Jote",,,"BGD-OIJ"
-"Belgium","Agalev",1999,2003,"BEL",,,,"BEL-Agalev"
-"Belgium","BSP",1945,2003,"BEL","Belgian Socialist Party",,"1945 van Acker (BSP)","BEL-BSP"
-"Belgium","CD&V-NVA",2008,2008,"BEL",,,"2008 Leterme (CD&V-NVA)","BEL-CD&V-NVA"
-"Belgium","CDH",2008,2008,"BEL",,,,"BEL-CDH"
-"Belgium","CP",1919,1939,"BEL","Catholics",,"1920 de Wiart (CP)","BEL-CP"
-"Belgium","CVP",1945,1999,"BEL","Christian People’s Party",,"1949 Eyskens G. (CVP)","BEL-CVP"
-"Belgium","DU",1946,1946,"BEL","Democratic Union",,,"BEL-DU"
-"Belgium","Ecolo",1999,2003,"BEL",,,,"BEL-Ecolo"
-"Belgium","FDF",1978,1980,"BEL","Fédéralistes Démocrates Francophones",,,"BEL-FDF"
-"Belgium","ICAT",1946,1946,"BEL","unknown",,,"BEL-ICAT"
-"Belgium","KPB",1945,1947,"BEL","Communist Party of Belgium",,,"BEL-KPB"
-"Belgium","Lib",1919,1940,"BEL",,,"1937 Janson (Lib)","BEL-Lib"
-"Belgium","LP",1945,1968,"BEL","Liberal Party",,,"BEL-LP"
-"Belgium","MR",2004,2008,"BEL",,,,"BEL-MR"
-"Belgium","PCS-KVV",1939,1945,"BEL","Social Catholic Party-Catholic Flemish People's Party",,"1939 Pierlot (PCS-KVV)","BEL-PCS-KVV"
-"Belgium","PLP",1974,1976,"BEL",,,,"BEL-PLP"
-"Belgium","PRL",1981,1988,"BEL",,,,"BEL-PRL"
-"Belgium","PRL-FDF",1999,2003,"BEL",,,,"BEL-PRL-FDF"
-"Belgium","PRLW",1977,1977,"BEL",,,,"BEL-PRLW"
-"Belgium","PSB",1979,2008,"BEL",,,,"BEL-PSB"
-"Belgium","PSC",1973,1999,"BEL","Parti Social Chrétien",,"1978 Vanden Boeynants (PSC)","BEL-PSC"
-"Belgium","PVV",1973,1988,"BEL",,,,"BEL-PVV"
-"Belgium","RW",1975,1977,"BEL",,,,"BEL-RW"
-"Belgium","Soc",1919,1940,"BEL",,,"1938 Spaak (Soc)","BEL-Soc"
-"Belgium","SPA-Spirit",2004,2007,"BEL",,,,"BEL-SPA-Spirit"
-"Belgium","VLD",1999,2008,"BEL",,,"1999 Verhofstadt (VLD)","BEL-VLD"
-"Belgium","VU",1978,1992,"BEL","People’s Union",,,"BEL-VU"
-"Benin","FARD",1996,2006,"BEN",,,"1996 Kerekou (FARD)","BEN-FARD"
-"Benin","PD",1964,1972,"BEN","Parti Démocratique",,"1964 Apithy (PD)","BEN-PD"
-"Benin","PRB",1991,1996,"BEN",,,"1991 Soglo (PRB)","BEN-PRB"
-"Benin","PRPB",1973,1990,"BEN",,,,"BEN-PRPB"
-"Benin","RDD",1960,1972,"BEN","Rassemblement Démocratique du Dahomé",,"1970 Maga (RDD)","BEN-RDD"
-"Bhutan","DPT",2008,2008,"BTN","Druk Phuensum Tshogpa/Bhutan Peace and Prosperity Party",,"2008 Lyonpo Jigme Thinley (DPT)","BTN-DPT"
-"Bolivia","ADN",1997,2002,"BOL","Nationalist Democratic Action",,"1997 Banzer Suarez (ADN)","BOL-ADN"
-"Bolivia","FRB",1966,1969,"BOL","Front of the Bolivian Revolution",,"1966 Barrientos Ortuno (FRB)","BOL-FRB"
-"Bolivia","MAS",2006,2008,"BOL","Movement towards Socialism",,"2006 Morales Ayama (MAS)","BOL-MAS"
-"Bolivia","MIR",1989,1993,"BOL","Movement of Revolutionary Left",,"1989 Paz Zamora (MIR)","BOL-MIR"
-"Bolivia","MNR",1952,2003,"BOL","Nationalist Revolutionary Movement",,"1952 Siles Zuazo (MNR)","BOL-MNR"
-"Bolivia","MNRA",1979,1979,"BOL","Nationalist Revolutionary Movement",,"1979 Guevara Arze (MNRA)","BOL-MNRA"
-"Bolivia","MNRI",1982,1985,"BOL","Nationalist Revolutionary Movement of the Left",,"1982 Siles Zuazo (MNRI)","BOL-MNRI"
-"Bolivia","PL",1919,1936,"BOL","Liberal Party",,"1934 Tejada Sorzano (PL)","BOL-PL"
-"Bolivia","PR",1920,1934,"BOL","Republican Party",,"1920 Saavedra (PR)","BOL-PR"
-"Bolivia","PRIN",1979,1980,"BOL","Revolutionary Party of the Nationalist Left",,"1979 Gueiler Tejada (PRIN)","BOL-PRIN"
-"Bolivia","PSD-FRB",1969,1969,"BOL","Partido Socialista Democrática (member of FRB)",,"1969 Siles Salinas (PSD-FRB)","BOL-PSD-FRB"
-"Bolivia","PURS",1947,1951,"BOL","Republican Socialist Unity Party",,"1947 Hertzog (PURS)","BOL-PURS"
-"Bolivia","Radepa-MNR",1943,1946,"BOL","Nationalist Revolutionary Movement",,,"BOL-Radepa-MNR"
-"Bosnia and Herzegovina","HDZ",1999,2006,"BIH",,,"1999 Jelavic (HDZ)","BIH-HDZ"
-"Bosnia and Herzegovina","SBiH",2002,2008,"BIH",,,"2002 Belkic (SBiH)","BIH-SBiH"
-"Bosnia and Herzegovina","SDA",1992,2006,"BIH",,,"2000 Izetbegovic (SDA)","BIH-SDA"
-"Bosnia and Herzegovina","SDP",2001,2008,"BIH",,,"2001 Krizanovic (SDP)","BIH-SDP"
-"Bosnia and Herzegovina","SDS",2002,2005,"BIH",,,"2002 Sarovic (SDS)","BIH-SDS"
-"Bosnia and Herzegovina","SNSD",2006,2008,"BIH",,,"2006 Radmanovic (SNSD)","BIH-SNSD"
-"Bosnia and Herzegovina","SPRS",1998,2001,"BIH",,,"1998 Radisic (SPRS)","BIH-SPRS"
-"Botswana","BDP",1966,2008,"BWA","Botswana Democratic Party",,"1966 Seretse Khama (BDP)","BWA-BDP"
-"Brazil","ARENA",1969,1985,"BRA","National Renovating Alliance",,,"BRA-ARENA"
-"Brazil","PDC",1961,1961,"BRA","Christian Democratic Party",,"1961 Quadros (PDC)","BRA-PDC"
-"Brazil","PMDB",1985,1995,"BRA","Democratic Movement Party","Partido do Movimento Democrático Brasileiro","1985 Sarney (PMDB)","BRA-PMDB"
-"Brazil","PRM",1919,1926,"BRA","Republican Party Minas",,"1919 E. Pessoa (PRM)","BRA-PRM"
-"Brazil","PRN",1990,1992,"BRA","Party of National Reconstruction",,"1990 Collor de Mello (PRN)","BRA-PRN"
-"Brazil","PRP",1926,1930,"BRA","Republican Party Paulista",,"1926 Washington Luis (PRP)","BRA-PRP"
-"Brazil","PSD",1946,1961,"BRA","Social Democratic Party",,"1946 Dutra (PSD)","BRA-PSD"
-"Brazil","PSDB",1995,2003,"BRA","Party of the Brazilian Social Democracy",,"1995 Cardoso (PSDB)","BRA-PSDB"
-"Brazil","PT",2003,2008,"BRA","Labour Party",,"2003 Lula da Silva (PT)","BRA-PT"
-"Brazil","PTB",1951,1964,"BRA","Brazilian Labor Party",,"1951 Vargas (PTB)","BRA-PTB"
-"Bulgaria","BKP",1946,1990,"BGR",,,"1946 Dimitrov (BKP)","BGR-BKP"
-"Bulgaria","BSP",1990,1997,"BGR",,,"1995 Videnov (BSP)","BGR-BSP"
-"Bulgaria","BSP-KzB",2005,2008,"BGR",,,"2005 Stanishev (BSP-KzB)","BGR-BSP-KzB"
-"Bulgaria","DPS",2005,2008,"BGR",,,,"BGR-DPS"
-"Bulgaria","MDL",2001,2005,"BGR","Movement for Rights and Freedoms",,,"BGR-MDL"
-"Bulgaria","NDSV",2001,2008,"BGR","National Movement Simeon II",,"2001 Sakskoburggotski (NDSV)","BGR-NDSV"
-"Bulgaria","NSZ",1944,1946,"BGR","Zveno Peoples’ League",,,"BGR-NSZ"
-"Bulgaria","OF",1944,1946,"BGR","Fatherland Front",,,"BGR-OF"
-"Bulgaria","SDS",1991,2001,"BGR","Union of Democratic Forces",,"1991 F. Dimitrov (SDS)","BGR-SDS"
-"Burkina Faso","CDP",1997,2008,"BFA",,,,"BFA-CDP"
-"Burkina Faso","FP",1987,1991,"BFA","Front Popular",,,"BFA-FP"
-"Burkina Faso","MNR",1966,1980,"BFA","Nationalist Revolutionary Movement",,,"BFA-MNR"
-"Burkina Faso","ODP-MT",1992,1996,"BFA",,,,"BFA-ODP-MT"
-"Burkina Faso","UDV",1960,1966,"BFA","Union Démocratique du Volta party",,"1960 Yameogo (UDV)","BFA-UDV"
-"Burkina Faso","UDV-RDA",1971,1974,"BFA",,,"1971 Gerard Kango Ouedraogo (UDV-RDA)","BFA-UDV-RDA"
-"Burundi","CNDD-FDD",2005,2008,"BDI","Défense de Démocratie",,"2005 Nkurunziza (CNDD-FDD)","BDI-CNDD-FDD"
-"Burundi","FRODEBU",1993,2005,"BDI",,,"1993 Ndadaye (FRODEBU)","BDI-FRODEBU"
-"Burundi","UPRONA",1966,2003,"BDI","Progrès National",,"1993 Kinigi (UPRONA)","BDI-UPRONA"
-"Cambodia","FUNK",1953,1970,"KHM",,,"1953 Sihanouk (FUNK)","KHM-FUNK"
-"Cambodia","KCP",1975,1979,"KHM",,,"1975 Pol Pot (KCP)","KHM-KCP"
-"Cambodia","KPK",1992,2008,"KHM","Cambodian People’s Party",,"1993 Ranariddh (KPK)","KHM-KPK"
-"Cambodia","PRPK",1979,1991,"KHM",,,"1979 Heng Samrin (PRPK)","KHM-PRPK"
-"Cameroon","RDPC",1986,2008,"CMR",,,,"CMR-RDPC"
-"Cameroon","UC",1960,1966,"CMR","Union du Camerounais",,,"CMR-UC"
-"Cameroon","UNC",1967,1985,"CMR",,,,"CMR-UNC"
-"Canada","CP",1920,1935,"CAN","Conservative Party",,"1920 Meighen (CP)","CAN-CP"
-"Canada","CPC",2006,2008,"CAN","Conservative Party of Canada",,"2006 Harper (CPC)","CAN-CPC"
-"Canada","LP",1921,2006,"CAN","Liberal Party",,"1921 King (LP)","CAN-LP"
-"Canada","PC",1957,1993,"CAN","Progressive Conservative Party",,"1957 Diefenbaker (PC)","CAN-PC"
-"Central African Republic","MESAN",1960,1980,"CAF","Mouvement d'Évolution Sociale d'Afrique Noire",,"1960 Dacko (MESAN)","CAF-MESAN"
-"Central African Republic","MLPC",1993,2003,"CAF","Libération du Peuple Centrafricain",,"1993 Patasse (MLPC)","CAF-MLPC"
-"Central African Republic","RDC",1986,1993,"CAF","Mil to Rassemblement Démocratique Centrafricain",,,"CAF-RDC"
-"Central African Republic","UDC",1981,1981,"CAF","Union Démocratique Centrafricain",,,"CAF-UDC"
-"Chad","FAN",1982,1984,"TCD","Forces Armées du Nord",,,"TCD-FAN"
-"Chad","FROLIANT-FAP",1979,1982,"TCD",,,"1979 Oueddei (FROLIANT-FAP)","TCD-FROLIANT-FAP"
-"Chad","MNRCS",1974,1975,"TCD","Révolution Culturelle et Sociale",,,"TCD-MNRCS"
-"Chad","MPS",1990,2008,"TCD","Mouvement Patriotique du Salut",,"1990 Deby (MPS)","TCD-MPS"
-"Chad","PPT",1960,1973,"TCD","Parti Progressiste Tchad",,,"TCD-PPT"
-"Chad","UNIR",1985,1990,"TCD",,,,"TCD-UNIR"
-"Chile","APL",1952,1958,"CHL",,,"1952 Ibanez del Campo (APL)","CHL-APL"
-"Chile","Concertacion",1990,2008,"CHL",,,"1990 Aylwin (Concertacion)","CHL-Concertacion"
-"Chile","FP",1946,1946,"CHL",,,"1946 Duhalde Vasquez (FP)","CHL-FP"
-"Chile","PC",1958,1964,"CHL",,,"1958 Alessandri Rodriguez (PC)","CHL-PC"
-"Chile","PDC",1964,1970,"CHL",,,"1964 Frei Montalva (PDC)","CHL-PDC"
-"Chile","PL",1920,1938,"CHL","Liberal Party",,"1920 Alessandri Palma (PL)","CHL-PL"
-"Chile","PLD",1919,1931,"CHL","Liberal Democratic Party",,"1925 Figueroa Larrain (PLD)","CHL-PLD"
-"Chile","PR",1931,1952,"CHL","Montero, Radical Party",,"1931 Montero Rodriquez (PR)","CHL-PR"
-"Chile","PS-UP",1970,1973,"CHL",,,"1970 Allende (PS-UP)","CHL-PS-UP"
-"China","CPC",1949,2008,"CHN",,,"1949 Mao Tse-Tung (CPC)","CHN-CPC"
-"China","KMT",1928,1949,"CHN",,,,"CHN-KMT"
-"China","KMT-WC",1940,1944,"CHN",,,"1940 Wang Jingwei (KMT-WC)","CHN-KMT-WC"
-"Colombia","PC",2006,2008,"COL",,,,"COL-PC"
-"Colombia","PCS",1919,2002,"COL","Social Conservative Party",,"1921 J. Holguin (PCS)","COL-PCS"
-"Colombia","PL",1930,1998,"COL","Liberal Party",,"1930 Olaya Herrera (PL)","COL-PL"
-"Comoros","CRC",2002,2006,"COM",,,"2002 Assoumani (CRC)","COM-CRC"
-"Comoros","FNS",2006,2008,"COM",,,"2006 Sambi (FNS)","COM-FNS"
-"Comoros","PRC",2002,2002,"COM",,,"2002 Hamada Madi (PRC)","COM-PRC"
-"Comoros","RDPC",1975,1978,"COM","Rassemblement Démocratique du Peuple Comorien",,,"COM-RDPC"
-"Comoros","RDR",1994,1996,"COM","Renouveau",,"1995 el-Yachroutu (RDR)","COM-RDR"
-"Comoros","RND",1996,1998,"COM",,,"1996 Abdoulkarim (RND)","COM-RND"
-"Comoros","UCP",1989,1991,"COM","Comoran Union for Progress",,,"COM-UCP"
-"Congo","FDU",2003,2008,"COG",,,,"COG-FDU"
-"Congo","MNR",1963,1968,"COG","National Révolutionnaire Mouvement",,"1963 Massamba-Debat (MNR)","COG-MNR"
-"Congo","PCT",1969,2002,"COG",,,,"COG-PCT"
-"Congo","UDDIA",1960,1963,"COG","Défense d'Intérêts Africains",,"1960 Youlou (UDDIA)","COG-UDDIA"
-"Congo","UPADS",1992,1997,"COG",,,"1992 Lissouba (UPADS)","COG-UPADS"
-"Costa Rica","BV",1948,1948,"CRI",,,,"CRI-BV"
-"Costa Rica","Civ",1928,1932,"CRI","Civil Party","Partido Civil","1928 Gonzalez Viquez (Civ)","CRI-Civ"
-"Costa Rica","PCon",1920,1924,"CRI",,,"1920 Acosta Garcia (PCon)","CRI-PCon"
-"Costa Rica","PLN",1953,2008,"CRI",,,"1953 Figueres Ferrer (PLN)","CRI-PLN"
-"Costa Rica","PR",1924,1928,"CRI","Republican Party",,"1924 Jimenez Oreamuno (PR)","CRI-PR"
-"Costa Rica","PRD",1978,1982,"CRI",,,"1978 Carazo Odio (PRD)","CRI-PRD"
-"Costa Rica","PRN",1932,1948,"CRI",,,"1932 Jimenez Oreamuno (PRN)","CRI-PRN"
-"Costa Rica","PSD",1948,1949,"CRI",,,,"CRI-PSD"
-"Costa Rica","PUN",1949,1970,"CRI",,,"1949 Ulate Blanco (PUN)","CRI-PUN"
-"Costa Rica","PUSC",1990,2006,"CRI",,,"1990 Calderon Fournier (PUSC)","CRI-PUSC"
-"Costa Rica","UC",1978,1982,"CRI",,,,"CRI-UC"
-"Croatia","HDZ",1992,2000,"HRV","Croatian Democratic Community’s",,"1999 Pavletic (HDZ)","HRV-HDZ"
-"Croatia","HSS",2000,2000,"HRV",,,"2000 Tomcic (HSS)","HRV-HSS"
-"Cuba","ABC",1933,1933,"CUB","ABC Revolutionary Society Party",,"1933 de Cespedes (ABC)","CUB-ABC"
-"Cuba","CSD",1940,1944,"CUB","Social Democratic Coalition",,"1940 Batista (CSD)","CUB-CSD"
-"Cuba","MR-26-7",1959,1976,"CUB","Revolutionary Movement of Jul 26th (communist)","Movemiento Revolucionario de 26 Julio",,"CUB-MR-26-7"
-"Cuba","ORI",1959,1976,"CUB","Integrated Revolutionary Organizations","Organizaciones Revolucionarias Integradas",,"CUB-ORI"
-"Cuba","PAP",1952,1959,"CUB",,,,"CUB-PAP"
-"Cuba","PAU",1952,1959,"CUB",,,,"CUB-PAU"
-"Cuba","PC",1919,1921,"CUB","Conservative Party",,,"CUB-PC"
-"Cuba","PCC",1959,2008,"CUB",,,"1959 F. Castro (PCC)","CUB-PCC"
-"Cuba","PL",1925,1933,"CUB","Liberal Party",,"1925 Machado Morales (PL)","CUB-PL"
-"Cuba","PPC-LN",1921,1925,"CUB","Cuban Popular [Liberal] Party",,"1921 Zayas y Alfonso (PPC-LN)","CUB-PPC-LN"
-"Cuba","PRC",1933,1934,"CUB","Cuban Revolutionary Party",,"1933 Grau San Martin (PRC)","CUB-PRC"
-"Cuba","PRC-A",1944,1952,"CUB",,,"1944 Grau San Martin (PRC-A)","CUB-PRC-A"
-"Cuba","PRUSC",1959,1976,"CUB",,,,"CUB-PRUSC"
-"Cuba","UN",1934,1940,"CUB","National Union",,"1934 Mendieta (UN)","CUB-UN"
-"Cyprus","AKEL",2008,2008,"CYP","Working People",,"2008 Christofias (AKEL)","CYP-AKEL"
-"Cyprus","DIKO",1977,2008,"CYP","Democratic Party",,"1977 Kyprianou (DIKO)","CYP-DIKO"
-"Cyprus","DISY",1993,2003,"CYP","Democratic Coalition",,"1993 Clerides (DISY)","CYP-DISY"
-"Cyprus","Eniaion",1974,1974,"CYP",,,"1974 Clerides (Eniaion)","CYP-Eniaion"
-"Cyprus","EOKA",1974,1974,"CYP",,,"1974 Sampson (EOKA)","CYP-EOKA"
-"Czech Republic","CSSD",1998,2006,"CZE","Social Democrats",,"1998 Zeman (CSSD)","CZE-CSSD"
-"Czech Republic","KDU-CSL",1993,2008,"CZE",,,,"CZE-KDU-CSL"
-"Czech Republic","ODA",1993,1997,"CZE",,,,"CZE-ODA"
-"Czech Republic","ODS",1993,2008,"CZE","Civic Democratic Party",,"1993 Klaus (ODS)","CZE-ODS"
-"Czech Republic","SZ",2008,2008,"CZE",,,,"CZE-SZ"
-"Czech Republic","US-DEU",2002,2006,"CZE",,,,"CZE-US-DEU"
-"Czechoslovakia","BdL",1926,1938,"CZE",,,,"CZE-BdL"
-"Czechoslovakia","CDU",1992,1992,"CZE","Civic Democratic Union",,,"CZE-CDU"
-"Czechoslovakia","Civic Forum",1991,1992,"CZE",,,,"CZE-Civic Forum"
-"Czechoslovakia","CND",1919,1938,"CZE","Czechoslovak National Democratic Party",,,"CZE-CND"
-"Czechoslovakia","CNSP",1945,1948,"CZE",,,"1945 Benes (CNSP)","CZE-CNSP"
-"Czechoslovakia","CNSS",1919,1938,"CZE","National Socialists",,"1921 Benes (CNSS)","CZE-CNSS"
-"Czechoslovakia","CPP",1945,1948,"CZE",,,,"CZE-CPP"
-"Czechoslovakia","CSDP",1945,1948,"CZE",,,,"CZE-CSDP"
-"Czechoslovakia","CSDS",1919,1938,"CZE","Social Democratic Party",,"1919 Tusar (CSDS)","CZE-CSDS"
-"Czechoslovakia","CSL",1921,1938,"CZE",,,,"CZE-CSL"
-"Czechoslovakia","CZOSS",1926,1938,"CZE","Small Traders Party",,,"CZE-CZOSS"
-"Czechoslovakia","DCVP",1926,1938,"CZE","German Christian Social Party",,,"CZE-DCVP"
-"Czechoslovakia","DP",1945,1948,"CZE",,,,"CZE-DP"
-"Czechoslovakia","DSAP",1930,1938,"CZE","Social Democrats",,,"CZE-DSAP"
-"Czechoslovakia","HSL'S",1928,1929,"CZE","Hlinka’s Slovak People’s Party",,,"CZE-HSL'S"
-"Czechoslovakia","HZDS",1992,1992,"CZE","Movement for a Democratic Slovakia [Public Against Violence]",,,"CZE-HZDS"
-"Czechoslovakia","KDS-CSL",1991,1992,"CZE",,,,"CZE-KDS-CSL"
-"Czechoslovakia","KSC",1945,1990,"CZE","Communist Party of Czechoslovakia",,"1948 Gottwald (KSC)","CZE-KSC"
-"Czechoslovakia","ODS-KDS",1992,1992,"CZE",,,"1992 Strasky (ODS-KDS)","CZE-ODS-KDS"
-"Czechoslovakia","PAV",1991,1991,"CZE","Slovak Public Again Violence",,,"CZE-PAV"
-"Czechoslovakia","RSZML",1919,1939,"CZE","Agrarians",,"1922 Svehla (RSZML)","CZE-RSZML"
-"Democratic Republic of the Congo","ABAKO",1960,1965,"COD","Bakongo",,"1960 Kasavubu (ABAKO)","COD-ABAKO"
-"Democratic Republic of the Congo","AFDL",1997,2002,"COD",,,"1997 Laurent Kabila (AFDL)","COD-AFDL"
-"Democratic Republic of the Congo","MNC-L",1960,1960,"COD","Movement Congolese Nationaux Congolese-Lumumba",,"1960 Lumumba (MNC-L)","COD-MNC-L"
-"Democratic Republic of the Congo","MRP",1968,1997,"COD",,,,"COD-MRP"
-"Democratic Republic of the Congo","PPRD",2003,2008,"COD",,,,"COD-PPRD"
-"Denmark","CDM",1982,1996,"DNK","Centre Democrats",,,"DNK-CDM"
-"Denmark","COM",1945,1945,"DNK","Danmarks Kommunistiske Parti",,,"DNK-COM"
-"Denmark","CON",1950,2008,"DNK","Conservative People’s Party",,"1982 Schluter (CON)","DNK-CON"
-"Denmark","CPP",1982,1994,"DNK","Christian People’s Party",,,"DNK-CPP"
-"Denmark","DS",1945,1945,"DNK","Dansk Samling",,,"DNK-DS"
-"Denmark","JP",1958,1960,"DNK","Justice Party",,,"DNK-JP"
-"Denmark","KF",1945,1945,"DNK","Det Konservative Folkeparti",,,"DNK-KF"
-"Denmark","LIB",1945,2008,"DNK",,"Venstre","1945 Kristensen (LIB)","DNK-LIB"
-"Denmark","LP-V",1920,1945,"DNK","Liberal Left","Venstre","1920 Neergaard (LP-V)","DNK-LP-V"
-"Denmark","RAD",1958,2001,"DNK","Radical Left Party",,"1968 Baunsgaard (RAD)","DNK-RAD"
-"Denmark","RP",1919,1945,"DNK","Radical Left (Det Radicale Venstre)",,,"DNK-RP"
-"Denmark","SD",1919,2001,"DNK","Social Democrats",,"1924 Stauning (SD)","DNK-SD"
-"Djibouti","RPP",1977,2008,"DJI","Progrès",,"1977 Gouled Aptidon (RPP)","DJI-RPP"
-"Dominican Republic","PD",1930,1962,"DOM","Dominican Party",,"1930 Trujillo (PD)","DOM-PD"
-"Dominican Republic","PLD",1996,2008,"DOM","Dominican Liberation Party",,"1996 L. Fernandez (PLD)","DOM-PLD"
-"Dominican Republic","PNG",1924,1930,"DOM","National Progressive Party",,"1924 Vasquez (PNG)","DOM-PNG"
-"Dominican Republic","PRD",1963,2004,"DOM","Revolutionary Dominican Party",,"1963 Bosch (PRD)","DOM-PRD"
-"Dominican Republic","PRSC",1965,1996,"DOM","Social Christian Reformist Party",,"1965 Godoy (PRSC)","DOM-PRSC"
-"Dominican Republic","Rep",1930,1963,"DOM","Republican Party",,"1930 Estrella Urena (Rep)","DOM-Rep"
-"Dominican Republic","UCN",1963,1965,"DOM","Civic National Union",,"1963 de los Santos (UCN)","DOM-UCN"
-"Ecuador","AD",1934,1947,"ECU","Democratic Alliance",,"1934 Velasco Ibarra (AD)","ECU-AD"
-"Ecuador","AP",2007,2008,"ECU","Country Alliance movement",,"2007 Correa Delgado (AP)","ECU-AP"
-"Ecuador","CFP",1979,1981,"ECU","Popular Forces",,"1979 Roldos (CFP)","ECU-CFP"
-"Ecuador","CID",1966,1968,"ECU",,,"1966 Arosemena Gomez (CID)","ECU-CID"
-"Ecuador","DP",2005,2007,"ECU","Democracy Popular",,"2005 Palacio Gonzalez (DP)","ECU-DP"
-"Ecuador","DP-UDC",1981,2003,"ECU","People's Democracy-Christian Democrat Union",,"1981 Hurtado Larrea (DP-UDC)","ECU-DP-UDC"
-"Ecuador","FNV",1952,1972,"ECU","Federación Nacional Velasquista (National Velasquista Federation)",,"1952 Velasco Ibarra (FNV)","ECU-FNV"
-"Ecuador","FRA",1997,1998,"ECU",,,"1997 Alarcon (FRA)","ECU-FRA"
-"Ecuador","ID",1988,1992,"ECU",,,"1988 Borja Cevallos (ID)","ECU-ID"
-"Ecuador","MCDN",1948,1952,"ECU","Movimiento Civico Ecuatoriano",,"1948 Plaza Lasso (MCDN)","ECU-MCDN"
-"Ecuador","MIAR",1997,1997,"ECU",,,"1997 Arteaga Serrano (MIAR)","ECU-MIAR"
-"Ecuador","MSC",1956,1960,"ECU","Movimiento Social Cristiano",,"1956 Ponce Enriquez (MSC)","ECU-MSC"
-"Ecuador","PCE",1947,1947,"ECU",,,"1947 Suarez (PCE)","ECU-PCE"
-"Ecuador","PL",1931,1940,"ECU","Liberal Party",,"1931 Baquerizo (PL)","ECU-PL"
-"Ecuador","PLR",1919,1944,"ECU","Radical Liberal Party",,"1920 Tamayo (PLR)","ECU-PLR"
-"Ecuador","PNR",1961,1963,"ECU",,,"1961 Arosemena Monroy (PNR)","ECU-PNR"
-"Ecuador","PRE",1996,1997,"ECU","Roldosista Ecuadorian Party",,"1996 Bucaram Ortiz (PRE)","ECU-PRE"
-"Ecuador","PSC",1984,1988,"ECU","Social-Christian Party",,"1984 Febres Cordero (PSC)","ECU-PSC"
-"Ecuador","PSP",2003,2005,"ECU","Party Patriotic Society",,"2003 Gutierrez (PSP)","ECU-PSP"
-"Ecuador","PUR",1992,1996,"ECU",,,"1992 Duran Ballen (PUR)","ECU-PUR"
-"Ecuador","VR",1932,1932,"ECU","Revolutionary Socialist Vanguard",,"1932 Freile Larrea (VR)","ECU-VR"
-"Egypt","ASU",1963,1978,"EGY",,,,"EGY-ASU"
-"Egypt","HDW",1979,2008,"EGY",,,"1981 Mubarak (HDW)","EGY-HDW"
-"Egypt","LR",1952,1956,"EGY",,,,"EGY-LR"
-"Egypt","NU",1957,1962,"EGY",,,,"EGY-NU"
-"El Salvador","ARENA",1989,2008,"SLV",,,"1989 Cristiani (ARENA)","SLV-ARENA"
-"El Salvador","PCN",1962,1979,"SLV",,,,"SLV-PCN"
-"El Salvador","PDC",1980,1989,"SLV","Christian Democratic Party",,"1980 Duarte (PDC)","SLV-PDC"
-"El Salvador","PND",1919,1931,"SLV","Partido Nacional Democrático",,"1919 J. Melendez (PND)","SLV-PND"
-"El Salvador","PPP",1931,1944,"SLV",,,,"SLV-PPP"
-"El Salvador","PRUD",1950,1960,"SLV",,,,"SLV-PRUD"
-"El Salvador","PT",1931,1931,"SLV",,,"1931 Araujo (PT)","SLV-PT"
-"Equatorial Guinea","PDGE",1988,2008,"GNQ","Partido Democratico Guinea Ecuatorial",,,"GNQ-PDGE"
-"Equatorial Guinea","PUNT",1971,1979,"GNQ","Worker’s National United Party",,,"GNQ-PUNT"
-"Eritrea","PFDJ",1993,2008,"ERI","People's Front for Democracy and Justice",,"1993 Afewerki (PFDJ)","ERI-PFDJ"
-"Estonia","Ansiedler",1925,1933,"EST",,,,"EST-Ansiedler"
-"Estonia","Center",1932,1933,"EST",,,,"EST-Center"
-"Estonia","EK",1992,1992,"EST",,,"1992 Vahi (EK)","EST-EK"
-"Estonia","EMRL",1919,1919,"EST","Union of Rural People",,,"EST-EMRL"
-"Estonia","ER",1919,1933,"EST","People’s Party",,"1919 Tonisson (ER)","EST-ER"
-"Estonia","ERL",2003,2007,"EST","People's Union of Estonia",,,"EST-ERL"
-"Estonia","ERSP",1992,1994,"EST","Moderates and Estonian National Independence Party",,,"EST-ERSP"
-"Estonia","ESTP",1928,1932,"EST","Estonian Socialist Party of Workers",,"1928 Rei (ESTP)","EST-ESTP"
-"Estonia","ETE",1919,1932,"EST","Labor Party",,"1919 Strandman (ETE)","EST-ETE"
-"Estonia","I",1936,1940,"EST","Fatherland League",,,"EST-I"
-"Estonia","IERSP",1999,2002,"EST",,,"1999 Laar (IERSP)","EST-IERSP"
-"Estonia","IRL",2008,2008,"EST","Pro Patria and Res Publica Union",,,"EST-IRL"
-"Estonia","Isamaa",1992,1994,"EST",,,"1992 Laar (Isamaa)","EST-Isamaa"
-"Estonia","Kesk",2002,2007,"EST",,,,"EST-Kesk"
-"Estonia","KMU-K",1995,1999,"EST",,,"1997 Siimann (KMU-K)","EST-KMU-K"
-"Estonia","KRE",1921,1931,"EST","Christian People’s Party",,"1924 Akel (KRE)","EST-KRE"
-"Estonia","Moderates",1992,2002,"EST",,,,"EST-Moderates"
-"Estonia","NCP",1932,1932,"EST","National Centre Party",,,"EST-NCP"
-"Estonia","PK",1921,1935,"EST","Unions of Farmers",,"1921 Pats (PK)","EST-PK"
-"Estonia","PKK",1932,1932,"EST",,,"1932 Teemant (PKK)","EST-PKK"
-"Estonia","R",1991,1996,"EST",,,"1991 Savisaar (R)","EST-R"
-"Estonia","RE",1999,2008,"EST",,,"2002 Kallas (RE)","EST-RE"
-"Estonia","ResP",2003,2005,"EST",,,"2003 Parts (ResP)","EST-ResP"
-"Estonia","SDE",1919,2008,"EST",,,,"EST-SDE"
-"Ethiopia","EPRDF",1991,2008,"ETH",,,,"ETH-EPRDF"
-"Ethiopia","EWP",1977,1991,"ETH",,,"1991 Gebre Kidan (EWP)","ETH-EWP"
-"Ethiopia","TPLF",1991,2008,"ETH",,,"1991 Zenawi (TPLF)","ETH-TPLF"
-"Fiji","CA",2002,2006,"FJI","Conservative Alliance/Matanitu Vanua",,,"FJI-CA"
-"Fiji","FAP",1970,2000,"FJI","Fijian Alliance Party",,"1970 Mara (FAP)","FJI-FAP"
-"Fiji","FLP",1987,2006,"FJI","Fiji Labour Party",,"1987 Bavadra (FLP)","FJI-FLP"
-"Fiji","FPP-SVT",1992,1999,"FJI",,,,"FJI-FPP-SVT"
-"Fiji","FUP-SDL",2002,2006,"FJI","Fijian United Party",,,"FJI-FUP-SDL"
-"Fiji","GVP",1995,1999,"FJI","General Voter’s Party",,,"FJI-GVP"
-"Fiji","LU",2002,2006,"FJI","Labour Unity",,,"FJI-LU"
-"Fiji","NFP",1987,1987,"FJI","National Federation Party",,,"FJI-NFP"
-"Fiji","PANU",1999,2000,"FJI","Party of National Unity",,,"FJI-PANU"
-"Finland","ED",1919,1944,"FIN","National Progressive Party (Kansallinen Edistyspuolue)",,"1919 Stahlberg (ED)","FIN-ED"
-"Finland","KESK",1956,1981,"FIN",,,,"FIN-KESK"
-"Finland","KOK",1931,1956,"FIN","National Coalition Party",,"1931 Svinhufvud (KOK)","FIN-KOK"
-"Finland","ML",1925,1981,"FIN","Agrarian Party",,"1925 Relander (ML)","FIN-ML"
-"Finland","SDP",1981,2008,"FIN","Social Democratic Party",,"1981 Koivisto (SDP)","FIN-SDP"
-"France","AD",1927,1928,"FRA",,"Alliance démocratique",,"FRA-AD"
-"France","ARS",1920,1940,"FRA",,"Action Republicaine et Socieale (later Action Democractique et Sociale)",,"FRA-ARS"
-"France","CR",1934,1936,"FRA",,"Centre Republucan",,"FRA-CR"
-"France","DP",1930,1932,"FRA",,"Démocrate Populaire (also Parti Démocrate Populaire)",,"FRA-DP"
-"France","ERD",1920,1940,"FRA",,"Eentente Republicane democratique (or the Groupe de l'Entente Républicaine)","1940 Reynaud (ERD)","FRA-ERD"
-"France","FR",1935,1936,"FRA",,"Federation Republicane",,"FRA-FR"
-"France","GAUL",1948,1958,"FRA",,"Gaulliste","1950 Pleven (GAUL)","FRA-GAUL"
-"France","GD",1919,1940,"FRA",,"Gouche Democratique","1930 Steeg (GD)","FRA-GD"
-"France","GR",1919,1934,"FRA",,"Gauche Républicaine Démocratique",,"FRA-GR"
-"France","GRad",1925,1937,"FRA",,"Gauche Radicale",,"FRA-GRad"
-"France","GRep",1926,1926,"FRA",,"Gauche Républicaine",,"FRA-GRep"
-"France","GSR",1932,1932,"FRA",,"Gauche Sociale et radicale",,"FRA-GSR"
-"France","Ind",1969,1974,"FRA",,"Independent","1969 Poher (Ind)","FRA-Ind"
-"France","IND",1948,1958,"FRA",,"Centre National des Indépendants et Paysans","1952 Pinay (IND)","FRA-IND"
-"France","MRP",1946,1958,"FRA",,"Mouvement Républicain Populaire","1946 Bidault (MRP)","FRA-MRP"
-"France","PCF",1946,1947,"FRA",,"Parti Communiste Français",,"FRA-PCF"
-"France","PRS",1920,1940,"FRA",,"Republican Socialiste (Parti Républicain-Socialiste)","1921 Briand (PRS)","FRA-PRS"
-"France","PS",1938,1995,"FRA",,"Parti Socialiste Français","1938 Blum (PS)","FRA-PS"
-"France","PSF",1946,1958,"FRA",,"Parti Socialiste Français","1946 Gouin (PSF)","FRA-PSF"
-"France","Rad",1930,1930,"FRA",,"Radical Socialiste",,"FRA-Rad"
-"France","RAD",1919,1940,"FRA",,"Radical Socialiste","1924 Herriot (RAD)","FRA-RAD"
-"France","RAIS",1936,1936,"FRA",,"Radicaux indépendants",,"FRA-RAIS"
-"France","RG",1919,1936,"FRA",,"Reopublican de Gauche","1920 Leygues (RG)","FRA-RG"
-"France","RI",1974,1981,"FRA",,"Fédération Nationale des Républicains Indépendants","1974 Giscard D'Estaing (RI)","FRA-RI"
-"France","RIAS",1934,1935,"FRA",,"Groupe Républicain et Social (later Groupe des Républicains Indépendants d'Action Sociale)",,"FRA-RIAS"
-"France","RPR",1995,2002,"FRA",,"Rassemblement Pour la République",,"FRA-RPR"
-"France","RSP",1946,1958,"FRA",,"Parti radical-socialiste","1948 Marie (RSP)","FRA-RSP"
-"France","SEIO",1933,1933,"FRA",,,,"FRA-SEIO"
-"France","SF",1932,1936,"FRA",,"Section Française",,"FRA-SF"
-"France","SFIO",1933,1940,"FRA",,"Section Française de l’Internationale Ouvrière","1936 Blum (SFIO)","FRA-SFIO"
-"France","UDR",1930,1974,"FRA",,"Union Democratique et radical","1969 Pompidou (UDR)","FRA-UDR"
-"France","UMP",2003,2008,"FRA",,"Union pour un Mouvement Populaire","2007 Sarkozy (UMP)","FRA-UMP"
-"France","UNR",1959,1969,"FRA",,"Union pour la nouvelle république [Gaulliste]",,"FRA-UNR"
-"France","UR",1919,1940,"FRA",,"Union Republicane","1922 Poincare (UR)","FRA-UR"
-"France","URD",1924,1935,"FRA",,"Groupe de l'Union Républicaine Démocratique",,"FRA-URD"
-"France","URS",1939,1940,"FRA",,,,"FRA-URS"
-"France","US",1936,1936,"FRA",,"Union Sciate",,"FRA-US"
-"France","USR",1937,1938,"FRA",,"Union socialiste et republicane",,"FRA-USR"
-"Gabon","BDG",1960,1968,"GAB",,"Bloc Démocratique Gabonais","1960 Mba (BDG)","GAB-BDG"
-"Gabon","PDG",1969,2008,"GAB",,,,"GAB-PDG"
-"Gambia","APRC",1997,2008,"GMB","Alliance for Patriotic Reorientation and Construction",,,"GMB-APRC"
-"Gambia","PPP",1965,1994,"GMB","People's Progressive Party",,"1965 Jawara (PPP)","GMB-PPP"
-"Georgia","BDA",2003,2008,"GEO","Burdzhanadze-Demokratiuli Aliansi",,"2003 Burdzhanadze (BDA)","GEO-BDA"
-"Georgia","ENM",2004,2008,"GEO","Natshhionakhuri Modraoba– Demokrathebi",,"2004 Saakashvili (ENM)","GEO-ENM"
-"Georgia","MM-TS",1991,1992,"GEO","Round Table-Free Georgia",,,"GEO-MM-TS"
-"Georgia","SMK",1996,2003,"GEO","Sakartvelos Mokalaketa Kavshiri",,,"GEO-SMK"
-"German Democratic Republic","SED",1954,1989,"DDR","Socialist Unity Party",,"1971 Honecker (SED)","DDR-SED"
-"German Democratic Republic","SED-PDS",1989,1990,"DDR","Party of Democratic Socialism",,"1989 Gysi (SED-PDS)","DDR-SED-PDS"
-"German Federal Republic","CDU",1955,1990,"DEU","Christian Democratic Union",,"1963 Erhard (CDU)","DEU-CDU"
-"German Federal Republic","DP",1955,1960,"DEU",,,,"DEU-DP"
-"German Federal Republic","FDP",1955,1990,"DEU","Free Democrats",,,"DEU-FDP"
-"German Federal Republic","GBHE",1955,1955,"DEU",,,,"DEU-GBHE"
-"German Federal Republic","SPD",1967,1982,"DEU","Social Democratic Party",,"1969 Brandt (SPD)","DEU-SPD"
-"Germany","BVP",1924,1932,"DEU","Bavarian People’s Party",,,"DEU-BVP"
-"Germany","DDP",1919,1931,"DEU","German Democratic Party","Deutsche Demokratische Partei",,"DEU-DDP"
-"Germany","DNVP",1925,1933,"DEU",,,,"DEU-DNVP"
-"Germany","DSTP",1932,1932,"DEU",,,,"DEU-DSTP"
-"Germany","DVP",1920,1931,"DEU",,,"1923 Stresemann (DVP)","DEU-DVP"
-"Germany","FPD",1990,1998,"DEU",,,,"DEU-FPD"
-"Germany","Greens",1998,2005,"DEU",,,,"DEU-Greens"
-"Germany","KVP",1930,1932,"DEU",,,,"DEU-KVP"
-"Germany","LV",1932,1933,"DEU",,,,"DEU-LV"
-"Germany","NSDAP",1933,1945,"DEU",,,"1933 Hitler (NSDAP)","DEU-NSDAP"
-"Germany","WP",1930,1930,"DEU","Wirtschaftspartei",,,"DEU-WP"
-"Germany","Z",1919,1932,"DEU","Center Party","Zentrum","1920 Fehrenbach (Z)","DEU-Z"
-"Ghana","CPP",1957,1966,"GHA","Convention People’s Party",,,"GHA-CPP"
-"Ghana","NDC",1993,2001,"GHA",,,,"GHA-NDC"
-"Ghana","NPP",2001,2008,"GHA","New Patriotic Party",,"2001 Kufuor (NPP)","GHA-NPP"
-"Ghana","PNP",1979,1981,"GHA","People's National Party",,"1979 Limann (PNP)","GHA-PNP"
-"Ghana","PP",1969,1972,"GHA","Progress Party",,"1969 Busia (PP)","GHA-PP"
-"Greece","CR",1924,1925,"GRC","Conservative Republican Party",,"1924 Michalakopoulos (CR)","GRC-CR"
-"Greece","CU",1963,1965,"GRC","Center Union",,"1963 G. Papandreou (CU)","GRC-CU"
-"Greece","DE",1924,1932,"GRC","Republican Union",,"1924 Papanastasiou (DE)","GRC-DE"
-"Greece","Diss-CU",1965,1966,"GRC",,,"1965 Tsirimokos (Diss-CU)","GRC-Diss-CU"
-"Greece","EEK",1945,1945,"GRC","National Unionist Party",,"1945 Kanellopoulos (EEK)","GRC-EEK"
-"Greece","EK",1944,1945,"GRC","Center Union",,"1944 G. Papandreou (EK)","GRC-EK"
-"Greece","EPEK",1950,1952,"GRC","National Progressive Center Union",,"1950 Plastiras (EPEK)","GRC-EPEK"
-"Greece","ERE",1957,1974,"GRC","National Radical Union",,"1958 Karamanlis (ERE)","GRC-ERE"
-"Greece","ERK",1926,1926,"GRC",,,"1926 Kondilis (ERK)","GRC-ERK"
-"Greece","FLP",1926,1928,"GRC","Farmer-Labour Party",,,"GRC-FLP"
-"Greece","FOP",1926,1928,"GRC","Free Opion Party",,,"GRC-FOP"
-"Greece","GRAL",1952,1956,"GRC","Hellenic Union",,"1952 Papagos (GRAL)","GRC-GRAL"
-"Greece","KF",1919,1936,"GRC","Liberal Party",,"1924 Venizelos (KF)","GRC-KF"
-"Greece","LIB",1946,1952,"GRC","Liberal Party",,"1950 S. Venizelos (LIB)","GRC-LIB"
-"Greece","LIB-?",1950,1950,"GRC",,,"1949 Diomidis (LIB-?)","GRC-LIB-?"
-"Greece","LIB-Nat",1946,1947,"GRC","National Liberal Party",,,"GRC-LIB-Nat"
-"Greece","LIB-Ref",1946,1947,"GRC","Refugees’ Liberal Party",,,"GRC-LIB-Ref"
-"Greece","LIB-Sof",1945,1950,"GRC","Sophoulis",,"1945 Sophoulis (LIB-Sof)","GRC-LIB-Sof"
-"Greece","LIB-Ven",1947,1950,"GRC","Venizelian Liberals",,,"GRC-LIB-Ven"
-"Greece","LK",1920,1935,"GRC","People’s Party",,"1920 Rallis (LK)","GRC-LK"
-"Greece","LKK",1955,1955,"GRC","People’s Social Party",,"1955 Stephanopoulos (LKK)","GRC-LKK"
-"Greece","ND",1975,2008,"GRC",,,"1980 Rallis (ND)","GRC-ND"
-"Greece","NP",1947,1949,"GRC","National Party",,,"GRC-NP"
-"Greece","NPU",1946,1947,"GRC","National Political Union",,,"GRC-NPU"
-"Greece","NRP",1935,1935,"GRC","National Radical Party",,"1935 Kondylis (NRP)","GRC-NRP"
-"Greece","NU",1949,1950,"GRC",,,,"GRC-NU"
-"Greece","NUP",1950,1950,"GRC",,,,"GRC-NUP"
-"Greece","PASOK",1981,2004,"GRC","Panhellenic Socialist Movement",,"1981 Papandreou (PASOK)","GRC-PASOK"
-"Greece","POP",1946,1950,"GRC","People’s Party",,"1946 Tsaldaris (POP)","GRC-POP"
-"Greece","PP",1965,1966,"GRC","Progressive Party",,,"GRC-PP"
-"Greece","ProgLib",1926,1928,"GRC",,,,"GRC-ProgLib"
-"Greece","SocDem",1947,1951,"GRC","Social Democrats",,,"GRC-SocDem"
-"Greece","SYN",1989,1990,"GRC",,,,"GRC-SYN"
-"Guatemala","FRG",2000,2004,"GTM",,,"2000 Portillo (FRG)","GTM-FRG"
-"Guatemala","GANA",2004,2008,"GTM",,,"2004 Berger (GANA)","GTM-GANA"
-"Guatemala","Lib",1919,1944,"GTM",,,"1920 Herrera y Luna (Lib)","GTM-Lib"
-"Guatemala","MAS",1991,1993,"GTM","Espina Salguero",,"1991 Serrano Elias (MAS)","GTM-MAS"
-"Guatemala","PAN",1957,2000,"GTM",,,"1957 Gonzalez Lopez (PAN)","GTM-PAN"
-"Guatemala","PAR",1945,1954,"GTM",,,"1945 Arevalo (PAR)","GTM-PAR"
-"Guatemala","PDCG",1986,1991,"GTM",,,"1986 Cerezo (PDCG)","GTM-PDCG"
-"Guatemala","PRDN",1958,1963,"GTM",,,"1958 Ydigoras Fuentes (PRDN)","GTM-PRDN"
-"Guatemala","UNE",2008,2008,"GTM",,,"2008 Colom (UNE)","GTM-UNE"
-"Guinea","PDG",1958,1984,"GIN","Parti Démocratique de Guinée / Ahmed Sekou Touré",,"1958 Toure (PDG)","GIN-PDG"
-"Guinea","PUP",1992,2008,"GIN","Parti de l'Unité et du Progrès",,"2008 Sompare (PUP)","GIN-PUP"
-"Guinea-Bissau","PAIGC",1974,2008,"GNB",,,"1974 Cabral (PAIGC)","GNB-PAIGC"
-"Guinea-Bissau","PRS",2000,2003,"GNB",,,"2000 Iala (PRS)","GNB-PRS"
-"Guyana","PNC-R",1966,1992,"GUY","People’s National Conference, Reform branch",,"1966 Burnham (PNC-R)","GUY-PNC-R"
-"Guyana","PPP-C",1992,2008,"GUY","People Progressive Party, Civic branch",,"1992 Ch. Jagan (PPP-C)","GUY-PPP-C"
-"Guyana","UF",1966,1969,"GUY","United Force",,,"GUY-UF"
-"Haiti","FL",2001,2004,"HTI",,,"2001 Aristide (FL)","HTI-FL"
-"Haiti","FLP",2006,2008,"HTI",,,"2006 Preval (FLP)","HTI-FLP"
-"Haiti","FNCD",1991,1996,"HTI",,,"1991 Aristide (FNCD)","HTI-FNCD"
-"Haiti","MOP",1957,1957,"HTI",,,"1957 Executive Council (MOP)","HTI-MOP"
-"Haiti","OPL",1994,2001,"HTI",,,"1996 Preval (OPL)","HTI-OPL"
-"Haiti","PUN",1957,1971,"HTI",,,"1957 F. Duvalier (PUN)","HTI-PUN"
-"Haiti","RDNP",1988,1988,"HTI",,,"1988 Manigat (RDNP)","HTI-RDNP"
-"Honduras","PLH",1919,2008,"HND","Honduran Liberal Party",,"1919 Bogran (PLH)","HND-PLH"
-"Honduras","PNH",1919,2006,"HND","Liberal Party",,"1925 Paz Barahona (PNH)","HND-PNH"
-"Hungary","F48",1919,1919,"HUN",,,,"HUN-F48"
-"Hungary","Fidesz",1998,2002,"HUN",,,"1998 Orban (Fidesz)","HUN-Fidesz"
-"Hungary","FKGP",1998,2002,"HUN",,,,"HUN-FKGP"
-"Hungary","FKPG",1990,1994,"HUN",,,,"HUN-FKPG"
-"Hungary","KDNP",1990,1994,"HUN",,,,"HUN-KDNP"
-"Hungary","KNEP",1919,1920,"HUN","Christian National Union Party",,"1919 Friedrich (KNEP)","HUN-KNEP"
-"Hungary","MDF",1990,2002,"HUN","Hungarian Democratic Forum",,"1990 Antall (MDF)","HUN-MDF"
-"Hungary","MDP",1945,1956,"HUN",,,"1956 Nagy (MDP)","HUN-MDP"
-"Hungary","MKP",1945,1956,"HUN",,,"1945 Rakosi (MKP)","HUN-MKP"
-"Hungary","MSzMP",1956,1989,"HUN",,,"1956 Kadar (MSzMP)","HUN-MSzMP"
-"Hungary","MSzP",1919,2008,"HUN",,,"1919 Kun (MSzP)","HUN-MSzP"
-"Hungary","MSZP",1989,1990,"HUN",,,"1989 Szuros (MSZP)","HUN-MSZP"
-"Hungary","NEP",1922,1944,"HUN",,,,"HUN-NEP"
-"Hungary","SzDP",1919,1919,"HUN",,,"1919 Peidl (SzDP)","HUN-SzDP"
-"Hungary","SZDSZ",1994,2008,"HUN",,,,"HUN-SZDSZ"
-"India","BJP",1989,1996,"IND",,,"1996 Vajpayee (BJP)","IND-BJP"
-"India","BJP-NDA",1998,2004,"IND",,,,"IND-BJP-NDA"
-"India","Christians",1947,1952,"IND",,,,"IND-Christians"
-"India","INC",1947,1977,"IND","Indian National Congress",,"1947 Nehru (INC)","IND-INC"
-"India","INC-I",1980,1996,"IND",,,"1980 Gandhi I. (INC-I)","IND-INC-I"
-"India","INC-O",1979,1980,"IND",,,,"IND-INC-O"
-"India","INC-UPA",2004,2008,"IND",,,"2004 Manmohan Singh (INC-UPA)","IND-INC-UPA"
-"India","JD-S",1990,1991,"IND","Janata Dal-Shekhar",,"1990 Shekhar (JD-S)","IND-JD-S"
-"India","JP",1977,1979,"IND",,,"1977 Desai (JP)","IND-JP"
-"India","JP-S",1979,1980,"IND",,,"1979 Charan Singh (JP-S)","IND-JP-S"
-"India","LF",1989,1990,"IND",,,,"IND-LF"
-"India","Mhas",1947,1952,"IND",,,,"IND-Mhas"
-"India","NF-JD",1989,1990,"IND","National Front-Janata Dal",,"1989 Pratap Singh (NF-JD)","IND-NF-JD"
-"India","Parsee",1947,1952,"IND",,,,"IND-Parsee"
-"India","Sikh",1947,1952,"IND",,,,"IND-Sikh"
-"India","UF-DMK",1997,1998,"IND",,,"1997 Gujral (UF-DMK)","IND-UF-DMK"
-"India","UF-JD",1996,1997,"IND","United Front-Janata Dal",,"1996 Gowda (UF-JD)","IND-UF-JD"
-"Indonesia","Golkar",1966,1999,"IDN",,,"1966 Suharto (Golkar)","IDN-Golkar"
-"Indonesia","PD",2004,2008,"IDN","Partai Demokrat",,"2004 Bambang Yudhoyono (PD)","IDN-PD"
-"Indonesia","PDI-P",2001,2004,"IDN",,,"2001 Megawati Sukarnoputri (PDI-P)","IDN-PDI-P"
-"Indonesia","PKB",1999,2001,"IDN","National Awakening Party",,"1999 Wahid (PKB)","IDN-PKB"
-"Indonesia","PNI",1949,1966,"IDN",,,"1949 Sukarno (PNI)","IDN-PNI"
-"Iran","AII",2005,2008,"IRN",,,"2005 Ahmadinejad (AII)","IRN-AII"
-"Iran","NF",1951,1953,"IRN",,,"1951 Mohammad Mossadeg (NF)","IRN-NF"
-"Iraq","Ba'ath",1968,2003,"IRQ",,,"1979 Saddam Hussein (Ba'ath)","IRQ-Ba'ath"
-"Iraq","IDM",2005,2008,"IRQ","Islamic Da’wah Party",,"2005 al-Jaafari (IDM)","IRQ-IDM"
-"Iraq","IIA",1963,1968,"IRQ",,,"1963 Salem Aref (IIA)","IRQ-IIA"
-"Iraq","INA",2004,2005,"IRQ","Iraqi National Accord",,"2004 Allawi (INA)","IRQ-INA"
-"Iraq","United States",2003,2004,"IRQ",,,"2003 Franks (United States)","IRQ-United States"
-"Ireland","CG",1922,1932,"IRL","pro-Treatyite Cumann na nGaedheal",,,"IRL-CG"
-"Ireland","CNP",1948,1951,"IRL","Clann na Poblachta",,,"IRL-CNP"
-"Ireland","CNT",1948,1957,"IRL","Clann na Talmhan",,,"IRL-CNT"
-"Ireland","DL",1994,1997,"IRL","Democratic Left",,,"IRL-DL"
-"Ireland","FF",1932,2008,"IRL","anti-Treatyite Fianna Fáil",,"1932 de Valera (FF)","IRL-FF"
-"Ireland","FF,FF",1989,1989,"IRL",,,,"IRL-FF,FF"
-"Ireland","FG",1948,1997,"IRL","Fine Gael",,"1948 Costello (FG)","IRL-FG"
-"Ireland","GP",2008,2008,"IRL","Green Party",,,"IRL-GP"
-"Ireland","LAB",1948,1997,"IRL","The National Labor Party",,,"IRL-LAB"
-"Ireland","PD",1989,2008,"IRL","Progressive Democrats",,,"IRL-PD"
-"Israel","AA",1956,1966,"ISR","Ahdut HaAvoda",,,"ISR-AA"
-"Israel","AIS",1992,1992,"ISR","Agudat Israel",,,"ISR-AIS"
-"Israel","AY",2006,2006,"ISR","Agudat Yisrael",,,"ISR-AY"
-"Israel","CP",1999,2003,"ISR","Center Party",,,"ISR-CP"
-"Israel","CRIT",1974,1974,"ISR","Movement for Civil Rights and Peace",,,"ISR-CRIT"
-"Israel","DASH",1978,1981,"ISR",,,,"ISR-DASH"
-"Israel","DH",2006,2006,"ISR","Yahadut Ha’Thorah - Degel Ha’Thora",,,"ISR-DH"
-"Israel","GHAL",1970,1970,"ISR",,,,"ISR-GHAL"
-"Israel","GIL",2007,2008,"ISR",,,,"ISR-GIL"
-"Israel","GZ",1953,1955,"ISR","General Zionists",,,"ISR-GZ"
-"Israel","HDASH",1995,1996,"ISR",,,,"ISR-HDASH"
-"Israel","HMIZ",1953,1955,"ISR","Mizrachi HaMizrahi",,,"ISR-HMIZ"
-"Israel","HRUT",1968,1969,"ISR","Herut",,,"ISR-HRUT"
-"Israel","IL",2001,2008,"ISR","Yisrael Beitenu",,,"ISR-IL"
-"Israel","ILIB",1967,1977,"ISR","Independent Liberal Party",,,"ISR-ILIB"
-"Israel","KAD",2006,2008,"ISR","Kadima",,"2006 Olmert (KAD)","ISR-KAD"
-"Israel","LAB",1984,1996,"ISR","Israel Labor Party",,"1984 Peres (LAB)","ISR-LAB"
-"Israel","LAB-Gesher-Meimad",1999,2000,"ISR",,,"1999 Barak (LAB-Gesher-Meimad)","ISR-LAB-Gesher-Meimad"
-"Israel","LAB-Meimad",2001,2008,"ISR",,,,"ISR-LAB-Meimad"
-"Israel","LIK",1977,2006,"ISR",,,"1977 Begin (LIK)","ISR-LIK"
-"Israel","MAPAI",1951,1961,"ISR",,,,"ISR-MAPAI"
-"Israel","MIZR",1953,1955,"ISR",,,,"ISR-MIZR"
-"Israel","MMPAI-ALNM",1969,1969,"ISR",,,,"ISR-MMPAI-ALNM"
-"Israel","MPAI",1948,1966,"ISR",,,"1948 Ben Gurion (MPAI)","ISR-MPAI"
-"Israel","MPAI-ALNM",1967,1973,"ISR","AA into Alignment",,"1969 Allon (MPAI-ALNM)","ISR-MPAI-ALNM"
-"Israel","MPAI-LAB",1974,1977,"ISR",,,"1974 Rabin (MPAI-LAB)","ISR-MPAI-LAB"
-"Israel","MPAM",1956,1969,"ISR",,,,"ISR-MPAM"
-"Israel","MRET",1993,2000,"ISR",,,,"ISR-MRET"
-"Israel","MSHA",1984,1988,"ISR","Morasha",,,"ISR-MSHA"
-"Israel","NRP",1956,2004,"ISR","National Religious Party",,,"ISR-NRP"
-"Israel","NRP(Shamir)",1992,1992,"ISR",,,,"ISR-NRP(Shamir)"
-"Israel","OMET",1984,1988,"ISR","Ometz",,,"ISR-OMET"
-"Israel","One",2001,2002,"ISR",,,,"ISR-One"
-"Israel","PROG",1948,1961,"ISR",,,,"ISR-PROG"
-"Israel","RAFI",1968,1969,"ISR",,,,"ISR-RAFI"
-"Israel","SEPH",1948,1951,"ISR",,,,"ISR-SEPH"
-"Israel","Shas",2001,2003,"ISR",,,,"ISR-Shas"
-"Israel","SHAS",1984,2008,"ISR",,,,"ISR-SHAS"
-"Israel","SNUI",1984,2004,"ISR","Shinui",,,"ISR-SNUI"
-"Israel","TAMI",1982,1984,"ISR",,,,"ISR-TAMI"
-"Israel","THYA",1983,1992,"ISR",,,,"ISR-THYA"
-"Israel","TW",1996,1999,"ISR",,,,"ISR-TW"
-"Israel","TZOM",1991,1991,"ISR",,,,"ISR-TZOM"
-"Israel","URF",1948,1952,"ISR","United Religious Front",,,"ISR-URF"
-"Israel","UTJ",1996,2002,"ISR","Yahadut Ha’Thorah",,,"ISR-UTJ"
-"Israel","YB",1996,2003,"ISR","Yisrael BaAliyah",,,"ISR-YB"
-"Israel","YIUD",1995,1996,"ISR",,,,"ISR-YIUD"
-"Italy","AN",1994,2008,"ITA",,,,"ITA-AN"
-"Italy","AP",1945,1946,"ITA","Action Party",,"1945 Parri (AP)","ITA-AP"
-"Italy","CCD-CDU",2001,2005,"ITA",,,,"ITA-CCD-CDU"
-"Italy","Daisy",2006,2008,"ITA",,,,"ITA-Daisy"
-"Italy","DC",1945,1994,"ITA","Action Party, the Christian Democratic Party",,"1945 de Gasperi (DC)","ITA-DC"
-"Italy","DCpA",2008,2008,"ITA","Democracy for the Autonomies",,,"ITA-DCpA"
-"Italy","DEM",2000,2001,"ITA","Democrats",,,"ITA-DEM"
-"Italy","Des",1919,1919,"ITA",,,,"ITA-Des"
-"Italy","DS",2000,2008,"ITA",,,,"ITA-DS"
-"Italy","FI",1994,2008,"ITA","Forza Italia",,"1994 Berlusconi (FI)","ITA-FI"
-"Italy","Greens",1996,2008,"ITA",,,,"ITA-Greens"
-"Italy","IdV",2006,2008,"ITA",,,,"ITA-IdV"
-"Italy","IND",1998,2008,"ITA",,,,"ITA-IND"
-"Italy","LN",1994,2008,"ITA",,,,"ITA-LN"
-"Italy","LVERDE",1993,1993,"ITA","Lega Verde",,,"ITA-LVERDE"
-"Italy","OT",2006,2008,"ITA",,,"2006 Prodi (OT)","ITA-OT"
-"Italy","PCDI",2000,2001,"ITA",,,,"ITA-PCDI"
-"Italy","PCI",1945,1947,"ITA","Communist Party",,,"ITA-PCI"
-"Italy","PDCI",1998,2000,"ITA","Italian Communists",,,"ITA-PDCI"
-"Italy","PDL",1945,1946,"ITA","Democratic Labour",,,"ITA-PDL"
-"Italy","PDS",1993,1998,"ITA","Democratic Left",,,"ITA-PDS"
-"Italy","PDS-DS",1998,1999,"ITA",,,"1998 D'Alema (PDS-DS)","ITA-PDS-DS"
-"Italy","PL",1920,1922,"ITA","Liberal Party",,"1920 Giolitti (PL)","ITA-PL"
-"Italy","PLI",1945,1994,"ITA","Liberal Party",,,"ITA-PLI"
-"Italy","PNF",1922,1943,"ITA",,,"1922 Mussolini (PNF)","ITA-PNF"
-"Italy","PPI",1996,2001,"ITA",,,"1996 Prodi (PPI)","ITA-PPI"
-"Italy","PRI",1947,2006,"ITA","DC/PCI/PSI/PLI/Republican Party",,"1981 Spadolini (PRI)","ITA-PRI"
-"Italy","PSDI",1948,1993,"ITA",,,,"ITA-PSDI"
-"Italy","PSI",1945,2006,"ITA","Socialist Party",,"1983 Craxi (PSI)","ITA-PSI"
-"Italy","PSI+PSU",1970,1972,"ITA",,,,"ITA-PSI+PSU"
-"Italy","PSIU",1947,1947,"ITA",,,,"ITA-PSIU"
-"Italy","PSRI",1921,1922,"ITA","Italian Social Reform Party",,"1921 Bonomi (PSRI)","ITA-PSRI"
-"Italy","Rad",1919,1920,"ITA","Radical Party",,"1919 Nitti (Rad)","ITA-Rad"
-"Italy","RC",2006,2008,"ITA","Communist Refoundation",,,"ITA-RC"
-"Italy","RI",1996,2001,"ITA","Italian Renewal",,,"ITA-RI"
-"Italy","Rose",2006,2008,"ITA",,,,"ITA-Rose"
-"Italy","SDI",1998,2001,"ITA","RI, Italian Democratic Socialists",,,"ITA-SDI"
-"Italy","UD",1996,1998,"ITA","Democratic Union",,,"ITA-UD"
-"Italy","UDC",2006,2006,"ITA",,,,"ITA-UDC"
-"Italy","UDEUR",2000,2008,"ITA",,,,"ITA-UDEUR"
-"Italy","UDR",1998,1999,"ITA","PPI, Union of Republican Democrats",,,"ITA-UDR"
-"Ivory Coast","FPI",2000,2008,"CIV","Front Populaire Ivorien",,"2000 Gbagbo (FPI)","CIV-FPI"
-"Ivory Coast","PDCI",1960,1999,"CIV","Parti Démocratique de Côte d'Ivoire-Rassemblement Démocratique Africain",,"1960 Houphouet-Boigny (PDCI)","CIV-PDCI"
-"Jamaica","JLP",1962,2008,"JAM","Jamaican Labor Party",,"1962 Bustamante (JLP)","JAM-JLP"
-"Jamaica","PNP",1972,2007,"JAM","People´s National Party",,"1972 Manley (PNP)","JAM-PNP"
-"Japan","CD",1929,1931,"JPN",,,"1929 Hamaguchi (CD)","JPN-CD"
-"Japan","Con",1924,1927,"JPN",,,"1924 Takaaki Kato (Con)","JPN-Con"
-"Japan","DP",1954,1954,"JPN","Democratic Party",,,"JPN-DP"
-"Japan","DSP",1993,1994,"JPN",,,,"JPN-DSP"
-"Japan","FC",1919,1932,"JPN",,,"1921 Takahashi K. (FC)","JPN-FC"
-"Japan","IRAA",1940,1941,"JPN",,,"1940 Konoe F. (IRAA)","JPN-IRAA"
-"Japan","JD",1955,1955,"JPN",,,,"JPN-JD"
-"Japan","JNP",1993,1994,"JPN","Japan New Party",,"1993 Hosokawa (JNP)","JPN-JNP"
-"Japan","KAIS",1994,1994,"JPN","Renewal Party",,"1994 Hata (KAIS)","JPN-KAIS"
-"Japan","KOME",1993,1994,"JPN",,,,"JPN-KOME"
-"Japan","Komei",2004,2008,"JPN",,,,"JPN-Komei"
-"Japan","Komeito",2000,2003,"JPN",,,,"JPN-Komeito"
-"Japan","LDP",1956,2008,"JPN",,,"1956 Ishibashi (LDP)","JPN-LDP"
-"Japan","LP",1952,2000,"JPN","Liberal Party",,"1952 Yoshida (LP)","JPN-LP"
-"Japan","NCP",2000,2003,"JPN",,,,"JPN-NCP"
-"Japan","NLC",1984,1986,"JPN",,,,"JPN-NLC"
-"Japan","SAKI",1993,1996,"JPN","Sakigaki",,,"JPN-SAKI"
-"Japan","SDP",1993,1994,"JPN",,,,"JPN-SDP"
-"Japan","SDPJ",1994,1996,"JPN",,,"1994 Murayama (SDPJ)","JPN-SDPJ"
-"Japan","SHAM",1993,1994,"JPN",,,,"JPN-SHAM"
-"Japan","SHIN",1993,1994,"JPN",,,,"JPN-SHIN"
-"Kazakhstan","Nur-Otan",2006,2008,"KAZ",,,,"KAZ-Nur-Otan"
-"Kazakhstan","OTAN",2000,2005,"KAZ","“Fatherland” Party",,,"KAZ-OTAN"
-"Kazakhstan","PUKU",1996,1999,"KAZ","People’s Union of Kazakhstan Unity",,,"KAZ-PUKU"
-"Kenya","DP",2002,2007,"KEN","Democratic Party",,"2002 Kibaki (DP)","KEN-DP"
-"Kenya","KANU",1963,2002,"KEN","Kenya African National Union",,"1963 Kenyatta (KANU)","KEN-KANU"
-"Kenya","NRC",2002,2007,"KEN","National Rainbow Coalition",,,"KEN-NRC"
-"Kenya","PNU",2008,2008,"KEN","Party of National Unity",,,"KEN-PNU"
-"Kosovo","PDK",2008,2008,"XKX",,,,"XKX-PDK"
-"Kuwait","Iraq",1990,1991,"KWT",,,"1990 Saddam Hussein (Iraq)","KWT-Iraq"
-"Kyrgyzstan","AZ",2008,2008,"KGZ",,,,"KGZ-AZ"
-"Kyrgyzstan","KEK",2005,2007,"KGZ","People’s Movement of Kyrgyzstan",,"2005 Bakiyev (KEK)","KGZ-KEK"
-"Laos","CDNI",1959,1960,"LAO","Committee for the Defence of National Interests",,"1959 Nosavan Phoumi (CDNI)","LAO-CDNI"
-"Laos","LPF",1958,1958,"LAO","Lao Patriotic Front",,,"LAO-LPF"
-"Laos","NLPK",1960,1975,"LAO",,,"1960 Souvanna Phouma (NLPK)","LAO-NLPK"
-"Laos","NPP",1953,1958,"LAO","National Progressive Party",,"1954 Katay Don Sasorith (NPP)","LAO-NPP"
-"Laos","PPPL",1975,2008,"LAO",,,"1975 Phomivan (PPPL)","LAO-PPPL"
-"Laos","RLP",1958,1959,"LAO","Lao People's Rally",,"1958 Sananikone (RLP)","LAO-RLP"
-"Latvia","ALSMSP-LS",1926,1928,"LVA","United Latvian Social-Democratic Menshevik Workers’ Party",,"1926 Skujenieks (ALSMSP-LS)","LVA-ALSMSP-LS"
-"Latvia","DC",1924,1928,"LVA","Democratic Center Party",,"1924 Zamuels (DC)","LVA-DC"
-"Latvia","DPS",1995,1998,"LVA","Democratic Party Saimnieks",,,"LVA-DPS"
-"Latvia","JL",2000,2006,"LVA","New Party",,"2002 Repse (JL)","LVA-JL"
-"Latvia","JP",1998,1999,"LVA","New Party",,,"LVA-JP"
-"Latvia","JSP",1933,1934,"LVA","New Farmers and Small Landowners’ Party",,"1933 Blodnieks (JSP)","LVA-JSP"
-"Latvia","LC",1993,2002,"LVA","Union Latvia’s Way",,"1993 Birkavs (LC)","LVA-LC"
-"Latvia","LKDS",1997,1998,"LVA",,,,"LVA-LKDS"
-"Latvia","LLP",2002,2004,"LVA",,,,"LVA-LLP"
-"Latvia","LNNK-ZP",1995,1997,"LVA",,,,"LVA-LNNK-ZP"
-"Latvia","LPP",2004,2006,"LVA","Latvia First Party",,,"LVA-LPP"
-"Latvia","LPP-LC",2007,2008,"LVA",,,"2007 Godmanis (LPP-LC)","LVA-LPP-LC"
-"Latvia","LTF",1991,1993,"LVA","Latvian People’s Front",,,"LVA-LTF"
-"Latvia","LV",1995,1997,"LVA",,,,"LVA-LV"
-"Latvia","LZP",1919,1919,"LVA","Latvian Green Party",,"1919 Niedra (LZP)","LVA-LZP"
-"Latvia","LZS",1919,1998,"LVA","Ulmanis",,"1919 Ulmanis (LZS)","LVA-LZS"
-"Latvia","LZS-LKDS-LLDP",1995,1997,"LVA",,,,"LVA-LZS-LKDS-LLDP"
-"Latvia","PA",1931,1933,"LVA","Progressive Union",,"1931 Skujenieks (PA)","LVA-PA"
-"Latvia","SD",1999,1999,"LVA","Social Democrats",,,"LVA-SD"
-"Latvia","TB",1995,1997,"LVA","Fatherland and Freedom",,,"LVA-TB"
-"Latvia","TB-LNNK",1997,2008,"LVA",,,"1997 Krasts (TB-LNNK)","LVA-TB-LNNK"
-"Latvia","TP",2000,2008,"LVA","People’s Party",,"1999 Skele (TP)","LVA-TP"
-"Latvia","TPA",1994,1995,"LVA","Political Union of Economists",,,"LVA-TPA"
-"Latvia","ZZS",2002,2008,"LVA","Union of Greens and Farmers",,"2004 Emsis (ZZS)","LVA-ZZS"
-"Lebanon","DP",1946,1952,"LBN","Destour Party / Constitutional Bloc","al-Kutla al-Dusturiyya",,"LBN-DP"
-"Lebanon","FM",2007,2008,"LBN",,,"2007 Siniora (FM)","LBN-FM"
-"Lebanon","KPL",1964,1988,"LBN","Lebanese Phalanges Party",,"1964 Helou (KPL)","LBN-KPL"
-"Lebanon","LF",1970,1976,"LBN","Lebanese Front",,"1970 Franjieh (LF)","LBN-LF"
-"Lebanon","SNF",1952,1958,"LBN","Constitutional Bloc",,"1952 Chamoun (SNF)","LBN-SNF"
-"Lesotho","BCP",1993,1997,"LSO","Basotho Congress Party",,"1993 Mokhehle (BCP)","LSO-BCP"
-"Lesotho","BNP",1966,1986,"LSO","Basotho National Party",,"1966 Jonathan (BNP)","LSO-BNP"
-"Lesotho","LCD",1998,2008,"LSO",,,"1998 Mosisili (LCD)","LSO-LCD"
-"Liberia","LAP",2003,2006,"LBR","Liberian Action Party",,"2003 Bryant (LAP)","LBR-LAP"
-"Liberia","LPP",1990,1994,"LBR","Liberian People's Party",,"1990 Sawyer (LPP)","LBR-LPP"
-"Liberia","NDP",1985,1997,"LBR","“Mil” to National Democratic Party of Liberia",,"1996 Perry (NDP)","LBR-NDP"
-"Liberia","NPP",1997,2003,"LBR","National Patriotic Party",,"1997 Taylor (NPP)","LBR-NPP"
-"Liberia","TWP",1920,1980,"LBR","True Whig Party",,"1930 Barclay (TWP)","LBR-TWP"
-"Liberia","UP",2006,2008,"LBR","United Party",,"2006 Johnson-Sirleaf (UP)","LBR-UP"
-"Lithuania","LDDP",1992,1998,"LTU","Democratic Labor Party of Lithuania",,"1992 Brazauskas (LDDP)","LTU-LDDP"
-"Lithuania","LKDP",1920,1926,"LTU","Christian Democrats",,"1920 Stulginskis (LKDP)","LTU-LKDP"
-"Lithuania","LLP",2003,2004,"LTU","Lithuanian Liberal-Democratic Party",,"2003 Paksas (LLP)","LTU-LLP"
-"Lithuania","LTS",1926,1940,"LTU","Lithuanian Nationalist Union",,"1926 Smetona (LTS)","LTU-LTS"
-"Lithuania","LVLS",1926,1926,"LTU",,,"1926 Grinius (LVLS)","LTU-LVLS"
-"Lithuania","NS",2004,2004,"LTU",,,"2004 Paulauskas (NS)","LTU-NS"
-"Lithuania","Sajudis",1991,1992,"LTU",,,,"LTU-Sajudis"
-"Macedonia","DPA",2002,2002,"MKD","Democratic Party of Albanians",,,"MKD-DPA"
-"Macedonia","DA",1998,2000,"MKD","Democratic Alternative",,,"MKD-DA"
-"Macedonia","LDP",2001,2001,"MKD","The Liberal Party",,,"MKD-LDP"
-"Macedonia","LP",1993,1996,"MKD",,,,"MKD-LP"
-"Macedonia","NSDP",2006,2008,"MKD",,,,"MKD-NSDP"
-"Macedonia","PDP",1993,2002,"MKD","Party for Democratic Prosperity",,,"MKD-PDP"
-"Macedonia","SDSM",1993,1998,"MKD","Social Democratic Party of Macedonia",,,"MKD-SDSM"
-"Macedonia","SPM",1993,1998,"MKD",,,,"MKD-SPM"
-"Macedonia","VMRO",1998,2002,"MKD",,,"1998 Georgievski (VMRO)","MKD-VMRO"
-"Macedonia","VMRO-DPMNE",2006,2008,"MKD","Democratic Party for Macedonia",,"2006 Gruevski (VMRO-DPMNE)","MKD-VMRO-DPMNE"
-"Macedonia","ZMZ",2002,2006,"MKD","Together for Macedonia",,"2002 Crvenkovski (ZMZ)","MKD-ZMZ"
-"Madagascar","AREMA",1975,2002,"MDG",,,"1997 Ratsiraka (AREMA)","MDG-AREMA"
-"Madagascar","AVI",1996,1997,"MDG","Asa Vita no Ifampitsarana",,"1996 Ratsirahonana (AVI)","MDG-AVI"
-"Madagascar","FNDR",1975,1993,"MDG",,,"1975 Ratsiraka (FNDR)","MDG-FNDR"
-"Madagascar","PSD",1960,1972,"MDG","Parti Social Démocratique du Madagascar",,"1960 Tsiranana (PSD)","MDG-PSD"
-"Madagascar","TIM",2002,2008,"MDG","Tiako i Madagasikara",,"2002 Ravalomanana (TIM)","MDG-TIM"
-"Madagascar","UNDD",1993,1996,"MDG","Démocratie",,"1993 Zafy (UNDD)","MDG-UNDD"
-"Malawi","DPP",2006,2008,"MWI","Democratic Progressive Party",,,"MWI-DPP"
-"Malawi","MCP",1964,1994,"MWI","Malawi Congress Party",,"1964 Banda (MCP)","MWI-MCP"
-"Malawi","UDF",1994,2005,"MWI","United Democratic Front",,"1994 Muluzi (UDF)","MWI-UDF"
-"Malaysia","UMNO",1957,2008,"MYS","United Malays National Organisation",,"1957 Rahman (UMNO)","MYS-UMNO"
-"Mali","ADM",1992,2002,"MLI",,,"1992 Konare (ADM)","MLI-ADM"
-"Mali","CCD",2002,2008,"MLI","Coalition for Change and Democracy",,"2002 Toure (CCD)","MLI-CCD"
-"Mali","UDPM",1977,1991,"MLI",,,,"MLI-UDPM"
-"Mali","US-RDA",1960,1968,"MLI","Union Soudanais/Rassemblement Démocratique Africain",,"1960 Keita (US-RDA)","MLI-US-RDA"
-"Mauritania","PPM",1962,1978,"MRT",,,,"MRT-PPM"
-"Mauritania","PRDS",1993,2005,"MRT","Parti Républicain Démocratique et Social",,,"MRT-PRDS"
-"Mauritania","PRM",1960,1961,"MRT","Parti Rassemblement Mauritian",,,"MRT-PRM"
-"Mauritius","PTr",1990,1990,"MUS",,,"1995 N. Ramgoolam (PTr)","MUS-PTr"
-"Mauritius","MMM",1982,2005,"MUS","Mouvement Militant Mauricien",,"1982 Jugnauth (MMM)","MUS-MMM"
-"Mauritius","MMSM",2005,2008,"MUS","Mouvement Militant Socialiste Mauricien",,,"MUS-MMSM"
-"Mauritius","MR",2005,2008,"MUS",,,,"MUS-MR"
-"Mauritius","MSM",1984,2005,"MUS","Mouvement Socialiste Militant",,"2000 Jugnauth (MSM)","MUS-MSM"
-"Mauritius","MTD",1992,1995,"MUS","Mouvement des Travaillistes Democrates",,,"MUS-MTD"
-"Mauritius","OPR",1988,2000,"MUS","Rodriguan People’s Organisation",,,"MUS-OPR"
-"Mauritius","PMDS(Jugnauth)",1995,1995,"MUS",,,,"MUS-PMDS(Jugnauth)"
-"Mauritius","PMSD",1977,1988,"MUS",,,,"MUS-PMSD"
-"Mauritius","PMXD",2000,2008,"MUS","Parti Mauricien Xavier Duval",,,"MUS-PMXD"
-"Mauritius","PSM",1982,1983,"MUS","Parti Socialiste Mauricien",,,"MUS-PSM"
-"Mauritius","PTR",1984,1984,"MUS","Mauritian Labour Party",,,"MUS-PTR"
-"Mauritius","RMM",1994,1995,"MUS","Mauritanian Millitant Renaisance",,,"MUS-RMM"
-"Mauritius","RTM",1985,1987,"MUS","Mauritanian Labour Rally",,,"MUS-RTM"
-"Mauritius","Verts",2005,2008,"MUS","Mouvement Republicain, and Les Verts",,,"MUS-Verts"
-"Mexico","L-Mod",1919,1920,"MEX","Liberal Moderate",,,"MEX-L-Mod"
-"Mexico","PAN",2000,2008,"MEX",,,"2000 Fox (PAN)","MEX-PAN"
-"Mexico","PLC",1920,1924,"MEX",,,"1920 Obregon (PLC)","MEX-PLC"
-"Mexico","PNA",1920,1920,"MEX",,,"1920 de la Huerta (PNA)","MEX-PNA"
-"Mexico","PNR",1924,1938,"MEX","National Revolutionary Party",,"1924 Calles (PNR)","MEX-PNR"
-"Mexico","PRI",1946,2000,"MEX","Institutional Revolutionary Party",,"1946 Aleman Valdes (PRI)","MEX-PRI"
-"Mexico","PRM",1939,1946,"MEX","Party of the Mexican Revolution",,"1940 Avila Camacho (PRM)","MEX-PRM"
-"Moldova","ADP",1994,1995,"MDA","Agrarian Democratic Party",,,"MDA-ADP"
-"Moldova","PCRM",2001,2008,"MDA",,,"2001 Tarlev (PCRM)","MDA-PCRM"
-"Moldova","PRH",1996,1997,"MDA","Party of Revival and Harmony",,,"MDA-PRH"
-"Mongolia","MAKN",1921,2008,"MNG",,,"1921 Dogsomyn Bodo (MAKN)","MNG-MAKN"
-"Mongolia","MUAN",1994,1997,"MNG",,,,"MNG-MUAN"
-"Montenegro","DPSC",2006,2008,"MNE","Democratic Party of Socialists of Montenegro",,"2006 Sturanovic (DPSC)","MNE-DPSC"
-"Montenegro","PSC",2006,2006,"MNE","Democratic Party of Socialists of Montenegro",,,"MNE-PSC"
-"Montenegro","SDP",2006,2008,"MNE","Social Democratic Party",,,"MNE-SDP"
-"Mozambique","FRELIMO",1975,2008,"MOZ","Frente da Libertação de Moçambique",,"1975 Machel (FRELIMO)","MOZ-FRELIMO"
-"Myanmar","AFPFL",1948,1958,"MMR","Anti-Fascist People’s Freedom League",,"1948 U Nu (AFPFL)","MMR-AFPFL"
-"Myanmar","PSPB",1962,1988,"MMR",,,"1988 Maung Maung (PSPB)","MMR-PSPB"
-"Myanmar","UnP",1960,1962,"MMR",,,"1960 U Nu (UnP)","MMR-UnP"
-"Namibia","SWAPO",1990,2008,"NAM","South West African People's Organization",,"1990 Nujoma (SWAPO)","NAM-SWAPO"
-"Nepal","CPN-M",2008,2008,"NPL","Communist Party of NepalMaoist",,"2008 Prachanda (CPN-M)","NPL-CPN-M"
-"Nepal","CPN-UML",1994,1995,"NPL","Communist Party of Nepal-United Marxist Leninist",,"1994 Man Mohan Adhilari (CPN-UML)","NPL-CPN-UML"
-"Nepal","NCP",1990,2008,"NPL","Nepali Congress Party",,"1990 Krishna Prasad Bhatterai (NCP)","NPL-NCP"
-"Nepal","NSP",1995,1999,"NPL","Nepali Sadbhavana Party",,,"NPL-NSP"
-"Nepal","NWPP",1997,1997,"NPL","Nepal Workers’ and Peasants’ Party",,,"NPL-NWPP"
-"Nepal","RPP",1995,1998,"NPL","Rashtriya Prajatantra Party",,"1997 Lokendra Bahadur Chand (RPP)","NPL-RPP"
-"Nepal","UML",1997,1999,"NPL",,,,"NPL-UML"
-"Netherlands","AB",1919,1926,"NLD","Algemeene Bond van RK-kiesvereenigingen",,,"NLD-AB"
-"Netherlands","ARP",1919,1977,"NLD","Protestant Christian democrat “Anti-Revolutionary Party”",,"1925 Colijn (ARP)","NLD-ARP"
-"Netherlands","CDA",1977,2008,"NLD","Christian-Democratic Appeal",,"1977 van Agt (CDA)","NLD-CDA"
-"Netherlands","CHU",1919,2008,"NLD","Dutch Reformed Christian democrat “Christian Historic Union”",,"1926 de Geer (CHU)","NLD-CHU"
-"Netherlands","D'66",2004,2006,"NLD",,,,"NLD-D'66"
-"Netherlands","D66",1973,2002,"NLD",,,,"NLD-D66"
-"Netherlands","DS70",1971,1972,"NLD",,,,"NLD-DS70"
-"Netherlands","KVP",1945,1977,"NLD","Catholic People’s Party",,"1946 Beel (KVP)","NLD-KVP"
-"Netherlands","LPF",2002,2003,"NLD","Pim Fortuyn List",,,"NLD-LPF"
-"Netherlands","PPR",1973,1977,"NLD","Political Party of Radicals",,,"NLD-PPR"
-"Netherlands","PvdA",1945,2008,"NLD",,,"1948 Drees (PvdA)","NLD-PvdA"
-"Netherlands","RKSP",1926,1940,"NLD",,,"1929 de Beerenbrouck (RKSP)","NLD-RKSP"
-"Netherlands","SDAP",1940,1940,"NLD","Social Democratic Labor Party",,,"NLD-SDAP"
-"Netherlands","VB",1933,1937,"NLD","Liberal Union","Vrijheidsbond",,"NLD-VB"
-"Netherlands","VDB",1933,1946,"NLD","Democratic Union","Vrijzinnig Democratische Bond","1945 Schermerhorn (VDB)","NLD-VDB"
-"Netherlands","VVD",1948,2007,"NLD","People’s Party for Freedom and Democracy",,,"NLD-VVD"
-"New Zealand","All",1999,2002,"NZL",,,,"NZL-All"
-"New Zealand","Lab",1935,2008,"NZL",,,"1935 Savage (Lab)","NZL-Lab"
-"New Zealand","Nat",2008,2008,"NZL",,,"2008 Key (Nat)","NZL-Nat"
-"New Zealand","NP",1949,1999,"NZL","National Party",,"1949 Holland (NP)","NZL-NP"
-"New Zealand","NZF",1997,1998,"NZL","New Zealand First",,,"NZL-NZF"
-"New Zealand","PP",2003,2008,"NZL",,,,"NZL-PP"
-"New Zealand","Ref",1920,1935,"NZL",,,"1925 Bell (Ref)","NZL-Ref"
-"New Zealand","Uni",1928,1935,"NZL",,,"1928 Ward (Uni)","NZL-Uni"
-"Nicaragua","APRE",2005,2007,"NIC",,,,"NIC-APRE"
-"Nicaragua","FSLN",1979,2008,"NIC",,"Frente Sandinista de Liberación Nacional","1979 Ortega (FSLN)","NIC-FSLN"
-"Nicaragua","PC",1919,1929,"NIC","Conservative Party",,"1923 Martinez Gonzalez (PC)","NIC-PC"
-"Nicaragua","PL",1929,1936,"NIC","Liberal Party",,"1929 Moncada (PL)","NIC-PL"
-"Nicaragua","PLC",1997,2004,"NIC",,,"1997 Aleman (PLC)","NIC-PLC"
-"Nicaragua","PLN",1936,1979,"NIC","Liberal Nationalist Party",,"1947 Arguello (PLN)","NIC-PLN"
-"Nicaragua","PN",1921,1923,"NIC","National Party",,"1921 Chamorro Bolanos (PN)","NIC-PN"
-"Nicaragua","UNO",1990,1997,"NIC",,"Unión Nacional Opositora","1990 V. Chamorro (UNO)","NIC-UNO"
-"Niger","CDS",1993,1996,"NER",,,"1993 Ousmane (CDS)","NER-CDS"
-"Niger","MNSD",1990,2008,"NER",,,"1999 Mamadou Tandja (MNSD)","NER-MNSD"
-"Niger","PPN",1960,1974,"NER","Parti Progressista Nigeriano",,"1960 Diori (PPN)","NER-PPN"
-"Nigeria","NCNC",1960,1966,"NGA","Cameroons",,,"NGA-NCNC"
-"Nigeria","NNDP",1965,1966,"NGA",,,,"NGA-NNDP"
-"Nigeria","NPC",1960,1966,"NGA","Northern People's Congress",,"1960 Balewa (NPC)","NGA-NPC"
-"Nigeria","NPN",1979,1983,"NGA","National Party of Nigeria",,"1979 Shagari (NPN)","NGA-NPN"
-"Nigeria","PDP",1999,2008,"NGA","People's Democratic Party",,"1999 Obasanjo (PDP)","NGA-PDP"
-"North Korea","CND",1948,2008,"PRK",,,"1948 Kim Il Sung (CND)","PRK-CND"
-"Norway","AP",1945,2008,"NOR","Norwegian Labor Party",,"1945 Nygaardsvold (AP)","NOR-AP"
-"Norway","Bp",1931,1933,"NOR",,,"1931 Kolstad (Bp)","NOR-Bp"
-"Norway","CON",1963,2005,"NOR",,,"1963 Lyng (CON)","NOR-CON"
-"Norway","CP",1963,2008,"NOR","Centre Party",,"1965 Borten (CP)","NOR-CP"
-"Norway","CPP",1963,2005,"NOR","Christian People’s Party",,"1972 Korvald (CPP)","NOR-CPP"
-"Norway","DNA",1928,1940,"NOR","Labour Party","Norske Arbeiderparti","1928 Hornsrud (DNA)","NOR-DNA"
-"Norway","FV",1920,1928,"NOR","Liberal Left","Frisinnede Venstre","1923 Berge (FV)","NOR-FV"
-"Norway","H",1920,1928,"NOR","Conservative","Høyre","1920 Halvorsen (H)","NOR-H"
-"Norway","LIB",1963,2005,"NOR","Liberal Party",,,"NOR-LIB"
-"Norway","NS",1940,1945,"NOR","National Unity",,"1940 Quisling (NS)","NOR-NS"
-"Norway","SV",2005,2008,"NOR","Socialist Left",,,"NOR-SV"
-"Norway","V",1919,1935,"NOR","Liberal Party","Venstre","1921 Blehr (V)","NOR-V"
-"Pakistan","AL",1956,1957,"PAK","East Pakistani (Bangladeshi) Awami League",,"1956 Shahid Suhrawardy (AL)","PAK-AL"
-"Pakistan","ANP",1993,1996,"PAK","Awami National Party",,,"PAK-ANP"
-"Pakistan","Diss-krisScram",1957,1958,"PAK",,,,"PAK-Diss-krisScram"
-"Pakistan","IJI",1990,1990,"PAK","Islami Jamhooria Ittehad",,"1990 Jatoi (IJI)","PAK-IJI"
-"Pakistan","KrisSram",1957,1957,"PAK",,,,"PAK-KrisSram"
-"Pakistan","ML",1947,1957,"PAK","Muslim League",,"1947 Jinnah (ML)","PAK-ML"
-"Pakistan","MQM",1988,1990,"PAK","Muttahida Quami Movement",,,"PAK-MQM"
-"Pakistan","N-i-Islam",1957,1957,"PAK",,,,"PAK-N-i-Islam"
-"Pakistan","PML-J",1993,1996,"PAK","Pakistan Muslim League Junejo",,,"PAK-PML-J"
-"Pakistan","PML-N",1991,1999,"PAK",,,"1990 Sharif (PML-N)","PAK-PML-N"
-"Pakistan","PML-Q",2008,2008,"PAK","Pakistani Muslim League-Quaid-e-Azam",,"2008 Soomro (PML-Q)","PAK-PML-Q"
-"Pakistan","PPP",1971,2008,"PAK","Pakistan People’s Party",,"1971 Bhutto (PPP)","PAK-PPP"
-"Pakistan","RP",1956,1958,"PAK","Republican Party",,"1957 Khan Noon (RP)","PAK-RP"
-"Pakistan","UF",1955,1956,"PAK","United Front",,,"PAK-UF"
-"Panama","AC",1931,1931,"PAN","Acción Comunal",,"1931 H. Arias (AC)","PAN-AC"
-"Panama","CNP",1952,1960,"PAN","Guardia",,"1952 Remon Cantera (CNP)","PAN-CNP"
-"Panama","PA",1990,2004,"PAN","Arnulfista Party",,"1999 Moscoso (PA)","PAN-PA"
-"Panama","PL",1919,1949,"PAN","Liberal Party",,"1920 Lefevre (PL)","PAN-PL"
-"Panama","PLD",1932,1936,"PAN",,,"1932 H. Arias (PLD)","PAN-PLD"
-"Panama","PLN",1949,1968,"PAN","Roberto Chiari",,"1949 Chiari Remon (PLN)","PAN-PLN"
-"Panama","PNR",1936,1941,"PAN","National Revolutionary Party",,"1936 Juan Arosemena (PNR)","PAN-PNR"
-"Panama","PP",1968,1968,"PAN",,,"1968 Arias A. (PP)","PAN-PP"
-"Panama","PPA",1990,1994,"PAN",,,"1990 Endara Galimany (PPA)","PAN-PPA"
-"Panama","PRA",1949,1952,"PAN","and Arias A",,"1949 A. Arias (PRA)","PAN-PRA"
-"Panama","PRD",1978,2008,"PAN",,,"1994 Balladares (PRD)","PAN-PRD"
-"Papua New Guinea","NAP",2002,2008,"PNG","National Alliance Party",,"2002 Somare (NAP)","PNG-NAP"
-"Papua New Guinea","PDM",1985,2002,"PNG","People’s Democratic Movement",,"1985 Wingti (PDM)","PNG-PDM"
-"Papua New Guinea","PGU",1975,1992,"PNG","Pangu or Papua New Guinea Union Party",,"1975 Somare (PGU)","PNG-PGU"
-"Papua New Guinea","PNC",1997,1999,"PNG","People’s National Congress",,"1997 Skate (PNC)","PNG-PNC"
-"Papua New Guinea","PPP",1980,1997,"PNG","People’s Progress Party",,"1980 Chan (PPP)","PNG-PPP"
-"Paraguay","ANR-PC",1948,2008,"PRY",,,"1948 Gonzalez Paredes (ANR-PC)","PRY-ANR-PC"
-"Paraguay","APC",2008,2008,"PRY","Patriotic Alliance for Change","Alianza Patriótica por el Cambio",,"PRY-APC"
-"Paraguay","PDC",2008,2008,"PRY",,,"2008 Lugo Mendez (PDC)","PRY-PDC"
-"Paraguay","PL",1919,1940,"PRY","Liberal Party",,"1919 Montero (PL)","PRY-PL"
-"Paraguay","PRF",1936,1937,"PRY","February Republican Party",,"1936 R. Franco (PRF)","PRY-PRF"
-"Peru","AP",1963,2001,"PER",,,"1963 Belaunde (AP)","PER-AP"
-"Peru","APRA",1985,2008,"PER",,,"1985 Garcia Perez (APRA)","PER-APRA"
-"Peru","CC",1939,1945,"PER","Conservative Coalition",,"1939 Prado y Ugarteche (CC)","PER-CC"
-"Peru","FDN",1945,1948,"PER",,,"1945 Bustamante (FDN)","PER-FDN"
-"Peru","MDP",1956,1962,"PER","Pradista Democratic Movement/Peruvian Democratic Movement",,"1956 Prado y Ugarteche (MDP)","PER-MDP"
-"Peru","NM-C'90",1990,2000,"PER",,,"1990 Fujimori (NM-C'90)","PER-NM-C'90"
-"Peru","PC",1919,1919,"PER","Civilista Party",,,"PER-PC"
-"Peru","PDR",1919,1930,"PER","Democratic Reformist Party",,"1919 Leguia (PDR)","PER-PDR"
-"Peru","PP",2001,2006,"PER",,,"2001 Toledo (PP)","PER-PP"
-"Peru","PR",1950,1956,"PER",,"Partido Restaurador del Perú",,"PER-PR"
-"Peru","UR",1931,1933,"PER","Revolutionary Union",,"1931 Sanchez Cerro (UR)","PER-UR"
-"Philippines","KBL",1978,1986,"PHL",,,,"PHL-KBL"
-"Philippines","LEN-NUCD",1992,1998,"PHL",,,"1992 Ramos (LEN-NUCD)","PHL-LEN-NUCD"
-"Philippines","LEN-UCD-UMDP",2001,2008,"PHL",,,"2001 Gloria Macapagal-Arroyo (LEN-UCD-UMDP)","PHL-LEN-UCD-UMDP"
-"Philippines","LMP",1998,2001,"PHL",,,"1998 Estrada (LMP)","PHL-LMP"
-"Philippines","PL",1946,1965,"PHL","Liberal Party",,"1946 Roxas (PL)","PHL-PL"
-"Philippines","PN",1953,1977,"PHL","Nationalist Party",,"1953 Magsaysay (PN)","PHL-PN"
-"Philippines","UNIDO",1986,1992,"PHL",,,"1986 Aquino (UNIDO)","PHL-UNIDO"
-"Poland","PiS",2005,2008,"POL",,,"2005 Kaczynski (PiS)","POL-PiS"
-"Poland","PPR",1945,1947,"POL","Polish Workers’ Party",,,"POL-PPR"
-"Poland","PZPR",1948,1990,"POL","Polish United Workers’ Party",,"1956 Ochab (PZPR)","POL-PZPR"
-"Poland","SdRP",1995,1999,"POL","Democratic Left Alliance",,,"POL-SdRP"
-"Poland","SLD",2000,2005,"POL","Alliance of Democratic Left",,,"POL-SLD"
-"Poland","Soldr",1990,1995,"POL",,,"1990 Walesa (Soldr)","POL-Soldr"
-"Portugal","MFA",1974,1976,"PRT","Movimento das Forgas Armadas",,,"PRT-MFA"
-"Portugal","PD",1923,1926,"PRT","Democratic Party",,"1923 Gomes (PD)","PRT-PD"
-"Portugal","PRD",1976,1986,"PRT","Party of Democratic Renovation",,"1976 Eanes (PRD)","PRT-PRD"
-"Portugal","PRE",1919,1923,"PRT","Republican Evolutionist Party",,"1919 Almeida (PRE)","PRT-PRE"
-"Portugal","PS",1986,2006,"PRT","Socialist Party",,"1986 Soares (PS)","PRT-PS"
-"Portugal","PSD",2006,2008,"PRT","Social Democrat Party",,"2006 Silva (PSD)","PRT-PSD"
-"Portugal","UN",1931,1974,"PRT","União Republicana",,"1932 Salazar (UN)","PRT-UN"
-"Republic of Vietnam","CL+NRM",1954,1963,"VNR",,,"1954 Ngo Dinh Diem (CL+NRM)","VNR-CL+NRM"
-"Republic of Vietnam","DVP",1954,1954,"VNR",,,"1954 Quat (DVP)","VNR-DVP"
-"Romania","ADP",1991,1992,"ROU","Agrarian Democratic Party",,,"ROU-ADP"
-"Romania","CDR",1997,2000,"ROU","Democratic Convention of Romania",,"1996 Ciorbea (CDR)","ROU-CDR"
-"Romania","FSN",1989,1992,"ROU","National Front Salvation",,"1989 Roman (FSN)","ROU-FSN"
-"Romania","FSND",1992,1994,"ROU","Iliuescu’s Democratic National Salvation Front",,,"ROU-FSND"
-"Romania","NLP",1991,1992,"ROU",,,,"ROU-NLP"
-"Romania","PCR",1947,1989,"ROU",,,"1947 Gheorghiu-Dej (PCR)","ROU-PCR"
-"Romania","PD",2004,2008,"ROU",,,"2004 Basescu (PD)","ROU-PD"
-"Romania","PDSR",2000,2000,"ROU","Party of Social Democracy for Romania",,,"ROU-PDSR"
-"Romania","PSD",2001,2007,"ROU",,,"2004 Bejinariu (PSD)","ROU-PSD"
-"Romania","PUNR",1995,1996,"ROU",,,,"ROU-PUNR"
-"Romania","REM",1991,1992,"ROU",,,,"ROU-REM"
-"Romania","SDPR",1995,1996,"ROU",,,,"ROU-SDPR"
-"Romania","UDMR",1997,2000,"ROU",,,,"ROU-UDMR"
-"Romania","USD",1997,2000,"ROU","Social Democratic Union (PSDR+PD)",,"1999 Athanasiu (USD)","ROU-USD"
-"Russia","AUCP",1926,1952,"RUS","All-Union Communist Party of Bolsheviks",,,"RUS-AUCP"
-"Russia","CPSU",1953,1991,"RUS","Soviet Union",,"1953 Malenkov (CPSU)","RUS-CPSU"
-"Russia","RCP",1919,1925,"RUS","Russian Communist Party of Bolsheviks",,,"RUS-RCP"
-"Rwanda","FPR",1994,2008,"RWA",,,"1994 Kagame (FPR)","RWA-FPR"
-"Rwanda","MDR-PARMEH",1962,1973,"RWA","Mouvement Démocratique Républicain-Parti du Mouvement de l'Emacipation Hutu",,,"RWA-MDR-PARMEH"
-"Rwanda","MRND",1976,1994,"RWA","Sindikubwabo",,,"RWA-MRND"
-"Rwanda","MRNDD",1994,1994,"RWA",,,"1994 Sindikubwabo (MRNDD)","RWA-MRNDD"
-"Senegal","PDS",2000,2008,"SEN","Parti Démocratique Sénégalais",,"2000 Wade (PDS)","SEN-PDS"
-"Senegal","PSS",1977,2000,"SEN","Parti Socialiste du Sénégal",,"1981 Diouf (PSS)","SEN-PSS"
-"Senegal","UPS",1960,1976,"SEN","Union de Progressif de Senegalese",,,"SEN-UPS"
-"Sierra Leone","APC",1968,2008,"SLE","All People's Congress",,"1968 Stevens (APC)","SLE-APC"
-"Sierra Leone","SLPP",1961,2007,"SLE","Sierra Leone People's Party",,"1961 M. Margai (SLPP)","SLE-SLPP"
-"Singapore","PAP",1965,2008,"SGP","People’s Action Party",,"1990 Goh Chok Tong (PAP)","SGP-PAP"
-"Slovakia","AD",1994,1994,"SVK",,,,"SVK-AD"
-"Slovakia","ANO",2003,2006,"SVK",,,,"SVK-ANO"
-"Slovakia","APR",1994,1994,"SVK",,,"1994 Moravcik (APR)","SVK-APR"
-"Slovakia","HZDS",1993,1998,"SVK","Democratic Slovakia",,"1993 Meciar (HZDS)","SVK-HZDS"
-"Slovakia","KDH",1994,2006,"SVK",,,,"SVK-KDH"
-"Slovakia","LZ-HZDS",2006,2008,"SVK",,,,"SVK-LZ-HZDS"
-"Slovakia","NDK",1994,1994,"SVK",,,,"SVK-NDK"
-"Slovakia","SDK",1998,2000,"SVK","Slovak Democratic Coalition",,,"SVK-SDK"
-"Slovakia","SDKU",2001,2006,"SVK","Slovak Democratic and Christian Union",,,"SVK-SDKU"
-"Slovakia","SDL",1994,1994,"SVK",,,,"SVK-SDL"
-"Slovakia","SMER",2006,2008,"SVK",,,"2006 Fico (SMER)","SVK-SMER"
-"Slovakia","SMK",2003,2006,"SVK",,,,"SVK-SMK"
-"Slovakia","SNS",1993,2008,"SVK","Slovak National Party",,,"SVK-SNS"
-"Slovakia","ZRS",1994,1998,"SVK","Association of Workers of Slovakia",,,"SVK-ZRS"
-"Slovenia","DeSUS",1998,2008,"SVN",,,,"SVN-DeSUS"
-"Slovenia","LDS",1992,2008,"SVN",,,"1992 Drnovsek (LDS)","SVN-LDS"
-"Slovenia","NS-KLS",2005,2008,"SVN",,,,"SVN-NS-KLS"
-"Slovenia","SDS",1992,2008,"SVN","Slovenian Democratic Party",,"2004 Jansa (SDS)","SVN-SDS"
-"Slovenia","SDSS",1994,1994,"SVN",,,,"SVN-SDSS"
-"Slovenia","SKD",1994,1997,"SVN","Slovene Christian Democrats",,,"SVN-SKD"
-"Slovenia","SKD-DEMOS",1992,1992,"SVN",,,,"SVN-SKD-DEMOS"
-"Slovenia","SLS",1998,2008,"SVN","Slovenian People’s Party",,,"SVN-SLS"
-"Slovenia","SLS-SKD",2000,2004,"SVN",,,"2000 Bajuk (SLS-SKD)","SVN-SLS-SKD"
-"Slovenia","Zares",2008,2008,"SVN",,,,"SVN-Zares"
-"Slovenia","ZLSD",1992,2008,"SVN","United List of Social Democrats",,"2008 Pahor (ZLSD)","SVN-ZLSD"
-"Slovenia","ZS",1992,1994,"SVN",,,,"SVN-ZS"
-"Solomon Islands","AIM",2006,2006,"SLB","Association of Independent Members of Parliament",,"2006 Snyder Rini (AIM)","SLB-AIM"
-"Solomon Islands","GNUR",1994,1997,"SLB",,,"1994 Solomon Sunaone Mamaloni (GNUR)","SLB-GNUR"
-"Solomon Islands","NCP",1993,1994,"SLB","National Coalition Partners",,,"SLB-NCP"
-"Solomon Islands","NFP",1986,1989,"SLB","Nationalist Front for Progress",,,"SLB-NFP"
-"Solomon Islands","PAP",1981,2006,"SLB","People's Alliance Party",,"1981 Solomon Sunaone Mamaloni (PAP)","SLB-PAP"
-"Solomon Islands","PPP",2000,2001,"SLB","People's Alliance Party",,"2000 Manasseh D. Sogavare (PPP)","SLB-PPP"
-"Solomon Islands","SAS",1984,1985,"SLB","Solomon Ano Sagufenua",,,"SLB-SAS"
-"Solomon Islands","SIAC",2007,2008,"SLB","Solomon Islands Alliance for Change",,,"SLB-SIAC"
-"Solomon Islands","SILP",2007,2008,"SLB","Solomon Islands Liberal Party",,"2007 Derek Sikua (SILP)","SLB-SILP"
-"Solomon Islands","SILP-SIAC",1997,2000,"SLB","Solomon Islands Liberal Party and Solomon Islands Alliance for Change",,"1997 Bartholomew Ulufa'alu (SILP-SIAC)","SLB-SILP-SIAC"
-"Solomon Islands","SISCP",2006,2007,"SLB","Solomon Islands Social Credit Party",,"2006 Manasseh D. Sogavare (SISCP)","SLB-SISCP"
-"Solomon Islands","SIUPA",1978,1989,"SLB","Solomon Islands Unity Party",,"1978 Peter Kenilorea (SIUPA)","SLB-SIUPA"
-"Somalia","SRSP",1977,1991,"SOM","Mil to Somali Revolutionary Socialist Party",,,"SOM-SRSP"
-"Somalia","SYL",1960,1969,"SOM","Somali Youth League",,"1960 Osman Daar (SYL)","SOM-SYL"
-"South Africa","ANC",1994,2008,"ZAF","African National Congress",,"1994 Mandela (ANC)","ZAF-ANC"
-"South Africa","AP",1948,1953,"ZAF","Afrikaner Party",,,"ZAF-AP"
-"South Africa","Labour",1924,1929,"ZAF",,,,"ZAF-Labour"
-"South Africa","NP",1924,1994,"ZAF",,,"1924 Hertzog (NP)","ZAF-NP"
-"South Africa","SAP",1920,1934,"ZAF","South Africa Party",,,"ZAF-SAP"
-"South Africa","UP",1935,1948,"ZAF",,,"1939 Smuts (UP)","ZAF-UP"
-"South Korea","DJP",1988,1989,"KOR",,,,"KOR-DJP"
-"South Korea","DP",1960,1961,"KOR","Democratic Party",,"1960 Chang Myun (DP)","KOR-DP"
-"South Korea","HD",2008,2008,"KOR",,,"2008 Lee Myung Bak (HD)","KOR-HD"
-"South Korea","LP",1949,1960,"KOR",,,"1960 Ho Chong (LP)","KOR-LP"
-"South Korea","MDD",1990,1994,"KOR",,,,"KOR-MDD"
-"South Korea","SHD",1995,1998,"KOR","New Korea Party","Sin Han-gukdang",,"KOR-SHD"
-"South Korea","SJKH",1998,2000,"KOR","National Congress for New Politics",,,"KOR-SJKH"
-"South Korea","SMD",2001,2003,"KOR",,,,"KOR-SMD"
-"South Korea","UD",2004,2008,"KOR","Uri Party",,,"KOR-UD"
-"Spain","ACR",1931,1931,"ESP",,,,"ESP-ACR"
-"Spain","Ag",1934,1935,"ESP",,,,"ESP-Ag"
-"Spain","AR",1933,1933,"ESP",,,,"ESP-AR"
-"Spain","CEDA",1934,1935,"ESP",,,,"ESP-CEDA"
-"Spain","CNT",1937,1939,"ESP",,,,"ESP-CNT"
-"Spain","CNT-FAT",1937,1937,"ESP",,,,"ESP-CNT-FAT"
-"Spain","Dem",1919,1922,"ESP",,,,"ESP-Dem"
-"Spain","ER",1932,1939,"ESP","Catalan Esquerra Republicana",,,"ESP-ER"
-"Spain","FET",1939,1976,"ESP",,,"1975 Arias Navarro (FET)","ESP-FET"
-"Spain","FR",1933,1933,"ESP","Federal Republican Party",,,"ESP-FR"
-"Spain","IR",1936,1939,"ESP",,,"1936 Azana y Diaz (IR)","ESP-IR"
-"Spain","IRS",1933,1933,"ESP",,,,"ESP-IRS"
-"Spain","ISR",1933,1933,"ESP",,,,"ESP-ISR"
-"Spain","Lib",1919,1922,"ESP",,,,"ESP-Lib"
-"Spain","ORGA",1931,1933,"ESP",,,,"ESP-ORGA"
-"Spain","PC",1919,1939,"ESP",,,"1919 Maura y Montaner (PC)","ESP-PC"
-"Spain","PL",1919,1923,"ESP","Liberal Party",,"1922 Garcia Prieto (PL)","ESP-PL"
-"Spain","PLD",1934,1936,"ESP",,,,"ESP-PLD"
-"Spain","PNV",1936,1938,"ESP",,,,"ESP-PNV"
-"Spain","PP",1996,2004,"ESP","Partido Popular",,"1996 Aznar (PP)","ESP-PP"
-"Spain","PRC",1931,1931,"ESP",,,"1931 Alcala-Zamora (PRC)","ESP-PRC"
-"Spain","PRP",1933,1934,"ESP",,,,"ESP-PRP"
-"Spain","PRR",1931,1936,"ESP",,,"1933 Lerroux y Garcia (PRR)","ESP-PRR"
-"Spain","PRS",1931,1933,"ESP",,,,"ESP-PRS"
-"Spain","PSOE",1931,2008,"ESP","Partido Socialista Obrero Español",,"1936 Largo Caballero (PSOE)","ESP-PSOE"
-"Spain","RA",1931,1933,"ESP","Republican Action Party",,"1931 Azana y Diaz (RA)","ESP-RA"
-"Spain","Rad.Dis",1936,1936,"ESP",,,,"ESP-Rad.Dis"
-"Spain","RSR",1933,1933,"ESP",,,,"ESP-RSR"
-"Spain","UCD",1976,1982,"ESP",,,"1976 Suarez Gonzalez (UCD)","ESP-UCD"
-"Spain","UR",1936,1938,"ESP","Union Republicana",,"1936 Martinez Barrio (UR)","ESP-UR"
-"Sri Lanka","CP",1970,1977,"LKA",,,,"LKA-CP"
-"Sri Lanka","FP",1965,1968,"LKA",,,,"LKA-FP"
-"Sri Lanka","LSSP",1965,1975,"LKA","Lanka Sama Samaja Party",,,"LKA-LSSP"
-"Sri Lanka","MEP",1965,1970,"LKA",,,,"LKA-MEP"
-"Sri Lanka","MEP-SLFP",1956,1959,"LKA",,,,"LKA-MEP-SLFP"
-"Sri Lanka","SLFP",1959,1977,"LKA","Sri Lanka Freedom Socialist Party",,"1959 Dahanayake (SLFP)","LKA-SLFP"
-"Sri Lanka","SLFP-PA",1994,2005,"LKA",,,"1994 Kumaratunga (SLFP-PA)","LKA-SLFP-PA"
-"Sri Lanka","SLFP-UPFA",2005,2008,"LKA",,,"2005 Rajapakse (SLFP-UPFA)","LKA-SLFP-UPFA"
-"Sri Lanka","SLFSP",1965,1970,"LKA",,,,"LKA-SLFSP"
-"Sri Lanka","TC",1953,1956,"LKA","Tamil Congress",,,"LKA-TC"
-"Sri Lanka","UNP",1948,1994,"LKA","United National Party",,"1948 Don Senanayake (UNP)","LKA-UNP"
-"Sudan","DUP",1968,1989,"SDN","Democratic Unionist Party",,,"SDN-DUP"
-"Sudan","four Southern parties",1986,1988,"SDN",,,,"SDN-four Southern parties"
-"Sudan","NIF",1989,1989,"SDN","National Islamic Front",,,"SDN-NIF"
-"Sudan","NUP",1956,1967,"SDN","National Unionist Party",,"1956 Al-Azhari (NUP)","SDN-NUP"
-"Sudan","PDP",1956,1967,"SDN","People’s Democratic Party",,,"SDN-PDP"
-"Sudan","SNC",1997,2008,"SDN",,,,"SDN-SNC"
-"Sudan","Southern parties",1989,1989,"SDN",,,,"SDN-Southern parties"
-"Sudan","SSU",1969,1985,"SDN",,,,"SDN-SSU"
-"Sudan","trade unions",1989,1989,"SDN",,,,"SDN-trade unions"
-"Sudan","Umma",1956,1989,"SDN",,,"1956 Khalil (Umma)","SDN-Umma"
-"Sudan","UNF",1964,1965,"SDN","United National Front",,"1964 al-Khalifa (UNF)","SDN-UNF"
-"Sweden","BF",1936,1945,"SWE","Agrarian Party or Agrarian Alliance",,"1936 Pehrsson-Bramst (BF)","SWE-BF"
-"Sweden","BF-CP",1952,1957,"SWE",,,,"SWE-BF-CP"
-"Sweden","C",2006,2008,"SWE",,,,"SWE-C"
-"Sweden","CP",1976,1994,"SWE","Center Party",,"1976 Falldin (CP)","SWE-CP"
-"Sweden","FF",1926,1932,"SWE",,,"1926 Ekman (FF)","SWE-FF"
-"Sweden","FP",1940,2008,"SWE","People’s Party Liberals",,"1978 Ullsten (FP)","SWE-FP"
-"Sweden","KD",2006,2008,"SWE","FP, the Christian Democrats",,,"SWE-KD"
-"Sweden","KDS",1991,1994,"SWE",,,,"SWE-KDS"
-"Sweden","LS",1919,1920,"SWE",,"Liberala Samlingspartiet",,"SWE-LS"
-"Sweden","M",2006,2008,"SWE","Moderate Party",,"2006 Reinfeldt (M)","SWE-M"
-"Sweden","MUP",1976,1994,"SWE","Moderate Coalition Party",,"1991 Bildt (MUP)","SWE-MUP"
-"Sweden","NP",1923,1945,"SWE","National Party",,"1923 Trygger (NP)","SWE-NP"
-"Sweden","SAP",1919,1936,"SWE",,,"1920 Branting (SAP)","SWE-SAP"
-"Sweden","SDA",1936,2006,"SWE","Swedish Social Democratic Party (SPA)",,"1936 Hansson (SDA)","SWE-SDA"
-"Switzerland","CVP",1919,2008,"CHE","Christlich-Demokratische Volkspartei",,"1920 Motta (CVP)","CHE-CVP"
-"Switzerland","FDP",1919,2008,"CHE","FreisinnigDemokratische Partei",,"1921 Schulthess (FDP)","CHE-FDP"
-"Switzerland","LP",1919,1920,"CHE","Liberal Party",,"1919 Ador (LP)","CHE-LP"
-"Switzerland","SP",1944,2008,"CHE",,,"1949 Nobs (SP)","CHE-SP"
-"Switzerland","SVP",1930,2007,"CHE","Schweizerische Volkspartei",,"1935 Minger (SVP)","CHE-SVP"
-"Syria","Baath",1963,1972,"SYR",,,,"SYR-Baath"
-"Syria","HS",1961,1963,"SYR","People's Party","Hizb ash-Sha'b","1961 Al-Kudsi (HS)","SYR-HS"
-"Syria","KW",1946,1955,"SYR","al-Kutla al-Wataniya",,"1954 Atassi H. (KW)","SYR-KW"
-"Syria","NPF",1973,2008,"SYR","Baath to National Progressive Front",,"2000 Al-Assad B. (NPF)","SYR-NPF"
-"Syria","SNP",1948,1958,"SYR",,,"1955 Kuwatli (SNP)","SYR-SNP"
-"Syria","SSNP",1949,1949,"SYR",,,,"SYR-SSNP"
-"Taiwan","KMT",1949,2008,"TWN",,,"1950 Chiang Kai-shek (KMT)","TWN-KMT"
-"Taiwan","MCT",2000,2008,"TWN",,,"2000 Chen Shui-bian (MCT)","TWN-MCT"
-"Tajikistan","HDKT",1999,2008,"TJK","Hizbi Demokrati-Khalkii Tojikston",,,"TJK-HDKT"
-"Tajikistan","KPT",1991,1992,"TJK",,,"1992 Iskandrov (KPT)","TJK-KPT"
-"Tajikistan","Kulobi",1992,1998,"TJK",,,,"TJK-Kulobi"
-"Tanzania","CCM",1978,2008,"TZA","Chama Cha Mapinduzi",,"1985 Mwinyi (CCM)","TZA-CCM"
-"Tanzania","TANU",1961,1977,"TZA","Tanganyika African National Union",,,"TZA-TANU"
-"Thailand","RuamjaithaiChartpattana",2008,2008,"THA",,,,"THA-RuamjaithaiChartpattana"
-"Thailand","Bhumjaithai",2008,2008,"THA",,,,"THA-Bhumjaithai"
-"Thailand","CF",1946,1947,"THA","Constitutional Front Party",,"1946 Thawan Thamrongnawasawat (CF)","THA-CF"
-"Thailand","Chart Pattana",1997,1997,"THA",,,,"THA-Chart Pattana"
-"Thailand","Chart Thai",2008,2008,"THA",,,,"THA-Chart Thai"
-"Thailand","CP",1995,2005,"THA","Chart Pattana",,,"THA-CP"
-"Thailand","CPP",1999,2003,"THA","Chart Pattana Party",,,"THA-CPP"
-"Thailand","CT",1988,2004,"THA","Chat Thai",,"1995 Silpa-Archa (CT)","THA-CT"
-"Thailand","CTP",2008,2008,"THA",,,,"THA-CTP"
-"Thailand","KR",1944,1946,"THA",,,"1944 Pridi Banomyong (KR)","THA-KR"
-"Thailand","MCP",1995,1997,"THA",,,,"THA-MCP"
-"Thailand","NAP",1992,2002,"THA","New Aspiration Party",,"1996 Chavalit Yongchaiyudh (NAP)","THA-NAP"
-"Thailand","NDP",2008,2008,"THA",,,,"THA-NDP"
-"Thailand","NT",1995,1996,"THA","Nam Thai",,,"THA-NT"
-"Thailand","PD",1992,2001,"THA","Palang Dharma Solidarity parties",,,"THA-PD"
-"Thailand","PDP",1995,1996,"THA",,,,"THA-PDP"
-"Thailand","PKS",1975,1976,"THA",,,"1975 Kukrot Pramoj (PKS)","THA-PKS"
-"Thailand","PP",1975,2008,"THA","Democratic Party",,"1975 Seni Pramoj (PP)","THA-PP"
-"Thailand","PPP",2008,2008,"THA","Pro-Thaksin People's Power Party",,"2008 Samak Sundaravej (PPP)","THA-PPP"
-"Thailand","PT",1997,2001,"THA","Prachakorn Thai Party",,,"THA-PT"
-"Thailand","PTP",1995,1997,"THA",,,,"THA-PTP"
-"Thailand","PuePandin",2008,2008,"THA",,,,"THA-PuePandin"
-"Thailand","RP",1958,1963,"THA",,,,"THA-RP"
-"Thailand","SAP",1992,1999,"THA","Social Action Party",,,"THA-SAP"
-"Thailand","SC",2008,2008,"THA",,,,"THA-SC"
-"Thailand","Seritham",1994,2001,"THA",,,,"THA-Seritham"
-"Thailand","SM",1947,1957,"THA",,,,"THA-SM"
-"Thailand","Sol",1992,2001,"THA",,,,"THA-Sol"
-"Thailand","Thai",1997,2001,"THA",,,,"THA-Thai"
-"Thailand","TP",2008,2008,"THA",,,,"THA-TP"
-"Thailand","TPP",1932,1944,"THA",,,"1932 Phraya Mano (TPP)","THA-TPP"
-"Thailand","TRT",2001,2006,"THA","Thai Rak Thai",,"2001 Thaksin Shinawatra (TRT)","THA-TRT"
-"Thailand","TUNDP",2008,2008,"THA",,,,"THA-TUNDP"
-"Togo","CUT",1960,1963,"TGO","Comité de l'Unité Togolaise",,"1960 Olympio (CUT)","TGO-CUT"
-"Togo","MPT",1963,1967,"TGO","Mouvement des Personnes Togolaises",,"1963 Grunitzky (MPT)","TGO-MPT"
-"Togo","RPT",1970,2008,"TGO",,,"2005 Gnassingbe (RPT)","TGO-RPT"
-"Trinidad and Tobago","NAR",1986,2001,"TTO",,,"1986 Robinson (NAR)","TTO-NAR"
-"Trinidad and Tobago","PNM",1962,2008,"TTO",,,"1962 Williams (PNM)","TTO-PNM"
-"Trinidad and Tobago","UNC",1995,2001,"TTO",,,"1995 Panday (UNC)","TTO-UNC"
-"Tunisia","PND",1957,1964,"TUN","Parti Néo Destourien",,,"TUN-PND"
-"Tunisia","PSD",1965,1988,"TUN","Parti Socialiste Destourien",,,"TUN-PSD"
-"Tunisia","RCD",1989,2008,"TUN",,,,"TUN-RCD"
-"Turkey","AKP",2002,2008,"TUR",,,"2002 Gul (AKP)","TUR-AKP"
-"Turkey","AnaP",1983,2002,"TUR",,,"1983 Ozal (AnaP)","TUR-AnaP"
-"Turkey","CHP",1923,1996,"TUR",,,"1938 Inonu (CHP)","TUR-CHP"
-"Turkey","DP",1950,1979,"TUR",,,"1950 Menderes (DP)","TUR-DP"
-"Turkey","DSP",1997,2002,"TUR",,,,"TUR-DSP"
-"Turkey","DYP",1991,1999,"TUR",,,"1991 Demirel (DYP)","TUR-DYP"
-"Turkey","IND",1963,1963,"TUR",,,,"TUR-IND"
-"Turkey","JP",1961,1980,"TUR","Demirel",,"1965 Demirel (JP)","TUR-JP"
-"Turkey","MHP",2000,2002,"TUR",,,,"TUR-MHP"
-"Turkey","NAP",1975,1978,"TUR","Nationalist Action Party",,,"TUR-NAP"
-"Turkey","NP",1965,1965,"TUR",,,,"TUR-NP"
-"Turkey","NPT",1963,1963,"TUR","New Turkey Party",,,"TUR-NPT"
-"Turkey","NRP",1971,1973,"TUR","Republican Reliance Party, formerly National Reliance Party",,"1972 Melen (NRP)","TUR-NRP"
-"Turkey","NSP",1974,1978,"TUR",,,,"TUR-NSP"
-"Turkey","NTP",1965,1965,"TUR","New Turkey Party",,,"TUR-NTP"
-"Turkey","RP",1996,1997,"TUR",,,"1996 Erbakan (RP)","TUR-RP"
-"Turkey","RPNP",1963,1965,"TUR",,,,"TUR-RPNP"
-"Turkey","RRP",1973,1979,"TUR",,,,"TUR-RRP"
-"Turkey","SHP",1991,1995,"TUR",,,"1993 Inonu (SHP)","TUR-SHP"
-"Turkmenistan","TCP",1991,1992,"TKM","Turkmen Communist Party",,,"TKM-TCP"
-"Turkmenistan","TDP",1993,2008,"TKM","Democratic Party of Turkmenistan",,"2006 Berdymukhammedov (TDP)","TKM-TDP"
-"Uganda","NRM",1986,2008,"UGA",,,"1986 Museveni (NRM)","UGA-NRM"
-"Uganda","UPC",1962,1985,"UGA","Uganda People's Congress",,"1962 Obote (UPC)","UGA-UPC"
-"Ukraine","BYNU",2005,2008,"UKR",,,"2005 Yushchenko (BYNU)","UKR-BYNU"
-"United Kingdom","Con",1919,1997,"GBR",,,"1922 Bonar Law (Con)","GBR-Con"
-"United Kingdom","Lab",1924,2008,"GBR",,,"1924 MacDonald (Lab)","GBR-Lab"
-"United Kingdom","Lib",1919,1945,"GBR",,,,"GBR-Lib"
-"United Kingdom","Nlab",1935,1940,"GBR",,,,"GBR-Nlab"
-"United Kingdom","NLab",1932,1935,"GBR",,,,"GBR-NLab"
-"United States of America","Dem",1919,2001,"USA",,,"1933 Roosevelt F. (Dem)","USA-Dem"
-"United States of America","Rep",1921,2008,"USA",,,"1921 Harding (Rep)","USA-Rep"
-"Uruguay","FA",2005,2008,"URY","Broad Front",,"2005 Vazquez Rosas (FA)","URY-FA"
-"Uruguay","PC",1919,2005,"URY","Colorado Party",,"1919 Brum (PC)","URY-PC"
-"Uruguay","PN",1959,1995,"URY","National Party",,"1959 Echegoyen (PN)","URY-PN"
-"Uzbekistan","F",1998,2008,"UZB","Fidokorlor",,,"UZB-F"
-"Uzbekistan","PDP",1991,1995,"UZB",,,,"UZB-PDP"
-"Venezuela","AD",1945,1993,"VEN","Accion Democratica",,"1945 Betancourt (AD)","VEN-AD"
-"Venezuela","CD",1994,1999,"VEN",,,"1994 Caldera Rodriguez (CD)","VEN-CD"
-"Venezuela","COPEI",1969,1984,"VEN",,,"1969 Caldera Rodriguez (COPEI)","VEN-COPEI"
-"Venezuela","MVR",1999,2006,"VEN",,,,"VEN-MVR"
-"Venezuela","PDV",1941,1945,"VEN","Venezuelan Democratic Party",,,"VEN-PDV"
-"Venezuela","PLR",1919,1935,"VEN","Liberal Restoration Party",,,"VEN-PLR"
-"Venezuela","PSUV",2007,2008,"VEN",,,,"VEN-PSUV"
-"Vietnam","DCSV",1977,2008,"VNM",,,"1986 Truong Chinh (DCSV)","VNM-DCSV"
-"Vietnam","DLDV",1954,1976,"VNM",,,,"VNM-DLDV"
-"Yemen","MSA",1990,2008,"YEM","al-Mu’tammar al-Sha’bi al-‘Am",,,"YEM-MSA"
-"Yemen Arab Republic","al-Ahrar",1948,1948,"YEM",,,"1948 Ibn Ahmed Alwazir (al-Ahrar)","YEM-al-Ahrar"
-"Yemen People's Republic","HIY",1978,1990,"YMD",,,"1978 Ali Nassir Hassani (HIY)","YMD-HIY"
-"Yemen People's Republic","NLF",1967,1975,"YMD",,,"1967 Al-Shaabi (NLF)","YMD-NLF"
-"Yemen People's Republic","UPONF",1976,1978,"YMD",,,,"YMD-UPONF"
-"Yugoslavia","DOS",2000,2003,"SRB","Democratic Opposition of Serbia",,,"SRB-DOS"
-"Yugoslavia","DPS",2003,2006,"SRB",,,"2003 Marovic (DPS)","SRB-DPS"
-"Yugoslavia","DS",2006,2008,"SRB",,,"2006 Tadic (DS)","SRB-DS"
-"Yugoslavia","DSS",2000,2003,"SRB","Democratic Party of Serbia",,"2000 Kostunica (DSS)","SRB-DSS"
-"Yugoslavia","SKJ",1945,1989,"SRB","League of Yugoslav Communists",,"1945 Tito (SKJ)","SRB-SKJ"
-"Yugoslavia","SKS",1989,1989,"SRB","Communists of Serbia",,,"SRB-SKS"
-"Yugoslavia","SPS",1990,2000,"SRB","Socialist Party of Serbia",,,"SRB-SPS"
-"Zambia","MMD",1991,2008,"ZMB","Movement for Multi-party Democracy",,"1991 Chiluba (MMD)","ZMB-MMD"
-"Zambia","UNIP",1973,1991,"ZMB","United National Independence Party",,,"ZMB-UNIP"
-"Zambia","ZANC",1964,1972,"ZMB",,,,"ZMB-ZANC"
-"Zimbabwe","RF",1965,1979,"ZWE","Rhodesian Front",,"1965 Smith (RF)","ZWE-RF"
-"Zimbabwe","UANC",1979,1980,"ZWE","United African National Congress",,"1979 Muzorewa (UANC)","ZWE-UANC"
-"Zimbabwe","ZANU-PF",1980,2008,"ZWE","Zimbabwe African National Union-Patriotic Front",,"1980 Mugabe (ZANU-PF)","ZWE-ZANU-PF"
+statename,party,first,last,country,name_english,name,chisols_first,party_id
+Afghanistan,HDK,1978,1992,AFG,People’s Democratic Party of Afghanistan,,1978 Taraki (HDK),AFG-HDK
+Afghanistan,JIA,1992,1996,AFG,Islamic Association of Afghanistan,,1992 Burhanuddin Rabbani (JIA),AFG-JIA
+Afghanistan,JNM,1992,1992,AFG,National Liberation Front of Afghanistan,,1992 Mojadidi (JNM),AFG-JNM
+Afghanistan,NRP,1977,1978,AFG,National Revolutionary Party,,,AFG-NRP
+Afghanistan,Tal,1996,2001,AFG,,,1996 Mullah Omar (Tal),AFG-Tal
+Albania,Mati,1925,1939,ALB,,,1925 Zogu (Mati),ALB-Mati
+Albania,PDS,1992,2008,ALB,,,1992 Berisha (PDS),ALB-PDS
+Albania,PPS,1944,1992,ALB,Albanian Workers’ Party,,1944 Hoxha (PPS),ALB-PPS
+Albania,PSS,1997,2005,ALB,,,1997 Fatos Nano (PSS),ALB-PSS
+Algeria,FLN,1962,1992,DZA,Libération Nationale,,,DZA-FLN
+Angola,MPLA-PT,1975,2008,AGO,Popular Liberation Movement of Angola-Labor Party,,1975 Neto (MPLA-PT),AGO-MPLA-PT
+Argentina,AL,1999,2001,ARG,,,,ARG-AL
+Argentina,CC,1932,1938,ARG,Concordance,,1932 Justo (CC),ARG-CC
+Argentina,FJL,1973,1973,ARG,Justicialist Liberation Front,,1973 Campora (FJL),ARG-FJL
+Argentina,PJ,1973,2008,ARG,Justicalist Party,Partido Justicialista,1973 Peron (PJ),ARG-PJ
+Argentina,PL,1946,1955,ARG,Labor Party,Partitdo Laborista,,ARG-PL
+Argentina,PP,1946,1955,ARG,Partido Peronista,,,ARG-PP
+Argentina,UCR,1919,2001,ARG,Radical Civic Union,,1922 Alvear (UCR),ARG-UCR
+Argentina,UCRI,1958,1962,ARG,Radical Intransigent Civic Union,Unión Cívica Radical Intransigente,1958 Frondizi (UCRI),ARG-UCRI
+Argentina,UCRP,1963,1966,ARG,Radical Civic Union,,1963 Illia (UCRP),ARG-UCRP
+Armenia,HHK,2008,2008,ARM,Hayastani Hanrapetakan Kusaktsutyun,,2008 Sarkisyan (HHK),ARM-HHK
+Armenia,HHS,1991,1998,ARM,Hayots Hamazgain Sharzhum,,,ARM-HHS
+Australia,ACP,1923,1941,AUS,Country Party,,1939 Page (ACP),AUS-ACP
+Australia,ALP,1929,2008,AUS,Australian Labor,,1929 Scullin (ALP),AUS-ALP
+Australia,CNT,1949,1983,AUS,,,1967 McEwen (CNT),AUS-CNT
+Australia,LP,1949,2007,AUS,,,1949 Menzies (LP),AUS-LP
+Australia,NP,1920,2007,AUS,,,1923 Bruce (NP),AUS-NP
+Australia,UAP,1932,1941,AUS,,,,AUS-UAP
+Austria,BZO,2006,2007,AUT,,,,AUT-BZO
+Austria,CS,1919,1933,AUT,,,1920 Mayr (CS),AUT-CS
+Austria,FPO,1983,2005,AUT,,,,AUT-FPO
+Austria,GV,1920,1932,AUT,Greater German People’s Party,,,AUT-GV
+Austria,HB,1930,1933,AUT,Heimatblock,,,AUT-HB
+Austria,L,1926,1933,AUT,Agrarian League,,,AUT-L
+Austria,OVP,1955,2008,AUT,,,1961 Gorbach (OVP),AUT-OVP
+Austria,SDAP,1919,1920,AUT,,,,AUT-SDAP
+Austria,SPO,1955,2008,AUT,,,1970 Kreisky (SPO),AUT-SPO
+Austria,VF,1934,1938,AUT,,,1934 Schuschnigg (VF),AUT-VF
+Azerbaijan,AKC,1992,1993,AZE,Azerbaijani Popular Front (nationalist),Azerbaycan Khalq Cabhasi,1992 Gambarov (AKC),AZE-AKC
+Azerbaijan,YAP,1993,2008,AZE,,,1993 H. Aliyev (YAP),AZE-YAP
+Bangladesh,BAL,1971,2001,BGD,,,1972 Rahman (BAL),BGD-BAL
+Bangladesh,BJD,1979,2006,BGD,Bengal Nationalist Party,,1981 Sattar (BJD),BGD-BJD
+Bangladesh,Jammat,2001,2006,BGD,,,,BGD-Jammat
+Bangladesh,JD,1987,1997,BGD,Jatiyo Dal,,,BGD-JD
+Bangladesh,JP,2001,2006,BGD,,,,BGD-JP
+Bangladesh,JSD-Rab,1996,2001,BGD,,,,BGD-JSD-Rab
+Bangladesh,OIJ,2001,2006,BGD,Islami Oikya Jote,,,BGD-OIJ
+Belgium,Agalev,1999,2003,BEL,,,,BEL-Agalev
+Belgium,BSP,1945,2003,BEL,Belgian Socialist Party,,1945 van Acker (BSP),BEL-BSP
+Belgium,CD&V-NVA,2008,2008,BEL,,,2008 Leterme (CD&V-NVA),BEL-CD&V-NVA
+Belgium,CDH,2008,2008,BEL,,,,BEL-CDH
+Belgium,CP,1919,1939,BEL,Catholics,,1920 de Wiart (CP),BEL-CP
+Belgium,CVP,1945,1999,BEL,Christian People’s Party,,1949 Eyskens G. (CVP),BEL-CVP
+Belgium,DU,1946,1946,BEL,Democratic Union,,,BEL-DU
+Belgium,Ecolo,1999,2003,BEL,,,,BEL-Ecolo
+Belgium,FDF,1978,1980,BEL,Fédéralistes Démocrates Francophones,,,BEL-FDF
+Belgium,ICAT,1946,1946,BEL,unknown,,,BEL-ICAT
+Belgium,KPB,1945,1947,BEL,Communist Party of Belgium,,,BEL-KPB
+Belgium,Lib,1919,1940,BEL,,,1937 Janson (Lib),BEL-Lib
+Belgium,LP,1945,1968,BEL,Liberal Party,,,BEL-LP
+Belgium,MR,2004,2008,BEL,,,,BEL-MR
+Belgium,PCS-KVV,1939,1945,BEL,Social Catholic Party-Catholic Flemish People's Party,,1939 Pierlot (PCS-KVV),BEL-PCS-KVV
+Belgium,PLP,1974,1976,BEL,,,,BEL-PLP
+Belgium,PRL,1981,1988,BEL,,,,BEL-PRL
+Belgium,PRL-FDF,1999,2003,BEL,,,,BEL-PRL-FDF
+Belgium,PRLW,1977,1977,BEL,,,,BEL-PRLW
+Belgium,PSB,1979,2008,BEL,,,,BEL-PSB
+Belgium,PSC,1973,1999,BEL,Parti Social Chrétien,,1978 Vanden Boeynants (PSC),BEL-PSC
+Belgium,PVV,1973,1988,BEL,,,,BEL-PVV
+Belgium,RW,1975,1977,BEL,,,,BEL-RW
+Belgium,Soc,1919,1940,BEL,,,1938 Spaak (Soc),BEL-Soc
+Belgium,SPA-Spirit,2004,2007,BEL,,,,BEL-SPA-Spirit
+Belgium,VLD,1999,2008,BEL,,,1999 Verhofstadt (VLD),BEL-VLD
+Belgium,VU,1978,1992,BEL,People’s Union,,,BEL-VU
+Benin,FARD,1996,2006,BEN,,,1996 Kerekou (FARD),BEN-FARD
+Benin,PD,1964,1972,BEN,Parti Démocratique,,1964 Apithy (PD),BEN-PD
+Benin,PRB,1991,1996,BEN,,,1991 Soglo (PRB),BEN-PRB
+Benin,PRPB,1973,1990,BEN,,,,BEN-PRPB
+Benin,RDD,1960,1972,BEN,Rassemblement Démocratique du Dahomé,,1970 Maga (RDD),BEN-RDD
+Bhutan,DPT,2008,2008,BTN,Druk Phuensum Tshogpa/Bhutan Peace and Prosperity Party,,2008 Lyonpo Jigme Thinley (DPT),BTN-DPT
+Bolivia,ADN,1997,2002,BOL,Nationalist Democratic Action,,1997 Banzer Suarez (ADN),BOL-ADN
+Bolivia,FRB,1966,1969,BOL,Front of the Bolivian Revolution,,1966 Barrientos Ortuno (FRB),BOL-FRB
+Bolivia,MAS,2006,2008,BOL,Movement towards Socialism,,2006 Morales Ayama (MAS),BOL-MAS
+Bolivia,MIR,1989,1993,BOL,Movement of Revolutionary Left,,1989 Paz Zamora (MIR),BOL-MIR
+Bolivia,MNR,1952,2003,BOL,Nationalist Revolutionary Movement,,1952 Siles Zuazo (MNR),BOL-MNR
+Bolivia,MNRA,1979,1979,BOL,Nationalist Revolutionary Movement,,1979 Guevara Arze (MNRA),BOL-MNRA
+Bolivia,MNRI,1982,1985,BOL,Nationalist Revolutionary Movement of the Left,,1982 Siles Zuazo (MNRI),BOL-MNRI
+Bolivia,PL,1919,1936,BOL,Liberal Party,,1934 Tejada Sorzano (PL),BOL-PL
+Bolivia,PR,1920,1934,BOL,Republican Party,,1920 Saavedra (PR),BOL-PR
+Bolivia,PRIN,1979,1980,BOL,Revolutionary Party of the Nationalist Left,,1979 Gueiler Tejada (PRIN),BOL-PRIN
+Bolivia,PSD-FRB,1969,1969,BOL,Partido Socialista Democrática (member of FRB),,1969 Siles Salinas (PSD-FRB),BOL-PSD-FRB
+Bolivia,PURS,1947,1951,BOL,Republican Socialist Unity Party,,1947 Hertzog (PURS),BOL-PURS
+Bolivia,Radepa-MNR,1943,1946,BOL,Nationalist Revolutionary Movement,,,BOL-Radepa-MNR
+Bosnia and Herzegovina,HDZ,1999,2006,BIH,,,1999 Jelavic (HDZ),BIH-HDZ
+Bosnia and Herzegovina,SBiH,2002,2008,BIH,,,2002 Belkic (SBiH),BIH-SBiH
+Bosnia and Herzegovina,SDA,1992,2006,BIH,,,2000 Izetbegovic (SDA),BIH-SDA
+Bosnia and Herzegovina,SDP,2001,2008,BIH,,,2001 Krizanovic (SDP),BIH-SDP
+Bosnia and Herzegovina,SDS,2002,2005,BIH,,,2002 Sarovic (SDS),BIH-SDS
+Bosnia and Herzegovina,SNSD,2006,2008,BIH,,,2006 Radmanovic (SNSD),BIH-SNSD
+Bosnia and Herzegovina,SPRS,1998,2001,BIH,,,1998 Radisic (SPRS),BIH-SPRS
+Botswana,BDP,1966,2008,BWA,Botswana Democratic Party,,1966 Seretse Khama (BDP),BWA-BDP
+Brazil,ARENA,1969,1985,BRA,National Renovating Alliance,,,BRA-ARENA
+Brazil,PDC,1961,1961,BRA,Christian Democratic Party,,1961 Quadros (PDC),BRA-PDC
+Brazil,PMDB,1985,1995,BRA,Democratic Movement Party,Partido do Movimento Democrático Brasileiro,1985 Sarney (PMDB),BRA-PMDB
+Brazil,PRM,1919,1926,BRA,Republican Party Minas,,1919 E. Pessoa (PRM),BRA-PRM
+Brazil,PRN,1990,1992,BRA,Party of National Reconstruction,,1990 Collor de Mello (PRN),BRA-PRN
+Brazil,PRP,1926,1930,BRA,Republican Party Paulista,,1926 Washington Luis (PRP),BRA-PRP
+Brazil,PSD,1946,1961,BRA,Social Democratic Party,,1946 Dutra (PSD),BRA-PSD
+Brazil,PSDB,1995,2003,BRA,Party of the Brazilian Social Democracy,,1995 Cardoso (PSDB),BRA-PSDB
+Brazil,PT,2003,2008,BRA,Labour Party,,2003 Lula da Silva (PT),BRA-PT
+Brazil,PTB,1951,1964,BRA,Brazilian Labor Party,,1951 Vargas (PTB),BRA-PTB
+Bulgaria,BKP,1946,1990,BGR,,,1946 Dimitrov (BKP),BGR-BKP
+Bulgaria,BSP,1990,1997,BGR,,,1995 Videnov (BSP),BGR-BSP
+Bulgaria,BSP-KzB,2005,2008,BGR,,,2005 Stanishev (BSP-KzB),BGR-BSP-KzB
+Bulgaria,DPS,2005,2008,BGR,,,,BGR-DPS
+Bulgaria,MDL,2001,2005,BGR,Movement for Rights and Freedoms,,,BGR-MDL
+Bulgaria,NDSV,2001,2008,BGR,National Movement Simeon II,,2001 Sakskoburggotski (NDSV),BGR-NDSV
+Bulgaria,NSZ,1944,1946,BGR,Zveno Peoples’ League,,,BGR-NSZ
+Bulgaria,OF,1944,1946,BGR,Fatherland Front,,,BGR-OF
+Bulgaria,SDS,1991,2001,BGR,Union of Democratic Forces,,1991 F. Dimitrov (SDS),BGR-SDS
+Burkina Faso,CDP,1997,2008,BFA,,,,BFA-CDP
+Burkina Faso,FP,1987,1991,BFA,Front Popular,,,BFA-FP
+Burkina Faso,MNR,1966,1980,BFA,Nationalist Revolutionary Movement,,,BFA-MNR
+Burkina Faso,ODP-MT,1992,1996,BFA,,,,BFA-ODP-MT
+Burkina Faso,UDV,1960,1966,BFA,Union Démocratique du Volta party,,1960 Yameogo (UDV),BFA-UDV
+Burkina Faso,UDV-RDA,1971,1974,BFA,,,1971 Gerard Kango Ouedraogo (UDV-RDA),BFA-UDV-RDA
+Burundi,CNDD-FDD,2005,2008,BDI,Défense de Démocratie,,2005 Nkurunziza (CNDD-FDD),BDI-CNDD-FDD
+Burundi,FRODEBU,1993,2005,BDI,,,1993 Ndadaye (FRODEBU),BDI-FRODEBU
+Burundi,UPRONA,1966,2003,BDI,Progrès National,,1993 Kinigi (UPRONA),BDI-UPRONA
+Cambodia,FUNK,1953,1970,KHM,,,1953 Sihanouk (FUNK),KHM-FUNK
+Cambodia,KCP,1975,1979,KHM,,,1975 Pol Pot (KCP),KHM-KCP
+Cambodia,KPK,1992,2008,KHM,Cambodian People’s Party,,1993 Ranariddh (KPK),KHM-KPK
+Cambodia,PRPK,1979,1991,KHM,,,1979 Heng Samrin (PRPK),KHM-PRPK
+Cameroon,RDPC,1986,2008,CMR,,,,CMR-RDPC
+Cameroon,UC,1960,1966,CMR,Union du Camerounais,,,CMR-UC
+Cameroon,UNC,1967,1985,CMR,,,,CMR-UNC
+Canada,CP,1920,1935,CAN,Conservative Party,,1920 Meighen (CP),CAN-CP
+Canada,CPC,2006,2008,CAN,Conservative Party of Canada,,2006 Harper (CPC),CAN-CPC
+Canada,LP,1921,2006,CAN,Liberal Party,,1921 King (LP),CAN-LP
+Canada,PC,1957,1993,CAN,Progressive Conservative Party,,1957 Diefenbaker (PC),CAN-PC
+Central African Republic,MESAN,1960,1980,CAF,Mouvement d'Évolution Sociale d'Afrique Noire,,1960 Dacko (MESAN),CAF-MESAN
+Central African Republic,MLPC,1993,2003,CAF,Libération du Peuple Centrafricain,,1993 Patasse (MLPC),CAF-MLPC
+Central African Republic,RDC,1986,1993,CAF,Mil to Rassemblement Démocratique Centrafricain,,,CAF-RDC
+Central African Republic,UDC,1981,1981,CAF,Union Démocratique Centrafricain,,,CAF-UDC
+Chad,FAN,1982,1984,TCD,Forces Armées du Nord,,,TCD-FAN
+Chad,FROLIANT-FAP,1979,1982,TCD,,,1979 Oueddei (FROLIANT-FAP),TCD-FROLIANT-FAP
+Chad,MNRCS,1974,1975,TCD,Révolution Culturelle et Sociale,,,TCD-MNRCS
+Chad,MPS,1990,2008,TCD,Mouvement Patriotique du Salut,,1990 Deby (MPS),TCD-MPS
+Chad,PPT,1960,1973,TCD,Parti Progressiste Tchad,,,TCD-PPT
+Chad,UNIR,1985,1990,TCD,,,,TCD-UNIR
+Chile,APL,1952,1958,CHL,,,1952 Ibanez del Campo (APL),CHL-APL
+Chile,Concertacion,1990,2008,CHL,,,1990 Aylwin (Concertacion),CHL-Concertacion
+Chile,FP,1946,1946,CHL,,,1946 Duhalde Vasquez (FP),CHL-FP
+Chile,PC,1958,1964,CHL,,,1958 Alessandri Rodriguez (PC),CHL-PC
+Chile,PDC,1964,1970,CHL,,,1964 Frei Montalva (PDC),CHL-PDC
+Chile,PL,1920,1938,CHL,Liberal Party,,1920 Alessandri Palma (PL),CHL-PL
+Chile,PLD,1919,1931,CHL,Liberal Democratic Party,,1925 Figueroa Larrain (PLD),CHL-PLD
+Chile,PR,1931,1952,CHL,"Montero, Radical Party",,1931 Montero Rodriquez (PR),CHL-PR
+Chile,PS-UP,1970,1973,CHL,,,1970 Allende (PS-UP),CHL-PS-UP
+China,CPC,1949,2008,CHN,,,1949 Mao Tse-Tung (CPC),CHN-CPC
+China,KMT,1928,1949,CHN,,,,CHN-KMT
+China,KMT-WC,1940,1944,CHN,,,1940 Wang Jingwei (KMT-WC),CHN-KMT-WC
+Colombia,PC,2006,2008,COL,,,,COL-PC
+Colombia,PCS,1919,2002,COL,Social Conservative Party,,1921 J. Holguin (PCS),COL-PCS
+Colombia,PL,1930,1998,COL,Liberal Party,,1930 Olaya Herrera (PL),COL-PL
+Comoros,CRC,2002,2006,COM,,,2002 Assoumani (CRC),COM-CRC
+Comoros,FNS,2006,2008,COM,,,2006 Sambi (FNS),COM-FNS
+Comoros,PRC,2002,2002,COM,,,2002 Hamada Madi (PRC),COM-PRC
+Comoros,RDPC,1975,1978,COM,Rassemblement Démocratique du Peuple Comorien,,,COM-RDPC
+Comoros,RDR,1994,1996,COM,Renouveau,,1995 el-Yachroutu (RDR),COM-RDR
+Comoros,RND,1996,1998,COM,,,1996 Abdoulkarim (RND),COM-RND
+Comoros,UCP,1989,1991,COM,Comoran Union for Progress,,,COM-UCP
+Congo,FDU,2003,2008,COG,,,,COG-FDU
+Congo,MNR,1963,1968,COG,National Révolutionnaire Mouvement,,1963 Massamba-Debat (MNR),COG-MNR
+Congo,PCT,1969,2002,COG,,,,COG-PCT
+Congo,UDDIA,1960,1963,COG,Défense d'Intérêts Africains,,1960 Youlou (UDDIA),COG-UDDIA
+Congo,UPADS,1992,1997,COG,,,1992 Lissouba (UPADS),COG-UPADS
+Costa Rica,BV,1948,1948,CRI,,,,CRI-BV
+Costa Rica,Civ,1928,1932,CRI,Civil Party,Partido Civil,1928 Gonzalez Viquez (Civ),CRI-Civ
+Costa Rica,PCon,1920,1924,CRI,,,1920 Acosta Garcia (PCon),CRI-PCon
+Costa Rica,PLN,1953,2008,CRI,,,1953 Figueres Ferrer (PLN),CRI-PLN
+Costa Rica,PR,1924,1928,CRI,Republican Party,,1924 Jimenez Oreamuno (PR),CRI-PR
+Costa Rica,PRD,1978,1982,CRI,,,1978 Carazo Odio (PRD),CRI-PRD
+Costa Rica,PRN,1932,1948,CRI,,,1932 Jimenez Oreamuno (PRN),CRI-PRN
+Costa Rica,PSD,1948,1949,CRI,,,,CRI-PSD
+Costa Rica,PUN,1949,1970,CRI,,,1949 Ulate Blanco (PUN),CRI-PUN
+Costa Rica,PUSC,1990,2006,CRI,,,1990 Calderon Fournier (PUSC),CRI-PUSC
+Costa Rica,UC,1978,1982,CRI,,,,CRI-UC
+Croatia,HDZ,1992,2000,HRV,Croatian Democratic Community’s,,1999 Pavletic (HDZ),HRV-HDZ
+Croatia,HSS,2000,2000,HRV,,,2000 Tomcic (HSS),HRV-HSS
+Cuba,ABC,1933,1933,CUB,ABC Revolutionary Society Party,,1933 de Cespedes (ABC),CUB-ABC
+Cuba,CSD,1940,1944,CUB,Social Democratic Coalition,,1940 Batista (CSD),CUB-CSD
+Cuba,MR-26-7,1959,1976,CUB,Revolutionary Movement of Jul 26th (communist),Movemiento Revolucionario de 26 Julio,,CUB-MR-26-7
+Cuba,ORI,1959,1976,CUB,Integrated Revolutionary Organizations,Organizaciones Revolucionarias Integradas,,CUB-ORI
+Cuba,PAP,1952,1959,CUB,,,,CUB-PAP
+Cuba,PAU,1952,1959,CUB,,,,CUB-PAU
+Cuba,PC,1919,1921,CUB,Conservative Party,,,CUB-PC
+Cuba,PCC,1959,2008,CUB,,,1959 F. Castro (PCC),CUB-PCC
+Cuba,PL,1925,1933,CUB,Liberal Party,,1925 Machado Morales (PL),CUB-PL
+Cuba,PPC-LN,1921,1925,CUB,Cuban Popular [Liberal] Party,,1921 Zayas y Alfonso (PPC-LN),CUB-PPC-LN
+Cuba,PRC,1933,1934,CUB,Cuban Revolutionary Party,,1933 Grau San Martin (PRC),CUB-PRC
+Cuba,PRC-A,1944,1952,CUB,,,1944 Grau San Martin (PRC-A),CUB-PRC-A
+Cuba,PRUSC,1959,1976,CUB,,,,CUB-PRUSC
+Cuba,UN,1934,1940,CUB,National Union,,1934 Mendieta (UN),CUB-UN
+Cyprus,AKEL,2008,2008,CYP,Working People,,2008 Christofias (AKEL),CYP-AKEL
+Cyprus,DIKO,1977,2008,CYP,Democratic Party,,1977 Kyprianou (DIKO),CYP-DIKO
+Cyprus,DISY,1993,2003,CYP,Democratic Coalition,,1993 Clerides (DISY),CYP-DISY
+Cyprus,Eniaion,1974,1974,CYP,,,1974 Clerides (Eniaion),CYP-Eniaion
+Cyprus,EOKA,1974,1974,CYP,,,1974 Sampson (EOKA),CYP-EOKA
+Czech Republic,CSSD,1998,2006,CZE,Social Democrats,,1998 Zeman (CSSD),CZE-CSSD
+Czech Republic,KDU-CSL,1993,2008,CZE,,,,CZE-KDU-CSL
+Czech Republic,ODA,1993,1997,CZE,,,,CZE-ODA
+Czech Republic,ODS,1993,2008,CZE,Civic Democratic Party,,1993 Klaus (ODS),CZE-ODS
+Czech Republic,SZ,2008,2008,CZE,,,,CZE-SZ
+Czech Republic,US-DEU,2002,2006,CZE,,,,CZE-US-DEU
+Czechoslovakia,BdL,1926,1938,CZE,,,,CZE-BdL
+Czechoslovakia,CDU,1992,1992,CZE,Civic Democratic Union,,,CZE-CDU
+Czechoslovakia,Civic Forum,1991,1992,CZE,,,,CZE-Civic Forum
+Czechoslovakia,CND,1919,1938,CZE,Czechoslovak National Democratic Party,,,CZE-CND
+Czechoslovakia,CNSP,1945,1948,CZE,,,1945 Benes (CNSP),CZE-CNSP
+Czechoslovakia,CNSS,1919,1938,CZE,National Socialists,,1921 Benes (CNSS),CZE-CNSS
+Czechoslovakia,CPP,1945,1948,CZE,,,,CZE-CPP
+Czechoslovakia,CSDP,1945,1948,CZE,,,,CZE-CSDP
+Czechoslovakia,CSDS,1919,1938,CZE,Social Democratic Party,,1919 Tusar (CSDS),CZE-CSDS
+Czechoslovakia,CSL,1921,1938,CZE,,,,CZE-CSL
+Czechoslovakia,CZOSS,1926,1938,CZE,Small Traders Party,,,CZE-CZOSS
+Czechoslovakia,DCVP,1926,1938,CZE,German Christian Social Party,,,CZE-DCVP
+Czechoslovakia,DP,1945,1948,CZE,,,,CZE-DP
+Czechoslovakia,DSAP,1930,1938,CZE,Social Democrats,,,CZE-DSAP
+Czechoslovakia,HSL'S,1928,1929,CZE,Hlinka’s Slovak People’s Party,,,CZE-HSL'S
+Czechoslovakia,HZDS,1992,1992,CZE,Movement for a Democratic Slovakia [Public Against Violence],,,CZE-HZDS
+Czechoslovakia,KDS-CSL,1991,1992,CZE,,,,CZE-KDS-CSL
+Czechoslovakia,KSC,1945,1990,CZE,Communist Party of Czechoslovakia,,1948 Gottwald (KSC),CZE-KSC
+Czechoslovakia,ODS-KDS,1992,1992,CZE,,,1992 Strasky (ODS-KDS),CZE-ODS-KDS
+Czechoslovakia,PAV,1991,1991,CZE,Slovak Public Again Violence,,,CZE-PAV
+Czechoslovakia,RSZML,1919,1939,CZE,Agrarians,,1922 Svehla (RSZML),CZE-RSZML
+Democratic Republic of the Congo,ABAKO,1960,1965,COD,Bakongo,,1960 Kasavubu (ABAKO),COD-ABAKO
+Democratic Republic of the Congo,AFDL,1997,2002,COD,,,1997 Laurent Kabila (AFDL),COD-AFDL
+Democratic Republic of the Congo,MNC-L,1960,1960,COD,Movement Congolese Nationaux Congolese-Lumumba,,1960 Lumumba (MNC-L),COD-MNC-L
+Democratic Republic of the Congo,MRP,1968,1997,COD,,,,COD-MRP
+Democratic Republic of the Congo,PPRD,2003,2008,COD,,,,COD-PPRD
+Denmark,CDM,1982,1996,DNK,Centre Democrats,,,DNK-CDM
+Denmark,COM,1945,1945,DNK,Danmarks Kommunistiske Parti,,,DNK-COM
+Denmark,CON,1950,2008,DNK,Conservative People’s Party,,1982 Schluter (CON),DNK-CON
+Denmark,CPP,1982,1994,DNK,Christian People’s Party,,,DNK-CPP
+Denmark,DS,1945,1945,DNK,Dansk Samling,,,DNK-DS
+Denmark,JP,1958,1960,DNK,Justice Party,,,DNK-JP
+Denmark,KF,1945,1945,DNK,Det Konservative Folkeparti,,,DNK-KF
+Denmark,LIB,1945,2008,DNK,,Venstre,1945 Kristensen (LIB),DNK-LIB
+Denmark,LP-V,1920,1945,DNK,Liberal Left,Venstre,1920 Neergaard (LP-V),DNK-LP-V
+Denmark,RAD,1958,2001,DNK,Radical Left Party,,1968 Baunsgaard (RAD),DNK-RAD
+Denmark,RP,1919,1945,DNK,Radical Left (Det Radicale Venstre),,,DNK-RP
+Denmark,SD,1919,2001,DNK,Social Democrats,,1924 Stauning (SD),DNK-SD
+Djibouti,RPP,1977,2008,DJI,Progrès,,1977 Gouled Aptidon (RPP),DJI-RPP
+Dominican Republic,PD,1930,1962,DOM,Dominican Party,,1930 Trujillo (PD),DOM-PD
+Dominican Republic,PLD,1996,2008,DOM,Dominican Liberation Party,,1996 L. Fernandez (PLD),DOM-PLD
+Dominican Republic,PNG,1924,1930,DOM,National Progressive Party,,1924 Vasquez (PNG),DOM-PNG
+Dominican Republic,PRD,1963,2004,DOM,Revolutionary Dominican Party,,1963 Bosch (PRD),DOM-PRD
+Dominican Republic,PRSC,1965,1996,DOM,Social Christian Reformist Party,,1965 Godoy (PRSC),DOM-PRSC
+Dominican Republic,Rep,1930,1963,DOM,Republican Party,,1930 Estrella Urena (Rep),DOM-Rep
+Dominican Republic,UCN,1963,1965,DOM,Civic National Union,,1963 de los Santos (UCN),DOM-UCN
+Ecuador,AD,1934,1947,ECU,Democratic Alliance,,1934 Velasco Ibarra (AD),ECU-AD
+Ecuador,AP,2007,2008,ECU,Country Alliance movement,,2007 Correa Delgado (AP),ECU-AP
+Ecuador,CFP,1979,1981,ECU,Popular Forces,,1979 Roldos (CFP),ECU-CFP
+Ecuador,CID,1966,1968,ECU,,,1966 Arosemena Gomez (CID),ECU-CID
+Ecuador,DP,2005,2007,ECU,Democracy Popular,,2005 Palacio Gonzalez (DP),ECU-DP
+Ecuador,DP-UDC,1981,2003,ECU,People's Democracy-Christian Democrat Union,,1981 Hurtado Larrea (DP-UDC),ECU-DP-UDC
+Ecuador,FNV,1952,1972,ECU,Federación Nacional Velasquista (National Velasquista Federation),,1952 Velasco Ibarra (FNV),ECU-FNV
+Ecuador,FRA,1997,1998,ECU,,,1997 Alarcon (FRA),ECU-FRA
+Ecuador,ID,1988,1992,ECU,,,1988 Borja Cevallos (ID),ECU-ID
+Ecuador,MCDN,1948,1952,ECU,Movimiento Civico Ecuatoriano,,1948 Plaza Lasso (MCDN),ECU-MCDN
+Ecuador,MIAR,1997,1997,ECU,,,1997 Arteaga Serrano (MIAR),ECU-MIAR
+Ecuador,MSC,1956,1960,ECU,Movimiento Social Cristiano,,1956 Ponce Enriquez (MSC),ECU-MSC
+Ecuador,PCE,1947,1947,ECU,,,1947 Suarez (PCE),ECU-PCE
+Ecuador,PL,1931,1940,ECU,Liberal Party,,1931 Baquerizo (PL),ECU-PL
+Ecuador,PLR,1919,1944,ECU,Radical Liberal Party,,1920 Tamayo (PLR),ECU-PLR
+Ecuador,PNR,1961,1963,ECU,,,1961 Arosemena Monroy (PNR),ECU-PNR
+Ecuador,PRE,1996,1997,ECU,Roldosista Ecuadorian Party,,1996 Bucaram Ortiz (PRE),ECU-PRE
+Ecuador,PSC,1984,1988,ECU,Social-Christian Party,,1984 Febres Cordero (PSC),ECU-PSC
+Ecuador,PSP,2003,2005,ECU,Party Patriotic Society,,2003 Gutierrez (PSP),ECU-PSP
+Ecuador,PUR,1992,1996,ECU,,,1992 Duran Ballen (PUR),ECU-PUR
+Ecuador,VR,1932,1932,ECU,Revolutionary Socialist Vanguard,,1932 Freile Larrea (VR),ECU-VR
+Egypt,ASU,1963,1978,EGY,,,,EGY-ASU
+Egypt,HDW,1979,2008,EGY,,,1981 Mubarak (HDW),EGY-HDW
+Egypt,LR,1952,1956,EGY,,,,EGY-LR
+Egypt,NU,1957,1962,EGY,,,,EGY-NU
+El Salvador,ARENA,1989,2008,SLV,,,1989 Cristiani (ARENA),SLV-ARENA
+El Salvador,PCN,1962,1979,SLV,,,,SLV-PCN
+El Salvador,PDC,1980,1989,SLV,Christian Democratic Party,,1980 Duarte (PDC),SLV-PDC
+El Salvador,PND,1919,1931,SLV,Partido Nacional Democrático,,1919 J. Melendez (PND),SLV-PND
+El Salvador,PPP,1931,1944,SLV,,,,SLV-PPP
+El Salvador,PRUD,1950,1960,SLV,,,,SLV-PRUD
+El Salvador,PT,1931,1931,SLV,,,1931 Araujo (PT),SLV-PT
+Equatorial Guinea,PDGE,1988,2008,GNQ,Partido Democratico Guinea Ecuatorial,,,GNQ-PDGE
+Equatorial Guinea,PUNT,1971,1979,GNQ,Worker’s National United Party,,,GNQ-PUNT
+Eritrea,PFDJ,1993,2008,ERI,People's Front for Democracy and Justice,,1993 Afewerki (PFDJ),ERI-PFDJ
+Estonia,Ansiedler,1925,1933,EST,,,,EST-Ansiedler
+Estonia,Center,1932,1933,EST,,,,EST-Center
+Estonia,EK,1992,1992,EST,,,1992 Vahi (EK),EST-EK
+Estonia,EMRL,1919,1919,EST,Union of Rural People,,,EST-EMRL
+Estonia,ER,1919,1933,EST,People’s Party,,1919 Tonisson (ER),EST-ER
+Estonia,ERL,2003,2007,EST,People's Union of Estonia,,,EST-ERL
+Estonia,ERSP,1992,1994,EST,Moderates and Estonian National Independence Party,,,EST-ERSP
+Estonia,ESTP,1928,1932,EST,Estonian Socialist Party of Workers,,1928 Rei (ESTP),EST-ESTP
+Estonia,ETE,1919,1932,EST,Labor Party,,1919 Strandman (ETE),EST-ETE
+Estonia,I,1936,1940,EST,Fatherland League,,,EST-I
+Estonia,IERSP,1999,2002,EST,,,1999 Laar (IERSP),EST-IERSP
+Estonia,IRL,2008,2008,EST,Pro Patria and Res Publica Union,,,EST-IRL
+Estonia,Isamaa,1992,1994,EST,,,1992 Laar (Isamaa),EST-Isamaa
+Estonia,Kesk,2002,2007,EST,,,,EST-Kesk
+Estonia,KMU-K,1995,1999,EST,,,1997 Siimann (KMU-K),EST-KMU-K
+Estonia,KRE,1921,1931,EST,Christian People’s Party,,1924 Akel (KRE),EST-KRE
+Estonia,Moderates,1992,2002,EST,,,,EST-Moderates
+Estonia,NCP,1932,1932,EST,National Centre Party,,,EST-NCP
+Estonia,PK,1921,1935,EST,Unions of Farmers,,1921 Pats (PK),EST-PK
+Estonia,PKK,1932,1932,EST,,,1932 Teemant (PKK),EST-PKK
+Estonia,R,1991,1996,EST,,,1991 Savisaar (R),EST-R
+Estonia,RE,1999,2008,EST,,,2002 Kallas (RE),EST-RE
+Estonia,ResP,2003,2005,EST,,,2003 Parts (ResP),EST-ResP
+Estonia,SDE,1919,2008,EST,,,,EST-SDE
+Ethiopia,EPRDF,1991,2008,ETH,,,,ETH-EPRDF
+Ethiopia,EWP,1977,1991,ETH,,,1991 Gebre Kidan (EWP),ETH-EWP
+Ethiopia,TPLF,1991,2008,ETH,,,1991 Zenawi (TPLF),ETH-TPLF
+Fiji,CA,2002,2006,FJI,Conservative Alliance/Matanitu Vanua,,,FJI-CA
+Fiji,FAP,1970,2000,FJI,Fijian Alliance Party,,1970 Mara (FAP),FJI-FAP
+Fiji,FLP,1987,2006,FJI,Fiji Labour Party,,1987 Bavadra (FLP),FJI-FLP
+Fiji,FPP-SVT,1992,1999,FJI,,,,FJI-FPP-SVT
+Fiji,FUP-SDL,2002,2006,FJI,Fijian United Party,,,FJI-FUP-SDL
+Fiji,GVP,1995,1999,FJI,General Voter’s Party,,,FJI-GVP
+Fiji,LU,2002,2006,FJI,Labour Unity,,,FJI-LU
+Fiji,NFP,1987,1987,FJI,National Federation Party,,,FJI-NFP
+Fiji,PANU,1999,2000,FJI,Party of National Unity,,,FJI-PANU
+Finland,ED,1919,1944,FIN,National Progressive Party (Kansallinen Edistyspuolue),,1919 Stahlberg (ED),FIN-ED
+Finland,KESK,1956,1981,FIN,,,,FIN-KESK
+Finland,KOK,1931,1956,FIN,National Coalition Party,,1931 Svinhufvud (KOK),FIN-KOK
+Finland,ML,1925,1981,FIN,Agrarian Party,,1925 Relander (ML),FIN-ML
+Finland,SDP,1981,2008,FIN,Social Democratic Party,,1981 Koivisto (SDP),FIN-SDP
+France,AD,1927,1928,FRA,,Alliance démocratique,,FRA-AD
+France,ARS,1920,1940,FRA,,Action Republicaine et Socieale (later Action Democractique et Sociale),,FRA-ARS
+France,CR,1934,1936,FRA,,Centre Republucan,,FRA-CR
+France,DP,1930,1932,FRA,,Démocrate Populaire (also Parti Démocrate Populaire),,FRA-DP
+France,ERD,1920,1940,FRA,,Eentente Republicane democratique (or the Groupe de l'Entente Républicaine),1940 Reynaud (ERD),FRA-ERD
+France,FR,1935,1936,FRA,,Federation Republicane,,FRA-FR
+France,GAUL,1948,1958,FRA,,Gaulliste,1950 Pleven (GAUL),FRA-GAUL
+France,GD,1919,1940,FRA,,Gouche Democratique,1930 Steeg (GD),FRA-GD
+France,GR,1919,1934,FRA,,Gauche Républicaine Démocratique,,FRA-GR
+France,GRad,1925,1937,FRA,,Gauche Radicale,,FRA-GRad
+France,GRep,1926,1926,FRA,,Gauche Républicaine,,FRA-GRep
+France,GSR,1932,1932,FRA,,Gauche Sociale et radicale,,FRA-GSR
+France,Ind,1969,1974,FRA,,Independent,1969 Poher (Ind),FRA-Ind
+France,IND,1948,1958,FRA,,Centre National des Indépendants et Paysans,1952 Pinay (IND),FRA-IND
+France,MRP,1946,1958,FRA,,Mouvement Républicain Populaire,1946 Bidault (MRP),FRA-MRP
+France,PCF,1946,1947,FRA,,Parti Communiste Français,,FRA-PCF
+France,PRS,1920,1940,FRA,,Republican Socialiste (Parti Républicain-Socialiste),1921 Briand (PRS),FRA-PRS
+France,PS,1938,1995,FRA,,Parti Socialiste Français,1938 Blum (PS),FRA-PS
+France,PSF,1946,1958,FRA,,Parti Socialiste Français,1946 Gouin (PSF),FRA-PSF
+France,Rad,1930,1930,FRA,,Radical Socialiste,,FRA-Rad
+France,RAD,1919,1940,FRA,,Radical Socialiste,1924 Herriot (RAD),FRA-RAD
+France,RAIS,1936,1936,FRA,,Radicaux indépendants,,FRA-RAIS
+France,RG,1919,1936,FRA,,Reopublican de Gauche,1920 Leygues (RG),FRA-RG
+France,RI,1974,1981,FRA,,Fédération Nationale des Républicains Indépendants,1974 Giscard D'Estaing (RI),FRA-RI
+France,RIAS,1934,1935,FRA,,Groupe Républicain et Social (later Groupe des Républicains Indépendants d'Action Sociale),,FRA-RIAS
+France,RPR,1995,2002,FRA,,Rassemblement Pour la République,,FRA-RPR
+France,RSP,1946,1958,FRA,,Parti radical-socialiste,1948 Marie (RSP),FRA-RSP
+France,SEIO,1933,1933,FRA,,,,FRA-SEIO
+France,SF,1932,1936,FRA,,Section Française,,FRA-SF
+France,SFIO,1933,1940,FRA,,Section Française de l’Internationale Ouvrière,1936 Blum (SFIO),FRA-SFIO
+France,UDR,1930,1974,FRA,,Union Democratique et radical,1969 Pompidou (UDR),FRA-UDR
+France,UMP,2003,2008,FRA,,Union pour un Mouvement Populaire,2007 Sarkozy (UMP),FRA-UMP
+France,UNR,1959,1969,FRA,,Union pour la nouvelle république [Gaulliste],,FRA-UNR
+France,UR,1919,1940,FRA,,Union Republicane,1922 Poincare (UR),FRA-UR
+France,URD,1924,1935,FRA,,Groupe de l'Union Républicaine Démocratique,,FRA-URD
+France,URS,1939,1940,FRA,,,,FRA-URS
+France,US,1936,1936,FRA,,Union Sciate,,FRA-US
+France,USR,1937,1938,FRA,,Union socialiste et republicane,,FRA-USR
+Gabon,BDG,1960,1968,GAB,,Bloc Démocratique Gabonais,1960 Mba (BDG),GAB-BDG
+Gabon,PDG,1969,2008,GAB,,,,GAB-PDG
+Gambia,APRC,1997,2008,GMB,Alliance for Patriotic Reorientation and Construction,,,GMB-APRC
+Gambia,PPP,1965,1994,GMB,People's Progressive Party,,1965 Jawara (PPP),GMB-PPP
+Georgia,BDA,2003,2008,GEO,Burdzhanadze-Demokratiuli Aliansi,,2003 Burdzhanadze (BDA),GEO-BDA
+Georgia,ENM,2004,2008,GEO,Natshhionakhuri Modraoba– Demokrathebi,,2004 Saakashvili (ENM),GEO-ENM
+Georgia,MM-TS,1991,1992,GEO,Round Table-Free Georgia,,,GEO-MM-TS
+Georgia,SMK,1996,2003,GEO,Sakartvelos Mokalaketa Kavshiri,,,GEO-SMK
+German Democratic Republic,SED,1954,1989,DDR,Socialist Unity Party,,1971 Honecker (SED),DDR-SED
+German Democratic Republic,SED-PDS,1989,1990,DDR,Party of Democratic Socialism,,1989 Gysi (SED-PDS),DDR-SED-PDS
+German Federal Republic,CDU,1955,1990,DEU,Christian Democratic Union,,1963 Erhard (CDU),DEU-CDU
+German Federal Republic,DP,1955,1960,DEU,,,,DEU-DP
+German Federal Republic,FDP,1955,1990,DEU,Free Democrats,,,DEU-FDP
+German Federal Republic,GBHE,1955,1955,DEU,,,,DEU-GBHE
+German Federal Republic,SPD,1967,1982,DEU,Social Democratic Party,,1969 Brandt (SPD),DEU-SPD
+Germany,BVP,1924,1932,DEU,Bavarian People’s Party,,,DEU-BVP
+Germany,DDP,1919,1931,DEU,German Democratic Party,Deutsche Demokratische Partei,,DEU-DDP
+Germany,DNVP,1925,1933,DEU,,,,DEU-DNVP
+Germany,DSTP,1932,1932,DEU,,,,DEU-DSTP
+Germany,DVP,1920,1931,DEU,,,1923 Stresemann (DVP),DEU-DVP
+Germany,FPD,1990,1998,DEU,,,,DEU-FPD
+Germany,Greens,1998,2005,DEU,,,,DEU-Greens
+Germany,KVP,1930,1932,DEU,,,,DEU-KVP
+Germany,LV,1932,1933,DEU,,,,DEU-LV
+Germany,NSDAP,1933,1945,DEU,,,1933 Hitler (NSDAP),DEU-NSDAP
+Germany,WP,1930,1930,DEU,Wirtschaftspartei,,,DEU-WP
+Germany,Z,1919,1932,DEU,Center Party,Zentrum,1920 Fehrenbach (Z),DEU-Z
+Ghana,CPP,1957,1966,GHA,Convention People’s Party,,,GHA-CPP
+Ghana,NDC,1993,2001,GHA,,,,GHA-NDC
+Ghana,NPP,2001,2008,GHA,New Patriotic Party,,2001 Kufuor (NPP),GHA-NPP
+Ghana,PNP,1979,1981,GHA,People's National Party,,1979 Limann (PNP),GHA-PNP
+Ghana,PP,1969,1972,GHA,Progress Party,,1969 Busia (PP),GHA-PP
+Greece,CR,1924,1925,GRC,Conservative Republican Party,,1924 Michalakopoulos (CR),GRC-CR
+Greece,CU,1963,1965,GRC,Center Union,,1963 G. Papandreou (CU),GRC-CU
+Greece,DE,1924,1932,GRC,Republican Union,,1924 Papanastasiou (DE),GRC-DE
+Greece,Diss-CU,1965,1966,GRC,,,1965 Tsirimokos (Diss-CU),GRC-Diss-CU
+Greece,EEK,1945,1945,GRC,National Unionist Party,,1945 Kanellopoulos (EEK),GRC-EEK
+Greece,EK,1944,1945,GRC,Center Union,,1944 G. Papandreou (EK),GRC-EK
+Greece,EPEK,1950,1952,GRC,National Progressive Center Union,,1950 Plastiras (EPEK),GRC-EPEK
+Greece,ERE,1957,1974,GRC,National Radical Union,,1958 Karamanlis (ERE),GRC-ERE
+Greece,ERK,1926,1926,GRC,,,1926 Kondilis (ERK),GRC-ERK
+Greece,FLP,1926,1928,GRC,Farmer-Labour Party,,,GRC-FLP
+Greece,FOP,1926,1928,GRC,Free Opion Party,,,GRC-FOP
+Greece,GRAL,1952,1956,GRC,Hellenic Union,,1952 Papagos (GRAL),GRC-GRAL
+Greece,KF,1919,1936,GRC,Liberal Party,,1924 Venizelos (KF),GRC-KF
+Greece,LIB,1946,1952,GRC,Liberal Party,,1950 S. Venizelos (LIB),GRC-LIB
+Greece,LIB-?,1950,1950,GRC,,,1949 Diomidis (LIB-?),GRC-LIB-?
+Greece,LIB-Nat,1946,1947,GRC,National Liberal Party,,,GRC-LIB-Nat
+Greece,LIB-Ref,1946,1947,GRC,Refugees’ Liberal Party,,,GRC-LIB-Ref
+Greece,LIB-Sof,1945,1950,GRC,Sophoulis,,1945 Sophoulis (LIB-Sof),GRC-LIB-Sof
+Greece,LIB-Ven,1947,1950,GRC,Venizelian Liberals,,,GRC-LIB-Ven
+Greece,LK,1920,1935,GRC,People’s Party,,1920 Rallis (LK),GRC-LK
+Greece,LKK,1955,1955,GRC,People’s Social Party,,1955 Stephanopoulos (LKK),GRC-LKK
+Greece,ND,1975,2008,GRC,,,1980 Rallis (ND),GRC-ND
+Greece,NP,1947,1949,GRC,National Party,,,GRC-NP
+Greece,NPU,1946,1947,GRC,National Political Union,,,GRC-NPU
+Greece,NRP,1935,1935,GRC,National Radical Party,,1935 Kondylis (NRP),GRC-NRP
+Greece,NU,1949,1950,GRC,,,,GRC-NU
+Greece,NUP,1950,1950,GRC,,,,GRC-NUP
+Greece,PASOK,1981,2004,GRC,Panhellenic Socialist Movement,,1981 Papandreou (PASOK),GRC-PASOK
+Greece,POP,1946,1950,GRC,People’s Party,,1946 Tsaldaris (POP),GRC-POP
+Greece,PP,1965,1966,GRC,Progressive Party,,,GRC-PP
+Greece,ProgLib,1926,1928,GRC,,,,GRC-ProgLib
+Greece,SocDem,1947,1951,GRC,Social Democrats,,,GRC-SocDem
+Greece,SYN,1989,1990,GRC,,,,GRC-SYN
+Guatemala,FRG,2000,2004,GTM,,,2000 Portillo (FRG),GTM-FRG
+Guatemala,GANA,2004,2008,GTM,,,2004 Berger (GANA),GTM-GANA
+Guatemala,Lib,1919,1944,GTM,,,1920 Herrera y Luna (Lib),GTM-Lib
+Guatemala,MAS,1991,1993,GTM,Espina Salguero,,1991 Serrano Elias (MAS),GTM-MAS
+Guatemala,PAN,1957,2000,GTM,,,1957 Gonzalez Lopez (PAN),GTM-PAN
+Guatemala,PAR,1945,1954,GTM,,,1945 Arevalo (PAR),GTM-PAR
+Guatemala,PDCG,1986,1991,GTM,,,1986 Cerezo (PDCG),GTM-PDCG
+Guatemala,PRDN,1958,1963,GTM,,,1958 Ydigoras Fuentes (PRDN),GTM-PRDN
+Guatemala,UNE,2008,2008,GTM,,,2008 Colom (UNE),GTM-UNE
+Guinea,PDG,1958,1984,GIN,Parti Démocratique de Guinée / Ahmed Sekou Touré,,1958 Toure (PDG),GIN-PDG
+Guinea,PUP,1992,2008,GIN,Parti de l'Unité et du Progrès,,2008 Sompare (PUP),GIN-PUP
+Guinea-Bissau,PAIGC,1974,2008,GNB,,,1974 Cabral (PAIGC),GNB-PAIGC
+Guinea-Bissau,PRS,2000,2003,GNB,,,2000 Iala (PRS),GNB-PRS
+Guyana,PNC-R,1966,1992,GUY,"People’s National Conference, Reform branch",,1966 Burnham (PNC-R),GUY-PNC-R
+Guyana,PPP-C,1992,2008,GUY,"People Progressive Party, Civic branch",,1992 Ch. Jagan (PPP-C),GUY-PPP-C
+Guyana,UF,1966,1969,GUY,United Force,,,GUY-UF
+Haiti,FL,2001,2004,HTI,,,2001 Aristide (FL),HTI-FL
+Haiti,FLP,2006,2008,HTI,,,2006 Preval (FLP),HTI-FLP
+Haiti,FNCD,1991,1996,HTI,,,1991 Aristide (FNCD),HTI-FNCD
+Haiti,MOP,1957,1957,HTI,,,1957 Executive Council (MOP),HTI-MOP
+Haiti,OPL,1994,2001,HTI,,,1996 Preval (OPL),HTI-OPL
+Haiti,PUN,1957,1971,HTI,,,1957 F. Duvalier (PUN),HTI-PUN
+Haiti,RDNP,1988,1988,HTI,,,1988 Manigat (RDNP),HTI-RDNP
+Honduras,PLH,1919,2008,HND,Honduran Liberal Party,,1919 Bogran (PLH),HND-PLH
+Honduras,PNH,1919,2006,HND,Liberal Party,,1925 Paz Barahona (PNH),HND-PNH
+Hungary,F48,1919,1919,HUN,,,,HUN-F48
+Hungary,Fidesz,1998,2002,HUN,,,1998 Orban (Fidesz),HUN-Fidesz
+Hungary,FKGP,1998,2002,HUN,,,,HUN-FKGP
+Hungary,FKPG,1990,1994,HUN,,,,HUN-FKPG
+Hungary,KDNP,1990,1994,HUN,,,,HUN-KDNP
+Hungary,KNEP,1919,1920,HUN,Christian National Union Party,,1919 Friedrich (KNEP),HUN-KNEP
+Hungary,MDF,1990,2002,HUN,Hungarian Democratic Forum,,1990 Antall (MDF),HUN-MDF
+Hungary,MDP,1945,1956,HUN,,,1956 Nagy (MDP),HUN-MDP
+Hungary,MKP,1945,1956,HUN,,,1945 Rakosi (MKP),HUN-MKP
+Hungary,MSzMP,1956,1989,HUN,,,1956 Kadar (MSzMP),HUN-MSzMP
+Hungary,MSzP,1919,2008,HUN,,,1919 Kun (MSzP),HUN-MSzP
+Hungary,MSZP,1989,1990,HUN,,,1989 Szuros (MSZP),HUN-MSZP
+Hungary,NEP,1922,1944,HUN,,,,HUN-NEP
+Hungary,SzDP,1919,1919,HUN,,,1919 Peidl (SzDP),HUN-SzDP
+Hungary,SZDSZ,1994,2008,HUN,,,,HUN-SZDSZ
+India,BJP,1989,1996,IND,,,1996 Vajpayee (BJP),IND-BJP
+India,BJP-NDA,1998,2004,IND,,,,IND-BJP-NDA
+India,Christians,1947,1952,IND,,,,IND-Christians
+India,INC,1947,1977,IND,Indian National Congress,,1947 Nehru (INC),IND-INC
+India,INC-I,1980,1996,IND,,,1980 Gandhi I. (INC-I),IND-INC-I
+India,INC-O,1979,1980,IND,,,,IND-INC-O
+India,INC-UPA,2004,2008,IND,,,2004 Manmohan Singh (INC-UPA),IND-INC-UPA
+India,JD-S,1990,1991,IND,Janata Dal-Shekhar,,1990 Shekhar (JD-S),IND-JD-S
+India,JP,1977,1979,IND,,,1977 Desai (JP),IND-JP
+India,JP-S,1979,1980,IND,,,1979 Charan Singh (JP-S),IND-JP-S
+India,LF,1989,1990,IND,,,,IND-LF
+India,Mhas,1947,1952,IND,,,,IND-Mhas
+India,NF-JD,1989,1990,IND,National Front-Janata Dal,,1989 Pratap Singh (NF-JD),IND-NF-JD
+India,Parsee,1947,1952,IND,,,,IND-Parsee
+India,Sikh,1947,1952,IND,,,,IND-Sikh
+India,UF-DMK,1997,1998,IND,,,1997 Gujral (UF-DMK),IND-UF-DMK
+India,UF-JD,1996,1997,IND,United Front-Janata Dal,,1996 Gowda (UF-JD),IND-UF-JD
+Indonesia,Golkar,1966,1999,IDN,,,1966 Suharto (Golkar),IDN-Golkar
+Indonesia,PD,2004,2008,IDN,Partai Demokrat,,2004 Bambang Yudhoyono (PD),IDN-PD
+Indonesia,PDI-P,2001,2004,IDN,,,2001 Megawati Sukarnoputri (PDI-P),IDN-PDI-P
+Indonesia,PKB,1999,2001,IDN,National Awakening Party,,1999 Wahid (PKB),IDN-PKB
+Indonesia,PNI,1949,1966,IDN,,,1949 Sukarno (PNI),IDN-PNI
+Iran,AII,2005,2008,IRN,,,2005 Ahmadinejad (AII),IRN-AII
+Iran,NF,1951,1953,IRN,,,1951 Mohammad Mossadeg (NF),IRN-NF
+Iraq,Ba'ath,1968,2003,IRQ,,,1979 Saddam Hussein (Ba'ath),IRQ-Ba'ath
+Iraq,IDM,2005,2008,IRQ,Islamic Da’wah Party,,2005 al-Jaafari (IDM),IRQ-IDM
+Iraq,IIA,1963,1968,IRQ,,,1963 Salem Aref (IIA),IRQ-IIA
+Iraq,INA,2004,2005,IRQ,Iraqi National Accord,,2004 Allawi (INA),IRQ-INA
+Iraq,United States,2003,2004,IRQ,,,2003 Franks (United States),IRQ-United States
+Ireland,CG,1922,1932,IRL,pro-Treatyite Cumann na nGaedheal,,,IRL-CG
+Ireland,CNP,1948,1951,IRL,Clann na Poblachta,,,IRL-CNP
+Ireland,CNT,1948,1957,IRL,Clann na Talmhan,,,IRL-CNT
+Ireland,DL,1994,1997,IRL,Democratic Left,,,IRL-DL
+Ireland,FF,1932,2008,IRL,anti-Treatyite Fianna Fáil,,1932 de Valera (FF),IRL-FF
+Ireland,"FF,FF",1989,1989,IRL,,,,"IRL-FF,FF"
+Ireland,FG,1948,1997,IRL,Fine Gael,,1948 Costello (FG),IRL-FG
+Ireland,GP,2008,2008,IRL,Green Party,,,IRL-GP
+Ireland,LAB,1948,1997,IRL,The National Labor Party,,,IRL-LAB
+Ireland,PD,1989,2008,IRL,Progressive Democrats,,,IRL-PD
+Israel,AA,1956,1966,ISR,Ahdut HaAvoda,,,ISR-AA
+Israel,AIS,1992,1992,ISR,Agudat Israel,,,ISR-AIS
+Israel,AY,2006,2006,ISR,Agudat Yisrael,,,ISR-AY
+Israel,CP,1999,2003,ISR,Center Party,,,ISR-CP
+Israel,CRIT,1974,1974,ISR,Movement for Civil Rights and Peace,,,ISR-CRIT
+Israel,DASH,1978,1981,ISR,,,,ISR-DASH
+Israel,DH,2006,2006,ISR,Yahadut Ha’Thorah - Degel Ha’Thora,,,ISR-DH
+Israel,GHAL,1970,1970,ISR,,,,ISR-GHAL
+Israel,GIL,2007,2008,ISR,,,,ISR-GIL
+Israel,GZ,1953,1955,ISR,General Zionists,,,ISR-GZ
+Israel,HDASH,1995,1996,ISR,,,,ISR-HDASH
+Israel,HMIZ,1953,1955,ISR,Mizrachi HaMizrahi,,,ISR-HMIZ
+Israel,HRUT,1968,1969,ISR,Herut,,,ISR-HRUT
+Israel,IL,2001,2008,ISR,Yisrael Beitenu,,,ISR-IL
+Israel,ILIB,1967,1977,ISR,Independent Liberal Party,,,ISR-ILIB
+Israel,KAD,2006,2008,ISR,Kadima,,2006 Olmert (KAD),ISR-KAD
+Israel,LAB,1984,1996,ISR,Israel Labor Party,,1984 Peres (LAB),ISR-LAB
+Israel,LAB-Gesher-Meimad,1999,2000,ISR,,,1999 Barak (LAB-Gesher-Meimad),ISR-LAB-Gesher-Meimad
+Israel,LAB-Meimad,2001,2008,ISR,,,,ISR-LAB-Meimad
+Israel,LIK,1977,2006,ISR,,,1977 Begin (LIK),ISR-LIK
+Israel,MAPAI,1951,1961,ISR,,,,ISR-MAPAI
+Israel,MIZR,1953,1955,ISR,,,,ISR-MIZR
+Israel,MMPAI-ALNM,1969,1969,ISR,,,,ISR-MMPAI-ALNM
+Israel,MPAI,1948,1966,ISR,,,1948 Ben Gurion (MPAI),ISR-MPAI
+Israel,MPAI-ALNM,1967,1973,ISR,AA into Alignment,,1969 Allon (MPAI-ALNM),ISR-MPAI-ALNM
+Israel,MPAI-LAB,1974,1977,ISR,,,1974 Rabin (MPAI-LAB),ISR-MPAI-LAB
+Israel,MPAM,1956,1969,ISR,,,,ISR-MPAM
+Israel,MRET,1993,2000,ISR,,,,ISR-MRET
+Israel,MSHA,1984,1988,ISR,Morasha,,,ISR-MSHA
+Israel,NRP,1956,2004,ISR,National Religious Party,,,ISR-NRP
+Israel,NRP(Shamir),1992,1992,ISR,,,,ISR-NRP(Shamir)
+Israel,OMET,1984,1988,ISR,Ometz,,,ISR-OMET
+Israel,One,2001,2002,ISR,,,,ISR-One
+Israel,PROG,1948,1961,ISR,,,,ISR-PROG
+Israel,RAFI,1968,1969,ISR,,,,ISR-RAFI
+Israel,SEPH,1948,1951,ISR,,,,ISR-SEPH
+Israel,Shas,2001,2003,ISR,,,,ISR-Shas
+Israel,SHAS,1984,2008,ISR,,,,ISR-SHAS
+Israel,SNUI,1984,2004,ISR,Shinui,,,ISR-SNUI
+Israel,TAMI,1982,1984,ISR,,,,ISR-TAMI
+Israel,THYA,1983,1992,ISR,,,,ISR-THYA
+Israel,TW,1996,1999,ISR,,,,ISR-TW
+Israel,TZOM,1991,1991,ISR,,,,ISR-TZOM
+Israel,URF,1948,1952,ISR,United Religious Front,,,ISR-URF
+Israel,UTJ,1996,2002,ISR,Yahadut Ha’Thorah,,,ISR-UTJ
+Israel,YB,1996,2003,ISR,Yisrael BaAliyah,,,ISR-YB
+Israel,YIUD,1995,1996,ISR,,,,ISR-YIUD
+Italy,AN,1994,2008,ITA,,,,ITA-AN
+Italy,AP,1945,1946,ITA,Action Party,,1945 Parri (AP),ITA-AP
+Italy,CCD-CDU,2001,2005,ITA,,,,ITA-CCD-CDU
+Italy,Daisy,2006,2008,ITA,,,,ITA-Daisy
+Italy,DC,1945,1994,ITA,"Action Party, the Christian Democratic Party",,1945 de Gasperi (DC),ITA-DC
+Italy,DCpA,2008,2008,ITA,Democracy for the Autonomies,,,ITA-DCpA
+Italy,DEM,2000,2001,ITA,Democrats,,,ITA-DEM
+Italy,Des,1919,1919,ITA,,,,ITA-Des
+Italy,DS,2000,2008,ITA,,,,ITA-DS
+Italy,FI,1994,2008,ITA,Forza Italia,,1994 Berlusconi (FI),ITA-FI
+Italy,Greens,1996,2008,ITA,,,,ITA-Greens
+Italy,IdV,2006,2008,ITA,,,,ITA-IdV
+Italy,IND,1998,2008,ITA,,,,ITA-IND
+Italy,LN,1994,2008,ITA,,,,ITA-LN
+Italy,LVERDE,1993,1993,ITA,Lega Verde,,,ITA-LVERDE
+Italy,OT,2006,2008,ITA,,,2006 Prodi (OT),ITA-OT
+Italy,PCDI,2000,2001,ITA,,,,ITA-PCDI
+Italy,PCI,1945,1947,ITA,Communist Party,,,ITA-PCI
+Italy,PDCI,1998,2000,ITA,Italian Communists,,,ITA-PDCI
+Italy,PDL,1945,1946,ITA,Democratic Labour,,,ITA-PDL
+Italy,PDS,1993,1998,ITA,Democratic Left,,,ITA-PDS
+Italy,PDS-DS,1998,1999,ITA,,,1998 D'Alema (PDS-DS),ITA-PDS-DS
+Italy,PL,1920,1922,ITA,Liberal Party,,1920 Giolitti (PL),ITA-PL
+Italy,PLI,1945,1994,ITA,Liberal Party,,,ITA-PLI
+Italy,PNF,1922,1943,ITA,,,1922 Mussolini (PNF),ITA-PNF
+Italy,PPI,1996,2001,ITA,,,1996 Prodi (PPI),ITA-PPI
+Italy,PRI,1947,2006,ITA,DC/PCI/PSI/PLI/Republican Party,,1981 Spadolini (PRI),ITA-PRI
+Italy,PSDI,1948,1993,ITA,,,,ITA-PSDI
+Italy,PSI,1945,2006,ITA,Socialist Party,,1983 Craxi (PSI),ITA-PSI
+Italy,PSI+PSU,1970,1972,ITA,,,,ITA-PSI+PSU
+Italy,PSIU,1947,1947,ITA,,,,ITA-PSIU
+Italy,PSRI,1921,1922,ITA,Italian Social Reform Party,,1921 Bonomi (PSRI),ITA-PSRI
+Italy,Rad,1919,1920,ITA,Radical Party,,1919 Nitti (Rad),ITA-Rad
+Italy,RC,2006,2008,ITA,Communist Refoundation,,,ITA-RC
+Italy,RI,1996,2001,ITA,Italian Renewal,,,ITA-RI
+Italy,Rose,2006,2008,ITA,,,,ITA-Rose
+Italy,SDI,1998,2001,ITA,"RI, Italian Democratic Socialists",,,ITA-SDI
+Italy,UD,1996,1998,ITA,Democratic Union,,,ITA-UD
+Italy,UDC,2006,2006,ITA,,,,ITA-UDC
+Italy,UDEUR,2000,2008,ITA,,,,ITA-UDEUR
+Italy,UDR,1998,1999,ITA,"PPI, Union of Republican Democrats",,,ITA-UDR
+Ivory Coast,FPI,2000,2008,CIV,Front Populaire Ivorien,,2000 Gbagbo (FPI),CIV-FPI
+Ivory Coast,PDCI,1960,1999,CIV,Parti Démocratique de Côte d'Ivoire-Rassemblement Démocratique Africain,,1960 Houphouet-Boigny (PDCI),CIV-PDCI
+Jamaica,JLP,1962,2008,JAM,Jamaican Labor Party,,1962 Bustamante (JLP),JAM-JLP
+Jamaica,PNP,1972,2007,JAM,People´s National Party,,1972 Manley (PNP),JAM-PNP
+Japan,CD,1929,1931,JPN,,,1929 Hamaguchi (CD),JPN-CD
+Japan,Con,1924,1927,JPN,,,1924 Takaaki Kato (Con),JPN-Con
+Japan,DP,1954,1954,JPN,Democratic Party,,,JPN-DP
+Japan,DSP,1993,1994,JPN,,,,JPN-DSP
+Japan,FC,1919,1932,JPN,,,1921 Takahashi K. (FC),JPN-FC
+Japan,IRAA,1940,1941,JPN,,,1940 Konoe F. (IRAA),JPN-IRAA
+Japan,JD,1955,1955,JPN,,,,JPN-JD
+Japan,JNP,1993,1994,JPN,Japan New Party,,1993 Hosokawa (JNP),JPN-JNP
+Japan,KAIS,1994,1994,JPN,Renewal Party,,1994 Hata (KAIS),JPN-KAIS
+Japan,KOME,1993,1994,JPN,,,,JPN-KOME
+Japan,Komei,2004,2008,JPN,,,,JPN-Komei
+Japan,Komeito,2000,2003,JPN,,,,JPN-Komeito
+Japan,LDP,1956,2008,JPN,,,1956 Ishibashi (LDP),JPN-LDP
+Japan,LP,1952,2000,JPN,Liberal Party,,1952 Yoshida (LP),JPN-LP
+Japan,NCP,2000,2003,JPN,,,,JPN-NCP
+Japan,NLC,1984,1986,JPN,,,,JPN-NLC
+Japan,SAKI,1993,1996,JPN,Sakigaki,,,JPN-SAKI
+Japan,SDP,1993,1994,JPN,,,,JPN-SDP
+Japan,SDPJ,1994,1996,JPN,,,1994 Murayama (SDPJ),JPN-SDPJ
+Japan,SHAM,1993,1994,JPN,,,,JPN-SHAM
+Japan,SHIN,1993,1994,JPN,,,,JPN-SHIN
+Kazakhstan,Nur-Otan,2006,2008,KAZ,,,,KAZ-Nur-Otan
+Kazakhstan,OTAN,2000,2005,KAZ,“Fatherland” Party,,,KAZ-OTAN
+Kazakhstan,PUKU,1996,1999,KAZ,People’s Union of Kazakhstan Unity,,,KAZ-PUKU
+Kenya,DP,2002,2007,KEN,Democratic Party,,2002 Kibaki (DP),KEN-DP
+Kenya,KANU,1963,2002,KEN,Kenya African National Union,,1963 Kenyatta (KANU),KEN-KANU
+Kenya,NRC,2002,2007,KEN,National Rainbow Coalition,,,KEN-NRC
+Kenya,PNU,2008,2008,KEN,Party of National Unity,,,KEN-PNU
+Kosovo,PDK,2008,2008,XKX,,,,XKX-PDK
+Kuwait,Iraq,1990,1991,KWT,,,1990 Saddam Hussein (Iraq),KWT-Iraq
+Kyrgyzstan,AZ,2008,2008,KGZ,,,,KGZ-AZ
+Kyrgyzstan,KEK,2005,2007,KGZ,People’s Movement of Kyrgyzstan,,2005 Bakiyev (KEK),KGZ-KEK
+Laos,CDNI,1959,1960,LAO,Committee for the Defence of National Interests,,1959 Nosavan Phoumi (CDNI),LAO-CDNI
+Laos,LPF,1958,1958,LAO,Lao Patriotic Front,,,LAO-LPF
+Laos,NLPK,1960,1975,LAO,,,1960 Souvanna Phouma (NLPK),LAO-NLPK
+Laos,NPP,1953,1958,LAO,National Progressive Party,,1954 Katay Don Sasorith (NPP),LAO-NPP
+Laos,PPPL,1975,2008,LAO,,,1975 Phomivan (PPPL),LAO-PPPL
+Laos,RLP,1958,1959,LAO,Lao People's Rally,,1958 Sananikone (RLP),LAO-RLP
+Latvia,ALSMSP-LS,1926,1928,LVA,United Latvian Social-Democratic Menshevik Workers’ Party,,1926 Skujenieks (ALSMSP-LS),LVA-ALSMSP-LS
+Latvia,DC,1924,1928,LVA,Democratic Center Party,,1924 Zamuels (DC),LVA-DC
+Latvia,DPS,1995,1998,LVA,Democratic Party Saimnieks,,,LVA-DPS
+Latvia,JL,2000,2006,LVA,New Party,,2002 Repse (JL),LVA-JL
+Latvia,JP,1998,1999,LVA,New Party,,,LVA-JP
+Latvia,JSP,1933,1934,LVA,New Farmers and Small Landowners’ Party,,1933 Blodnieks (JSP),LVA-JSP
+Latvia,LC,1993,2002,LVA,Union Latvia’s Way,,1993 Birkavs (LC),LVA-LC
+Latvia,LKDS,1997,1998,LVA,,,,LVA-LKDS
+Latvia,LLP,2002,2004,LVA,,,,LVA-LLP
+Latvia,LNNK-ZP,1995,1997,LVA,,,,LVA-LNNK-ZP
+Latvia,LPP,2004,2006,LVA,Latvia First Party,,,LVA-LPP
+Latvia,LPP-LC,2007,2008,LVA,,,2007 Godmanis (LPP-LC),LVA-LPP-LC
+Latvia,LTF,1991,1993,LVA,Latvian People’s Front,,,LVA-LTF
+Latvia,LV,1995,1997,LVA,,,,LVA-LV
+Latvia,LZP,1919,1919,LVA,Latvian Green Party,,1919 Niedra (LZP),LVA-LZP
+Latvia,LZS,1919,1998,LVA,Ulmanis,,1919 Ulmanis (LZS),LVA-LZS
+Latvia,LZS-LKDS-LLDP,1995,1997,LVA,,,,LVA-LZS-LKDS-LLDP
+Latvia,PA,1931,1933,LVA,Progressive Union,,1931 Skujenieks (PA),LVA-PA
+Latvia,SD,1999,1999,LVA,Social Democrats,,,LVA-SD
+Latvia,TB,1995,1997,LVA,Fatherland and Freedom,,,LVA-TB
+Latvia,TB-LNNK,1997,2008,LVA,,,1997 Krasts (TB-LNNK),LVA-TB-LNNK
+Latvia,TP,2000,2008,LVA,People’s Party,,1999 Skele (TP),LVA-TP
+Latvia,TPA,1994,1995,LVA,Political Union of Economists,,,LVA-TPA
+Latvia,ZZS,2002,2008,LVA,Union of Greens and Farmers,,2004 Emsis (ZZS),LVA-ZZS
+Lebanon,DP,1946,1952,LBN,Destour Party / Constitutional Bloc,al-Kutla al-Dusturiyya,,LBN-DP
+Lebanon,FM,2007,2008,LBN,,,2007 Siniora (FM),LBN-FM
+Lebanon,KPL,1964,1988,LBN,Lebanese Phalanges Party,,1964 Helou (KPL),LBN-KPL
+Lebanon,LF,1970,1976,LBN,Lebanese Front,,1970 Franjieh (LF),LBN-LF
+Lebanon,SNF,1952,1958,LBN,Constitutional Bloc,,1952 Chamoun (SNF),LBN-SNF
+Lesotho,BCP,1993,1997,LSO,Basotho Congress Party,,1993 Mokhehle (BCP),LSO-BCP
+Lesotho,BNP,1966,1986,LSO,Basotho National Party,,1966 Jonathan (BNP),LSO-BNP
+Lesotho,LCD,1998,2008,LSO,,,1998 Mosisili (LCD),LSO-LCD
+Liberia,LAP,2003,2006,LBR,Liberian Action Party,,2003 Bryant (LAP),LBR-LAP
+Liberia,LPP,1990,1994,LBR,Liberian People's Party,,1990 Sawyer (LPP),LBR-LPP
+Liberia,NDP,1985,1997,LBR,“Mil” to National Democratic Party of Liberia,,1996 Perry (NDP),LBR-NDP
+Liberia,NPP,1997,2003,LBR,National Patriotic Party,,1997 Taylor (NPP),LBR-NPP
+Liberia,TWP,1920,1980,LBR,True Whig Party,,1930 Barclay (TWP),LBR-TWP
+Liberia,UP,2006,2008,LBR,United Party,,2006 Johnson-Sirleaf (UP),LBR-UP
+Lithuania,LDDP,1992,1998,LTU,Democratic Labor Party of Lithuania,,1992 Brazauskas (LDDP),LTU-LDDP
+Lithuania,LKDP,1920,1926,LTU,Christian Democrats,,1920 Stulginskis (LKDP),LTU-LKDP
+Lithuania,LLP,2003,2004,LTU,Lithuanian Liberal-Democratic Party,,2003 Paksas (LLP),LTU-LLP
+Lithuania,LTS,1926,1940,LTU,Lithuanian Nationalist Union,,1926 Smetona (LTS),LTU-LTS
+Lithuania,LVLS,1926,1926,LTU,,,1926 Grinius (LVLS),LTU-LVLS
+Lithuania,NS,2004,2004,LTU,,,2004 Paulauskas (NS),LTU-NS
+Lithuania,Sajudis,1991,1992,LTU,,,,LTU-Sajudis
+Macedonia,DPA,2002,2002,MKD,Democratic Party of Albanians,,,MKD-DPA
+Macedonia,DA,1998,2000,MKD,Democratic Alternative,,,MKD-DA
+Macedonia,LDP,2001,2001,MKD,The Liberal Party,,,MKD-LDP
+Macedonia,LP,1993,1996,MKD,,,,MKD-LP
+Macedonia,NSDP,2006,2008,MKD,,,,MKD-NSDP
+Macedonia,PDP,1993,2002,MKD,Party for Democratic Prosperity,,,MKD-PDP
+Macedonia,SDSM,1993,1998,MKD,Social Democratic Party of Macedonia,,,MKD-SDSM
+Macedonia,SPM,1993,1998,MKD,,,,MKD-SPM
+Macedonia,VMRO,1998,2002,MKD,,,1998 Georgievski (VMRO),MKD-VMRO
+Macedonia,VMRO-DPMNE,2006,2008,MKD,Democratic Party for Macedonia,,2006 Gruevski (VMRO-DPMNE),MKD-VMRO-DPMNE
+Macedonia,ZMZ,2002,2006,MKD,Together for Macedonia,,2002 Crvenkovski (ZMZ),MKD-ZMZ
+Madagascar,AREMA,1975,2002,MDG,,,1997 Ratsiraka (AREMA),MDG-AREMA
+Madagascar,AVI,1996,1997,MDG,Asa Vita no Ifampitsarana,,1996 Ratsirahonana (AVI),MDG-AVI
+Madagascar,FNDR,1975,1993,MDG,,,1975 Ratsiraka (FNDR),MDG-FNDR
+Madagascar,PSD,1960,1972,MDG,Parti Social Démocratique du Madagascar,,1960 Tsiranana (PSD),MDG-PSD
+Madagascar,TIM,2002,2008,MDG,Tiako i Madagasikara,,2002 Ravalomanana (TIM),MDG-TIM
+Madagascar,UNDD,1993,1996,MDG,Démocratie,,1993 Zafy (UNDD),MDG-UNDD
+Malawi,DPP,2006,2008,MWI,Democratic Progressive Party,,,MWI-DPP
+Malawi,MCP,1964,1994,MWI,Malawi Congress Party,,1964 Banda (MCP),MWI-MCP
+Malawi,UDF,1994,2005,MWI,United Democratic Front,,1994 Muluzi (UDF),MWI-UDF
+Malaysia,UMNO,1957,2008,MYS,United Malays National Organisation,,1957 Rahman (UMNO),MYS-UMNO
+Mali,ADM,1992,2002,MLI,,,1992 Konare (ADM),MLI-ADM
+Mali,CCD,2002,2008,MLI,Coalition for Change and Democracy,,2002 Toure (CCD),MLI-CCD
+Mali,UDPM,1977,1991,MLI,,,,MLI-UDPM
+Mali,US-RDA,1960,1968,MLI,Union Soudanais/Rassemblement Démocratique Africain,,1960 Keita (US-RDA),MLI-US-RDA
+Mauritania,PPM,1962,1978,MRT,,,,MRT-PPM
+Mauritania,PRDS,1993,2005,MRT,Parti Républicain Démocratique et Social,,,MRT-PRDS
+Mauritania,PRM,1960,1961,MRT,Parti Rassemblement Mauritian,,,MRT-PRM
+Mauritius,PTr,1990,1990,MUS,,,1995 N. Ramgoolam (PTr),MUS-PTr
+Mauritius,MMM,1982,2005,MUS,Mouvement Militant Mauricien,,1982 Jugnauth (MMM),MUS-MMM
+Mauritius,MMSM,2005,2008,MUS,Mouvement Militant Socialiste Mauricien,,,MUS-MMSM
+Mauritius,MR,2005,2008,MUS,,,,MUS-MR
+Mauritius,MSM,1984,2005,MUS,Mouvement Socialiste Militant,,2000 Jugnauth (MSM),MUS-MSM
+Mauritius,MTD,1992,1995,MUS,Mouvement des Travaillistes Democrates,,,MUS-MTD
+Mauritius,OPR,1988,2000,MUS,Rodriguan People’s Organisation,,,MUS-OPR
+Mauritius,PMDS(Jugnauth),1995,1995,MUS,,,,MUS-PMDS(Jugnauth)
+Mauritius,PMSD,1977,1988,MUS,,,,MUS-PMSD
+Mauritius,PMXD,2000,2008,MUS,Parti Mauricien Xavier Duval,,,MUS-PMXD
+Mauritius,PSM,1982,1983,MUS,Parti Socialiste Mauricien,,,MUS-PSM
+Mauritius,PTR,1984,1984,MUS,Mauritian Labour Party,,,MUS-PTR
+Mauritius,RMM,1994,1995,MUS,Mauritanian Millitant Renaisance,,,MUS-RMM
+Mauritius,RTM,1985,1987,MUS,Mauritanian Labour Rally,,,MUS-RTM
+Mauritius,Verts,2005,2008,MUS,"Mouvement Republicain, and Les Verts",,,MUS-Verts
+Mexico,L-Mod,1919,1920,MEX,Liberal Moderate,,,MEX-L-Mod
+Mexico,PAN,2000,2008,MEX,,,2000 Fox (PAN),MEX-PAN
+Mexico,PLC,1920,1924,MEX,,,1920 Obregon (PLC),MEX-PLC
+Mexico,PNA,1920,1920,MEX,,,1920 de la Huerta (PNA),MEX-PNA
+Mexico,PNR,1924,1938,MEX,National Revolutionary Party,,1924 Calles (PNR),MEX-PNR
+Mexico,PRI,1946,2000,MEX,Institutional Revolutionary Party,,1946 Aleman Valdes (PRI),MEX-PRI
+Mexico,PRM,1939,1946,MEX,Party of the Mexican Revolution,,1940 Avila Camacho (PRM),MEX-PRM
+Moldova,ADP,1994,1995,MDA,Agrarian Democratic Party,,,MDA-ADP
+Moldova,PCRM,2001,2008,MDA,,,2001 Tarlev (PCRM),MDA-PCRM
+Moldova,PRH,1996,1997,MDA,Party of Revival and Harmony,,,MDA-PRH
+Mongolia,MAKN,1921,2008,MNG,,,1921 Dogsomyn Bodo (MAKN),MNG-MAKN
+Mongolia,MUAN,1994,1997,MNG,,,,MNG-MUAN
+Montenegro,DPSC,2006,2008,MNE,Democratic Party of Socialists of Montenegro,,2006 Sturanovic (DPSC),MNE-DPSC
+Montenegro,PSC,2006,2006,MNE,Democratic Party of Socialists of Montenegro,,,MNE-PSC
+Montenegro,SDP,2006,2008,MNE,Social Democratic Party,,,MNE-SDP
+Mozambique,FRELIMO,1975,2008,MOZ,Frente da Libertação de Moçambique,,1975 Machel (FRELIMO),MOZ-FRELIMO
+Myanmar,AFPFL,1948,1958,MMR,Anti-Fascist People’s Freedom League,,1948 U Nu (AFPFL),MMR-AFPFL
+Myanmar,PSPB,1962,1988,MMR,,,1988 Maung Maung (PSPB),MMR-PSPB
+Myanmar,UnP,1960,1962,MMR,,,1960 U Nu (UnP),MMR-UnP
+Namibia,SWAPO,1990,2008,NAM,South West African People's Organization,,1990 Nujoma (SWAPO),NAM-SWAPO
+Nepal,CPN-M,2008,2008,NPL,Communist Party of NepalMaoist,,2008 Prachanda (CPN-M),NPL-CPN-M
+Nepal,CPN-UML,1994,1995,NPL,Communist Party of Nepal-United Marxist Leninist,,1994 Man Mohan Adhilari (CPN-UML),NPL-CPN-UML
+Nepal,NCP,1990,2008,NPL,Nepali Congress Party,,1990 Krishna Prasad Bhatterai (NCP),NPL-NCP
+Nepal,NSP,1995,1999,NPL,Nepali Sadbhavana Party,,,NPL-NSP
+Nepal,NWPP,1997,1997,NPL,Nepal Workers’ and Peasants’ Party,,,NPL-NWPP
+Nepal,RPP,1995,1998,NPL,Rashtriya Prajatantra Party,,1997 Lokendra Bahadur Chand (RPP),NPL-RPP
+Nepal,UML,1997,1999,NPL,,,,NPL-UML
+Netherlands,AB,1919,1926,NLD,Algemeene Bond van RK-kiesvereenigingen,,,NLD-AB
+Netherlands,ARP,1919,1977,NLD,Protestant Christian democrat “Anti-Revolutionary Party”,,1925 Colijn (ARP),NLD-ARP
+Netherlands,CDA,1977,2008,NLD,Christian-Democratic Appeal,,1977 van Agt (CDA),NLD-CDA
+Netherlands,CHU,1919,2008,NLD,Dutch Reformed Christian democrat “Christian Historic Union”,,1926 de Geer (CHU),NLD-CHU
+Netherlands,D'66,2004,2006,NLD,,,,NLD-D'66
+Netherlands,D66,1973,2002,NLD,,,,NLD-D66
+Netherlands,DS70,1971,1972,NLD,,,,NLD-DS70
+Netherlands,KVP,1945,1977,NLD,Catholic People’s Party,,1946 Beel (KVP),NLD-KVP
+Netherlands,LPF,2002,2003,NLD,Pim Fortuyn List,,,NLD-LPF
+Netherlands,PPR,1973,1977,NLD,Political Party of Radicals,,,NLD-PPR
+Netherlands,PvdA,1945,2008,NLD,,,1948 Drees (PvdA),NLD-PvdA
+Netherlands,RKSP,1926,1940,NLD,,,1929 de Beerenbrouck (RKSP),NLD-RKSP
+Netherlands,SDAP,1940,1940,NLD,Social Democratic Labor Party,,,NLD-SDAP
+Netherlands,VB,1933,1937,NLD,Liberal Union,Vrijheidsbond,,NLD-VB
+Netherlands,VDB,1933,1946,NLD,Democratic Union,Vrijzinnig Democratische Bond,1945 Schermerhorn (VDB),NLD-VDB
+Netherlands,VVD,1948,2007,NLD,People’s Party for Freedom and Democracy,,,NLD-VVD
+New Zealand,All,1999,2002,NZL,,,,NZL-All
+New Zealand,Lab,1935,2008,NZL,,,1935 Savage (Lab),NZL-Lab
+New Zealand,Nat,2008,2008,NZL,,,2008 Key (Nat),NZL-Nat
+New Zealand,NP,1949,1999,NZL,National Party,,1949 Holland (NP),NZL-NP
+New Zealand,NZF,1997,1998,NZL,New Zealand First,,,NZL-NZF
+New Zealand,PP,2003,2008,NZL,,,,NZL-PP
+New Zealand,Ref,1920,1935,NZL,,,1925 Bell (Ref),NZL-Ref
+New Zealand,Uni,1928,1935,NZL,,,1928 Ward (Uni),NZL-Uni
+Nicaragua,APRE,2005,2007,NIC,,,,NIC-APRE
+Nicaragua,FSLN,1979,2008,NIC,,Frente Sandinista de Liberación Nacional,1979 Ortega (FSLN),NIC-FSLN
+Nicaragua,PC,1919,1929,NIC,Conservative Party,,1923 Martinez Gonzalez (PC),NIC-PC
+Nicaragua,PL,1929,1936,NIC,Liberal Party,,1929 Moncada (PL),NIC-PL
+Nicaragua,PLC,1997,2004,NIC,,,1997 Aleman (PLC),NIC-PLC
+Nicaragua,PLN,1936,1979,NIC,Liberal Nationalist Party,,1947 Arguello (PLN),NIC-PLN
+Nicaragua,PN,1921,1923,NIC,National Party,,1921 Chamorro Bolanos (PN),NIC-PN
+Nicaragua,UNO,1990,1997,NIC,,Unión Nacional Opositora,1990 V. Chamorro (UNO),NIC-UNO
+Niger,CDS,1993,1996,NER,,,1993 Ousmane (CDS),NER-CDS
+Niger,MNSD,1990,2008,NER,,,1999 Mamadou Tandja (MNSD),NER-MNSD
+Niger,PPN,1960,1974,NER,Parti Progressista Nigeriano,,1960 Diori (PPN),NER-PPN
+Nigeria,NCNC,1960,1966,NGA,Cameroons,,,NGA-NCNC
+Nigeria,NNDP,1965,1966,NGA,,,,NGA-NNDP
+Nigeria,NPC,1960,1966,NGA,Northern People's Congress,,1960 Balewa (NPC),NGA-NPC
+Nigeria,NPN,1979,1983,NGA,National Party of Nigeria,,1979 Shagari (NPN),NGA-NPN
+Nigeria,PDP,1999,2008,NGA,People's Democratic Party,,1999 Obasanjo (PDP),NGA-PDP
+North Korea,CND,1948,2008,PRK,,,1948 Kim Il Sung (CND),PRK-CND
+Norway,AP,1945,2008,NOR,Norwegian Labor Party,,1945 Nygaardsvold (AP),NOR-AP
+Norway,Bp,1931,1933,NOR,,,1931 Kolstad (Bp),NOR-Bp
+Norway,CON,1963,2005,NOR,,,1963 Lyng (CON),NOR-CON
+Norway,CP,1963,2008,NOR,Centre Party,,1965 Borten (CP),NOR-CP
+Norway,CPP,1963,2005,NOR,Christian People’s Party,,1972 Korvald (CPP),NOR-CPP
+Norway,DNA,1928,1940,NOR,Labour Party,Norske Arbeiderparti,1928 Hornsrud (DNA),NOR-DNA
+Norway,FV,1920,1928,NOR,Liberal Left,Frisinnede Venstre,1923 Berge (FV),NOR-FV
+Norway,H,1920,1928,NOR,Conservative,Høyre,1920 Halvorsen (H),NOR-H
+Norway,LIB,1963,2005,NOR,Liberal Party,,,NOR-LIB
+Norway,NS,1940,1945,NOR,National Unity,,1940 Quisling (NS),NOR-NS
+Norway,SV,2005,2008,NOR,Socialist Left,,,NOR-SV
+Norway,V,1919,1935,NOR,Liberal Party,Venstre,1921 Blehr (V),NOR-V
+Pakistan,AL,1956,1957,PAK,East Pakistani (Bangladeshi) Awami League,,1956 Shahid Suhrawardy (AL),PAK-AL
+Pakistan,ANP,1993,1996,PAK,Awami National Party,,,PAK-ANP
+Pakistan,Diss-krisScram,1957,1958,PAK,,,,PAK-Diss-krisScram
+Pakistan,IJI,1990,1990,PAK,Islami Jamhooria Ittehad,,1990 Jatoi (IJI),PAK-IJI
+Pakistan,KrisSram,1957,1957,PAK,,,,PAK-KrisSram
+Pakistan,ML,1947,1957,PAK,Muslim League,,1947 Jinnah (ML),PAK-ML
+Pakistan,MQM,1988,1990,PAK,Muttahida Quami Movement,,,PAK-MQM
+Pakistan,N-i-Islam,1957,1957,PAK,,,,PAK-N-i-Islam
+Pakistan,PML-J,1993,1996,PAK,Pakistan Muslim League Junejo,,,PAK-PML-J
+Pakistan,PML-N,1991,1999,PAK,,,1990 Sharif (PML-N),PAK-PML-N
+Pakistan,PML-Q,2008,2008,PAK,Pakistani Muslim League-Quaid-e-Azam,,2008 Soomro (PML-Q),PAK-PML-Q
+Pakistan,PPP,1971,2008,PAK,Pakistan People’s Party,,1971 Bhutto (PPP),PAK-PPP
+Pakistan,RP,1956,1958,PAK,Republican Party,,1957 Khan Noon (RP),PAK-RP
+Pakistan,UF,1955,1956,PAK,United Front,,,PAK-UF
+Panama,AC,1931,1931,PAN,Acción Comunal,,1931 H. Arias (AC),PAN-AC
+Panama,CNP,1952,1960,PAN,Guardia,,1952 Remon Cantera (CNP),PAN-CNP
+Panama,PA,1990,2004,PAN,Arnulfista Party,,1999 Moscoso (PA),PAN-PA
+Panama,PL,1919,1949,PAN,Liberal Party,,1920 Lefevre (PL),PAN-PL
+Panama,PLD,1932,1936,PAN,,,1932 H. Arias (PLD),PAN-PLD
+Panama,PLN,1949,1968,PAN,Roberto Chiari,,1949 Chiari Remon (PLN),PAN-PLN
+Panama,PNR,1936,1941,PAN,National Revolutionary Party,,1936 Juan Arosemena (PNR),PAN-PNR
+Panama,PP,1968,1968,PAN,,,1968 Arias A. (PP),PAN-PP
+Panama,PPA,1990,1994,PAN,,,1990 Endara Galimany (PPA),PAN-PPA
+Panama,PRA,1949,1952,PAN,and Arias A,,1949 A. Arias (PRA),PAN-PRA
+Panama,PRD,1978,2008,PAN,,,1994 Balladares (PRD),PAN-PRD
+Papua New Guinea,NAP,2002,2008,PNG,National Alliance Party,,2002 Somare (NAP),PNG-NAP
+Papua New Guinea,PDM,1985,2002,PNG,People’s Democratic Movement,,1985 Wingti (PDM),PNG-PDM
+Papua New Guinea,PGU,1975,1992,PNG,Pangu or Papua New Guinea Union Party,,1975 Somare (PGU),PNG-PGU
+Papua New Guinea,PNC,1997,1999,PNG,People’s National Congress,,1997 Skate (PNC),PNG-PNC
+Papua New Guinea,PPP,1980,1997,PNG,People’s Progress Party,,1980 Chan (PPP),PNG-PPP
+Paraguay,ANR-PC,1948,2008,PRY,,,1948 Gonzalez Paredes (ANR-PC),PRY-ANR-PC
+Paraguay,APC,2008,2008,PRY,Patriotic Alliance for Change,Alianza Patriótica por el Cambio,,PRY-APC
+Paraguay,PDC,2008,2008,PRY,,,2008 Lugo Mendez (PDC),PRY-PDC
+Paraguay,PL,1919,1940,PRY,Liberal Party,,1919 Montero (PL),PRY-PL
+Paraguay,PRF,1936,1937,PRY,February Republican Party,,1936 R. Franco (PRF),PRY-PRF
+Peru,AP,1963,2001,PER,,,1963 Belaunde (AP),PER-AP
+Peru,APRA,1985,2008,PER,,,1985 Garcia Perez (APRA),PER-APRA
+Peru,CC,1939,1945,PER,Conservative Coalition,,1939 Prado y Ugarteche (CC),PER-CC
+Peru,FDN,1945,1948,PER,,,1945 Bustamante (FDN),PER-FDN
+Peru,MDP,1956,1962,PER,Pradista Democratic Movement/Peruvian Democratic Movement,,1956 Prado y Ugarteche (MDP),PER-MDP
+Peru,NM-C'90,1990,2000,PER,,,1990 Fujimori (NM-C'90),PER-NM-C'90
+Peru,PC,1919,1919,PER,Civilista Party,,,PER-PC
+Peru,PDR,1919,1930,PER,Democratic Reformist Party,,1919 Leguia (PDR),PER-PDR
+Peru,PP,2001,2006,PER,,,2001 Toledo (PP),PER-PP
+Peru,PR,1950,1956,PER,,Partido Restaurador del Perú,,PER-PR
+Peru,UR,1931,1933,PER,Revolutionary Union,,1931 Sanchez Cerro (UR),PER-UR
+Philippines,KBL,1978,1986,PHL,,,,PHL-KBL
+Philippines,LEN-NUCD,1992,1998,PHL,,,1992 Ramos (LEN-NUCD),PHL-LEN-NUCD
+Philippines,LEN-UCD-UMDP,2001,2008,PHL,,,2001 Gloria Macapagal-Arroyo (LEN-UCD-UMDP),PHL-LEN-UCD-UMDP
+Philippines,LMP,1998,2001,PHL,,,1998 Estrada (LMP),PHL-LMP
+Philippines,PL,1946,1965,PHL,Liberal Party,,1946 Roxas (PL),PHL-PL
+Philippines,PN,1953,1977,PHL,Nationalist Party,,1953 Magsaysay (PN),PHL-PN
+Philippines,UNIDO,1986,1992,PHL,,,1986 Aquino (UNIDO),PHL-UNIDO
+Poland,PiS,2005,2008,POL,,,2005 Kaczynski (PiS),POL-PiS
+Poland,PPR,1945,1947,POL,Polish Workers’ Party,,,POL-PPR
+Poland,PZPR,1948,1990,POL,Polish United Workers’ Party,,1956 Ochab (PZPR),POL-PZPR
+Poland,SdRP,1995,1999,POL,Democratic Left Alliance,,,POL-SdRP
+Poland,SLD,2000,2005,POL,Alliance of Democratic Left,,,POL-SLD
+Poland,Soldr,1990,1995,POL,,,1990 Walesa (Soldr),POL-Soldr
+Portugal,MFA,1974,1976,PRT,Movimento das Forgas Armadas,,,PRT-MFA
+Portugal,PD,1923,1926,PRT,Democratic Party,,1923 Gomes (PD),PRT-PD
+Portugal,PRD,1976,1986,PRT,Party of Democratic Renovation,,1976 Eanes (PRD),PRT-PRD
+Portugal,PRE,1919,1923,PRT,Republican Evolutionist Party,,1919 Almeida (PRE),PRT-PRE
+Portugal,PS,1986,2006,PRT,Socialist Party,,1986 Soares (PS),PRT-PS
+Portugal,PSD,2006,2008,PRT,Social Democrat Party,,2006 Silva (PSD),PRT-PSD
+Portugal,UN,1931,1974,PRT,União Republicana,,1932 Salazar (UN),PRT-UN
+Republic of Vietnam,CL+NRM,1954,1963,VNR,,,1954 Ngo Dinh Diem (CL+NRM),VNR-CL+NRM
+Republic of Vietnam,DVP,1954,1954,VNR,,,1954 Quat (DVP),VNR-DVP
+Romania,ADP,1991,1992,ROU,Agrarian Democratic Party,,,ROU-ADP
+Romania,CDR,1997,2000,ROU,Democratic Convention of Romania,,1996 Ciorbea (CDR),ROU-CDR
+Romania,FSN,1989,1992,ROU,National Front Salvation,,1989 Roman (FSN),ROU-FSN
+Romania,FSND,1992,1994,ROU,Iliuescu’s Democratic National Salvation Front,,,ROU-FSND
+Romania,NLP,1991,1992,ROU,,,,ROU-NLP
+Romania,PCR,1947,1989,ROU,,,1947 Gheorghiu-Dej (PCR),ROU-PCR
+Romania,PD,2004,2008,ROU,,,2004 Basescu (PD),ROU-PD
+Romania,PDSR,2000,2000,ROU,Party of Social Democracy for Romania,,,ROU-PDSR
+Romania,PSD,2001,2007,ROU,,,2004 Bejinariu (PSD),ROU-PSD
+Romania,PUNR,1995,1996,ROU,,,,ROU-PUNR
+Romania,REM,1991,1992,ROU,,,,ROU-REM
+Romania,SDPR,1995,1996,ROU,,,,ROU-SDPR
+Romania,UDMR,1997,2000,ROU,,,,ROU-UDMR
+Romania,USD,1997,2000,ROU,Social Democratic Union (PSDR+PD),,1999 Athanasiu (USD),ROU-USD
+Russia,AUCP,1926,1952,RUS,All-Union Communist Party of Bolsheviks,,,RUS-AUCP
+Russia,CPSU,1953,1991,RUS,Soviet Union,,1953 Malenkov (CPSU),RUS-CPSU
+Russia,RCP,1919,1925,RUS,Russian Communist Party of Bolsheviks,,,RUS-RCP
+Rwanda,FPR,1994,2008,RWA,,,1994 Kagame (FPR),RWA-FPR
+Rwanda,MDR-PARMEH,1962,1973,RWA,Mouvement Démocratique Républicain-Parti du Mouvement de l'Emacipation Hutu,,,RWA-MDR-PARMEH
+Rwanda,MRND,1976,1994,RWA,Sindikubwabo,,,RWA-MRND
+Rwanda,MRNDD,1994,1994,RWA,,,1994 Sindikubwabo (MRNDD),RWA-MRNDD
+Senegal,PDS,2000,2008,SEN,Parti Démocratique Sénégalais,,2000 Wade (PDS),SEN-PDS
+Senegal,PSS,1977,2000,SEN,Parti Socialiste du Sénégal,,1981 Diouf (PSS),SEN-PSS
+Senegal,UPS,1960,1976,SEN,Union de Progressif de Senegalese,,,SEN-UPS
+Sierra Leone,APC,1968,2008,SLE,All People's Congress,,1968 Stevens (APC),SLE-APC
+Sierra Leone,SLPP,1961,2007,SLE,Sierra Leone People's Party,,1961 M. Margai (SLPP),SLE-SLPP
+Singapore,PAP,1965,2008,SGP,People’s Action Party,,1990 Goh Chok Tong (PAP),SGP-PAP
+Slovakia,AD,1994,1994,SVK,,,,SVK-AD
+Slovakia,ANO,2003,2006,SVK,,,,SVK-ANO
+Slovakia,APR,1994,1994,SVK,,,1994 Moravcik (APR),SVK-APR
+Slovakia,HZDS,1993,1998,SVK,Democratic Slovakia,,1993 Meciar (HZDS),SVK-HZDS
+Slovakia,KDH,1994,2006,SVK,,,,SVK-KDH
+Slovakia,LZ-HZDS,2006,2008,SVK,,,,SVK-LZ-HZDS
+Slovakia,NDK,1994,1994,SVK,,,,SVK-NDK
+Slovakia,SDK,1998,2000,SVK,Slovak Democratic Coalition,,,SVK-SDK
+Slovakia,SDKU,2001,2006,SVK,Slovak Democratic and Christian Union,,,SVK-SDKU
+Slovakia,SDL,1994,1994,SVK,,,,SVK-SDL
+Slovakia,SMER,2006,2008,SVK,,,2006 Fico (SMER),SVK-SMER
+Slovakia,SMK,2003,2006,SVK,,,,SVK-SMK
+Slovakia,SNS,1993,2008,SVK,Slovak National Party,,,SVK-SNS
+Slovakia,ZRS,1994,1998,SVK,Association of Workers of Slovakia,,,SVK-ZRS
+Slovenia,DeSUS,1998,2008,SVN,,,,SVN-DeSUS
+Slovenia,LDS,1992,2008,SVN,,,1992 Drnovsek (LDS),SVN-LDS
+Slovenia,NS-KLS,2005,2008,SVN,,,,SVN-NS-KLS
+Slovenia,SDS,1992,2008,SVN,Slovenian Democratic Party,,2004 Jansa (SDS),SVN-SDS
+Slovenia,SDSS,1994,1994,SVN,,,,SVN-SDSS
+Slovenia,SKD,1994,1997,SVN,Slovene Christian Democrats,,,SVN-SKD
+Slovenia,SKD-DEMOS,1992,1992,SVN,,,,SVN-SKD-DEMOS
+Slovenia,SLS,1998,2008,SVN,Slovenian People’s Party,,,SVN-SLS
+Slovenia,SLS-SKD,2000,2004,SVN,,,2000 Bajuk (SLS-SKD),SVN-SLS-SKD
+Slovenia,Zares,2008,2008,SVN,,,,SVN-Zares
+Slovenia,ZLSD,1992,2008,SVN,United List of Social Democrats,,2008 Pahor (ZLSD),SVN-ZLSD
+Slovenia,ZS,1992,1994,SVN,,,,SVN-ZS
+Solomon Islands,AIM,2006,2006,SLB,Association of Independent Members of Parliament,,2006 Snyder Rini (AIM),SLB-AIM
+Solomon Islands,GNUR,1994,1997,SLB,,,1994 Solomon Sunaone Mamaloni (GNUR),SLB-GNUR
+Solomon Islands,NCP,1993,1994,SLB,National Coalition Partners,,,SLB-NCP
+Solomon Islands,NFP,1986,1989,SLB,Nationalist Front for Progress,,,SLB-NFP
+Solomon Islands,PAP,1981,2006,SLB,People's Alliance Party,,1981 Solomon Sunaone Mamaloni (PAP),SLB-PAP
+Solomon Islands,PPP,2000,2001,SLB,People's Alliance Party,,2000 Manasseh D. Sogavare (PPP),SLB-PPP
+Solomon Islands,SAS,1984,1985,SLB,Solomon Ano Sagufenua,,,SLB-SAS
+Solomon Islands,SIAC,2007,2008,SLB,Solomon Islands Alliance for Change,,,SLB-SIAC
+Solomon Islands,SILP,2007,2008,SLB,Solomon Islands Liberal Party,,2007 Derek Sikua (SILP),SLB-SILP
+Solomon Islands,SILP-SIAC,1997,2000,SLB,Solomon Islands Liberal Party and Solomon Islands Alliance for Change,,1997 Bartholomew Ulufa'alu (SILP-SIAC),SLB-SILP-SIAC
+Solomon Islands,SISCP,2006,2007,SLB,Solomon Islands Social Credit Party,,2006 Manasseh D. Sogavare (SISCP),SLB-SISCP
+Solomon Islands,SIUPA,1978,1989,SLB,Solomon Islands Unity Party,,1978 Peter Kenilorea (SIUPA),SLB-SIUPA
+Somalia,SRSP,1977,1991,SOM,Mil to Somali Revolutionary Socialist Party,,,SOM-SRSP
+Somalia,SYL,1960,1969,SOM,Somali Youth League,,1960 Osman Daar (SYL),SOM-SYL
+South Africa,ANC,1994,2008,ZAF,African National Congress,,1994 Mandela (ANC),ZAF-ANC
+South Africa,AP,1948,1953,ZAF,Afrikaner Party,,,ZAF-AP
+South Africa,Labour,1924,1929,ZAF,,,,ZAF-Labour
+South Africa,NP,1924,1994,ZAF,,,1924 Hertzog (NP),ZAF-NP
+South Africa,SAP,1920,1934,ZAF,South Africa Party,,,ZAF-SAP
+South Africa,UP,1935,1948,ZAF,,,1939 Smuts (UP),ZAF-UP
+South Korea,DJP,1988,1989,KOR,,,,KOR-DJP
+South Korea,DP,1960,1961,KOR,Democratic Party,,1960 Chang Myun (DP),KOR-DP
+South Korea,HD,2008,2008,KOR,,,2008 Lee Myung Bak (HD),KOR-HD
+South Korea,LP,1949,1960,KOR,,,1960 Ho Chong (LP),KOR-LP
+South Korea,MDD,1990,1994,KOR,,,,KOR-MDD
+South Korea,SHD,1995,1998,KOR,New Korea Party,Sin Han-gukdang,,KOR-SHD
+South Korea,SJKH,1998,2000,KOR,National Congress for New Politics,,,KOR-SJKH
+South Korea,SMD,2001,2003,KOR,,,,KOR-SMD
+South Korea,UD,2004,2008,KOR,Uri Party,,,KOR-UD
+Spain,ACR,1931,1931,ESP,,,,ESP-ACR
+Spain,Ag,1934,1935,ESP,,,,ESP-Ag
+Spain,AR,1933,1933,ESP,,,,ESP-AR
+Spain,CEDA,1934,1935,ESP,,,,ESP-CEDA
+Spain,CNT,1937,1939,ESP,,,,ESP-CNT
+Spain,CNT-FAT,1937,1937,ESP,,,,ESP-CNT-FAT
+Spain,Dem,1919,1922,ESP,,,,ESP-Dem
+Spain,ER,1932,1939,ESP,Catalan Esquerra Republicana,,,ESP-ER
+Spain,FET,1939,1976,ESP,,,1975 Arias Navarro (FET),ESP-FET
+Spain,FR,1933,1933,ESP,Federal Republican Party,,,ESP-FR
+Spain,IR,1936,1939,ESP,,,1936 Azana y Diaz (IR),ESP-IR
+Spain,IRS,1933,1933,ESP,,,,ESP-IRS
+Spain,ISR,1933,1933,ESP,,,,ESP-ISR
+Spain,Lib,1919,1922,ESP,,,,ESP-Lib
+Spain,ORGA,1931,1933,ESP,,,,ESP-ORGA
+Spain,PC,1919,1939,ESP,,,1919 Maura y Montaner (PC),ESP-PC
+Spain,PL,1919,1923,ESP,Liberal Party,,1922 Garcia Prieto (PL),ESP-PL
+Spain,PLD,1934,1936,ESP,,,,ESP-PLD
+Spain,PNV,1936,1938,ESP,,,,ESP-PNV
+Spain,PP,1996,2004,ESP,Partido Popular,,1996 Aznar (PP),ESP-PP
+Spain,PRC,1931,1931,ESP,,,1931 Alcala-Zamora (PRC),ESP-PRC
+Spain,PRP,1933,1934,ESP,,,,ESP-PRP
+Spain,PRR,1931,1936,ESP,,,1933 Lerroux y Garcia (PRR),ESP-PRR
+Spain,PRS,1931,1933,ESP,,,,ESP-PRS
+Spain,PSOE,1931,2008,ESP,Partido Socialista Obrero Español,,1936 Largo Caballero (PSOE),ESP-PSOE
+Spain,RA,1931,1933,ESP,Republican Action Party,,1931 Azana y Diaz (RA),ESP-RA
+Spain,Rad.Dis,1936,1936,ESP,,,,ESP-Rad.Dis
+Spain,RSR,1933,1933,ESP,,,,ESP-RSR
+Spain,UCD,1976,1982,ESP,,,1976 Suarez Gonzalez (UCD),ESP-UCD
+Spain,UR,1936,1938,ESP,Union Republicana,,1936 Martinez Barrio (UR),ESP-UR
+Sri Lanka,CP,1970,1977,LKA,,,,LKA-CP
+Sri Lanka,FP,1965,1968,LKA,,,,LKA-FP
+Sri Lanka,LSSP,1965,1975,LKA,Lanka Sama Samaja Party,,,LKA-LSSP
+Sri Lanka,MEP,1965,1970,LKA,,,,LKA-MEP
+Sri Lanka,MEP-SLFP,1956,1959,LKA,,,,LKA-MEP-SLFP
+Sri Lanka,SLFP,1959,1977,LKA,Sri Lanka Freedom Socialist Party,,1959 Dahanayake (SLFP),LKA-SLFP
+Sri Lanka,SLFP-PA,1994,2005,LKA,,,1994 Kumaratunga (SLFP-PA),LKA-SLFP-PA
+Sri Lanka,SLFP-UPFA,2005,2008,LKA,,,2005 Rajapakse (SLFP-UPFA),LKA-SLFP-UPFA
+Sri Lanka,SLFSP,1965,1970,LKA,,,,LKA-SLFSP
+Sri Lanka,TC,1953,1956,LKA,Tamil Congress,,,LKA-TC
+Sri Lanka,UNP,1948,1994,LKA,United National Party,,1948 Don Senanayake (UNP),LKA-UNP
+Sudan,DUP,1968,1989,SDN,Democratic Unionist Party,,,SDN-DUP
+Sudan,four Southern parties,1986,1988,SDN,,,,SDN-four Southern parties
+Sudan,NIF,1989,1989,SDN,National Islamic Front,,,SDN-NIF
+Sudan,NUP,1956,1967,SDN,National Unionist Party,,1956 Al-Azhari (NUP),SDN-NUP
+Sudan,PDP,1956,1967,SDN,People’s Democratic Party,,,SDN-PDP
+Sudan,SNC,1997,2008,SDN,,,,SDN-SNC
+Sudan,Southern parties,1989,1989,SDN,,,,SDN-Southern parties
+Sudan,SSU,1969,1985,SDN,,,,SDN-SSU
+Sudan,trade unions,1989,1989,SDN,,,,SDN-trade unions
+Sudan,Umma,1956,1989,SDN,,,1956 Khalil (Umma),SDN-Umma
+Sudan,UNF,1964,1965,SDN,United National Front,,1964 al-Khalifa (UNF),SDN-UNF
+Sweden,BF,1936,1945,SWE,Agrarian Party or Agrarian Alliance,,1936 Pehrsson-Bramst (BF),SWE-BF
+Sweden,BF-CP,1952,1957,SWE,,,,SWE-BF-CP
+Sweden,C,2006,2008,SWE,,,,SWE-C
+Sweden,CP,1976,1994,SWE,Center Party,,1976 Falldin (CP),SWE-CP
+Sweden,FF,1926,1932,SWE,,,1926 Ekman (FF),SWE-FF
+Sweden,FP,1940,2008,SWE,People’s Party Liberals,,1978 Ullsten (FP),SWE-FP
+Sweden,KD,2006,2008,SWE,"FP, the Christian Democrats",,,SWE-KD
+Sweden,KDS,1991,1994,SWE,,,,SWE-KDS
+Sweden,LS,1919,1920,SWE,,Liberala Samlingspartiet,,SWE-LS
+Sweden,M,2006,2008,SWE,Moderate Party,,2006 Reinfeldt (M),SWE-M
+Sweden,MUP,1976,1994,SWE,Moderate Coalition Party,,1991 Bildt (MUP),SWE-MUP
+Sweden,NP,1923,1945,SWE,National Party,,1923 Trygger (NP),SWE-NP
+Sweden,SAP,1919,1936,SWE,,,1920 Branting (SAP),SWE-SAP
+Sweden,SDA,1936,2006,SWE,Swedish Social Democratic Party (SPA),,1936 Hansson (SDA),SWE-SDA
+Switzerland,CVP,1919,2008,CHE,Christlich-Demokratische Volkspartei,,1920 Motta (CVP),CHE-CVP
+Switzerland,FDP,1919,2008,CHE,FreisinnigDemokratische Partei,,1921 Schulthess (FDP),CHE-FDP
+Switzerland,LP,1919,1920,CHE,Liberal Party,,1919 Ador (LP),CHE-LP
+Switzerland,SP,1944,2008,CHE,,,1949 Nobs (SP),CHE-SP
+Switzerland,SVP,1930,2007,CHE,Schweizerische Volkspartei,,1935 Minger (SVP),CHE-SVP
+Syria,Baath,1963,1972,SYR,,,,SYR-Baath
+Syria,HS,1961,1963,SYR,People's Party,Hizb ash-Sha'b,1961 Al-Kudsi (HS),SYR-HS
+Syria,KW,1946,1955,SYR,al-Kutla al-Wataniya,,1954 Atassi H. (KW),SYR-KW
+Syria,NPF,1973,2008,SYR,Baath to National Progressive Front,,2000 Al-Assad B. (NPF),SYR-NPF
+Syria,SNP,1948,1958,SYR,,,1955 Kuwatli (SNP),SYR-SNP
+Syria,SSNP,1949,1949,SYR,,,,SYR-SSNP
+Taiwan,KMT,1949,2008,TWN,,,1950 Chiang Kai-shek (KMT),TWN-KMT
+Taiwan,MCT,2000,2008,TWN,,,2000 Chen Shui-bian (MCT),TWN-MCT
+Tajikistan,HDKT,1999,2008,TJK,Hizbi Demokrati-Khalkii Tojikston,,,TJK-HDKT
+Tajikistan,KPT,1991,1992,TJK,,,1992 Iskandrov (KPT),TJK-KPT
+Tajikistan,Kulobi,1992,1998,TJK,,,,TJK-Kulobi
+Tanzania,CCM,1978,2008,TZA,Chama Cha Mapinduzi,,1985 Mwinyi (CCM),TZA-CCM
+Tanzania,TANU,1961,1977,TZA,Tanganyika African National Union,,,TZA-TANU
+Thailand,RuamjaithaiChartpattana,2008,2008,THA,,,,THA-RuamjaithaiChartpattana
+Thailand,Bhumjaithai,2008,2008,THA,,,,THA-Bhumjaithai
+Thailand,CF,1946,1947,THA,Constitutional Front Party,,1946 Thawan Thamrongnawasawat (CF),THA-CF
+Thailand,Chart Pattana,1997,1997,THA,,,,THA-Chart Pattana
+Thailand,Chart Thai,2008,2008,THA,,,,THA-Chart Thai
+Thailand,CP,1995,2005,THA,Chart Pattana,,,THA-CP
+Thailand,CPP,1999,2003,THA,Chart Pattana Party,,,THA-CPP
+Thailand,CT,1988,2004,THA,Chat Thai,,1995 Silpa-Archa (CT),THA-CT
+Thailand,CTP,2008,2008,THA,,,,THA-CTP
+Thailand,KR,1944,1946,THA,,,1944 Pridi Banomyong (KR),THA-KR
+Thailand,MCP,1995,1997,THA,,,,THA-MCP
+Thailand,NAP,1992,2002,THA,New Aspiration Party,,1996 Chavalit Yongchaiyudh (NAP),THA-NAP
+Thailand,NDP,2008,2008,THA,,,,THA-NDP
+Thailand,NT,1995,1996,THA,Nam Thai,,,THA-NT
+Thailand,PD,1992,2001,THA,Palang Dharma Solidarity parties,,,THA-PD
+Thailand,PDP,1995,1996,THA,,,,THA-PDP
+Thailand,PKS,1975,1976,THA,,,1975 Kukrot Pramoj (PKS),THA-PKS
+Thailand,PP,1975,2008,THA,Democratic Party,,1975 Seni Pramoj (PP),THA-PP
+Thailand,PPP,2008,2008,THA,Pro-Thaksin People's Power Party,,2008 Samak Sundaravej (PPP),THA-PPP
+Thailand,PT,1997,2001,THA,Prachakorn Thai Party,,,THA-PT
+Thailand,PTP,1995,1997,THA,,,,THA-PTP
+Thailand,PuePandin,2008,2008,THA,,,,THA-PuePandin
+Thailand,RP,1958,1963,THA,,,,THA-RP
+Thailand,SAP,1992,1999,THA,Social Action Party,,,THA-SAP
+Thailand,SC,2008,2008,THA,,,,THA-SC
+Thailand,Seritham,1994,2001,THA,,,,THA-Seritham
+Thailand,SM,1947,1957,THA,,,,THA-SM
+Thailand,Sol,1992,2001,THA,,,,THA-Sol
+Thailand,Thai,1997,2001,THA,,,,THA-Thai
+Thailand,TP,2008,2008,THA,,,,THA-TP
+Thailand,TPP,1932,1944,THA,,,1932 Phraya Mano (TPP),THA-TPP
+Thailand,TRT,2001,2006,THA,Thai Rak Thai,,2001 Thaksin Shinawatra (TRT),THA-TRT
+Thailand,TUNDP,2008,2008,THA,,,,THA-TUNDP
+Togo,CUT,1960,1963,TGO,Comité de l'Unité Togolaise,,1960 Olympio (CUT),TGO-CUT
+Togo,MPT,1963,1967,TGO,Mouvement des Personnes Togolaises,,1963 Grunitzky (MPT),TGO-MPT
+Togo,RPT,1970,2008,TGO,,,2005 Gnassingbe (RPT),TGO-RPT
+Trinidad and Tobago,NAR,1986,2001,TTO,,,1986 Robinson (NAR),TTO-NAR
+Trinidad and Tobago,PNM,1962,2008,TTO,,,1962 Williams (PNM),TTO-PNM
+Trinidad and Tobago,UNC,1995,2001,TTO,,,1995 Panday (UNC),TTO-UNC
+Tunisia,PND,1957,1964,TUN,Parti Néo Destourien,,,TUN-PND
+Tunisia,PSD,1965,1988,TUN,Parti Socialiste Destourien,,,TUN-PSD
+Tunisia,RCD,1989,2008,TUN,,,,TUN-RCD
+Turkey,AKP,2002,2008,TUR,,,2002 Gul (AKP),TUR-AKP
+Turkey,AnaP,1983,2002,TUR,,,1983 Ozal (AnaP),TUR-AnaP
+Turkey,CHP,1923,1996,TUR,,,1938 Inonu (CHP),TUR-CHP
+Turkey,DP,1950,1979,TUR,,,1950 Menderes (DP),TUR-DP
+Turkey,DSP,1997,2002,TUR,,,,TUR-DSP
+Turkey,DYP,1991,1999,TUR,,,1991 Demirel (DYP),TUR-DYP
+Turkey,IND,1963,1963,TUR,,,,TUR-IND
+Turkey,JP,1961,1980,TUR,Demirel,,1965 Demirel (JP),TUR-JP
+Turkey,MHP,2000,2002,TUR,,,,TUR-MHP
+Turkey,NAP,1975,1978,TUR,Nationalist Action Party,,,TUR-NAP
+Turkey,NP,1965,1965,TUR,,,,TUR-NP
+Turkey,NPT,1963,1963,TUR,New Turkey Party,,,TUR-NPT
+Turkey,NRP,1971,1973,TUR,"Republican Reliance Party, formerly National Reliance Party",,1972 Melen (NRP),TUR-NRP
+Turkey,NSP,1974,1978,TUR,,,,TUR-NSP
+Turkey,NTP,1965,1965,TUR,New Turkey Party,,,TUR-NTP
+Turkey,RP,1996,1997,TUR,,,1996 Erbakan (RP),TUR-RP
+Turkey,RPNP,1963,1965,TUR,,,,TUR-RPNP
+Turkey,RRP,1973,1979,TUR,,,,TUR-RRP
+Turkey,SHP,1991,1995,TUR,,,1993 Inonu (SHP),TUR-SHP
+Turkmenistan,TCP,1991,1992,TKM,Turkmen Communist Party,,,TKM-TCP
+Turkmenistan,TDP,1993,2008,TKM,Democratic Party of Turkmenistan,,2006 Berdymukhammedov (TDP),TKM-TDP
+Uganda,NRM,1986,2008,UGA,,,1986 Museveni (NRM),UGA-NRM
+Uganda,UPC,1962,1985,UGA,Uganda People's Congress,,1962 Obote (UPC),UGA-UPC
+Ukraine,BYNU,2005,2008,UKR,,,2005 Yushchenko (BYNU),UKR-BYNU
+United Kingdom,Con,1919,1997,GBR,,,1922 Bonar Law (Con),GBR-Con
+United Kingdom,Lab,1924,2008,GBR,,,1924 MacDonald (Lab),GBR-Lab
+United Kingdom,Lib,1919,1945,GBR,,,,GBR-Lib
+United Kingdom,Nlab,1935,1940,GBR,,,,GBR-Nlab
+United Kingdom,NLab,1932,1935,GBR,,,,GBR-NLab
+United States of America,Dem,1919,2001,USA,,,1933 Roosevelt F. (Dem),USA-Dem
+United States of America,Rep,1921,2008,USA,,,1921 Harding (Rep),USA-Rep
+Uruguay,FA,2005,2008,URY,Broad Front,,2005 Vazquez Rosas (FA),URY-FA
+Uruguay,PC,1919,2005,URY,Colorado Party,,1919 Brum (PC),URY-PC
+Uruguay,PN,1959,1995,URY,National Party,,1959 Echegoyen (PN),URY-PN
+Uzbekistan,F,1998,2008,UZB,Fidokorlor,,,UZB-F
+Uzbekistan,PDP,1991,1995,UZB,,,,UZB-PDP
+Venezuela,AD,1945,1993,VEN,Accion Democratica,,1945 Betancourt (AD),VEN-AD
+Venezuela,CD,1994,1999,VEN,,,1994 Caldera Rodriguez (CD),VEN-CD
+Venezuela,COPEI,1969,1984,VEN,,,1969 Caldera Rodriguez (COPEI),VEN-COPEI
+Venezuela,MVR,1999,2006,VEN,,,,VEN-MVR
+Venezuela,PDV,1941,1945,VEN,Venezuelan Democratic Party,,,VEN-PDV
+Venezuela,PLR,1919,1935,VEN,Liberal Restoration Party,,,VEN-PLR
+Venezuela,PSUV,2007,2008,VEN,,,,VEN-PSUV
+Vietnam,DCSV,1977,2008,VNM,,,1986 Truong Chinh (DCSV),VNM-DCSV
+Vietnam,DLDV,1954,1976,VNM,,,,VNM-DLDV
+Yemen,MSA,1990,2008,YEM,al-Mu’tammar al-Sha’bi al-‘Am,,,YEM-MSA
+Yemen Arab Republic,al-Ahrar,1948,1948,YEM,,,1948 Ibn Ahmed Alwazir (al-Ahrar),YEM-al-Ahrar
+Yemen People's Republic,HIY,1978,1990,YMD,,,1978 Ali Nassir Hassani (HIY),YMD-HIY
+Yemen People's Republic,NLF,1967,1975,YMD,,,1967 Al-Shaabi (NLF),YMD-NLF
+Yemen People's Republic,UPONF,1976,1978,YMD,,,,YMD-UPONF
+Yugoslavia,DOS,2000,2003,SRB,Democratic Opposition of Serbia,,,SRB-DOS
+Yugoslavia,DPS,2003,2006,SRB,,,2003 Marovic (DPS),SRB-DPS
+Yugoslavia,DS,2006,2008,SRB,,,2006 Tadic (DS),SRB-DS
+Yugoslavia,DSS,2000,2003,SRB,Democratic Party of Serbia,,2000 Kostunica (DSS),SRB-DSS
+Yugoslavia,SKJ,1945,1989,SRB,League of Yugoslav Communists,,1945 Tito (SKJ),SRB-SKJ
+Yugoslavia,SKS,1989,1989,SRB,Communists of Serbia,,,SRB-SKS
+Yugoslavia,SPS,1990,2000,SRB,Socialist Party of Serbia,,,SRB-SPS
+Zambia,MMD,1991,2008,ZMB,Movement for Multi-party Democracy,,1991 Chiluba (MMD),ZMB-MMD
+Zambia,UNIP,1973,1991,ZMB,United National Independence Party,,,ZMB-UNIP
+Zambia,ZANC,1964,1972,ZMB,,,,ZMB-ZANC
+Zimbabwe,RF,1965,1979,ZWE,Rhodesian Front,,1965 Smith (RF),ZWE-RF
+Zimbabwe,UANC,1979,1980,ZWE,United African National Congress,,1979 Muzorewa (UANC),ZWE-UANC
+Zimbabwe,ZANU-PF,1980,2008,ZWE,Zimbabwe African National Union-Patriotic Front,,1980 Mugabe (ZANU-PF),ZWE-ZANU-PF
