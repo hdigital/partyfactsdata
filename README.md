@@ -11,9 +11,9 @@ see full credits at [Party Facts “about section”](https://partyfacts.herokua
 
 ## References
 
-Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of Political Parties Worldwide.” Party Politics 25(2): 97–109. doi: [doi.org/10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671).
+Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of Political Parties Worldwide.” Party Politics 25(2): 97–109. doi: [doi.org/10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671)
 
-Bederke, Paul, Holger Döring, and Sven Regel. 2019. “Party Facts Dataverse.” [https://dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts).
+Bederke, Paul, Holger Döring, and Sven Regel. 2021. “Party Facts Dataverse.” — [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
 
 ## Summary
 
@@ -25,4 +25,8 @@ The [import](import) folder contains all external datasets.
 
 You may submit your own dataset there.
 
-![Party Facts world map](worldmap.png)
+![Party Facts world map](codebook/graph-worldmap.png)
+
+---
+
+![Party Facts linking activity](codebook/graph-linking-activity.png)
