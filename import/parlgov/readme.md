@@ -9,3 +9,9 @@ Döring, Holger and Philip Manow. 2020. Parliaments and governments database (Pa
   + < 3 election results
   + not in cabinet
 + see `parlgov.R`
+
+---
+
+![](parlgov-map.png)
+
+![](parlgov.png)

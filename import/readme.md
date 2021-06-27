@@ -58,11 +58,10 @@ Template for dataset readme.md files
 ## Todo later (optional)
 
 + (...)
+
 ---
 
- _add figure for dataset if feasible_
-
-`ggsave(..., width = 20, height = 15, units = "cm")`
+ _add figure for dataset if feasible (see ParlGov examples)_
 
 ```
 

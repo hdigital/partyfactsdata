@@ -100,3 +100,43 @@ parlgov_out <-
   filter(share_max >= 1 | election_n >= 3 | cabinet_n >= 1)
 
 write_csv(parlgov_out, "parlgov.csv", na = "")
+
+
+# Figure map ----
+
+library(sf)
+
+map <- read_rds("../worldmap.rds")  # Natural Earth based world map
+
+map_pa <- 
+  map %>% 
+  inner_join(parlgov_out %>% count(country, name = "parties"))
+
+pl <- ggplot() + 
+  geom_sf(data = map, lwd = 0.1, fill = "grey85") +
+  geom_sf(data = map_pa, aes(fill = parties), lwd = 0.25) +
+  # coord_sf(crs = "+proj=robin") +  # World
+  coord_sf(crs = "+proj=lcc +lat_1=43 +lat_2=62 +lat_0=30 +lon_0=10",  # LCC Europe parameters
+           xlim = c(-1700000, 1750000), ylim = c(750000, 4000000)) +   # set map limits
+  scale_fill_gradient2() +
+  theme_bw()
+
+print(pl)
+ggsave("parlgov-map.png", pl, width = 8, height = 6)
+
+
+# Figure bar chart ----
+
+pl_dt <- 
+  parlgov_out %>%
+  left_join(party_pg %>% select(country_name, party_id)) %>% 
+  mutate(country_name = fct_infreq(country_name) %>% fct_rev())
+
+pl <- 
+  ggplot(pl_dt, aes(x = country_name)) +
+  geom_bar() +
+  coord_flip() +
+  theme(axis.title.x = element_blank(), axis.title.y = element_blank()) 
+
+print(pl)
+ggsave("parlgov.png", pl, width = 20, height = 15, units = "cm")
