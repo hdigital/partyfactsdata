@@ -5,13 +5,11 @@ pl_dt <-
     fs::dir_ls(type = "directory"),
     ~ read_csv(glue::glue("{.}/{.}.csv")) %>% nrow()
   ) %>% 
-  tibble(dataset = names(.), n = .) %>% 
-  mutate(dataset = fct_reorder(dataset, n)) %>% 
-  filter(n > 0) %>% 
-  arrange(-n)
+  tibble(dataset = names(.), parties = .) %>% 
+  mutate(dataset = fct_reorder(dataset, parties))
 
 pl <- 
-  ggplot(pl_dt, aes(x = dataset, y = n)) +
+  ggplot(pl_dt, aes(x = dataset, y = parties)) +
   geom_bar(stat = "identity") +
   coord_flip()
 
