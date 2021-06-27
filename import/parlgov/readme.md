@@ -4,5 +4,8 @@ Döring, Holger and Philip Manow. 2020. Parliaments and governments database (Pa
 
 ## Import
 
-* see `parlgov.R`
-* excluding smaller parties (< 1% share)
++ excluding smaller parties
+  + < 1% share in national election
+  + < 3 election results
+  + not in cabinet
++ see `parlgov.R`
