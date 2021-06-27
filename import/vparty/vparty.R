@@ -4,6 +4,8 @@ library(tidyverse)
 raw_vparty <- read.csv("source__V-Dem-CPD-Party-V1.csv", na = "", encoding="UTF-8")
 
 
+## Clean-up data ----
+
 vparty <-
   raw_vparty %>%
   select(country_text_id, v2pashname, v2paenname, year,
@@ -29,8 +31,39 @@ vparty <-
   mutate(
     country = if_else(country == "VDR", "VNR", country),
     partyfacts_id = if_else(str_detect(name_english, "alliance:"), NA_integer_, party_id)
-    )
+    ) %>% 
+  ungroup()
 
 vparty$party_id %>% duplicated() %>% any()
 
 write_csv(vparty, "vparty.csv", na = "")
+
+
+## Figure map ----
+
+library(sf)
+
+map <- read_rds("../worldmap.rds")  # Natural Earth based world map
+
+map_pa <- 
+  map %>% 
+  inner_join(vparty %>% count(country, name = "parties"))
+
+pl <- ggplot() + 
+  geom_sf(data = map, lwd = 0.1, fill = "grey85") +
+  geom_sf(data = map_pa, aes(fill = parties), lwd = 0.25) +
+  coord_sf(crs = "+proj=robin") +  # World
+  scale_fill_continuous(
+    trans = "log",
+    breaks = c(3, 6, 12, 25, 50, 100),
+    low = "thistle2",
+    high = "darkblue",
+    # low="#fff7bc", high="#d95f0e",
+    guide = "colorbar",
+    na.value = "lightgrey"
+  ) +
+  theme_bw()
+
+print(pl)
+ggsave("vparty.png", pl, width = 8, height = 6)
+

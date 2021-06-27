@@ -61,7 +61,7 @@ Template for dataset readme.md files
 
 ---
 
- _add figure for dataset if feasible (see ParlGov examples)_
+ _add figure for dataset if feasible (see examples ParlGov and V-Party)_
 
 ```
 

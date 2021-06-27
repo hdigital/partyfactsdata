@@ -7,3 +7,7 @@ Lührmann, Anna, Nils Düpont, Masaaki Higashijima, Yaman Berker Kavasoglu, Kyle
 Pemstein, Daniel, Kyle L. Marquardt, Eitan Tzelgov, Yi-ting Wang, Juraj Medzihorsky, Joshua Krusell, Farhad Miri, and Johannes von Römer. 2020. "The V-Dem Measurement Model: Latent Variable Analysis for Cross-National and Cross-Temporal Expert-Coded Data". V-Dem Working Paper No. 21. 5th edition. University of Gothenburg: Varieties of Democracy Institute.
 
 [https://www.v-dem.net/en/](https://www.v-dem.net/en/)
+
+---
+
+![](vparty.png)
