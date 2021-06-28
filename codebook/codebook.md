@@ -21,16 +21,19 @@ body {
 
 -   Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of
     Political Parties Worldwide.” Party Politics 25(2): 97–109. doi:
-    [doi:
-    10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671).
+    [10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671)
 -   Bederke, Paul, Holger Döring, and Sven Regel. 2020. “Party Facts
     Dataverse.”
-    [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts).
+    [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
 
 # Overview
 
-Party Facts Website -
-[partyfacts.herokuapp.com](https://partyfacts.herokuapp.com)
+**PF-Web** page
+[partyfacts.herokuapp.com](https://partyfacts.herokuapp.com) //
+**PF-Data** [Github
+repository](https://github.com/hdigital/partyfactsdata) //
+**PF-Dataverse**
+[archive](https://dataverse.harvard.edu/dataverse/partyfacts)
 
 ## Credits
 
@@ -121,7 +124,7 @@ Examples for additional, optional inclusion criteria of parties:
 
 **Core parties** are observations that have been gathered by the Party
 Facts project. They can be added and edited on the Party Facts webpage.
-Currently we include around **5700 core parties**.
+Currently we include around **5800 core parties**.
 
 **External parties** are observations with party information extracted
 from other datasets – see [Party Facts
@@ -218,7 +221,7 @@ comment for this party is created for any change in the primary link.
 ## Incomplete links
 
 For public datasets we complete the linking of all parties that meet the
-Party Facts population criteria (\>5%, see above). Public datasets are
+Party Facts population criteria (>5%, see above). Public datasets are
 visible on PF-Web without login and are archived regularly in the
 PF-Dataverse.
 

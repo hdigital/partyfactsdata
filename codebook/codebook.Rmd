@@ -36,7 +36,7 @@ body {
 
 **Contact**
 
-+ Paul Bederke -- pbederke@uni-bremen.de
++ Paul Bederke -- <pbederke@uni-bremen.de>
 </br>
 
 **References**
@@ -70,8 +70,9 @@ pf_external <-
 
 # Overview
 
-Party Facts Website - [partyfacts.herokuapp.com](https://partyfacts.herokuapp.com)
-
+**PF-Web** page [partyfacts.herokuapp.com](https://partyfacts.herokuapp.com)
+// **PF-Data** [Github repository](https://github.com/hdigital/partyfactsdata)
+// **PF-Dataverse** [archive](https://dataverse.harvard.edu/dataverse/partyfacts)
 
 ## Credits
 
