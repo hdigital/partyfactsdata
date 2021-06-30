@@ -1,100 +1,100 @@
 country_short,party_id,party_short,country,year,party,party_name_short,party_eng,first,last,share_max,share_year
-AUT,1,BZÖ,Austria,2009,Bündnis Zukunft Österreich,BZÖ,Alliance for the Future of Austria,2009,2014,4.6,2009
-AUT,2,FPÖ,Austria,1999,Freiheitliche Partei Österreichs,FPÖ,Freedom Party of Austria,1999,2019,23.4,1999
-AUT,3,Martin,Austria,2009,Liste Dr. Hans-Peter Martin,Martin,Hans-Peter Martin's List,2004,2009,17.7,2009
-BEL,4,DLB,Belgium,2014,Debout les Belges !,DLB,Belgium Arise,2014,2014,1.1,2014
-BEL,5,FN,Belgium,1994,Front National,FN,National Front,1994,2009,3,1994
-BEL,6,LDD,Belgium,2009,"Lijst Dedecker – Libertair, Direct, Democratisch",LDD,"List Dedecker - Libertarian, Direct, Democratic",2009,2009,4.5,2009
-BEL,7,PP,Belgium,2014,Parti Populaire,PP,People's Party,2014,2019,2.2,2014
-BEL,8,VB,Belgium,2004,Vlaams Blok / Vlaams Belang,VB,Flemish Block / Flemish Interest,1984,2019,14.3,2004
-BGR,9,Ataka,Bulgaria,2009,Ataka,Ataka,Attack,2009,2019,12,2009
-BGR,10,BBZ/BBT,Bulgaria,2019,Balgarija bes Zensura / Prezaredi Balgariya,BBZ/BBT,Bulgaria without censorship / Reload Bulgaria,2019,2019,0.2,2019
-BGR,11,BBZ/BBT,Bulgaria,2014,Balgarija bes Zensura + VMRO + ZNS + Gergiovden,BBZ/BBT + IMRO + et al.BND + et al.,Bulgaria without censorship + IMRO + others,2014,2014,10.7,2014
-BGR,12,GERB,Bulgaria,2019,Grazhdani za Evropeysko Razvitie na Balgariya,GERB,Citizens for European Development of Bulgaria,2009,2019,31.1,2019
-BGR,13,NFSB,Bulgaria,2014,Natsionalen Front za Spasenie na Balgariya,NFSB,National Front for the Salvation of Bulgaria,2014,2019,3.1,2014
-BGR,14,NDSV,Bulgaria,2009,Natsionalno Dvizhenie Simeon Vtori / Nacionalno dviženie za stabilnost i văzhod,NDSV,National Movement Simeon II / National Movement for Stability and Progress,2009,2009,8,2009
-BGR,15,NDSV,Bulgaria,2019,Natsionalno Dvizhenie Simeon Vtori / Nacionalno dviženie za stabilnost i văzhod + Novoto Vreme,NDSV + NV,National Movement Simeon II / National Movement for Stability and Progress + NV,2019,2019,1.1,2019
-BGR,16,NDSV,Bulgaria,2014,Natsionalno Dvizhenie Simeon Vtori / Nacionalno dviženie za stabilnost i văzhod + others (KOD coalition),NDSV + others,"National Movement Simeon II / National Movement for Stability and Progress + (coalition Coalition United Democrats, KOD)",2014,2014,0.9,2014
-BGR,17,RZS,Bulgaria,2009,"Red, zakonnost i spravedlivost",RZS,"Order, Lawfulness and Justice",2009,2009,4.7,2009
-BGR,18,IMRO,Bulgaria,2019,VMRO – Bulgarsko Natsionalno Dvizhenie,IMRO,IMRO – Bulgarian National Movement,2019,2019,7.4,2019
-BGR,19,Volya,Bulgaria,2019,Volya,Volya,Volya,2019,2019,3.6,2019
-HRV,20,HL-SR,Croatia,2014,Hrvatski laburisti – Stranka rada,HL-SR,Croatian Labourists -- Labour Party,2014,2014,3.4,2014
-HRV,21,Most,Croatia,2019,Most nezavisnih lista,Most,Bridge of Independent Lists,2019,2019,4.7,2019
-HRV,22,ZiZi,Croatia,2019,Savez za promjene/ Živi zid,ZiZi,Alliance for Change/ Human Shield,2014,2019,5.7,2019
-CYP,23,SYM,Cyprus,2014,Symmaxia,SYM,Citizens' Alliance,2014,2014,6.8,2014
-CZE,24,ANO 2011,Czech Republic,2019,ANO 2011,ANO 2011,ANO 2011,2014,2019,21.2,2019
-CZE,25,SZR,Czech Republic,2014,Strana zdravého rozumu,SZR,Party of Common Sense,2004,2019,1.6,2014
-CZE,26,S-JB/CS,Czech Republic,2009,Suverenita – blok Jany Bobošíkové / Česká suverenita,S-JB/CS,Sovereignty - Jana Bobosikova Bloc / Czech Sovereignty,2009,2019,4.3,2009
-CZE,27,SPD,Czech Republic,2019,Svoboda a přímá demokracie Tomio Okamura,SPD,Freedom and Direct Democracy Tomio Okamura,2019,2019,9.1,2019
-CZE,28,UPD,Czech Republic,2014,Úsvit – Národní koalice / Úsvit Přímé Demokracie,UPD,Dawn of Direct Democracy / Dawn – National Coalition,2014,2014,3.1,2014
-CZE,29,VV,Czech Republic,2009,Věci veřejné,VV,Public Affairs,2009,2009,2.4,2009
-DNK,30,DF,Denmark,2014,Dansk Folkeparti,DF,Danish People's Party,1999,2019,26.6,2014
-DNK,31,FrP,Denmark,1979,Fremskridtspartiet,FrP,Progress Party,1979,1999,5.8,1979
-EST,32,EIP,Estonia,2014,Eesti Iseseisvuspartei,EIP,Estonian Independence Party,2014,2014,1.3,2014
-EST,33,EKRE,Estonia,2019,Eesti Konservatiivne Rahvaerakond,EKRE,Conservative People's Party of Estonia,2014,2019,12.7,2019
-FIN,34,PS,Finland,2019,Perussuomalaiset,PS,True Finns / Finns Party,1999,2019,13.8,2019
-FRA,35,DLR/DLF,France,2014,Debout la république / Debout la France,DLR/DLF,Republic Arise / France Arise,2009,2019,3.8,2014
-FRA,36,FN/RN,France,2014,Front National / Rassemblement National,FN/RN,National Front / National Rally,1984,2019,24.9,2014
-FRA,37,LFI,France,2019,La France Insoumise,LFI,Unbowed France,2019,2019,6.3,2019
-FRA,38,MNR,France,1999,Mouvement National Républicain,MNR,National Republican Movement,1999,2004,3.3,1999
-DEU,39,AfD,Germany,2019,Alternative für Deutschland,AfD,Alternative for Germany,2019,2019,11,2019
-DEU,40,DVU,Germany,1989,Deutsche Volksunion – Liste D,DVU,German People's Union – List D,1989,2009,1.6,1989
-DEU,41,REP,Germany,1989,Die Republikaner,REP,The Republicans,1989,2014,7.1,1989
-DEU,42,PDS/LINKE,Germany,2009,Partei des Demokratischen Sozialismus / Die Linke,PDS/LINKE,PDS / The Left,1994,2019,7.5,2009
-GBR,43,BP,Great Britain,2019,Brexit Party,BP,Brexit Party,2019,2019,31.6,2019
-GBR,44,BNP,Great Britain,2009,British National Party,BNP,British National Party,1999,2014,6.2,2009
-GBR,45,RES,Great Britain,2004,Respect – The Unity Coalition,RES,Respect – The Unity Coalition,2004,2004,1.5,2004
-GBR,46,UKIP,Great Britain,2014,United Kingdom Independence Party,UKIP,United Kingdom Independence Party,1994,2019,27.5,2014
-GRC,47,ANEL,Greece,2014,Anexartitoi Ellines,ANEL,Independent Greeks,2014,2019,3.5,2014
-GRC,48,DIKKI,Greece,1999,Dimokratiko Koinoniko Kinima,DIKKI,Democratic Social Movement,1999,1999,6.9,1999
-GRC,49,EL,Greece,2019,Elliniki Lisi,EL,Greek Solution,2019,2019,4.2,2019
-GRC,50,LAOS,Greece,2009,Laïkós Orthódoxos Synagermós,LAOS,Popular Orthodox Rally,2004,2014,7.2,2009
-GRC,51,LAOS,Greece,2019,Laïkós Orthódoxos Synagermós + PATRIE,LAOS + PATRIE,Popular Orthodox Rally + Patriotic Radical Union,2019,2019,1.2,2019
-GRC,52,MeRA25,Greece,2019,Métopo Evropaikís Realistikís Anypakoís,MeRA25,European Realistic Disobedience Front,2019,2019,3,2019
-GRC,53,PASOK,Greece,1984,Panellinio Sosialistikó Kínima,PASOK,Panhellenic Socialist Movement,1984,1994,41.6,1984
-GRC,54,PE,Greece,2019,Plefsi Eleftherias,PE,Course of Freedom,2019,2019,1.6,2019
-GRC,55,SYN/SYRIZA,Greece,2014,Synaspismós Rizospastikís Aristerás/SYRIZA,SYN/SYRIZA,Coalition of the Radical Left/SYRIZA,2009,2019,26.6,2014
-HUN,56,Fidesz,Hungary,2004,Fidesz - Magyar Polgári Szövetség,Fidesz,Fidesz - Hungarian Civic Union,2004,2004,47.4,2004
-HUN,57,Fidesz+KDNP,Hungary,2009,Fidesz - Magyar Polgári Szövetség / Kereszténydemokrata Néppárt,Fidesz+KDNP,Fidesz - Hungarian Civic Party / Christian Democratic People's Party,2009,2019,56.4,2009
-HUN,58,Jobbik,Hungary,2009,Jobbik Magyarországért Mozgalom,Jobbik,Jobbik Movement for a Better Hungary,2009,2019,14.8,2009
-HUN,59,MIÉP,Hungary,2004,Magyar Igazság és Élet Pártja,MIÉP,Hungarian Justice and Life Party,2004,2004,2.4,2004
-HUN,60,MH,Hungary,2019,Mi Hazánk Mozgalom,MH,Our Homeland Movement,2019,2019,3.3,2019
-IRL,61,SF,Ireland,2014,Sinn Féin,SF,Sinn Fein,1984,2019,19.5,2014
-ITA,62,FI / PdL,Italy,2009,Forza Italia / Il Popolo della Libertà,FI / PdL,Forza Italia – The People of Freedom,1994,2019,35.3,2009
-ITA,63,FdI,Italy,2019,Fratelli d'Italia,FdI,Brothers of Italy,2014,2019,6.4,2019
-ITA,64,LL/LN/Lega,Italy,2019,Lega Lombarda / Lega Nord / Lega Salvini Premier,LL/LN/Lega,Lombard League – Northern League – Lega Salvini Premier,1989,2019,34.3,2019
-ITA,65,M5S,Italy,2014,Movimento 5 Stelle,M5S,Five Star Movement,2014,2019,21.2,2014
-LTU,66,DP,Lithuania,2004,Darbo Partija,DP,Labour Party,2004,2004,30.2,2004
-LTU,67,LCP,Lithuania,2019,Lietuvos Centro Partija,LCP,Lithuanian Centre Party,2019,2019,5.1,2019
-LTU,68,TPP,Lithuania,2009,Tautos Prisikėlimo partija,TPP,National Resurrection Party,2009,2009,1,2009
-LTU,69,TT,Lithuania,2014,Tvarka ir teisingumas / Liberalų Demokratų Partija,TT,Order and Justice - Liberal Democratic Party,2004,2019,14.3,2014
-LUX,70,ADR,Luxembourg,2019,Aktiounskomitee fir Demokratie an Rentengerechtigkeet / Alternativ Demokratesch Reformpartei,ADR,Action Committee for Democracy and Pensions Justice' / Alternative Democratic Reform Party,1994,2019,10,2019
-LUX,71,NB,Luxembourg,1989,National Bewegong,NB,National Movement,1989,1994,2.9,1989
-NLD,72,CD,Netherlands,1994,Centrum Democraten,CD,Centre Democrats,1989,1999,1,1994
-NLD,73,CP,Netherlands,1984,Centrumpartij,CP,Centre Party,1984,1984,2.5,1984
-NLD,74,FvD,Netherlands,2019,Forum voor Democratie,FvD,Forum for Democracy,2019,2019,11,2019
-NLD,75,LPF,Netherlands,2004,Lijst Pim Fortuyn,LPF,Fortuyn List,2004,2004,2.6,2004
-NLD,76,PVV,Netherlands,2009,Partij voor de Vrijheid,PVV,Party for Freedom,2009,2019,17,2009
-NLD,77,SP,Netherlands,1999,Socialistiese Partij,SP,Socialist Party,1989,1999,5,1999
-POL,78,Kukiz'15,Poland,2019,Kukiz'15,Kukiz'15,Kukiz'15,2019,2019,3.7,2019
-POL,79,LPR,Poland,2004,Liga Polskich Rodzin,LPR,League of Polish Families,2004,2004,15.9,2004
-POL,80,PiS,Poland,2019,Prawo i Sprawiedliwość,PiS,Law and Justice,2009,2019,45.4,2019
-POL,81,SRP,Poland,2004,Samoobrona Rzeczypospolitej Polskiej,SRP,Self-Defense of the Republic Poland,2004,2009,10.8,2004
-PRT,82,C-Basta!,Portugal,2019,"Coligação Basta – Chega (Chega + Partido Popular Monárquico, PPM + Cidadania e Democracia Cristã, PPV/CDC)",C-Basta!,Coalition Enough (Enough + People's Monarchist Party + Citizenship and Christian Democracy party,2019,2019,1.5,2019
-ROU,83,PP-DD,Romania,2014,Partidul Poporului – Dan Diaconescu,PP-DD,People's Party - Dan Diaconescu,2014,2014,3.7,2014
-ROU,84,PRM,Romania,2009,Partidul România Mare,PRM,Greater Romania Party,2009,2014,8.7,2009
-SVK,85,ANO,Slovakia,2004,Aliancia nového občana,ANO,Alliance of the New Citizen,2004,2004,4.7,2004
-SVK,86,OL'aNO,Slovakia,2014,Obyčajní ľudia a nezávislé osobnosti,OL'aNO,Ordinary People and Independent,2014,2019,7.5,2014
-SVK,87,SNS,Slovakia,2009,Slovenská národná strana,SNS,Slovak National Party,2009,2019,5.6,2009
-SVK,88,SNS,Slovakia,2004,Slovenská národná strana + Pravá Slovenská národná strana,SNS + PSNS,Slovak National Party + Real Slovak National Party,2004,2004,2,2004
-SVK,89,SR,Slovakia,2019,Sme Rodina – Boris Kollár,SR,We are family - Boris Kollár,2019,2019,3.2,2019
-SVK,90,Smer – SD,Slovakia,2004,Smer – Sociálna Demokracia,Smer – SD,Direction - Social Democracy,2004,2004,16.9,2004
-SVN,91,LMŠ,Slovenia,2019,Lista Marjana Šarca,LMŠ,List of Marjan Šarec,2019,2019,15.4,2019
-SVN,92,SDS,Slovenia,2009,Slovenska Demokratska Stranka,SDS,Slovenian Democratic Party,2004,2014,26.7,2009
-SVN,93,SDS,Slovenia,2019,Slovenska Demokratska Stranka + Slovenska ljudska stranka,SDS + SLS,Slovenian Democratic Party + Slovenian People's Party,2019,2019,26.3,2019
-SVN,94,SNS,Slovenia,2004,Slovenska Nacionalna Stranka,SNS,Slovenian National Party,2004,2019,5,2004
-SVN,95,ZL/Levica,Slovenia,2019,Združena Levica / Levica,ZL/Levica,United Left / The Left,2014,2019,6.4,2019
-ESP,96,Podemos,Spain,2014,Podemos,Podemos,We Can,2014,2014,8,2014
-ESP,97,Podemos,Spain,2019,Podemos + Izquierda Unida (Unidos Podemos),Podemos + IU (UP),United We Can,2019,2019,10.1,2019
-ESP,98,Vox,Spain,2019,Vox,Vox,Vox,2014,2019,6.2,2019
-SWE,99,SD,Sweden,2019,Sverigedemokraterna,SD,Sweden Democrats,1999,2019,15.3,2019
+AUT,AUT-BZÖ,BZÖ,Austria,2009,Bündnis Zukunft Österreich,BZÖ,Alliance for the Future of Austria,2009,2014,4.6,2009
+AUT,AUT-FPÖ,FPÖ,Austria,1999,Freiheitliche Partei Österreichs,FPÖ,Freedom Party of Austria,1999,2019,23.4,1999
+AUT,AUT-Martin,Martin,Austria,2009,Liste Dr. Hans-Peter Martin,Martin,Hans-Peter Martin's List,2004,2009,17.7,2009
+BEL,BEL-DLB,DLB,Belgium,2014,Debout les Belges !,DLB,Belgium Arise,2014,2014,1.1,2014
+BEL,BEL-FN,FN,Belgium,1994,Front National,FN,National Front,1994,2009,3,1994
+BEL,BEL-LDD,LDD,Belgium,2009,"Lijst Dedecker – Libertair, Direct, Democratisch",LDD,"List Dedecker - Libertarian, Direct, Democratic",2009,2009,4.5,2009
+BEL,BEL-PP,PP,Belgium,2014,Parti Populaire,PP,People's Party,2014,2019,2.2,2014
+BEL,BEL-VB,VB,Belgium,2004,Vlaams Blok / Vlaams Belang,VB,Flemish Block / Flemish Interest,1984,2019,14.3,2004
+BGR,BGR-Ataka,Ataka,Bulgaria,2009,Ataka,Ataka,Attack,2009,2019,12,2009
+BGR,BGR-BBZ/BBT,BBZ/BBT,Bulgaria,2019,Balgarija bes Zensura / Prezaredi Balgariya,BBZ/BBT,Bulgaria without censorship / Reload Bulgaria,2019,2019,0.2,2019
+BGR,BGR-BBZ/BBT + IMRO + et al.BND + et al.,BBZ/BBT,Bulgaria,2014,Balgarija bes Zensura + VMRO + ZNS + Gergiovden,BBZ/BBT + IMRO + et al.BND + et al.,Bulgaria without censorship + IMRO + others,2014,2014,10.7,2014
+BGR,BGR-GERB,GERB,Bulgaria,2019,Grazhdani za Evropeysko Razvitie na Balgariya,GERB,Citizens for European Development of Bulgaria,2009,2019,31.1,2019
+BGR,BGR-NFSB,NFSB,Bulgaria,2014,Natsionalen Front za Spasenie na Balgariya,NFSB,National Front for the Salvation of Bulgaria,2014,2019,3.1,2014
+BGR,BGR-NDSV,NDSV,Bulgaria,2009,Natsionalno Dvizhenie Simeon Vtori / Nacionalno dviženie za stabilnost i văzhod,NDSV,National Movement Simeon II / National Movement for Stability and Progress,2009,2009,8,2009
+BGR,BGR-NDSV + NV,NDSV,Bulgaria,2019,Natsionalno Dvizhenie Simeon Vtori / Nacionalno dviženie za stabilnost i văzhod + Novoto Vreme,NDSV + NV,National Movement Simeon II / National Movement for Stability and Progress + NV,2019,2019,1.1,2019
+BGR,BGR-NDSV + others,NDSV,Bulgaria,2014,Natsionalno Dvizhenie Simeon Vtori / Nacionalno dviženie za stabilnost i văzhod + others (KOD coalition),NDSV + others,"National Movement Simeon II / National Movement for Stability and Progress + (coalition Coalition United Democrats, KOD)",2014,2014,0.9,2014
+BGR,BGR-RZS,RZS,Bulgaria,2009,"Red, zakonnost i spravedlivost",RZS,"Order, Lawfulness and Justice",2009,2009,4.7,2009
+BGR,BGR-IMRO,IMRO,Bulgaria,2019,VMRO – Bulgarsko Natsionalno Dvizhenie,IMRO,IMRO – Bulgarian National Movement,2019,2019,7.4,2019
+BGR,BGR-Volya,Volya,Bulgaria,2019,Volya,Volya,Volya,2019,2019,3.6,2019
+HRV,HRV-HL-SR,HL-SR,Croatia,2014,Hrvatski laburisti – Stranka rada,HL-SR,Croatian Labourists -- Labour Party,2014,2014,3.4,2014
+HRV,HRV-Most,Most,Croatia,2019,Most nezavisnih lista,Most,Bridge of Independent Lists,2019,2019,4.7,2019
+HRV,HRV-ZiZi,ZiZi,Croatia,2019,Savez za promjene/ Živi zid,ZiZi,Alliance for Change/ Human Shield,2014,2019,5.7,2019
+CYP,CYP-SYM,SYM,Cyprus,2014,Symmaxia,SYM,Citizens' Alliance,2014,2014,6.8,2014
+CZE,CZE-ANO 2011,ANO 2011,Czech Republic,2019,ANO 2011,ANO 2011,ANO 2011,2014,2019,21.2,2019
+CZE,CZE-SZR,SZR,Czech Republic,2014,Strana zdravého rozumu,SZR,Party of Common Sense,2004,2019,1.6,2014
+CZE,CZE-S-JB/CS,S-JB/CS,Czech Republic,2009,Suverenita – blok Jany Bobošíkové / Česká suverenita,S-JB/CS,Sovereignty - Jana Bobosikova Bloc / Czech Sovereignty,2009,2019,4.3,2009
+CZE,CZE-SPD,SPD,Czech Republic,2019,Svoboda a přímá demokracie Tomio Okamura,SPD,Freedom and Direct Democracy Tomio Okamura,2019,2019,9.1,2019
+CZE,CZE-UPD,UPD,Czech Republic,2014,Úsvit – Národní koalice / Úsvit Přímé Demokracie,UPD,Dawn of Direct Democracy / Dawn – National Coalition,2014,2014,3.1,2014
+CZE,CZE-VV,VV,Czech Republic,2009,Věci veřejné,VV,Public Affairs,2009,2009,2.4,2009
+DNK,DNK-DF,DF,Denmark,2014,Dansk Folkeparti,DF,Danish People's Party,1999,2019,26.6,2014
+DNK,DNK-FrP,FrP,Denmark,1979,Fremskridtspartiet,FrP,Progress Party,1979,1999,5.8,1979
+EST,EST-EIP,EIP,Estonia,2014,Eesti Iseseisvuspartei,EIP,Estonian Independence Party,2014,2014,1.3,2014
+EST,EST-EKRE,EKRE,Estonia,2019,Eesti Konservatiivne Rahvaerakond,EKRE,Conservative People's Party of Estonia,2014,2019,12.7,2019
+FIN,FIN-PS,PS,Finland,2019,Perussuomalaiset,PS,True Finns / Finns Party,1999,2019,13.8,2019
+FRA,FRA-DLR/DLF,DLR/DLF,France,2014,Debout la république / Debout la France,DLR/DLF,Republic Arise / France Arise,2009,2019,3.8,2014
+FRA,FRA-FN/RN,FN/RN,France,2014,Front National / Rassemblement National,FN/RN,National Front / National Rally,1984,2019,24.9,2014
+FRA,FRA-LFI,LFI,France,2019,La France Insoumise,LFI,Unbowed France,2019,2019,6.3,2019
+FRA,FRA-MNR,MNR,France,1999,Mouvement National Républicain,MNR,National Republican Movement,1999,2004,3.3,1999
+DEU,DEU-AfD,AfD,Germany,2019,Alternative für Deutschland,AfD,Alternative for Germany,2019,2019,11,2019
+DEU,DEU-DVU,DVU,Germany,1989,Deutsche Volksunion – Liste D,DVU,German People's Union – List D,1989,2009,1.6,1989
+DEU,DEU-REP,REP,Germany,1989,Die Republikaner,REP,The Republicans,1989,2014,7.1,1989
+DEU,DEU-PDS/LINKE,PDS/LINKE,Germany,2009,Partei des Demokratischen Sozialismus / Die Linke,PDS/LINKE,PDS / The Left,1994,2019,7.5,2009
+GBR,GBR-BP,BP,Great Britain,2019,Brexit Party,BP,Brexit Party,2019,2019,31.6,2019
+GBR,GBR-BNP,BNP,Great Britain,2009,British National Party,BNP,British National Party,1999,2014,6.2,2009
+GBR,GBR-RES,RES,Great Britain,2004,Respect – The Unity Coalition,RES,Respect – The Unity Coalition,2004,2004,1.5,2004
+GBR,GBR-UKIP,UKIP,Great Britain,2014,United Kingdom Independence Party,UKIP,United Kingdom Independence Party,1994,2019,27.5,2014
+GRC,GRC-ANEL,ANEL,Greece,2014,Anexartitoi Ellines,ANEL,Independent Greeks,2014,2019,3.5,2014
+GRC,GRC-DIKKI,DIKKI,Greece,1999,Dimokratiko Koinoniko Kinima,DIKKI,Democratic Social Movement,1999,1999,6.9,1999
+GRC,GRC-EL,EL,Greece,2019,Elliniki Lisi,EL,Greek Solution,2019,2019,4.2,2019
+GRC,GRC-LAOS,LAOS,Greece,2009,Laïkós Orthódoxos Synagermós,LAOS,Popular Orthodox Rally,2004,2014,7.2,2009
+GRC,GRC-LAOS + PATRIE,LAOS,Greece,2019,Laïkós Orthódoxos Synagermós + PATRIE,LAOS + PATRIE,Popular Orthodox Rally + Patriotic Radical Union,2019,2019,1.2,2019
+GRC,GRC-MeRA25,MeRA25,Greece,2019,Métopo Evropaikís Realistikís Anypakoís,MeRA25,European Realistic Disobedience Front,2019,2019,3,2019
+GRC,GRC-PASOK,PASOK,Greece,1984,Panellinio Sosialistikó Kínima,PASOK,Panhellenic Socialist Movement,1984,1994,41.6,1984
+GRC,GRC-PE,PE,Greece,2019,Plefsi Eleftherias,PE,Course of Freedom,2019,2019,1.6,2019
+GRC,GRC-SYN/SYRIZA,SYN/SYRIZA,Greece,2014,Synaspismós Rizospastikís Aristerás/SYRIZA,SYN/SYRIZA,Coalition of the Radical Left/SYRIZA,2009,2019,26.6,2014
+HUN,HUN-Fidesz,Fidesz,Hungary,2004,Fidesz - Magyar Polgári Szövetség,Fidesz,Fidesz - Hungarian Civic Union,2004,2004,47.4,2004
+HUN,HUN-Fidesz+KDNP,Fidesz+KDNP,Hungary,2009,Fidesz - Magyar Polgári Szövetség / Kereszténydemokrata Néppárt,Fidesz+KDNP,Fidesz - Hungarian Civic Party / Christian Democratic People's Party,2009,2019,56.4,2009
+HUN,HUN-Jobbik,Jobbik,Hungary,2009,Jobbik Magyarországért Mozgalom,Jobbik,Jobbik Movement for a Better Hungary,2009,2019,14.8,2009
+HUN,HUN-MIÉP,MIÉP,Hungary,2004,Magyar Igazság és Élet Pártja,MIÉP,Hungarian Justice and Life Party,2004,2004,2.4,2004
+HUN,HUN-MH,MH,Hungary,2019,Mi Hazánk Mozgalom,MH,Our Homeland Movement,2019,2019,3.3,2019
+IRL,IRL-SF,SF,Ireland,2014,Sinn Féin,SF,Sinn Fein,1984,2019,19.5,2014
+ITA,ITA-FI / PdL,FI / PdL,Italy,2009,Forza Italia / Il Popolo della Libertà,FI / PdL,Forza Italia – The People of Freedom,1994,2019,35.3,2009
+ITA,ITA-FdI,FdI,Italy,2019,Fratelli d'Italia,FdI,Brothers of Italy,2014,2019,6.4,2019
+ITA,ITA-LL/LN/Lega,LL/LN/Lega,Italy,2019,Lega Lombarda / Lega Nord / Lega Salvini Premier,LL/LN/Lega,Lombard League – Northern League – Lega Salvini Premier,1989,2019,34.3,2019
+ITA,ITA-M5S,M5S,Italy,2014,Movimento 5 Stelle,M5S,Five Star Movement,2014,2019,21.2,2014
+LTU,LTU-DP,DP,Lithuania,2004,Darbo Partija,DP,Labour Party,2004,2004,30.2,2004
+LTU,LTU-LCP,LCP,Lithuania,2019,Lietuvos Centro Partija,LCP,Lithuanian Centre Party,2019,2019,5.1,2019
+LTU,LTU-TPP,TPP,Lithuania,2009,Tautos Prisikėlimo partija,TPP,National Resurrection Party,2009,2009,1,2009
+LTU,LTU-TT,TT,Lithuania,2014,Tvarka ir teisingumas / Liberalų Demokratų Partija,TT,Order and Justice - Liberal Democratic Party,2004,2019,14.3,2014
+LUX,LUX-ADR,ADR,Luxembourg,2019,Aktiounskomitee fir Demokratie an Rentengerechtigkeet / Alternativ Demokratesch Reformpartei,ADR,Action Committee for Democracy and Pensions Justice' / Alternative Democratic Reform Party,1994,2019,10,2019
+LUX,LUX-NB,NB,Luxembourg,1989,National Bewegong,NB,National Movement,1989,1994,2.9,1989
+NLD,NLD-CD,CD,Netherlands,1994,Centrum Democraten,CD,Centre Democrats,1989,1999,1,1994
+NLD,NLD-CP,CP,Netherlands,1984,Centrumpartij,CP,Centre Party,1984,1984,2.5,1984
+NLD,NLD-FvD,FvD,Netherlands,2019,Forum voor Democratie,FvD,Forum for Democracy,2019,2019,11,2019
+NLD,NLD-LPF,LPF,Netherlands,2004,Lijst Pim Fortuyn,LPF,Fortuyn List,2004,2004,2.6,2004
+NLD,NLD-PVV,PVV,Netherlands,2009,Partij voor de Vrijheid,PVV,Party for Freedom,2009,2019,17,2009
+NLD,NLD-SP,SP,Netherlands,1999,Socialistiese Partij,SP,Socialist Party,1989,1999,5,1999
+POL,POL-Kukiz'15,Kukiz'15,Poland,2019,Kukiz'15,Kukiz'15,Kukiz'15,2019,2019,3.7,2019
+POL,POL-LPR,LPR,Poland,2004,Liga Polskich Rodzin,LPR,League of Polish Families,2004,2004,15.9,2004
+POL,POL-PiS,PiS,Poland,2019,Prawo i Sprawiedliwość,PiS,Law and Justice,2009,2019,45.4,2019
+POL,POL-SRP,SRP,Poland,2004,Samoobrona Rzeczypospolitej Polskiej,SRP,Self-Defense of the Republic Poland,2004,2009,10.8,2004
+PRT,PRT-C-Basta!,C-Basta!,Portugal,2019,"Coligação Basta – Chega (Chega + Partido Popular Monárquico, PPM + Cidadania e Democracia Cristã, PPV/CDC)",C-Basta!,Coalition Enough (Enough + People's Monarchist Party + Citizenship and Christian Democracy party,2019,2019,1.5,2019
+ROU,ROU-PP-DD,PP-DD,Romania,2014,Partidul Poporului – Dan Diaconescu,PP-DD,People's Party - Dan Diaconescu,2014,2014,3.7,2014
+ROU,ROU-PRM,PRM,Romania,2009,Partidul România Mare,PRM,Greater Romania Party,2009,2014,8.7,2009
+SVK,SVK-ANO,ANO,Slovakia,2004,Aliancia nového občana,ANO,Alliance of the New Citizen,2004,2004,4.7,2004
+SVK,SVK-OL'aNO,OL'aNO,Slovakia,2014,Obyčajní ľudia a nezávislé osobnosti,OL'aNO,Ordinary People and Independent,2014,2019,7.5,2014
+SVK,SVK-SNS,SNS,Slovakia,2009,Slovenská národná strana,SNS,Slovak National Party,2009,2019,5.6,2009
+SVK,SVK-SNS + PSNS,SNS,Slovakia,2004,Slovenská národná strana + Pravá Slovenská národná strana,SNS + PSNS,Slovak National Party + Real Slovak National Party,2004,2004,2,2004
+SVK,SVK-SR,SR,Slovakia,2019,Sme Rodina – Boris Kollár,SR,We are family - Boris Kollár,2019,2019,3.2,2019
+SVK,SVK-Smer – SD,Smer – SD,Slovakia,2004,Smer – Sociálna Demokracia,Smer – SD,Direction - Social Democracy,2004,2004,16.9,2004
+SVN,SVN-LMŠ,LMŠ,Slovenia,2019,Lista Marjana Šarca,LMŠ,List of Marjan Šarec,2019,2019,15.4,2019
+SVN,SVN-SDS,SDS,Slovenia,2009,Slovenska Demokratska Stranka,SDS,Slovenian Democratic Party,2004,2014,26.7,2009
+SVN,SVN-SDS + SLS,SDS,Slovenia,2019,Slovenska Demokratska Stranka + Slovenska ljudska stranka,SDS + SLS,Slovenian Democratic Party + Slovenian People's Party,2019,2019,26.3,2019
+SVN,SVN-SNS,SNS,Slovenia,2004,Slovenska Nacionalna Stranka,SNS,Slovenian National Party,2004,2019,5,2004
+SVN,SVN-ZL/Levica,ZL/Levica,Slovenia,2019,Združena Levica / Levica,ZL/Levica,United Left / The Left,2014,2019,6.4,2019
+ESP,ESP-Podemos,Podemos,Spain,2014,Podemos,Podemos,We Can,2014,2014,8,2014
+ESP,ESP-Podemos + IU (UP),Podemos,Spain,2019,Podemos + Izquierda Unida (Unidos Podemos),Podemos + IU (UP),United We Can,2019,2019,10.1,2019
+ESP,ESP-Vox,Vox,Spain,2019,Vox,Vox,Vox,2014,2019,6.2,2019
+SWE,SWE-SD,SD,Sweden,2019,Sverigedemokraterna,SD,Sweden Democrats,1999,2019,15.3,2019

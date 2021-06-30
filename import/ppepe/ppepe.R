@@ -26,11 +26,13 @@ ppepe_out <-
   filter(! is.na(share_year)) %>% 
   distinct(country_short, party_name_short, .keep_all = TRUE) %>% 
   mutate(
-    party_id = row_number(),
-    party_short = str_replace(party_name_short, "( \\+ )(.+)", "")
+    party_short = str_replace(party_name_short, "( \\+ )(.+)", ""),
+    party_id = paste(country_short, party_name_short, sep = "-")
     ) %>% 
   relocate(country_short, party_id, party_short, .before = country) %>% 
   select(country_short:party_eng, first:share_year)
+
+duplicated(ppepe_out$party_id) %>% any()
 
 write_csv(ppepe_out, "ppepe.csv")
 
