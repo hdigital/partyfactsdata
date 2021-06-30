@@ -26,8 +26,8 @@ ppepe_out <-
   filter(! is.na(share_year)) %>% 
   distinct(country_short, party_name_short, .keep_all = TRUE) %>% 
   mutate(
-    party_short = str_replace(party_name_short, "( \\+ )(.+)", ""),
-    party_id = paste(country_short, party_name_short, sep = "-")
+    party_id = paste(country_short, party_name_short, sep = "-"),
+    party_short = str_replace(party_name_short, "( \\+ )(.+)", "")
     ) %>% 
   relocate(country_short, party_id, party_short, .before = country) %>% 
   select(country_short:party_eng, first:share_year)
