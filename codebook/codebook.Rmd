@@ -144,7 +144,7 @@ The Party Facts project aims to gather information on **all parties** in the wor
 The project may add parties
 
 - from external datasets that won at least **1.0% of the vote** (preferably in two elections)
-- with a **significant leader** (prime minister, president)
+- with a **significant leader** (prime minister, president, senior minister)
 - included in multiple external datasets (preferably at least three datasets)
 
 The respective threshold for including and linking parties from external datasets depends on the quality of the party level information (names, first/last year, election results) in the external source.
@@ -563,6 +563,10 @@ We review all comments and mark them as solved once the issue has been addressed
 
 
 ### Data (revisions)
+
+2021-07-15
+
+- completed removal of about 100 duplicates 
 
 2021-03-08
 

@@ -102,7 +102,8 @@ The project may add parties
 
 -   from external datasets that won at least **1.0% of the vote**
     (preferably in two elections)
--   with a **significant leader** (prime minister, president)
+-   with a **significant leader** (prime minister, president, senior
+    minister)
 -   included in multiple external datasets (preferably at least three
     datasets)
 
@@ -124,7 +125,7 @@ Examples for additional, optional inclusion criteria of parties:
 
 **Core parties** are observations that have been gathered by the Party
 Facts project. They can be added and edited on the Party Facts webpage.
-Currently we include around **5800 core parties**.
+Currently we include around **5700 core parties**.
 
 **External parties** are observations with party information extracted
 from other datasets – see [Party Facts
@@ -682,6 +683,10 @@ addressed.
 -   initial version by Phillip Hocks and Jan Schwalbach
 
 ### Data (revisions)
+
+2021-07-15
+
+-   completed removal of about 100 duplicates
 
 2021-03-08
 
