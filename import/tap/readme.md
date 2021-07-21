@@ -2,7 +2,7 @@
 
 ## Source
 
-+ Timbro & The Foundation for Free Enterprise [studiomagaluf.se](http://studiomagaluf.se)
++ Timbro & The Foundation for Free Enterprise [https://populismindex.com](https://populismindex.com)
 
 ## Import
 
