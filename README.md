@@ -1,6 +1,4 @@
-# Party Facts
-
-<img src="partyfacts_logo.jpg" alt="logo" width="200"/>
+<img src="partyfacts_logo.png" alt="logo" width="200"/>
 
 ## Authors
 
