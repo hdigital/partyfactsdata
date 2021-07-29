@@ -1,5 +1,5 @@
 ---
-title: "Party Facts"
+title: <img src="partyfacts_logo.png" alt="logo" width="200"/>
 subtitle: '*Codebook version: `r Sys.Date()`*'
 output:
   md_document:
@@ -464,6 +464,10 @@ We review all comments and mark them as solved once the issue has been addressed
 
 
 ### Codebook
+
+2021-07-29
+
+- include logo
 
 2021-03-09
 

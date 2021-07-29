@@ -222,7 +222,7 @@ comment for this party is created for any change in the primary link.
 ## Incomplete links
 
 For public datasets we complete the linking of all parties that meet the
-Party Facts population criteria (>5%, see above). Public datasets are
+Party Facts population criteria (\>5%, see above). Public datasets are
 visible on PF-Web without login and are archived regularly in the
 PF-Dataverse.
 
@@ -585,6 +585,10 @@ addressed.
 # Changes
 
 ### Codebook
+
+2021-07-29
+
+-   include logo
 
 2021-03-09
 
