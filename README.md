@@ -1,5 +1,7 @@
 # Party Facts
 
+<img src="partyfacts_logo.jpg" alt="logo" width="200"/>
+
 ## Authors
 
 + Paul Bederke — since 2019
