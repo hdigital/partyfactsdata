@@ -1,5 +1,5 @@
 ---
-title: <img src="partyfacts_logo.png" alt="logo" width="200"/>
+title: <img src="partyfacts-logo.png" alt="logo" width="200"/>
 subtitle: '*Codebook version: `r Sys.Date()`*'
 output:
   md_document:
