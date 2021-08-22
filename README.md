@@ -1,4 +1,4 @@
-# Party Facts
+<img src="codebook/partyfacts-logo.png" alt="logo" width="200"/>
 
 ## Authors
 
