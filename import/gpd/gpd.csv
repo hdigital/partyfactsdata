@@ -1,0 +1,161 @@
+country,party,year_first,year_last,party_id
+ALB,Socialist Party of Albania,2013,2017,ALB SPA 2013
+ALB,Democratic Party of Albania,2005,2013,ALB DPA 2005
+ARG,Justicialist Party,1946,2003,ARG JP 1946
+ARG,Republican Proposal,2016,2019,ARG RP 2016
+ARG,Front for Victory,2003,2015,ARG FV 2003
+ARG,Radical Civic Union,1999,2001,ARG RCU 1999
+ARM,Republican Party of Armenia,2008,2018,ARM RPA 2008
+ARM,Independent,1998,2008,ARM I 1998
+AUT,Austrian People's Party,2000,2019,AUT APP 2000
+AUT,Social Democratic Party of Austria,2007,2017,AUT SDPA 2007
+AZE,New Azerbaijan Party,2008,2013,AZE NAP 2008
+BGR,Bulgarian Socialist Party,2005,2009,BGR BSP 2005
+BGR,National Movement for Stability and Progress,2001,2005,BGR NMSP 2001
+BGR,Citizens for European Development of Bulgaria,2009,2018,BGR CEDB 2009
+BLR,Independent,2001,2018,BLR I 2001
+BOL,Movement for Socialism,2006,2019,BOL MS 2006
+BOL,Independent,2003,2005,BOL I 2003
+BOL,Revolutionary Nationalist Movement,2002,2003,BOL RNM 2002
+BRA,Brazilian Democratic Movement Party,2016,2018,BRA BDMP 2016
+BRA,Workers' Party,2003,2016,BRA WP 2003
+BRA,Social Liberal Party,2019,2019,BRA SLP 2019
+BRA,Independent,1934,1945,BRA I 1934
+BRA,Brazilian Labor Party,1934,1954,BRA BLP 1934
+BRA,Brazilian Social Democratic Party,1999,2002,BRA BSDP 1999
+CAN,Conservative Party,2006,2015,CAN CP 2006
+CAN,Liberal Party,2001,2019,CAN LP 2001
+CHE,Swiss People's Party,2015,2019,CHE SPP 2015
+CHE,Christian Democrats,2015,2019,CHE CD 2015
+CHE,Social Democrats,2015,2019,CHE SD 2015
+CHL,National Renewal,2010,2019,CHL NR 2010
+CHL,Socialist Party of Chile,2006,2018,CHL SPC 2006
+CHL,Party for Democracy,2000,2006,CHL PD 2000
+COL,Social National Unity Party,2002,2018,COL SNUP 2002
+COL,Colombian Conservative Party,1998,2002,COL CCP 1998
+CRI,National Liberation Party,2006,2014,CRI NLP 2006
+CRI,Social Christian Unity Party,1998,2006,CRI SCUP 1998
+CRI,Citizens' Action Party,2014,2018,CRI CAP 2014
+CZE,Independent,2008,2013,CZE I 2008
+CZE,Civic Democratic Party,2003,2013,CZE CDP 2003
+CZE,Czech Social Democratic Party,1998,2018,CZE CSDP 1998
+DEU,Social Democrat Party,1998,2005,DEU SDP 1998
+DEU,Christian Democratic Union,2006,2018,DEU CDU 2006
+DOM,Dominican Liberation Party,2004,2019,DOM DLP 2004
+DOM,Dominican Revolutionary Party,2000,2004,DOM DRP 2000
+ECU,Proud and Sovereign Fatherland Alliance,2007,2019,ECU PSFA 2007
+ECU,January 21Patriotic Society,2003,2005,ECU JPS 2003
+ECU,Conservative Party,1968,1971,ECU CP 1968
+ECU,Christian Democratic Union,2000,2002,ECU CDU 2000
+ECU,Independent,2005,2006,ECU I 2005
+ESP,People's Party,2012,2018,ESP PP 2012
+ESP,Spanish Socialist Workers' Party,1996,2011,ESP SSWP 1996
+EST,Estonian Reform Party,2005,2014,EST ERP 2005
+FIN,Social Democratic Party,2006,2012,FIN SDP 2006
+FRA,Union for a Popular Movement,2002,2012,FRA UPM 2002
+FRA,Socialist Party,2012,2017,FRA SP 2012
+FRA,Forward Republic,2017,2018,FRA FR 2017
+GBR,Labour Party,2001,2010,GBR LP 2001
+GBR,Conservative Party,2010,2019,GBR CP 2010
+GEO,United National Movement,2004,2012,GEO UNM 2004
+GEO,Independent,2013,2018,GEO I 2013
+GEO,Georgian Dream,2013,2018,GEO GD 2013
+GHA,New Patriotic Party,2005,2008,GHA NPP 2005
+GRC,New Democracy,2012,2015,GRC ND 2012
+GRC,The Coalition of the Radical Left,2015,2019,GRC TCRL 2015
+GTM,Patriotic Party,2012,2015,GTM PP 2012
+GTM,National Solidarity Party,2004,2007,GTM NSP 2004
+GTM,National Convergence Front,2016,2019,GTM NCF 2016
+GTM,National Unity of Hope,2008,2011,GTM NUH 2008
+HND,National Party,2002,2019,HND NP 2002
+HND,Liberal Party of Honduras,1998,2009,HND LPH 1998
+HRV,Croatian Democratic Union,1990,2019,HRV CDU 1990
+HRV,Social Democratic Party of Croatia,2000,2016,HRV SDPC 2000
+HUN,The Fidesz - Hungarian Civic Alliance,1998,2018,HUN TFHCA 1998
+HUN,Hungarian Socialist Party,1994,2009,HUN HSP 1994
+IND,Bharatiya Janata Party,1999,2019,IND BJP 1999
+IND,Indian National Congress,2004,2014,IND INC 2004
+IRL,Fine Gael,2011,2016,IRL FG 2011
+IRL,Fianna Fáil,2002,2011,IRL FF 2002
+IRN,Alliance of Builders of Islamic Iran,2005,2013,IRN ABII 2005
+ITA,Forward Italy,2001,2011,ITA FI 2001
+ITA,Democratic Party,2006,2016,ITA DP 2006
+ITA,Independent,2018,2019,ITA I 2018
+JPN,Democratic Party of Japan,2011,2012,JPN DPJ 2011
+JPN,Liberal Democratic Party,2006,2019,JPN LDP 2006
+KAZ,Radiant Fatherland,1999,2015,KAZ RF 1999
+KGZ,White Path,2005,2010,KGZ WP 2005
+KGZ,Social Democratic Party of Kyrgyzstan,2012,2017,KGZ SDPK 2012
+LTU,Independent,2004,2014,LTU I 2004
+LTU,Homeland Union - Christian Democrats,2008,2012,LTU HUCD 2008
+LTU,Social Democrat Party,2001,2016,LTU SDP 2001
+LVA,The New Era Party/Unity,2009,2014,LVA TNEPU 2009
+LVA,Liepāja Party,2016,2018,LVA LP 2016
+LVA,Unity,2014,2016,LVA U 2014
+LVA,The New Era Party,2002,2004,LVA TNEP 2002
+LVA,The People's Party,2004,2007,LVA TPP 2004
+MDA,Party of Communists of the Republic of Moldova,2001,2009,MDA PCRM 2001
+MDA,Democratic Party of Moldova,2009,2018,MDA DPM 2009
+MDA,Independent,2012,2016,MDA I 2012
+MEX,National Action Party,2001,2012,MEX NAP 2001
+MEX,Party of the Mexican Revolution,1935,1940,MEX PMR 1935
+MEX,Institutional Revolutionary Party,2013,2018,MEX IRP 2013
+MEX,National Regeneration Movement,2019,2019,MEX NRM 2019
+MKD,The Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity,2006,2016,MKD TIMRODPMNU 2006
+MNE,Democratic Party of Socialists,2008,2018,MNE DPS 2008
+MNG,Mongolian People's Revolutionary Party,2005,2009,MNG MPRP 2005
+NIC,Constitutionalist Liberal Party,2002,2006,NIC CLP 2002
+NIC,Sandinista National Liberation Front,2007,2019,NIC SNLF 2007
+NLD,People's Party for Freedom and Democracy,2010,2017,NLD PPFD 2010
+NLD,Christian Democratic Appeal,2002,2010,NLD CDA 2002
+NOR,Christian Peoples Party,2001,2005,NOR CPP 2001
+NOR,Labour Party,2005,2013,NOR LP 2005
+NOR,Conservative Party,2013,2017,NOR CP 2013
+PAN,Democratic Change,2009,2014,PAN DC 2009
+PAN,Democratic Revolutionary Party,2004,2009,PAN DRP 2004
+PAN,Panameñista Party,2014,2019,PAN PP 2014
+PER,Peruvians for Change,2016,2018,PER PC 2016
+PER,Peruvian Nationalist Party,2011,2016,PER PNP 2011
+PER,Possible Peru,2001,2006,PER PP 2001
+PER,Alianza Popular Revolucionario de las Americas,2006,2011,PER APRA 2006
+PHL,Lakas-Christian Muslim Democrats,2004,2010,PHL LCMD 2004
+POL,Democratic Left Alliance,2001,2004,POL DLA 2001
+POL,Law and Justice,2005,2018,POL LJ 2005
+POL,Civic Platform,2010,2015,POL CP 2010
+POL,Independent,2001,2005,POL I 2001
+PRY,The National Republican Association - Colorado Party,2003,2018,PRY TNRACP 2003
+PRY,Patriotic Alliance for Change,2008,2012,PRY PAC 2008
+PRY,The Authentic Radical Liberal Party,2012,2013,PRY TARLP 2012
+ROU,Social Democrat Party,2012,2015,ROU SDP 2012
+ROU,Democratic Liberal Party,2004,2014,ROU DLP 2004
+ROU,National Liberal Party,2004,2019,ROU NLP 2004
+ROU,Social Democratic Party,2001,2004,ROU SDP 2001
+ROU,Independent,2015,2016,ROU I 2015
+RUS,United Russia,1999,2018,RUS UR 1999
+SLV,Farabundo Marti National Liberational Front,2009,2019,SLV FMNLF 2009
+SLV,Nationalist Republican Alliance,1999,2009,SLV NRA 1999
+SRB,Democratic Party,2001,2012,SRB DP 2001
+SRB,Democratic Party of Serbia,2004,2008,SRB DPS 2004
+SRB,Serbian Progressive Party,2012,2017,SRB SPP 2012
+SVK,People's Party - Movement for a Democratic Slovakia,1994,1998,SVK PPMDS 1994
+SVK,Direction - Social Democracy,2006,2018,SVK DSD 2006
+SVK,Slovak Democratic and Christian Union,1998,2006,SVK SDCU 1998
+SVN,Slovenian Democratic Party,2004,2008,SVN SDP 2004
+SVN,Social Democrats,2008,2012,SVN SD 2008
+SWE,Social Democratic Party,2002,2019,SWE SDP 2002
+SWE,Moderate Party,2006,2014,SWE MP 2006
+TJK,People's Democratic Party of Tajikistan,1994,2018,TJK PDPT 1994
+TUR,Justice and Development Party,2003,2018,TUR JDP 2003
+UKR,Bloc Yuliya Tymoshenko,2007,2010,UKR BYT 2007
+UKR,"Petro Poroshenko Bloc ""Solidarity""",2014,2019,UKR PPBS 2014
+UKR,Our Ukraine-People's Self Defence Bloc,2005,2009,UKR OUPSDB 2005
+UKR,Party of Regions,2010,2014,UKR PR 2010
+UKR,Independent,1994,2005,UKR I 1994
+UKR,Social Democratic Party of Ukraine,1991,1994,UKR SDPU 1991
+URY,Broad Front,2005,2019,URY BF 2005
+URY,Colorado Party,2000,2004,URY CP 2000
+USA,Republican Party,2001,2019,USA RP 2001
+USA,Democratic Party,2009,2016,USA DP 2009
+VEN,United Socialist Party of Venezuela,2007,2019,VEN USPV 2007
+VEN,The Fifth Republic Movement,1999,2006,VEN TFRM 1999
+ZAF,African National Congress,2004,2008,ZAF ANC 2004
