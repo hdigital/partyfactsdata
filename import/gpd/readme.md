@@ -2,7 +2,7 @@
 
 ## Source
 
-+ Hawkins, Kirk A.; Aguilar, Rosario; Castanho Silva, Bruno; Jenne, Erin K.; Kocijan, Bojana; Rovira Kaltwasser, Cristóbal, 2019, "Global Populism Database, v1", [https://doi.org/10.7910/DVN/LFTQEZ](https://doi.org/10.7910/DVN/LFTQEZ), Harvard Dataverse, V1, UNF:6:BwWUJ8zAsoVGfRfCoBhp1Q== [fileUNF]
++ Hawkins, Kirk A., Rosario Aguilar, Bruno Castanho Silva, Erin K. Jenne, Bojana Kocijan, Cristóbal Rovira Kaltwasser. 2019. "Global Populism Database, v1". Harvard Dataverse, V1, UNF:6:BwWUJ8zAsoVGfRfCoBhp1Q== [fileUNF] — [doi: 10.7910/DVN/LFTQEZ](https://doi.org/10.7910/DVN/LFTQEZ)
 
 ## Import
 
