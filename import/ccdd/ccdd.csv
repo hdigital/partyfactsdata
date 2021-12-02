@@ -1,0 +1,87 @@
+country,name_short,name_english,name,year_only,party_id,note
+CZE,CSSD,Czech Social Democratic Party,,,CZE-1,
+CZE,ODS,Civic Democratic Party,,,CZE-2,
+CZE,KSCM,Communist Party of Bohemia and Moravia,,,CZE-3,
+CZE,KDU–CSL,Christian Democratic Party – Czechoslovak People's Party,,,CZE-4,
+CZE,TOP 09,,,,CZE-5,
+CZE,VV,Public Affairs,,2010,CZE-6,
+CZE,ANO 2011,,,2013,CZE-7,
+CZE,,Tomio Okamura's Dawn of Direct Democracy,,2013,CZE-8,
+CZE,,The government,,,CZE-9,"CSSD + ODS + SZ as a whole in 2010, ODS + TOP 09 + VV/LIDEM as a whole in 2013"
+DNK,,Liberals,Venstre,,DNK-1,
+DNK,,Social Democrats,Socialdemokraterne,,DNK-2,
+DNK,,Danish People's Party,Dansk Folkeparti,,DNK-3,
+DNK,,Socialist People's Party,Socialistik Folkeparti,,DNK-4,
+DNK,,Conservatives,Det Konservative Folkeparti,,DNK-5,
+DNK,,Social Liberals,Det Radikale Venstre,,DNK-6,
+DNK,,Red/Green Alliance,Enhedslisten,,DNK-7,
+DNK,,New Alliance,Ny Alliance,2007,DNK-8,
+DNK,,Liberal Alliance,Liberal Alliance,2011,DNK-9,
+DNK,,The government,,,DNK-10,Venstre and Det Konservative Folkeparti as a whole
+DEU,CDU,,,,DEU-1,
+DEU,CSU,,,,DEU-2,
+DEU,CDU/CSU,,,,DEU-3,as a unitary actor
+DEU,SPD,,,,DEU-4,
+DEU,FDP,,,,DEU-5,
+DEU,,,Buendnis 90/Die Gruenen,,DEU-6,
+DEU,,,Die Linke,,DEU-7,
+DEU,AfD,,,2013,DEU-8,
+DEU,PIRATEN,,,2013,DEU-9,
+DEU,,The government,,,DEU-10,"CDU + CSU + SPD as a whole for 2009, CDU + CSU + FDP
+as a whole for 2013"
+HUN,Fidesz,,,,HUN-1,
+HUN,KDNP,,,,HUN-2,
+HUN,Fidesz–KDNP,,,,HUN-3,alliance as a whole
+HUN,MSZP,Hungarian Socialist Party,,,HUN-4,
+HUN,MIEP–Jobbik,MIEP–Jobbik Third Way Alliance of Parties,,,HUN-5,"Jobbik on its own in
+2010"
+HUN,SZDSZ,Alliance of Free Democrats,,2006,HUN-6,
+HUN,MDF,Hungarian Democratic Forum,,2006,HUN-7,
+HUN,LMP,Politics Can Be Different,,2010,HUN-8,
+HUN,,The government,,,HUN-9,"MSZP–SZDSZ in 2006, please code the MSZP option above if
+the government is the subject for the 2010 election"
+NLD,PvdA,,,,NLD-1,
+NLD,CDA,,,,NLD-2,
+NLD,VVD,,,,NLD-3,
+NLD,D66,,,,NLD-4,
+NLD,SP,,,,NLD-5,
+NLD,PVV,,,,NLD-6,
+NLD,,,ChristenUnie,,NLD-7,
+NLD,,,GroenLinks,,NLD-8,
+NLD,PvdD,Party for the Animals,,2010,NLD-9,
+NLD,50PLUS,,,2012,NLD-10,
+NLD,,The government,,,NLD-11,"CDA + PvdA + CU as a whole in 2010, VVD + CDA as a whole
+in 2012"
+POL,PiS,Law and Justice,,,POL-1,
+POL,PO,Civic Platform,,,POL-2,
+POL,LiD,Left and Democrats,,,POL-3,
+POL,PSL,Polish Peasant's Party,,,POL-4,
+POL,LPR,League of Polish Families,,2007,POL-5,
+POL,SRP,Self–Defense of the Republic of Poland,,2007,POL-6,
+POL,RP,Palikot’s Movement,,2011,POL-7,
+POL,PJN,Poland Comes First,,2011,POL-8,
+POL,,The government,,,POL-9,"PiS + SRP + LPR as a whole in 2007, PO + PSL as a whole in
+2011"
+PRT,PS,,Partido Socialista,,PRT-1,
+PRT,PSD,,Partido Social Democrata,,PRT-2,
+PRT,CDU,,Coligacao Democratica Unitaria,,PRT-3,
+PRT,,,Bloco de Esquerda,,PRT-4,
+PRT,CDS–PP,,CDS – Partido Popular,,PRT-5,
+SWE,v,Left party,,,SWE-1,
+SWE,mp,Green party,,,SWE-2,
+SWE,s,Social democratic party,,,SWE-3,
+SWE,c,Center party,,,SWE-4,
+SWE,fp,Liberal party,,,SWE-5,
+SWE,m,Moderate party,,,SWE-6,
+SWE,kd,Christian democratic party,,,SWE-7,
+SWE,sd,The Sweden democrats,,,SWE-8,
+SWE,fi,Feminist initiative,,,SWE-9,
+SWE,,Red–green alliance,,,SWE-10,
+SWE,,The government,,,SWE-11,"Moderate party M, Center party C, Liberal party FP, Christian
+democratic party KD as a whole for both elections"
+GBR,,Labour Party,,,GBR-1,
+GBR,,Liberal Democratic Party,,,GBR-2,
+GBR,,Conservative Party,,,GBR-3,
+GBR,UKIP,,,2015,GBR-4,
+GBR,,The Scottish National Party,,2015,GBR-5,
+GBR,,Government,,2015,GBR-6,
