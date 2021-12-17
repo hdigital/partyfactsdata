@@ -2,11 +2,6 @@
 title: <img src="partyfacts-logo.png" alt="logo" width="200"/>
 subtitle: '*Codebook version: `r Sys.Date()`*'
 output:
-  md_document:
-    variant: markdown_github
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
   html_document:
     code_folding: hide
     fig_height: 5
@@ -15,6 +10,11 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+  md_document:
+    variant: markdown_github
 ---
 
 <style type="text/css">
@@ -29,20 +29,20 @@ body {
 
 **Project leaders**
 
-+ Paul Bederke (University of Bremen) -- since 2019
-+ Holger Döring (University of Bremen) -- since 2012
++ Paul Bederke (University of Konstanz) -- since 2019
++ Holger Döring (GESIS – Leibniz Institute for the Social Sciences) -- since 2012
 + Sven Regel (WZB Berlin Social Science Center) -- since 2012
 </br>
 
 **Contact**
 
-+ Paul Bederke -- <pbederke@uni-bremen.de>
++ Paul Bederke -- <paul.bederke@uni-konstanz.de>
 </br>
 
 **References**
 
 + Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of Political Parties Worldwide.” Party Politics 25(2): 97–109. doi: [10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671)
-+ Bederke, Paul, Holger Döring, and Sven Regel. 2020. “Party Facts Dataverse.” [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
++ Bederke, Paul, Holger Döring, and Sven Regel. 2021. “Party Facts Dataverse.” [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
 
 
 

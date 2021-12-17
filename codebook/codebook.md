@@ -222,7 +222,7 @@ comment for this party is created for any change in the primary link.
 ## Incomplete links
 
 For public datasets we complete the linking of all parties that meet the
-Party Facts population criteria (\>5%, see above). Public datasets are
+Party Facts population criteria (>5%, see above). Public datasets are
 visible on PF-Web without login and are archived regularly in the
 PF-Dataverse.
 
@@ -256,8 +256,8 @@ Gandhi (1969-1977)” ).
     Bloc / League of Expellees and Deprived of
     Rights](https://partyfacts.herokuapp.com/data/partycodes/1010/)).
 -   **Identical names** used by different parties include the **first
-    year** in the English name ([Civic
-    Union (1912)](https://partyfacts.herokuapp.com/data/partycodes/4507/))
+    year** in the English name ([Civic Union
+    (1912)](https://partyfacts.herokuapp.com/data/partycodes/4507/))
 -   Optional or **temporal parts** of a party name are put in
     **brackets** (e.g. [\[United\] Democratic
     Party](https://partyfacts.herokuapp.com/data/partycodes/2305/))
@@ -385,7 +385,7 @@ linking](https://partyfacts.herokuapp.com/activity/linking/) page.
 In Party Facts we collect party level information from external
 datasets. We do not include these external datasets but **extract party
 information only**. Therefore different datasets from the social
-sciences are linked but are not combined. Currently around **50 external
+sciences are linked but are not combined. Currently around **60 external
 datasets** are imported and around **35000 external parties** are
 linked.
 
