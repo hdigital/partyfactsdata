@@ -6,7 +6,7 @@ library(dbplyr)
 
 db_file <- "source__parlgov.db"
 if( ! file.exists(db_file)) {
-  url <- "http://www.parlgov.org/static/data/parlgov-development.db"
+  url <- "https://www.parlgov.org/data/parlgov-development.db"
   download.file(url, db_file, mode = "wb")
 }
 
@@ -61,11 +61,13 @@ cab_n <-
   rename(cabinet_n = n)
 
 # party information
+`%notin%` <- Negate(`%in%`)
+
 parlgov_url <- "http://www.parlgov.org/explore/%s/party/%d/"
 party_info <- 
   party_pg %>%
   select(party_id, country_name_short:family_name, -country_name, -party_name_ascii, -family_name) %>%
-  filter(family_name_short != "none") %>%
+  filter(party_name_short %notin% c("none", "no-seat", "one-seat", "etc")) %>%
   mutate(url = sprintf(parlgov_url, tolower(country_name_short), party_id)) %>% 
   rename(country = country_name_short, family = family_name_short)
   
