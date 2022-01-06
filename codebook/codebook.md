@@ -9,20 +9,21 @@ body {
 
 **Project leaders**
 
--   Paul Bederke (University of Bremen) – since 2019
--   Holger Döring (University of Bremen) – since 2012
+-   Paul Bederke (University of Konstanz) – since 2019
+-   Holger Döring (GESIS – Leibniz Institute for the Social Sciences) –
+    since 2012
 -   Sven Regel (WZB Berlin Social Science Center) – since 2012 </br>
 
 **Contact**
 
--   Paul Bederke – <pbederke@uni-bremen.de> </br>
+-   Paul Bederke – <paul.bederke@uni-konstanz.de> </br>
 
 **References**
 
 -   Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of
     Political Parties Worldwide.” Party Politics 25(2): 97–109. doi:
     [10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671)
--   Bederke, Paul, Holger Döring, and Sven Regel. 2020. “Party Facts
+-   Bederke, Paul, Holger Döring, and Sven Regel. 2021. “Party Facts
     Dataverse.”
     [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
 
@@ -130,7 +131,7 @@ Currently we include around **5700 core parties**.
 **External parties** are observations with party information extracted
 from other datasets – see [Party Facts
 Data](https://github.com/hdigital/partyfactsdata). Currently we include
-around **35000 external parties**.
+around **40000 external parties**.
 
 # Countries
 
@@ -222,7 +223,7 @@ comment for this party is created for any change in the primary link.
 ## Incomplete links
 
 For public datasets we complete the linking of all parties that meet the
-Party Facts population criteria (>5%, see above). Public datasets are
+Party Facts population criteria (\>5%, see above). Public datasets are
 visible on PF-Web without login and are archived regularly in the
 PF-Dataverse.
 
@@ -256,8 +257,8 @@ Gandhi (1969-1977)” ).
     Bloc / League of Expellees and Deprived of
     Rights](https://partyfacts.herokuapp.com/data/partycodes/1010/)).
 -   **Identical names** used by different parties include the **first
-    year** in the English name ([Civic Union
-    (1912)](https://partyfacts.herokuapp.com/data/partycodes/4507/))
+    year** in the English name ([Civic
+    Union (1912)](https://partyfacts.herokuapp.com/data/partycodes/4507/))
 -   Optional or **temporal parts** of a party name are put in
     **brackets** (e.g. [\[United\] Democratic
     Party](https://partyfacts.herokuapp.com/data/partycodes/2305/))
@@ -386,7 +387,7 @@ In Party Facts we collect party level information from external
 datasets. We do not include these external datasets but **extract party
 information only**. Therefore different datasets from the social
 sciences are linked but are not combined. Currently around **60 external
-datasets** are imported and around **35000 external parties** are
+datasets** are imported and around **40000 external parties** are
 linked.
 
 ## Categories
@@ -585,6 +586,12 @@ addressed.
 # Changes
 
 ### Codebook
+
+2021-12-07
+
+-   update contact information
+-   update references
+-   minor revision
 
 2021-07-29
 

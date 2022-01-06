@@ -465,6 +465,12 @@ We review all comments and mark them as solved once the issue has been addressed
 
 ### Codebook
 
+2021-12-07
+
+- update contact information
+- update references
+- minor revision
+
 2021-07-29
 
 - include logo
