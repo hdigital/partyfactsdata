@@ -2,10 +2,10 @@
 
 ## Authors
 
-+ Paul Bederke — since 2019
-+ Holger Döring — since 2012
-+ Sven Regel — since 2012
-+ [ _contact information_ — pbederke uni-bremen ]
++ Paul Bederke — University of Konstanz — since 2019
++ Holger Döring — GESIS – Leibniz Institute for the Social Sciences — since 2012
++ Sven Regel — WZB Berlin Social Science Center — since 2012
++ [ _contact information_ — paul.bederke uni-konstanz de ]
 
 see full credits at [Party Facts “about section”](https://partyfacts.herokuapp.com/documentation/about/)
 
