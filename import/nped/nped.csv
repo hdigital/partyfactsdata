@@ -1,0 +1,202 @@
+country,year_first,name_english,name,name_short,party_id
+AUT,1986,Green Alternative,Die Grüne Alternative,GA,AUT-GA-1986
+AUT,1994,Liberal Forum,Liberales Forum,LF,AUT-LF-1994
+AUT,2006,Alliance for the Future of Austria,Bündnis Zukunft Österreich,AFA,AUT-AFA-2006
+BEL,1965,Francophone Democratic Front,Front Démocratique des Bruxellois Francophones,FDF,BEL-FDF-1965
+BEL,1965,Wallon Front,Front Wallon,WF,BEL-WF-1965
+BEL,1965,Wallon Worker's Party,Parti wallon des travailleurs,WWP,BEL-WWP-1965
+BEL,1968,Wallon Rally,Rassemblement wallon,WR,BEL-WR-1968
+BEL,1968,Christian People's Party,Christelijke Volkspartij,CPP,BEL-CPP-1968
+BEL,1968,Christian Social Party,Parti social chrétien,CSP,BEL-CSP-1968
+BEL,1971,Party of Liberty and Progress,Partij voor Vrijheid en Vooruitgang,PLP,BEL-PLP-1971
+BEL,1971,Francophone Liberals,Parti de la liberté et du progrès,FL,BEL-FL-1971
+BEL,1971,Brussels Liberal Party,Parti Libéral,BLP,BEL-BLP-1971
+BEL,1978,"Democratic Union for the Respect for
+Labour","Union Démocratique pour le Respect
+du Travail",DURL,BEL-DURL-1978
+BEL,1978,Flemish Bloc,Vlaams Blok,FB,BEL-FB-1978
+BEL,1978,Flemish Socialist Party,Belgische Socialistische Partij,FSP,BEL-FSP-1978-2
+BEL,1978,Francophone Socialist Party,Parti Socialiste,FSP,BEL-FSP-1978-1
+BEL,1981,Écolo,"Écologistes Confédérés pour
+l'organisation de luttes originales",É,BEL-É-1981
+BEL,1981,Agalev,Anders Gaan Leven,A,BEL-A-1981
+BEL,1991,"Radical Reformers Fighting for an
+Upright Society","Radicale Omvormers en Sociale
+Strijders voor een Eerlijker
+Maatschappij",RRFUS,BEL-RRFUS-1991
+BEL,1991,National Front,Front national,NF,BEL-NF-1991
+BEL,2003,New-Flemish Alliance,Nieuw-Vlaamse Alliantie,NFA,BEL-NFA-2003
+BEL,2003,Spirit,Spirit,S,BEL-S-2003
+BEL,2007,List Dedecker,Lijst Dedecker,LD,BEL-LD-2007
+BEL,2010,People's Party,Parti Populaire,PP,BEL-PP-2010
+DNK,1960,Independents' Party,De Uafhængige,IP,DNK-IP-1960
+DNK,1960,Socialist People's Party,Socialistisk Folkeparti,SPP,DNK-SPP-1960
+DNK,1968,Left Socialist Party,Venstresocialisterne,LSP,DNK-LSP-1968
+DNK,1973,Christian People's Party,Kristeligt Folkeparti,CPP,DNK-CPP-1973
+DNK,1973,Centre Democrats,Centrum-Demokraterne,CD,DNK-CD-1973
+DNK,1973,Progress Party,Fremskridtspartiet,PP,DNK-PP-1973
+DNK,1987,Common Course,Fælles Kurs,CC,DNK-CC-1987
+DNK,1998,Danish People's Party,Dansk Folkeparti,DPP,DNK-DPP-1998
+DNK,2007,New Alliance,Ny Alliance,NA,DNK-NA-2007
+FIN,1962,Liberal League,Vapaamielisten liitto,LL,FIN-LL-1962
+FIN,1966,Finnish Rural Party,Suomen maaseudun puolue,FRP,FIN-FRP-1966
+FIN,1970,Christian League,Suomen Kristillinen Liitto,CL,FIN-CL-1970
+FIN,1975,Constitutional People's Party,Perustuslaillinen Kansanpuolue,CPP,FIN-CPP-1975
+FIN,1975,Finnish People's Unity Party,Suomen Kansan Yhtenäisyyden Puolue,FPUP,FIN-FPUP-1975
+FIN,1983,Greens,Vihreät,G,FIN-G-1983
+FIN,1987,Democratic Alternative,Demokraattinen Vaihtoehto,DA,FIN-DA-1987
+FIN,1995,Progressive Finnish Party,Nuorsuomalainen Puolue,PFP,FIN-PFP-1995
+FIN,1995,Ecological Party,Ekologinen puolue,EP,FIN-EP-1995
+FIN,1999,Reform Group,Remonttiryhmä,RG,FIN-RG-1999
+FRA,1962,Independent Republicans,Républicains indépendants,IR,FRA-IR-1962
+FRA,1973,Centre Democracy and Progress,Centre démocratie et progrès,CDP,FRA-CDP-1973
+FRA,1973,Left Radicals,Mouvement de la Gauche Radicale,LR,FRA-LR-1973
+FRA,1986,National Front,Front National,NF,FRA-NF-1986
+FRA,1997,Greens,Les Verts,G,FRA-G-1997
+FRA,1997,Movement for France,Mouvement pour la France,MF,FRA-MF-1997
+FRA,2007,New Centre,Nouveau Centre,NC,FRA-NC-2007
+FRA,2007,Democratic Movement,Mouvement démocrate,DM,FRA-DM-2007
+DEU,1983,Greens,Die Grünen,G,DEU-G-1983
+DEU,1990,Party of Democratic Socialism,Partei des Demokratischen Sozialismus,PDS,DEU-PDS-1990
+GRC,1989,Independent Muslim Lists,,IML,GRC-IML-1989
+GRC,1989,Democratic Renewal,Dimokratiki Ananeosi,DR,GRC-DR-1989
+GRC,1989,Greek Left,Elliniki Aristera,GL,GRC-GL-1989
+GRC,1989,Ecologist Alternative,Ikologi Enallaktiki,EA,GRC-EA-1989
+GRC,1990,"Ecological Movement – Political
+Renaissance",Ikologiko Kinima Politikis Anagennisis,EMPR,GRC-EMPR-1990
+GRC,1993,Political Spring,Politiki Anixi,PS,GRC-PS-1993
+GRC,1996,Democratic Social Movement,Dimokratiko Koinoniko Kinima,DSM,GRC-DSM-1996
+GRC,2007,Popular Orthodox Rally,Laikós Orthódoxos Synagermós,POR,GRC-POR-2007
+ISL,1967,Union of Liberals and Leftists,Samtök frjálslyndra og vinstri manna,ULL,ISL-ULL-1967
+ISL,1983,Social Democratic Federation,Bandalag jafnaðarmanna,SDF,ISL-SDF-1983
+ISL,1983,Womens Alliance,Samtök um kvennalista,WA,ISL-WA-1983
+ISL,1987,Association for Equality and Justice,Samtök um jatnrétti og félagshyggju,AEJ,ISL-AEJ-1987
+ISL,1995,People's Movement,Thjodvaki,PM,ISL-PM-1995
+ISL,1999,Liberal party,Frjálslyndi flokkurinn,L,ISL-L-1999
+ISL,2009,Civic Movement,Borgarahreyfingin,CM,ISL-CM-2009
+IRL,1961,National Progressive Democrats,,NPD,IRL-NPD-1961
+IRL,1981,Workers Party,,WP,IRL-WP-1981
+IRL,1981,National H-block Committee,,NHC,IRL-NHC-1981
+IRL,1981,Socialist Labour Party,,SLP,IRL-SLP-1981
+IRL,1987,Democratic Socialist Party,,DSP,IRL-DSP-1987
+IRL,1987,Progressive Democrats,,PD,IRL-PD-1987
+IRL,1989,Green Party,,GP,IRL-GP-1989
+IRL,1992,Democratic Left,,DL,IRL-DL-1992
+IRL,1997,Sinn Féin (provisional wing)1,,SF1,IRL-SF1-1997
+IRL,1997,Socialist Party,,SP,IRL-SP-1997
+ITA,1968,Socialist Party of Proletarian Unity,"Partito Socialista Italiano di Unità
+Proletaria",SPPU,ITA-SPPU-1968
+ITA,1976,"Party of Proletarian Unity for
+Communism","Partito di Unità Popolare per il
+Comunismo",PPUC,ITA-PPUC-1976
+ITA,1976,Radical Party,Partito Radicale,RP,ITA-RP-1976
+ITA,1979,Trieste List,Lista per Trieste,TL,ITA-TL-1979
+ITA,1983,Venetian League,Liga Veneta,VL,ITA-VL-1983
+ITA,1987,Lombard League,Lega Lombarda,LL,ITA-LL-1987
+ITA,1987,Greens,Federazione delle Liste Verdi,G,ITA-G-1987
+ITA,1992,Network - Movement for Democracy,"Movimento per la Democrazia – La
+Rete",NMD,ITA-NMD-1992
+ITA,1992,Communist Refoundation,Partito della Rifondazione Comunista,CR,ITA-CR-1992
+ITA,1992,Pannella List,Lista Pannella,PL,ITA-PL-1992
+ITA,1994,Southern Action League,Lega d'Azione Meridionale,SAL,ITA-SAL-1994
+ITA,1994,Democratic Alliance,Alleanza Democratica,DA,ITA-DA-1994
+ITA,1994,Forza Italia,,FI,ITA-FI-1994
+ITA,1994,Christian Democratic Centre,Centro Cristiano Democratico,CDC,ITA-CDC-1994
+ITA,1994,Union of the Centre,Unione di Centro,UC,ITA-UC-1994
+ITA,1994,Liberal Democratic Pole,Polo Liberal Democratic,LDP,ITA-LDP-1994
+ITA,1996,Dini List,Lista Dini,DL,ITA-DL-1996
+ITA,2001,New PSI,Nuovo Partito Socialista Italiano,NPSI,ITA-NPSI-2001
+ITA,2001,Party of the Italian communists,Partito dei Comunisti Italiani,PI,ITA-PI-2001
+ITA,2006,Movement for Autonomy,Movimento per le Autonomie,MA,ITA-MA-2006
+ITA,2006,Union for Europan Democracy,Unione per la Democrazia Europa,UED,ITA-UED-2006
+LUX,1964,Popular Independent Movement,Mouvement indépendant populaire,PIM,LUX-PIM-1964
+LUX,1974,Social Democratic Party,Sozialdemokratesch Partei,SDP,LUX-SDP-1974
+LUX,1979,Enrolés de force,,E,LUX-E-1979
+LUX,1979,"Jean Gremling List -- Independent
+Socialists","Jean Gremling List – Socialistes
+Indépendants",JGLIS,LUX-JGLIS-1979
+LUX,1984,Green Alternative,Déi Gréng,GA,LUX-GA-1984
+LUX,1989,Action Committee 5/6 Pensions for All,"Aktiounskomitee 5/6 Pensioun fir
+jiddfereen",AC56PA,LUX-AC56PA-1989
+LUX,1989,Green Left Ecological Initiative,Greng Lëscht Ekologesch Initiativ,GLEI,LUX-GLEI-1989
+NLD,1963,Reformed Political Union,Gereformeerd Politiek Verbond,RPU,NLD-RPU-1963
+NLD,1963,Farmers' Party,Boerenpartij,FP,NLD-FP-1963
+NLD,1967,Democrats 66,Democraten 66,D66,NLD-D66-1967
+NLD,1971,Democratic Socialists ''70,Democratisch Socialisten '70,DS70,NLD-DS70-1971
+NLD,1971,Middle Class Party,Middenstands Partij,MCP,NLD-MCP-1971
+NLD,1971,Radical Political Party,Politieke Partij Radikalen,RPP,NLD-RPP-1971
+NLD,1972,Roman Catholic Party,Rooms Katholieke Partij Nederland,RCP,NLD-RCP-1972
+NLD,1981,Reformed Political Federation,Reformatorische Politieke Federatie,RPF,NLD-RPF-1981
+NLD,1982,Centre Party,Centrumpartij,CP,NLD-CP-1982
+NLD,1982,Envangelical People's Party,Evangelische Volkspartij,EPP,NLD-EPP-1982
+NLD,1989,Centre Democrats,Centrumdemocraten,CD,NLD-CD-1989
+NLD,1994,Socialist Party,Socialistische Partij,SP,NLD-SP-1994
+NLD,1994,United Old Persons' League,Algemeen Ouderverbond,UOPL,NLD-UOPL-1994
+NLD,1994,55+ Union,Unie 55+,55+U,NLD-55+U-1994
+NLD,2002,List Pim Fortuyn,Lijst Pim Fortuyn,LPF,NLD-LPF-2002
+NLD,2002,Livable Netherlands,Leefbaar Nederland,LN,NLD-LN-2002
+NLD,2006,PvD Party for Animals,Partij voor de Dieren,PDPA,NLD-PDPA-2006
+NLD,2006,Party for Freedom,Partij voor de Vrijheid,PF,NLD-PF-2006
+NOR,1961,Socialist People's Party,Sosialistisk Folkeparti,SPP,NOR-SPP-1961
+NOR,1973,"Anders Lange's Party for a Strong
+Reduction in Taxes, Duties and Public
+Intervention","Anders Langes Parti til sterk nedsettelse
+av skatter, avgifter og offentlige inngrep",ALPSRTDPI,NOR-ALPSRTDPI-1973
+NOR,1973,New People's Party,Det Nye Folkepartiet,NPP,NOR-NPP-1973
+NOR,1989,Future for Finnmark,Framtid for Finnmark,FF,NOR-FF-1989
+NOR,1993,Red Electoral Alliance,Rød Valgallianse,REA,NOR-REA-1993
+NOR,1997,Coastal Party,Kystpartiet,CP,NOR-CP-1997
+PRT,1980,"Union of the Socialists and Democratic
+Left","União da Esquerda para a Democracia
+Socialista",USDL,PRT-USDL-1980
+PRT,1980,Independent Social Democrats,"Associação Social Democrata
+Independente",ISD,PRT-ISD-1980
+PRT,1983,Greens,"Partido Ecologista ""Os Verdes""",G,PRT-G-1983
+PRT,1985,Democratic Renewal Party,Partido Renovador Democrático,DRP,PRT-DRP-1985
+PRT,1987,Democratic Intervention,Intervençao Democrática,DI,PRT-DI-1987
+PRT,1991,Party of National Solidarity,Partido da Solidariedade Nacional,PNS,PRT-PNS-1991
+ESP,1982,Democratic and Social Centre,Centro Democrático y Social,DSC,ESP-DSC-1982
+ESP,1986,Valencian Union,Únio Valenciana,VU,ESP-VU-1986
+ESP,1986,Popular Democratic Party,Partido Demócrata Popular,PDP,ESP-PDP-1986
+ESP,1986,Liberal party,Partido Liberal,L,ESP-L-1986
+ESP,1986,Galician Coalition,Coalición Galega,GC,ESP-GC-1986
+ESP,1986,Independent Canary Islands Group,"Agrupaciones Independientes de
+Canarias",ICIG,ESP-ICIG-1986
+ESP,1989,Basque Solidarity,Eusko Alkartasuna,BS,ESP-BS-1989
+ESP,2000,Initiative for Catalonia Greens,Iniciativa Cataluna-Verdes,ICG,ESP-ICG-2000
+ESP,2000,Aragonese council,Junta Aragonesista,A,ESP-A-2000
+ESP,2004,Navarra Yes,Nafarroa Bai,NY,ESP-NY-2004
+ESP,2008,"Progress and Democracy
+Union",Union Progresso y Democracia,PDU,ESP-PDU-2008
+SWE,1988,Greens,Miljöpartiet de Gröna,G,SWE-G-1988
+SWE,1991,Christian Democrats,Kristdemokratiska Samhällspartiet,CD,SWE-CD-1991
+SWE,1991,New Democracy,Ny Demokrati,ND,SWE-ND-1991
+SWE,2010,Sweden Democrats,Sverigedemokraterna,SD,SWE-SD-2010
+CHE,1967,"National Action against Foreign
+Domination","Nationale Aktion gegen die
+Überfremdung von Volk und Heimat",NAFD,CHE-NAFD-1967
+CHE,1971,Rebublican Movement,Republikanische Bewegung,RM,CHE-RM-1971
+CHE,1975,Vigilance Party,Vigilance,VP,CHE-VP-1975
+CHE,1975,Autonomous Socialist Party,Partito Socialista Autonomo,ASP,CHE-ASP-1975
+CHE,1979,"Progressive Organisations of
+Switzerland",Progressive Organisationen der Schweiz,POS,CHE-POS-1979
+CHE,1979,Greens,Grüne,G,CHE-G-1979
+CHE,1983,Free Liste,Freie Liste,FL,CHE-FL-1983
+CHE,1987,Alternative Greens,Grüne Alternative,AG,CHE-AG-1987
+CHE,1987,Swiss Motorists' Party/Freedom Party,Schweizer Auto Partei,SMPFP,CHE-SMPFP-1987
+CHE,1991,Ticino League,Lega dei Ticinesi,TL,CHE-TL-1991
+CHE,1991,Federal Democratic Union,Eidgenössisch Demokratische Union,FDU,CHE-FDU-1991
+CHE,1991,Christian-Social Party,Christlich-soziale Partei,CSP,CHE-CSP-1991
+CHE,2003,Solidarity(S),SolidaritéS,SS,CHE-SS-2003
+CHE,2007,Green Liberal Party,Grünliberale Partei der Schweiz,GLP,CHE-GLP-2007
+GBR,1970,Scottish National Party,,SNP,GBR-SNP-1970
+GBR,1974,Party of Wales,Plaid Cymru,PW,GBR-PW-1974
+GBR,1974,Ulster Unionist Party,,UUP,GBR-UUP-1974
+GBR,1974,Social Democratic and Labour Party,,SDLP,GBR-SDLP-1974
+GBR,1983,Social Democratic Party,,SDP,GBR-SDP-1983
+GBR,1997,United Kingdom Unionist Party,,UKUP,GBR-UKUP-1997
+GBR,2005,Respect,,R,GBR-R-2005
+GBR,2005,"Independent Kidderminster Hospital
+and Health Concern",,IKHHC,GBR-IKHHC-2005
+GBR,2010,Green Party,,GP,GBR-GP-2010
+GBR,2010,Alliance Party,,AP,GBR-AP-2010
