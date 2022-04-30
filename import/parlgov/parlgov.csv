@@ -5,9 +5,9 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 751,AUS,AG,Australian Greens,Australian Greens,eco,http://www.parlgov.org/explore/aus/party/751/,1990,2019,,11,2010,11.8,http://en.wikipedia.org/wiki/Australian_Greens
 1253,AUS,ALP,Australian Labor Party,Australian Labor Party,soc,http://www.parlgov.org/explore/aus/party/1253/,1901,2019,23,46,1914,50.9,http://en.wikipedia.org/wiki/Australian_Labor_Party
 1650,AUS,CDP,Christian Democratic Party,Christian Democratic Party,chr,http://www.parlgov.org/explore/aus/party/1650/,1990,2016,,2,2016,1.3,http://en.wikipedia.org/wiki/Christian_Democratic_Party_%28Australia%29
+1428,AUS,C,Coalition,Coalition,con,http://www.parlgov.org/explore/aus/party/1428/,1943,1943,,1,1943,4,http://en.wikipedia.org/wiki/Coalition_%28Australia%29
 2285,AUS,CLP,Commonwealth Liberal Party,Commonwealth Liberal Party,con,http://www.parlgov.org/explore/aus/party/2285/,1910,1914,1,3,1913,48.9,http://en.wikipedia.org/wiki/Commonwealth_Liberal_Party
 1922,AUS,CPA,Communist Party of Australia,Communist Party of Australia,com,http://www.parlgov.org/explore/aus/party/1922/,1934,1946,,3,1943,2,http://en.wikipedia.org/wiki/Communist_Party_of_Australia
-1933,AUS,CN-QLD,Country-National Party (Qld),Country-National Party (Qld),con,http://www.parlgov.org/explore/aus/party/1933/,1943,1943,,1,1943,4,http://en.wikipedia.org/wiki/Country_Party_of_Australia
 215,AUS,CouLP,Country Liberal Party,Country Liberal Party,lib,http://www.parlgov.org/explore/aus/party/215/,1975,2013,2,8,1996,0.4,http://en.wikipedia.org/wiki/Country_Liberal_Party
 1914,AUS,CPP-V,Country Progressive Party (Vic),Country Progressive Party (Vic),con,http://www.parlgov.org/explore/aus/party/1914/,1928,1929,,2,1928,1.6,http://en.wikipedia.org/wiki/Country_Progressive_Party
 1306,AUS,DLP,Democratic Labour Party,Democratic Labour Party,soc,http://www.parlgov.org/explore/aus/party/1306/,1955,1977,,10,1958,9.4,http://en.wikipedia.org/wiki/Democratic_Labor_Party
@@ -53,7 +53,7 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2676,AUT,GFOP,German Freedom and Order Party,Deutsche Freiheits und Ordnungspartei,right,http://www.parlgov.org/explore/aut/party/2676/,1919,1919,,1,1919,1.9,https://en.wikipedia.org/wiki/German_Freedom_and_Order_Party
 2673,AUT,DVP,German People's Party,Deutsche Volkspartei,con,http://www.parlgov.org/explore/aut/party/2673/,1919,1919,,1,1919,2,https://en.wikipedia.org/wiki/German_People%27s_Party_(Austria)
 2672,AUT,DNP,German-Nationals,Deutschnationale,con,http://www.parlgov.org/explore/aut/party/2672/,1919,1919,,1,1919,5.8,https://en.wikipedia.org/wiki/German-National_Party
-1429,AUT,Gruene,The Greens -- The Green Alternative,Die Grünen – Die Grüne Alternative,eco,http://www.parlgov.org/explore/aut/party/1429/,1986,2019,1,11,2019,13.9,http://en.wikipedia.org/wiki/The_Greens_%E2%80%93_The_Green_Alternative
+1429,AUT,Gruene,The Greens -- The Green Alternative,Die Grünen – Die Grüne Alternative,eco,http://www.parlgov.org/explore/aut/party/1429/,1986,2019,3,11,2019,13.9,http://en.wikipedia.org/wiki/The_Greens_%E2%80%93_The_Green_Alternative
 1750,AUT,N,Citizens' Initiative for the retention of neutrality,Die Neutralen – Bürgerinitiative,spec,http://www.parlgov.org/explore/aut/party/1750/,1996,1996,,1,1996,1.3,""
 2339,AUT,REKOS,The Reform Conservatives,Die Reformkonservativen – REKOS,con,http://www.parlgov.org/explore/aut/party/2339/,2014,2014,,1,2014,1.2,http://en.wikipedia.org/wiki/The_Reform_Conservatives
 1745,AUT,DU,The Independents -- Lugner's List,Die Unabhängigen – Liste Lugner,spec,http://www.parlgov.org/explore/aut/party/1745/,1999,1999,,1,1999,1,http://en.wikipedia.org/wiki/The_Independents_%28Austria%29
@@ -72,7 +72,7 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2684,AUT,DNSAP,National Socialist Workers' Party,Nationalsozialistische Arbeiterpartei,right,http://www.parlgov.org/explore/aut/party/2684/,1920,1930,,2,1930,3,https://de.wikipedia.org/wiki/Deutsche_Nationalsozialistische_Arbeiterpartei_(%C3%96sterreich)
 1744,AUT,Nein,No -- Citizens' Initiative against EU membership,Nein – Bürgerinitiative gegen die EU Mitgliedschaft,spec,http://www.parlgov.org/explore/aut/party/1744/,1994,1995,,2,1995,1.1,""
 2255,AUT,NEOS,NEOS -- The New Austria,NEOS – Das Neue Österreich,lib,http://www.parlgov.org/explore/aut/party/2255/,2013,2019,,3,2019,8.1,http://en.wikipedia.org/wiki/NEOS_%E2%80%93_The_New_Austria
-1013,AUT,OVP,Austrian People's Party,Österreichische Volkspartei,chr,http://www.parlgov.org/explore/aut/party/1013/,1919,2019,51,28,1945,49.8,http://en.wikipedia.org/wiki/Austrian_People%27s_Party
+1013,AUT,OVP,Austrian People's Party,Österreichische Volkspartei,chr,http://www.parlgov.org/explore/aut/party/1013/,1919,2019,53,28,1945,49.8,http://en.wikipedia.org/wiki/Austrian_People%27s_Party
 973,AUT,SPO,Social Democratic Party of Austria,Sozialdemokratische Partei Österreichs,soc,http://www.parlgov.org/explore/aut/party/973/,1919,2019,33,28,1979,51,http://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2677,AUT,SBP,Styrian Farmers' Party,Steirische Bauernpartei,agr,http://www.parlgov.org/explore/aut/party/2677/,1919,1919,,1,1919,1.6,https://en.wikipedia.org/wiki/Styrian_Farmers%27_Party
 2150,AUT,TS,Team Stronach,Team Stronach,lib,http://www.parlgov.org/explore/aut/party/2150/,2013,2013,,1,2013,5.7,http://en.wikipedia.org/wiki/Team_Stronach
@@ -128,57 +128,62 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 599,BGR,BBB,Bulgarian Business Bloc,Balgarski Biznes Blok,lib,http://www.parlgov.org/explore/bgr/party/599/,1991,1997,,3,1997,5.3,http://en.wikipedia.org/wiki/Bulgarian_Business_Bloc
 1375,BGR,BNS,Bulgarian People's Union,Balgarski Naroden Suyuz,con,http://www.parlgov.org/explore/bgr/party/1375/,2005,2007,,1,2005,5.2,http://en.wikipedia.org/wiki/Bulgarian_People%27s_Union
 2173,BGR,BZNS-NP,"Bulgarian Agrarian National Union -- ""Nikola Petkov""","Balgarski Zemedelski Naroden Suyuz – ""Nikola Petkov""",agr,http://www.parlgov.org/explore/bgr/party/2173/,1991,1991,,1,1991,3.4,http://en.wikipedia.org/wiki/Bulgarian_Agrarian_National_Union
-2638,BGR,DB,"Yes, Bulgaria!",Da Bulgaria,lib,http://www.parlgov.org/explore/bgr/party/2638/,2017,2017,,1,2017,3,"https://en.wikipedia.org/wiki/Yes,_Bulgaria!"
+2840,BGR,BNO|BN,Bulgarian National Unification | Bulgarian Summer,Bŭlgarsko natsionalno obedinenie | Balgarsko lyato,right,http://www.parlgov.org/explore/bgr/party/2840/,2021,2021,,2,2021,3,https://en.wikipedia.org/wiki/Bulgarian_National_Unification
+2638,BGR,DaB,"Yes, Bulgaria!",Da Bulgaria!,lib,http://www.parlgov.org/explore/bgr/party/2638/,2017,2017,,1,2017,3,"https://en.wikipedia.org/wiki/Yes,_Bulgaria!"
 2639,BGR,DOST,"Democrats for Responsibility, Solidarity and Tolerance","Demokrati za Otgovornost, Svoboda i Tolerantnost",lib,http://www.parlgov.org/explore/bgr/party/2639/,2017,2017,,1,2017,2.9,"https://en.wikipedia.org/wiki/Democrats_for_Responsibility,_Solidarity_and_Tolerance"
-57,BGR,DSB,Democrats for a Strong Bulgaria,Demokrati za Silna Balgariya,con,http://www.parlgov.org/explore/bgr/party/57/,2005,2019,,3,2005,6.4,http://en.wikipedia.org/wiki/Democrats_for_a_Strong_Bulgaria
+57,BGR,DSB|DB,Democrats for a Strong Bulgaria | Democratic Bulgaria,Demokrati za Silna Balgariya | Demokratichna Balgariya,con,http://www.parlgov.org/explore/bgr/party/57/,2005,2021,1,6,2021,12.6,http://en.wikipedia.org/wiki/Democrats_for_a_Strong_Bulgaria
 2170,BGR,DAR,Democratic Alternative for the Republic,Demokratichna Alternativa za Republikata,soc,http://www.parlgov.org/explore/bgr/party/2170/,1994,1994,,1,1994,3.8,"http://en.wikipedia.org/wiki/Bulgarian_parliamentary_election,_1994"
 2213,BGR,BNG,Bulgaria for Citizens Movement,"Dvizhenie ""Balgariya na grazhdanite""",con,http://www.parlgov.org/explore/bgr/party/2213/,2013,2013,,1,2013,3.3,http://en.wikipedia.org/wiki/Bulgaria_for_Citizens_Movement
 2379,BGR,D21,Movement 21,Dvizhenie 21,soc,http://www.parlgov.org/explore/bgr/party/2379/,2014,2014,,1,2014,1.2,http://bg.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D1%8F%D0%BD%D0%B0_%D0%94%D0%BE%D0%BD%D1%87%D0%B5%D0%B2%D0%B0
 1362,BGR,DG,George's Day Movement,Dvizhenie Gergyovden,right,http://www.parlgov.org/explore/bgr/party/1362/,2001,2001,,1,2001,3.6,http://en.wikipedia.org/wiki/George%27s_Day_Movement
-1286,BGR,DPS,Movement for Rights and Freedoms,Dvizhenie za Prava i Svobodi,lib,http://www.parlgov.org/explore/bgr/party/1286/,1991,2019,3,9,2014,14.8,http://en.wikipedia.org/wiki/Movement_for_Rights_and_Freedoms
+1286,BGR,DPS,Movement for Rights and Freedoms,Dvizhenie za Prava i Svobodi,lib,http://www.parlgov.org/explore/bgr/party/1286/,1991,2021,3,12,2014,14.8,http://en.wikipedia.org/wiki/Movement_for_Rights_and_Freedoms
 2178,BGR,ER,Euroroma,Evroroma,spec,http://www.parlgov.org/explore/bgr/party/2178/,2005,2005,,1,2005,1.2,http://en.wikipedia.org/wiki/Euroroma
 800,BGR,FTB,Kingdom of Bulgaria Confederation,Federatsiya Tsarstvo Balgariya ,spec,http://www.parlgov.org/explore/bgr/party/800/,1991,1994,,2,1991,1.8,""
 2214,BGR,GN,People's Voice,Glas Naroden,spec,http://www.parlgov.org/explore/bgr/party/2214/,2013,2014,,2,2013,1.3,https://en.wikipedia.org/wiki/People%27s_Voice_(Bulgaria)
-1541,BGR,GERB,Citizens for European Development of Bulgaria,Grazhdani za Evropeysko Razvitie na Balgariya,con,http://www.parlgov.org/explore/bgr/party/1541/,2007,2019,3,4,2009,39.7,http://en.wikipedia.org/wiki/Citizens_for_European_Development_of_Bulgaria
+1541,BGR,GERB,Citizens for European Development of Bulgaria,Grazhdani za Evropeysko Razvitie na Balgariya,right,http://www.parlgov.org/explore/bgr/party/1541/,2007,2021,3,7,2009,39.7,http://en.wikipedia.org/wiki/Citizens_for_European_Development_of_Bulgaria
+2836,BGR,ITN,There Is Such a People,Ima takav narod,con,http://www.parlgov.org/explore/bgr/party/2836/,2021,2021,1,3,2021,24.1,https://en.wikipedia.org/wiki/There_Is_Such_a_People
 2774,BGR,I-MK,Independent -- Mincho Kuminev,Independent – Mincho Kuminev,none,http://www.parlgov.org/explore/bgr/party/2774/,2019,2019,,1,2019,1.2,""
+2838,BGR,IS,Stand up!,Izpravi se!,soc,http://www.parlgov.org/explore/bgr/party/2838/,2021,2021,,3,2021,5,https://en.wikipedia.org/wiki/Stand_Up.BG!_We_are_coming!
 2179,BGR,KR,Coalition of the Rose,Koalitsiya na Rozata,soc,http://www.parlgov.org/explore/bgr/party/2179/,2005,2005,,1,2005,1.3,http://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B0%D0%BB%D0%B8%D1%86%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%80%D0%BE%D0%B7%D0%B0%D1%82%D0%B0
 15,BGR,KSII,Simeon II Coalition,Koalitsiya Simeon II,spec,http://www.parlgov.org/explore/bgr/party/15/,2001,2001,,1,2001,3.4,""
-1160,BGR,KzB|DL,Coalition for Bulgaria | Democratic Left,Koalitsiya za Balgariya | Demokratichna Levitsa,soc,http://www.parlgov.org/explore/bgr/party/1160/,1991,2019,3,9,1994,43.5,http://en.wikipedia.org/wiki/Coalition_for_Bulgaria
+1160,BGR,KzB|DL,Coalition for Bulgaria | Democratic Left,Koalitsiya za Balgariya | Demokratichna Levitsa,soc,http://www.parlgov.org/explore/bgr/party/1160/,1991,2021,4,12,1994,43.5,http://en.wikipedia.org/wiki/Coalition_for_Bulgaria
 1570,BGR,KPB,Communist Party of Bulgaria,Komunisticheska Partiya na Balgariya,com,http://www.parlgov.org/explore/bgr/party/1570/,1994,1997,,2,1994,1.5,http://en.wikipedia.org/wiki/Communist_Party_of_Bulgaria
 566,BGR,Lider,Lider,Lider,lib,http://www.parlgov.org/explore/bgr/party/566/,2009,2013,,2,2009,3.3,https://en.wikipedia.org/wiki/Lider_%28political_party%29
-2211,BGR,NFSB,National Front for the Salvation of Bulgaria,Natsionalen Front za Spasenie na Balgariya,right,http://www.parlgov.org/explore/bgr/party/2211/,2013,2019,1,3,2017,9.3,http://en.wikipedia.org/wiki/National_Front_for_the_Salvation_of_Bulgaria
+2211,BGR,NFSB,National Front for the Salvation of Bulgaria,Natsionalen Front za Spasenie na Balgariya,right,http://www.parlgov.org/explore/bgr/party/2211/,2013,2021,1,4,2017,9.3,http://en.wikipedia.org/wiki/National_Front_for_the_Salvation_of_Bulgaria
 544,BGR,NDSV,National Movement Simeon II,Natsionalno Dvizhenie Simeon Vtori,lib,http://www.parlgov.org/explore/bgr/party/544/,2001,2019,3,3,2001,42.7,http://en.wikipedia.org/wiki/National_Movement_Simeon_II
 2180,BGR,NV,New Times,Novoto vreme,eco,http://www.parlgov.org/explore/bgr/party/2180/,2005,2005,,1,2005,3,https://bg.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%82%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5_%28%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%8F%29
-784,BGR,ODS,United Democratic Forces,Obedineni Demokratichni Sili,con,http://www.parlgov.org/explore/bgr/party/784/,1997,2007,1,3,1997,49.1,http://en.wikipedia.org/wiki/United_Democratic_Forces
+784,BGR,ODS,United Democratic Forces,Obedineni Demokratichni Sili,con,http://www.parlgov.org/explore/bgr/party/784/,1997,2007,1,3,1997,49.1,https://en.wikipedia.org/wiki/Union_of_Democratic_Forces_(Bulgaria)
 1149,BGR,OT-SII,Union for Tzar [Simeon II],Obedinenie za Tsar [Simeon II],spec,http://www.parlgov.org/explore/bgr/party/1149/,1997,2001,,2,2001,1.7,""
 1161,BGR,PBSD,Party of Bulgarian Social Democrats,Partiya Balgarski Sotsialdemokrati,soc,http://www.parlgov.org/explore/bgr/party/1161/,2007,2007,,1,2007,1.9,http://en.wikipedia.org/wiki/Party_of_Bulgarian_Social_Democrats
 2177,BGR,PS,Patriotic Union,Patriotichen Suyuz,con,http://www.parlgov.org/explore/bgr/party/2177/,1994,1994,,1,1994,1.4,""
+2847,BGR,PP,We Continue the Change,Prodalzhavame promyanata,spec,http://www.parlgov.org/explore/bgr/party/2847/,2021,2021,1,1,2021,25.7,https://en.wikipedia.org/wiki/We_Continue_the_Change
 636,BGR,RZS,"Order, Lawfulness and Justice","Red, zakonnost i spravedlivost",right,http://www.parlgov.org/explore/bgr/party/636/,2009,2013,,2,2009,4.1,"http://en.wikipedia.org/wiki/Order,_Lawfulness,_Justice"
 2363,BGR,RB,Reformist Bloc,Reformatorski Blok,con,http://www.parlgov.org/explore/bgr/party/2363/,2014,2017,1,2,2014,8.9,http://en.wikipedia.org/wiki/Reformist_Bloc
+2814,BGR,RzB,Republicans for Bulgaria,Republikantsi za Balgariya,con,http://www.parlgov.org/explore/bgr/party/2814/,2021,2021,,1,2021,1.3,https://en.wikipedia.org/wiki/Republicans_for_Bulgaria
 1254,BGR,SK,Blue Coalition,Sinyata Koalitsiya,con,http://www.parlgov.org/explore/bgr/party/1254/,2009,2009,,1,2009,6.8,http://en.wikipedia.org/wiki/Blue_Coalition
 2176,BGR,SNI,"""New Choice"" Union","Suyuz ""Nov izbor""",lib,http://www.parlgov.org/explore/bgr/party/2176/,1994,1994,,1,1994,1.5,""
 423,BGR,SDS,Union of Democratic Forces,Suyuz na Demokratichnite Sili,chr,http://www.parlgov.org/explore/bgr/party/423/,1991,2013,3,3,1991,34.4,http://en.wikipedia.org/wiki/Union_of_the_Democratic_Forces_(Bulgaria)
 2175,BGR,SDS-l,Union of Democratic Forces -- Liberal,Suyuz na Demokratichnite Sili – Liberali,lib,http://www.parlgov.org/explore/bgr/party/2175/,1991,1991,,1,1991,2.8,""
 2174,BGR,SDS-ts,Union of Democratic Forces -- Centre,Suyuz na Demokratichnite Sili – Tsentur,soc,http://www.parlgov.org/explore/bgr/party/2174/,1991,1991,,1,1991,3.2,http://en.wikipedia.org/wiki/SDS-Center
 2595,BGR,CSD,Centre -- Freedom and Dignity,Tsentŭr – Svoboda i dostoĭnstvo,lib,http://www.parlgov.org/explore/bgr/party/2595/,2013,2013,,1,2013,1.6,""
-2640,BGR,R,Revival,Vazrazhdane,right,http://www.parlgov.org/explore/bgr/party/2640/,2017,2019,,1,2017,1.1,https://en.wikipedia.org/wiki/Revival_(Bulgarian_political_party)
-2212,BGR,VMRO,IMRO -- Bulgarian National Movement,VMRO – Balgarsko Natsionalno Dvizhenie,right,http://www.parlgov.org/explore/bgr/party/2212/,2013,2019,,1,2013,1.9,http://en.wikipedia.org/wiki/IMRO_%E2%80%93_Bulgarian_National_Movement
-2637,BGR,Volya,Will,Volya,lib,http://www.parlgov.org/explore/bgr/party/2637/,2017,2019,,1,2017,4.3,https://en.wikipedia.org/wiki/Volya_(Bulgarian_political_party)
+2640,BGR,R,Revival,Vazrazhdane,right,http://www.parlgov.org/explore/bgr/party/2640/,2017,2021,,4,2021,4.9,https://en.wikipedia.org/wiki/Revival_(Bulgarian_political_party)
+2212,BGR,VMRO,IMRO -- Bulgarian National Movement,VMRO – Balgarsko Natsionalno Dvizhenie,con,http://www.parlgov.org/explore/bgr/party/2212/,2013,2021,,4,2021,3.6,http://en.wikipedia.org/wiki/IMRO_%E2%80%93_Bulgarian_National_Movement
+2637,BGR,Volya,Will,Volya,right,http://www.parlgov.org/explore/bgr/party/2637/,2017,2019,,1,2017,4.3,https://en.wikipedia.org/wiki/Volya_(Bulgarian_political_party)
 353,BGR,ZNS,Agrarian People's Union,Zemedelski Naroden Suyuz,agr,http://www.parlgov.org/explore/bgr/party/353/,1991,2009,1,2,1994,6.5,http://en.wikipedia.org/wiki/Agrarian_People's_Union
 1307,CAN,BPC,Bloc Populaire Canadien,Bloc Populaire Canadien,spec,http://www.parlgov.org/explore/can/party/1307/,1945,1945,,1,1945,3.6,http://en.wikipedia.org/wiki/Bloc_Populaire_Canadien
-448,CAN,BQ,Quebec Bloc,Bloc Québécois,soc,http://www.parlgov.org/explore/can/party/448/,1993,2019,,9,1993,13.5,http://en.wikipedia.org/wiki/Quebec_Bloc
-296,CAN,CCF|NDP,Co-operative Commonwealth Federation | New Democratic Party,Co-operative Commonwealth Federation | New Democratic Party,soc,http://www.parlgov.org/explore/can/party/296/,1935,2019,,26,2011,30.6,http://en.wikipedia.org/wiki/New_Democratic_Party_of_Canada
+448,CAN,BQ,Quebec Bloc,Bloc Québécois,soc,http://www.parlgov.org/explore/can/party/448/,1993,2021,,10,1993,13.5,http://en.wikipedia.org/wiki/Quebec_Bloc
+296,CAN,CCF|NDP,Co-operative Commonwealth Federation | New Democratic Party,Co-operative Commonwealth Federation | New Democratic Party,soc,http://www.parlgov.org/explore/can/party/296/,1935,2021,,27,2011,30.6,http://en.wikipedia.org/wiki/New_Democratic_Party_of_Canada
 556,CAN,CP|LPP,Communist (Labour-Progressive) Party,Communist (Labour-Progressive) Party,com,http://www.parlgov.org/explore/can/party/556/,1945,1965,,5,1945,2.1,http://en.wikipedia.org/wiki/Communist_Party_of_Canada
-1255,CAN,CPC,Conservative Party of Canada,Conservative Party of Canada,con,http://www.parlgov.org/explore/can/party/1255/,2004,2019,3,6,2011,39.6,http://en.wikipedia.org/wiki/Conservative_Party_of_Canada
-1259,CAN,GPC,Green Party of Canada,Green Party of Canada,eco,http://www.parlgov.org/explore/can/party/1259/,1997,2019,,8,2008,6.8,http://en.wikipedia.org/wiki/Green_party_of_canada
+1255,CAN,CPC,Conservative Party of Canada,Conservative Party of Canada,con,http://www.parlgov.org/explore/can/party/1255/,2004,2021,3,7,2011,39.6,http://en.wikipedia.org/wiki/Conservative_Party_of_Canada
+1259,CAN,GPC,Green Party of Canada,Green Party of Canada,eco,http://www.parlgov.org/explore/can/party/1259/,1997,2021,,9,2008,6.8,http://en.wikipedia.org/wiki/Green_party_of_canada
 2427,CAN,L,Labour Party,Labour Party,soc,http://www.parlgov.org/explore/can/party/2427/,1921,1930,,4,1921,2.3,https://en.wikipedia.org/wiki/Canadian_Labour_Party
+368,CAN,LP,Liberal Party of Canada,Liberal Party of Canada,lib,http://www.parlgov.org/explore/can/party/368/,1900,2021,27,36,1904,52,http://en.wikipedia.org/wiki/Liberal_Party_%28Canada%29
 2085,CAN,LL,Liberal-Labour,Liberal-Labour,lib,http://www.parlgov.org/explore/can/party/2085/,1949,1962,,4,1949,0.2,http://en.wikipedia.org/wiki/Liberal-Labour_(Canada)
-368,CAN,LP,Liberal Party of Canada,Liberal Party of Canada,lib,http://www.parlgov.org/explore/can/party/368/,1900,2019,26,35,1904,52,http://en.wikipedia.org/wiki/Liberal_Party_%28Canada%29
 2142,CAN,NPC,National Party of Canada,National Party of Canada,soc,http://www.parlgov.org/explore/can/party/2142/,1993,1993,,1,1993,1.4,http://en.wikipedia.org/wiki/National_Party_of_Canada
 2148,CAN,PR,Rhinoceros Party,Parti Rhinoceros,spec,http://www.parlgov.org/explore/can/party/2148/,1972,1984,,4,1980,1,http://en.wikipedia.org/wiki/Rhinoceros_Party_of_Canada_%281963%E2%80%931993%29
-2791,CAN,PP,People's Party of Canada,People's Party of Canada,right,http://www.parlgov.org/explore/can/party/2791/,2019,2019,,1,2019,1.6,https://en.wikipedia.org/wiki/People%27s_Party_of_Canada
+2791,CAN,PPC,People's Party of Canada,People's Party of Canada,right,http://www.parlgov.org/explore/can/party/2791/,2019,2021,,2,2021,4.9,https://en.wikipedia.org/wiki/People%27s_Party_of_Canada
 794,CAN,PCP,Progressive Conservative Party of Canada,Progressive Conservative Party of Canada,con,http://www.parlgov.org/explore/can/party/794/,1900,2000,12,29,1917,57,http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Canada
-2566,CAN,PPC,Progressive Party of Canada,Progressive Party of Canada,agr,http://www.parlgov.org/explore/can/party/2566/,1921,1930,,4,1921,22.9,https://en.wikipedia.org/wiki/Progressive_Party_of_Canada
+2566,CAN,PPC-19,Progressive Party of Canada (1919),Progressive Party of Canada (1919),agr,http://www.parlgov.org/explore/can/party/2566/,1921,1930,,4,1921,22.9,https://en.wikipedia.org/wiki/Progressive_Party_of_Canada
 677,CAN,SCR,Social Credit Rally,Ralliement créditiste,spec,http://www.parlgov.org/explore/can/party/677/,1965,1968,,2,1965,4.7,"http://en.wikipedia.org/wiki/Social_Credit_Party_of_Canada_split,_1963"
 2565,CAN,RP,Reconstruction Party of Canada,Reconstruction Party of Canada,con,http://www.parlgov.org/explore/can/party/2565/,1935,1935,,1,1935,8.7,https://en.wikipedia.org/wiki/Reconstruction_Party_of_Canada
 897,CAN,RPC,Reform Party of Canada,Reform Party of Canada,con,http://www.parlgov.org/explore/can/party/897/,1988,2000,,4,2000,25.5,http://en.wikipedia.org/wiki/Reform_Party_of_Canada
@@ -208,12 +213,16 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 750,CHE,SVP-UDC,Swiss People's Party,Schweizerische Volkspartei – Union Démocratique du Centre,agr,http://www.parlgov.org/explore/che/party/750/,1919,2019,25,27,2015,29.4,http://en.wikipedia.org/wiki/Swiss_People%27s_Party
 1226,CHE,S,Solidarity,solidaritéS,com,http://www.parlgov.org/explore/che/party/1226/,1995,2019,,4,1999,0.5,http://en.wikipedia.org/wiki/Solidarit%C3%A9S
 35,CHE,SP-PS,Social Democratic Party of Switzerland,Sozialdemokratische Partei der Schweiz – Parti Socialiste Suisse,soc,http://www.parlgov.org/explore/che/party/35/,1902,2019,20,33,1917,30.8,http://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2818,CYP,AK,Famagusta for Cyprus, Ammókhostos yia tin Kípro,lib,http://www.parlgov.org/explore/cyp/party/2818/,2021,2021,,1,2021,1.6,https://en.wikipedia.org/wiki/List_of_political_parties_in_Cyprus
+2820,CYP,PL,People's Breath, Pní Laoú,right,http://www.parlgov.org/explore/cyp/party/2820/,2021,2021,,1,2021,1.3,https://en.wikipedia.org/wiki/2021_Cypriot_legislative_election
+2819,CYP,AM,Awakening 2020,Afypnisis 2020,spec,http://www.parlgov.org/explore/cyp/party/2819/,2021,2021,,1,2021,1.4,https://en.wikipedia.org/wiki/2021_Cypriot_legislative_election
 1049,CYP,ADK,Fighting Democratic Movement,Agonistiko Dimokratiko Kinima,right,http://www.parlgov.org/explore/cyp/party/1049/,2001,2001,,1,2001,2.2,http://en.wikipedia.org/wiki/Fighting_Democratic_Movement
 1779,CYP,ADISOK,Democratic Socialist Renewal Movement,Anorthotiko Dimokratiko Sosialistiko Kinima,com,http://www.parlgov.org/explore/cyp/party/1779/,1991,1996,,2,1991,2.4,""
 572,CYP,AKEL,Progressive Party of Working People,Anorthotikó Kómma Ergazómenou Laoú,com,http://www.parlgov.org/explore/cyp/party/572/,1976,2021,8,10,2001,34.7,http://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2741,CYP,DP,Democratic Alignment,Dimokratiki Parataxi,lib,http://www.parlgov.org/explore/cyp/party/2741/,2019,2019,,1,2019,3.8,https://en.wikipedia.org/wiki/Democratic_Alignment_(Cyprus)
+2741,CYP,DP,Democratic Alignment,Dimokratiki Parataxi,lib,http://www.parlgov.org/explore/cyp/party/2741/,2019,2021,,1,2021,6.1,https://en.wikipedia.org/wiki/Democratic_Alignment_(Cyprus)
 851,CYP,DIKO,Democratic Party,Dimokratikó Kómma,con,http://www.parlgov.org/explore/cyp/party/851/,1976,2021,15,10,1976,71.2,http://en.wikipedia.org/wiki/Democratic_Party_%28Cyprus%29
-1575,CYP,DISY,Democratic Rally,Dimokratikós Sinayermós,con,http://www.parlgov.org/explore/cyp/party/1575/,1976,2021,8,10,1991,35.8,http://en.wikipedia.org/wiki/Dimokratikos_Synagermos
+1575,CYP,DISY,Democratic Rally,Dimokratikós Sinayermós,con,http://www.parlgov.org/explore/cyp/party/1575/,1976,2021,9,10,1991,35.8,http://en.wikipedia.org/wiki/Dimokratikos_Synagermos
+2815,CYP,EP,Active Citizens,Energi Polites,com,http://www.parlgov.org/explore/cyp/party/2815/,2021,2021,,1,2021,3.3,https://en.wikipedia.org/wiki/Active_Citizens
 1523,CYP,ED,United Democrats,Enomeni Dimokrates,lib,http://www.parlgov.org/explore/cyp/party/1523/,1996,2006,,3,1996,3.7,http://en.wikipedia.org/wiki/United_Democrats
 1777,CYP,EnKe,Union Centre,Enosi Kentrou,lib,http://www.parlgov.org/explore/cyp/party/1777/,1981,1981,,1,1981,2.7,""
 1768,CYP,ELAM,National Popular Front,Ethniko Laiko Metopo,right,http://www.parlgov.org/explore/cyp/party/1768/,2011,2021,,3,2021,6.8,http://en.wikipedia.org/wiki/ELAM_%28Cyprus%29
@@ -221,9 +230,10 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 768,CYP,GTE,For Europe,Gia tin Evropi,con,http://www.parlgov.org/explore/cyp/party/768/,2004,2004,,1,2004,10.8,http://en.wikipedia.org/wiki/For_Europe_%28Cyprus%29
 1071,CYP,Greek,Greek,Greek,none,http://www.parlgov.org/explore/cyp/party/1071/,,,2,,,,
 2343,CYP,I-SL,Independent -- Sener Levent,Independent – Sener Levent,none,http://www.parlgov.org/explore/cyp/party/2343/,2014,2014,,1,2014,1,""
+2817,CYP,Anex,Independents Movement,Independents Movement,lib,http://www.parlgov.org/explore/cyp/party/2817/,2021,2021,,1,2021,2.8,https://en.wikipedia.org/wiki/Independents_Movement_(Cyprus)
 1735,CYP,KEP,Free Citizens Movement,K.E.P,code,http://www.parlgov.org/explore/cyp/party/1735/,2006,2006,,1,2006,1.2,""
 2626,CYP,KINHMA,Solidarity Movement,Kinima Allileggiis,right,http://www.parlgov.org/explore/cyp/party/2626/,2016,2021,,2,2016,5.2,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
-2627,CYP,KGTZTK,Animal Party Cyprus,Kinima gia ta zoa tis Kiprou,spec,http://www.parlgov.org/explore/cyp/party/2627/,2016,2021,,2,2016,1.2,""
+2627,CYP,KGTZTK,Animal Party Cyprus,Kinima gia ta zoa tis Kíprou,spec,http://www.parlgov.org/explore/cyp/party/2627/,2016,2021,,2,2016,1.2,""
 1621,CYP,KOP,Ecological and Environmental Movement,Kinima Oikologoi Perivallontistoi,eco,http://www.parlgov.org/explore/cyp/party/1621/,1996,2021,,6,2016,4.8,http://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
 945,CYP,EDEK,Movement for Social Democracy EDEK,Kinima Sosialdimokraton EDEK,soc,http://www.parlgov.org/explore/cyp/party/945/,1976,2021,5,10,1985,11.1,http://en.wikipedia.org/wiki/Movement_for_Social_Democracy
 1151,CYP,LP,Liberal Party,Liberal Party,lib,http://www.parlgov.org/explore/cyp/party/1151/,,,2,,,,http://en.wikipedia.org/wiki/Liberalism_in_Cyprus
@@ -233,12 +243,12 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 1776,CYP,PAME,Pancypriot Militant Front,Pankyprio Agonistiko Metopo,right,http://www.parlgov.org/explore/cyp/party/1776/,1981,1981,,1,1981,2.8,""
 2341,CYP,SYM,Citizen's Alliance,Symmaxia,soc,http://www.parlgov.org/explore/cyp/party/2341/,2014,2019,,1,2016,6,https://en.wikipedia.org/wiki/Citizens'_Alliance_%28Cyprus%29
 2784,CYP,YH,Jasmine Movement,Yasemin Hareketi,soc,http://www.parlgov.org/explore/cyp/party/2784/,2019,2019,,1,2019,1.7,https://en.wikipedia.org/wiki/Jasmine_Movement
-2263,CZE,ANO,Action of Dissatisfied Citizens,Akce nespokojených občanů,lib,http://www.parlgov.org/explore/cze/party/2263/,2013,2019,3,2,2017,29.6,http://en.wikipedia.org/wiki/Action_of_Dissatisfied_Citizens
+2263,CZE,ANO,Action of Dissatisfied Citizens 2011,Akce nespokojených občanů 2011,lib,http://www.parlgov.org/explore/cze/party/2263/,2013,2021,3,3,2017,29.6,http://en.wikipedia.org/wiki/Action_of_Dissatisfied_Citizens
 2779,CZE,ANO-VE,"Yes, We Will Troll the Euro-Parliament","ANO, vytrollíme europarlament",spec,http://www.parlgov.org/explore/cze/party/2779/,2019,2019,,1,2019,1.6,"https://cs.wikipedia.org/wiki/ANO,_vytroll%C3%ADme_europarlament"
 29,CZE,CNSP,Czech National Social(ist) Party,Česká národně strana socialistická,right,http://www.parlgov.org/explore/cze/party/29/,1990,1996,,2,1990,2.7,http://en.wikipedia.org/wiki/Czech_National_Social_Party
-2261,CZE,Pi,Czech Pirate Party,Ceska piratska strana,lib,http://www.parlgov.org/explore/cze/party/2261/,2013,2019,,2,2017,10.8,http://en.wikipedia.org/wiki/Czech_Pirate_Party
-789,CZE,CSSD,Czech Social Democratic Party,Česká strana sociálně demokratická,soc,http://www.parlgov.org/explore/cze/party/789/,1990,2019,6,9,2006,32.3,http://en.wikipedia.org/wiki/Cesk%C3%A1_strana_soci%C3%A1lne_demokratick%C3%A1
-795,CZE,DSSS,Workers' Party of Social Justice,Dělnická strana sociální spravedlnosti,right,http://www.parlgov.org/explore/cze/party/795/,2009,2010,,1,2010,1.1,http://cs.wikipedia.org/wiki/D%C4%9Blnick%C3%A1_strana_soci%C3%A1ln%C3%AD_spravedlnosti
+2261,CZE,Pi,Czech Pirate Party,Ceska piratska strana,spec,http://www.parlgov.org/explore/cze/party/2261/,2013,2019,1,2,2017,10.8,http://en.wikipedia.org/wiki/Czech_Pirate_Party
+789,CZE,CSSD,Czech Social Democratic Party,Česká strana sociálně demokratická,soc,http://www.parlgov.org/explore/cze/party/789/,1990,2021,6,10,2006,32.3,http://en.wikipedia.org/wiki/Cesk%C3%A1_strana_soci%C3%A1lne_demokratick%C3%A1
+795,CZE,DSSS,Workers' Party of Social Justice,Dělnická strana sociální spravedlnosti,right,http://www.parlgov.org/explore/cze/party/795/,2009,2010,,1,2010,1.1,https://en.wikipedia.org/wiki/Workers%27_Party_of_Social_Justice
 1616,CZE,DU,Democratic Union,Demokratická unie,lib,http://www.parlgov.org/explore/cze/party/1616/,1996,1998,,2,1996,2.8,http://en.wikipedia.org/wiki/Democratic_Union_(Czech_republic)
 77,CZE,DZJ,Pensioners for a Secure Living,Důchodci za životní jistoty,soc,http://www.parlgov.org/explore/cze/party/77/,1992,1998,,3,1992,3.8,""
 1454,CZE,EDS,European Democratic Party,Evropská demokratická strana,lib,http://www.parlgov.org/explore/cze/party/1454/,2009,2009,,1,2009,2.9,http://en.wikipedia.org/wiki/European_Democratic_Party_(Czech_Republic)
@@ -246,9 +256,10 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 19,CZE,HSD-SMS,Movement for Self-Governing Democracy -- Society for Moravia and Silesia,Hnutí za samosprávnou demokracii – Společnost pro Moravu a Slezsko,spec,http://www.parlgov.org/explore/cze/party/19/,1990,1992,1,2,1990,10,http://en.wikipedia.org/wiki/Movement_for_Autonomous_Democracy%E2%80%93Party_for_Moravia_and_Silesia
 2223,CZE,HSS,Movement for Social Justice,Hnutí za sociální spravedlnost,soc,http://www.parlgov.org/explore/cze/party/2223/,1992,1992,,1,1992,1.1,""
 2220,CZE,KAN,Club of committed Non-Party Members,Klub angazovaných nestraníku,lib,http://www.parlgov.org/explore/cze/party/2220/,1992,1992,,1,1992,2.7,http://en.wikipedia.org/wiki/Club_of_Committed_Non-Party_Members
-1173,CZE,KSCM,Communist Party of Bohemia and Moravia,Komunistická strana Cech a Moravy,com,http://www.parlgov.org/explore/cze/party/1173/,1992,2019,,8,2002,18.5,http://en.wikipedia.org/wiki/Komunistick%C3%A1_strana_Cech_a_Moravy
+1173,CZE,KSCM,Communist Party of Bohemia and Moravia,Komunistická strana Cech a Moravy,com,http://www.parlgov.org/explore/cze/party/1173/,1992,2021,,9,2002,18.5,http://en.wikipedia.org/wiki/Komunistick%C3%A1_strana_Cech_a_Moravy
 665,CZE,KSC,Communist Party of Czechoslovakia,Komunistická strana Československa,com,http://www.parlgov.org/explore/cze/party/665/,1990,1990,,1,1990,13.2,http://en.wikipedia.org/wiki/Communist_Party_of_Czechoslovakia
-1245,CZE,KDU-CSL,Christian Democratic Union -- People's Party,Křesťanská a demokratická unie – Československá strana lidová,chr,http://www.parlgov.org/explore/cze/party/1245/,1990,2019,10,9,2002,14.3,http://en.wikipedia.org/wiki/Christian_Democratic_Union_-_Czechoslovak_People%27s_Party
+2102,CZE,CP-SB,Conservative Party -- Free Bloc,Konzervativní strana – Svobodný blok,con,http://www.parlgov.org/explore/cze/party/2102/,1990,1990,,1,1990,1,https://en.wikipedia.org/wiki/Conservative_Party_(Czech_Republic)
+1245,CZE,KDU-CSL,Christian Democratic Union -- People's Party,Křesťanská a demokratická unie – Československá strana lidová,chr,http://www.parlgov.org/explore/cze/party/1245/,1990,2019,11,9,2002,14.3,http://en.wikipedia.org/wiki/Christian_Democratic_Union_-_Czechoslovak_People%27s_Party
 440,CZE,KDS,Christian Democratic Party,Krestanskodemokraticka strana,chr,http://www.parlgov.org/explore/cze/party/440/,1990,1992,3,,,,http://en.wikipedia.org/wiki/Christian_Democratic_Party_%28Czech_Republic%29
 2224,CZE,LB,Left Bloc,Levý Blok,com,http://www.parlgov.org/explore/cze/party/2224/,1996,1996,,1,1996,1.4,http://cs.wikipedia.org/wiki/Lev%C3%BD_blok_(politick%C3%A1_strana)
 1218,CZE,LSU,Liberal Social Union,Liberálně sociální unie,lib,http://www.parlgov.org/explore/cze/party/1218/,1992,1992,,1,1992,6.5,http://cs.wikipedia.org/wiki/Liber%C3%A1ln%C4%9B_soci%C3%A1ln%C3%AD_unie
@@ -256,39 +267,42 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2221,CZE,NEI,Independent Initiative,Nezávislá iniciativa,code,http://www.parlgov.org/explore/cze/party/2221/,1992,1992,,1,1992,1.4,""
 653,CZE,Ne,Independent,Nezávislí,right,http://www.parlgov.org/explore/cze/party/653/,2004,2004,,1,2004,8.2,http://cs.wikipedia.org/wiki/NEZ%C3%81VISL%C3%8D
 1123,CZE,ODA,Civic Democratic Alliance,Občanská demokratická aliance,lib,http://www.parlgov.org/explore/cze/party/1123/,1992,1996,4,2,1996,6.4,http://en.wikipedia.org/wiki/Civic_Democratic_Alliance
-829,CZE,ODS,Civic Democratic Party,Občanská demokratická strana,con,http://www.parlgov.org/explore/cze/party/829/,1992,2019,7,8,2006,35.4,http://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
+829,CZE,ODS,Civic Democratic Party,Občanská demokratická strana,con,http://www.parlgov.org/explore/cze/party/829/,1992,2021,8,9,2006,35.4,http://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 743,CZE,OF,Civic Forum,Obcanské fórum,lib,http://www.parlgov.org/explore/cze/party/743/,1990,1990,1,1,1990,49.5,http://en.wikipedia.org/wiki/Civic_Forum
 574,CZE,OH|SD,Civic Movement | Free Democrats,Obcanské hnuti | Svobodní Demokraté,lib,http://www.parlgov.org/explore/cze/party/574/,1992,1992,,1,1992,4.6,https://en.wikipedia.org/wiki/Party_for_the_Open_Society
 2033,CZE,PB,Right Bloc,Pravý Blok,right,http://www.parlgov.org/explore/cze/party/2033/,2004,2004,,1,2004,1.2,http://cs.wikipedia.org/wiki/Prav%C3%BD_Blok
+2831,CZE,P,Oath,Přísaha,spec,http://www.parlgov.org/explore/cze/party/2831/,2021,2021,,1,2021,4.7,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
 872,CZE,SPR-RSC,Rally for the Republic -- Republican Party of Czechoslovakia,Sdruzení pro republiku – Republikánská strana Ceskoslovenska,right,http://www.parlgov.org/explore/cze/party/872/,1990,1998,,4,1996,8,http://en.wikipedia.org/wiki/Republicans_of_Miroslav_Sl%C3%A1dek
 1532,CZE,SNK-ED,SNK European Democrats,SNK Evropští demokraté,lib,http://www.parlgov.org/explore/cze/party/1532/,2002,2009,,2,2002,2.8,http://en.wikipedia.org/wiki/SNK_European_Democrats
 2101,CZE,SZV, Alliance of Farmers and the Countryside,Spojenectví zemědělců a venkova,agr,http://www.parlgov.org/explore/cze/party/2101/,1990,1990,,1,1990,4.1,""
-2024,CZE,STAN,Mayors and Independents,Starostové a nezávislí,lib,http://www.parlgov.org/explore/cze/party/2024/,2009,2017,,3,2017,5.2,http://en.wikipedia.org/wiki/Mayors_and_Independents
+2024,CZE,STAN,Mayors and Independents,Starostové a nezávislí,lib,http://www.parlgov.org/explore/cze/party/2024/,2009,2021,1,4,2021,15.6,http://en.wikipedia.org/wiki/Mayors_and_Independents
 2219,CZE,SCPZR,"Czechoslovak Businessmen's, Traders' and Farmers' Party","Strana československých podnikatelů, živnostníků a rolníků",lib,http://www.parlgov.org/explore/cze/party/2219/,1992,1992,,1,1992,3.1,"http://cs.wikipedia.org/wiki/Strana_%C4%8Deskoslovensk%C3%BDch_podnikatel%C5%AF,_%C5%BEivnostn%C3%ADk%C5%AF_a_roln%C3%ADk%C5%AF"
 2222,CZE,SPP,Party of the Friends of Beer,Strana prátel piva,spec,http://www.parlgov.org/explore/cze/party/2222/,1992,1992,,1,1992,1.3,http://cs.wikipedia.org/wiki/Strana_p%C5%99%C3%A1tel_piva
 406,CZE,SPOZ,Party of Civic Rights -- Zemanovci,Strana práv občanů – Zemanovci,soc,http://www.parlgov.org/explore/cze/party/406/,2010,2013,,2,2010,4.3,http://en.wikipedia.org/wiki/Party_of_Civic_Rights_%E2%80%93_Zemanovci
 363,CZE,SSO,Party of Free Citizens,Strana svobodných občanů,right,http://www.parlgov.org/explore/cze/party/363/,2009,2017,,2,2013,2.5,http://en.wikipedia.org/wiki/Party_of_Free_Citizens
-196,CZE,SZ,Green Party,Strana zelených,eco,http://www.parlgov.org/explore/cze/party/196/,1990,2017,1,7,2006,6.3,http://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
+196,CZE,SZ,Green Party,Strana zelených,eco,http://www.parlgov.org/explore/cze/party/196/,1990,2021,1,8,2006,6.3,http://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 1613,CZE,S-JB,Sovereignty -- Jana Bobosikova Bloc,Suverenita – blok Jany Bobošíkové,right,http://www.parlgov.org/explore/cze/party/1613/,2009,2014,,1,2010,3.7,http://en.wikipedia.org/wiki/Sovereignty_%E2%80%93_Jana_Bobo%C5%A1%C3%ADkov%C3%A1_Bloc
-2654,CZE,SPD,Freedom and Direct Democracy Tomio Okamura,Svoboda a přímá demokracie Tomio Okamura,right,http://www.parlgov.org/explore/cze/party/2654/,2017,2019,,1,2017,10.6,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2102,CZE,SB,Free Bloc,Svobodný blok,code,http://www.parlgov.org/explore/cze/party/2102/,1990,1990,,1,1990,1,""
-2,CZE,TOP09,Tradition Responsibility Prosperity 09,Tradice Odpovědnost Prosperita 09,con,http://www.parlgov.org/explore/cze/party/2/,2010,2019,2,3,2010,16.7,http://en.wikipedia.org/wiki/Tradition_Responsibility_Prosperity_09
+2654,CZE,SPD,Freedom and Direct Democracy ,Svoboda a přímá demokracie ,right,http://www.parlgov.org/explore/cze/party/2654/,2017,2021,,2,2017,10.6,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2,CZE,TOP09,Tradition Responsibility Prosperity 09,Tradice Odpovědnost Prosperita 09,con,http://www.parlgov.org/explore/cze/party/2/,2010,2019,3,3,2010,16.7,http://en.wikipedia.org/wiki/Tradition_Responsibility_Prosperity_09
+2832,CZE,Tri,Tricolour Citizens' Movement,Trikolóra,right,http://www.parlgov.org/explore/cze/party/2832/,2021,2021,,1,2021,2.8,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 688,CZE,US,Freedom Union,Unie svobody ,lib,http://www.parlgov.org/explore/cze/party/688/,1998,2004,4,2,1998,8.6,http://en.wikipedia.org/wiki/Freedom_Union_-_Democratic_Union
 2262,CZE,UPD,Dawn of Direct Democracy,Úsvit přímé demokracie,con,http://www.parlgov.org/explore/cze/party/2262/,2013,2014,,1,2013,6.9,http://en.wikipedia.org/wiki/Dawn_of_Direct_Democracy
 336,CZE,VV,Public Affairs,Věci veřejné,lib,http://www.parlgov.org/explore/cze/party/336/,2009,2010,1,1,2010,10.9,http://en.wikipedia.org/wiki/Public_Affairs_%28political_party%29
-2253,DEU,AfD,Alternative for Germany,Alternative für Deutschland,right,http://www.parlgov.org/explore/deu/party/2253/,2013,2019,,2,2017,12.6,http://en.wikipedia.org/wiki/Alternative_for_Germany
-2703,DEU,BWB,Farmers' and winegrowers' association,Bauern- und Weingärtnerbund,agr,http://www.parlgov.org/explore/deu/party/2703/,1920,1933,,8,1924,0.8,https://de.wikipedia.org/wiki/W%C3%BCrttembergischer_Bauern-_und_Weing%C3%A4rtnerbund
+2854,CZE,VB,Free Bloc,Volný blok,right,http://www.parlgov.org/explore/cze/party/2854/,2021,2021,,1,2021,1.3,https://en.wikipedia.org/wiki/Free_Bloc
+2253,DEU,AfD,Alternative for Germany,Alternative für Deutschland,right,http://www.parlgov.org/explore/deu/party/2253/,2013,2021,,3,2017,12.6,http://en.wikipedia.org/wiki/Alternative_for_Germany
+2821,DEU,dieBasis,Grassroots Democratic Party of Germany,Basisdemokratische Partei Deutschland,spec,http://www.parlgov.org/explore/deu/party/2821/,2021,2021,,1,2021,1.4,https://en.wikipedia.org/wiki/Grassroots_Democratic_Party_of_Germany
+2703,DEU,BWB,Farmers and Wine Growers Association,Bauern- und Weingärtnerbund,agr,http://www.parlgov.org/explore/deu/party/2703/,1920,1933,,8,1924,0.8,https://de.wikipedia.org/wiki/W%C3%BCrttembergischer_Bauern-_und_Weing%C3%A4rtnerbund
 2697,DEU,BVP,Bavarian People's Party,Bayerische Volkspartei,chr,http://www.parlgov.org/explore/deu/party/2697/,1919,1933,14,9,1920,4.5,https://en.wikipedia.org/wiki/Bavarian_People%27s_Party
 2701,DEU,BBB,Bavarian Peasants' League,Bayerischer Bauernbund,lib,http://www.parlgov.org/explore/deu/party/2701/,1919,1933,1,9,1928,1.2,https://en.wikipedia.org/wiki/Bavarian_Peasants%27_League
 1131,DEU,BP,Bavarian Party,Bayernpartei,con,http://www.parlgov.org/explore/deu/party/1131/,1949,1953,,2,1949,4.2,http://en.wikipedia.org/wiki/Bavaria_Party
 1720,DEU,BFB,Confederation of free citizens -- Offensive for Germany,Bund freier Bürger – Offensive für Deutschland,right,http://www.parlgov.org/explore/deu/party/1720/,1994,1994,,1,1994,1.1,http://de.wikipedia.org/wiki/Bund_freier_B%C3%BCrger
-772,DEU,B90/Gru,Alliance 90 / Greens,Bündnis 90 / Die Grünen,eco,http://www.parlgov.org/explore/deu/party/772/,1979,2019,2,11,2009,10.7,http://en.wikipedia.org/wiki/Alliance_%2790/The_Greens
+772,DEU,B90/Gru,Alliance 90 / Greens,Bündnis 90 / Die Grünen,eco,http://www.parlgov.org/explore/deu/party/772/,1979,2021,3,12,2021,14.8,http://en.wikipedia.org/wiki/Alliance_%2790/The_Greens
 255,DEU,B90/Gr,Alliance 90 / Greens -- Citizens' Movement,Bündnis 90 / Grüne – BürgerInnenbewegung,eco,http://www.parlgov.org/explore/deu/party/255/,1990,1990,,1,1990,1.2,http://en.wikipedia.org/wiki/Alliance_90
+808,DEU,CDU,Christian Democratic Union,Christlich Demokratische Union,chr,http://www.parlgov.org/explore/deu/party/808/,1949,2021,,20,1957,39.7,http://en.wikipedia.org/wiki/Christlich_Demokratische_Union_Deutschlands
+1727,DEU,CDU+CSU,Christian Democratic Union / Christian Social Union,Christlich Demokratische Union / Christlich Soziale Union,chr,http://www.parlgov.org/explore/deu/party/1727/,,,20,,,,http://en.wikipedia.org/wiki/CDU/CSU
+1180,DEU,CSU,Christian Social Union,Christlich Soziale Union,chr,http://www.parlgov.org/explore/deu/party/1180/,1949,2021,,20,1976,10.6,http://en.wikipedia.org/wiki/Christian_Social_Union_of_Bavaria
 2709,DEU,CNBL,Christian-National Peasants' and Farmers' Party,Christlich-Nationale Bauern- und Landvolkpartei,chr,http://www.parlgov.org/explore/deu/party/2709/,1928,1930,4,2,1930,2.8,https://en.wikipedia.org/wiki/Christian-National_Peasants%27_and_Farmers%27_Party
 2700,DEU,CSVD,Christian Social People's Service,Christlich-Sozialer Volksdienst,chr,http://www.parlgov.org/explore/deu/party/2700/,1930,1933,3,4,1930,2.5,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Service
-808,DEU,CDU,Christian Democratic Union,Christlich Demokratische Union,chr,http://www.parlgov.org/explore/deu/party/808/,1949,2019,,19,1957,39.7,http://en.wikipedia.org/wiki/Christlich_Demokratische_Union_Deutschlands
-1727,DEU,CDU+CSU,Christian Democratic Union / Christian Social Union,Christlich Demokratische Union / Christlich Soziale Union,chr,http://www.parlgov.org/explore/deu/party/1727/,,,20,,,,http://en.wikipedia.org/wiki/CDU/CSU
-1180,DEU,CSU,Christian Social Union,Christlich Soziale Union,chr,http://www.parlgov.org/explore/deu/party/1180/,1949,2019,,19,1976,10.6,http://en.wikipedia.org/wiki/Christian_Social_Union_of_Bavaria
 2713,DEU,CNAG,Christian National Working Group,Christlichnationale Arbeitsgemeinschaft,chr,http://www.parlgov.org/explore/deu/party/2713/,,,1,,,,https://de.wikipedia.org/wiki/Christlich-Nationale_Arbeitsgemeinschaft
 2696,DEU,DHP,German-Hanoverian Party,Deutsch-Hannoversche Partei,con,http://www.parlgov.org/explore/deu/party/2696/,1919,1932,,7,1920,1.2,https://en.wikipedia.org/wiki/German-Hanoverian_Party
 2691,DEU,DDP,German Democratic Party,Deutsche Demokratische Partei,lib,http://www.parlgov.org/explore/deu/party/2691/,1919,1933,20,9,1919,18.3,https://en.wikipedia.org/wiki/German_Democratic_Party
@@ -301,12 +315,12 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2692,DEU,DNVP,German National People's Party,Deutschnationale Volkspartei,right,http://www.parlgov.org/explore/deu/party/2692/,1919,1933,6,9,1924,20.5,https://en.wikipedia.org/wiki/German_National_People%27s_Party
 2705,DEU,DSP,German Social Party,Deutschsoziale Partei,right,http://www.parlgov.org/explore/deu/party/2705/,1924,1924,,1,1924,1.1,https://en.wikipedia.org/wiki/German_Social_Party_(Weimar_Republic)
 292,DEU,Grau,The Grays -- Gray Panthers,Die Grauen – Graue Panther,spec,http://www.parlgov.org/explore/deu/party/292/,2004,2004,,1,2004,1.2,http://en.wikipedia.org/wiki/The_Grays_%E2%80%93_Gray_Panthers
-2649,DEU,PARTEI,The PARTY,Die PARTEI,spec,http://www.parlgov.org/explore/deu/party/2649/,2017,2019,,1,2017,1,https://en.wikipedia.org/wiki/Die_PARTEI
+2649,DEU,PARTEI,The PARTY,Die PARTEI,spec,http://www.parlgov.org/explore/deu/party/2649/,2017,2021,,2,2017,1,https://en.wikipedia.org/wiki/Die_PARTEI
 524,DEU,Rep,The Republicans,Die Republikaner,right,http://www.parlgov.org/explore/deu/party/524/,1989,2014,,4,1990,2.1,http://en.wikipedia.org/wiki/Die_Republikaner
 1235,DEU,Fam,Family Party of Germany,Familien-Partei Deutschlands,con,http://www.parlgov.org/explore/deu/party/1235/,2004,2019,,4,2004,1,http://en.wikipedia.org/wiki/Family_Party_of_Germany
-543,DEU,FDP,Free Democratic Party,Freie Demokratische Partei,lib,http://www.parlgov.org/explore/deu/party/543/,1949,2019,17,19,2009,14.6,http://en.wikipedia.org/wiki/Freie_Demokratische_Partei
+543,DEU,FDP,Free Democratic Party,Freie Demokratische Partei,lib,http://www.parlgov.org/explore/deu/party/543/,1949,2021,18,20,2009,14.6,http://en.wikipedia.org/wiki/Freie_Demokratische_Partei
 358,DEU,FVP,Free People's Party,Freie Volkspartei,lib,http://www.parlgov.org/explore/deu/party/358/,,,1,,,,https://en.wikipedia.org/wiki/Free_People%27s_Party_%28Germany%29
-41,DEU,FW,Free Voters,Freie Wähler,con,http://www.parlgov.org/explore/deu/party/41/,2009,2019,,1,2017,1,https://de.wikipedia.org/wiki/Freie_W%C3%A4hler_(Bundesvereinigung)
+41,DEU,FW,Free Voters,Freie Wähler,con,http://www.parlgov.org/explore/deu/party/41/,2009,2021,,2,2021,2.4,https://de.wikipedia.org/wiki/Freie_W%C3%A4hler_(Bundesvereinigung)
 1718,DEU,Fr,Peace alliance,Friedensliste,com,http://www.parlgov.org/explore/deu/party/1718/,1984,1984,,1,1984,1.3,http://de.wikipedia.org/wiki/Friedensliste
 1701,DEU,GDP,All-German Party,Gesamtdeutsche Partei,con,http://www.parlgov.org/explore/deu/party/1701/,1961,1961,,1,1961,2.8,http://de.wikipedia.org/wiki/Gesamtdeutsche_Partei
 238,DEU,GVP,All-German People's Party,Gesamtdeutsche Volkspartei,chr,http://www.parlgov.org/explore/deu/party/238/,1953,1953,,1,1953,1.2,http://en.wikipedia.org/wiki/All-German_People's_Party
@@ -316,12 +330,12 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 1537,DEU,NPD,National Democratic Party,Nationaldemokratische Partei Deutschlands,right,http://www.parlgov.org/explore/deu/party/1537/,1965,2014,,9,1969,4.3,http://en.wikipedia.org/wiki/Nationaldemokratische_Partei_Deutschlands
 2695,DEU,NSDAP,National Socialist German Workers' Party,Nationalsozialistische Deutsche Arbeiterpartei,right,http://www.parlgov.org/explore/deu/party/2695/,1924,1933,1,7,1933,43.9,https://en.wikipedia.org/wiki/Nazi_Party
 2736,DEU,ODP,Ecological Democratic Party,Ökologisch-Demokratische Partei,eco,http://www.parlgov.org/explore/deu/party/2736/,2019,2019,,1,2019,1,https://en.wikipedia.org/wiki/Ecological_Democratic_Party
-791,DEU,PDS|Li,PDS | The Left,PDS | Die Linke,com,http://www.parlgov.org/explore/deu/party/791/,1990,2019,,8,2009,11.9,http://en.wikipedia.org/wiki/Partei_des_Demokratischen_Sozialismus
+791,DEU,PDS|Li,PDS | The Left,PDS | Die Linke,com,http://www.parlgov.org/explore/deu/party/791/,1990,2021,,9,2009,11.9,http://en.wikipedia.org/wiki/Partei_des_Demokratischen_Sozialismus
 865,DEU,Pi,German Pirate Party,Piratenpartei Deutschland,spec,http://www.parlgov.org/explore/deu/party/865/,2009,2019,,2,2013,2.2,http://en.wikipedia.org/wiki/German_Pirate_Party
 2710,DEU,VRP,Reich Party for Civil Rights and Deflation,Reichspartei für Volksrecht und Aufwertung,spec,http://www.parlgov.org/explore/deu/party/2710/,1928,1932,,2,1928,1.6,https://en.wikipedia.org/wiki/Reich_Party_for_Civil_Rights_and_Deflation
-558,DEU,SPD,Social Democratic Party of Germany,Sozialdemokratische Partei Deutschlands,soc,http://www.parlgov.org/explore/deu/party/558/,1919,2019,22,28,1972,45.8,http://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
-301,DEU,Tier,Animal Protection Party,Tierschutzpartei,spec,http://www.parlgov.org/explore/deu/party/301/,2004,2019,,4,2019,1.4,http://en.wikipedia.org/wiki/Human_Environment_Animal_Welfare
-2690,DEU,USPD,Independent Social Democratic Party of Germany,Unabhängige Sozialdemokratische Partei Deutschland,com,http://www.parlgov.org/explore/deu/party/2690/,1919,1920,,2,1920,18.8,https://en.wikipedia.org/wiki/Independent_Social_Democratic_Party_of_Germany
+558,DEU,SPD,Social Democratic Party of Germany,Sozialdemokratische Partei Deutschlands,soc,http://www.parlgov.org/explore/deu/party/558/,1919,2021,23,29,1972,45.8,http://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
+301,DEU,Tier,Animal Protection Party,Tierschutzpartei,spec,http://www.parlgov.org/explore/deu/party/301/,2004,2021,,1,2021,1.4,http://en.wikipedia.org/wiki/Human_Environment_Animal_Welfare
+2690,DEU,USPD,Independent Social Democratic Party of Germany,Unabhängige Sozialdemokratische Partei Deutschlands,com,http://www.parlgov.org/explore/deu/party/2690/,1919,1920,,2,1920,18.8,https://en.wikipedia.org/wiki/Independent_Social_Democratic_Party_of_Germany
 1420,DEU,WAV,Economic Reconstruction League,Wirtschaftliche Aufbauvereinigung,right,http://www.parlgov.org/explore/deu/party/1420/,1949,1949,,1,1949,2.9,http://en.wikipedia.org/wiki/Economic_Reconstruction_Union
 2698,DEU,WP,Economic Party,Wirtschaftspartei,con,http://www.parlgov.org/explore/deu/party/2698/,1924,1932,2,6,1928,4.5,https://en.wikipedia.org/wiki/Reich_Party_of_the_German_Middle_Class
 2567,DNK,A,The Alternative,Alternativet,eco,http://www.parlgov.org/explore/dnk/party/2567/,2015,2019,,2,2015,4.8,https://en.wikipedia.org/wiki/The_Alternative_%28Denmark%29
@@ -398,19 +412,21 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 443,ESP,UV,Valencian Union,Union Valenciana,spec,http://www.parlgov.org/explore/esp/party/443/,1986,1996,,4,1989,0.7,http://en.wikipedia.org/wiki/Valencian_Union
 2380,ESP,Vox,Voice,Vox,right,http://www.parlgov.org/explore/esp/party/2380/,2014,2019,,2,2019,15.1,http://en.wikipedia.org/wiki/Vox_%28Spanish_political_party%29
 1516,EST,EEE,Estonian Entrepreneur Party,Eesti Ettevõtjate Erakond,lib,http://www.parlgov.org/explore/est/party/1516/,1992,1992,,1,1992,2.4,http://et.wikipedia.org/wiki/Eesti_Ettev%C3%B5tjate_Erakond
-1137,EST,EK,Estonian Centre Party,Eesti Keskerakond,soc,http://www.parlgov.org/explore/est/party/1137/,1995,2019,5,7,2007,26.1,http://en.wikipedia.org/wiki/Estonian_Centre_Party
+1137,EST,EK,Estonian Centre Party,Eesti Keskerakond,soc,http://www.parlgov.org/explore/est/party/1137/,1995,2019,6,7,2007,26.1,http://en.wikipedia.org/wiki/Estonian_Centre_Party
 1064,EST,EKo,Estonian Citizens,Eesti Kodanik,right,http://www.parlgov.org/explore/est/party/1064/,1992,1995,,2,1992,6.9,"http://en.wikipedia.org/wiki/Estonian_parliamentary_election,_1992"
 486,EST,EKK,Estonian Coalition Party,Eesti Koonderakond,lib,http://www.parlgov.org/explore/est/party/486/,1992,1999,4,3,1995,32.2,http://en.wikipedia.org/wiki/Estonian_Coalition_Party
 609,EST,EKD,Estonian Christian Democrats,Eesti Kristlikud Demokraadid,chr,http://www.parlgov.org/explore/est/party/609/,1999,2007,,3,1999,2.4,http://en.wikipedia.org/wiki/Party_of_Estonian_Christian_Democrats
+2403,EST,EM,Estonian Country Union,Eesti Maaliit,agr,http://www.parlgov.org/explore/est/party/2403/,,,2,,,,https://et.wikipedia.org/wiki/Eesti_Maaliit
+2402,EST,EPPE,Estonian Party of Pensioners and Families,Eesti Pensionäride ja Perede Erakond,agr,http://www.parlgov.org/explore/est/party/2402/,,,2,,,,http://en.wikipedia.org/wiki/List_of_political_parties_in_Estonia
 1792,EST,EPL,Estonian Pensioners' Union,Eesti Pensionaride Liit,spec,http://www.parlgov.org/explore/est/party/1792/,1992,1992,,1,1992,3.7,""
 552,EST,ERSP,Estonian National Independence Party,Eesti Rahvusliku Sõltumatuse Partei,con,http://www.parlgov.org/explore/est/party/552/,1992,1992,2,1,1992,8.8,http://en.wikipedia.org/wiki/Eesti_Rahvusliku_S%C3%B5ltumatuse_Partei
-113,EST,ERe,Estonian Reform Party,Eesti Reformierakond,lib,http://www.parlgov.org/explore/est/party/113/,1995,2019,10,7,2019,28.9,http://en.wikipedia.org/wiki/Eesti_Reformierakond
+113,EST,ERe,Estonian Reform Party,Eesti Reformierakond,lib,http://www.parlgov.org/explore/est/party/113/,1995,2019,11,7,2019,28.9,http://en.wikipedia.org/wiki/Eesti_Reformierakond
 2631,EST,EER-91,Estonian Greens -- 1991,Eesti Rohelised – 1991,eco,http://www.parlgov.org/explore/est/party/2631/,1992,1992,,1,1992,2.6,https://et.wikipedia.org/wiki/Eesti_Rohelised
 2267,EST,ESE-D,Estonian Blue Party -- Democrats,Eesti Sinine Erakond – Demokraadid,lib,http://www.parlgov.org/explore/est/party/2267/,1999,2004,,1,1999,1.6,http://en.wikipedia.org/wiki/Libertas_Estonia
 1796,EST,ETE,Estonian Farmers Party,Eesti Talurahva Erakond,agr,http://www.parlgov.org/explore/est/party/1796/,1995,1995,,1,1995,1.5,https://et.wikipedia.org/wiki/Eesti_Talurahva_Erakond
 2409,EST,EV,Free Party,Eesti Vabaerakond,con,http://www.parlgov.org/explore/est/party/2409/,2015,2019,,2,2015,8.7,http://en.wikipedia.org/wiki/Free_Party_%28Estonia%29
 2416,EST,EVP,Estonian Left Party,Eesti Vasakpartei,com,http://www.parlgov.org/explore/est/party/2416/,1992,1995,,2,1995,2.3,https://en.wikipedia.org/wiki/Estonian_Left_Party
-417,EST,ERa/EKR,People's Union of Estonia / Conservative People's Party,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,con,http://www.parlgov.org/explore/est/party/417/,1999,2019,3,6,2019,17.8,http://en.wikipedia.org/wiki/People%27s_Union_of_Estonia
+417,EST,ERa/EKR,People's Union of Estonia / Conservative People's Party,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,con,http://www.parlgov.org/explore/est/party/417/,1999,2019,5,6,2019,17.8,http://en.wikipedia.org/wiki/People%27s_Union_of_Estonia
 2721,EST,ELE,Richness of Life,Elurikkuse Erakond,eco,http://www.parlgov.org/explore/est/party/2721/,2019,2019,,1,2019,1.2,https://en.wikipedia.org/wiki/Richness_of_Life
 2720,EST,E200,Estonia 200,Erakond Eesti 200,lib,http://www.parlgov.org/explore/est/party/2720/,2019,2019,,1,2019,4.4,https://en.wikipedia.org/wiki/Estonia_200
 219,EST,EER,Estonian Greens,Erakond Eestimaa Rohelised,eco,http://www.parlgov.org/explore/est/party/219/,2007,2019,,4,2007,7.1,http://en.wikipedia.org/wiki/Estonian_Greens
@@ -497,8 +513,8 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2583,FRA,PDP,Popular Democratic Party,Parti démocrate populaire,chr,http://www.parlgov.org/explore/fra/party/2583/,1932,1932,5,1,1932,3.2,https://en.wikipedia.org/wiki/Popular_Democratic_Party_%28France%29
 670,FRA,PFN,Party of New Forces,Parti des forces nouvelles,right,http://www.parlgov.org/explore/fra/party/670/,1979,1979,,1,1979,1.3,http://fr.wikipedia.org/wiki/Parti_des_forces_nouvelles_%28France%29
 2813,FRA,PE,Ecologist Party,Parti écologiste,eco,http://www.parlgov.org/explore/fra/party/2813/,,,2,,,,https://en.wikipedia.org/wiki/Ecologist_Party
-401,FRA,PR,Radical Socialist Party,Parti radical-socialiste ,con,http://www.parlgov.org/explore/fra/party/401/,1902,2014,82,15,1906,28.5,http://en.wikipedia.org/wiki/Radical_Party_(France)
 1492,FRA,PRG,Radical Party of the Left,Parti radical de gauche,soc,http://www.parlgov.org/explore/fra/party/1492/,1973,2017,12,11,1978,2.2,http://en.wikipedia.org/wiki/Left_Radical_Party
+401,FRA,PR,Radical Socialist Party,Parti radical-socialiste ,con,http://www.parlgov.org/explore/fra/party/401/,1902,2014,82,15,1906,28.5,http://en.wikipedia.org/wiki/Radical_Party_(France)
 1297,FRA,PRL,Conservatives,Parti républicain de la liberté,con,http://www.parlgov.org/explore/fra/party/1297/,1945,1946,11,3,1945,13.3,http://en.wikipedia.org/wiki/Republican_Party_of_Liberty
 2594,FRA,RS,Republican Socialist Party,Parti républicain socialiste,soc,http://www.parlgov.org/explore/fra/party/2594/,1910,1936,41,6,1910,20.4,https://en.wikipedia.org/wiki/Republican-Socialist_Party
 1539,FRA,PS,Socialist Party,Parti socialiste,soc,http://www.parlgov.org/explore/fra/party/1539/,1902,2019,42,29,1981,36,http://en.wikipedia.org/wiki/Socialist_Party_(France)
@@ -570,9 +586,9 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 489,GRC,EDIK,Union of the Democratic Centre,Enosi Dimokratikou Kentrou,lib,http://www.parlgov.org/explore/grc/party/489/,1974,1981,,2,1974,20.4,http://en.wikipedia.org/wiki/Union_of_the_Democratic_Centre_(Greece)
 2348,GRC,EPL,Union for the Homeland and the People,Enosi Gia Tin Patrida Kai Ton Lao,con,http://www.parlgov.org/explore/grc/party/2348/,2014,2014,,1,2014,1,http://el.wikipedia.org/wiki/%CE%88%CE%BD%CF%89%CF%83%CE%B7_%CE%B3%CE%B9%CE%B1_%CF%84%CE%B7%CE%BD_%CE%A0%CE%B1%CF%84%CF%81%CE%AF%CE%B4%CE%B1_%CE%BA%CE%B1%CE%B9_%CF%84%CE%BF%CE%BD_%CE%9B%CE%B1%CF%8C
 2165,GRC,EK,Union of Centrists,Enosi Kentroon,soc,http://www.parlgov.org/explore/grc/party/2165/,1994,2019,,3,2015,3.4,http://en.wikipedia.org/wiki/Union_of_Centrists
-2230,GRC,EDE,National Democratic Union,Ethnikή Dhmokratikή Έnwsis,right,http://www.parlgov.org/explore/grc/party/2230/,1974,1974,,1,1974,1.1,http://en.wikipedia.org/wiki/National_Democratic_Union_(Greece)
 1027,GRC,EP,National Alignment,Ethniki Parataxis,con,http://www.parlgov.org/explore/grc/party/1027/,1977,1977,,1,1977,6.8,http://en.wikipedia.org/wiki/National_Alignment
 1162,GRC,EPEN,National Political Union,Ethniki Politiki Enosis,right,http://www.parlgov.org/explore/grc/party/1162/,1984,1989,,2,1984,2.3,http://en.wikipedia.org/wiki/National_Political_Union_%28Greece%29
+2230,GRC,EDE,National Democratic Union,Ethnikή Dhmokratikή Έnwsis,right,http://www.parlgov.org/explore/grc/party/2230/,1974,1974,,1,1974,1.1,http://en.wikipedia.org/wiki/National_Democratic_Union_(Greece)
 2407,GRC,KIDISO,Movement of Democratic Socialists,Kinima Dimokraton Sosialiston,soc,http://www.parlgov.org/explore/grc/party/2407/,2015,2015,,1,2015,2.5,http://en.wikipedia.org/wiki/Movement_of_Democratic_Socialists
 252,GRC,KDS,Party of Democratic Socialism,Komma Dimokratikou Socialismou,soc,http://www.parlgov.org/explore/grc/party/252/,1981,1984,,2,1981,4.3,http://en.wikipedia.org/wiki/Party_of_Democratic_Socialism_(Greece)
 2167,GRC,KEK,Party of Greek Hunters,Kómma Ellênòn Kynègôn,con,http://www.parlgov.org/explore/grc/party/2167/,1999,2014,,3,2009,1.3,http://en.wikipedia.org/wiki/Party_of_Greek_Hunters
@@ -588,8 +604,8 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 47,GRC,ND,New Democracy,Néa Đimokratía,chr,http://www.parlgov.org/explore/grc/party/47/,1974,2019,12,18,1974,54.4,http://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2166,GRC,OF,The Liberals,Oi Fileleftheroi,lib,http://www.parlgov.org/explore/grc/party/2166/,1999,1999,,1,1999,1.6,http://en.wikipedia.org/wiki/The_Liberals_%28Greece%29
 1280,GRC,OP,Ecologist Greens,Oikologoi Prasinoi,eco,http://www.parlgov.org/explore/grc/party/1280/,2007,2012,,3,2012,2.9,http://en.wikipedia.org/wiki/Ecologist_Greens
-2169,GRC,PMM,Panhellenic Macedonian Front,Panellήnio Makedonikό Metwpo,spec,http://www.parlgov.org/explore/grc/party/2169/,2009,2009,,1,2009,1.3,http://en.wikipedia.org/wiki/Panhellenic_Macedonian_Front
 1338,GRC,PASOK,Panhellenic Socialist Movement,Panellinio Sosialistikó Kínima,soc,http://www.parlgov.org/explore/grc/party/1338/,1974,2019,12,18,1981,48.1,http://en.wikipedia.org/wiki/Panhellenic_Socialist_Movement
+2169,GRC,PMM,Panhellenic Macedonian Front,Panellήnio Makedonikό Metwpo,spec,http://www.parlgov.org/explore/grc/party/2169/,2009,2009,,1,2009,1.3,http://en.wikipedia.org/wiki/Panhellenic_Macedonian_Front
 1412,GRC,POLAN,Political Spring,Politiki Anixi,con,http://www.parlgov.org/explore/grc/party/1412/,1993,1999,,2,1993,4.9,http://en.wikipedia.org/wiki/Political_Spring
 1592,GRC,SYRIZA,Coalition of the Radical Left,Synaspismós Rizospastikís Aristerás,com,http://www.parlgov.org/explore/grc/party/1592/,2004,2019,3,8,2015,36.3,http://en.wikipedia.org/wiki/Coalition_of_the_Radical_Left
 1441,GRC,SYN,Coalition of the Left,Synaspismós tīs Aristerás,com,http://www.parlgov.org/explore/grc/party/1441/,1989,2004,2,7,1989,13.1,http://en.wikipedia.org/wiki/Synaspismos
@@ -597,11 +613,11 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2346,GRC,TP,The River,To Potami,soc,http://www.parlgov.org/explore/grc/party/2346/,2014,2019,,2,2015,6,http://en.wikipedia.org/wiki/The_River_(Greece)
 2186,HRV,AM,Youth Action,Akcija mladih,eco,http://www.parlgov.org/explore/hrv/party/2186/,2013,2013,,1,2013,1.5,http://hr.wikipedia.org/wiki/Akcija_mladih
 1081,HRV,DC,Democratic Centre,Demokratski centar,lib,http://www.parlgov.org/explore/hrv/party/1081/,2011,2011,1,,,,http://en.wikipedia.org/wiki/Democratic_Centre_%28Croatia%29
-2809,HRV,DPMS,Miroslav Skoro Homeland Movement,Domovinski pokret Miroslava Škore,right,http://www.parlgov.org/explore/hrv/party/2809/,2020,2020,,1,2020,10.6,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2809,HRV,DP,Homeland Movement,Domovinski pokret,right,http://www.parlgov.org/explore/hrv/party/2809/,2020,2020,,1,2020,10.6,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
 2192,HRV,ethnic,ethnic,ethnic,none,http://www.parlgov.org/explore/hrv/party/2192/,2000,2020,1,6,2016,1.9,""
 2198,HRV,HDSS,Croatian Democratic Peasant Party,Hrvatska demokratska seljačka stranka,agr,http://www.parlgov.org/explore/hrv/party/2198/,2003,2003,,1,2003,1,http://en.wikipedia.org/wiki/Croatian_Democratic_Peasants_Party
 276,HRV,HDZ,Croatian Democratic Union,Hrvatska demokratska zajednica,chr,http://www.parlgov.org/explore/hrv/party/276/,2000,2020,9,7,2007,35.9,http://en.wikipedia.org/wiki/Croatian_Democratic_Community
-1384,HRV,HNS,Croatian People's Party -- Liberal Democrats,Hrvatska narodna stranka – Liberalni demokrati,lib,http://www.parlgov.org/explore/hrv/party/1384/,2000,2020,5,7,2003,8.3,http://en.wikipedia.org/wiki/Croatian_People%27s_Party-Liberal_Democrats
+1384,HRV,HNS-LD,Croatian People's Party -- Liberal Democrats,Hrvatska narodna stranka – Liberalni demokrati,lib,http://www.parlgov.org/explore/hrv/party/1384/,2000,2020,5,7,2003,8.3,http://en.wikipedia.org/wiki/Croatian_People%27s_Party-Liberal_Democrats
 2203,HRV,HPS,Croatian People's Party,Hrvatska pucka stranka,con,http://www.parlgov.org/explore/hrv/party/2203/,2000,2000,,1,2000,1.4,https://en.wikipedia.org/wiki/Croatian_Popular_Party
 2202,HRV,HSNS,Croatian Peasant's People's Party,Hrvatska seljacka narodna stranka,agr,http://www.parlgov.org/explore/hrv/party/2202/,2000,2000,,1,2000,1.4,""
 1465,HRV,HSS,Croatian Peasant Party,Hrvatska seljačka stranka,agr,http://www.parlgov.org/explore/hrv/party/1465/,2000,2016,6,6,2000,15.6,http://en.wikipedia.org/wiki/Croatian_Peasant_Party
@@ -697,11 +713,11 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 828,ISL,Bf-87,Citizens' Party -- 1987,Borgaraflokkurinn – 1987,con,http://www.parlgov.org/explore/isl/party/828/,1987,1987,1,1,1987,10.9,http://en.wikipedia.org/wiki/Citizens%27_Party_%28Iceland%29
 587,ISL,B-H,Civic Movement -- The Movement,Borgarahreyfingin – Hreyfingin,lib,http://www.parlgov.org/explore/isl/party/587/,2009,2009,,1,2009,7.2,http://en.wikipedia.org/wiki/Citizens'_Movement_(Iceland)
 2206,ISL,Dawn,"Dawn -- Organization of justice, fairness and democracy","Dögun – stjórnmálasamtök um réttlæti, sanngirni og lýðræði",spec,http://www.parlgov.org/explore/isl/party/2206/,2013,2013,,1,2013,3.1,http://en.wikipedia.org/wiki/Dawn_(Iceland)
-2632,ISL,FlF,People's Party,Flokkur fólksins,com,http://www.parlgov.org/explore/isl/party/2632/,2016,2017,,2,2017,6.9,"https://en.wikipedia.org/wiki/People%27s_Party_(Iceland,_2016)"
+2632,ISL,FlF,People's Party,Flokkur fólksins,spec,http://www.parlgov.org/explore/isl/party/2632/,2016,2021,,3,2021,8.8,"https://en.wikipedia.org/wiki/People%27s_Party_(Iceland,_2016)"
 2207,ISL,FH,Households Party,Flokkur Heimilanna,spec,http://www.parlgov.org/explore/isl/party/2207/,2013,2013,,1,2013,3,http://en.wikipedia.org/wiki/Households_Party_(Iceland)
 2598,ISL,FM,Humanist Party,Flokkur mannsins,com,http://www.parlgov.org/explore/isl/party/2598/,1987,1987,,1,1987,1.6,https://en.wikipedia.org/wiki/Humanist_Party_%28Iceland%29
 2111,ISL,Fb,Candidature Party,Framboðsflokkurinn,spec,http://www.parlgov.org/explore/isl/party/2111/,1971,1971,,1,1971,2,http://is.wikipedia.org/wiki/Frambo%C3%B0sflokkurinn
-1455,ISL,F,Progressive Party,Framsóknarflokkurinn,agr,http://www.parlgov.org/explore/isl/party/1455/,1919,2017,27,32,1931,35.9,http://en.wikipedia.org/wiki/Progressive_Party_%28Iceland%29
+1455,ISL,F,Progressive Party,Framsóknarflokkurinn,agr,http://www.parlgov.org/explore/isl/party/1455/,1919,2021,28,33,1931,35.9,http://en.wikipedia.org/wiki/Progressive_Party_%28Iceland%29
 2441,ISL,FF,Liberal Party ,Frjálslyndi flokkurinn,lib,http://www.parlgov.org/explore/isl/party/2441/,1927,1927,,1,1927,5.8,"http://en.wikipedia.org/wiki/Liberal_Party_%28Iceland,_historical%29"
 506,ISL,Ff,Liberal Party,Frjálslyndi flokkurinn,lib,http://www.parlgov.org/explore/isl/party/506/,1999,2009,,4,2003,7.4,http://en.wikipedia.org/wiki/Frj%C3%A1slyndi_Flokkurin
 2114,ISL,Fr,Liberals,Frjálslyndir,lib,http://www.parlgov.org/explore/isl/party/2114/,1991,1991,,1,1991,1.2,"http://en.wikipedia.org/wiki/Icelandic_parliamentary_election,_1991"
@@ -712,24 +728,25 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 147,ISL,KL,Women's Alliance,Kvennalistinn,eco,http://www.parlgov.org/explore/isl/party/147/,1983,1995,,4,1987,10.1,http://en.wikipedia.org/wiki/Women%27s_List
 2208,ISL,IDP,Iceland Democratic Party,Lýðræðisvaktin,eco,http://www.parlgov.org/explore/isl/party/2208/,2013,2013,,1,2013,2.5,http://en.wikipedia.org/wiki/Iceland_Democratic_Party
 2005,ISL,Lve,Republican Party,Lýðveldisflokkurinn,con,http://www.parlgov.org/explore/isl/party/2005/,1953,1953,,1,1953,3.3,http://is.wikipedia.org/wiki/Al%C3%BEingiskosningar_1953
-2655,ISL,M,Centre Party,Miðflokkurinn,agr,http://www.parlgov.org/explore/isl/party/2655/,2017,2017,,1,2017,10.9,https://en.wikipedia.org/wiki/Centre_Party_(Iceland)
-2205,ISL,Pi,Pirate Party,Pírata,eco,http://www.parlgov.org/explore/isl/party/2205/,2013,2017,,3,2016,14.1,http://en.wikipedia.org/wiki/Pirate_Party_(Iceland)
+2655,ISL,M,Centre Party,Miðflokkurinn,lib,http://www.parlgov.org/explore/isl/party/2655/,2017,2021,,2,2017,10.9,https://en.wikipedia.org/wiki/Centre_Party_(Iceland)
+2205,ISL,Pi,Pirate Party,Pírata,eco,http://www.parlgov.org/explore/isl/party/2205/,2013,2021,,4,2016,14.1,http://en.wikipedia.org/wiki/Pirate_Party_(Iceland)
 2210,ISL,Rebo,Rainbow,Regnboginn,com,http://www.parlgov.org/explore/isl/party/2210/,2013,2013,,1,2013,1.1,http://en.wikipedia.org/wiki/Rainbow_(Iceland)
 1319,ISL,SA-S,United Socialist Party,Sameiningarflokkur alþýðu – Sósíalistaflokkurinn,com,http://www.parlgov.org/explore/isl/party/1319/,1942,1953,2,5,1946,19.5,http://en.wikipedia.org/wiki/People%27s_Unity_Party_%E2%80%93_Socialist_Party
-1006,ISL,Sam,Social Democratic Alliance,Samfylkingin,soc,http://www.parlgov.org/explore/isl/party/1006/,1999,2017,3,7,2003,31,http://en.wikipedia.org/wiki/Alliance_%28Iceland%29
+1006,ISL,Sam,Social Democratic Alliance,Samfylkingin,soc,http://www.parlgov.org/explore/isl/party/1006/,1999,2021,3,8,2003,31,http://en.wikipedia.org/wiki/Alliance_%28Iceland%29
 53,ISL,Sfvm,Union of Liberals and Leftist,Samtök frjálslyndra og vinstri manna,com,http://www.parlgov.org/explore/isl/party/53/,1967,1978,1,4,1971,8.9,http://en.wikipedia.org/wiki/Union_of_Liberals_and_Leftists
 817,ISL,Sjf,Association for Equality and Justice,Samtök um jatnrétti og félagshyggju,agr,http://www.parlgov.org/explore/isl/party/817/,1987,1987,,1,1987,1.2,https://en.wikipedia.org/wiki/Association_for_Justice_and_Equality
-1342,ISL,Sj,Independence Party,Sjálfstæðisflokkurinn,con,http://www.parlgov.org/explore/isl/party/1342/,1923,2017,32,31,1923,53.6,http://en.wikipedia.org/wiki/Independence_Party_%28Iceland%29
+1342,ISL,Sj,Independence Party,Sjálfstæðisflokkurinn,con,http://www.parlgov.org/explore/isl/party/1342/,1923,2021,33,32,1923,53.6,http://en.wikipedia.org/wiki/Independence_Party_%28Iceland%29
 2561,ISL,Sj-07,Independence Party -- 1907,Sjálfstæðisflokkurinn – 1907,con,http://www.parlgov.org/explore/isl/party/2561/,1919,1919,2,1,1919,25.3,"https://en.wikipedia.org/wiki/Independence_Party_%28Iceland,_historical%29"
+2852,ISL,SFI,Icelandic Socialist Party,Sósíalistaflokkur Íslands,com,http://www.parlgov.org/explore/isl/party/2852/,2021,2021,,1,2021,4.1,https://en.wikipedia.org/wiki/Icelandic_Socialist_Party
+2633,ISL,V,Revival,Viðreisn,con,http://www.parlgov.org/explore/isl/party/2633/,2016,2021,1,3,2016,10.2,https://en.wikipedia.org/wiki/Vi%C3%B0reisn
+210,ISL,Graen,Left-Green Movement,Vinstrihreyfingin – grænt framboð,eco,http://www.parlgov.org/explore/isl/party/210/,1999,2021,4,8,2009,21.7,http://en.wikipedia.org/wiki/Left-Green_Movement
 2116,ISL,Thod,National Party,Þjóðarflokkurinn,agr,http://www.parlgov.org/explore/isl/party/2116/,1987,1991,,2,1991,1.8,http://is.wikipedia.org/wiki/%C3%9Ej%C3%B3%C3%B0arflokkurinn
 205,ISL,Th-Ff,People's Movement,Þjóðvaki – Fylking fólksins,soc,http://www.parlgov.org/explore/isl/party/205/,1995,1995,,1,1995,7.2,http://en.wikipedia.org/wiki/Awakening_of_the_Nation
 1172,ISL,Thva,National Preservation Party,Þjóðvarnarflokkurinn,lib,http://www.parlgov.org/explore/isl/party/1172/,1953,1967,,5,1953,6,http://en.wikipedia.org/wiki/National_Preservation_Party
 2004,ISL,Thve,Common Wealth Party,Þjóðveldisflokkurinn,con,http://www.parlgov.org/explore/isl/party/2004/,1942,1942,,2,1942,2.1,"http://en.wikipedia.org/wiki/Icelandic_parliamentary_election,_October_1942"
-2633,ISL,V,Revival,Viðreisn,con,http://www.parlgov.org/explore/isl/party/2633/,2016,2017,1,2,2016,10.2,https://en.wikipedia.org/wiki/Vi%C3%B0reisn
-210,ISL,Graen,Left-Green Movement,Vinstrihreyfingin – grænt framboð,eco,http://www.parlgov.org/explore/isl/party/210/,1999,2017,3,7,2009,21.7,http://en.wikipedia.org/wiki/Left-Green_Movement
 265,ISR,AY,Union of Israel,Agudat Yisrael,spec,http://www.parlgov.org/explore/isr/party/265/,1951,1988,1,8,1988,4.5,http://en.wikipedia.org/wiki/Agudat_Yisrael
 1343,ISR,AhAv,Labour Unity,Ahdut HaAvoda,soc,http://www.parlgov.org/explore/isr/party/1343/,1955,1961,10,3,1955,8.2,http://en.wikipedia.org/wiki/Ahdut_HaAvoda
-1846,ISR,Raam,United Arab List,al-Qā'ima al-'Arabiyya al-Muwaḥḥada,spec,http://www.parlgov.org/explore/isr/party/1846/,1996,2019,,8,2015,10.6,http://en.wikipedia.org/wiki/United_Arab_List
+1846,ISR,Raam,United Arab List,al-Qā'ima al-'Arabiyya al-Muwaḥḥada,spec,http://www.parlgov.org/explore/isr/party/1846/,1996,2021,,9,2015,10.6,http://en.wikipedia.org/wiki/United_Arab_List
 2323,ISR,AlYa,Green Leaf,Ale Yarok,eco,http://www.parlgov.org/explore/isr/party/2323/,2003,2015,,3,2003,1.2,http://en.wikipedia.org/wiki/Ale_Yarok
 615,ISR,AE,One Nation,Am Ehad,soc,http://www.parlgov.org/explore/isr/party/615/,1999,2003,,2,2003,2.8,http://en.wikipedia.org/wiki/One_Nation_%28Israel%29
 2324,ISR,AmSh,Whole Nation,Am Shalem,spec,http://www.parlgov.org/explore/isr/party/2324/,2013,2013,,1,2013,1.2,http://en.wikipedia.org/wiki/Am_Shalem
@@ -740,9 +757,9 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 1862,ISR,G-96,Bridge -- 1996,Gesher – 1996,con,http://www.parlgov.org/explore/isr/party/1862/,1996,1996,2,,,,http://en.wikipedia.org/wiki/Gesher_%28political_party%29
 1873,ISR,Gil,Pensioners of Israel,Gimla'ey Israel,spec,http://www.parlgov.org/explore/isr/party/1873/,2006,2006,4,1,2006,5.9,http://en.wikipedia.org/wiki/Dor_(political_party)
 279,ISR,DS,The Third Way,HaDerekh HaShlishit,lib,http://www.parlgov.org/explore/isr/party/279/,1996,1996,3,1,1996,3.2,https://en.wikipedia.org/wiki/Third_Way_%28Israel%29
-1357,ISR,HaLe-T,National Union--Tkuma,HaIhud HaLeumi–Tkuma,right,http://www.parlgov.org/explore/isr/party/1357/,1999,2009,3,4,2006,7.1,https://en.wikipedia.org/wiki/Tkuma_(political_party)
+1357,ISR,HaLe-T,National Union--Tkuma,HaIhud HaLeumi–Tkuma,right,http://www.parlgov.org/explore/isr/party/1357/,1999,2021,3,5,2006,7.1,https://en.wikipedia.org/wiki/Tkuma_(political_party)
 1835,ISR,HU,Agriculture and Development,Hakla'ut Ufituah,spec,http://www.parlgov.org/explore/isr/party/1835/,1951,1959,,3,1951,1.1,http://en.wikipedia.org/wiki/Agriculture_and_Development
-244,ISR,Ma|Av,Alignment | Labor,HaMa'arakh | HaAvoda,soc,http://www.parlgov.org/explore/isr/party/244/,1949,2020,50,23,1969,46.2,http://en.wikipedia.org/wiki/Alignment_%28political_party%29
+244,ISR,Ma|Av,Alignment | Labor,HaMa'arakh | HaAvoda,soc,http://www.parlgov.org/explore/isr/party/244/,1949,2021,51,24,1969,46.2,https://en.wikipedia.org/wiki/Israeli_Labor_Party
 1889,ISR,MeHo,Free Centre,HaMerkaz HaHofshi,lib,http://www.parlgov.org/explore/isr/party/1889/,1969,1973,,2,1969,1.2,http://en.wikipedia.org/wiki/Free_Centre
 387,ISR,MiKo|Mo|Sh,Communist Party | Moked | Sheli,HaMiflega HaKomunistit | Moked | Sheli,com,http://www.parlgov.org/explore/isr/party/387/,1949,1977,,9,1955,4.5,http://en.wikipedia.org/wiki/Maki_%28historical_political_party%29
 1833,ISR,Mizrahi,Spiritual Centre,HaMizrahi – Merkaz Ruhani,spec,http://www.parlgov.org/explore/isr/party/1833/,1951,1951,2,1,1951,1.5,http://en.wikipedia.org/wiki/Mizrachi_%28political_party%29
@@ -760,13 +777,13 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 1827,ISR,HHT,Yemenite Association,Hitahdut HaTeimanim,spec,http://www.parlgov.org/explore/isr/party/1827/,1949,1951,,2,1951,1.2,http://en.wikipedia.org/wiki/Yemenite_Association
 1969,ISR,Kach,Thus,Kach,right,http://www.parlgov.org/explore/isr/party/1969/,1984,1984,,1,1984,1.2,http://en.wikipedia.org/wiki/Kach_and_Kahane_Chai
 1870,ISR,Kadima,Forward,Kadima,lib,http://www.parlgov.org/explore/isr/party/1870/,2006,2013,6,3,2009,22.5,http://en.wikipedia.org/wiki/Kadima
-2725,ISR,KL,Blue and White,Kahol Lavan,lib,http://www.parlgov.org/explore/isr/party/2725/,2019,2020,1,3,2020,26.6,https://en.wikipedia.org/wiki/Blue_and_White_(political_alliance)
+2725,ISR,KL,Blue and White,Kahol Lavan,lib,http://www.parlgov.org/explore/isr/party/2725/,2019,2021,2,4,2020,26.6,https://en.wikipedia.org/wiki/Blue_and_White_(political_alliance)
 1834,ISR,KiVe,Progress and Work,Kidma Ve'avoda,spec,http://www.parlgov.org/explore/isr/party/1834/,1951,1961,,3,1955,1.5,http://en.wikipedia.org/wiki/Progress_and_Work
 1838,ISR,KP,Progress and Development,Kidma vePituah,spec,http://www.parlgov.org/explore/isr/party/1838/,1959,1973,,5,1969,2.1,http://en.wikipedia.org/wiki/Progress_and_Development
 2410,ISR,Kulanu,All of Us,Kulanu,lib,http://www.parlgov.org/explore/isr/party/2410/,2015,2019,5,2,2015,7.5,http://en.wikipedia.org/wiki/Kulanu
 188,ISR,LA,Independent Liberals,Libralim Atzma'im,lib,http://www.parlgov.org/explore/isr/party/188/,1965,1977,3,4,1965,3.8,http://en.wikipedia.org/wiki/Independent_Liberals_%28Israel%29
-678,ISR,L,The Consolidation,Likud,con,http://www.parlgov.org/explore/isr/party/678/,1965,2020,40,18,1981,37.1,http://en.wikipedia.org/wiki/Likud
-1419,ISR,Meretz,Energy,Meretz,soc,http://www.parlgov.org/explore/isr/party/1419/,1992,2019,5,10,1992,9.6,http://en.wikipedia.org/wiki/MERETZ
+678,ISR,L,The Consolidation,Likud,con,http://www.parlgov.org/explore/isr/party/678/,1965,2021,40,19,1981,37.1,http://en.wikipedia.org/wiki/Likud
+1419,ISR,Meretz,Energy,Meretz,soc,http://www.parlgov.org/explore/isr/party/1419/,1992,2021,6,11,1992,9.6,http://en.wikipedia.org/wiki/MERETZ
 214,ISR,MDL|HH,National Religious Party | The Jewish Home,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,right,http://www.parlgov.org/explore/isr/party/214/,1955,2015,47,17,1959,9.9,http://en.wikipedia.org/wiki/National_Religious_Party
 1150,ISR,Mada,Arab Democratic Party,Miflaga Demokratit Aravit – al-Hizb al-Dimuqrati al-Arabi,spec,http://www.parlgov.org/explore/isr/party/1150/,1988,1992,,2,1992,1.6,http://en.wikipedia.org/wiki/Arab_Democratic_Party_%28Israel%29
 765,ISR,MiHal,Liberal Party,Miflaga Haliberalit,lib,http://www.parlgov.org/explore/isr/party/765/,1961,1961,1,1,1961,13.6,http://en.wikipedia.org/wiki/Liberal_Party_%28Israel%29
@@ -777,9 +794,9 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 980,ISR,M,Homeland,Moledet,con,http://www.parlgov.org/explore/isr/party/980/,1988,1996,2,3,1992,2.4,http://en.wikipedia.org/wiki/Moledet
 31,ISR,Mo,Heritage,Morasha,spec,http://www.parlgov.org/explore/isr/party/31/,1984,1984,,1,1984,1.6,http://en.wikipedia.org/wiki/Morasha
 61,ISR,O,Courage,Ometz,lib,http://www.parlgov.org/explore/isr/party/61/,1981,1984,4,2,1981,1.6,http://en.wikipedia.org/wiki/Ometz_%28political_party%29
-2322,ISR,OL,Strength to Israel,Otzma Leyisrael,right,http://www.parlgov.org/explore/isr/party/2322/,2013,2020,,3,2019,1.9,http://en.wikipedia.org/wiki/Otzma_LeYisrael
+2322,ISR,OL,Jewish Power,Otzma Leyisrael,spec,http://www.parlgov.org/explore/isr/party/2322/,2013,2020,,3,2019,1.9,http://en.wikipedia.org/wiki/Otzma_LeYisrael
 1832,ISR,PAY,Agudat Israel Workers,Poalei Agudat Yisrael,spec,http://www.parlgov.org/explore/isr/party/1832/,1951,1981,1,6,1961,1.9,https://en.wikipedia.org/wiki/Poalei_Agudat_Yisrael
-732,ISR,R|H,New Communist List | Democratic Front,Rakah | Hadash,com,http://www.parlgov.org/explore/isr/party/732/,1965,2020,,17,2020,12.7,http://en.wikipedia.org/wiki/Hadash
+732,ISR,R|H,New Communist List | Democratic Front,Rakah | Hadash,com,http://www.parlgov.org/explore/isr/party/732/,1965,2021,,18,2020,12.7,http://en.wikipedia.org/wiki/Hadash
 2357,ISR,RALEV,Arab List for Bedouin and Villagers,Reshima Aravit LeBedouim VeKfariym,spec,http://www.parlgov.org/explore/isr/party/2357/,1973,1973,,1,1973,1,http://en.wikipedia.org/wiki/Arab_List_for_Bedouin_and_Villagers
 2311,ISR,RAM-77,United Arab List -- 1977,Reshima Aravit Meuhedet – 1977,spec,http://www.parlgov.org/explore/isr/party/2311/,1977,1977,,1,1977,1.4,http://en.wikipedia.org/wiki/United_Arab_List_%281977%29
 1829,ISR,RDAY,Democratic List for Israeli Arabs,Reshima Demokratit LeAravei Yisrael,spec,http://www.parlgov.org/explore/isr/party/1829/,1951,1955,,2,1951,2.4,http://en.wikipedia.org/wiki/Democratic_List_for_Israeli_Arabs
@@ -791,10 +808,11 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 1850,ISR,Shinui,Change,Shinui,lib,http://www.parlgov.org/explore/isr/party/1850/,1981,2003,4,5,2003,12.3,http://en.wikipedia.org/wiki/Shinui
 1839,ISR,SV,Cooperation and Brotherhood,Shituf VeAhvah,spec,http://www.parlgov.org/explore/isr/party/1839/,1959,1969,,4,1961,1.9,http://en.wikipedia.org/wiki/Cooperation_and_Brotherhood
 106,ISR,Sh,Peace-Zion,Shlomtzion,con,http://www.parlgov.org/explore/isr/party/106/,1977,1977,1,1,1977,1.9,http://en.wikipedia.org/wiki/Shlomtzion_%28political_party%29
-788,ISR,Shas,Sfarad's guards of the Torah,Shomrei Sfarad,con,http://www.parlgov.org/explore/isr/party/788/,1984,2020,31,13,1999,13,http://en.wikipedia.org/wiki/Shas
+788,ISR,Shas,Sephardi Guardians,Shomrei Sfarad,spec,http://www.parlgov.org/explore/isr/party/788/,1984,2021,31,14,1999,13,http://en.wikipedia.org/wiki/Shas
 2043,ISR,Haatz,Sia'at Ha'Atzma'ut,Sia'at Ha'Atzma'ut,soc,http://www.parlgov.org/explore/isr/party/2043/,,,2,,,,http://en.wikipedia.org/wiki/Independence_%28Israeli_political_party%29
 1660,ISR,Tehiya,Revival,Tehiya,con,http://www.parlgov.org/explore/isr/party/1660/,1981,1992,3,4,1984,4,http://en.wikipedia.org/wiki/Tehiya
 2354,ISR,THTH,Movement for the Renewal of Social Zionism,Tenoa'a leHithadshut Tzionut Hevratit,spec,http://www.parlgov.org/explore/isr/party/2354/,,,1,,,,http://en.wikipedia.org/wiki/Movement_for_the_Renewal_of_Social_Zionism
+2835,ISR,NH,New Hope,Tikva Hadasha,right,http://www.parlgov.org/explore/isr/party/2835/,2021,2021,1,1,2021,4.7,https://en.wikipedia.org/wiki/New_Hope_(Israel)
 1471,ISR,TDL,Democratic Movement for Change,Tnu'a Demokratit LeShinu,lib,http://www.parlgov.org/explore/isr/party/1471/,1977,1977,1,1,1977,11.6,http://en.wikipedia.org/wiki/Democratic_Movement_for_Change
 588,ISR,Tami,Movement for the Heritage of Israel,Tnu'at Masoret Yisrael,con,http://www.parlgov.org/explore/isr/party/588/,1981,1984,4,2,1981,2.3,http://en.wikipedia.org/wiki/Tami
 2360,ISR,Tnufa,Momentum,Tnufa,con,http://www.parlgov.org/explore/isr/party/2360/,1999,1999,,1,1999,1.3,http://en.wikipedia.org/wiki/Pnina_Rosenblum
@@ -802,11 +820,11 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2310,ISR,Vitzo,Women's International Zionist Organization,Vitzo,spec,http://www.parlgov.org/explore/isr/party/2310/,1949,1949,,1,1949,1.2,http://en.wikipedia.org/wiki/Women%27s_International_Zionist_Organization
 2411,ISR,Yachad,Together,Yachad,right,http://www.parlgov.org/explore/isr/party/2411/,2015,2015,,1,2015,3,http://en.wikipedia.org/wiki/Yachad_%28political_party%29
 1269,ISR,Ya-84,Together,Yahad,lib,http://www.parlgov.org/explore/isr/party/1269/,1984,1984,1,1,1984,2.2,http://en.wikipedia.org/wiki/Yahad_%281984%29
-1303,ISR,YaToMe,United Torah Judaism,Yahadut HaTora HaMeuhedet,con,http://www.parlgov.org/explore/isr/party/1303/,1992,2020,2,11,2019,6.1,http://en.wikipedia.org/wiki/United_Torah_Judaism
-2726,ISR,Y,Right,Yamina,right,http://www.parlgov.org/explore/isr/party/2726/,2019,2020,,3,2019,5.9,https://en.wikipedia.org/wiki/United_Right_(Israel)
-2321,ISR,YA,There is a Future,Yesh Atid,lib,http://www.parlgov.org/explore/isr/party/2321/,2013,2015,1,2,2013,14.3,http://en.wikipedia.org/wiki/Yesh_Atid
+1303,ISR,YaToMe,United Torah Judaism,Yahadut HaTora HaMeuhedet,con,http://www.parlgov.org/explore/isr/party/1303/,1992,2021,2,12,2019,6.1,http://en.wikipedia.org/wiki/United_Torah_Judaism
+2726,ISR,Y,Rightwards,Yamina,right,http://www.parlgov.org/explore/isr/party/2726/,2019,2021,1,4,2021,6.2,https://en.wikipedia.org/wiki/United_Right_(Israel)
+2321,ISR,YA,There is a Future,Yesh Atid,lib,http://www.parlgov.org/explore/isr/party/2321/,2013,2021,2,3,2013,14.3,http://en.wikipedia.org/wiki/Yesh_Atid
 277,ISR,YBA,Israel for Immigration,Yisrael Ba-Aliya,lib,http://www.parlgov.org/explore/isr/party/277/,1996,2003,9,3,1996,5.7,http://en.wikipedia.org/wiki/Yisrael_BaAliyah
-1816,ISR,YB,Israel is Our Home,Yisrael Beiteinu,right,http://www.parlgov.org/explore/isr/party/1816/,1999,2020,7,7,2009,11.7,http://en.wikipedia.org/wiki/Yisrael_Beiteinu
+1816,ISR,YB,Israel Our Home,Yisrael Beiteinu,right,http://www.parlgov.org/explore/isr/party/1816/,1999,2021,8,8,2009,11.7,http://en.wikipedia.org/wiki/Yisrael_Beiteinu
 2355,ISR,Yiud,Mission,Yiud,right,http://www.parlgov.org/explore/isr/party/2355/,,,2,,,,http://en.wikipedia.org/wiki/Yiud
 2727,ISR,Z,Zehut,Zehut,right,http://www.parlgov.org/explore/isr/party/2727/,2019,2019,,1,2019,2.7,https://en.wikipedia.org/wiki/Zehut
 1472,ISR,ZK,General Zionists,Zionim Klalim,lib,http://www.parlgov.org/explore/isr/party/1472/,1949,1959,2,4,1951,16.2,http://en.wikipedia.org/wiki/General_Zionists
@@ -814,10 +832,10 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 373,ITA,AN,National Alliance,Alleanza Nazionale,con,http://www.parlgov.org/explore/ita/party/373/,1994,2006,3,4,2001,12,http://en.wikipedia.org/wiki/National_Alliance_(Italy)
 323,ITA,ASM,Social Alternative Mussolini,Alternativa Sociale Mussolini,right,http://www.parlgov.org/explore/ita/party/323/,2004,2004,,1,2004,1.2,http://en.wikipedia.org/wiki/Social_Action_%28Italy%29
 927,ITA,AIE,Associative Italians Abroad,Associativo Italiani all'Estero,spec,http://www.parlgov.org/explore/ita/party/927/,2006,2018,,4,2013,0.4,http://en.wikipedia.org/wiki/Associative_Movement_Italians_Abroad
-67,ITA,CeD,Centre Right,Centro-destra,con,http://www.parlgov.org/explore/ita/party/67/,1994,1996,,2,1994,46.4,https://en.wikipedia.org/wiki/Centre-right_coalition
-1048,ITA,CeS,Centre Left,Centro-sinistra,soc,http://www.parlgov.org/explore/ita/party/1048/,1994,2006,1,3,1996,34.9,http://en.wikipedia.org/wiki/Ulivo
 99,ITA,CCD,Christian Democratic Centre,Centro Cristiano Democratico,chr,http://www.parlgov.org/explore/ita/party/99/,1994,1999,1,1,1999,2.6,http://en.wikipedia.org/wiki/Christian_Democratic_Centre
 627,ITA,CCD+CDU,Christian Democratic Centre / United Christian Democrats,Centro Cristiano Democratico  / Cristiani Democratici Uniti,chr,http://www.parlgov.org/explore/ita/party/627/,1996,2001,1,2,2001,3.2,http://en.wikipedia.org/wiki/Whiteflower
+67,ITA,CeD,Centre Right,Centro-destra,con,http://www.parlgov.org/explore/ita/party/67/,1994,1996,,2,1994,46.4,https://en.wikipedia.org/wiki/Centre-right_coalition
+1048,ITA,CeS,Centre Left,Centro-sinistra,soc,http://www.parlgov.org/explore/ita/party/1048/,1994,2006,1,3,1996,34.9,http://en.wikipedia.org/wiki/Ulivo
 128,ITA,CDU,United Christian Democrats,Cristiani Democratici Uniti,chr,http://www.parlgov.org/explore/ita/party/128/,1999,1999,,1,1999,2.1,http://en.wikipedia.org/wiki/United_Christian_Democrats
 809,ITA,DS,Democrats of the Left,Democratici di Sinistra,soc,http://www.parlgov.org/explore/ita/party/809/,1992,2001,4,4,2001,16.6,http://en.wikipedia.org/wiki/Democrats_of_the_Left
 1633,ITA,DC,Christian Democrats,Democrazia Cristiana,chr,http://www.parlgov.org/explore/ita/party/1633/,1946,1992,50,12,1948,48.5,"http://en.wikipedia.org/wiki/Christian_Democracy_(Italy,_historical)"
@@ -828,17 +846,17 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 1304,ITA,FdLV,Green Lists,Federazione delle Liste Verdi,eco,http://www.parlgov.org/explore/ita/party/1304/,1987,1989,,1,1987,2.5,http://en.wikipedia.org/wiki/Green_Lists
 2158,ITA,FiD,Stop the Decline,Fermare il Declino,lib,http://www.parlgov.org/explore/ita/party/2158/,2013,2013,,1,2013,1.1,http://en.wikipedia.org/wiki/Stop_the_Decline
 176,ITA,MSFT,Fiamma Tricolore,Fiamma Tricolore,right,http://www.parlgov.org/explore/ita/party/176/,1999,2008,,1,2008,2.5,http://en.wikipedia.org/wiki/Fiamma_Tricolore
-596,ITA,FI-PdL,Go Italy -- The People of Freedom,Forza Italia – Il Popolo della Libertà,con,http://www.parlgov.org/explore/ita/party/596/,1994,2019,5,7,2008,38.2,http://en.wikipedia.org/wiki/Forza_Italia
+596,ITA,FI-PdL,Go Italy -- The People of Freedom,Forza Italia – Il Popolo della Libertà,con,http://www.parlgov.org/explore/ita/party/596/,1994,2019,6,7,2008,38.2,http://en.wikipedia.org/wiki/Forza_Italia
 2154,ITA,FdI,Brothers of Italy,Fratelli d'Italia,right,http://www.parlgov.org/explore/ita/party/2154/,2013,2019,,2,2018,4.3,http://en.wikipedia.org/wiki/Brothers_of_Italy
 409,ITA,FUQ,Front of the Ordinary Man,Fronte dell'Uomo Qualunque,con,http://www.parlgov.org/explore/ita/party/409/,1946,1946,,1,1946,5.3,http://en.wikipedia.org/wiki/Front_of_the_Ordinary_Man
 961,ITA,ID,Democracy,I Democratici,chr,http://www.parlgov.org/explore/ita/party/961/,1999,1999,2,1,1999,7.7,http://en.wikipedia.org/wiki/The_Democrats_(Italy)
 693,ITA,IdV,Italy of Values,Italia dei Valori,lib,http://www.parlgov.org/explore/ita/party/693/,2001,2018,1,4,2008,4.5,http://en.wikipedia.org/wiki/Italia_dei_Valori
-2794,ITA,IV,Italy Alive,Italia Viva,lib,http://www.parlgov.org/explore/ita/party/2794/,,,1,,,,https://en.wikipedia.org/wiki/Italia_Viva
+2794,ITA,IV,Italy Alive,Italia Viva,lib,http://www.parlgov.org/explore/ita/party/2794/,,,2,,,,https://en.wikipedia.org/wiki/Italia_Viva
 1246,ITA,LUP,The Union-Prodi,L'Unione-Prodi,soc,http://www.parlgov.org/explore/ita/party/1246/,2006,2006,,1,2006,1.1,http://en.wikipedia.org/wiki/The_Union_(political_coalition)
-1436,ITA,LN,North League,Lega Nord,right,http://www.parlgov.org/explore/ita/party/1436/,1989,2019,5,8,2018,17.4,http://en.wikipedia.org/wiki/Lega_Nord
+1436,ITA,LN,North League,Lega Nord,right,http://www.parlgov.org/explore/ita/party/1436/,1989,2019,6,8,2018,17.4,http://en.wikipedia.org/wiki/Lega_Nord
 1080,ITA,LV,Venetian League,Liga Veneta,spec,http://www.parlgov.org/explore/ita/party/1080/,1983,1992,,3,1987,0.8,http://en.wikipedia.org/wiki/Liga_Veneta
 630,ITA,DINI-RI,Dini List -- Italian Renewal,Lista Dini – Rinnovamento Italiano,soc,http://www.parlgov.org/explore/ita/party/630/,1996,1999,4,1,1999,1.1,http://en.wikipedia.org/wiki/Italian_Renewal
-2155,ITA,M5S,Five Star Movement,Movimento 5 Stelle,none,http://www.parlgov.org/explore/ita/party/2155/,2013,2019,2,2,2018,33.3,http://en.wikipedia.org/wiki/Five_Star_Movement
+2155,ITA,M5S,Five Star Movement,Movimento 5 Stelle,none,http://www.parlgov.org/explore/ita/party/2155/,2013,2019,3,2,2018,33.3,http://en.wikipedia.org/wiki/Five_Star_Movement
 1040,ITA,MpA,Movement for Autonomy,Movimento per l'Autonomia,chr,http://www.parlgov.org/explore/ita/party/1040/,2008,2009,,1,2008,1.1,http://en.wikipedia.org/wiki/Movement_for_Autonomy
 366,ITA,Rete,Movement for Democracy -- The Net,Movimento per la Democrazia – La Rete,chr,http://www.parlgov.org/explore/ita/party/366/,1992,1994,,2,1992,1.9,http://en.wikipedia.org/wiki/Movement_for_Democracy_%E2%80%93_The_Net
 831,ITA,MSI,Italian Social Movement,Movimento Sociale Italiano,right,http://www.parlgov.org/explore/ita/party/831/,1948,1992,,11,1972,8.7,http://en.wikipedia.org/wiki/Italian_Social_Movement
@@ -849,7 +867,7 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 1330,ITA,PAz,Action Party,Partito d'Azione,com,http://www.parlgov.org/explore/ita/party/1330/,1946,1946,,1,1946,1.4,http://en.wikipedia.org/wiki/Action_Party_(Italy)
 1661,ITA,PdCI,Party of the Italian Communists,Partito dei Comunisti Italiani,com,http://www.parlgov.org/explore/ita/party/1661/,1999,2006,4,2,2006,2.2,http://en.wikipedia.org/wiki/Party_of_Italian_Communists
 1321,ITA,PRC,Communist Refoundation Party,Partito della Rifondazione Comunista,com,http://www.parlgov.org/explore/ita/party/1321/,1992,2018,1,8,1996,8.6,http://en.wikipedia.org/wiki/Communist_Refoundation_Party
-382,ITA,PD,Democratic Party,Partito Democratico,soc,http://www.parlgov.org/explore/ita/party/382/,2008,2019,5,3,2008,34,http://en.wikipedia.org/wiki/Democratic_Party_(Italy)
+382,ITA,PD,Democratic Party,Partito Democratico,soc,http://www.parlgov.org/explore/ita/party/382/,2008,2019,6,3,2008,34,http://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 1702,ITA,PDIUM,Italian Democratic Party of Monarchist Unity,Partito Democratico Italiano di Unità Monarchica,con,http://www.parlgov.org/explore/ita/party/1702/,1963,1968,,2,1963,1.8,http://en.wikipedia.org/wiki/Italian_Democratic_Party_of_Monarchist_Unity
 968,ITA,PdUP,Proletarian Unity Party,Partito di Unità Proletaria,com,http://www.parlgov.org/explore/ita/party/968/,1979,1979,,1,1979,1.4,http://en.wikipedia.org/wiki/Proletarian_Unity_Party_%28Italy%29
 487,ITA,PLI,Italian Liberal Party,Partito Liberale Italiano,lib,http://www.parlgov.org/explore/ita/party/487/,1946,1992,17,12,1963,7,https://en.wikipedia.org/wiki/Italian_Liberal_Party
@@ -865,10 +883,10 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 1475,ITA,PSI,Italian Socialist Party,Partito Socialista Italiano,soc,http://www.parlgov.org/explore/ita/party/1475/,1946,1994,23,13,1946,20.7,http://en.wikipedia.org/wiki/Italian_Socialist_Party
 827,ITA,PS,Segni Pact,Patto Segni,chr,http://www.parlgov.org/explore/ita/party/827/,1994,1994,,1,1994,3.3,http://en.wikipedia.org/wiki/Patto_Segni
 840,ITA,PpP,Popular Party for Prodi,Popolari per Prodi,chr,http://www.parlgov.org/explore/ita/party/840/,1996,1996,4,,,,http://it.wikipedia.org/wiki/Popolari_per_Prodi
-2001,ITA,PC,Prime minister,Presidente del Consiglio dei ministri,none,http://www.parlgov.org/explore/ita/party/2001/,,,7,,,,""
+2001,ITA,PC,Prime minister,Presidente del Consiglio dei ministri,none,http://www.parlgov.org/explore/ita/party/2001/,,,8,,,,""
 1296,ITA,R,Radicals,Radicali,soc,http://www.parlgov.org/explore/ita/party/1296/,1976,2009,4,9,1979,3.5,http://en.wikipedia.org/wiki/Radical_Party_(Italy)
 2156,ITA,SC,Civic Choice,Scelta Civica,lib,http://www.parlgov.org/explore/ita/party/2156/,2013,2013,3,1,2013,8.8,http://en.wikipedia.org/wiki/Civic_Choice
-465,ITA,S,Left,Sinistra,com,http://www.parlgov.org/explore/ita/party/465/,2009,2019,1,2,2018,3.4,http://en.wikipedia.org/wiki/Left_Ecology_Freedom
+465,ITA,S,Left,Sinistra,com,http://www.parlgov.org/explore/ita/party/465/,2009,2019,2,2,2018,3.4,http://en.wikipedia.org/wiki/Left_Ecology_Freedom
 1030,ITA,SVP,South Tyrol Peoples Party,Südtiroler Volkspartei,spec,http://www.parlgov.org/explore/ita/party/1030/,1948,2019,,17,1994,0.6,http://en.wikipedia.org/wiki/South_Tyrolean_People%27s_Party
 974,ITA,UV,Valdotanian Union,Union Valdôtaine,spec,http://www.parlgov.org/explore/ita/party/974/,1958,2013,,11,1987,0.1,http://en.wikipedia.org/wiki/Valdotanian_Union
 226,ITA,UC,Union / Centre,Unione / Centro,chr,http://www.parlgov.org/explore/ita/party/226/,2004,2018,5,4,2006,6.8,http://en.wikipedia.org/wiki/Democrats%27_Centre_Union
@@ -878,29 +896,33 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 325,ITA,VA,Rainbow Greens,Verdi Arcobaleno,eco,http://www.parlgov.org/explore/ita/party/325/,1989,1989,,1,1989,2.4,http://en.wikipedia.org/wiki/Rainbow_Greens
 1382,JPN,NCP,New Conservative Party,Hoshu Shintō,con,http://www.parlgov.org/explore/jpn/party/1382/,2000,2003,3,2,2000,0.4,http://en.wikipedia.org/wiki/New_Conservative_Party
 2404,JPN,PFG,Party for Future Generations,Jisedai No Tou,right,http://www.parlgov.org/explore/jpn/party/2404/,2014,2014,,1,2014,2.6,https://en.wikipedia.org/wiki/Party_for_Japanese_Kokoro
-462,JPN,LP,Liberal Party,Jiyū-tō,con,http://www.parlgov.org/explore/jpn/party/462/,2000,2000,2,1,2000,11,http://en.wikipedia.org/wiki/Liberal_Party_%281998%29
-1193,JPN,LDP,Liberal Democratic Party,Jiyū Minshutō,con,http://www.parlgov.org/explore/jpn/party/1193/,1958,2017,44,21,1958,59,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_%28Japan%29
+1193,JPN,LDP,Liberal Democratic Party,Jiyū Minshutō,con,http://www.parlgov.org/explore/jpn/party/1193/,1958,2021,46,22,1958,59,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_%28Japan%29
 1165,JPN,LL,Liberal League,Jiyu Rengo,lib,http://www.parlgov.org/explore/jpn/party/1165/,2000,2003,,2,2000,1.1,http://en.wikipedia.org/wiki/Liberal_League_%28Japan%29
+462,JPN,LP,Liberal Party,Jiyū-tō,con,http://www.parlgov.org/explore/jpn/party/462/,2000,2000,2,1,2000,11,http://en.wikipedia.org/wiki/Liberal_Party_%281998%29
 2656,JPN,PH,Party of Hope,Kibō no Tō,con,http://www.parlgov.org/explore/jpn/party/2656/,2017,2017,,1,2017,17.4,https://en.wikipedia.org/wiki/Kib%C5%8D_no_T%C5%8D
 1733,JPN,NCoP,National Cooperative Party,Kokumin Kyôdô Tô,lib,http://www.parlgov.org/explore/jpn/party/1733/,1946,1949,2,3,1947,7,http://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E5%8D%94%E5%90%8C%E5%85%9A
+2827,JPN,DPP,Democratic Party for the People,Kokumin Minshu-tō,con,http://www.parlgov.org/explore/jpn/party/2827/,2021,2021,,1,2021,4.5,https://en.wikipedia.org/wiki/Democratic_Party_for_the_People
 2069,JPN,PLFP,People's Life First Party,Kokumin no Seikatsu ga Daiichi | Seikatsu no Tō,con,http://www.parlgov.org/explore/jpn/party/2069/,2014,2014,,1,2014,1.9,"https://en.wikipedia.org/wiki/Liberal_Party_(Japan,_2016)"
 4,JPN,PNP,People's New Party,Kokumin Shinto,con,http://www.parlgov.org/explore/jpn/party/4/,2005,2012,3,3,2005,1.7,http://en.wikipedia.org/wiki/People%27s_New_Party
-837,JPN,K,Komeito Party,Kōmeitō,con,http://www.parlgov.org/explore/jpn/party/837/,1967,2017,16,17,2003,14.8,http://en.wikipedia.org/wiki/New_Komeito_Party
+837,JPN,K,Komeito Party,Kōmeitō,con,http://www.parlgov.org/explore/jpn/party/837/,1967,2021,18,18,2003,14.8,http://en.wikipedia.org/wiki/New_Komeito_Party
 1738,JPN,CoP,Cooperative Party,Kyoudoutou,soc,http://www.parlgov.org/explore/jpn/party/1738/,1952,1952,,1,1952,1.1,http://ja.wikipedia.org/wiki/%E5%8D%94%E5%90%8C%E5%85%9A
 163,JPN,DRP,Democratic Reform Party,Min-kai-ren,soc,http://www.parlgov.org/explore/jpn/party/163/,1996,1996,1,1,1996,0,http://ja.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E6%94%B9%E9%9D%A9%E9%80%A3%E5%90%88
 1124,JPN,YP,Your Party,Minna no Tō,lib,http://www.parlgov.org/explore/jpn/party/1124/,2009,2012,,2,2012,8.7,http://en.wikipedia.org/wiki/Your_Party
 1053,JPN,DSP,Democratic Socialist Party,Minshu Shakai-tō,soc,http://www.parlgov.org/explore/jpn/party/1053/,1960,1993,2,12,1960,8.8,http://en.wikipedia.org/wiki/Democratic_Socialist_Party_%28Japan%29
 1734,JPN,DP,Democratic Party,Minshutō,con,http://www.parlgov.org/explore/jpn/party/1734/,1946,1953,4,5,1947,25.4,http://en.wikipedia.org/wiki/Democratic_Party_%281947%29
 439,JPN,DPJ,Democratic Party of Japan,Minshutō,con,http://www.parlgov.org/explore/jpn/party/439/,1996,2014,3,7,2009,42.4,http://en.wikipedia.org/wiki/Democratic_Party_of_Japan
+2853,JPN,NHK,The party that protects those who do not pay the NHK license fee,NHK jushinryō o shiharawanai kokumin o mamoru tō,spec,http://www.parlgov.org/explore/jpn/party/2853/,2021,2021,,1,2021,1.4,https://en.wikipedia.org/wiki/The_party_that_protects_those_who_do_not_pay_the_NHK_license_fee
 1726,JPN,JLP,Japan Liberal Party,Nihon Jiyūtō,con,http://www.parlgov.org/explore/jpn/party/1726/,1946,1955,5,6,1952,47.9,"http://en.wikipedia.org/wiki/Liberal_Party_%28Japan,_1945%29"
 1755,JPN,LP(H),Liberal Party (Hatoyama),Nihon Jiyūtō (Hatoyama),con,http://www.parlgov.org/explore/jpn/party/1755/,1953,1953,1,1,1953,8.8,""
-1540,JPN,JCP,Japan Communist Party,Nihon Kyōsan-tō,com,http://www.parlgov.org/explore/jpn/party/1540/,1946,2017,,27,1996,13.1,http://en.wikipedia.org/wiki/Japanese_Communist_Party
+1540,JPN,JCP,Japan Communist Party,Nihon Kyōsan-tō,com,http://www.parlgov.org/explore/jpn/party/1540/,1946,2021,,28,1996,13.1,http://en.wikipedia.org/wiki/Japanese_Communist_Party
 1722,JPN,JDP,Japan Democratic Party,Nihon Minshutō,con,http://www.parlgov.org/explore/jpn/party/1722/,1955,1955,1,1,1955,36.6,http://en.wikipedia.org/wiki/Japan_Democratic_Party_%281954%29
-940,JPN,JSP,Japan Socialist Party,Nihon Shakai-tō,soc,http://www.parlgov.org/explore/jpn/party/940/,1946,2017,6,24,1958,33.1,http://en.wikipedia.org/wiki/Japan_Socialist_Party
+940,JPN,JSP,Japan Socialist Party,Nihon Shakai-tō,soc,http://www.parlgov.org/explore/jpn/party/940/,1946,2021,6,25,1958,33.1,http://en.wikipedia.org/wiki/Japan_Socialist_Party
 1327,JPN,JNP,Japan New Party,Nihon Shintō,lib,http://www.parlgov.org/explore/jpn/party/1327/,1993,1993,2,1,1993,8.1,http://en.wikipedia.org/wiki/Japan_New_Party
 2136,JPN,JReP,Japan Restoration Party,Nippon Ishin no Kai,con,http://www.parlgov.org/explore/jpn/party/2136/,2012,2017,,3,2012,20.4,https://en.wikipedia.org/wiki/Japan_Innovation_Party
+2826,JPN,JaRep,Japan Innovation Party,Nippon Ishin no Kai,right,http://www.parlgov.org/explore/jpn/party/2826/,2021,2021,,1,2021,14,https://en.wikipedia.org/wiki/Nippon_Ishin_no_Kai
 2785,JPN,TPJ,Tomorrow Party of Japan,Nippon Mirai no Tō,eco,http://www.parlgov.org/explore/jpn/party/2785/,2012,2012,,1,2012,5.7,https://en.wikipedia.org/wiki/Tomorrow_Party_of_Japan
-2657,JPN,KDP,Constitutional Democratic Party of Japan,Rikken Minshutō,soc,http://www.parlgov.org/explore/jpn/party/2657/,2017,2017,,1,2017,19.9,https://en.wikipedia.org/wiki/Constitutional_Democratic_Party_of_Japan
+2828,JPN,ReiShin,Reiwa Shinsengumi,Reiwa Shinsengumi,com,http://www.parlgov.org/explore/jpn/party/2828/,2021,2021,,1,2021,3.9,https://en.wikipedia.org/wiki/Reiwa_Shinsengumi
+2657,JPN,CDP,Constitutional Democratic Party of Japan,Rikken Minshutō,soc,http://www.parlgov.org/explore/jpn/party/2657/,2017,2021,,2,2021,20,https://en.wikipedia.org/wiki/Constitutional_Democratic_Party_of_Japan
 1736,JPN,LFP,Labour Farmer Party,Rōdōnōmintō,com,http://www.parlgov.org/explore/jpn/party/1736/,1949,1955,,4,1949,2,http://ja.wikipedia.org/wiki/%E5%8A%B4%E5%83%8D%E8%80%85%E8%BE%B2%E6%B0%91%E5%85%9A
 1723,JPN,LWSP,Left Wing Socialist Party,Saha Shakai Tô,com,http://www.parlgov.org/explore/jpn/party/1723/,1952,1955,,3,1955,15.4,http://en.wikipedia.org/wiki/Leftist_Socialist_Party_of_Japan
 86,JPN,SDF,Socialist Democratic Federation,Shaminren,soc,http://www.parlgov.org/explore/jpn/party/86/,1979,1993,1,6,1990,0.9,http://en.wikipedia.org/wiki/Socialist_Democratic_Federation_%28Japan%29
@@ -987,9 +1009,9 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2139,LUX,PICM,Independent Party of the Middle Class 	,Parti Indépendant des Classes Moyennes,lib,http://www.parlgov.org/explore/lux/party/2139/,1954,1954,,1,1954,2.8,""
 2140,LUX,PL ,Liberal Party,Parti Libéral,lib,http://www.parlgov.org/explore/lux/party/2140/,1934,1945,2,3,1937,3.6,https://en.wikipedia.org/wiki/Liberal_Party_(Luxembourg)
 2256,LUX,Pi,Pirate Party Luxembourg,Piratepartei Lëtzebuerg,spec,http://www.parlgov.org/explore/lux/party/2256/,2013,2019,,2,2018,6.2,http://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2535,LUX,RPMC,Radical Party (Marcel Cahen),Radikal Partei (Marcel Cahen),lib,http://www.parlgov.org/explore/lux/party/2535/,1928,1931,,2,1931,7.9,https://en.wikipedia.org/wiki/Radical_Party_%28Luxembourg%29
 2455,LUX,PRL,Radical Liberal Party ,Radikal-Liberal Partei,lib,http://www.parlgov.org/explore/lux/party/2455/,1934,1937,1,2,1934,10.3,http://en.wikipedia.org/wiki/Radical_Liberal_Party_%28Luxembourg%29
 2456,LUX,RSP,Radical Socialist Party ,Radikal-Sozialistesch Partei,lib,http://www.parlgov.org/explore/lux/party/2456/,1925,1931,1,3,1928,9.7,""
-2535,LUX,RPMC,Radical Party (Marcel Cahen),Radikal Partei (Marcel Cahen),lib,http://www.parlgov.org/explore/lux/party/2535/,1928,1931,,2,1931,7.9,https://en.wikipedia.org/wiki/Radical_Party_%28Luxembourg%29
 2527,LUX,PD,Party of the Right,Rietspartei,con,http://www.parlgov.org/explore/lux/party/2527/,1919,1937,8,7,1919,52.8,https://en.wikipedia.org/wiki/Party_of_the_Right_%28Luxembourg%29
 1134,LUX,SDP,Social Democratic Party,Sozialdemokratesch Partei,soc,http://www.parlgov.org/explore/lux/party/1134/,1974,1979,,2,1974,9.2,http://en.wikipedia.org/wiki/Social_Democratic_Party_%28Luxembourg%29
 2766,LUX,VL,Volt Luxembourg,Volt Luxembourg,spec,http://www.parlgov.org/explore/lux/party/2766/,2019,2019,,1,2019,2.1,https://en.wikipedia.org/wiki/Volt_Europa
@@ -1056,27 +1078,29 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 217,MLT,PKP,Progressive Constitutionalist Party,Partit Kostituzzjonali Progressiv,con,http://www.parlgov.org/explore/mlt/party/217/,1953,1971,,5,1962,4.8,http://www.maltadata.com/abbrev.htm
 1003,MLT,PL,Malta Labour Party,Partit Laburista,soc,http://www.parlgov.org/explore/mlt/party/1003/,1947,2019,11,18,1947,59.9,http://en.wikipedia.org/wiki/Malta_Labour_Party
 984,MLT,PN,Nationalist Party,Partit Nazzjonalista,con,http://www.parlgov.org/explore/mlt/party/984/,1947,2019,11,18,1998,51.8,http://en.wikipedia.org/wiki/Nationalist_Party_%28Malta%29
-2109,NLD,50+,50PLUS,50PLUS,lib,http://www.parlgov.org/explore/nld/party/2109/,2012,2019,,2,2017,3.1,http://en.wikipedia.org/wiki/50PLUS
+2109,NLD,50+,50PLUS,50PLUS,spec,http://www.parlgov.org/explore/nld/party/2109/,2012,2021,,3,2017,3.1,http://en.wikipedia.org/wiki/50PLUS
 112,NLD,AOV|VSP,General Senior Union | United Seniors Party,Algemeen Ouderen Verbond | Verenigde Senioren Partij,spec,http://www.parlgov.org/explore/nld/party/112/,1994,2002,,2,1994,3.6,http://en.wikipedia.org/wiki/Algemeen_Ouderen_Verbond
 300,NLD,ARP,Anti-Revolutionary Party,Anti-Revolutionaire Partij,chr,http://www.parlgov.org/explore/nld/party/300/,1918,1972,22,15,1937,16.4,http://en.wikipedia.org/wiki/Anti_Revolutionary_Party
-2641,NLD,DENK,Think,Beweging DENK,lib,http://www.parlgov.org/explore/nld/party/2641/,2017,2019,,1,2017,2.1,https://en.wikipedia.org/wiki/Denk_(political_party)
+2641,NLD,DENK,Think,Beweging DENK,soc,http://www.parlgov.org/explore/nld/party/2641/,2017,2021,,2,2017,2.1,https://en.wikipedia.org/wiki/Denk_(political_party)
+2824,NLD,BBB,Farmer-Citizen Movement,BoerBurgerBeweging,agr,http://www.parlgov.org/explore/nld/party/2824/,2021,2021,,1,2021,1,https://en.wikipedia.org/wiki/Farmer%E2%80%93Citizen_Movement
 1595,NLD,Bp,Farmers Party,Boerenpartij,agr,http://www.parlgov.org/explore/nld/party/1595/,1963,1977,,5,1967,4.8,http://en.wikipedia.org/wiki/Boerenpartij
 2459,NLD,BVL,League of Free Liberals,Bond van Vrije Liberalen,lib,http://www.parlgov.org/explore/nld/party/2459/,1918,1918,,1,1918,3.8,http://en.wikipedia.org/wiki/League_of_Free_Liberals
 209,NLD,CD,Centre Democrats,Centrum Democraten,right,http://www.parlgov.org/explore/nld/party/209/,1989,1998,,3,1994,2.5,http://en.wikipedia.org/wiki/Centrum_Democraten
 2542,NLD,CDU,Christian Democratic Union,Christelijk-Democratische Unie,chr,http://www.parlgov.org/explore/nld/party/2542/,1933,1937,,2,1937,2.1,https://en.wikipedia.org/wiki/Christian_Democratic_Union_%28Netherlands%29
 405,NLD,CHU,Christian Historical Union,Christelijk-Historische Unie,chr,http://www.parlgov.org/explore/nld/party/405/,1918,1972,21,15,1922,10.9,http://en.wikipedia.org/wiki/Christian_Historical_Union
-235,NLD,CDA,Christian Democratic Appeal,Christen Democratisch Appèl,chr,http://www.parlgov.org/explore/nld/party/235/,1977,2019,16,13,1989,35.3,http://en.wikipedia.org/wiki/Christian_Democratic_Appeal
-1206,NLD,CU,ChristianUnion,ChristenUnie,chr,http://www.parlgov.org/explore/nld/party/1206/,2002,2019,3,6,2006,4,http://en.wikipedia.org/wiki/ChristianUnion
+235,NLD,CDA,Christian Democratic Appeal,Christen Democratisch Appèl,chr,http://www.parlgov.org/explore/nld/party/235/,1977,2021,17,14,1989,35.3,http://en.wikipedia.org/wiki/Christian_Democratic_Appeal
+1206,NLD,CU,ChristianUnion,ChristenUnie,chr,http://www.parlgov.org/explore/nld/party/1206/,2002,2021,4,7,2006,4,http://en.wikipedia.org/wiki/ChristianUnion
 1194,NLD,CPN,Communist Party of the Netherlands,Communistische Partij Nederland,com,http://www.parlgov.org/explore/nld/party/1194/,1918,1986,,19,1946,10.6,http://en.wikipedia.org/wiki/Communistische_Partij_van_Nederland
 2009,NLD,Groen,The Greens,De Groenen,eco,http://www.parlgov.org/explore/nld/party/2009/,1984,1994,,2,1994,2.4,http://en.wikipedia.org/wiki/De_Groenen
-345,NLD,D66,Democrats 66,Democraten 66,lib,http://www.parlgov.org/explore/nld/party/345/,1967,2019,8,16,1994,15.5,http://en.wikipedia.org/wiki/Democrats_66
+345,NLD,D66,Democrats 66,Democraten 66,lib,http://www.parlgov.org/explore/nld/party/345/,1967,2021,9,17,1994,15.5,http://en.wikipedia.org/wiki/Democrats_66
 402,NLD,DS70,Democratic Socialists 70,Democratisch Socialisten 70,con,http://www.parlgov.org/explore/nld/party/402/,1971,1981,1,4,1971,5.3,http://en.wikipedia.org/wiki/Democratic_Socialists_%2770
 2457,NLD,EB,Economic League ,Economische Bond,lib,http://www.parlgov.org/explore/nld/party/2457/,1918,1918,,1,1918,3.1,http://en.wikipedia.org/wiki/Economic_League_%28Netherlands%29
 339,NLD,EuTr,Europe Transparent,Europa Transparant,spec,http://www.parlgov.org/explore/nld/party/339/,2004,2004,,1,2004,7.3,http://en.wikipedia.org/wiki/Europa_Transparant
-2642,NLD,FvD,Forum for Democracy,Forum voor Democratie,con,http://www.parlgov.org/explore/nld/party/2642/,2017,2019,,1,2017,1.8,https://en.wikipedia.org/wiki/Forum_for_Democracy_(Netherlands)
+2642,NLD,FvD,Forum for Democracy,Forum voor Democratie,right,http://www.parlgov.org/explore/nld/party/2642/,2017,2021,,2,2021,5,https://en.wikipedia.org/wiki/Forum_for_Democracy_(Netherlands)
 625,NLD,GPV,Reformed Political League,Gereformeerd Politiek Verbond,con,http://www.parlgov.org/explore/nld/party/625/,1952,1998,,14,1972,1.8,http://en.wikipedia.org/wiki/Reformed_Political_League
-756,NLD,GL,GreenLeft,GroenLinks,eco,http://www.parlgov.org/explore/nld/party/756/,1984,2019,,9,2017,9.1,http://en.wikipedia.org/wiki/Groen_Links
+756,NLD,GL,GreenLeft,GroenLinks,eco,http://www.parlgov.org/explore/nld/party/756/,1984,2021,,10,2017,9.1,http://en.wikipedia.org/wiki/Groen_Links
 2464,NLD,HGS,New Reformed State Party ,Hervormd Gereformeerde Staatspartij,chr,http://www.parlgov.org/explore/nld/party/2464/,1925,1933,,3,1929,1.1,http://en.wikipedia.org/wiki/Hervormd_Gereformeerde_Staatspartij
+2823,NLD,JA21,Right Answer 2021,Juiste Antwoord21,right,http://www.parlgov.org/explore/nld/party/2823/,2021,2021,,1,2021,2.4,https://en.wikipedia.org/wiki/JA21
 3,NLD,KNP,Catholic National Party,Katholieke Nationale Partij,chr,http://www.parlgov.org/explore/nld/party/3/,1948,1952,,2,1952,2.7,http://en.wikipedia.org/wiki/Katholieke_Nationale_Partij
 451,NLD,KVP,Catholic Peoples Party,Katholieke Volkspartij,chr,http://www.parlgov.org/explore/nld/party/451/,1946,1972,15,9,1963,31.9,http://en.wikipedia.org/wiki/Katholieke_Volkspartij
 744,NLD,LN,Livable Netherlands,Leefbaar Nederland,right,http://www.parlgov.org/explore/nld/party/744/,2002,2002,,1,2002,1.6,http://en.wikipedia.org/wiki/Leefbaar_Nederland
@@ -1087,44 +1111,45 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2714,NLD,MPSL,Middle Party for City and Country,Middenpartij voor Stad en Land,lib,http://www.parlgov.org/explore/nld/party/2714/,1929,1929,,1,1929,1.2,https://en.wikipedia.org/wiki/Middle_Party_for_City_and_Country
 2463,NLD,NSB,National Socialist Movement in the Netherlands,Nationaal-Socialistische Beweging in Nederland,right,http://www.parlgov.org/explore/nld/party/2463/,1937,1937,,1,1937,4.2,http://en.wikipedia.org/wiki/National_Socialist_Movement_in_the_Netherlands
 1452,NLD,PSP,Pacifist Socialist Party,Pacifistisch Socialistische Partij,com,http://www.parlgov.org/explore/nld/party/1452/,1959,1986,,9,1963,3,http://en.wikipedia.org/wiki/Pacifist_Socialist_Party
-742,NLD,PvdA,Labour Party,Partij van de Arbeid,soc,http://www.parlgov.org/explore/nld/party/742/,1946,2019,15,22,1977,33.8,http://en.wikipedia.org/wiki/Labour_Party_%28Netherlands%29
-990,NLD,PvdD,Party for the Animals,Partij voor de Dieren,spec,http://www.parlgov.org/explore/nld/party/990/,2003,2019,,5,2017,3.2,http://en.wikipedia.org/wiki/Party_for_the_Animals
-1501,NLD,PVV,Party for Freedom,Partij voor de Vrijheid,right,http://www.parlgov.org/explore/nld/party/1501/,2006,2019,,4,2010,15.4,http://en.wikipedia.org/wiki/Party_for_Freedom
+742,NLD,PvdA,Labour Party,Partij van de Arbeid,soc,http://www.parlgov.org/explore/nld/party/742/,1946,2021,15,23,1977,33.8,http://en.wikipedia.org/wiki/Labour_Party_%28Netherlands%29
+990,NLD,PvdD,Party for the Animals,Partij voor de Dieren,spec,http://www.parlgov.org/explore/nld/party/990/,2003,2021,,6,2021,3.8,http://en.wikipedia.org/wiki/Party_for_the_Animals
+1501,NLD,PVV,Party for Freedom,Partij voor de Vrijheid,right,http://www.parlgov.org/explore/nld/party/1501/,2006,2021,,5,2010,15.4,http://en.wikipedia.org/wiki/Party_for_Freedom
 2458,NLD,PB|NBTM,"Plattelandersbond | National Farmers', Horticulturists' and Middle Class Party","Peasants' League | Nationale Boeren-, Tuinders- en Middenstandspartij",agr,http://www.parlgov.org/explore/nld/party/2458/,1918,1933,,5,1925,2,"http://nl.wikipedia.org/wiki/Nationale_Boeren-,_Tuinders-_en_Middenstandspartij"
 342,NLD,PPR,Radical Political Party,Politieke Partij Radikalen,eco,http://www.parlgov.org/explore/nld/party/342/,1971,1986,2,6,1972,4.8,http://en.wikipedia.org/wiki/Politieke_Partij_Radikalen
 212,NLD,RPF,Reformatory Political Federation,Reformatorische Politieke Federati,chr,http://www.parlgov.org/explore/nld/party/212/,1977,1998,,7,1998,2,http://en.wikipedia.org/wiki/Reformatory_Political_Federation
 2465,NLD,RSP,Revolutionary Socialist Party ,Revolutionair Socialistische Partij,com,http://www.parlgov.org/explore/nld/party/2465/,1933,1937,,2,1933,1.3,http://en.wikipedia.org/wiki/Revolutionary_Socialist_Party_%28Netherlands%29
-2466,NLD,RKVP,Roman Catholic People's Party,Roomsch-Katholieke Volkspartij,chr,http://www.parlgov.org/explore/nld/party/2466/,1925,1933,,2,1925,1.2,http://en.wikipedia.org/wiki/Roman_Catholic_People%27s_Party
 2539,NLD,RKP,Roman Catholic Party,Roomsch Katholieke Partij,chr,http://www.parlgov.org/explore/nld/party/2539/,1918,1937,9,6,1918,30,https://en.wikipedia.org/wiki/General_League_of_Roman_Catholic_Caucuses
+2466,NLD,RKVP,Roman Catholic People's Party,Roomsch-Katholieke Volkspartij,chr,http://www.parlgov.org/explore/nld/party/2466/,1925,1933,,2,1925,1.2,http://en.wikipedia.org/wiki/Roman_Catholic_People%27s_Party
 1451,NLD,SDAP,Social Democratic Workers' Party,Sociaal Democratische Arbeiders Partij,soc,http://www.parlgov.org/explore/nld/party/1451/,1918,1937,2,6,1929,23.8,http://en.wikipedia.org/wiki/Sociaal_Democratische_Arbeiders_Partij
-357,NLD,SP,Socialist Party,Socialistiese Partij,com,http://www.parlgov.org/explore/nld/party/357/,1982,2019,,10,2006,16.6,http://en.wikipedia.org/wiki/Socialist_Party_(Netherlands)
-1251,NLD,SGP,Political Reformed Party,Staatkundig Gereformeerde Partij,con,http://www.parlgov.org/explore/nld/party/1251/,1922,2017,,27,1933,2.5,http://en.wikipedia.org/wiki/Staatkundig_Gereformeerde_Partij
+357,NLD,SP,Socialist Party,Socialistiese Partij,com,http://www.parlgov.org/explore/nld/party/357/,1982,2021,,11,2006,16.6,http://en.wikipedia.org/wiki/Socialist_Party_(Netherlands)
+1251,NLD,SGP,Political Reformed Party,Staatkundig Gereformeerde Partij,con,http://www.parlgov.org/explore/nld/party/1251/,1922,2021,,28,1933,2.5,http://en.wikipedia.org/wiki/Staatkundig_Gereformeerde_Partij
 1771,NLD,S+G+R,Reformatory Political Federation / Reformed Political League / Political Reformed Party,Staatkundig Gereformeerde Partij / Gereformeerd Politiek Verbond / Reformatorische Politieke Federatie,con,http://www.parlgov.org/explore/nld/party/1771/,1984,1999,,4,1999,8.7,""
-1409,NLD,VVD,People's Party for Freedom and Democracy,Volkspartij voor Vrijheid en Democratie,lib,http://www.parlgov.org/explore/nld/party/1409/,1946,2019,22,22,2012,26.6,http://en.wikipedia.org/wiki/People%27s_Party_for_Freedom_and_Democracy
-2735,NLD,VN,Volt Netherlands,Volt Nederland,spec,http://www.parlgov.org/explore/nld/party/2735/,2019,2019,,1,2019,1.9,https://en.wikipedia.org/wiki/Volt_Europa#The_Netherlands
+1409,NLD,VVD,People's Party for Freedom and Democracy,Volkspartij voor Vrijheid en Democratie,lib,http://www.parlgov.org/explore/nld/party/1409/,1946,2021,23,23,2012,26.6,http://en.wikipedia.org/wiki/People%27s_Party_for_Freedom_and_Democracy
+2735,NLD,VN,Volt Netherlands,Volt Nederland,spec,http://www.parlgov.org/explore/nld/party/2735/,2019,2021,,1,2021,2.4,https://en.wikipedia.org/wiki/Volt_Netherlands
 944,NLD,VDB,Free-thinking Democratic League,Vrijzinnig Democratische Bond,lib,http://www.parlgov.org/explore/nld/party/944/,1918,1937,3,6,1929,6.2,http://en.wikipedia.org/wiki/Free-thinking_Democratic_League
 2415,NOR,AD|DRF, Labour Democrats | Radical People's Party,Arbeiderdemokratene | Det radikale Folkeparti,com,http://www.parlgov.org/explore/nor/party/2415/,1903,1933,,11,1906,4.8,https://en.wikipedia.org/wiki/Radical_People%27s_Party_%28Norway%29
 2544,NOR,A,Teetotaler Party,Avholdspartiet,spec,http://www.parlgov.org/explore/nor/party/2544/,1909,1915,,2,1909,1.2,https://no.wikipedia.org/wiki/Avholdspartiet
+2816,NOR,D,Democrats,Demokratene,con,http://www.parlgov.org/explore/nor/party/2816/,2021,2021,,1,2021,1.1,https://en.wikipedia.org/wiki/Democrats_in_Norway
 1209,NOR,DLF,Liberal People's Party,Det Liberale Folkepartiet,lib,http://www.parlgov.org/explore/nor/party/1209/,1973,1977,,2,1973,3.4,http://en.wikipedia.org/wiki/Liberal_People%27s_Party_%28Norway%2C_Old%29
-104,NOR,DNA,Norwegian Labour Party,Det norske Arbeiderparti,soc,http://www.parlgov.org/explore/nor/party/104/,1900,2017,24,32,1957,48.3,http://en.wikipedia.org/wiki/Det_Norske_Arbeiderparti
+104,NOR,DNA,Norwegian Labour Party,Det norske Arbeiderparti,soc,http://www.parlgov.org/explore/nor/party/104/,1900,2021,25,33,1957,48.3,https://en.wikipedia.org/wiki/Labour_Party_(Norway)
 2194,NOR,FeBo,Electoral lists Conservatives,Felleslister borgerlige,con,http://www.parlgov.org/explore/nor/party/2194/,1949,1953,,2,1949,6.1,""
-351,NOR,Fr,Progress Party,Fremskrittspartiet,right,http://www.parlgov.org/explore/nor/party/351/,1973,2017,4,12,2009,22.9,http://en.wikipedia.org/wiki/Progress_Party_%28Norway%29
+351,NOR,Fr,Progress Party,Fremskrittspartiet,right,http://www.parlgov.org/explore/nor/party/351/,1973,2021,4,13,2009,22.9,http://en.wikipedia.org/wiki/Progress_Party_%28Norway%29
 2472,NOR,FV,Liberal Left Party,Frisinnede Venstre,lib,http://www.parlgov.org/explore/nor/party/2472/,1909,1936,7,10,1930,2.6,http://en.wikipedia.org/wiki/Liberal_Left_Party
 17,NOR,Hf,Resistance Movement,Hjemmefronten,spec,http://www.parlgov.org/explore/nor/party/17/,,,1,,,,http://no.wikipedia.org/wiki/Hjemmefronten
-1435,NOR,H,Conservative Party,Høyre,con,http://www.parlgov.org/explore/nor/party/1435/,1900,2017,22,32,1903,44.8,https://en.wikipedia.org/wiki/Conservative_Party_%28Norway%29
-1538,NOR,KrF,Christian Democratic Party,Kristelig Folkeparti,chr,http://www.parlgov.org/explore/nor/party/1538/,1933,2017,11,21,1997,13.7,http://en.wikipedia.org/wiki/Kristelig_Folkeparti
+1435,NOR,H,Conservative Party,Høyre,con,http://www.parlgov.org/explore/nor/party/1435/,1900,2021,22,33,1903,44.8,https://en.wikipedia.org/wiki/Conservative_Party_(Norway)
+1538,NOR,KrF,Christian Democratic Party,Kristelig Folkeparti,chr,http://www.parlgov.org/explore/nor/party/1538/,1933,2021,11,22,1997,13.7,http://en.wikipedia.org/wiki/Kristelig_Folkeparti
 780,NOR,Kp,Coastal Party,Kystpartiet,con,http://www.parlgov.org/explore/nor/party/780/,1997,2001,,2,2001,1.7,http://en.wikipedia.org/wiki/Coastal_Party
-2254,NOR,MDG,Green Party,Miljøpartiet De Grønne,eco,http://www.parlgov.org/explore/nor/party/2254/,2013,2017,,2,2017,3.2,http://en.wikipedia.org/wiki/Green_Party_(Norway)
+2254,NOR,MDG,Green Party,Miljøpartiet De Grønne,eco,http://www.parlgov.org/explore/nor/party/2254/,2013,2021,,3,2021,3.9,http://en.wikipedia.org/wiki/Green_Party_(Norway)
 2414,NOR,NS,National Gathering,Nasjonal Samling,right,http://www.parlgov.org/explore/nor/party/2414/,1933,1936,,2,1933,2.2,https://en.wikipedia.org/wiki/Nasjonal_Samling
 27,NOR,NKP,Communist Party of Norway,Norges Kommunistiske Parti,com,http://www.parlgov.org/explore/nor/party/27/,1924,1969,1,11,1945,11.9,http://en.wikipedia.org/wiki/Communist_Party_of_Norway
 2474,NOR,NSA,Social Democratic Labour Party of Norway,Norges Socialdemokratiske Arbeiderparti,soc,http://www.parlgov.org/explore/nor/party/2474/,1921,1924,,2,1921,9.2,http://en.wikipedia.org/wiki/Social_Democratic_Labour_Party_of_Norway
 733,NOR,P,Pensioners Party,Pensjonistpartiet,spec,http://www.parlgov.org/explore/nor/party/733/,1993,2017,,2,1993,1,http://en.wikipedia.org/wiki/Pensioners_Party_(Norway)
-1638,NOR,RV,Red Electoral Alliance,Rød Valgallianse,com,http://www.parlgov.org/explore/nor/party/1638/,1973,2017,,9,2017,2.4,http://en.wikipedia.org/wiki/Red_Electoral_Alliance
+1638,NOR,RV,Red Electoral Alliance,Rød Valgallianse,com,http://www.parlgov.org/explore/nor/party/1638/,1973,2021,,10,2021,4.7,http://en.wikipedia.org/wiki/Red_Electoral_Alliance
 2420,NOR,Soc,Society Party,Samfundspartiet,chr,http://www.parlgov.org/explore/nor/party/2420/,1933,1936,,2,1936,3.1,"https://en.wikipedia.org/wiki/Society_Party_%28Norway,_1930s%29"
-702,NOR,Sp,Centre Party,Senterpartiet,agr,http://www.parlgov.org/explore/nor/party/702/,1915,2017,13,27,1993,16.7,http://en.wikipedia.org/wiki/Centre_Party_%28Norway%29
+702,NOR,Sp,Centre Party,Senterpartiet,agr,http://www.parlgov.org/explore/nor/party/702/,1915,2021,14,28,1993,16.7,http://en.wikipedia.org/wiki/Centre_Party_%28Norway%29
 1773,NOR,SF,Socialist People's Party,Sosialistisk Folkeparti,com,http://www.parlgov.org/explore/nor/party/1773/,1961,1969,,3,1965,6,http://en.wikipedia.org/wiki/Socialist_People%27s_Party_%28Norway%29
-81,NOR,SV,Socialist Left Party,Sosialistisk Venstreparti,com,http://www.parlgov.org/explore/nor/party/81/,1973,2017,2,12,2001,12.5,http://en.wikipedia.org/wiki/Sosialistisk_Venstreparti
-647,NOR,V,Liberal Party of Norway,Venstre,lib,http://www.parlgov.org/explore/nor/party/647/,1900,2017,29,32,1900,54,http://en.wikipedia.org/wiki/Venstre_%28Norway%29
+81,NOR,SV,Socialist Left Party,Sosialistisk Venstreparti,com,http://www.parlgov.org/explore/nor/party/81/,1973,2021,2,13,2001,12.5,http://en.wikipedia.org/wiki/Sosialistisk_Venstreparti
+647,NOR,V,Liberal Party of Norway,Venstre,lib,http://www.parlgov.org/explore/nor/party/647/,1900,2021,29,33,1900,54,https://en.wikipedia.org/wiki/Liberal_Party_(Norway)
 617,NZL,ACT,ACT New Zealand,ACT New Zealand,lib,http://www.parlgov.org/explore/nzl/party/617/,1996,2020,,9,2020,7.6,http://en.wikipedia.org/wiki/ACT_New_Zealand
 1444,NZL,A,Alliance,Alliance,soc,http://www.parlgov.org/explore/nzl/party/1444/,1993,2002,1,4,1993,18.2,http://en.wikipedia.org/wiki/Alliance_%28New_Zealand_political_party%29
 2073,NZL,ALCP,Aotearoa Legalise Cannabis Party,Aotearoa Legalise Cannabis Party,spec,http://www.parlgov.org/explore/nzl/party/2073/,1996,1999,,2,1996,1.7,http://en.wikipedia.org/wiki/Aotearoa_Legalise_Cannabis_Party
@@ -1228,9 +1253,8 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 725,PRT,PS,Socialist Party,Partido Socialista,soc,http://www.parlgov.org/explore/prt/party/725/,1975,2019,11,16,2005,46.4,http://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
 998,PRT,PSR,Revolutionary Socialist Party,Partido Socialista Revolucionário,com,http://www.parlgov.org/explore/prt/party/998/,1980,1991,,2,1991,1.1,http://en.wikipedia.org/wiki/Revolutionary_Socialist_Party_%28Portugal%29
 260,PRT,UDP,Popular Democratic Union,União Democrática Popular,com,http://www.parlgov.org/explore/prt/party/260/,1975,1989,,6,1979,2.2,http://en.wikipedia.org/wiki/People%27s_Democratic_Union_(Portugal)
-2647,ROU,ALDE,Alliance of Liberals and Democrats,Alianța Liberalilor și Democraților,lib,http://www.parlgov.org/explore/rou/party/2647/,2016,2019,3,1,2016,5.6,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
-2807,ROU,AUR,Alliance for the Unity of Romanians,Alianța pentru Unirea Românilor,right,http://www.parlgov.org/explore/rou/party/2807/,2020,2020,,1,2020,9.1,https://en.wikipedia.org/wiki/Alliance_for_the_Unity_of_Romanians
 2040,ROU,ApR,Alliance for Romania,Alianta pentru Romania,soc,http://www.parlgov.org/explore/rou/party/2040/,2000,2000,,1,2000,4.1,http://www.infopolitic.ro/partide/disparute/alianta-pentru-romania-apr.html
+2807,ROU,AUR,Alliance for the Unity of Romanians,Alianța pentru Unirea Românilor,right,http://www.parlgov.org/explore/rou/party/2807/,2020,2020,,1,2020,9.1,https://en.wikipedia.org/wiki/Alliance_for_the_Unity_of_Romanians
 356,ROU,CDR,Romanian Democratic Convention,Convenţia Democrată Română,chr,http://www.parlgov.org/explore/rou/party/356/,1992,2000,,3,1996,30.2,http://en.wikipedia.org/wiki/Romanian_Democratic_Convention
 2129,ROU,FC,Civic Force,Forța Civică,chr,http://www.parlgov.org/explore/rou/party/2129/,2012,2014,,1,2014,2.6,http://en.wikipedia.org/wiki/Civic_Force_Party
 2748,ROU,I-GNS,Independent -- George-Nicolae Simion,Independent – George-Nicolae Simion,none,http://www.parlgov.org/explore/rou/party/2748/,2019,2019,,1,2019,1.3,https://en.wikipedia.org/wiki/2019_European_Parliament_election_in_Romania
@@ -1240,16 +1264,15 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 1639,ROU,MER,Romanian Ecological Movement,Miscarea Ecologista din Romania,eco,http://www.parlgov.org/explore/rou/party/1639/,1990,1996,1,3,1990,2.6,https://en.wikipedia.org/wiki/Ecological_Movement_of_Romania
 254,ROU,PaRo,Party of the Roma,Partida Romilor,soc,http://www.parlgov.org/explore/rou/party/254/,2007,2007,,1,2007,1.2,http://en.wikipedia.org/wiki/Party_of_the_Roma
 861,ROU,PAC,Party of the Civic Alliance,Partidul Alianţa Civică,lib,http://www.parlgov.org/explore/rou/party/861/,1992,1996,,2,1996,1.6,http://ro.wikipedia.org/wiki/Partidul_Alian%C5%A3a_Civic%C4%83
-5,ROU,PC,Conservative Party,Partidul Conservator,con,http://www.parlgov.org/explore/rou/party/5/,2007,2012,6,3,2007,2.9,http://en.wikipedia.org/wiki/Conservative_Party_(Romania)
 419,ROU,PD,Democratic Party,Partidul Democrat,lib,http://www.parlgov.org/explore/rou/party/419/,1990,2007,7,5,1990,66.3,http://en.wikipedia.org/wiki/Democratic_Party_(Romania)
-958,ROU,PD-L,Democratic Liberal Party,Partidul Democrat-Liberal,lib,http://www.parlgov.org/explore/rou/party/958/,2008,2014,4,2,2008,32.4,http://en.wikipedia.org/wiki/Democratic_Liberal_Party_%28Romania%29
 1299,ROU,PDAR,Democratic Agrarian Party of Romania,Partidul Democrat Agrar din România,agr,http://www.parlgov.org/explore/rou/party/1299/,1990,1992,1,2,1992,3,http://en.wikipedia.org/wiki/List_of_political_parties_in_Romania
-792,ROU,PER,Romanian Ecologist Party,Partidul Ecologist Român,eco,http://www.parlgov.org/explore/rou/party/792/,1990,2014,,3,1990,1.7,http://en.wikipedia.org/wiki/Ecologist_Party_of_Romania
+958,ROU,PD-L,Democratic Liberal Party,Partidul Democrat-Liberal,lib,http://www.parlgov.org/explore/rou/party/958/,2008,2014,4,2,2008,32.4,http://en.wikipedia.org/wiki/Democratic_Liberal_Party_%28Romania%29
+792,ROU,PER,Romanian Ecologist Party,Partidul Ecologist Român,eco,http://www.parlgov.org/explore/rou/party/792/,1990,2020,,4,1990,1.7,http://en.wikipedia.org/wiki/Ecologist_Party_of_Romania
 1589,ROU,PIN,National Initiative Party,Partidul Iniţiativa Naţională,con,http://www.parlgov.org/explore/rou/party/1589/,2007,2007,,1,2007,2.4,http://en.wikipedia.org/wiki/National_Initiative_Party
 1485,ROU,PLD,Liberal Democratic Party,Partidul Liberal Democrat,lib,http://www.parlgov.org/explore/rou/party/1485/,2007,2007,,1,2007,7.8,http://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Romania)
-2401,ROU,LRP,Liberal Reformist Party,Partidul Liberal Reformator,lib,http://www.parlgov.org/explore/rou/party/2401/,,,1,,,,http://en.wikipedia.org/wiki/Liberal_Reformist_Party_(Romania)
+2647,ROU,PLR|ALDE,Liberal Reformist Party | Alliance of Liberals and Democrats,Partidul Liberal Reformator | Alianța Liberalilor și Democraților,lib,http://www.parlgov.org/explore/rou/party/2647/,2016,2019,4,1,2016,5.6,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
 2395,ROU,PMP,People's Movement Party,Partidul Mișcarea Populară,chr,http://www.parlgov.org/explore/rou/party/2395/,2014,2020,,2,2016,5.3,http://en.wikipedia.org/wiki/People%27s_Movement_Party
-1015,ROU,PNL,National Liberal Party,Partidul Naţional Liberal,lib,http://www.parlgov.org/explore/rou/party/1015/,1990,2020,12,9,2004,31.3,http://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
+1015,ROU,PNL,National Liberal Party,Partidul Naţional Liberal,lib,http://www.parlgov.org/explore/rou/party/1015/,1990,2020,13,9,2004,31.3,http://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2041,ROU,PNL-C,National Liberal Party Campeanu,Partidul National Liberal Campeanu,lib,http://www.parlgov.org/explore/rou/party/2041/,2000,2000,,1,2000,1.4,http://en.wikipedia.org/wiki/Liberalism_and_radicalism_in_Romania#National_Liberal_Party-C.C3.A2mpeanu
 888,ROU,PNT-CD,Christian-Democratic National Peasants' Party,Partidul Naţional Ţărănesc Creştin Democrat,chr,http://www.parlgov.org/explore/rou/party/888/,1990,2012,3,5,1990,2.6,http://en.wikipedia.org/wiki/Christian-Democratic_National_Peasants'_Party_(Romania)
 1332,ROU,PNG-CD,New Generation Party -- Christian Democratic,Partidul Noua Generaţie – Creştin Democrat,chr,http://www.parlgov.org/explore/rou/party/1332/,2004,2008,,2,2008,2.3,http://en.wikipedia.org/wiki/New_Generation_Party_%E2%80%93_Christian_Democratic
@@ -1264,12 +1287,12 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 562,ROU,PSM,Socialist Party of Labour,Partidul Socialist al Muncii,com,http://www.parlgov.org/explore/rou/party/562/,1992,1996,,2,1992,3,http://en.wikipedia.org/wiki/Socialist_Party_of_Labour
 307,ROU,PSoDR,Romanian Socialist Democratic Party,Partidul Socialist Democrat Român,com,http://www.parlgov.org/explore/rou/party/307/,1990,1990,,1,1990,1,""
 2105,ROU,PSMR,Romanian Socialist Party of Workers,Partidul Socialist Muncitoresc Roman,com,http://www.parlgov.org/explore/rou/party/2105/,1996,1996,,1,1996,1.7,""
+5,ROU,PU|PC,Humanist Party | Conservative Party,Partidul Umanist | Partidul Conservator,con,http://www.parlgov.org/explore/rou/party/5/,2007,2020,6,3,2020,1,http://en.wikipedia.org/wiki/Conservative_Party_(Romania)
 648,ROU,PUNR,Romanian National Unity Party,Partidul Unitatii Naţionale a Romanilor,right,http://www.parlgov.org/explore/rou/party/648/,1990,2000,1,4,1992,7.7,http://en.wikipedia.org/wiki/Romanian_National_Unity_Party
 2746,ROU,PROR,PRO Romania,PRO România,lib,http://www.parlgov.org/explore/rou/party/2746/,2019,2020,,1,2020,4.1,https://en.wikipedia.org/wiki/PRO_Romania
-948,ROU,UDMR,Democratic Union of Hungarians in Romania,Uniunea Democrată Maghiară din România,con,http://www.parlgov.org/explore/rou/party/948/,1990,2020,11,9,1992,7.5,http://en.wikipedia.org/wiki/Democratic_Union_of_Hungarians_in_Romania
+948,ROU,UDMR,Democratic Union of Hungarians in Romania,Uniunea Democrată Maghiară din România,con,http://www.parlgov.org/explore/rou/party/948/,1990,2020,12,9,1992,7.5,http://en.wikipedia.org/wiki/Democratic_Union_of_Hungarians_in_Romania
 2002,ROU,UNPR,National Union for the Progress of Romania,Uniunea Naţională pentru Progresul României,soc,http://www.parlgov.org/explore/rou/party/2002/,2012,2012,4,,,,http://en.wikipedia.org/wiki/National_Union_for_the_Progress_of_Romania
-2646,ROU,USR,Save Romania Union,Uniunea Salvați România,lib,http://www.parlgov.org/explore/rou/party/2646/,2016,2019,,1,2016,8.9,https://en.wikipedia.org/wiki/Save_Romania_Union
-2812,ROU,UP,USR PLUS,USR PLUS,lib,http://www.parlgov.org/explore/rou/party/2812/,2019,2020,1,1,2020,15.4,https://en.wikipedia.org/wiki/2020_USR-PLUS_Alliance
+2646,ROU,USR|PLUS,"Save Romania Union | Party of Liberty, Unity and Solidarity","Uniunea Salvați România | Partidul Libertate, Unitate și Solidaritate",lib,http://www.parlgov.org/explore/rou/party/2646/,2016,2020,1,2,2020,15.4,https://en.wikipedia.org/wiki/Save_Romania_Union
 2015,SVK,99%,99 Percent -- Civic Voice,99% – občiansky hlas,com,http://www.parlgov.org/explore/svk/party/2015/,2012,2012,,1,2012,1.6,http://de.wikipedia.org/wiki/99%25_%E2%80%93_ob%C4%8Diansky_hlas
 1624,SVK,ADS,Alliance of Democrats,Aliancia demokratov Slovenska,lib,http://www.parlgov.org/explore/svk/party/1624/,,,1,,,,http://sk.wikipedia.org/wiki/Aliancia_demokratov_Slovenska
 1200,SVK,ANO,Alliance of the New Citizen,Aliancia nového občana,lib,http://www.parlgov.org/explore/svk/party/1200/,2002,2012,2,3,2002,8,http://en.wikipedia.org/wiki/Aliancia_Noveho_Obcana
@@ -1294,17 +1317,17 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 1228,SVK,NDS,National Democratic Party,Národno-demokratická strana,right,http://www.parlgov.org/explore/svk/party/1228/,,,1,,,,http://sk.wikipedia.org/wiki/N%C3%A1rodno-demokratick%C3%A1_strana
 2237,SVK,NS,New Slovakia,Nové Slovensko,spec,http://www.parlgov.org/explore/svk/party/2237/,1994,1994,,1,1994,1.3,http://sk.wikipedia.org/wiki/Vo%C4%BEby_do_N%C3%A1rodnej_rady_Slovenskej_republiky_v_roku_1994
 1645,SVK,OKS,Civic Conservative Party,Obcianska konzervatívna strana,con,http://www.parlgov.org/explore/svk/party/1645/,2004,2014,,3,2014,6.8,http://en.wikipedia.org/wiki/Civic_Conservative_Party
-1759,SVK,OLaNO,Ordinary People and Independent,Obyčajní ľudia a nezávislé osobnosti,con,http://www.parlgov.org/explore/svk/party/1759/,2010,2020,1,4,2020,25,http://en.wikipedia.org/wiki/Ordinary_People_%28Slovakia%29
+1759,SVK,OLaNO,Ordinary People and Independent,Obyčajní ľudia a nezávislé osobnosti,con,http://www.parlgov.org/explore/svk/party/1759/,2010,2020,2,4,2020,25,http://en.wikipedia.org/wiki/Ordinary_People_%28Slovakia%29
 20,SVK,PSNS,Real Slovak National Party,Pravá Slovenská národná strana,right,http://www.parlgov.org/explore/svk/party/20/,2002,2002,,1,2002,3.6,http://en.wikipedia.org/wiki/True_Slovak_National_Party
 2389,SVK,PaS,Law and Justice,Právo a spravodlivost,com,http://www.parlgov.org/explore/svk/party/2389/,2014,2014,,1,2014,1.7,http://en.wikipedia.org/wiki/List_of_political_parties_in_Slovakia
 2751,SVK,PS,Progressive Slovakia,Progresívne Slovensko,lib,http://www.parlgov.org/explore/svk/party/2751/,2019,2020,,1,2020,7,https://en.wikipedia.org/wiki/Progressive_Slovakia
 2624,SVK,S,Network,Sieť,con,http://www.parlgov.org/explore/svk/party/2624/,2016,2016,1,1,2016,5.6,https://en.wikipedia.org/wiki/Network_%28Slovak_party%29
-1460,SVK,SaS,Freedom and Solidarity,Sloboda a solidarita,lib,http://www.parlgov.org/explore/svk/party/1460/,2009,2020,3,4,2010,12.1,http://en.wikipedia.org/wiki/Freedom_and_Solidarity
+1460,SVK,SaS,Freedom and Solidarity,Sloboda a solidarita,lib,http://www.parlgov.org/explore/svk/party/1460/,2009,2020,4,4,2010,12.1,http://en.wikipedia.org/wiki/Freedom_and_Solidarity
 752,SVK,SF,Free Forum,Slobodné fórum,lib,http://www.parlgov.org/explore/svk/party/752/,2004,2009,,1,2006,3.5,http://en.wikipedia.org/wiki/Free_Forum
 131,SVK,SDKU-DS,Slovak Democratic and Christian Union -- Democratic Party,Slovenská demokratická a kresťanská únia – Demokratická strana,chr,http://www.parlgov.org/explore/svk/party/131/,2002,2014,4,4,2006,18.4,http://en.wikipedia.org/wiki/Slovak_Democratic_and_Christian_Union_%E2%80%93_Democratic_Party
 313,SVK,SDK,Slovak Democratic Coalition,Slovenská demokratická koalícia,chr,http://www.parlgov.org/explore/svk/party/313/,1998,1998,1,1,1998,26.3,http://en.wikipedia.org/wiki/Slovak_Democratic_Coalition
 1072,SVK,SNS,Slovak National Party,Slovenská národná strana,right,http://www.parlgov.org/explore/svk/party/1072/,1990,2020,8,10,1990,13.9,http://en.wikipedia.org/wiki/Slovak_National_Party
-2623,SVK,SR,We are family -- Boris Kollar,Sme Rodina – Boris Kollár,right,http://www.parlgov.org/explore/svk/party/2623/,2016,2020,1,2,2020,8.2,https://en.wikipedia.org/wiki/We_Are_Family_%28Slovakia%29
+2623,SVK,SR,We are family -- Boris Kollar,Sme Rodina – Boris Kollár,right,http://www.parlgov.org/explore/svk/party/2623/,2016,2020,2,2,2020,8.2,https://en.wikipedia.org/wiki/We_Are_Family_%28Slovakia%29
 220,SVK,Smer,Direction -- Social Democracy,Smer – sociálna demokracia,soc,http://www.parlgov.org/explore/svk/party/220/,2002,2020,5,6,2012,44.4,http://en.wikipedia.org/wiki/Party_Direction_-_Third_Way
 64,SVK,SDA,Social Democratic Alternative,Sociálnodemokratická alternatíva,soc,http://www.parlgov.org/explore/svk/party/64/,2002,2002,,1,2002,1.8,http://en.wikipedia.org/wiki/Social_Democratic_Alternative
 1651,SVK,SDSS,Social Democratic Party of Slovakia,Sociálnodemokratická strana Slovenska,soc,http://www.parlgov.org/explore/svk/party/1651/,1990,2014,,2,1992,4,http://en.wikipedia.org/wiki/Social_Democratic_Party_of_Slovakia
@@ -1320,7 +1343,7 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2235,SVK,SZ-92,Green Party -- 1992,Strana zelených – 1992,eco,http://www.parlgov.org/explore/svk/party/2235/,1992,1992,,1,1992,1.1,http://sk.wikipedia.org/wiki/Vo%C4%BEby_do_Slovenskej_n%C3%A1rodnej_rady_v_roku_1992
 1061,SVK,VPN,Public against Violence,Verejnosť proti násiliu,lib,http://www.parlgov.org/explore/svk/party/1061/,1990,1992,2,2,1990,29.4,http://en.wikipedia.org/wiki/Public_Against_Violence
 2798,SVK,V,Homeland,Vlasť,right,http://www.parlgov.org/explore/svk/party/2798/,2020,2020,,1,2020,2.9,https://sk.wikipedia.org/wiki/VLAS%C5%A4
-2796,SVK,ZAL,For the People,Za ľudí,lib,http://www.parlgov.org/explore/svk/party/2796/,2020,2020,1,1,2020,5.8,https://en.wikipedia.org/wiki/For_the_People_(Slovakia)
+2796,SVK,ZAL,For the People,Za ľudí,lib,http://www.parlgov.org/explore/svk/party/2796/,2020,2020,2,1,2020,5.8,https://en.wikipedia.org/wiki/For_the_People_(Slovakia)
 1563,SVK,ZRS,Association of Workers of Slovakia,Združenie robotníkov Slovenska,com,http://www.parlgov.org/explore/svk/party/1563/,1994,1998,1,2,1994,7.3,http://en.wikipedia.org/wiki/Union_of_the_Workers_of_Slovakia
 2013,SVK,ZZ,"Change from the Bottom, DU","Zmena zdola, DÚ",lib,http://www.parlgov.org/explore/svk/party/2013/,2012,2012,,1,2012,1.3,"https://sk.wikipedia.org/wiki/Zmena_zdola,_Demokratická_únia_Slovenska"
 2338,SVN,PSS,Slovenian Pirate Party, Piratska stranka Slovenije,spec,http://www.parlgov.org/explore/svn/party/2338/,2014,2018,,2,2018,2.1,http://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
@@ -1340,12 +1363,12 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2668,SVN,LMS,List of Marjan Sarec,Lista Marjana Šarca,soc,http://www.parlgov.org/explore/svn/party/2668/,2018,2019,1,1,2018,12.6,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
 1987,SVN,LZJ-PS,Zoran Jankovic's List -- Positive Slovenia,Lista Zorana Jankovića – Pozitivna Slovenija,soc,http://www.parlgov.org/explore/svn/party/1987/,2011,2014,1,2,2011,28.5,http://en.wikipedia.org/wiki/Positive_Slovenia
 2573,SVN,NDS,National Democratic Party,Narodno demokratska stranka,con,http://www.parlgov.org/explore/svn/party/2573/,1992,1992,,1,1992,2.2,https://en.wikipedia.org/wiki/National_Democratic_Party_%28Slovenia%29
-1047,SVN,NSI,New Slovenia -- Christian People's Party,Nova Slovenija – Krščanska ljudska stranka,chr,http://www.parlgov.org/explore/svn/party/1047/,1990,2019,7,9,1992,14.5,http://en.wikipedia.org/wiki/New_Slovenia_Christian_People%27s_Party
+1047,SVN,NSI,New Slovenia -- Christian People's Party,Nova Slovenija – Krščanska ljudska stranka,chr,http://www.parlgov.org/explore/svn/party/1047/,1990,2019,8,9,1992,14.5,http://en.wikipedia.org/wiki/New_Slovenia_Christian_People%27s_Party
 2755,SVN,Pose,Let's Unite,Povežimo se,eco,http://www.parlgov.org/explore/svn/party/2755/,2019,2019,,1,2019,1.7,""
 2385,SVN,SS,Dream Job,Sanjska služba,eco,http://www.parlgov.org/explore/svn/party/2385/,2014,2014,,1,2014,3.5,""
 2019,SVN,SO,Slovenia is Ours,Slovenija je naša,spec,http://www.parlgov.org/explore/svn/party/2019/,2004,2004,,1,2004,2.6,http://en.wikipedia.org/wiki/Slovenia_is_ours
 1371,SVN,SDZ,Slovenian Democratic Union,Slovenska demokratična zveza,lib,http://www.parlgov.org/explore/svn/party/1371/,1990,1990,1,1,1990,9.5,http://en.wikipedia.org/wiki/Slovenian_Democratic_Union
-179,SVN,SDS,Slovenian Democratic Party,Slovenska demokratska stranka,chr,http://www.parlgov.org/explore/svn/party/179/,1990,2019,7,9,2008,29.3,http://en.wikipedia.org/wiki/Social_Democratic_Party_of_Slovenia
+179,SVN,SDS,Slovenian Democratic Party,Slovenska demokratska stranka,chr,http://www.parlgov.org/explore/svn/party/179/,1990,2019,8,9,2008,29.3,http://en.wikipedia.org/wiki/Social_Democratic_Party_of_Slovenia
 16,SVN,SLS,Slovenian People's Party,Slovenska ljudska stranka,chr,http://www.parlgov.org/explore/svn/party/16/,1990,2018,7,9,1996,19.4,http://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 981,SVN,SNS,Slovenian National Party,Slovenska nacionalna stranka,code,http://www.parlgov.org/explore/svn/party/981/,1992,2019,,8,1992,10,http://en.wikipedia.org/wiki/Slovenian_National_Party
 875,SVN,SOS,Slovenian Liberal Party,Slovenska obrtniöka stranka,lib,http://www.parlgov.org/explore/svn/party/875/,1990,1992,1,2,1990,3.5,https://sl.wikipedia.org/wiki/Socialna_liberalna_stranka
@@ -1355,7 +1378,7 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 2386,SVN,S,Solidarity,Solidarnost ,soc,http://www.parlgov.org/explore/svn/party/2386/,2014,2014,,1,2014,1.7,http://sl.wikipedia.org/wiki/Solidarnost_%28politi%C4%8Dna_stranka%29
 1946,SVN,LIPA,Party Lime Tree,Stranka Lipa,right,http://www.parlgov.org/explore/svn/party/1946/,2008,2008,,1,2008,1.8,http://en.wikipedia.org/wiki/Lipa_(political_party)
 1512,SVN,SMS,Youth Party of Slovenia,Stranka mladih Slovenije,eco,http://www.parlgov.org/explore/svn/party/1512/,2000,2009,,2,2000,4.3,http://en.wikipedia.org/wiki/Youth_Party_of_Slovenia
-2333,SVN,SMC,Modern Center Party,Stranka modernega,soc,http://www.parlgov.org/explore/svn/party/2333/,2014,2019,3,2,2014,34.5,http://en.wikipedia.org/wiki/Party_of_Miro_Cerar
+2333,SVN,SMC,Modern Center Party,Stranka modernega,soc,http://www.parlgov.org/explore/svn/party/2333/,2014,2019,4,2,2014,34.5,http://en.wikipedia.org/wiki/Party_of_Miro_Cerar
 2244,SVN,SN,Party of Independence,Stranka neodvisnih,code,http://www.parlgov.org/explore/svn/party/2244/,1992,1992,,1,1992,1.4,"http://en.wikipedia.org/wiki/Slovenian_parliamentary_election,_1992"
 1989,SVN,TRS,Party for Sustainable Development of Slovenia,Stranka za trajnostni razvoj Slovenije,soc,http://www.parlgov.org/explore/svn/party/1989/,2011,2011,,1,2011,1.2,http://sl.wikipedia.org/wiki/Stranka_za_trajnostni_razvoj_Slovenije
 2384,SVN,V,I Believe ,Verjamem,soc,http://www.parlgov.org/explore/svn/party/2384/,2014,2014,,1,2014,10.3,http://en.wikipedia.org/wiki/Verjamem
@@ -1372,12 +1395,12 @@ party_id,country,party_name_short,party_name_english,party_name,family,url,first
 404,SWE,Jl,June List,Junilistan,spec,http://www.parlgov.org/explore/swe/party/404/,2004,2009,,2,2004,14.5,http://en.wikipedia.org/wiki/Junilistan
 282,SWE,KD,Christian Democrats,Kristdemokraterna,chr,http://www.parlgov.org/explore/swe/party/282/,1964,2019,3,17,1998,11.8,http://en.wikipedia.org/wiki/Christian_Democrats_%28Sweden%29
 802,SWE,MbS,Citizens Coalition,Medborgerlig samling,con,http://www.parlgov.org/explore/swe/party/802/,1964,1968,,2,1968,1.7,https://sv.wikipedia.org/wiki/Medborgerlig_samling_(1964–1968)
-1154,SWE,MP,Greens,Miljöpartiet de Gröna,eco,http://www.parlgov.org/explore/swe/party/1154/,1982,2019,3,11,2010,7.3,http://en.wikipedia.org/wiki/Milj%C3%B6partiet_de_Gr%C3%B6na
+1154,SWE,MP,Greens,Miljöpartiet de Gröna,eco,http://www.parlgov.org/explore/swe/party/1154/,1982,2019,4,11,2010,7.3,http://en.wikipedia.org/wiki/Milj%C3%B6partiet_de_Gr%C3%B6na
 657,SWE,M,Moderate Party,Moderaterna,con,http://www.parlgov.org/explore/swe/party/657/,1911,2019,11,34,1914,37.7,http://en.wikipedia.org/wiki/Moderate_Party
 2608,SWE,NP-AV,National Party [General Electoral League],Nationella partiet [Allmänna Valmansförbundet],con,http://www.parlgov.org/explore/swe/party/2608/,,,3,,,,https://en.wikipedia.org/wiki/National_Party_%28Sweden%29
 951,SWE,NyD,New Democracy,Ny Demokrati,right,http://www.parlgov.org/explore/swe/party/951/,1991,1994,,2,1991,6.7,http://en.wikipedia.org/wiki/Ny_Demokrati
 1806,SWE,SJ,Sarajevo List,Sarajevolistan,spec,http://www.parlgov.org/explore/swe/party/1806/,1995,1995,,1,1995,1,http://en.wikipedia.org/wiki/Sarajevo_List
-904,SWE,SAP,Social Democrats,Socialdemokraterna,soc,http://www.parlgov.org/explore/swe/party/904/,1911,2019,36,34,1940,53.8,http://en.wikipedia.org/wiki/Socialdemokratiska_arbetarepartiet
+904,SWE,SAP,Social Democrats,Socialdemokraterna,soc,http://www.parlgov.org/explore/swe/party/904/,1911,2019,38,34,1940,53.8,http://en.wikipedia.org/wiki/Socialdemokratiska_arbetarepartiet
 2478,SWE,SP,Socialist Party ,Socialistiska partiet,com,http://www.parlgov.org/explore/swe/party/2478/,1932,1944,,4,1932,5.3,"http://en.wikipedia.org/wiki/Socialist_Party_%28Sweden,_1929%29"
 2557,SWE,SSV-21,Social Democratic Left Party of Sweden -- 1921,Sverges Socialdemokratiska Vänsterparti – 1921,com,http://www.parlgov.org/explore/swe/party/2557/,1921,1921,,1,1921,3.2,https://en.wikipedia.org/wiki/Social_Democratic_Left_Party_of_Sweden_%281921%29
 1546,SWE,SD,Sweden Democrats,Sverigedemokraterna,right,http://www.parlgov.org/explore/swe/party/1546/,1999,2019,,5,2018,17.5,http://en.wikipedia.org/wiki/Sweden_Democrats
