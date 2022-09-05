@@ -22,7 +22,7 @@ wp <- wp_raw %>%
   ) %>%
   select(
     country, partyfacts_id, starts_with("name"),
-    position, year_first:share_year, tags
+    left_right, year_first:share_year, tags
   )
 
 write_csv(wp, "wptags.csv", na = "")
