@@ -1,0 +1,1219 @@
+country,type,party_abbreviation,party_native,party_english,partyfacts_id,election_years,party_id,dup
+AUT,parliament,BZO,Bundnis Zukunft Osterreich,Alliance for the Future of Austria,599,"2006, 2008, 2013",AUT-BZO,FALSE
+AUT,parliament,FPO,Freiheitliche Partei Osterreichs,Freedom Party of Austria,463,"1990, 1994, 1995,
+2002, 2006, 2008,
+2013, 2017, 2019",AUT-FPO,FALSE
+AUT,parliament,FRANK,Team Stronach,Team Stronach,1971,2013,AUT-FRANK,FALSE
+AUT,parliament,FRITZ,Burgerforum Osterreich - Liste Fritz Dinkhauser,The Citizens`Forum Austria,439,2008,AUT-FRITZ,FALSE
+AUT,parliament,GRUNE,Die Grunen - Die grune Alternative,The Greens -- The Green Alternative,1659,"1990, 1994, 1995,
+2002, 2006, 2008,
+2013, 2017, 2019",AUT-GRUNE,FALSE
+AUT,parliament,KPO,Kommunistische Partei Osterreichs,Communist Party of Austria,996,"2006, 2013",AUT-KPO,FALSE
+AUT,parliament,LIF,Liberales Forum,Liberal Forum,605,"1994, 1995, 2008",AUT-LIF,FALSE
+AUT,parliament,MARTIN,Liste Dr. Hans-Peter Martin,Hans-Peter Martin's List,1708,2006,AUT-MARTIN,FALSE
+AUT,parliament,NEIN,Nein - Burgerinitiative gegen die EU Mitgliedschaft,No -- Citizens' Initiative against EU membership,1678,1995,AUT-NEIN,FALSE
+AUT,parliament,NEOS,NEOS - Das Neue Osterreich,NEOS – The New Austria,1970,"2013, 2017, 2019",AUT-NEOS,FALSE
+AUT,parliament,OVP,Osterreichische Volkspartei,Austrian People's Party,1329,"1990, 1994, 1995,
+2002, 2006, 2008,
+2013, 2017, 2019",AUT-OVP,FALSE
+AUT,parliament,PILZ,Liste Peter Pilz,Peter Pilz List,6137,2017,AUT-PILZ,FALSE
+AUT,parliament,SPO,Sozialdemokratische Partei Osterreichs,Social Democratic Party of Austria,1384,"1990, 1994, 1995,
+2002, 2006, 2008,
+2013, 2017, 2019",AUT-SPO,FALSE
+AUT,parliament,VGO,Vereinte Grune Osterreichs,United Greens Austria,1170,1990,AUT-VGO,FALSE
+AUT,ep,N,Die Neutralen - Burgerinitiative,"Citizens' Initiative for the retention of
+neutrality",1814,1996,AUT-N,FALSE
+AUT,ep,REKOS,Die Reformkonservative n,The Reform Conservatives,2991,2014,AUT-REKOS,FALSE
+BEL,parliament,CD&V,Christen- Democratisch & Vlaams / Nieuw- Vlaams Alliantie,Christian-Democrat and Flemish / New Flemish Alliance,756,"1991, 1995, 1999,
+2003, 2007, 2010,
+2014, 2019",BEL-CD&V,FALSE
+BEL,parliament,CDH,Centre democrate humaniste,Humanist Democratic Centre,2338,"1991, 1995, 1999,
+2003, 2007, 2010,
+2014, 2019",BEL-CDH,FALSE
+BEL,parliament,ECOLO,Ecologistes Confederes pour l’organisation de luttes originales,Confederated ecologists for the organisation of original struggles,1563,"1991, 1995, 1999,
+2003, 2007, 2010,
+2014, 2019",BEL-ECOLO,FALSE
+BEL,parliament,FDF,Democratic Front of Francophones,Front Démocratique des Francophones / DéFI,698,"1991, 2014, 2019",BEL-FDF,FALSE
+BEL,parliament,FN,Front National,National Front,191,"1995, 1999, 2003,
+2007",BEL-FN,FALSE
+BEL,parliament,GROEN!,Agalev – Groen,Agalev – Green,528,"1991, 1995, 1999,
+2003, 2007, 2010,
+2014, 2019",BEL-GROEN!,FALSE
+BEL,parliament,LDD,"Lijst Dedecker / Libertair, Direct, Democratisch","List Dedecker / Libertarian, Direct, Democratic",43,"2007, 2010",BEL-LDD,FALSE
+BEL,parliament,MR,Mouvement Reformateur,Reformist Movement,789,"1991, 1995, 1999,
+2003, 2007, 2010,
+2014, 2019",BEL-MR,FALSE
+BEL,parliament,N-VA,Nieuw-Vlaamse Alliantie,New Flemish Alliance,36,"1991, 1995, 1999,
+2003, 2010, 2014,
+2019",BEL-N-VA,FALSE
+BEL,parliament,OPENVLD,Partij voor Vrijheid en Vooruitgang – Open Vlaamse Liberalen en Democraten,Party of Liberty and Progress – Open Flemish Liberals and Democrats,49,"1991, 1995, 1999,
+2003, 2007, 2010,
+2014, 2019",BEL-OPENVLD,FALSE
+BEL,parliament,PAPTB,Partij van de Arbeid van Belgie – Parti du Travail de Belgique,Worker’s Party of Belgium,1753,"2014, 2019",BEL-PAPTB,FALSE
+BEL,parliament,PARTI POPULAIRE,Parti populair’,People's Party,639,"2010, 2014, 2019",BEL-PARTI POPULAIRE,FALSE
+BEL,parliament,PS,Parti Socialiste,Socialist Party [Francophone],500,"1991, 1995, 1999,
+2003, 2007, 2010,
+2014, 2019",BEL-PS,FALSE
+BEL,parliament,ROSSEM,Radikale Omvormers Strijdersen Stubbelaars vor Maatschappij,Radical Reformers Fighting for an Upright Society,1016,1991,BEL-ROSSEM,FALSE
+BEL,parliament,SPBP,Socialistische Partij Anders,Socialist Party Differently,1680,"1991, 1995, 1999,
+2003, 2007, 2010,
+2014, 2019",BEL-SPBP,FALSE
+BEL,parliament,VB,Vlaams Belang,Flemish Interest,553,"1991, 1995, 1999,
+2003, 2007, 2010,
+2014, 2019",BEL-VB,FALSE
+BEL,parliament,VIVANT,Vivant,Alive,76,"1999, 2003",BEL-VIVANT,FALSE
+BEL,ep,CD&V N-VA,"Christen-Democratisch & Vlaams / Nieuw-
+Vlaams Alliantie",Christian-Democrat and Flemish / New Flemish Alliance,756,2004,BEL-CD&V N-VA,FALSE
+BEL,ep,OpenVLD,Partij voor Vrijheid en Voor–itgang - Open Vlaamse Liberalen en Democraten,Party of Liberty and P–ogress - Open Flemish Liberals and Democrats,49,"1994, 1999, 2009,
+2014, 2019",BEL-OpenVLD,FALSE
+BEL,ep,PRL-FDF,Parti Reformateur – iberal - Front Democratique des Francophones,Liberal Reformatio– Party - Francophone Democratic Front,8259,"1994, 1999",BEL-PRL-FDF,FALSE
+BEL,ep,SP,Socialistische Partij Anders,Socialist Party Differently,1680,"1994, 1999, 2009,
+2014, 2019",BEL-SP,FALSE
+BEL,ep,SP.A-Spirit,Socialistische Partij Anders / Sociaal- Liberale Partij / Spirit,Socialist Party Different / Social Liberal Party / Spirit,1586,2004,BEL-SP.A-Spirit,FALSE
+BEL,ep,VU,Volksunie [Vlaamse Concentratie’,People's Union [Flemish Concentration],1424,"1994, 1999",BEL-VU,FALSE
+BEL,ep,WOW,Waardig Ouder Worden,Growing Old in Dignity,1544,1994,BEL-WOW,FALSE
+BGR,parliament,ABC,Alternativa za balgarsko vazrazhdane,Alternative for Bulgarian Revival,3187,2014,BGR-ABC,FALSE
+BGR,parliament,ATAKA,Natsionalen Sayuz Ataka,National Union Attack,1793,"2005, 2009, 2013,
+2014",BGR-ATAKA,FALSE
+BGR,parliament,BNS,Balgarski Naroden Sajuz,Bulgarian People's Union,263,2005,BGR-BNS,FALSE
+BGR,parliament,C-FD,Center-svoboda i dostojnstvo,Center-Freedom and Dignity,4095,2013,BGR-C-FD,FALSE
+BGR,parliament,CP,Balgarija bes Zensura,Bulgaria without Censorship,3188,2014,BGR-CP,FALSE
+BGR,parliament,DBG,"Dvizhenie ""Bulgariya na grazhdanite""",Bulgaria for Citizens Movement,2058,2013,BGR-DBG,FALSE
+BGR,parliament,DOST ALL.,"Demokrati za Otgovornost, Svoboda i Tolerantnost","Democrats for Responsibility, Solidarity and Tolerance",5860,2017,BGR-DOST ALL.,FALSE
+BGR,parliament,DPS,Dvizhenie za prava i svobodi,Movement for Rights and Freedoms,982,"2005, 2009, 2013,
+2014, 2017",BGR-DPS,FALSE
+BGR,parliament,DSB,Demokrati za Silna Balgarija,Democrats for a Strong Bulgaria,1195,2005,BGR-DSB,FALSE
+BGR,parliament,GERB,Grazhdani za evropeysko razvitie na Balgariya,Citizens for European Development of Bulgaria,760,"2009, 2013, 2014,
+2017",BGR-GERB,FALSE
+BGR,parliament,IMRO-BNP,VMRO - Bulgarsko Natsionalno Dvizhenie,IMRO -- Bulgarian National Movement,2056,2013,BGR-IMRO-BNP,FALSE
+BGR,parliament,IMRO/NFSB,Patriotichen front,Patriotic Front,5649,2014,BGR-IMRO/NFSB,FALSE
+BGR,parliament,IMRO/NFSB/ATTAKA,Obedineni Patrioti,United Patriots,6115,2017,BGR-IMRO/NFSB/ATTAKA,FALSE
+BGR,parliament,KB,Koalicija za Balgarija - Koalicija za Balgarija,"Coalition for Bulgaria
+-- Democratic Left",1665,"2014, 2017, 2005,
+2009, 2013",BGR-KB,FALSE
+BGR,parliament,LIDER,Lider,Lider,265,"2009, 2013",BGR-LIDER,FALSE
+BGR,parliament,"MOVEMENT ""YES, BULGARIA""",Da Bulgaria,"Yes, Bulgaria!",5861,2017,"BGR-MOVEMENT ""YES, BULGARIA""",FALSE
+BGR,parliament,NDSV,Nacionalno dvizenie (Simeon Vtori) za stabilnost i vazhod,National Movement (Simeon II) for Stability and Progress,374,"2005, 2009",BGR-NDSV,FALSE
+BGR,parliament,NFSB,Natzionalen Front za Spasenie na Bulgaria,National Front for the Salvation of Bulgaria,2057,2013,BGR-NFSB,FALSE
+BGR,parliament,NV,Hoboto Bpeme,New Times,2022,2005,BGR-NV,FALSE
+BGR,parliament,ODS,Obedineni Demokratichni Sili,United Democratic Forces,1183,2005,BGR-ODS,FALSE
+BGR,parliament,PV,People's Voice,People's Voice,2024,2013,BGR-PV,FALSE
+BGR,parliament,RB,Reformatorski Blok,Reformist Bloc,3189,"2014, 2017",BGR-RB,FALSE
+BGR,parliament,RZS,"Red, zakonnost i spravedlivost","Order, Law and Justice",272,"2009, 2013",BGR-RZS,FALSE
+BGR,parliament,SDS,Sayuz na Demokratichni Sili,Union of Democratic Forces,482,2013,BGR-SDS,FALSE
+BGR,parliament,SINIATA,Sinyata koalitsia,Blue Coalition,58,2009,BGR-SINIATA,FALSE
+BGR,parliament,VOLYA,Volya,Will,5863,2017,BGR-VOLYA,FALSE
+BGR,ep,BBT,Balgarija bes Zensura,Bulgaria without Censorship,3188,2014,BGR-BBT,FALSE
+BGR,ep,BSP/KB,Koalicija za Balgarija - Koalicija za Balgarija,"Coalition for Bulgaria
+- Democratic Left",1665,"2014, 2019",BGR-BSP/KB,FALSE
+BGR,ep,IMRO,VMRO - Bulgarsko Natsionalno Dvizhenie,IMRO - Bulgarian National Movement,2056,"2009, 2019",BGR-IMRO,FALSE
+BGR,ep,Lider,Lider,Lider,265,2009,BGR-Lider,FALSE
+BGR,ep,Sinyata,Sinyata koalitsia,Blue Coalition,58,2009,BGR-Sinyata,FALSE
+BGR,ep,ZNS,Zemedelski Naroden Suyuz,Agrarian People's Union,747,2007,BGR-ZNS,FALSE
+HRV,parliament,EVEN STRONGER ISTRIA,Even Stronger Istria Coalition,Even Stronger Istria Coalition,3918,2016,HRV-EVEN STRONGER ISTRIA,FALSE
+HRV,parliament,FOR PRIME MINISTER,For Prime Minister Coalition,For Prime Minister Coalition,3918,2016,HRV-FOR PRIME MINISTER,FALSE
+HRV,parliament,HDSSB,Hrvatski demokratski savez Slavonije i Baranje,Croatian Democratic Alliance of Slavonia and Baranja,2347,"2011, 2015",HRV-HDSSB,FALSE
+HRV,parliament,HDZ,Hrvatska demokratska zajednica,Croatian Democratic Union,1431,"2011, 2016, 2020",HRV-HDZ,FALSE
+HRV,parliament,HDZ-DC,Hrvatska demokratska zajednica,Croatian Democratic Union,1431,2011,HRV-HDZ-DC,FALSE
+HRV,parliament,HDZ-HDS,Hrvatska demokratska zajednica - Hrvatska demokrscanska stranka,Croatian Democratic Union - Croatian Demochristian Party,1431,2020,HRV-HDZ-HDS,FALSE
+HRV,parliament,HDZ-HGS,Hrvatska demokratska zajednica,Croatian Democratic Union,1431,2011,HRV-HDZ-HGS,FALSE
+HRV,parliament,HDZ-HSLS,Hrvatska demokratska zajednica,Croatian Democratic Union,1431,"2016, 2020",HRV-HDZ-HSLS,FALSE
+HRV,parliament,HSLS,Hrvatska socijalno liberalna stranka,Croatian Social Liberal Party,214,2011,HRV-HSLS,FALSE
+HRV,parliament,HSP,Hrvatska stranka prava,Croatian Party of Rights,253,2011,HRV-HSP,FALSE
+HRV,parliament,HSS,Hrvatska seljacka stranka,Croatian Peasant Party,72,2011,HRV-HSS,FALSE
+HRV,parliament,INDEPENDENT,independent,independent,2650,2011,HRV-INDEPENDENT,FALSE
+HRV,parliament,KUKURIKU,Kukuriku koalicija,Kukuriku Coalition,2522,"2015, 2011, 2016,
+2020",HRV-KUKURIKU,FALSE
+HRV,parliament,LABOUR AND SOLIDARITY,Milan Bandic 365 - Stranka rada i solidarnosti,Milan Bandic 365 -- The Party of Labour and Solidarity,5452,2015,HRV-LABOUR AND SOLIDARITY,FALSE
+HRV,parliament,LABURISTI,Hrvatski laburisti - Stranka rada,Croatian Labourists – Labour Party,3143,2011,HRV-LABURISTI,FALSE
+HRV,parliament,MOST,Most nezavisnih lista,Bridge of Independent Lists,4865,"2015, 2016, 2020",HRV-MOST,FALSE
+HRV,parliament,ORAH,Odrzivi razvoj Hrvatske,Sustainable Development of Croatia,3201,2015,HRV-ORAH,FALSE
+HRV,parliament,PATRIOTIC,Domoljubna koalicija,Patriotic Coalition,3918,2015,HRV-PATRIOTIC,FALSE
+HRV,parliament,THE ONLY OPTION,The Only Option Coalition,The Only Option Coalition,3918,2016,HRV-THE ONLY OPTION,FALSE
+HRV,parliament,ZIVI ZID,Zivi zid,Human Shield,4867,2015,HRV-ZIVI ZID,FALSE
+HRV,ep,AM,Akcija mladih,Youth Action,3136,2013,HRV-AM,FALSE
+HRV,ep,BM 365,Bandic Milan 365 - Stranka rada i solidarnosti,Milan Bandic 365 - The Party of Labour and Solidarity,5452,2019,HRV-BM 365,FALSE
+HRV,ep,HNS,Hrvatska narodna stranka - Liberalni Demokrati,Croatian People's Party - Liberal Democrats,799,2019,HRV-HNS,FALSE
+HRV,ep,HRAST,Hrvatski rast,Croatian Growth,3138,2013,HRV-HRAST,FALSE
+HRV,ep,Independent,independent,independent,2650,"2013, 2019",HRV-Independent,FALSE
+HRV,ep,ORaH,Odrzivi razvoj Hrvatske,"Sustainable
+Development of Croatia",3201,2014,HRV-ORaH,FALSE
+HRV,ep,SDP,Socijaldemokratska partija Hrvatske,Social Democratic Party of Croatia,1475,2019,HRV-SDP,FALSE
+HRV,ep,SDSS,Samostalna demokratska srpska stranka,Independent Democratic Serb Party,2348,2019,HRV-SDSS,FALSE
+HRV,ep,SU,"Hrvatska stranka
+umirovljenika","Croatian Party of
+Pensioners",2062,2013,HRV-SU,FALSE
+HRV,ep,ZELENI ZAJEDNO,Zeleni Zajedno,Greens Together,3137,2013,HRV-ZELENI ZAJEDNO,FALSE
+CYP,parliament,ADIK,Agonistiko Dimokratiko Kinima,Fighting Democratic Movement,1625,"1991, 1996, 2001",CYP-ADIK,FALSE
+CYP,parliament,AKEL,Anorthotiko Komma Ergazomenou Laou,Progressive Party of Working People,1076,"1991, 1996, 2001,
+2006, 2011, 2016",CYP-AKEL,FALSE
+CYP,parliament,APC,Kinima gia ta zoa tis Kiprou,Animal Party Cyprus,4884,2016,CYP-APC,FALSE
+CYP,parliament,DIKO,Dimokratiko Komma,Democratic Party,635,"1991, 1996, 2001,
+2006, 2011, 2016",CYP-DIKO,FALSE
+CYP,parliament,DISY,Dimokratikos Sinayermos,Democratic Rally,563,"1991, 1996, 2001,
+2006, 2011, 2016",CYP-DISY,FALSE
+CYP,parliament,ED,Enomeni Dimokrates,United Democrats,321,"2001, 2006, 1996",CYP-ED,FALSE
+CYP,parliament,EDEK,Kinima Sosialdimokraton EDEK,Movement for Social Democracy EDEK,1028,"1991, 1996, 2001,
+2006, 2011, 2016",CYP-EDEK,FALSE
+CYP,parliament,ELAM,Ethniko Laiko Metopo,National Popular Front,1013,"2011, 2016",CYP-ELAM,FALSE
+CYP,parliament,EURO.KO,Evropaiko Komma,European Party,1817,"2006, 2011",CYP-EURO.KO,FALSE
+CYP,parliament,KEP,K.E.P,Free Citizens Movement,1066,2006,CYP-KEP,FALSE
+CYP,parliament,KOP,Kinima Oikologoi Perivallontistoi,Ecological and Environmental Movement,858,"1996, 2001, 2006,
+2011, 2016",CYP-KOP,FALSE
+CYP,parliament,NO,Neoi Orizontes,New Horizons,1191,"1996, 2001",CYP-NO,FALSE
+CYP,parliament,SOLIDARITY,Kinima Allileggiis,Solidarity Movement,4883,2016,CYP-SOLIDARITY,FALSE
+CYP,parliament,SYPOL,Symmaxia,Citizen's Alliance,3117,2016,CYP-SYPOL,FALSE
+CYP,ep,GTE,Evropaiki Dimokratia / Gia tin Evropi,European Democracy / For Europe,697,2004,CYP-GTE,FALSE
+CYP,ep,Independent,independent,independent,2652,2014,CYP-Independent,FALSE
+CYP,ep,Jasmine Movement,1 percent,1 percent,2654,2019,CYP-Jasmine Movement,FALSE
+CYP,ep,MESSAGE OF HOPE,Minima Elpidas,Message of Hope,3116,2014,CYP-MESSAGE OF HOPE,FALSE
+CZE,parliament,ANO,Akce nespokojenych obcanu,Action of Dissatisfied Citizens,2141,"2013, 2017",CZE-ANO,FALSE
+CZE,parliament,CSSD,Ceska strana socialne demokraticka,Czech Social Democratic Party,177,"2002, 2006, 2010,
+2013, 2017",CZE-CSSD,FALSE
+CZE,parliament,KDU-CSL,Krestanska a demokraticka unie / Ceskoslovenska strana lidova,Christian Democratic Union / People's Party,676,"2002, 2006, 2010,
+2013, 2017",CZE-KDU-CSL,FALSE
+CZE,parliament,KSCM,Komunisticka strana Cech a Moravy,Communist Party of Bohemia and Moravia,1728,"2002, 2006, 2010,
+2013, 2017",CZE-KSCM,FALSE
+CZE,parliament,ODS,Obcanska demokraticka strana,Civic Democratic Party,466,"2002, 2006, 2010,
+2013, 2017",CZE-ODS,FALSE
+CZE,parliament,PIRATI,Ceska piratska strana,Czech Pirate Party,2047,"2013, 2017",CZE-PIRATI,FALSE
+CZE,parliament,SNK,Sdruzeni nezavislych,Association of Independents,884,2002,CZE-SNK,FALSE
+CZE,parliament,SNK ED,SNK Evropsti demokrate,SNK European Democrats,751,2006,CZE-SNK ED,FALSE
+CZE,parliament,SPD,Svoboda a prima demokracie,Freedom and Direct Democracy,6125,2017,CZE-SPD,FALSE
+CZE,parliament,SPOZ,Strana Prav Obcanu - Zemanovci / Strana Prav Obcanu,Party of Civic Rights - Zeman's people / Party of Civic Rights,1272,"2010, 2013",CZE-SPOZ,FALSE
+CZE,parliament,STAN,Starostove a Nezavisli - Vase Alternativa,Mayors and Independents -- Your Option,1707,2017,CZE-STAN,FALSE
+CZE,parliament,SUVEREN.,Suverenita - blok Jany Bobosikove,Sovereignty - Jana Bobosikova Bloc,293,2010,CZE-SUVEREN.,FALSE
+CZE,parliament,SVOBODNI,Strana svobodnych obcanu,Party of Free Citizens,254,"2013, 2017",CZE-SVOBODNI,FALSE
+CZE,parliament,SZ,Strana zelenych,Green Party,1554,"2002, 2006, 2010,
+2013, 2017",CZE-SZ,FALSE
+CZE,parliament,TOP 9.00,Tradice Odpovednost Prosperita 09,Tradition Responsibility Prosperity 09,223,"2013, 2017, 2010",CZE-TOP 9.00,FALSE
+CZE,parliament,USVIT,Usvit prime demokracie,Dawn of Direct Democracy,2049,2013,CZE-USVIT,FALSE
+CZE,parliament,VV,Veci verejne,Public Affairs,1202,2010,CZE-VV,FALSE
+CZE,ep,DSSS,Delnicka strana socialni spravedlnosti,Workers' Party of Social Justice,805,2009,CZE-DSSS,FALSE
+CZE,ep,EDS,"Evropska demokraticka
+strana",European Democratic Party,165,2009,CZE-EDS,FALSE
+CZE,ep,H,Hlas,Voice,7337,2019,CZE-H,FALSE
+CZE,ep,KDU/CSL,Krestanska a demokraticka unie / Ceskoslovenska strana lidova,Christian Democratic Union / People's Party,676,"2004, 2009, 2014,
+2019",CZE-KDU/CSL,FALSE
+CZE,ep,PB,Pravy Blok,Right Bloc,904,2004,CZE-PB,FALSE
+CZE,ep,PI,"Ceska piratska
+strana",Czech Pirate Party,2047,"2014, 2019",CZE-PI,FALSE
+CZE,ep,S - JB,Suverenita - blok Jany Bobosikove,Sovereignty - Jana Bobosikova Bloc,293,2009,CZE-S - JB,FALSE
+CZE,ep,SN,Sdruzeni nezavislych,Association of Independents,884,2004,CZE-SN,FALSE
+CZE,ep,SN - VA,"Starostove a Nezavisli - Vase
+Alternativa","Mayors and Independents - Your
+Option",1707,2009,CZE-SN - VA,FALSE
+CZE,ep,SNK-ED,SNK Evropsti demokrate,SNK European Democrats,751,"2004, 2009",CZE-SNK-ED,FALSE
+CZE,ep,SSO,Strana svobodnych obcanu,Party of Free Citizens,254,"2009, 2014",CZE-SSO,FALSE
+CZE,ep,STRANA ZELENYCH,Strana zelenych,Green Party,1554,"2004, 2009, 2014",CZE-STRANA ZELENYCH,FALSE
+CZE,ep,SZU,Strana zdraveho rozumu,Party of Common Sense,8923,2014,CZE-SZU,FALSE
+CZE,ep,TOP09,Tradice Odpovednost Prosperita 09,Tradition Responsibility Prosperity 09,223,"2014, 2019",CZE-TOP09,FALSE
+CZE,ep,UPD,Usvit prime demokracie,Dawn of Direct Democracy,2049,2014,CZE-UPD,FALSE
+DNK,parliament,A,Alternativet,The Alternative,4070,"2015, 2019",DKN-A,FALSE
+DNK,parliament,CD,Centrumdemokrater ne,Centre Democrats,800,"1990, 1994, 1998,
+2001",DKN-CD,FALSE
+DNK,parliament,DF,Dansk Folkeparti,Danish Peoples Party,1022,"1998, 2001, 2005,
+2007, 2011, 2015,
+2019",DKN-DF,FALSE
+DNK,parliament,EL,Enhedslisten / De Rod-Gronne,Red-Green Alliance,1527,"1990, 1994, 1998,
+2001, 2005, 2007,
+2011, 2015, 2019",DKN-EL,FALSE
+DNK,parliament,FK,Faelles Kurs,Common Course,1676,1990,DKN-FK,FALSE
+DNK,parliament,FP,Fremskridtspartiet,Progress Party,1601,"1990, 1994, 1998",DKN-FP,FALSE
+DNK,parliament,K,Konservative Folkeparti,Conservative People's Party,536,"1990, 1994, 1998,
+2001, 2005, 2007,
+2011, 2015, 2019",DKN-K,FALSE
+DNK,parliament,KD,Kristeligt Folkeparti / Kristendemokraterne,Christian People's Party / Christian Democrats,53,"1990, 1994, 1998,
+2001, 2005, 2019",DKN-KD,FALSE
+DNK,parliament,LA,[Ny] Liberal Alliance,[New] Liberal Alliance,212,"2007, 2011, 2015,
+2019",DKN-LA,FALSE
+DNK,parliament,NB,Nye Borgerlige,The New Right,7339,2019,DKN-NB,FALSE
+DNK,parliament,RV,Det Radikale Venstre,Danish Social-Liberal Party / Radical Liberal Party,1507,"1990, 1994, 1998,
+2001, 2005, 2007,
+2011, 2015, 2019",DKN-RV,FALSE
+DNK,parliament,SD,Socialdemokraterne,Social Democrats,379,"1990, 1994, 1998,
+2001, 2005, 2007,
+2011, 2015, 2019",DKN-SD,FALSE
+DNK,parliament,SF,Socialistisk Folkeparti,Socialist Peoples Party,329,"1990, 1994, 1998,
+2001, 2005, 2007,
+2011, 2015, 2019",DKN-SF,FALSE
+DNK,parliament,SK,Stram Kurs,Hard Line,7338,2019,DKN-SK,FALSE
+DNK,parliament,V,Venstre,Liberal Party,1204,"1990, 1994, 1998,
+2001, 2005, 2007,
+2011, 2015, 2019",DKN-V,FALSE
+DNK,ep,ENH,Enhedslisten / De Rod-Gronne,Red-Green Alliance,1527,2019,DKN-ENH,FALSE
+DNK,ep,FmEC,Folkebevaegelsen mod EU,People's Movement against the EU,333,"1994, 1999, 2004,
+2009, 2014, 2019",DKN-FmEC,FALSE
+DNK,ep,JB,JuniBevaegelsen,June Movement,1421,"1994, 1999, 2004,
+2009",DKN-JB,FALSE
+DNK,ep,KF,Konservative Folkeparti,Conservative People's Party,536,"1994, 1999, 2004,
+2009, 2014, 2019",DKN-KF,FALSE
+DNK,ep,KrF,"Kristeligt Folkeparti
+/ Kristendemokratern e",Christian People's Party / Christian Democrats,53,"1994, 1999, 2004",DKN-KrF,FALSE
+EST,parliament,E200,Erakond Eesti 200,Estonia 200,7340,2019,EST-E200,FALSE
+EST,parliament,EE,Elurikkuse Erakond,Richness of Life,7341,2019,EST-EE,FALSE
+EST,parliament,EEKD,Eesti Kristlikud Demokraadid,Estonian Christian Democrats,790,2007,EST-EEKD,FALSE
+EST,parliament,EG,Erakonna Eestimaa Rohelised,Estonian Greens,1040,"2007, 2011, 2019",EST-EG,FALSE
+EST,parliament,EK,Eesti Keskerakond,Estonian Centre Party,533,"2003, 2007, 2011,
+2015, 2019",EST-EK,FALSE
+EST,parliament,EKRE,Eesti Konservatiivne Rahvaerakond,Conservative People’s Party,4094,"2015, 2019",EST-EKRE,FALSE
+EST,parliament,ER,Eesti Reformierakond,Estonian Reform Party,821,"2003, 2007, 2011,
+2015, 2019",EST-ER,FALSE
+EST,parliament,ERL,Eestimaa Rahvalliit,People's Union of Estonia,110,"2003, 2007, 2011",EST-ERL,FALSE
+EST,parliament,EV,Eesti Vabaerakond,Estonian Free Party,3271,"2015, 2019",EST-EV,FALSE
+EST,parliament,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,685,"2007, 2011, 2015,
+2019",EST-IRL,FALSE
+EST,parliament,ISAMAALIIT,Isamaaliit,Pro Patria Union,779,2003,EST-ISAMAALIIT,FALSE
+EST,parliament,KEUR,Konstitutsioonierako nd - Eestimaa Uhendatud Rahvapartei,Constitution Party -- Estonian United People's Party,18,2003,EST-KEUR,FALSE
+EST,parliament,RESP,Uhendus vabariigi eest / Res Publica,Union for the Republic / Res Publica Party,491,2003,EST-RESP,FALSE
+EST,parliament,SDE-MOODUKAT,Sotsiaaldemokraatlik Erakond - Moodukad,Social Democratic Party -- Moderates,1150,"2003, 2007, 2011,
+2015, 2019",EST-SDE-MOODUKAT,FALSE
+EST,ep,DEMOKRAADID,Eesti Kristlikud Demokraadid,Estonian Christian Democrats,790,2004,EST-DEMOKRAADID,FALSE
+EST,ep,EE200,Erakond Eesti 200,Estonia 200,7340,2019,EST-EE200,FALSE
+EST,ep,IE,Isamaaliit,Pro Patria Union,779,2019,EST-IE,FALSE
+EST,ep,IND.,independent,independent,2567,2004,EST-IND.,FALSE
+EST,ep,ISAMAA,Isamaaliit,Pro Patria Union,779,2004,EST-ISAMAA,FALSE
+EST,ep,KESK,Eesti Keskerakond,Estonian Centre Party,533,"2004, 2009, 2014,
+2019",EST-KESK,FALSE
+EST,ep,RAHVALIIT,Eestimaa Rahvalliit,People's Union of Estonia,110,2004,EST-RAHVALIIT,FALSE
+EST,ep,REF,Eesti Reformierakond,Estonian Reform Party,821,"2004, 2009, 2014,
+2019",EST-REF,FALSE
+EST,ep,RESPUBLICA,Uhendus vabariigi eest / Res Publica,"Union for the Republic / Res
+Publica Party",491,2004,EST-RESPUBLICA,FALSE
+EST,ep,RL,Eestimaa Rahvalliit,People's Union of Estonia,110,2009,EST-RL,FALSE
+EST,ep,ROH,Erakonna Eestimaa Rohelised,Estonian Greens,1040,2009,EST-ROH,FALSE
+EST,ep,SDE,"Sotsiaaldemokraatli k Erakond -
+Moodukad",Social Democratic Party - Moderates,1150,"2004, 2009, 2014,
+2019",EST-SDE,FALSE
+FIN,parliament,GREENS,Vihrea Liitto,Green League,479,"1987, 1991, 1995,
+1999, 2003, 2007,
+2011, 2015, 2019",FIN-GREENS,FALSE
+FIN,parliament,KD,Kristillisdemokraatit,"Christian Democrats
+/ League",703,"1983, 1987, 1991,
+1995, 1999, 2003,
+2007, 2011, 2015,
+2019",FIN-KD,FALSE
+FIN,parliament,KESK,Maalaisliitto / Keskusta,Agrarian Union / Centre Party,901,"1983, 1987, 1991,
+1995, 1999, 2003,
+2007, 2011, 2015,
+2019",FIN-KESK,FALSE
+FIN,parliament,KOK,Kansallinen Kokoomus,National Coalition Party,495,"1983, 1987, 1991,
+1995, 1999, 2003,
+2007, 2011, 2015,
+2019",FIN-KOK,FALSE
+FIN,parliament,LEFT,Vasemmistoliitto,Left Alliance,1044,"1983, 1987, 1991,
+1995, 1999, 2003,
+2007, 2011, 2015,
+2019",FIN-LEFT,FALSE
+FIN,parliament,PS,Perussuomalaiset,Finns Party,1689,"1983, 1987, 1991,
+1995, 2003, 2007,
+2011, 2015, 2019",FIN-PS,FALSE
+FIN,parliament,RKP,Ruotsalainen Kansanpuolue / Svenska Folkepartiet i Finland,Swedish People's Party of Finland,1229,"1983, 1987, 1991,
+1995, 1999, 2003,
+2007, 2011, 2015,
+2019",FIN-RKP,FALSE
+FIN,parliament,SDP,Suomen Sosialidemokraattine n Puolue,Social Democratic Party of Finland,1303,"1983, 1987, 1991,
+1995, 1999, 2003,
+2007, 2011, 2015,
+2019",FIN-SDP,FALSE
+FIN,parliament,SEP (1999),Suomen Elakelaisten Puolue,Finnish Pensioners’ Party,1573,1987,FIN-SEP (1999),FALSE
+FIN,ep,KIPU,"Kirjava ""Puolue"" - Elonkehan Puolesta",Ecological Party the Greens,1223,1999,FIN-KIPU,FALSE
+FIN,ep,NUORS,Nuorsuomalaiset,Young Finns,856,1996,FIN-NUORS,FALSE
+FIN,ep,VAS,Vasemmistoliitto,Left Alliance,1044,"1996, 1999, 2004,
+2009, 2014, 2019",FIN-VAS,FALSE
+FIN,ep,VEU,Vaihtoehto EU:Lle,Anti-EU Movement,6128,1996,FIN-VEU,FALSE
+FIN,ep,VIHR,Vihrea Liitto,Green League,479,"1996, 1999, 2004,
+2009, 2014, 2019",FIN-VIHR,FALSE
+FRA,parliament,DIV,other,other,1898,"1993, 1997, 2017",FRA-DIV,FALSE
+FRA,parliament,ECO,Aujour'hui l'Ecologie,Ecology Today,5953,2017,FRA-ECO,FALSE
+FRA,parliament,FG,Front de Gauche,Left Front,4363,2012,FRA-FG,FALSE
+FRA,parliament,FI,La France Insoumise,Unbowed France,5858,2017,FRA-FI,FALSE
+FRA,parliament,FN,Front National / Rassemblement national,National Front / National Rally,433,"1993, 1997, 2002,
+2012, 2017, 2007",FRA-FN,FALSE
+FRA,parliament,GE++,Generation ecologie,Ecology Generation,1273,"1993, 2002",FRA-GE++,FALSE
+FRA,parliament,LCR,Ligue communiste revolutionnaire,Revolutionary Communist League,1506,2002,FRA-LCR,FALSE
+FRA,parliament,LES VERTS,Les Verts,Greens,1108,2007,FRA-LES VERTS,FALSE
+FRA,parliament,MAJ,Parti de la Majorite presidentielle,Party of Presidential Majority,3157,"1993, 2007",FRA-MAJ,FALSE
+FRA,parliament,NCE,Nouveau centre,New Centre,1255,2012,FRA-NCE,FALSE
+FRA,parliament,OTHER FAR-LEFT,extreme gauche,other far-left,1594,"1993, 1997, 2007",FRA-OTHER FAR-LEFT,FALSE
+FRA,parliament,OTHER LEFT,divers gauche,other left,126,"2007, 1997, 2002,
+2012, 2017",FRA-OTHER LEFT,FALSE
+FRA,parliament,OTHER RIGHT,divers droite,other right,1776,"1993, 1997, 2002,
+2007, 2012, 2017",FRA-OTHER RIGHT,FALSE
+FRA,parliament,PCF,Parti communiste francaise,French Communist Party,1251,"2017, 2007, 1993,
+1997, 2002",FRA-PCF,FALSE
+FRA,parliament,PRG,Parti radical de gauche,Radical Party of the Left,1783,"1997, 2002, 2007,
+2012",FRA-PRG,FALSE
+FRA,parliament,PRV,Parti radical [socialiste],Radical [Socialist] Party,14,2012,FRA-PRV,FALSE
+FRA,parliament,PS,Parti socialiste,Socialist Party,1478,"1993, 1997, 2002",FRA-PS,FALSE
+FRA,parliament,REM,La Republique En Marche!,The Republic Onwards!,5857,2017,FRA-REM,FALSE
+FRA,parliament,SOC,Parti socialiste,Socialist Party,1478,"2012, 2017",FRA-SOC,FALSE
+FRA,parliament,SOCIALISTE,Parti socialiste,Socialist Party,1478,2007,FRA-SOCIALISTE,FALSE
+FRA,parliament,UDF,Union pour la democratie francaise,Union for French Democracy,213,"1993, 1997, 2002",FRA-UDF,FALSE
+FRA,parliament,UDF-MOUVEMENT DEMOCRATE,Union pour la democratie francaise,Union for French Democracy,,2007,FRA-UDF-MOUVEMENT DEMOCRATE,FALSE
+FRA,parliament,UDI,Union des democrates et independants,Union of Democrats and Independents,3229,2017,FRA-UDI,FALSE
+FRA,parliament,UMP,Union pour un mouvement populaire,Union for a Popular Movement,8168,"2017, 2002, 2012,
+2007",FRA-UMP,FALSE
+FRA,parliament,VEC,Europe Ecologie - Les Verts,Europe Ecology - The Greens,5650,2012,FRA-VEC,FALSE
+FRA,parliament,VERTS,Les Verts,Greens,1108,"1993, 1997, 2002",FRA-VERTS,FALSE
+FRA,ep,,divers ecologistes,other greens,8657,"2009, 2014",FRA-ALLIANCE ECOLOGISTE INDEPENDANTE,FALSE
+FRA,ep,CPNT,"Chasse, peche, nature, traditions","Hunting, Fishing, Nature, Tradition",1313,"1994, 1999, 2004",FRA-CPNT,FALSE
+FRA,ep,DLF,Debout la France,France Arise,3207,"2009, 2014",FRA-DLF,FALSE
+FRA,ep,EUROPE ECOLOGIE,Europe Ecologie - Les Verts,Europe Ecology - The Greens,5650,"2009, 2014, 2019",FRA-EUROPE ECOLOGIE,FALSE
+FRA,ep,GE,Generation ecologie,Ecology Generation,1273,1994,FRA-GE,FALSE
+FRA,ep,LA FRANCE INSOUMISE,La France Insoumise,Unbowed France,5858,2019,FRA-LA FRANCE INSOUMISE,FALSE
+FRA,ep,LO,Lutte ouvriere,Workers' Struggle,617,"1994, 2014",FRA-LO,FALSE
+FRA,ep,LO-LCR,Ligue communiste revolutionnaire,Revolutionary Communist League,1506,"1999, 2004",FRA-LO-LCR,FALSE
+FRA,ep,MODEM,Mouvement democrate,Democratic Movement,496,2009,FRA-MODEM,FALSE
+FRA,ep,MPF,Mouvement pour la France,Movement for France,364,2004,FRA-MPF,FALSE
+FRA,ep,MRG,Parti radical de gauche,Radical Party of the Left,1783,1994,FRA-MRG,FALSE
+FRA,ep,NPA,Nouveau Parti Anticapitaliste,New Anticapitalist Party,6684,2009,FRA-NPA,FALSE
+FRA,ep,PARTI ANIMALISTE,Parti animaliste,Animalist Party,7343,2019,FRA-PARTI ANIMALISTE,FALSE
+FRA,ep,LA REPUBLIQUE EN MARCHE,La Republique En Marche!,The Republic Onwards!,5857,2019,FRA-LA REPUBLIQUE EN MARCHE,FALSE
+FRA,ep,UDI-MODEM,Union des democrates et independants,Union of Democrats and Independents,3229,2014,FRA-UDI-MODEM,FALSE
+DEU,parliament,AFD,Alternative fur Deutschland,Alternative for Germany,1976,"2013, 2017",DEU-AFD,FALSE
+DEU,parliament,B90/GR,Bundnis 90 / Grune - BurgerInnenbewegu ng,"Greens / Alliance 90 -
+- Citizens' Movement [East Germany]",865,1990,DEU-B90/GR,FALSE
+DEU,parliament,CDU,Christlich Demokratische Union,Christian Democratic Union,1375,"1990, 1994, 1998,
+2002, 2005, 2009,
+2013, 2017",DEU-CDU,FALSE
+DEU,parliament,CSU,Christlich Soziale Union,Christian Social Union,1731,"1990, 1994, 1998,
+2002, 2005, 2009,
+2013, 2017",DEU-CSU,FALSE
+DEU,parliament,DIE LINKE,Die Linke,The Left,1545,"2009, 2013, 2017",DEU-DIE LINKE,FALSE
+DEU,parliament,FDP,Freie Demokratische Partei,Free Democratic Party,573,"1990, 1994, 1998,
+2002, 2005, 2009,
+2013, 2017",DEU-FDP,FALSE
+DEU,parliament,GRUNE,Bundnis 90 / Die Grunen,Alliance 90 / Greens,1816,"1990, 1994, 1998,
+2002, 2005, 2009,
+2013, 2017",DEU-GRUNE,FALSE
+DEU,parliament,NPD,Nationaldemokratisc he Partei Deutschlands,National Democratic Party,1723,"2005, 2009",DEU-NPD,FALSE
+DEU,parliament,PDS,Partei des Demokratischen Sozialismus,Party for Democratic Socialism,86,"1990, 1994, 1998,
+2002, 2005",DEU-PDS,FALSE
+DEU,parliament,PIRATEN,Piratenpartei Deutschland,German Pirate Party,1287,"2009, 2013",DEU-PIRATEN,FALSE
+DEU,parliament,REP,Die Republikaner,The Republicans,720,"1990, 1994, 1998",DEU-REP,FALSE
+DEU,parliament,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,383,"1990, 1994, 1998,
+2002, 2005, 2009,
+2013, 2017",DEU-SPD,FALSE
+DEU,ep,B90/GRU,Bundnis 90 / Die Grunen,Alliance 90 / Greens,1816,"1994, 1999, 2004",DEU-B90/GRU,FALSE
+DEU,ep,CDU/CSU,"Christlich Demokratische Union / Christlich
+Soziale Union","Christian Democratic Union / Christian Social
+Union",211,"1994, 1999, 2004",DEU-CDU/CSU,FALSE
+DEU,ep,DIE PARTEI,Die PARTEI,THE PARTY,6126,2019,DEU-DIE PARTEI,FALSE
+DEU,ep,FREIE WAHLER,Freie Wahler,Free Voters,1090,"2014, 2019",DEU-FREIE WAHLER,FALSE
+DEU,ep,FW,Freie Wahler,Free Voters,1090,2009,DEU-FW,FALSE
+DEU,ep,GRAUE,"Die Grauen - Graue
+Panther","The Grays - Gray
+Panthers",1652,2004,DEU-GRAUE,FALSE
+DEU,ep,LINKE,Die Linke,The Left,1545,2009,DEU-LINKE,FALSE
+DEU,ep,TIERSCHUTZPARTEI,Tierschutzpartei,Animal Welfare Party,749,"2009, 2014, 2019",DEU-TIERSCHUTZPARTEI,FALSE
+GRC,parliament,AE,Anexartitoi Ellines,Independent Greeks,1651,"2012, 2015",GRC-AE,FALSE
+GRC,parliament,ANOIX,Politiki Anixi,Political Spring,312,"1993, 1996",GRC-ANOIX,FALSE
+GRC,parliament,CHRYSI.AYGI,Laikos Syndesmos / Chrysi Avgi,"People’s Association
+/ Golden Dawn",1660,"2012, 2015, 2019",GRC-CHRYSI.AYGI,FALSE
+GRC,parliament,DIKKI,Dimokratiko Koinoniko Kinima,Democratic Social Movement,1682,"1996, 2000, 2004",GRC-DIKKI,FALSE
+GRC,parliament,DIMAR,Dimokratiki Aristera,Democratic Left,1160,2012,GRC-DIMAR,FALSE
+GRC,parliament,ELLINIKI LYSI,Elliniki Lisi,Greek Solution,7347,2019,GRC-ELLINIKI LYSI,FALSE
+GRC,parliament,EN.KENT,Enosi Kentroon,Union of Centrists,2510,"2015, 2019",GRC-EN.KENT,FALSE
+GRC,parliament,KIN.AL.,Kinima Allagis,Movement for Change,7909,2019,GRC-KIN.AL.,FALSE
+GRC,parliament,KKE,Kommounistiko Komma Elladas,Communist Party of Greece,48,"1993, 1996, 2000,
+2004, 2007, 2009,
+2012, 2015, 2019",GRC-KKE,FALSE
+GRC,parliament,LA.O.S,Laikos Orthodoxos Synagermos,Popular Orthodox Rally,965,"2004, 2007, 2009,
+2012",GRC-LA.O.S,FALSE
+GRC,parliament,LAE,Laiki Enotita,Popular Unity,4512,2015,GRC-LAE,FALSE
+GRC,parliament,MERA25,European Realistic Disobedience Front [MeRa25],European Realistic Disobedience Front [MeRa25],7348,2019,GRC-MERA25,FALSE
+GRC,parliament,ND,Nea Dimokratia,New Democracy,794,"1990, 1993, 1996,
+2000, 2004, 2007,
+2009, 2012, 2015,
+2019",GRC-ND,FALSE
+GRC,parliament,OIK.PRAS,Oikologoi Prasinoi,Ecologist Greens,378,"2007, 2009",GRC-OIK.PRAS,FALSE
+GRC,parliament,PASOK,Panellinio Sosialistiko Kinima,Panhellenic Socialist Movement,1468,"1990, 1993, 1996,
+2000, 2004, 2007,
+2009, 2012",GRC-PASOK,FALSE
+GRC,parliament,POTAMI,To Potami,The River,3118,2015,GRC-POTAMI,FALSE
+GRC,parliament,SYN,Synaspismos tis Aristeras,Coalition of the Left,516,"1990, 1993, 1996,
+2000, 2004",GRC-SYN,FALSE
+GRC,parliament,SYRIZA,Synaspismos Rizospastikis Aristeras,Coalition of the Radical Left,301,"2007, 2009, 2012,
+2015, 2019",GRC-SYRIZA,FALSE
+GRC,parliament,XANA,Dimiourgia Xana,Recreate Greece,471,2012,GRC-XANA,FALSE
+GRC,ep,Course of Freedom,Laiki Enotita,Popular Unity,4512,2019,GRC-Course of Freedom,FALSE
+GRC,ep,DIANA,Dimokratiki Ananeosi,Democratic Renewal,648,1994,GRC-DIANA,FALSE
+GRC,ep,Golden Dawn,Laikos Syndesmos / Chrysi Avgi,"People's Association
+/ Golden Dawn",1660,"2014, 2019",GRC-Golden Dawn,FALSE
+GRC,ep,"Greece, the Other Way",Ellada - O Allos Dromos,"Greece, the Other Way",7346,2019,"GRC-Greece, the Other Way",FALSE
+GRC,ep,Greek European Citizens,Ellines Eyropaioi Polites,Greek European Citizens,3120,2014,GRC-Greek European Citizens,FALSE
+GRC,ep,Greek Solution,Elliniki Lisi,Greek Solution,7347,2019,GRC-Greek Solution,FALSE
+GRC,ep,KEK,Komma Ellenon Kynegon,Party of Greek Hunters,2508,2009,GRC-KEK,FALSE
+GRC,ep,KINAL,Kinima Allagis,"Movement for
+Change",7909,2019,GRC-KINAL,FALSE
+GRC,ep,LAOS,Laikos Orthodoxos Synagermos,Popular Orthodox Rally,965,"2004, 2009, 2014,
+2019",GRC-LAOS,FALSE
+GRC,ep,POLAN,Politiki Anixi,Political Spring,312,"1994, 1999",GRC-POLAN,FALSE
+GRC,ep,The Liberals,Oi Fileleftheroi,The Liberals,2509,1999,GRC-The Liberals,FALSE
+HUN,parliament,ASZ,Agrarszovetseg,Agrarian Alliance,1132,"1990, 1994",HUN-ASZ,FALSE
+HUN,parliament,DK,Demokratikus Koalicio,Democratic Coalition,,2018,HUN-DK,FALSE
+HUN,parliament,FIDESZ,Fidesz - Magyar Polgari Szovetseg,Fidesz – Hungarian Civic Alliance,1691,"1990, 1994, 1998,
+2002, 2006, 2010",HUN-FIDESZ,FALSE
+HUN,parliament,FIDESZ-KDNP,Fidesz - Hungarian Civic Alliance -- Christian Democratic People's Party,Alliance of Hungarian Solidarity,6366,"2014, 2018",HUN-FIDESZ-KDNP,FALSE
+HUN,parliament,FKGP,Fuggetlen Kisgazdapart,Independent Smallholders Party (1988),1294,"1990, 1994, 1998",HUN-FKGP,FALSE
+HUN,parliament,HVK,Hazafias Valasztasi Koalicio,Patriotic Elections Coalition,1323,1990,HUN-HVK,FALSE
+HUN,parliament,JOBBIK,Jobbik Magyarorszagert Mozgalom,Movement for a Better Hungary,42,"2010, 2014, 2018",HUN-JOBBIK,FALSE
+HUN,parliament,KDNP,Keresztenydemokrata Neppart,Christian Democratic People's Party,1412,"1990, 1994, 1998",HUN-KDNP,FALSE
+HUN,parliament,KP-CONS,Koztarsasag Part,Republican Party,3795,1994,HUN-KP-CONS,FALSE
+HUN,parliament,LMP,Lehet Mas a Politika,Politics Can Be Different,1650,"2010, 2014, 2018",HUN-LMP,FALSE
+HUN,parliament,MDF,Magyar Demokrata Forum,Hungarian Democratic Forum,1697,"1990, 1994, 1998,
+2006, 2010",HUN-MDF,FALSE
+HUN,parliament,MIEP,Magyar Igazsag es Elet Partja,Hungarian Justice and Life Party,1597,"1994, 1998, 2002",HUN-MIEP,FALSE
+HUN,parliament,MIEP-JOBBIK,MIEP-Jobbik a Harmadik Ut partszovetseg,MIÉP–Jobbik Third Way Alliance of Parties,8264,2006,HUN-MIEP-JOBBIK,FALSE
+HUN,parliament,MKKP,Magyar Ketfarku Kutya Part,Hungarian Two-tailed Dog Party,6129,2018,HUN-MKKP,FALSE
+HUN,parliament,MOMENTUM,Momentum Mozgalom,Momentum Movement,8249,2018,HUN-MOMENTUM,FALSE
+HUN,parliament,MSZDP,Magyarorszagi Szocialdemokrata Part,Social Democratic Party of Hungary (1989),1726,1990,HUN-MSZDP,FALSE
+HUN,parliament,MSZMP,Magyar Szocialista Part,Hungarian Socialist Party,299,1990,HUN-MSZMP,FALSE
+HUN,parliament,MSZP,Magyar Szocialista Part,Hungarian Socialist Party,1408,"1990, 1994, 1998,
+2002, 2006, 2010",HUN-MSZP,FALSE
+HUN,parliament,MUNKASPART,Magyar Kommunista Munkaspart,Hungarian Communist Workers' Party,859,"1994, 1998, 2002",HUN-MUNKASPART,FALSE
+HUN,parliament,OMC,alliance,alliance,3948,2002,HUN-OMC,FALSE
+HUN,parliament,SZDSZ,Szabad Demokratak Szovetsege,Alliance of Free Democrats,910,"1990, 1994, 1998,
+2002, 2006",HUN-SZDSZ,FALSE
+HUN,parliament,UNITY,Osszefogas,Unity,8265,2014,HUN-UNITY,FALSE
+HUN,parliament,VP,Vallalkozok Partja Egyesulet,Entrepreneurs' Party,184,1990,HUN-VP,FALSE
+IRL,parliament,CATHOLIC DEMOCRATS,National Party,National Party,2053,1997,IRE-CATHOLIC DEMOCRATS,FALSE
+IRL,parliament,DEMOCRATIC LEFT,Democratic Left,Democratic Left,1172,"1992, 1997",IRE-DEMOCRATIC LEFT,FALSE
+IRL,parliament,FF,Fianna Fail,Fianna Fail – The Republican Party,1055,"1992, 1997, 2002,
+2007, 2011, 2016,
+2020",IRE-FF,FALSE
+IRL,parliament,FG,Fine Gael,Fine Gael (Familiy of the Irish),1288,"1992, 1997, 2002,
+2007, 2011, 2016,
+2020",IRE-FG,FALSE
+IRL,parliament,GREEN,Green Party- Comhaontas Glas,Green Party,1775,"1997, 2002, 2007,
+2011, 2016, 2020",IRE-GREEN,FALSE
+IRL,parliament,LABOUR,Pairti Lucht Oibre,Labour Party,562,"1992, 1997, 2002,
+2007, 2011, 2016,
+2020",IRE-LABOUR,FALSE
+IRL,parliament,PD,An Pairti Daonlathach,Progressive Democrats,924,"1992, 1997, 2002,
+2007",IRE-PD,FALSE
+IRL,parliament,RENUA,Renua Ireland,Renua Ireland,4869,2016,IRE-RENUA,FALSE
+IRL,parliament,SD,Daonlathaigh Shoisialta,Social Democrats,4870,"2016, 2020",IRE-SD,FALSE
+IRL,parliament,SF,Sinn Fein (Provisional),Sinn Fein (Provisional),4,"1997, 2002, 2007,
+2011, 2016, 2020",IRE-SF,FALSE
+IRL,parliament,SOCIALIST PARTY,Pairti Soisialach,Socialist Party,1448,"2011, 2016",IRE-SOCIALIST PARTY,FALSE
+IRL,parliament,SOLIDARITY-PBP,Solidarity-People Before Profit,Solidarity–People Before Profit,8241,"2016, 2020",IRE-SOLIDARITY-PBP,FALSE
+IRL,ep,DDI,Direct Democracy Ireland,Direct Democracy Ireland,3209,2014,IRE-DDI,FALSE
+IRL,ep,DL,Democratic Left,Democratic Left,1172,1994,IRE-DL,FALSE
+IRL,ep,GP,Green Party- Comhaontas Glas,Green Party,1775,"1994, 1999, 2004,
+2009, 2014, 2019",IRE-GP,FALSE
+IRL,ep,I4C,Neamhspleaigh ar son an Athraithe,Independents 4 Change,8181,2019,IRE-I4C,FALSE
+IRL,ep,IND.,independent,independent,2735,"2009, 2014, 2019",IRE-IND.,FALSE
+IRL,ep,LAB,Pairti Lucht Oibre,Labour Party,562,"2014, 2019",IRE-LAB,FALSE
+IRL,ep,LIB,Libertas Ireland,Libertas Ireland,880,2009,IRE-LIB,FALSE
+IRL,ep,LP,Pairti Lucht Oibre,Labour Party,562,"1994, 1999, 2004,
+2009",IRE-LP,FALSE
+IRL,ep,PBP,People Before Profit Alliance,People Before Profit Alliance,242,2014,IRE-PBP,FALSE
+IRL,ep,SP,Pairti Soisialach,Socialist Party,1448,"2009, 2014",IRE-SP,FALSE
+IRL,ep,SPBP,Solidarity - People Before Profit,Solidarity - People Before Profit,8241,2019,IRE-SPBP,FALSE
+IRL,ep,WP,Pairti na nOibrithe,Workers Party,208,1994,IRE-WP,FALSE
+ITA,parliament,ALLEANZA DEMOCRATICA,Alleanza Democratica,Democratic Alliance,614,1994,ITA-ALLEANZA DEMOCRATICA,FALSE
+ITA,parliament,ALLEANZA NAZIONALE,Alleanza Nazionale,National Alliance,813,"1994, 1996, 2001,
+2006",ITA-ALLEANZA NAZIONALE,FALSE
+ITA,parliament,CCD-CDU,Centro Cristiano Democratico  / Cristiani Democratici Uniti (Biancofiore),Christian Democratic Center / United Christian Democrats (White Flower),962,"1996, 2001",ITA-CCD-CDU,FALSE
+ITA,parliament,COMUNISTI ITALIANI,Partito dei Comunisti Italiani,Party of Italian Communists,1635,"2001, 2006",ITA-COMUNISTI ITALIANI,FALSE
+ITA,parliament,DC,Democrazia Cristiana,Christian Democrats,934,1992,ITA-DC,FALSE
+ITA,parliament,DEMOCRATICI SINISTRA,Democratici di Sinistra,Democrats of the Left,878,2001,ITA-DEMOCRATICI SINISTRA,FALSE
+ITA,parliament,DEMOCRAZIA EUROPEA,Democrazia Europea,European Democracy,1327,2001,ITA-DEMOCRAZIA EUROPEA,FALSE
+ITA,parliament,,Lista di Pietro -- Italia del Valori,List Di Pietro -- Italy of Values,768,"2006, 2008",ITA-DI PIETRO ITALIA DEI VALORI,FALSE
+ITA,parliament,,Fermare il Declino,Stop the Decline,2279,2013,ITA-FARE PER FERMARE IL DECLINO,FALSE
+ITA,parliament,FEDERAZIONE DEI VERDI,Federazione dei Verdi,Federation of the Greens,851,"1992, 1994, 1996,
+2006",ITA-FEDERAZIONE DEI VERDI,FALSE
+ITA,parliament,FORZA ITALIA,Forza Italia,Go Italy,1626,"1994, 1996, 2001,
+2006, 2018",ITA-FORZA ITALIA,FALSE
+ITA,parliament,FRATELLI D'ITALIA,Fratelli d'Italia,Brothers of Italy,2280,"2013, 2018",ITA-FRATELLI D'ITALIA,FALSE
+ITA,parliament,IL GIRASOLE,Il Girasole,Greens and Social Democrats,1782,2001,ITA-IL GIRASOLE,FALSE
+ITA,parliament,IL POPOLO DELLA LIBERTA',Il Popolo della Liberta,The People of Freedom,365,"2008, 2013",ITA-IL POPOLO DELLA LIBERTA',FALSE
+ITA,parliament,L'ULIVO,L'Ulivo,The Olive Tree,1737,2006,ITA-L'ULIVO,FALSE
+ITA,parliament,,Fiamma Tricolore,Fiamma Tricolore,1101,2008,ITA-LA DESTRA - FIAMMA TRICOLORE,FALSE
+ITA,parliament,LA MARGHERITA,"Democrazia e Liberta
+- La Margherita",Democracy is Freedom -- The Daisy,279,2001,ITA-LA MARGHERITA,FALSE
+ITA,parliament,LA RETE-MOV.DEM.,La Rete / Movimento per la Democrazia,The Network / Movement for Democracy,131,"1992, 1994",ITA-LA RETE-MOV.DEM.,FALSE
+ITA,parliament,LA ROSA NEL PUGNO,Rosa nel Pugno,Rose in the Fist,1711,2006,ITA-LA ROSA NEL PUGNO,FALSE
+ITA,parliament,LA SINISTRA L'ARCOBALENO,Sinistra Italiana,Italian Left,1212,2008,ITA-LA SINISTRA L'ARCOBALENO,FALSE
+ITA,parliament,LEGA LOMBARDA,Liga Lombarda,Lombard League,744,1992,ITA-LEGA LOMBARDA,FALSE
+ITA,parliament,LEGA NORD,Lega Nord,North League,1221,"2018, 1994, 1996,
+2001, 2006, 2008,
+2013",ITA-LEGA NORD,FALSE
+ITA,parliament,LISTA DI PIETRO,Lista di Pietro -- Italia del Valori,List Di Pietro -- Italy of Values,768,2001,ITA-LISTA DI PIETRO,FALSE
+ITA,parliament,LISTA PANNELLA,Lista PanneIIa,Pannella List,3742,"1992, 1994",ITA-LISTA PANNELLA,FALSE
+ITA,parliament,MOVIMENTO 5 STELLE,Movimento 5 Stelle,Five Star Movement,2046,"2018, 2013",ITA-MOVIMENTO 5 STELLE,FALSE
+ITA,parliament,,Movimento per l'Autonomia,Movement for Autonomy,1045,2008,ITA-MOVIMENTO PER L'AUTONOMIA ALL.PER IL SUD,FALSE
+ITA,parliament,MSI-DN,Movimento Sociale Italiano / Movimento sociale italiano- Destra nazionale,Italian Social Movement / Italian Social Movement- National Right,1696,1992,ITA-MSI-DN,FALSE
+ITA,parliament,P.POPOLARE ITALIANO,Partito Popolare Italiano,Italian People's Party,1701,1994,ITA-P.POPOLARE ITALIANO,FALSE
+ITA,parliament,PANNELLA-BONINO,Lista Bonino,Bonino List,2134,2001,ITA-PANNELLA-BONINO,FALSE
+ITA,parliament,PARTITO DEMOCRATICO,Partito Democratico,Democratic Party,802,"2008, 2013, 2018",ITA-PARTITO DEMOCRATICO,FALSE
+ITA,parliament,PATTO SEGNI,Patto Segni,Segni Pact,688,1994,ITA-PATTO SEGNI,FALSE
+ITA,parliament,PDS,Partito Democratico della Sinistra,Democratic Party of the Left,8054,"1992, 1994, 1996",ITA-PDS,FALSE
+ITA,parliament,PLI,Partito Liberale Italiano,Italian Liberal Party,1461,1992,ITA-PLI,FALSE
+ITA,parliament,PRI,Partito Repubblicano Italiano,Italian Republican Party,394,1992,ITA-PRI,FALSE
+ITA,parliament,PSDI,Partito Socialista Democratico Italiano,Italian Democratic Socialist Party,1126,1992,ITA-PSDI,FALSE
+ITA,parliament,PSI,Partito Socialista Italiano,Italian Socialist Party,742,"1992, 1994",ITA-PSI,FALSE
+ITA,parliament,RIFONDAZIONE COMUNISTA,Partito della Rifondazione Comunista,Communist Refoundation Party,1404,"1992, 1994, 1996,
+2001, 2006",ITA-RIFONDAZIONE COMUNISTA,FALSE
+ITA,parliament,RINNOVAMENTO IT- DINI,Rinnovamento Italiano,Italian Renewal,259,1996,ITA-RINNOVAMENTO IT- DINI,FALSE
+ITA,parliament,RIVOLUZIONE CIVILE,Rivoluzione Civile,Civil Revolution,2277,2013,ITA-RIVOLUZIONE CIVILE,FALSE
+ITA,parliament,,Scelta Civica,Civic Choice,2281,2013,ITA-SCELTA CIVICA CON MONTI PER L'ITALIA,FALSE
+ITA,parliament,,Sinistra Ecologia Liberta,Left Ecology Freedom,7031,2013,ITA-SINISTRA ECOLOGIA LIBERTA',FALSE
+ITA,parliament,U.D.EUR POPOLARI,Unione Democratici per l'Europa,Union of Democrats for Europe,115,2006,ITA-U.D.EUR POPOLARI,FALSE
+ITA,parliament,UNIONE DI CENTRO,Unione di Centro,Union of the Centre,201,"2006, 2008, 2013",ITA-UNIONE DI CENTRO,FALSE
+ITA,ep,ALTERNATIVA SOCIALE,Alternativa Sociale Mussolini,Social Alternative Mussolini,327,2004,ITA-ALTERNATIVA SOCIALE,FALSE
+ITA,ep,CDU,"Cristiani
+Democratici Uniti","United Christian
+Democrats",763,1999,ITA-CDU,FALSE
+ITA,ep,CENTRO CRIST.DEM.,Centro Cristiano Democratico,Christian Democratic Center,1767,1999,ITA-CENTRO CRIST.DEM.,FALSE
+ITA,ep,DEM.PROL,Democrazia Proletaria,Proletarian Democracy,1429,1989,ITA-DEM.PROL,FALSE
+ITA,ep,FED.DEI VERDI,Federazione dei Verdi,Federation of the Greens,851,"1989, 1994, 1999,
+2004",ITA-FED.DEI VERDI,FALSE
+ITA,ep,I DEMOCRATICI,I Democratici,Democracy,643,1999,ITA-I DEMOCRATICI,FALSE
+ITA,ep,L.ANTIPROIB.DROG A,Lista Bonino,Bonino List,2134,1989,ITA-L.ANTIPROIB.DROG A,FALSE
+ITA,ep,,L'Altra Europa con Tsipras,The Other Europe with Tsipras,6685,2014,ITA-L'ALTRA EUROPA CON TSIPRAS,FALSE
+ITA,ep,LEGA LOMBARDA- A.NORD,Liga Lombarda,Lombard League,744,1989,ITA-LEGA LOMBARDA- A.NORD,FALSE
+ITA,ep,LISTA EMMA BONINO,Lista Bonino,Bonino List,2134,"1999, 2004, 2009",ITA-LISTA EMMA BONINO,FALSE
+ITA,ep,MOV.SOC.TRICOLO RE,Fiamma Tricolore,Fiamma Tricolore,1101,1999,ITA-MOV.SOC.TRICOLO RE,FALSE
+ITA,ep,"MOVIMENTO 5
+STELLE",Movimento 5 Stelle,Five Star Movement,2046,"2014, 2019","ITA-MOVIMENTO 5
+STELLE",FALSE
+ITA,ep,"P.POPOLARE
+ITALIANO","Partito Popolare
+Italiano","Italian People's
+Party",1701,1994,"ITA-P.POPOLARE
+ITALIANO",FALSE
+ITA,ep,PANNELLA- RIFORMATORI,Radicali,Radicals,1449,1994,ITA-PANNELLA- RIFORMATORI,FALSE
+ITA,ep,PARTITO PENSIONATI,Partito Pensionati,Pensioners' Party,772,2004,ITA-PARTITO PENSIONATI,FALSE
+ITA,ep,PCI,Partito Comunista Italiano,Italian Communist Party,34,1989,ITA-PCI,FALSE
+ITA,ep,PPI (POP),Partito Popolare Italiano,Italian People's Party,1701,1999,ITA-PPI (POP),FALSE
+ITA,ep,SDI,Socialisti Democratici Italiani,Italian Democrat Socialists,750,1999,ITA-SDI,FALSE
+ITA,ep,SINISTRA E LIBERTA',Sinistra Ecologia Liberta,Left Ecology Freedom,7031,2009,ITA-SINISTRA E LIBERTA',FALSE
+ITA,ep,UDEUR,Unione Democratici per l'Europa,Union of Democrats for Europe,115,"1999, 2004",ITA-UDEUR,FALSE
+ITA,ep,"VERDI
+ARCOBALENO",Verdi Arcobaleno,Rainbow Greens,99,1989,"ITA-VERDI
+ARCOBALENO",FALSE
+LVA,parliament,ATMODA,No sirds Latvijai,For Latvia from the Heart,3193,2014,LAT-ATMODA,FALSE
+LVA,parliament,DZIMTENE,Dzimtene,Motherland,897,2006,LAT-DZIMTENE,FALSE
+LVA,parliament,JKP,Jauna konservativa partija,New Conservative Party,6355,2018,LAT-JKP,FALSE
+LVA,parliament,JL,Jaunais Laiks,New Era,1531,"2002, 2006",LAT-JL,FALSE
+LVA,parliament,KPV LV,Kam pieder valsts?,Who owns the state?,6356,2018,LAT-KPV LV,FALSE
+LVA,parliament,LG,Latgales Gaisma,Light of Latgale,404,2002,LAT-LG,FALSE
+LVA,parliament,LKS,Latvijas Krievu savieniba,Latvian Russian Union,5657,"2014, 2018",LAT-LKS,FALSE
+LVA,parliament,LPP,Latvijas Pirma partija,Latvia's First Party,1778,2002,LAT-LPP,FALSE
+LVA,parliament,LPP/LC,"Latvijas Pirma partija
+/ Latvijas Cels",Latvian First Party / Latvian Way Party,461,"2006, 2011",LAT-LPP/LC,FALSE
+LVA,parliament,LRA,Latvijas Regionu apvieniba,Latvian Association of Regions,3194,"2014, 2018",LAT-LRA,FALSE
+LVA,parliament,LSDSP,Latvijas Socialdemokratiska Stradnieku Partija,Latvian Social Democratic Workers' Party,741,"2002, 2006",LAT-LSDSP,FALSE
+LVA,parliament,NA!,Nacionala apvieniba,National Alliance,7619,"2010, 2011, 2014,
+2018",LAT-NA!,FALSE
+LVA,parliament,PCTVL,Par cilveka tiesibam vienota Latvija,For Human Rights in a United Latvia,176,"2002, 2006, 2010",LAT-PCTVL,FALSE
+LVA,parliament,PLL,Par Labu Latviju!,For a Good Latvia,393,2010,LAT-PLL,FALSE
+LVA,parliament,PROGRESIVIE,Progresivie,The Progressive,6357,2018,LAT-PROGRESIVIE,FALSE
+LVA,parliament,PVL,Visu Latvijai!,All For Latvia!,506,2006,LAT-PVL,FALSE
+LVA,parliament,SC,Saskanas Centrs,Harmony Centre,1056,"2006, 2010, 2011,
+2014, 2018",LAT-SC,FALSE
+LVA,parliament,SDLP,Socialdemokratiska Labklajibas partija,Social Democratic Welfare Party,680,2002,LAT-SDLP,FALSE
+LVA,parliament,SDS,Socialdemokratiska partija,Social Democratic Party,87,2002,LAT-SDS,FALSE
+LVA,parliament,SLC,Latvijas Cels,Latvian Way,1043,2002,LAT-SLC,FALSE
+LVA,parliament,TB/LNNK,"Tevzemei un Brivibai
+/ LNNK",For Fatherland and Freedom / LNNK,1704,"2002, 2006",LAT-TB/LNNK,FALSE
+LVA,parliament,TP,Tautas Partija,People's Party,1755,"2002, 2006",LAT-TP,FALSE
+LVA,parliament,VIENOTIBA,Vienotiba,Unity,852,"2010, 2011, 2014,
+2018",LAT-VIENOTIBA,FALSE
+LVA,parliament,VL,Vienoti Latvijai,United for Latvia,3195,2014,LAT-VL,FALSE
+LVA,parliament,ZRP,Zatlera Reformu partija,Zatlers' Reform Party,1476,2011,LAT-ZRP,FALSE
+LVA,parliament,ZZS,Zalo un Zemnieku savieniba,Green and Farmers' Union,701,"2002, 2006, 2010,
+2011, 2014, 2018",LAT-ZZS,FALSE
+LVA,ep,AP,Attistibai/Par!,Development/For!,8393,2019,LAT-AP,FALSE
+LVA,ep,JV,Vienotiba,Unity,852,2019,LAT-JV,FALSE
+LVA,ep,LAAT,Latvijas attistibai,Latvian Development,3213,2014,LAT-LAAT,FALSE
+LVA,ep,LIB,Libertas.lv,Libertas.lv,367,2009,LAT-LIB,FALSE
+LVA,ep,LKSRSL,Latvijas Krievu savieniba,Latvian Russian Union,5657,"2014, 2019",LAT-LKSRSL,FALSE
+LVA,ep,LPP / LC,Latvijas Pirma partija / Latvijas Cels,Latvian First Party / Latvian Way Party,461,2009,LAT-LPP / LC,FALSE
+LVA,ep,LSP,"Latvijas Socialistiska
+partija","Socialist Party of
+Latvia",588,2014,LAT-LSP,FALSE
+LVA,ep,P,Progresivie,The Progressive,6357,2019,LAT-P,FALSE
+LVA,ep,PPA,"Politiska Partija ""Alternative""","Political Party ""Alternative""",3214,2014,LAT-PPA,FALSE
+LVA,ep,PS,Pilsoniska savieniba,Civic Union,415,2009,LAT-PS,FALSE
+LVA,ep,SCP,Sabiedriba citai politikai,Society for Other Politics,627,2009,LAT-SCP,FALSE
+LVA,ep,SDPS,"Socialdemokratiska Partija ""Saskana""","Social Democratic Party ""Harmony""",5976,"2014, 2019",LAT-SDPS,FALSE
+LVA,ep,TB / LNNK,Tevzemei un Brivibai / LNNK,For Fatherland and Freedom / LNNK,1704,"2009, 2014, 2019",LAT-TB / LNNK,FALSE
+LVA,ep,TSP,Tautas Saskanas Partija,National Harmony Party,1719,2004,LAT-TSP,FALSE
+LVA,ep,V,Vienotiba,Unity,852,2014,LAT-V,FALSE
+LVA,ep,VA-TB/LNNK,Tevzemei un Brivibai / LNNK,For Fatherland and Freedom / LNNK,1704,2004,LAT-VA-TB/LNNK,FALSE
+LTU,parliament,,Brazausko socialdemokratine koalicija,Brazauskas Social Democratic Coalition,197,2000,LTU-A. BRAZAUSKAS SOCIALDEMOCRATIC COALITION,FALSE
+LTU,parliament,,Krikscioniu konservatoriu socialine sajunga,Christian Conservative Social Union,52,2004,LTU-CHRISTIAN CONSERVATIVE SOCIAL UNION,FALSE
+LTU,parliament,,Krikscioniu demokratu sajunga,Christian Democratic Union,776,2000,LTU-CHRISTIAN DEMOCRATIC UNION,FALSE
+LTU,parliament,CHRISTIAN PARTY,Krikscioniu partija,Christian Party,8254,2012,LTU-CHRISTIAN PARTY,FALSE
+LTU,parliament,FOR ORDER AND JUSTICE,"Tvarka ir teisingumas
+- Liberalu Demokratu Partija",Order and Justice – Liberal Democratic Party,237,2004,LTU-FOR ORDER AND JUSTICE,FALSE
+LTU,parliament,HOMELAND UNION,Tevynes Sajunga / Tevynes sajunga - Lietuvos krikscionys demokratai,Homeland Union / Homeland Union – Lithuanian Christian Democrats,193,"2004, 2008, 2012,
+2016, 2020, 2000",LTU-HOMELAND UNION,FALSE
+LTU,parliament,LABOUR PARTY,Darbo Partija,Labour Party,102,"2004, 2012, 2016,
+2020",LTU-LABOUR PARTY,FALSE
+LTU,parliament,LIBERAL AND CENTRE UNION,Liberalu ir centro sajunga,Liberal and Centre Union,1193,"2004, 2008, 2012",LTU-LIBERAL AND CENTRE UNION,FALSE
+LTU,parliament,,Lietuvos Respublikos Liberalu sajudis,Liberals' Movement of the Republic of Lithuania,1744,"2008, 2012, 2016,
+2020",LTU-LIBERALS MOVEMENT OF THE REPUBLIC OF LITHUANIA,FALSE
+LTU,parliament,LITHUANIAN CENTRE PARTY,Lietuvos Centro Partija,Lithuanian Centre Party,5455,2020,LTU-LITHUANIAN CENTRE PARTY,FALSE
+LTU,parliament,LITHUANIAN CENTRE UNION,Lietuvos centro sajunga,Center Union of Lithuania,1185,2000,LTU-LITHUANIAN CENTRE UNION,FALSE
+LTU,parliament,,Lietuvos krikscioniu demokratu partija,Lithuanian Christian Democratic Party,6804,2000,LTU-LITHUANIAN CHRISTIAN DEMOCRATIC PARTY,FALSE
+LTU,parliament,,Lietuvos Krikscionys Demokratai,Lithuanian Christian Democrats,1063,2004,LTU-LITHUANIAN CHRISTIAN DEMOCRATS,FALSE
+LTU,parliament,,Lietuvos Laisves Sajunga (Liberalai),Lithuanian Freedom Union (Liberals),5456,"2016, 2020",LTU-LITHUANIAN FREEDOM UNION (LIBERALS),FALSE
+LTU,parliament,LITHUANIAN GREEN PARTY,Lietuvos zalioji partija,Lithuanian Green Party,1407,"2016, 2020",LTU-LITHUANIAN GREEN PARTY,FALSE
+LTU,parliament,LITHUANIAN LIBERAL UNION,Lietuvos liberalu sajunga,Liberal Union of Lithuania,1357,2000,LTU-LITHUANIAN LIBERAL UNION,FALSE
+LTU,parliament,,Lietuvos valstieciu ir zaliuju sajunga / Lietuvos valstieciu liaudininku sajunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,1490,2012,LTU-LITHUANIAN PEASANT AND GREENS UNION,FALSE
+LTU,parliament,,Lietuvos valstieciu partija,Lithuanian Peasant Party,21,"2016, 2020",LTU-LITHUANIAN PEASANT POPULAR UNION,FALSE
+LTU,parliament,,Lietuvos valstieciu partija,Lithuanian Peasant Party,21,2000,LTU-LITHUANIAN PEASANTS' PARTY,FALSE
+LTU,parliament,,Lietuvos lenku rinkimu akcija,Election Action of Lithuania's Poles,556,"2000, 2004, 2008,
+2012, 2016, 2020",LTU-LITHUANIAN POLES' ELECTORAL ACTION,FALSE
+LTU,parliament,,Lietuvos socialdemokratu partija,Lithuanian Social Democratic Party,64,"2008, 2012, 2016,
+2020",LTU-LITHUANIAN SOCIAL DEMOCRATIC PARTY,FALSE
+LTU,parliament,,Nuosaikiuju konservatoriu sajunga,Moderate Conservative Union,839,2000,LTU-MODERATE CONSERVATIVE UNION,FALSE
+LTU,parliament,,Naujoji sajunga (socialliberalai),New Union (Social Liberals),1800,"2008, 2000",LTU-NEW UNION (SOCIAL LIBERALS),FALSE
+LTU,parliament,,Jaunoji Lietuva,Young Lithuania,1026,2008,"LTU-PARTY ""YOUNG LITHUANIANS""",FALSE
+LTU,parliament,,Drasos Kelias,The Way of Courage,74,2012,LTU-POLITICAL PARTY 'THE WAY OF COURAGE',FALSE
+LTU,parliament,,Tevynes atgimimas ir perspektyva,YES – Homeland Revival and Perspective,1806,2012,LTU-POLITICAL PARTY 'UNION YES',FALSE
+LTU,parliament,,Fronto partija / Socialistinis liaudies frontas,Front Party / Socialist People's Front,1250,2008,"LTU-POLITICAL PARTY ""FRONTAS""",FALSE
+LTU,parliament,,"Politine partija ""Lietuvos sarasas""",Lithuanian List,6738,2016,"LTU-POLITICAL PARTY ""LIST OF LITHUANIA""",FALSE
+LTU,parliament,RISING NATION PARTY,"Tvarka ir teisingumas
+- Liberalu Demokratu Partija",Order and Justice – Liberal Democratic Party,347,2008,LTU-RISING NATION PARTY,FALSE
+LTU,parliament,,Koalicija Darbo partija + Jaunimas,Coalition Labour Party and Youth,8279,2008,"LTU-THE COALITION ""LABOR PARTY + YOUTH""",FALSE
+LTU,parliament,,alliance,alliance,3971,2004,LTU-UNION OF FARMERS' PARTY AND NEW DEMOCRACY PARTY,FALSE
+LTU,parliament,WORKING FOR LITHUANIA,"Koalicija ""Uz darba Lietuvai""",Working for Lithuania,2091,2004,LTU-WORKING FOR LITHUANIA,FALSE
+LTU,ep,DP,Darbo Partija,Labour Party,102,"2004, 2009, 2014,
+2019",LTU-DP,FALSE
+LTU,ep,FRONTAS,Fronto partija / Socialistinis liaudies frontas,Front Party / Socialist People's Front,1250,2009,LTU-FRONTAS,FALSE
+LTU,ep,KKSS,Krikscioniu konservatoriu socialine sajunga,Christian Conservative Social Union,52,"2004, 2009",LTU-KKSS,FALSE
+LTU,ep,LCP,"Lietuvos Centro
+Partija","Lithuanian Centre
+Party",5455,"2009, 2019",LTU-LCP,FALSE
+LTU,ep,LiCS,Liberalu ir centro sajunga,Liberal and Centre Union,1193,"2004, 2009, 2014",LTU-LiCS,FALSE
+LTU,ep,LKD,Lietuvos Krikscionys Demokratai,Lithuanian Christian Democrats,1063,2004,LTU-LKD,FALSE
+LTU,ep,LLRA KSS,Lietuvos lenku rinkimu akcija,Election Action of Lithuania's Poles,556,2009,LTU-LLRA KSS,FALSE
+LTU,ep,LLSL,Lietuvos Laisves Sajunga (Liberalai),Lithuanian Freedom Union (Liberals),5456,2019,LTU-LLSL,FALSE
+LTU,ep,LRLS,"Lietuvos Respublikos
+Liberalu sajudis","Liberals' Movement of the Republic of
+Lithuania",1744,"2009, 2014, 2019",LTU-LRLS,FALSE
+LTU,ep,LSDDP,Lietuvos socialdemokratu darbo partija,Social Democratic Labour Party of Lithuania,7352,2019,LTU-LSDDP,FALSE
+LTU,ep,LSDP,Lietuvos socialdemokratu partija,Lithuanian Social Democratic Party,64,"2004, 2009, 2014,
+2019",LTU-LSDP,FALSE
+LTU,ep,LTS,Lietuviu tautininku sajunga,Lithuanian National Union,377,2014,LTU-LTS,FALSE
+LTU,ep,LVZS,"Lietuvos valstieciu ir zaliuju sajunga / Lietuvos valstieciu
+liaudininku sajunga","Lithuanian Farmers and Greens Union / Lithuanian Peasant
+Popular Union",1490,"2004, 2009, 2014,
+2019",LTU-LVZS,FALSE
+LTU,ep,LZP,Lietuvos zalioji partija,Lithuanian Green Party,1407,"2014, 2019",LTU-LZP,FALSE
+LTU,ep,NS,Naujoji sajunga (socialliberalai),New Union (Social Liberals),1800,2004,LTU-NS,FALSE
+LTU,ep,PDP,"Pilietines
+demokratijos partija","Civic Democratic
+Party",105,2009,LTU-PDP,FALSE
+LTU,ep,Rising Nation Party,Tautos prisikelimo partija,National Resurrection Party,347,2009,LTU-Rising Nation Party,FALSE
+LTU,ep,,Tautos pazangos partija,Party of National Progress,51,2004,LTU-The Party of National Progress,FALSE
+LTU,ep,TS LKD,Tevynes sajunga - Lietuvos krikscionys demokratai,Homeland Union - Lithuanian Christian Democrats,193,"2004, 2009, 2014,
+2019",LTU-TS LKD,FALSE
+LTU,ep,TT LDP,"Tvarka ir teisingumas - Liberalu Demokratu
+Partija",Order and Justice - Liberal Democratic Party,237,"2004, 2009, 2014,
+2019",LTU-TT LDP,FALSE
+LTU,ep,VKM-AMT,independent,independent,2778,2019,LTU-VKM-AMT,FALSE
+LTU,ep,ZP,Zemaiciu partija,Samogitian Party,1291,2009,LTU-ZP,FALSE
+LUX,parliament,ADR,Alternativ Demokratesch Reformpartei,Alternative Democratic Reform Party,1114,"1994, 1999, 2004,
+2009, 2013, 2018",LUX-ADR,FALSE
+LUX,parliament,CSV,Chreschtlech Sozial Vollekspartei,Christian Social People's Party,539,"1994, 1999, 2004,
+2009, 2013, 2018",LUX-CSV,FALSE
+LUX,parliament,DP,Demokratesch Partei,Democratic Party,300,"1994, 1999, 2004,
+2009, 2013, 2018",LUX-DP,FALSE
+LUX,parliament,GAL,Greng Lescht Ekologesch Initiativ,Green Left Ecological Initiative,475,"1999, 2004",LUX-GAL,FALSE
+LUX,parliament,GRENG,Dei Greng [Alternativ],The Greens,1138,"1994, 1999, 2004,
+2009, 2013, 2018",LUX-GRENG,FALSE
+LUX,parliament,KPL,Kommunistesch Partei vu Letzebuerg,Communist Party of Luxembourg,1647,"1994, 2004, 2009,
+2013, 2018",LUX-KPL,FALSE
+LUX,parliament,LENK,Dei Lenk,The Left,271,"1999, 2004, 2009,
+2013, 2018",LUX-LENK,FALSE
+LUX,parliament,LNB,National Bewegong,National Movement,995,1994,LUX-LNB,FALSE
+LUX,parliament,LSAP,Letzebuerger Sozialistesch Aarbechterpartei,Luxembourg Socialist Workers' Party,186,"1994, 1999, 2004,
+2009, 2013, 2018",LUX-LSAP,FALSE
+LUX,parliament,PID,Partei fir Integral Demokratie,Party for Full Democracy,2064,2013,LUX-PID,FALSE
+LUX,parliament,PPLU,Piratepartei Letzebuerg,Pirate Party Luxembourg,2065,"2013, 2018",LUX-PPLU,FALSE
+LUX,ep,BIERGERLESCHT,Biergerlescht,Citizens' List,1213,2009,LUX-BIERGERLESCHT,FALSE
+LUX,ep,GLS,"Groupement fir d'Letzebuerger
+Souveraniteit","Group for Luxembourgian
+Sovereignty",2066,1994,LUX-GLS,FALSE
+LUX,ep,NATIONAL B.,National Bewegong,National Movement,995,1994,LUX-NATIONAL B.,FALSE
+LUX,ep,PPL,Piratepartei Letzebuerg,Pirate Party Luxembourg,2065,"2014, 2019",LUX-PPL,FALSE
+LUX,ep,VOLT,Volt Luxembourg,Volt Luxembourg,7353,2019,LUX-VOLT,FALSE
+MLT,parliament,AD,Alternattiva Demokratika,Democratic Alternative,62,"2008, 2013",MLT-AD,FALSE
+MLT,parliament,MLP/PL,Partit Laburista,Malta Labour Party,808,"2003, 2008, 2013,
+2017",MLT-MLP/PL,FALSE
+MLT,parliament,PN,Partit Nazzjonalista,Nationalist Party,699,"2003, 2008, 2013,
+2017",MLT-PN,FALSE
+MLT,ep,IE,Imperium Europa,Imperium Europa,515,"2009, 2014, 2019",MLT-IE,FALSE
+MLT,ep,IND.,independent,independent,2798,"2004, 2019",MLT-IND.,FALSE
+MLT,ep,PD,Partit Demokratiku,Democratic Party,7354,2019,MLT-PD,FALSE
+NLD,parliament,50PLUS,50PLUS,50PLUS,714,"2012, 2017",NLD-50PLUS,FALSE
+NLD,parliament,AOV,Algemeen Ouderen Verbond / Verenigde Senioren Partij,"General Senior Union
+/ United Seniors Party",994,1994,NLD-AOV,FALSE
+NLD,parliament,CDA,Christen Democratisch Appel,Christian Democratic Appeal,1157,"1994, 1998, 2002,
+2003, 2006, 2010,
+2012, 2017",NLD-CDA,FALSE
+NLD,parliament,CU,ChristenUnie,ChristianUnion,1459,"2002, 2003, 2006,
+2010, 2012, 2017",NLD-CU,FALSE
+NLD,parliament,D66,Democraten 66,Democrats 66,45,"1994, 1998, 2002,
+2003, 2006, 2010,
+2012, 2017",NLD-D66,FALSE
+NLD,parliament,DENK,Beweging DENK,Think,5856,2017,NLD-DENK,FALSE
+NLD,parliament,FVD,Forum voor Democratie,Forum for Democracy,5855,2017,NLD-FVD,FALSE
+NLD,parliament,GL,GroenLinks,GreenLeft,1537,"1994, 1998, 2002,
+2003, 2006, 2010,
+2012, 2017",NLD-GL,FALSE
+NLD,parliament,GPV,Gereformeerd Politiek Verbond,Reformed Political League,1602,"1994, 1998",NLD-GPV,FALSE
+NLD,parliament,LN,Leefbaar Nederland,Livable Netherlands,1420,2002,NLD-LN,FALSE
+NLD,parliament,LPF,Lijst Pim Fortuyn,Fortuyn List,1528,"2002, 2003",NLD-LPF,FALSE
+NLD,parliament,PVDA,Partij van de Arbeid,Labour,1234,"1994, 1998, 2002,
+2003, 2006, 2010,
+2012, 2017",NLD-PVDA,FALSE
+NLD,parliament,PVDD,Partij voor de Dieren,Party for the Animals,1467,"2006, 2010, 2012,
+2017",NLD-PVDD,FALSE
+NLD,parliament,PVV,Partij voor de Vrijheid,Party for Freedom,298,"2006, 2010, 2012,
+2017",NLD-PVV,FALSE
+NLD,parliament,RPF,Reformatorisch Politieke Federatie,Reformatory Political Federation,172,"1994, 1998",NLD-RPF,FALSE
+NLD,parliament,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,1178,"1994, 1998, 2002,
+2003, 2006, 2010,
+2012, 2017",NLD-SGP,FALSE
+NLD,parliament,SPBP,Socialistiese Partij,Socialist Party,1363,"1994, 1998, 2002,
+2003, 2006, 2010,
+2012, 2017",NLD-SPBP,FALSE
+NLD,parliament,VVD,Volkspartij voor Vrijheid en Democratie,People's Party for Freedom and Democracy,828,"1994, 1998, 2002,
+2003, 2006, 2010,
+2012, 2017",NLD-VVD,FALSE
+NLD,ep,50+,50PLUS,50PLUS,714,"2014, 2019",NLD-50+,FALSE
+NLD,ep,CD,Centrum Democraten,Centre Democrats,1472,1994,NLD-CD,FALSE
+NLD,ep,CU-SGP,ChristenUnie - Staatkundig Gereformeerde Partij,Christian Union - Reformed Political Party,6758,"2004, 2009, 2014,
+2019",NLD-CU-SGP,FALSE
+NLD,ep,ET,Europa Transparant,Europe Transparent,523,2004,NLD-ET,FALSE
+NLD,ep,GROEN,De Groenen,The Greens,1533,1994,NLD-GROEN,FALSE
+NLD,ep,SGP-GPV-RPF,alliance,alliance,3987,"1994, 1999",NLD-SGP-GPV-RPF,FALSE
+NLD,ep,SP,Socialistiese Partij,Socialist Party,1363,"1994, 1999, 2004,
+2009, 2014, 2019",NLD-SP,FALSE
+NLD,ep,VN,Volt Nederland,Volt Netherlands,7355,2019,NLD-VN,FALSE
+NOR,parliament,A,Avholdspartiet,Teetotaler Party,4073,"2013, 2017",NOR-A,FALSE
+NOR,parliament,DNA,Det norske Arbeiderparti,Norwegian Labour Party,448,"1993, 1997, 2001,
+2005, 2009",NOR-DNA,FALSE
+NOR,parliament,FRP,Fremskrittspartiet,Progress Party,101,"1993, 1997, 2001,
+2005, 2009, 2013,
+2017",NOR-FRP,FALSE
+NOR,parliament,H,Hoyre,Conservative Party,503,"1993, 1997, 2001,
+2005, 2009, 2013,
+2017",NOR-H,FALSE
+NOR,parliament,KRF,Kristelig Folkeparti,Christian Democratic Party,705,"1993, 1997, 2001,
+2005, 2009, 2013,
+2017",NOR-KRF,FALSE
+NOR,parliament,KYST,Kystpartiet,Coastal Party,677,2001,NOR-KYST,FALSE
+NOR,parliament,MDG,Miljopartiet De Gronne,Green Party,1963,"2013, 2017",NOR-MDG,FALSE
+NOR,parliament,RODT,Rodt,Red Party,3698,2017,NOR-RODT,FALSE
+NOR,parliament,RV,Rod Valgallianse,Red Electoral Alliance,44,1997,NOR-RV,FALSE
+NOR,parliament,SPBP,Senterpartiet,Centre Party,1072,"1993, 1997, 2001,
+2005, 2009, 2013,
+2017",NOR-SPBP,FALSE
+NOR,parliament,SV,Sosialistisk Venstreparti,Socialist Left Party,719,"1993, 1997, 2001,
+2005, 2009, 2013,
+2017",NOR-SV,FALSE
+NOR,parliament,V,Venstre,Liberal Party of Norway,1173,"1993, 1997, 2001,
+2005, 2009, 2013,
+2017",NOR-V,FALSE
+POL,parliament,AWS,Akcja Wyborcza Solidarnosc Prawicy,Solidarity Electoral Action of the Right,863,2001,POL-AWS,FALSE
+POL,parliament,KORWIN,Koalicja Odnowy Rzeczypospolitej Wolnosc i Nadzieja KORWiN,Coalition for the Renewal of the Republic – Liberty and Hope,4629,"2015, 2019",POL-KORWIN,FALSE
+POL,parliament,KUKIZ'15,Kukiz'15,Kukiz'15,4631,2015,POL-KUKIZ'15,FALSE
+POL,parliament,LID,Lewica i Demokraci,Left and Democrats,1588,2007,POL-LID,FALSE
+POL,parliament,LPR,Liga Polskich Rodzin,League of Polish Families,1768,"2001, 2005, 2007",POL-LPR,FALSE
+POL,parliament,LR,[Lewica] Razem,[Left] Together,4871,2015,POL-LR,FALSE
+POL,parliament,NOWOCZESNA,Nowoczesna,Modern,4630,2015,POL-NOWOCZESNA,FALSE
+POL,parliament,PD,Partia Demokratyczna,Democratic Party,1566,2005,POL-PD,FALSE
+POL,parliament,PIS,Prawo i Sprawiedliwosc,Law and Justice,1565,"2001, 2005, 2007,
+2011, 2015, 2019",POL-PIS,FALSE
+POL,parliament,PJKM,Platforma Janusza Korwin-Mikke,Platform of Janusz Korwin-Mikke,913,2005,POL-PJKM,FALSE
+POL,parliament,PJN,Polska jest Najwazniejsza,Poland is the Most Important,41,2011,POL-PJN,FALSE
+POL,parliament,PO,Platforma Obywatelska,Civic Platform,1117,"2001, 2005, 2007,
+2011, 2015",POL-PO,FALSE
+POL,parliament,PSL,Polskie Stronnictwo Ludowe,Polish People's (Peasants') Party,602,"2001, 2005, 2007,
+2011, 2015, 2019",POL-PSL,FALSE
+POL,parliament,RP,Ruch Palikota / Twoj Ruch,Palikot's Movement / Your Movement,731,2011,POL-RP,FALSE
+POL,parliament,SDPL,Socjaldemokracja Polska,Social Democracy of Poland,1328,2005,POL-SDPL,FALSE
+POL,parliament,SLD,Sojusz Lewicy Demokratycznej,Democratic Left Alliance,57,"2005, 2011, 2019",POL-SLD,FALSE
+POL,parliament,SLD-UP,Sojusz Lewicy Demokratycznej-Unia Pracy,Democratic Left Alliance – Labour Union,6183,2001,POL-SLD-UP,FALSE
+POL,parliament,SRP,Samoobrona Rzeczypospolitej Polskiej,Self-Defense of the Republic Poland,727,"2001, 2005, 2007",POL-SRP,FALSE
+POL,parliament,UW,Unia Wolnosci,Freedom Union,8268,2001,POL-UW,FALSE
+POL,ep,EUROPA+,alliance,alliance,3999,2014,POL-EUROPA+,FALSE
+POL,ep,IDP,Inicjatywa dla Polski,Initiative for Poland,1608,2004,POL-IDP,FALSE
+POL,ep,KE,alliance,alliance,3999,2019,POL-KE,FALSE
+POL,ep,KNP,"Kongres Nowej
+Prawicy","Congress of the
+New Right",4713,2014,POL-KNP,FALSE
+POL,ep,KUKIZ 15,Kukiz'15,Kukiz'15,4631,2019,POL-KUKIZ 15,FALSE
+POL,ep,LEWICA RAZEM,[Lewica] Razem,[Left] Together,4871,2019,POL-LEWICA RAZEM,FALSE
+POL,ep,LIBERTAS,Libertas Polska,Libertas Poland,739,2009,POL-LIBERTAS,FALSE
+POL,ep,NKWW,Narodowy Komitet Wyborczy Wyborcow,National Voters Committee,1549,2004,POL-NKWW,FALSE
+POL,ep,PR,"Prawica
+Rzeczypospolitej",Republic Right Party,876,"2009, 2014",POL-PR,FALSE
+POL,ep,RN,Ruch Narodowy,National Movement,3224,2014,POL-RN,FALSE
+POL,ep,SAMOOBRONA RP,Samoobrona Rzeczypospolitej Polskiej,Self-Defense of the Republic Poland,727,"2004, 2009",POL-SAMOOBRONA RP,FALSE
+POL,ep,SP,Stronnictwo Pracy,Labor Party,8226,2014,POL-SP,FALSE
+POL,ep,UPR,Unia Polityki Realnej,Real Politics Union,283,"2004, 2009",POL-UPR,FALSE
+POL,ep,WIOSNA,Wiosna,Spring,7356,2019,POL-WIOSNA,FALSE
+PRT,parliament,B.E.,Bloco de Esquerda,Left Bloc,1310,"1999, 2002, 2005,
+2009, 2011, 2015,
+2019",PRT-B.E.,FALSE
+PRT,parliament,CDS-PP,Centro Democratico e Social / Partido Popular,Democratic and Social Center / People's Party,1308,"1995, 1999, 2002,
+2005, 2009, 2011,
+2019",PRT-CDS-PP,FALSE
+PRT,parliament,CH,Chega,Enough,8182,2019,PRT-CH,FALSE
+PRT,parliament,L,"Livre - Liberdade, Esquerda, Europa e Ecologia",Livre,3225,2019,PRT-L,FALSE
+PRT,parliament,PAN,Partido pelos Animais e pela Natureza,Party for Animals and Nature,97,"2011, 2015, 2019",PRT-PAN,FALSE
+PRT,parliament,PCP-PEV,CDU – Coligação Democrática Unitária,Unitary Democratic Coalition,284,"1991, 1995, 1999,
+2002, 2005, 2009,
+2011, 2015, 2019",PRT-PCP-PEV,FALSE
+PRT,parliament,PCTP/MRPP,Comunista dos Trabalhadores Portugueses / Movimento Reorganizativo do Partido do Proletariado,Communist Party of the Portuguese Workers / Reorganizative Movement of the Party of the Proletariat,857,"2011, 2015",PRT-PCTP/MRPP,FALSE
+PRT,parliament,PDR,Partido Democratico Republicano,Republican Democratic Party,4513,2015,PRT-PDR,FALSE
+PRT,parliament,PPD/PSD,Partido Popular Democratico / Partido Social Democrata,Popular Democratic Party / Social Democratic Party,1359,"1991, 1995, 1999,
+2002, 2005, 2009,
+2011, 2015, 2019",PRT-PPD/PSD,FALSE
+PRT,parliament,PS,Partido Socialista,Socialist Party,655,"1991, 1995, 1999,
+2002, 2005, 2009,
+2011, 2015, 2019",PRT-PS,FALSE
+PRT,parliament,PSN,Partido da Solidariedade Nacional,National Solidarity Party,181,1991,PRT-PSN,FALSE
+PRT,parliament,PSR,Partido Socialista Revolucionario,Revolutionary Socialist Party,375,1991,PRT-PSR,FALSE
+PRT,ep,A,Alianca,Alliance,7357,2019,PRT-A,FALSE
+PRT,ep,BE,Bloco de Esquerda,Left Bloc,1310,"1999, 2004, 2009,
+2014, 2019",PRT-BE,FALSE
+PRT,ep,CDS.PP,Centro Democratico e Social / Partido Popular,Democratic and Social Center / People's Party,1308,"1987, 1989, 1994,
+1999, 2009, 2019",PRT-CDS.PP,FALSE
+PRT,ep,CDU,"Coligacao Democratica
+Unitaria",Unitary Democratic Coalition,284,"1987, 1989",PRT-CDU,FALSE
+PRT,ep,MEP,Movimento Esperanca Portugal,Hope for Portugal Movement,1727,2009,PRT-MEP,FALSE
+PRT,ep,MPT,"Movimento Partido da Terra / Partido
+da Terra","The Earth Party Movement / Earth
+Party",3226,2014,PRT-MPT,FALSE
+PRT,ep,NC,"Nos, Cidadaos!","We, the Citizens!",7358,2019,PRT-NC,FALSE
+PRT,ep,PCP.PEV,Coligacao Democratica Unitaria,Unitary Democratic Coalition,284,"1994, 1999, 2004,
+2009, 2014, 2019",PRT-PCP.PEV,FALSE
+PRT,ep,PCTP.MRPP,"Comunista dos Trabalhadores Portugueses / Movimento Reorganizativo do Partido do
+Proletariado","Communist Party of the Portuguese Workers / Reorganizative Movement of the Party of the
+Proletariat",857,"2004, 2009, 2014",PRT-PCTP.MRPP,FALSE
+PRT,ep,PND,Partido da Nova Democracia,New Democracy Party,1095,2004,PRT-PND,FALSE
+PRT,ep,PPD.PSD,Partido Popular Democratico / Partido Social Democrata,"Popular Democratic Party / Social
+Democratic Party",1359,"1987, 1989, 1994,
+1999, 2009, 2019",PRT-PPD.PSD,FALSE
+PRT,ep,PPM,Partido Popular Monarquico,Popular Monarchist Party,1480,"1987, 1989",PRT-PPM,FALSE
+PRT,ep,PRD,Partido Renovador Democratico,Democratic Renewal Party,1600,1987,PRT-PRD,FALSE
+PRT,ep,UDP,Uniao Democratica Popular,Popular Democratic Union,896,1989,PRT-UDP,FALSE
+ROU,parliament,ARD,Alianta Romania Dreapta,Right Romania Alliance,5940,2012,ROM-ARD,FALSE
+ROU,parliament,EMP,Partidele minoritatilor etnice din Romania,Romanian ethnic minority parties,916,2020,ROM-EMP,FALSE
+ROU,parliament,PALD,"Alianta Liberalilor si
+Democratilor","Alliance of Liberals
+and Democrats",5662,2016,ROM-PALD,FALSE
+ROU,parliament,PDL,Partidul Democrat- Liberal,Democratic Liberal Party,660,2008,ROM-PDL,FALSE
+ROU,parliament,PER,Partidul Ecologist Roman,Ecologist Party of Romania,1373,2020,ROM-PER,FALSE
+ROU,parliament,PMP,Partidul Miscarea Populara,People's Movement Party,3210,"2016, 2020",ROM-PMP,FALSE
+ROU,parliament,PNGCD,"Partidul Noua Generatie - Crestin
+Democrat","New Generation Party -- Christian
+Democratic",296,"2004, 2008",ROM-PNGCD,FALSE
+ROU,parliament,PNL,Partidul National Liberal,National Liberal Party,481,"2008, 2016, 2020",ROM-PNL,FALSE
+ROU,parliament,PNL-PD,Alianta Dreptate si Adevar,Justice and Truth Alliance,215,2004,ROM-PNL-PD,FALSE
+ROU,parliament,PNTCD,Partidul National Taranesc Crestin Democrat,Christian- Democratic National Peasants' Party,1750,2004,ROM-PNTCD,FALSE
+ROU,parliament,PP-DD,Partidul Poporului - Dan Diaconescu,People's Party Â– Dan Diaconescu,2474,2012,ROM-PP-DD,FALSE
+ROU,parliament,PRM,Partidul Romania Mare,Greater Romania Party,1305,"2004, 2008, 2012,
+2020",ROM-PRM,FALSE
+ROU,parliament,PROR,PRO Romania,PRO Romania,7359,2020,ROM-PROR,FALSE
+ROU,parliament,PRU,Partidul Romania Unita,United Romania Party,5854,2016,ROM-PRU,FALSE
+ROU,parliament,PSD,"Partidul Social
+Democrat","Social Democratic
+Party",120,"2016, 2020",ROM-PSD,FALSE
+ROU,parliament,PSD-PC,Alliance PSD+PC,Alliance PSD+PC,6153,2008,ROM-PSD-PC,FALSE
+ROU,parliament,PSD+PUR,"Uniunea Nationala
+PSD+PUR","National Union
+PSD+PUR",1347,2004,ROM-PSD+PUR,FALSE
+ROU,parliament,PSR,Partidul Socialist Roman,Romanian Socialist Party,7035,2020,ROM-PSR,FALSE
+ROU,parliament,PV,Partidul Verde,Green Party,7033,2020,ROM-PV,FALSE
+ROU,parliament,UDMR,Uniunea Democrata Maghiara din Romania / Romaniai Magyar Demokrata Szovetseg,"Democratic Union of Hungarians in Romania / Democratic Alliance of Hungarians in
+Romania",1105,"2004, 2008, 2012,
+2016, 2020",ROM-UDMR,FALSE
+ROU,parliament,UNSR,Uniunea Salvati Romania,Save Romania Union,5969,2016,ROM-UNSR,FALSE
+ROU,parliament,USL,Uniunea Social Liberala,Social Liberal Union,5941,2012,ROM-USL,FALSE
+ROU,ep,ALDE,Alianta Liberalilor si Democratilor,Alliance of Liberals and Democrats,5662,2019,ROM-ALDE,FALSE
+ROU,ep,FC,Forta Civica,Civic Force,2473,2014,ROM-FC,FALSE
+ROU,ep,Ind.,independent,independent,2894,"2007, 2009, 2014,
+2019",ROM-Ind.,FALSE
+ROU,ep,PC,Partidul Conservator,Conservative Party,6769,2007,ROM-PC,FALSE
+ROU,ep,PD,Partidul Democrat,Democratic Party,1715,2007,ROM-PD,FALSE
+ROU,ep,PIN,Partidul Initiativa Nationala,National Initiative Party,1579,2007,ROM-PIN,FALSE
+ROU,ep,PLD,Partidul Liberal Democrat,Liberal Democratic Party,874,2007,ROM-PLD,FALSE
+ROU,ep,PNG-CD,Partidul Noua Generatie - Crestin Democrat,New Generation Party - Christian Democratic,296,2007,ROM-PNG-CD,FALSE
+ROU,ep,PR,Partida Romilor,Party of the Roma,173,2007,ROM-PR,FALSE
+ROU,ep,PRO,PRO Romania,PRO Romania,7359,2019,ROM-PRO,FALSE
+ROU,ep,PSD-UNPR-PC,alliance,alliance,4002,2014,ROM-PSD-UNPR-PC,FALSE
+ROU,ep,PSD+PC,Alianta PSD+PC,Alliance PSD+PC,6153,2009,ROM-PSD+PC,FALSE
+ROU,ep,UDM / UDMR / UNDR,Uniunea Democrata Maghiara din Romania / Romaniai Magyar Demokrata Szovetseg,Democratic Union of Hungarians in Romania / Democratic Alliance of Hungarians in Romania,1105,"2007, 2009, 2014,
+2019",ROM-UDM / UDMR / UNDR,FALSE
+ROU,ep,USR-PLUS,Uniunea Salvati Romania,Save Romania Union,5969,2019,ROM-USR-PLUS,FALSE
+SVK,parliament,99PERCENT,99% - obciansky hlas,99 Percent – Civic Voice,629,2012,SVK-99PERCENT,FALSE
+SVK,parliament,ANO,Aliancia Noveho Obcana,Alliance of the New Citizen,217,2006,SVK-ANO,FALSE
+SVK,parliament,KDH,Krestanskodemokrati cke hnutie,Christian Democratic Movement,63,"2006, 2010, 2012,
+2016, 2020",SVK-KDH,FALSE
+SVK,parliament,KSS,Komunisticka strana Slovenska,Communist Party of Slovakia,340,2006,SVK-KSS,FALSE
+SVK,parliament,LS-HZDS,Ludova strana - Hnutie za demokraticke Slovensko,People's Party – Movement for a Democratic Slovakia,560,"2006, 2010",SVK-LS-HZDS,FALSE
+SVK,parliament,LSNS,Ludova strana Nase Slovensko,People's Party Our Slovakia,656,"2010, 2012, 2016,
+2020",SVK-LSNS,FALSE
+SVK,parliament,MOST-HID,MOST-HID,Most-Hid,258,"2010, 2012, 2016,
+2020",SVK-MOST-HID,FALSE
+SVK,parliament,OLANO,Obycajni Ludia a Nezavisle Osobnosti,Ordinary People and Independents,2130,"2012, 2016, 2020",SVK-OLANO,FALSE
+SVK,parliament,SAS,Sloboda a Solidarita,Freedom and Solidarity,1386,"2010, 2012, 2016,
+2020",SVK-SAS,FALSE
+SVK,parliament,SDKU/DS,Slovenska demokraticka a krestanska unia - Demokraticka strana,Slovak Democratic and Christian Union – Democratic Party,1617,"2006, 2010, 2012",SVK-SDKU/DS,FALSE
+SVK,parliament,SDL,Strana demokratickej lavice,Party of the Democratic Left (2005),2131,2010,SVK-SDL,FALSE
+SVK,parliament,SF,Slobodne forum,Free Forum,137,2006,SVK-SF,FALSE
+SVK,parliament,SIET,Siet,Network,4872,2016,SVK-SIET,FALSE
+SVK,parliament,SME,Sme Rodina - Boris Kollar,We are family – Boris Kollar,4873,"2016, 2020",SVK-SME,FALSE
+SVK,parliament,SMER,Smer - socialna demokracia,Direction – Social Democracy,311,"2006, 2010, 2012,
+2016, 2020",SVK-SMER,FALSE
+SVK,parliament,SMK-MKP,Strana madarskej koalicie / Strana madarskej komunity,Party of the Hungarian Coalition / Party of the Hungarian Community,349,"2006, 2010, 2012,
+2016",SVK-SMK-MKP,FALSE
+SVK,parliament,SNS,Slovenska narodna strana,Slovak National Party,730,"2006, 2010, 2012,
+2016, 2020",SVK-SNS,FALSE
+SVK,parliament,SPOLU,Spolu - obcianska demokracia,Together – Civic Democracy,8177,2020,SVK-SPOLU,FALSE
+SVK,ep,"HZD, LU",Hnutie za demokraciu,Movement for Democracy,2133,2004,"SVK-HZD, LU",FALSE
+SVK,ep,"KDS, OKS",Obcianska konzervativna strana,Civic Conservative Party,665,2009,"SVK-KDS, OKS",FALSE
+SVK,ep,,Spolu - obcianska demokracia,Together - Civic Democracy,8177,2019,SVK-Koalicia Progresivne Slovensko a SPOLU - obcianska demokracia,FALSE
+SVK,ep,,Ludova strana Nase Slovensko,People's Party Our Slovakia,656,2019,"SVK-Kotleba - Ludova strana Nase
+Slovensko",FALSE
+SVK,ep,Krestanska unia,Krestanska unia,Christian Union,7360,2019,SVK-Krestanska unia,FALSE
+SVK,ep,,Krestanskodemokra ticke hnutie,Christian Democratic Movement,63,2019,SVK-Krestanskodemokra ticke hnutie,FALSE
+SVK,ep,MS,Magnificat Slovakia,Beautiful Slovakia,3221,2014,SVK-MS,FALSE
+SVK,ep,NAS-NS,Narod a Spravodlivost - nasa strana,Nation and Justice- Our Party,2132,2014,SVK-NAS-NS,FALSE
+SVK,ep,NOVA-KDS-OKS,Nova vacsina,New Majority,6686,2014,SVK-NOVA-KDS-OKS,FALSE
+SVK,ep,,Obycajni Ludia a Nezavisle Osobnosti,Ordinary People and Independents,2130,2019,"SVK-OBYCAJNI LUDIA a
+nezavisle osobnosti (OLANO)",FALSE
+SVK,ep,OKS,Obcianska konzervativna strana,Civic Conservative Party,665,2004,SVK-OKS,FALSE
+SVK,ep,,Obycajni Ludia a Nezavisle Osobnosti,Ordinary People and Independents,2130,2014,SVK-OLANO-NOVA-KU- ZMENA ZDOLA,FALSE
+SVK,ep,PRAVO,"Pravo a
+spravodlivost",Law and Justice,3208,2014,SVK-PRAVO,FALSE
+SVK,ep,SaS,Sloboda a Solidarita,Freedom and Solidarity,1386,2009,SVK-SaS,FALSE
+SVK,ep,SDKU,"Slovenska demokraticka a krestanska unia -
+Demokraticka strana","Slovak Democratic and Christian Union
+- Democratic Party",1617,2004,SVK-SDKU,FALSE
+SVK,ep,SDKU-DS,Slovenska demokraticka a krestanska unia - Demokraticka strana,"Slovak Democratic and Christian Union
+- Democratic Party",1617,"2009, 2014",SVK-SDKU-DS,FALSE
+SVK,ep,Sloboda a Solidarita,Sloboda a Solidarita,"Freedom and
+Solidarity",1386,2019,SVK-Sloboda a Solidarita,FALSE
+SVK,ep,Slovenska narodna strana,Slovenska narodna strana,Slovak National Party,730,2019,SVK-Slovenska narodna strana,FALSE
+SVK,ep,,Sme Rodina - Boris Kollar,We are family - Boris Kollar,4873,2019,"SVK-SME RODINA - Boris
+Kollar",FALSE
+SVK,ep,,Smer - socialna demokracia,Direction - Social Democracy,311,2019,SVK-SMER - socialna demokracia,FALSE
+SVK,ep,"SNS, P SNS",Slovenska narodna strana,Slovak National Party,730,2004,"SVK-SNS, P SNS",FALSE
+SVK,ep,,Strana madarskej koalicie / Strana madarskej komunity,"Party of the Hungarian Coalition
+/ Party of the Hungarian Community",349,2019,SVK-Strana madarskej komunity - Magyar Kozosseg Partja,FALSE
+SVK,ep,SZ,Strana zelenych,Green Party (1992),5849,2009,SVK-SZ,FALSE
+SVK,ep,TIP,Strana TIP - Tvorime inu politiku,"TIP Party - We create another
+policy",3222,2014,SVK-TIP,FALSE
+SVN,parliament,AS,Aktivna Slovenija,Active Slovenia,1302,2004,SVN-AS,FALSE
+SVN,parliament,DD,Dobra Drzava,Good Country,6133,2018,SVN-DD,FALSE
+SVN,parliament,DESUS,Demokraticna stranka upokojencev Slovenije,Democratic Party of Retired People of Slovenia,467,"2004, 2008, 2011,
+2014, 2018",SVN-DESUS,FALSE
+SVN,parliament,GPS,Zeleni Slovenije,Greens of Slovenia,1494,2018,SVN-GPS,FALSE
+SVN,parliament,LDS,Liberalna demokracija Slovenije,Liberal Democracy of Slovenia,975,"2004, 2008, 2011",SVN-LDS,FALSE
+SVN,parliament,LEVICA,Zdruzena levica,United Left,4714,"2014, 2018",SVN-LEVICA,FALSE
+SVN,parliament,LGV,Drzavljanska lista,Civic List,98,2011,SVN-LGV,FALSE
+SVN,parliament,LIPA,Stranka Lipa,Party Lime Tree,881,2008,SVN-LIPA,FALSE
+SVN,parliament,LMS,Lista Marjana Sarca,List of Marjan Sarec,6132,2018,SVN-LMS,FALSE
+SVN,parliament,LZJPS,Lista Zorana Jankovica - Pozitivna Slovenija,"Zoran Jankovic's List
+– Positive Slovenia",1773,"2011, 2014",SVN-LZJPS,FALSE
+SVN,parliament,NSI,Nova Slovenija - Krscanska ljudska stranka,New Slovenia -- Christian People's Party,1618,"2004, 2008, 2011,
+2014, 2018",SVN-NSI,FALSE
+SVN,parliament,PIRATE,Piratska stranka Slovenije,Slovenian Pirate Party,3099,"2014, 2018",SVN-PIRATE,FALSE
+SVN,parliament,SD,Socialni demokrati / Zdruzena lista socialnih demokratov,Social Democrats / United List of Social Democrats,1403,"2004, 2008, 2011,
+2014, 2018",SVN-SD,FALSE
+SVN,parliament,SDS,Slovenska demokratska stranka,Slovenian Democratic Party,472,"2004, 2008, 2011,
+2014, 2018",SVN-SDS,FALSE
+SVN,parliament,SJN,Slovenija je nasa,Slovenia is Ours,740,2004,SVN-SJN,FALSE
+SVN,parliament,SLS,Slovenska ljudska stranka,Slovenian People's Party,764,"2004, 2011, 2014,
+2018, 2008",SVN-SLS,FALSE
+SVN,parliament,SMC,"Stranka Mira Cerarja
+/ Stranka modernega centra",Party of Miro Cerar / Modern Center Party,3098,"2014, 2018",SVN-SMC,FALSE
+SVN,parliament,SMS-ZELENI,Stranka mladih Slovenije,Youth Party of Slovenia,1401,2004,SVN-SMS-ZELENI,FALSE
+SVN,parliament,SNS,Slovenska nacionalna stranka,Slovenian National Party,96,"2004, 2008, 2011,
+2014, 2018",SVN-SNS,FALSE
+SVN,parliament,TRS,Stranka za trajnostni razvoj Slovenije,Party for Sustainable Development of Slovenia,1015,2011,SVN-TRS,FALSE
+SVN,parliament,ZAAB,Zaveznistvo Alenke Bratusek / Stranka Alenke Bratusek,Alliance of Alenka Bratusek / Party of Alenka Bratušek,3114,"2014, 2018",SVN-ZAAB,FALSE
+SVN,parliament,ZARES,Zares,For Real,474,2008,SVN-ZARES,FALSE
+SVN,ep,DL,Drzavljanska lista,Civic List,98,2014,SVN-DL,FALSE
+SVN,ep,DOM,Domovinska liga,Patriotic League,7362,2019,SVN-DOM,FALSE
+SVN,ep,GZS,Glas zensk Slovenije,"Voice of Slovenian
+women",1039,2004,SVN-GZS,FALSE
+SVN,ep,MARJANA,Lista Marjana Sarca,List of Marjan Sarec,6132,2019,SVN-MARJANA,FALSE
+SVN,ep,N.SI,Nova Slovenija - Krscanska ljudska stranka,New Slovenia - Christian People's Party,1618,"2004, 2009, 2014,
+2019",SVN-N.SI,FALSE
+SVN,ep,PIRATSKA STRANKA,Piratska stranka Slovenije,Slovenian Pirate Party,3099,2014,SVN-PIRATSKA STRANKA,FALSE
+SVN,ep,POVEZIMO,Povezimo se,Connect,7363,2019,SVN-POVEZIMO,FALSE
+SVN,ep,PS,Lista Zorana Jankovica - Pozitivna Slovenija,"Zoran Jankovic's List
+- Positive Slovenia",1773,2014,SVN-PS,FALSE
+SVN,ep,SAB,"Zaveznistvo Alenke Bratusek / Stranka
+Alenke Bratusek","Alliance of Alenka Bratusek / Party of
+Alenka Bratusek",3114,2019,SVN-SAB,FALSE
+SVN,ep,SANJSKA SLUZBA,Sanjska sluzba,Dream Job,3204,2014,SVN-SANJSKA SLUZBA,FALSE
+SVN,ep,SMS,Stranka mladih Slovenije,Youth Party of Slovenia,1401,"2004, 2009",SVN-SMS,FALSE
+SVN,ep,SOLIDARNOST,Solidarnost,Solidarity,3220,2014,SVN-SOLIDARNOST,FALSE
+SVN,ep,VERJAMEM,Verjamem,I Believe,3205,2014,SVN-VERJAMEM,FALSE
+SVN,ep,ZDRUZENA LEVICA,Levica,The Left,6131,2014,SVN-ZDRUZENA LEVICA,FALSE
+SVN,ep,ZELENI,Zeleni Slovenije,Greens of Slovenia,1494,2019,SVN-ZELENI,FALSE
+SVN,ep,ZLSD,Socialni demokrati / Zdruzena lista socialnih demokratov,Social Democrats / United List of Social Democrats,1403,2004,SVN-ZLSD,FALSE
+ESP,parliament,AMAIUR,Amaiur,Amaiur,1671,2011,ESP-AMAIUR,FALSE
+ESP,parliament,BNG,Bloque Nacionalista Galego,Galician Nationalist Block,1011,2000,ESP-BNG,FALSE
+ESP,parliament,CC,Coalicion Canaria,Canary Coalition,81,2000,ESP-CC,FALSE
+ESP,parliament,CDC,Convergencia Democratica de Catalunya,Democratic Convergence of Catalonia,4795,2016,ESP-CDC,FALSE
+ESP,parliament,CIU,Convergencia i Unio,Convergence and Unity,139,"1993, 1996, 2000,
+2004, 2008, 2011",ESP-CIU,FALSE
+ESP,parliament,CS,Ciudadanos - Partido de la Ciudadania,Citizens -- Party of the Citizenry,3217,2019,ESP-CS,FALSE
+ESP,parliament,EAJ_PNV,Partido Nacionalista Vasco - Euzko Alderdi Jeltzalea,Basque Nationalist Party,1637,"1993, 1996, 2000,
+2004, 2008, 2011",ESP-EAJ_PNV,FALSE
+ESP,parliament,ECP,En Comu Podem,In Common We Can,8031,"2016, 2015",ESP-ECP,FALSE
+ESP,parliament,EH BILDU,Euskal Herria Bildu / Reunir Euskal Herria,Basque Country Unite,5668,2019,ESP-EH BILDU,FALSE
+ESP,parliament,ERC,Esquerra Republicana de Catalunya,Republican Left of Catalonia,848,"2004, 2008, 2011",ESP-ERC,FALSE
+ESP,parliament,IU,Izquierda Unida,United Left,247,"1993, 1996, 2000,
+2004, 2008, 2011",ESP-IU,FALSE
+ESP,parliament,JXCAT-JUNTS,Junts per Catalunya,Together for Catalonia,7421,2019,ESP-JXCAT-JUNTS,FALSE
+ESP,parliament,PODEMOS,Podemos,We Can,3203,2015,ESP-PODEMOS,FALSE
+ESP,parliament,PP,Alianza-Partido Popular / Partido Popular,People's Alliance- Party / People's Party,441,"1993, 1996, 2000,
+2004, 2008, 2011,
+2015, 2016, 2019",ESP-PP,FALSE
+ESP,parliament,PSOE,Partido Socialista Obrero Espanol,Spanish Socialist Workers Party,1338,"1993, 1996, 2000,
+2004, 2008, 2011,
+2015, 2016, 2019",ESP-PSOE,FALSE
+ESP,parliament,UPYD,Union Progreso y Democracia,"Union, Progress and Democracy",55,2011,ESP-UPYD,FALSE
+ESP,parliament,VOX,Vox,Voice,3218,2019,ESP-VOX,FALSE
+ESP,ep,AHORA REPUBLICAS,"Esquerra
+Republicana de Catalunya",Republican Left of Catalonia,848,2019,ESP-AHORA REPUBLICAS,FALSE
+ESP,ep,C's,Ciudadanos - Partido de la Ciudadania,Citizens - Party of the Citizenry,3217,2014,ESP-C's,FALSE
+ESP,ep,CE,Ertiani Natsionaluri Modzraoba,United National Movement,,"1999, 2004",ESP-CE,FALSE
+ESP,ep,CEU,Coalicion por la Europa de los Pueblos,Coalition for the Europe of the Peoples,5853,"2009, 2014, 2019",ESP-CEU,FALSE
+ESP,ep,CN,Coalicion Nacionalista- Europea,European- Nationalist Coalition,2539,1994,ESP-CN,FALSE
+ESP,ep,EDP-V,Europa de los Pueblos - Verdes,Europe of the People - The Greens,1643,"1999, 2004, 2009",ESP-EDP-V,FALSE
+ESP,ep,EPDD,Esquerra Republicana de Catalunya,Republican Left of Catalonia,848,2014,ESP-EPDD,FALSE
+ESP,ep,HB,Herri Batasuna,United People,473,1999,ESP-HB,FALSE
+ESP,ep,II,"Iniciativa Internacionalista - La Solidaridad entre
+los Pueblos",Internationalist Initiative - Solidarity between Peoples,1141,2009,ESP-II,FALSE
+ESP,ep,JUNTS,Junts per Catalunya,"Together for
+Catalonia",7421,2019,ESP-JUNTS,FALSE
+ESP,ep,PACMA,Partido Animalista Contra el Maltrato Animal,Animalist Party Against Mistreatment to Animals,3219,"2014, 2019",ESP-PACMA,FALSE
+ESP,ep,PODEMOS-IU,Unidas Podemos,United We Can,7656,2019,ESP-PODEMOS-IU,FALSE
+ESP,ep,UPyD,Union Progreso y Democracia,"Union, Progress and Democracy",55,"2009, 2014",ESP-UPyD,FALSE
+SWE,parliament,C,Centre Party,Centre Party,7415,"1991, 1994, 1998,
+2002, 2006, 2010,
+2014, 2018",SWE-C,FALSE
+SWE,parliament,FP,Folkpartiet liberalerna / Liberalerna,"Liberal People's Party
+/ The Liberals",1274,"1991, 1994, 1998,
+2002, 2006, 2010,
+2014, 2018",SWE-FP,FALSE
+SWE,parliament,KD,Kristdemokraterna,Christian Democrats,651,"1991, 1994, 1998,
+2002, 2006, 2010,
+2014, 2018",SWE-KD,FALSE
+SWE,parliament,M,Allmanna valmansforbundet / Hogern / Hogerpartiet / Moderata samlingspartiet,General Electoral League / The Right / Right Wing Party / Moderate Party,690,"1991, 1994, 1998,
+2002, 2006, 2010,
+2014, 2018",SWE-M,FALSE
+SWE,parliament,MP,Miljopartiet de Grona,Greens,456,"1991, 1994, 1998,
+2002, 2006, 2010,
+2014, 2018",SWE-MP,FALSE
+SWE,parliament,OTHER,other,other,1887,"1991, 1994, 1998,
+2002, 2006, 2010,
+2014, 2018",SWE-OTHER,FALSE
+SWE,parliament,SAP,Socialdemokraterna / Sveriges Socialdemokratiska Arbetareparti,Social Democrats / Social Democratic Workers' Party of Sweden,487,"1991, 1994, 1998,
+2002, 2006, 2010,
+2014, 2018",SWE-SAP,FALSE
+SWE,parliament,SD,Sverigedemokraterna,Sweden Democrats,409,"2010, 2014, 2018",SWE-SD,FALSE
+SWE,parliament,VP,Vansterpartiet / Sveriges Komunistiska Parti,Left Party / Communist Party,830,"1991, 1994, 1998,
+2002, 2006, 2010,
+2014, 2018",SWE-VP,FALSE
+SWE,ep,FI,Feministiskt initiativ,Feminist Initiative,1240,"2009, 2014",SWE-FI,FALSE
+SWE,ep,JL,Junilistan,June List,1093,"2004, 2009",SWE-JL,FALSE
+SWE,ep,PP,Piratpartiet,Pirate Party,1485,"2009, 2014",SWE-PP,FALSE
+CHE,parliament,BDP,Burgerlich- Demokratische Partei (BDP) Graubunden,Conservative Democratic Party of Switzerland,1415,"2011, 2015, 2019",CHE-BDP,FALSE
+CHE,parliament,CVP,Katholische Konservative / Christlichdemokratisc he Volkspartei,"Catholic Conservative
+/ Christian Democratic Peoples Party",1808,"1991, 1995, 1999,
+2003, 2007, 2011,
+2015, 2019",CHE-CVP,FALSE
+CHE,parliament,EDU,Eidgenossisch- Demokratische Union,Federal Democratic Union of Switzerland,631,"1995, 1999, 2003,
+2007, 2011, 2015",CHE-EDU,FALSE
+CHE,parliament,EVP,Evangelische Volkspartei der Schweiz,Protestant Peoples Party,1123,"1991, 1995, 1999,
+2003, 2007, 2011,
+2015, 2019",CHE-EVP,FALSE
+CHE,parliament,FDP,FDP.Die Liberalen,FDP.The Liberals,1231,"1991, 1995, 1999,
+2003, 2007, 2011,
+2015, 2019",CHE-FDP,FALSE
+CHE,parliament,FGA,Feministische und grun-alternative Gruppierungen,Feminists and Green- Alternative Groups,1201,"1991, 1995",CHE-FGA,FALSE
+CHE,parliament,FPS,Auto-Partei / Freiheitspartei der Schweiz,Automobile Party / Freedom Party of Switzerland,1311,"1991, 1995",CHE-FPS,FALSE
+CHE,parliament,GLP,Grunliberale Partei der Schweiz,Green Liberal Party,1759,"2007, 2011, 2015,
+2019",CHE-GLP,FALSE
+CHE,parliament,GPS,Grune Partei,Green Party,1006,"1991, 1995, 1999,
+2003, 2007, 2011,
+2015, 2019",CHE-GPS,FALSE
+CHE,parliament,LDU,Landesring der Unabhangigen,Independents Alliance,1194,"1991, 1995",CHE-LDU,FALSE
+CHE,parliament,LEGA,Lega dei Ticinesi,Ticino League,1661,"1991, 2015",CHE-LEGA,FALSE
+CHE,parliament,LPS,Liberale Partei der Schweiz,Liberal Party of Switzerland,444,"1991, 1995, 1999,
+2003, 2007",CHE-LPS,FALSE
+CHE,parliament,PDA,Partei der Arbeit der Schweiz,Swiss Party of Labour,669,1995,CHE-PDA,FALSE
+CHE,parliament,SD,Nationale Aktion / Schweizer Demokraten,National Action / Swiss Democrats,1819,"1991, 1995, 1999",CHE-SD,FALSE
+CHE,parliament,SPBP,Sozialdemokratische Partei der Schweiz,Social Democratic Party of Switzerland,29,"1991, 1995, 1999,
+2003, 2007, 2011,
+2015, 2019",CHE-SPBP,FALSE
+CHE,parliament,SVP,Schweizerische Volkspartei,Swiss People's Party,308,"1991, 1995, 1999,
+2003, 2007, 2011,
+2015, 2019",CHE-SVP,FALSE
+TUR,parliament,AKP,Adalet ve Kalkinma Partisi,Justice and Development Party,306,"2002, 2007, 2011,
+2015, 2018",TUR-AKP,FALSE
+TUR,parliament,ANAP,Anavatan Partisi,Motherland Party,1190,2002,TUR-ANAP,FALSE
+TUR,parliament,BBP,Buyuk Birlik Partisi,Great Union Party,1330,2002,TUR-BBP,FALSE
+TUR,parliament,CHP,Cumhuriyet Halk Partisi,Republican Peoples Party,1060,"2002, 2007, 2011,
+2015, 2018",TUR-CHP,FALSE
+TUR,parliament,DEHAP,Demokratik Halk Partisi,Democratic People's Party,1355,2002,TUR-DEHAP,FALSE
+TUR,parliament,DP,Demokrat Parti,Democratic Party (2007),899,2007,TUR-DP,FALSE
+TUR,parliament,DSP,"Demokratik Sol
+Parti","Democratic Left
+Party",1740,2002,TUR-DSP,FALSE
+TUR,parliament,DYP,Dogru Yol Partisi,True Path Party,351,2002,TUR-DYP,FALSE
+TUR,parliament,GENC PARTI,Genc Parti,Young Party,159,"2002, 2007",TUR-GENC PARTI,FALSE
+TUR,parliament,HDP,Halklarin Demokratik Partisi,Peoples' Democratic Party,6042,"2015, 2018",TUR-HDP,FALSE
+TUR,parliament,IYI PARTI,Iyi Parti,Good Party,6236,2018,TUR-IYI PARTI,FALSE
+TUR,parliament,MHP,Milliyetci Hareket Partisi,Nationalist Movement [Action] Party,1610,"2002, 2007, 2011,
+2015, 2018",TUR-MHP,FALSE
+TUR,parliament,SAADET PARTISI,Saadet Partisi,Felicity Party,572,"2002, 2007, 2011,
+2018",TUR-SAADET PARTISI,FALSE
+TUR,parliament,YTP,Yeni Turkiye Partisi,New Turkey Party (2002),2471,2002,TUR-YTP,FALSE
+GBR,parliament,BREXIT,Brexit Party,Brexit Party,7364,2019,GBR-BREXIT,FALSE
+GBR,parliament,CONSERVATIVES,Conservatives,Conservatives,1567,"1992, 1997, 2001,
+2005, 2010, 2015,
+2017, 2019",GBR-CONSERVATIVES,FALSE
+GBR,parliament,GREENS,Green Party of England and Wales,Green Party of England and Wales,1794,"2015, 2017, 2019",GBR-GREENS,FALSE
+GBR,parliament,LABOUR,Labour Party,Labour,1516,"1992, 1997, 2001,
+2005, 2010, 2015,
+2017, 2019",GBR-LABOUR,FALSE
+GBR,parliament,LIB DEMS,Liberal Democrats,Liberal Democrats,1388,"1992, 1997, 2001,
+2005, 2010, 2015,
+2017, 2019",GBR-LIB DEMS,FALSE
+GBR,parliament,SNP,Scottish National Party,Scottish National Party,986,"1992, 1997, 2001,
+2005, 2010, 2015,
+2017, 2019",GBR-SNP,FALSE
+GBR,parliament,UKIP,United Kingdom Independence Party,United Kingdom Independence Party,601,"2010, 2015, 2017",GBR-UKIP,FALSE
+GBR,ep,AN IND,An Independence from Europe,An Independence from Europe,3198,2014,GBR-AN IND,FALSE
+GBR,ep,BNP,British National Party,British National Party,855,"2004, 2009, 2014",GBR-BNP,FALSE
+GBR,ep,CON,Conservatives,Conservatives,1567,"1999, 2004, 2009,
+2014, 2019",GBR-CON,FALSE
+GBR,ep,GREEN,Green Party of England and Wales,Green Party of England and Wales,1794,"1999, 2004, 2009,
+2014, 2019",GBR-GREEN,FALSE
+GBR,ep,LAB,Labour Party,Labour,1516,"1999, 2004, 2009,
+2014, 2019",GBR-LAB,FALSE
+GBR,ep,LDEM,Liberal Democrats,Liberal Democrats,1388,"1999, 2004, 2009,
+2014, 2019",GBR-LDEM,FALSE
+GBR,ep,RESPECT,Respect - The Unity Coalition,Respect - The Unity Coalition,1082,2004,GBR-RESPECT,FALSE
+GBR,ep,SNP-PC,Scottish National Party,Scottish National Party,986,"1999, 2004, 2009,
+2014, 2019",GBR-SNP-PC,FALSE
