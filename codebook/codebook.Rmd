@@ -42,7 +42,7 @@ body {
 **References**
 
 + Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of Political Parties Worldwide.” Party Politics 25(2): 97–109. doi: [10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671)
-+ Bederke, Paul, Holger Döring, and Sven Regel. 2021. “Party Facts Dataverse.” [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
++ Bederke, Paul, Holger Döring, and Sven Regel. 2022. “Party Facts Dataverse.” [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
 
 
 
@@ -464,6 +464,10 @@ We review all comments and mark them as solved once the issue has been addressed
 
 
 ### Codebook
+
+2022-12-16
+
+- update references
 
 2021-12-07
 
