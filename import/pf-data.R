@@ -8,10 +8,9 @@ pl_dt <-
   tibble(dataset = names(.), parties = .) %>% 
   mutate(dataset = fct_reorder(dataset, parties))
 
-pl <- 
-  ggplot(pl_dt, aes(x = dataset, y = parties)) +
-  geom_bar(stat = "identity") +
-  coord_flip()
+pl <-
+  ggplot(pl_dt, aes(x = parties, y = dataset)) +
+  geom_bar(stat = "identity")
 
 print(pl)
 ggsave("pf-data.png", pl, width = 20, height = 15, units = "cm")
