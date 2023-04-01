@@ -50,10 +50,10 @@ check_first_id <-
   slice(1) %>%
   filter(ess_id != first_ess_id)
 
-raise_warning(check_first_id, "Some first_ess_id from link file not first entry")
+raise_warning(check_first_id, "Some 'first_ess_id' from link file not first entry")
 
 check_harmonized <-
   ess_update %>%
   filter(is.na(first_ess_id) | is.na(country))
 
-raise_warning(check_harmonized, "Some some ESS observations are not harmonized")
+raise_warning(check_harmonized, "Some ESS observations are not harmonized")
