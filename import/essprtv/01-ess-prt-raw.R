@@ -1,3 +1,6 @@
+library(conflicted)
+conflicts_prefer(dplyr::filter, .quiet = TRUE)
+
 library(tidyverse)
 library(readstata13)
 
@@ -28,8 +31,8 @@ get_ess_parties <- function(data, encoding) {
   data_path <- paste0(ess_dta_path, data)
 
   party <-
-    read.dta13(data_path, fromEncoding = encoding) %>%
-    select(cntry, essround, starts_with(c("prtv", "prtc"))) %>%
+    read.dta13(data_path, fromEncoding = encoding) |>
+    select(cntry, essround, starts_with(c("prtv", "prtc"))) |>
     pivot_longer(c(-cntry, -essround),
                  names_to = "variable",
                  values_to = "party")
@@ -37,11 +40,11 @@ get_ess_parties <- function(data, encoding) {
   party_id <-
     read.dta13(data_path,
                convert.factors = FALSE,
-               fromEncoding = encoding) %>%
-    select(cntry, essround, starts_with(c("prtv", "prtc"))) %>%
+               fromEncoding = encoding) |>
+    select(cntry, essround, starts_with(c("prtv", "prtc"))) |>
     pivot_longer(c(-cntry, -essround),
                  names_to = "variable",
-                 values_to = "party_id") %>%
+                 values_to = "party_id") |>
     pull(party_id)
 
   party["party_id"] <- party_id
@@ -50,7 +53,7 @@ get_ess_parties <- function(data, encoding) {
 }
 
 # party name and party ID for round 1-9 -- time intense so avoiding rereading
-if (!exists("ess_prt_raw")) {
+if (! exists("ess_prt_raw")) {
   ess_prt_raw <-
     pmap(ess_dta_files, ~ get_ess_parties(..1, ..2), .progress = TRUE) %>%
     bind_rows()
@@ -61,10 +64,14 @@ if (!exists("ess_prt_raw")) {
 
 # combine and create 'ess_id'
 ess_prt_out <-
-  ess_prt_raw %>%
-  drop_na(party) %>%
-  distinct() %>%
-  mutate(ess_id = paste(cntry, essround, party_id, substr(variable, 4, 4), sep = "-")) %>%
+  ess_prt_raw |>
+  drop_na(party) |>
+  distinct() |>
+  mutate(ess_id = paste(cntry,
+                        essround,
+                        party_id,
+                        substr(variable, 4, 4),
+                        sep = "-")) |>
   arrange(cntry, essround, variable, party_id)
 
 write_csv(ess_prt_out, "01-ess-prt-raw.csv", na = "")
@@ -73,23 +80,23 @@ write_csv(ess_prt_out, "01-ess-prt-raw.csv", na = "")
 ## Data issues ESS ----
 
 print("ESS variables with multipe 'prtv*' variables per country -- duplicate 'ess_id'")
-ess_prt_out %>%
-  filter(str_detect(variable, "prtv.+\\d")) %>%
-  pull(variable) %>%
-  unique() %>%
+ess_prt_out |>
+  filter(str_detect(variable, "prtv.+\\d")) |>
+  pull(variable) |>
+  unique() |>
   paste(collapse = ", ")
 
 
 # find parties with different ids in prtv/prtc
 
 prt_check <-
-  ess_prt_out %>%
-  select(ess_id, variable, party) %>%
-  mutate(variable = substr(variable, 1, 4)) %>%
-  distinct(ess_id, variable, .keep_all = TRUE) %>%
+  ess_prt_out |>
+  select(ess_id, variable, party) |>
+  mutate(variable = substr(variable, 1, 4)) |>
+  distinct(ess_id, variable, .keep_all = TRUE) |>
   pivot_wider(names_from = variable, values_from = party)
 
 prt_check_diff <-
-  prt_check %>%
-  drop_na() %>%
+  prt_check |>
+  drop_na() |>
   filter(prtv != prtc)
