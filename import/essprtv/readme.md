@@ -71,10 +71,10 @@ with `first_ess_id`  and `country`
     + `ess_id` — e.g. NL-1-1-v, NL-5-4-v, NL-7-5-v
   + different within one ESS round
     + e.g. Finland ESS Round 9
-    + [Green League](https://partyfacts.herokuapp.com/data/partyall/45319/) (FI-9-11-v) — variable `prtvtfi`
+    + [Green League](https://partyfacts.herokuapp.com/data/partyall/45319/) (FI-9-11-c) — variable `prtctfi`
     + [Social Democratic
-      Party](https://partyfacts.herokuapp.com/data/partyall/46025/) (FI-9-11-c) —
-      variable `prtclfi`
+      Party](https://partyfacts.herokuapp.com/data/partyall/46025/) (FI-9-11-v) —
+      variable `prtvlfi`
 + `ess_id` and `first_ess_id`
   + consist of `cntry-essround-ess_party_id-prt_v/c`
   + R tidyverse code — `mutate(ess_id = paste(cntry, essround, ess_party_id,
