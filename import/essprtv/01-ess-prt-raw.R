@@ -89,14 +89,12 @@ ess_prt_out |>
 
 # find parties with different ids in prtv/prtc
 
-prt_check <-
+prt_vc_different <-
   ess_prt_out |>
-  select(ess_id, variable, party) |>
-  mutate(variable = substr(variable, 1, 4)) |>
+  mutate(variable = substr(variable, 1, 4),
+         ess_id_vc = str_remove(ess_id, "-v$|-c$")) |>
   distinct(ess_id, variable, .keep_all = TRUE) |>
-  pivot_wider(names_from = variable, values_from = party)
-
-prt_check_diff <-
-  prt_check |>
-  drop_na() |>
-  filter(prtv != prtc)
+  select(ess_id_vc, variable, party) |>
+  pivot_wider(names_from = variable, values_from = party) |>
+  filter(prtv != prtc) |>
+  drop_na()
