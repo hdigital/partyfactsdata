@@ -1,0 +1,45 @@
+country_code,name_short,name_english,year_first,year_last,party_id
+RUS,CPSU,Communist Party of the Soviet Union,1945,1991,RUS-CPSU
+CHN,CCP,Chinese Communist Party,1949,2019,CHN-CCP
+SRB,LCY,League of Communists of Yugoslavia,1945,1990,SRB-LCY
+VNM,CPV,Communist Party of Vietnam,1951,2020,VNM-CPV
+TWN,KMT,Kuomintang,1949,2000,TWN-KMT
+DDR,SED,Socialist Unity Party of Germany,1949,1989,DDR-SED
+CUB,CPCu,Communist Party of Cuba,1961,2019,CUB-CPCu
+PRK,WPK,Workers' Party of Korea,1946,2021,PRK-WPK
+MNG,MPRP,Mongolian People's Revolutionary Party,1943,1991,MNG-MPRP
+ROU,CPR,Romanian Communist Party,1945,1989,ROU-CPR
+ALB,PLA,Albanian Workers Party,1945,1991,ALB-PLA
+LAO,RPL,Lao People's Revolutionary Party,1976,2019,LAO-RPL
+VEN,PSUV,Partido Socialista Unido de Venezuela,2008,2020,VEN-PSUV
+CZE,KSC,Communist Party of Czechoslovakia,1945,1988,CZE-KSC
+HUN,MDP,Hungarian Working People's Party,1945,1955,HUN-MDP
+HUN,MSZDP,Hungarian Socialist Workers' Party,1956,1989,HUN-MSZDP
+POL,PPR,Polish Workers' Party,1946,1947,POL-PPR
+POL,PZPR,Polish United Workers' Party,1948,1988,POL-PZPR
+BGR,BKP,Bulgarian Communist Party,1945,1989,BGR-BKP
+LTU,CPLi,Communist Party of Lithuania,1946,1989,LTU-CPLi
+EST,EKP,Communist Party of Estonia,1945,1989,EST-EKP
+LVA,LKP,Communist Party of Latvia,1945,1989,LVA-LKP
+MYS,UMNO,United Malays National Organisation,1986,2019,MYS-UMNO
+PRY,COLORADO,Colorado Party,1987,2020,PRY-COLORADO
+TUR,AKP,Justice and Development Party,2001,2020,TUR-AKP
+MEX,PRI,Institutional Revolutionary Party,1958,1991,MEX-PRI
+MOZ,FRELIMO,Liberation Front of Mozambique,1975,2019,MOZ-FRELIMO
+AGO,MPLA,People's Movement for the Liberation of Angola,1977,2020,AGO-MPLA
+IRQ,HAB,Arab Socialist Ba'ath Party Iraq,1968,2003,IRQ-HAB
+SYR,Baath,Arab Socialist Ba'ath Party Syria,1963,2011,SYR-Baath
+SGP,PAP,People's Action Party,1958,2020,SGP-PAP
+ETH,EPRFD,Ethiopian People's Revolutionary Democratic Front,1991,2019,ETH-EPRFD
+TZA,CMM,Chama Cha Mapinduzi,2003,2020,TZA-CMM
+UZB,UZCP,Communist Party of Uzbekistan,1945,1989,UZB-UZCP
+KAZ,QKP,Communist Party of Kazakh Soviet Socialist Republic,1945,1989,KAZ-QKP
+BLR,BLRCP,Communist Party of Byelorussian Soviet Socialist Republic,1945,1989,BLR-BLRCP
+MDA,MLDVCP,Communist Party of the Moldavian Soviet Socialist Republic,1945,1989,MDA-MLDVCP
+TKM,KPT,Communist Party of Turkmenistan,1945,1989,TKM-KPT
+ARM,ARMCP,Communist Party of Armenian Soviet Socialist Republic,1945,1989,ARM-ARMCP
+TJK,CPT,Communist Party of Tajikistan,1945,1989,TJK-CPT
+KGZ,CPK,Communist Party of Kirghizia,1945,1989,KGZ-CPK
+AZE,AZERCP,Azerbaijan Communist Party (1920),1945,1989,AZE-AZERCP
+GEO,GEORCP,Communist Party of Georgian Soviet Socialist Republic,1945,1989,GEO-GEORCP
+RUS,UNITRUS,United Russia,2001,2020,RUS-UNITRUS
