@@ -1,7 +1,7 @@
 library(conflicted)
-conflicts_prefer(dplyr::filter, .quiet = TRUE)
 
 library(tidyverse)
+conflicts_prefer(dplyr::filter, .quiet = TRUE)
 library(readstata13)
 
 
