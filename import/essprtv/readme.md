@@ -30,16 +30,16 @@ _Note_ — run all scripts in [PF-Data](https://github.com/hdigital/partyfactsda
 
 ## Sources
 
-+ ESS Round 1: European Social Survey Round 1 Data (2002). Data file edition 6.6. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/NSD-ESS1-2002](http://dx.doi.org/10.21338/NSD-ESS1-2002).
-+ ESS Round 2: European Social Survey Round 2 Data (2004). Data file edition 3.6. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/NSD-ESS2-2004](http://dx.doi.org/10.21338/NSD-ESS2-2004).
-+ ESS Round 3: European Social Survey Round 3 Data (2006). Data file edition 3.7. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/NSD-ESS3-2006](http://dx.doi.org/10.21338/NSD-ESS3-2006).
-+ ESS Round 4: European Social Survey Round 4 Data (2008). Data file edition 4.5. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/NSD-ESS4-2008](http://dx.doi.org/10.21338/NSD-ESS4-2008).
-+ ESS Round 5: European Social Survey Round 5 Data (2010). Data file edition 3.4. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/NSD-ESS5-2010](http://dx.doi.org/10.21338/NSD-ESS5-2010).
-+ ESS Round 6: European Social Survey Round 6 Data (2012). Data file edition 2.4. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/NSD-ESS6-2012](http://dx.doi.org/10.21338/NSD-ESS6-2012).
-+ ESS Round 7: European Social Survey Round 7 Data (2014). Data file edition 2.2. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/NSD-ESS7-2014](http://dx.doi.org/10.21338/NSD-ESS7-2014).
-+ ESS Round 8: European Social Survey Round 8 Data (2016). Data file edition 2.1. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/NSD-ESS8-2016](http://dx.doi.org/10.21338/NSD-ESS8-2016).
-+ ESS Round 9: European Social Survey Round 9 Data (2018). Data file edition 1.2. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/NSD-ESS9-2018](http://dx.doi.org/10.21338/NSD-ESS9-2018).
-+ ESS Round 10: European Social Survey Round 10 Data (2020). Data file edition 2.2. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/NSD-ESS10-2020](http://dx.doi.org/10.21338/NSD-ESS10-2020).
++ ESS Round 1: European Social Survey Round 1 Data (2002). Data file edition 6.6. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/ess1e06_6](http://dx.doi.org/10.21338/ess1e06_6).
++ ESS Round 2: European Social Survey Round 2 Data (2004). Data file edition 3.6. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/ess2e03_6](http://dx.doi.org/10.21338/ess2e03_6).
++ ESS Round 3: European Social Survey Round 3 Data (2006). Data file edition 3.7. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/ess3e03_7](http://dx.doi.org/10.21338/ess3e03_7).
++ ESS Round 4: European Social Survey Round 4 Data (2008). Data file edition 4.5. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/ess4e04_5](http://dx.doi.org/10.21338/ess4e04_5).
++ ESS Round 5: European Social Survey Round 5 Data (2010). Data file edition 3.4. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/ess5e03_4](http://dx.doi.org/10.21338/ess5e03_4).
++ ESS Round 6: European Social Survey Round 6 Data (2012). Data file edition 2.5. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.18712/ess6e02_5](http://dx.doi.org/10.18712/ess6e02_5).
++ ESS Round 7: European Social Survey Round 7 Data (2014). Data file edition 2.2. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/ess7e02_2](http://dx.doi.org/10.21338/ess7e02_2).
++ ESS Round 8: European Social Survey Round 8 Data (2016). Data file edition 2.2. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/ess8e02_2](http://dx.doi.org/10.21338/ess8e02_2).
++ ESS Round 9: European Social Survey Round 9 Data (2018). Data file edition 3.1. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.21338/ess9e03_1](http://dx.doi.org/10.21338/ess9e03_1).
++ ESS Round 10: European Social Survey Round 10 Data (2020). Data file edition 3.0. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. [doi:10.18712/ess10e03_0](http://dx.doi.org/10.18712/ess10e03_0).
 
 ---
 
