@@ -19,11 +19,11 @@ ess_dta_files <-
     "ESS3e03_7.dta", "CP1252",
     "ESS4e04_5.dta", "CP1252",
     "ESS5e03_4.dta", "CP1252",
-    "ESS6e02_4.dta", "CP1252",
+    "ESS6e02_5.dta", "CP1252",
     "ESS7e02_2.dta", "CP1252",
-    "ESS8e02_1.dta", "CP1252",
-    "ESS9e01_2.dta", "UTF-8",
-    "ESS10e02_2.dta", "UTF-8"
+    "ESS8e02_2.dta", "CP1252",
+    "ESS9e03_1.dta", "UTF-8",
+    "ESS10.dta", "UTF-8"
   )
 
 # function to get party name and party ID
