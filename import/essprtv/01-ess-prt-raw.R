@@ -12,22 +12,21 @@ ess_dta_path <- "source__ESS/"  # path of ESS rounds Stata data
 
 # data file information for ESS Rounds
 ess_dta_files <-
-  tribble(
-    ~data,           ~encoding,
-    "ESS1e06_6.dta", "CP1252",
-    "ESS2e03_6.dta", "CP1252",
-    "ESS3e03_7.dta", "CP1252",
-    "ESS4e04_5.dta", "CP1252",
-    "ESS5e03_4.dta", "CP1252",
-    "ESS6e02_5.dta", "CP1252",
-    "ESS7e02_2.dta", "CP1252",
-    "ESS8e02_2.dta", "CP1252",
-    "ESS9e03_1.dta", "UTF-8",
-    "ESS10.dta", "UTF-8"
+  c(
+    "ESS1e06_6.dta",
+    "ESS2e03_6.dta",
+    "ESS3e03_7.dta",
+    "ESS4e04_5.dta",
+    "ESS5e03_4.dta",
+    "ESS6e02_5.dta",
+    "ESS7e02_2.dta",
+    "ESS8e02_2.dta",
+    "ESS9e03_1.dta",
+    "ESS10.dta"
   )
 
 # function to get party name and party ID
-get_ess_parties <- function(data, encoding) {
+get_ess_parties <- function(data, encoding = "UTF-8") {
   data_path <- paste0(ess_dta_path, data)
 
   party <-
@@ -55,7 +54,7 @@ get_ess_parties <- function(data, encoding) {
 # party name and party ID for round 1-9 -- time intense so avoiding rereading
 if (! exists("ess_prt_raw")) {
   ess_prt_raw <-
-    pmap(ess_dta_files, ~ get_ess_parties(..1, ..2), .progress = TRUE) |>
+    map(ess_dta_files, \(.x) get_ess_parties(.x), .progress = TRUE) |>
     bind_rows()
 }
 
