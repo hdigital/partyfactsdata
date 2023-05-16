@@ -1,36 +1,36 @@
 first_ess_id,first_ess_name,year_first,year_last,ess_ids,ess_info,partyfacts_id,country,name_short,name,name_english,technical
-AL-6-1-c,Partia Socialiste e ShqipÃ«risÃ« (PS),2012,2012,AL-6-1-c,R6 --- prtclal --- Partia Socialiste e ShqipÃ«risÃ« (PS),1729,ALB,PSS,Partia Socialiste e Shqipërisë,Socialist Party of Albania,
-AL-6-2-c,Partia Demokratike e ShqipÃ«risÃ« (PD),2012,2012,AL-6-2-c,R6 --- prtclal --- Partia Demokratike e ShqipÃ«risÃ« (PD),190,ALB,PDS,Partia Demokratike e Shqipërisë,Democratic Party of Albania,
-AL-6-3-c,LÃ«vizja Socialiste pÃ«r Integrim (LSI),2012,2012,AL-6-3-c,R6 --- prtclal --- LÃ«vizja Socialiste pÃ«r Integrim (LSI),2297,ALB,LSI,Lëvizja Socialiste për Intigrim,Socialist Movement for Integration,
-AL-6-4-c,Partia Republikane e ShqipÃ«risÃ« (PR),2012,2012,AL-6-4-c,R6 --- prtclal --- Partia Republikane e ShqipÃ«risÃ« (PR),819,ALB,PRS,Partia Republikane e Shqipërisë,Republican Party of Albania,
-AL-6-6-c,"Partia DrejtÃ«si, Integrim dhe Unitet (PDIU)",2012,2012,AL-6-6-c,"R6 --- prtclal --- Partia DrejtÃ«si, Integrim dhe Unitet (PDIU)",3270,ALB,PDIU,"Partia Drejtësi, Integrim dhe Unitet","Party for Justice, Integration and Unity",
-AL-6-7-c,Partia Bashkimi pÃ«r tÃ« Drejtat e Njeriut (PBDNJ),2012,2012,AL-6-7-c,R6 --- prtclal --- Partia Bashkimi pÃ«r tÃ« Drejtat e Njeriut (PBDNJ),1636,ALB,PBDN,Partia Bashkimi per te Drejtat e Njeriut,Unity for Human Rights Party,
+AL-6-1-c,Partia Socialiste e Shqipërisë (PS),2012,2012,AL-6-1-c,R6 --- prtclal --- Partia Socialiste e Shqipërisë (PS),1729,ALB,PSS,Partia Socialiste e Shqipërisë,Socialist Party of Albania,
+AL-6-2-c,Partia Demokratike e Shqipërisë (PD),2012,2012,AL-6-2-c,R6 --- prtclal --- Partia Demokratike e Shqipërisë (PD),190,ALB,PDS,Partia Demokratike e Shqipërisë,Democratic Party of Albania,
+AL-6-3-c,Lëvizja Socialiste për Integrim (LSI),2012,2012,AL-6-3-c,R6 --- prtclal --- Lëvizja Socialiste për Integrim (LSI),2297,ALB,LSI,Lëvizja Socialiste për Intigrim,Socialist Movement for Integration,
+AL-6-4-c,Partia Republikane e Shqipërisë (PR),2012,2012,AL-6-4-c,R6 --- prtclal --- Partia Republikane e Shqipërisë (PR),819,ALB,PRS,Partia Republikane e Shqipërisë,Republican Party of Albania,
+AL-6-6-c,"Partia Drejtësi, Integrim dhe Unitet (PDIU)",2012,2012,AL-6-6-c,"R6 --- prtclal --- Partia Drejtësi, Integrim dhe Unitet (PDIU)",3270,ALB,PDIU,"Partia Drejtësi, Integrim dhe Unitet","Party for Justice, Integration and Unity",
+AL-6-7-c,Partia Bashkimi për të Drejtat e Njeriut (PBDNJ),2012,2012,AL-6-7-c,R6 --- prtclal --- Partia Bashkimi për të Drejtat e Njeriut (PBDNJ),1636,ALB,PBDN,Partia Bashkimi per te Drejtat e Njeriut,Unity for Human Rights Party,
 AL-6-8-c,Fryma e Re Demokratike (FRD),2012,2012,AL-6-8-c,R6 --- prtclal --- Fryma e Re Demokratike (FRD),3697,ALB,FRD,Fryma e Re Demokratike,New Democratic Spirit,
 AL-6-9-c,Aleanca Kuq e Zi (AK),2012,2012,AL-6-9-c,R6 --- prtclal --- Aleanca Kuq e Zi (AK),8354,ALB,AK,Aleanca Kuq e Zi,Red and Black Alliance,
 AL-6-10-c,Other,2012,2012,AL-6-10-c,R6 --- prtclal --- Other,2568,ALB,etc,other,other,7
-AT-1-1-c,SPÃ–,2002,2018,AT-1-1-c AT-2-1-c AT-3-1-c AT-7-1-c AT-8-1-c AT-9-1-c,"R1 --- prtclat --- SPÃ–
-R2 --- prtclat --- SPÃ–
-R3 --- prtclaat --- SPÃ–
-R7 --- prtclcat --- SPÃ–
-R8 --- prtclcat --- SPÃ–
+AT-1-1-c,SPÖ,2002,2018,AT-1-1-c AT-2-1-c AT-3-1-c AT-7-1-c AT-8-1-c AT-9-1-c,"R1 --- prtclat --- SPÖ
+R2 --- prtclat --- SPÖ
+R3 --- prtclaat --- SPÖ
+R7 --- prtclcat --- SPÖ
+R8 --- prtclcat --- SPÖ
 R9 --- prtcldat --- SPÖ",1384,AUT,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,
-AT-1-2-c,Ã–VP,2002,2018,AT-1-2-c AT-2-2-c AT-3-2-c AT-7-2-c AT-8-2-c AT-9-2-c,"R1 --- prtclat --- Ã–VP
-R2 --- prtclat --- Ã–VP
-R3 --- prtclaat --- Ã–VP
-R7 --- prtclcat --- Ã–VP
-R8 --- prtclcat --- Ã–VP
+AT-1-2-c,ÖVP,2002,2018,AT-1-2-c AT-2-2-c AT-3-2-c AT-7-2-c AT-8-2-c AT-9-2-c,"R1 --- prtclat --- ÖVP
+R2 --- prtclat --- ÖVP
+R3 --- prtclaat --- ÖVP
+R7 --- prtclcat --- ÖVP
+R8 --- prtclcat --- ÖVP
 R9 --- prtcldat --- ÖVP",1329,AUT,OVP,Österreichische Volkspartei,Austrian People's Party,
-AT-1-3-c,FPÃ–,2002,2018,AT-1-3-c AT-2-3-c AT-3-3-c AT-7-3-c AT-8-3-c AT-9-3-c,"R1 --- prtclat --- FPÃ–
-R2 --- prtclat --- FPÃ–
-R3 --- prtclaat --- FPÃ–
-R7 --- prtclcat --- FPÃ–
-R8 --- prtclcat --- FPÃ–
+AT-1-3-c,FPÖ,2002,2018,AT-1-3-c AT-2-3-c AT-3-3-c AT-7-3-c AT-8-3-c AT-9-3-c,"R1 --- prtclat --- FPÖ
+R2 --- prtclat --- FPÖ
+R3 --- prtclaat --- FPÖ
+R7 --- prtclcat --- FPÖ
+R8 --- prtclcat --- FPÖ
 R9 --- prtcldat --- FPÖ",463,AUT,FPO,Freiheitliche Partei Österreichs,Freedom Party of Austria,
-AT-1-4-c,GrÃ¼ne,2002,2018,AT-1-4-c AT-2-4-c AT-3-5-c AT-7-5-c AT-8-5-c AT-9-5-c,"R1 --- prtclat --- GrÃ¼ne
-R2 --- prtclat --- GrÃ¼ne
-R3 --- prtclaat --- GRÃœNE
-R7 --- prtclcat --- GrÃ¼ne
-R8 --- prtclcat --- GrÃ¼ne
+AT-1-4-c,Grüne,2002,2018,AT-1-4-c AT-2-4-c AT-3-5-c AT-7-5-c AT-8-5-c AT-9-5-c,"R1 --- prtclat --- Grüne
+R2 --- prtclat --- Grüne
+R3 --- prtclaat --- GRÜNE
+R7 --- prtclcat --- Grüne
+R8 --- prtclcat --- Grüne
 R9 --- prtcldat --- Grüne",1659,AUT,GRUENE,Die Grünen — Die grüne Alternative,The Greens — The Green Alternative,
 AT-1-5-c,LIF,2002,2006,AT-1-5-c AT-2-5-c AT-3-6-c,"R1 --- prtclat --- LIF
 R2 --- prtclat --- LIF
@@ -41,18 +41,18 @@ R3 --- prtclaat --- Other
 R7 --- prtclcat --- Other
 R8 --- prtclcat --- Other
 R9 --- prtcldat --- Other",1857,AUT,etc,other,other,7
-AT-3-4-c,BZÃ–,2006,2016,AT-3-4-c AT-7-4-c AT-8-4-c,"R3 --- prtclaat --- BZÃ–
-R7 --- prtclcat --- BZÃ–
-R8 --- prtclcat --- BZÃ–",599,AUT,BZO,Bündnis Zukunft Österreich,Alliance for the Future of Austria,
-AT-3-7-c,KPÃ–,2006,2018,AT-3-7-c AT-7-6-c AT-8-6-c AT-9-6-c,"R3 --- prtclaat --- KPÃ–
-R7 --- prtclcat --- KPÃ–
-R8 --- prtclcat --- KPÃ–
+AT-3-4-c,BZÖ,2006,2016,AT-3-4-c AT-7-4-c AT-8-4-c,"R3 --- prtclaat --- BZÖ
+R7 --- prtclcat --- BZÖ
+R8 --- prtclcat --- BZÖ",599,AUT,BZO,Bündnis Zukunft Österreich,Alliance for the Future of Austria,
+AT-3-7-c,KPÖ,2006,2018,AT-3-7-c AT-7-6-c AT-8-6-c AT-9-6-c,"R3 --- prtclaat --- KPÖ
+R7 --- prtclcat --- KPÖ
+R8 --- prtclcat --- KPÖ
 R9 --- prtcldat --- KPÖ",996,AUT,KPO,Kommunistische Partei Österreichs,Communist Party of Austria,
 AT-7-7-c,NEOS,2014,2018,AT-7-7-c AT-8-7-c AT-9-7-c,"R7 --- prtclcat --- NEOS
 R8 --- prtclcat --- NEOS
 R9 --- prtcldat --- NEOS",1970,AUT,NEOS,NEOS — Das Neue Österreich,NEOS — The New Austria,
-AT-7-8-c,Piratenpartei Ã–sterreich,2014,2016,AT-7-8-c AT-8-8-c,"R7 --- prtclcat --- Piratenpartei Ã–sterreich
-R8 --- prtclcat --- Piratenpartei Ã–sterreich",2591,AUT,1-perc,1 percent,1 percent,11
+AT-7-8-c,Piratenpartei Österreich,2014,2016,AT-7-8-c AT-8-8-c,"R7 --- prtclcat --- Piratenpartei Österreich
+R8 --- prtclcat --- Piratenpartei Österreich",2591,AUT,1-perc,1 percent,1 percent,11
 AT-7-9-c,Team Frank Stronach,2014,2016,AT-7-9-c AT-8-9-c,"R7 --- prtclcat --- Team Frank Stronach
 R8 --- prtclcat --- Team Frank Stronach",1971,AUT,TS,Team Stronach,Team Stronach,
 AT-9-4-c,PILZ,2018,2018,AT-9-4-c,R9 --- prtcldat --- PILZ,6137,AUT,PILZ,Liste Peter Pilz,Peter Pilz List,
@@ -154,7 +154,7 @@ R7 --- prtclcbe --- PS
 R8 --- prtclcbe --- PS
 R9 --- prtcldbe --- PS
 R10 --- prtclebe --- PS",500,BEL,PS,Parti Socialiste,Socialist Party [Francophone],
-BE-1-14-c,Mouvement RÃ©formateur (MR),2002,2020,BE-1-14-c BE-2-13-c BE-3-13-c BE-4-13-c BE-5-12-c BE-6-12-c BE-7-12-c BE-8-12-c BE-9-12-c BE-10-10-c,"R1 --- prtclbe --- Mouvement RÃ©formateur (MR)
+BE-1-14-c,Mouvement Réformateur (MR),2002,2020,BE-1-14-c BE-2-13-c BE-3-13-c BE-4-13-c BE-5-12-c BE-6-12-c BE-7-12-c BE-8-12-c BE-9-12-c BE-10-10-c,"R1 --- prtclbe --- Mouvement Réformateur (MR)
 R2 --- prtclabe --- MR
 R3 --- prtclabe --- MR
 R4 --- prtclbbe --- MR
@@ -202,6 +202,18 @@ R5 --- prtclbbg --- Balgarska sotsialisticheska partiya (BSP)
 R6 --- prtclcbg --- Balgarska sotsialisticheska partiya (BSP)
 R9 --- prtcldbg --- Balgarska sotsialisticheska partiya (BSP)
 R10 --- prtclebg --- Balgarska sotsialisticheska partiya (BSP)",757,BGR,BSP,Bălgarska Socialističeska Partija,Bulgarian Socialist Party,
+BG-3-2-c,Balgarska sotsialisticheska partiya (BSP),2006,2020,BG-3-2-c BG-4-1-c BG-5-1-c BG-6-2-c BG-9-7-c BG-10-2-c,"R3 --- prtclbg --- Balgarska sotsialisticheska partiya (BSP)
+R4 --- prtclabg --- Balgarska sotsialisticheska partiya (BSP)
+R5 --- prtclbbg --- Balgarska sotsialisticheska partiya (BSP)
+R6 --- prtclcbg --- Balgarska sotsialisticheska partiya (BSP)
+R9 --- prtcldbg --- Balgarska sotsialisticheska partiya (BSP)
+R10 --- prtclebg --- Balgarska sotsialisticheska partiya (BSP)",757,BGR,BSP,Bălgarska Socialističeska Partija,Bulgarian Socialist Party,
+BG-3-4-c,Dvizhenie za prava i svobodi (DPS),2006,2020,BG-3-4-c BG-4-5-c BG-5-5-c BG-6-3-c BG-9-2-c BG-10-3-c,"R3 --- prtclbg --- Dvizhenie za prava i svobodi (DPS)
+R4 --- prtclabg --- Dvizhenie za prava i svobodi (DPS)
+R5 --- prtclbbg --- Dvizhenie za prava i svobodi (DPS)
+R6 --- prtclcbg --- Dvizhenie za prava i svobodi (DPS)
+R9 --- prtcldbg --- Dvizhenie za prava i svobodi (DPS)
+R10 --- prtclebg --- Dvizhenie za prava i svobodi (DPS)",982,BGR,DPS,Dvizhenie za prava i svobodi,Movement for Rights and Freedoms,
 BG-3-4-c,Dvizhenie za prava i svobodi (DPS),2006,2020,BG-3-4-c BG-4-5-c BG-5-5-c BG-6-3-c BG-9-2-c BG-10-3-c,"R3 --- prtclbg --- Dvizhenie za prava i svobodi (DPS)
 R4 --- prtclabg --- Dvizhenie za prava i svobodi (DPS)
 R5 --- prtclbbg --- Dvizhenie za prava i svobodi (DPS)
@@ -212,6 +224,12 @@ BG-3-5-c,DSB,2006,2012,BG-3-5-c BG-4-7-c BG-5-6-c BG-6-5-c,"R3 --- prtclbg --- D
 R4 --- prtclabg --- DSB
 R5 --- prtclbbg --- DSB
 R6 --- prtclcbg --- Demokrati za silna Bulgaria (DSB)",1195,BGR,DSB,Demokrati za Silna Balgarija,Democrats for a Strong Bulgaria,
+BG-3-7-c,PP Ataka,2006,2020,BG-3-7-c BG-4-11-c BG-5-3-c BG-6-6-c BG-9-3-c BG-10-8-c,"R3 --- prtclbg --- PP Ataka
+R4 --- prtclabg --- PP Ataka
+R5 --- prtclbbg --- PP Ataka
+R6 --- prtclcbg --- PP Ataka
+R9 --- prtcldbg --- PP Ataka
+R10 --- prtclebg --- PP Ataka",1793,BGR,ATA,Natsionalen Sǎyuz Ataka,National Union Attack,
 BG-3-7-c,PP Ataka,2006,2020,BG-3-7-c BG-4-11-c BG-5-3-c BG-6-6-c BG-9-3-c BG-10-8-c,"R3 --- prtclbg --- PP Ataka
 R4 --- prtclabg --- PP Ataka
 R5 --- prtclbbg --- PP Ataka
@@ -232,12 +250,23 @@ BG-3-12-c,SDS,2006,2012,BG-3-12-c BG-4-15-c BG-5-8-c BG-6-4-c,"R3 --- prtclbg --
 R4 --- prtclabg --- SDS
 R5 --- prtclbbg --- SDS
 R6 --- prtclcbg --- Sayuz na demokratichnite sili (SDS)",482,BGR,SDS,Sayuz na Demokratichni Sili,Union of Democratic Forces,
-BG-3-14-c,Grazhdani za evropeiÌ†sko razvitie na Bulgariya (GERB),2006,2020,BG-3-14-c BG-4-4-c BG-5-2-c BG-6-1-c BG-9-1-c BG-10-1-c,"R3 --- prtclbg --- Grazhdani za evropeiÌ†sko razvitie na Bulgariya (GERB)
-R4 --- prtclabg --- Grazhdani za evropeiÌ†sko razvitie na Bulgariya (GERB)
-R5 --- prtclbbg --- Grazhdani za evropeiÌ†sko razvitie na Bulgariya (GERB)
-R6 --- prtclcbg --- Grazhdani za evropeiÌ†sko razvitie na Bulgariya (GERB)
+BG-3-14-c,Grazhdani za evropeĭsko razvitie na Bulgariya (GERB),2006,2020,BG-3-14-c BG-4-4-c BG-5-2-c BG-6-1-c BG-9-1-c BG-10-1-c,"R3 --- prtclbg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)
+R4 --- prtclabg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)
+R5 --- prtclbbg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)
+R6 --- prtclcbg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)
 R9 --- prtcldbg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)
 R10 --- prtclebg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)",760,BGR,GERB,Grazhdani za evropeysko razvitie na Balgariya,Citizens for European Development of Bulgaria,
+BG-3-14-c,Grazhdani za evropeĭsko razvitie na Bulgariya (GERB),2006,2020,BG-3-14-c BG-4-4-c BG-5-2-c BG-6-1-c BG-9-1-c BG-10-1-c,"R3 --- prtclbg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)
+R4 --- prtclabg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)
+R5 --- prtclbbg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)
+R6 --- prtclcbg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)
+R9 --- prtcldbg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)
+R10 --- prtclebg --- Grazhdani za evropeĭsko razvitie na Bulgariya (GERB)",760,BGR,GERB,Grazhdani za evropeysko razvitie na Balgariya,Citizens for European Development of Bulgaria,
+BG-3-15-c,Other,2006,2020,BG-3-15-c BG-4-18-c BG-6-19-c BG-9-13-c BG-10-12-c,"R3 --- prtclbg --- Other
+R4 --- prtclabg --- Other
+R6 --- prtclcbg --- Other
+R9 --- prtcldbg --- Other
+R10 --- prtclebg --- Other",1835,BGR,etc,other,other,7
 BG-3-15-c,Other,2006,2020,BG-3-15-c BG-4-18-c BG-6-19-c BG-9-13-c BG-10-12-c,"R3 --- prtclbg --- Other
 R4 --- prtclabg --- Other
 R6 --- prtclcbg --- Other
@@ -258,14 +287,18 @@ R9 --- prtcldbg --- Alternativa za bulgarsko vuzrazhdane (ABV)",3187,BGR,ABV,Alt
 BG-5-11-c,Partia Roma,2010,2010,BG-5-11-c,R5 --- prtclbbg --- Partia Roma,2635,BGR,1-perc,1 percent,1 percent,11
 BG-5-13-c,Druga partia/koalitsia,2010,2010,BG-5-13-c,R5 --- prtclbbg --- Druga partia/koalitsia,2635,BGR,1-perc,1 percent,1 percent,11
 BG-6-5-v,PP VMRO – Balgarsko natsionalno dvizhenie,2020,2020,BG-10-6-c,R10 --- prtclebg --- PP VMRO – Balgarsko natsionalno dvizhenie,2056,BGR,IMRO,VMRO — Bulgarsko Natsionalno Dvizhenie,IMRO — Bulgarian National Movement,
-BG-6-8-c,Partia â€žBalgarski sotsialdemokratiâ€,2012,2012,BG-6-8-c,R6 --- prtclcbg --- Partia â€žBalgarski sotsialdemokratiâ€,661,BGR,PBSD,Partiya balgarski sotsialdemokrati,Party of Bulgarian Social Democrats,
-BG-6-10-c,PP â€žZelena partiaâ€ (Aleksandar Karakachanov),2012,2012,BG-6-10-c,R6 --- prtclcbg --- PP â€žZelena partiaâ€ (Aleksandar Karakachanov),659,BGR,ZP,Zelena Partija,Green Party of Bulgaria,
-BG-6-12-c,Partia â€žDvizhenie Bulgaria na grazhdaniteâ€ (M.Kuneva),2012,2012,BG-6-12-c,R6 --- prtclcbg --- Partia â€žDvizhenie Bulgaria na grazhdaniteâ€ (M.Kuneva),2058,BGR,BNG,"Dvizhenie ""Bulgariya na grazhdanite""",Bulgaria for Citizens Movement,
+BG-6-5-v,PP VMRO – Balgarsko natsionalno dvizhenie,2020,2020,BG-10-6-c,R10 --- prtclebg --- PP VMRO – Balgarsko natsionalno dvizhenie,2056,BGR,IMRO,VMRO — Bulgarsko Natsionalno Dvizhenie,IMRO — Bulgarian National Movement,
+BG-6-8-c,Partia „Balgarski sotsialdemokrati”,2012,2012,BG-6-8-c,R6 --- prtclcbg --- Partia „Balgarski sotsialdemokrati”,661,BGR,PBSD,Partiya balgarski sotsialdemokrati,Party of Bulgarian Social Democrats,
+BG-6-10-c,PP „Zelena partia” (Aleksandar Karakachanov),2012,2012,BG-6-10-c,R6 --- prtclcbg --- PP „Zelena partia” (Aleksandar Karakachanov),659,BGR,ZP,Zelena Partija,Green Party of Bulgaria,
+BG-6-12-c,Partia „Dvizhenie Bulgaria na grazhdanite” (M.Kuneva),2012,2012,BG-6-12-c,R6 --- prtclcbg --- Partia „Dvizhenie Bulgaria na grazhdanite” (M.Kuneva),2058,BGR,BNG,"Dvizhenie ""Bulgariya na grazhdanite""",Bulgaria for Citizens Movement,
 BG-6-13-c,Grazhdansko obedinenie za realna demokratsia (S.Binev),2012,2012,BG-6-13-c,R6 --- prtclcbg --- Grazhdansko obedinenie za realna demokratsia (S.Binev),2635,BGR,1-perc,1 percent,1 percent,11
-BG-6-18-c,Narodna partia â€žSvoboda i dostoynstvoâ€œ,2012,2012,BG-6-18-c,R6 --- prtclcbg --- Narodna partia â€žSvoboda i dostoynstvoâ€œ,2635,BGR,1-perc,1 percent,1 percent,11
+BG-6-18-c,Narodna partia „Svoboda i dostoynstvo“,2012,2012,BG-6-18-c,R6 --- prtclcbg --- Narodna partia „Svoboda i dostoynstvo“,2635,BGR,1-perc,1 percent,1 percent,11
+BG-9-11-v,Vazrazhdane,2020,2020,BG-10-9-c,R10 --- prtclebg --- Vazrazhdane,5862,BGR,R,Vazrazhdane,Revival,
 BG-9-11-v,Vazrazhdane,2020,2020,BG-10-9-c,R10 --- prtclebg --- Vazrazhdane,5862,BGR,R,Vazrazhdane,Revival,
 BG-9-5-c,Bulgarska komunisticheska partiya (BKP),2018,2018,BG-9-5-c,R9 --- prtcldbg --- Bulgarska komunisticheska partiya (BKP),603,BGR,BKP,Komunisticeska Partija na Balgarija,Communist Party of Bulgaria,
 BG-9-6-c,Bulgarski natsionalen suyuz - Nova demokratsiya,2018,2018,BG-9-6-c,R9 --- prtcldbg --- Bulgarski natsionalen suyuz - Nova demokratsiya,2635,BGR,1-perc,1 percent,1 percent,11
+BG-9-8-c,Natsionalen front za spasenie na Balgariya (NFSB),2018,2020,BG-9-8-c BG-10-7-c,"R9 --- prtcldbg --- Natsionalen front za spasenie na Balgariya (NFSB)
+R10 --- prtclebg --- NFSB-Volya",2057,BGR,NFSB,Natzionalen Front za Spasenie na Bulgaria,National Front for the Salvation of Bulgaria,
 BG-9-8-c,Natsionalen front za spasenie na Balgariya (NFSB),2018,2020,BG-9-8-c BG-10-7-c,"R9 --- prtcldbg --- Natsionalen front za spasenie na Balgariya (NFSB)
 R10 --- prtclebg --- NFSB-Volya",2057,BGR,NFSB,Natzionalen Front za Spasenie na Bulgaria,National Front for the Salvation of Bulgaria,
 BG-9-12-c,Demokrati za otgovornost svoboda i tolerantnost (DOST),2018,2018,BG-9-12-c,R9 --- prtcldbg --- Demokrati za otgovornost svoboda i tolerantnost (DOST),5860,BGR,DOST,"Demokrati za Otgovornost, Svoboda i Tolerantnost","Democrats for Responsibility, Solidarity and Tolerance",
@@ -451,21 +484,21 @@ R6 --- prtclacy --- Other
 R9 --- prtclbcy --- Other",1837,CYP,etc,other,other,7
 CY-9-4-c,National Popular Front (ELAM),2018,2018,CY-9-4-c,R9 --- prtclbcy --- National Popular Front (ELAM),1013,CYP,ELAM,Ethniko Laiko Metopo,National Popular Front,
 CY-9-5-c,Solidarity Movement (KINIMA ALLILEGII),2018,2018,CY-9-5-c,R9 --- prtclbcy --- Solidarity Movement (KINIMA ALLILEGII),4883,CYP,KINHMA,Kinima Allileggiis,Solidarity Movement,
-CZ-1-1-c,ÄŒSSD,2002,2020,CZ-1-1-c CZ-2-1-c CZ-4-2-c CZ-5-2-c CZ-6-2-c CZ-7-2-c CZ-8-2-c CZ-9-2-c CZ-10-2-c,"R1 --- prtclcz --- ÄŒSSD
-R2 --- prtclcz --- ÄŒSSD
-R4 --- prtclacz --- ÄŒSSD
-R5 --- prtclbcz --- ÄŒSSD
-R6 --- prtclccz --- ÄŒSSD
-R7 --- prtcldcz --- ÄŒSSD
-R8 --- prtcldcz --- ÄŒSSD
+CZ-1-1-c,ČSSD,2002,2020,CZ-1-1-c CZ-2-1-c CZ-4-2-c CZ-5-2-c CZ-6-2-c CZ-7-2-c CZ-8-2-c CZ-9-2-c CZ-10-2-c,"R1 --- prtclcz --- ČSSD
+R2 --- prtclcz --- ČSSD
+R4 --- prtclacz --- ČSSD
+R5 --- prtclbcz --- ČSSD
+R6 --- prtclccz --- ČSSD
+R7 --- prtcldcz --- ČSSD
+R8 --- prtcldcz --- ČSSD
 R9 --- prtclecz --- ČSSD
 R10 --- prtclecz --- ČSSD",177,CZE,CSSD,Česká strana sociálně demokratická,Czech Social Democratic Party,
 CZ-1-2-c,ODA Civic Democratic Alliance,2002,2004,CZ-1-2-c CZ-2-2-c,"R1 --- prtclcz --- ODA Civic Democratic Alliance
 R2 --- prtclcz --- ODA Civic Democratic Alliance",1008,CZE,ODA,Občanská demokratická aliance,Civic Democratic Alliance,
 CZ-1-4-c,RMS Republicans of Miroslav Sladek,2002,2004,CZ-1-4-c CZ-2-4-c,"R1 --- prtclcz --- RMS Republicans of Miroslav Sladek
 R2 --- prtclcz --- RMS Republicans of Miroslav Sladek",972,CZE,RMS,Republikanska Miroslava Sladka,Republicans of Miroslav Sladek,
-CZ-1-5-c,ÄŒSNS,2002,2004,CZ-1-5-c CZ-2-5-c,"R1 --- prtclcz --- ÄŒSNS
-R2 --- prtclcz --- ÄŒSNS",1813,CZE,CSS,[ Liberální / Česká ] strana národně sociální,[ Liberal / Czech ] National Social Party,
+CZ-1-5-c,ČSNS,2002,2004,CZ-1-5-c CZ-2-5-c,"R1 --- prtclcz --- ČSNS
+R2 --- prtclcz --- ČSNS",1813,CZE,CSS,[ Liberální / Česká ] strana národně sociální,[ Liberal / Czech ] National Social Party,
 CZ-1-6-c,SV-SOS P.of Countryside-Assoc.Civic Forces,2002,2004,CZ-1-6-c CZ-2-6-c,"R1 --- prtclcz --- SV-SOS P.of Countryside-Assoc.Civic Forces
 R2 --- prtclcz --- SV-SOS P.of Countryside-Assoc.Civic Forces",2657,CZE,1-perc,1 percent,1 percent,11
 CZ-1-7-c,Association of Independents,2002,2004,CZ-1-7-c CZ-2-7-c,"R1 --- prtclcz --- Association of Independents
@@ -479,27 +512,27 @@ R7 --- prtcldcz --- ODS
 R8 --- prtcldcz --- ODS
 R9 --- prtclecz --- ODS
 R10 --- prtclecz --- ODS",466,CZE,ODS,Občanská demokratická strana,Civic Democratic Party,
-CZ-1-9-c,KSÄŒM,2002,2020,CZ-1-9-c CZ-2-9-c CZ-4-1-c CZ-5-1-c CZ-6-1-c CZ-7-1-c CZ-8-1-c CZ-9-1-c CZ-10-1-c,"R1 --- prtclcz --- KSÄŒM
-R2 --- prtclcz --- KSÄŒM
-R4 --- prtclacz --- KSÄŒM
-R5 --- prtclbcz --- KSÄŒM
-R6 --- prtclccz --- KSÄŒM
-R7 --- prtcldcz --- KSÄŒM
-R8 --- prtcldcz --- KSÄŒM
+CZ-1-9-c,KSČM,2002,2020,CZ-1-9-c CZ-2-9-c CZ-4-1-c CZ-5-1-c CZ-6-1-c CZ-7-1-c CZ-8-1-c CZ-9-1-c CZ-10-1-c,"R1 --- prtclcz --- KSČM
+R2 --- prtclcz --- KSČM
+R4 --- prtclacz --- KSČM
+R5 --- prtclbcz --- KSČM
+R6 --- prtclccz --- KSČM
+R7 --- prtcldcz --- KSČM
+R8 --- prtcldcz --- KSČM
 R9 --- prtclecz --- KSČM
 R10 --- prtclecz --- KSČM",1728,CZE,KSCM,Komunistická strana Cech a Moravy,Communist Party of Bohemia and Moravia,
 CZ-1-10-c,KDU-CSL Christian Democratic P.,2002,2020,CZ-1-10-c CZ-2-10-c CZ-4-4-c CZ-5-4-c CZ-7-6-c CZ-8-6-c CZ-9-6-c CZ-10-6-c,"R1 --- prtclcz --- KDU-CSL Christian Democratic P.
 R2 --- prtclcz --- KDU-CSL Christian Democratic P.
-R4 --- prtclacz --- KDU-ÄŒSL
-R5 --- prtclbcz --- KDU-ÄŒSL
-R7 --- prtcldcz --- KDU-ÄŒSL
-R8 --- prtcldcz --- KDU-ÄŒSL
+R4 --- prtclacz --- KDU-ČSL
+R5 --- prtclbcz --- KDU-ČSL
+R7 --- prtcldcz --- KDU-ČSL
+R8 --- prtcldcz --- KDU-ČSL
 R9 --- prtclecz --- KDU-ČSL
 R10 --- prtclecz --- KDU-ČSL",676,CZE,KDU/CSL,Křesťanská a demokratická unie / Československá strana lidová,Christian Democratic Union / People's Party,
 CZ-1-11-c,US Freedom Union,2002,2004,CZ-1-11-c CZ-2-11-c,"R1 --- prtclcz --- US Freedom Union
 R2 --- prtclcz --- US Freedom Union",905,CZE,US,Unie svobody,Freedom Union,
-CZ-1-12-c,SÅ½J P.for Life Securities,2002,2004,CZ-1-12-c CZ-2-12-c,"R1 --- prtclcz --- SÅ½J P.for Life Securities
-R2 --- prtclcz --- SÅ½J P.for Life Securities",670,CZE,DZJ,Důchodci za životní jistoty,Pensioners for a Secure Living,
+CZ-1-12-c,SŽJ P.for Life Securities,2002,2004,CZ-1-12-c CZ-2-12-c,"R1 --- prtclcz --- SŽJ P.for Life Securities
+R2 --- prtclcz --- SŽJ P.for Life Securities",670,CZE,DZJ,Důchodci za životní jistoty,Pensioners for a Secure Living,
 CZ-1-13-c,PB Right Block,2002,2004,CZ-1-13-c CZ-2-13-c,"R1 --- prtclcz --- PB Right Block
 R2 --- prtclcz --- PB Right Block",904,CZE,PB,Pravý Blok,Right Bloc,
 CZ-1-14-c,SZ,2002,2010,CZ-1-14-c CZ-2-14-c CZ-4-3-c CZ-5-3-c,"R1 --- prtclcz --- SZ
@@ -515,7 +548,7 @@ R7 --- prtcldcz --- Other
 R8 --- prtcldcz --- Other
 R9 --- prtclecz --- Other
 R10 --- prtclecz --- Other",1838,CZE,etc,other,other,7
-CZ-2-3-c,NadÄ›je (Hope),2004,2004,CZ-2-3-c,R2 --- prtclcz --- NadÄ›je (Hope),2657,CZE,1-perc,1 percent,1 percent,11
+CZ-2-3-c,Naděje (Hope),2004,2004,CZ-2-3-c,R2 --- prtclcz --- Naděje (Hope),2657,CZE,1-perc,1 percent,1 percent,11
 CZ-5-5-c,TOP 09,2010,2020,CZ-5-5-c CZ-6-3-c CZ-7-3-c CZ-8-3-c CZ-9-3-c CZ-10-3-c,"R5 --- prtclbcz --- TOP 09
 R6 --- prtclccz --- TOP 09
 R7 --- prtcldcz --- TOP 09
@@ -528,8 +561,8 @@ CZ-7-4-c,ANO 2011,2014,2020,CZ-7-4-c CZ-8-4-c CZ-9-4-c CZ-10-4-c,"R7 --- prtcldc
 R8 --- prtcldcz --- ANO 2011
 R9 --- prtclecz --- ANO 2011
 R10 --- prtclecz --- ANO 2011",2141,CZE,ANO,Akce nespokojených občanů,Action of Dissatisfied Citizens,
-CZ-7-7-c,Ãšsvit pÅ™Ã­mÃ© demokracie Tomia Okamury,2014,2016,CZ-7-7-c CZ-8-7-c,"R7 --- prtcldcz --- Ãšsvit pÅ™Ã­mÃ© demokracie Tomia Okamury
-R8 --- prtcldcz --- Ãšsvit pÅ™Ã­mÃ© demokracie Tomia Okamury",2049,CZE,UPD,Úsvit přímé demokracie,Dawn of Direct Democracy,
+CZ-7-7-c,Úsvit přímé demokracie Tomia Okamury,2014,2016,CZ-7-7-c CZ-8-7-c,"R7 --- prtcldcz --- Úsvit přímé demokracie Tomia Okamury
+R8 --- prtcldcz --- Úsvit přímé demokracie Tomia Okamury",2049,CZE,UPD,Úsvit přímé demokracie,Dawn of Direct Democracy,
 CZ-9-7-c,Česká pirátská strana,2018,2020,CZ-9-7-c CZ-10-7-c,"R9 --- prtclecz --- Česká pirátská strana
 R10 --- prtclecz --- Česká pirátská strana",2047,CZE,Pi,Ceska piratska strana,Czech Pirate Party,
 CZ-9-8-c,Svoboda a přímá demokracie,2018,2020,CZ-9-8-c CZ-10-8-c,"R9 --- prtclecz --- Svoboda a přímá demokracie
@@ -554,14 +587,14 @@ R6 --- prtcldde --- Christian Democratic Union/Christian Social Union (CDU/CSU)
 R7 --- prtclede --- Christian Democratic Union/Christian Social Union (CDU/CSU)
 R8 --- prtclede --- Christian Democratic Union/Christian Social Union (CDU/CSU)
 R9 --- prtclede --- Christian Democratic Union/Christian Social Union (CDU/CSU)",211,DEU,CDU/CSU,Christlich Demokratische Union / Christlich Soziale Union,Christian Democratic Union / Christian Social Union,
-DE-1-3-c,Alliance 90/The Greens (BÃ¼ndnis 90/Die GrÃ¼nen),2002,2018,DE-1-3-c DE-2-3-c DE-3-3-c DE-4-3-c DE-5-3-c DE-6-3-c DE-7-4-c DE-8-4-c DE-9-4-c,"R1 --- prtclde --- Alliance 90/The Greens (BÃ¼ndnis 90/Die GrÃ¼nen)
-R2 --- prtclade --- Alliance 90/The Greens (BÃ¼ndnis 90/Die GrÃ¼nen)
-R3 --- prtclbde --- Alliance 90/The Greens (BÃ¼ndnis 90/Die GrÃ¼nen)
-R4 --- prtclbde --- Alliance 90/The Greens (BÃ¼ndnis 90/Die GrÃ¼nen)
-R5 --- prtclcde --- Alliance 90/The Greens (BÃ¼ndnis 90/Die GrÃ¼nen)
-R6 --- prtcldde --- Alliance 90/The Greens (BÃ¼ndnis 90/Die GrÃ¼nen)
-R7 --- prtclede --- Alliance 90/The Greens (BÃ¼ndnis 90/Die GrÃ¼nen)
-R8 --- prtclede --- Alliance 90/The Greens (BÃ¼ndnis 90/Die GrÃ¼nen)
+DE-1-3-c,Alliance 90/The Greens (Bündnis 90/Die Grünen),2002,2018,DE-1-3-c DE-2-3-c DE-3-3-c DE-4-3-c DE-5-3-c DE-6-3-c DE-7-4-c DE-8-4-c DE-9-4-c,"R1 --- prtclde --- Alliance 90/The Greens (Bündnis 90/Die Grünen)
+R2 --- prtclade --- Alliance 90/The Greens (Bündnis 90/Die Grünen)
+R3 --- prtclbde --- Alliance 90/The Greens (Bündnis 90/Die Grünen)
+R4 --- prtclbde --- Alliance 90/The Greens (Bündnis 90/Die Grünen)
+R5 --- prtclcde --- Alliance 90/The Greens (Bündnis 90/Die Grünen)
+R6 --- prtcldde --- Alliance 90/The Greens (Bündnis 90/Die Grünen)
+R7 --- prtclede --- Alliance 90/The Greens (Bündnis 90/Die Grünen)
+R8 --- prtclede --- Alliance 90/The Greens (Bündnis 90/Die Grünen)
 R9 --- prtclede --- Alliance 90/The Greens (Bündnis 90/Die Grünen)",1816,DEU,B90/Gr,Bündnis 90 / Die Grünen,Alliance 90 / Greens,
 DE-1-4-c,Free Democratic Party (FDP),2002,2018,DE-1-4-c DE-2-4-c DE-3-4-c DE-4-4-c DE-5-4-c DE-6-4-c DE-7-5-c DE-8-5-c DE-9-5-c,"R1 --- prtclde --- Free Democratic Party (FDP)
 R2 --- prtclade --- Free Democratic Party (FDP)
@@ -675,8 +708,8 @@ R3 --- prtcladk --- Fremskridtspartiet",1601,DNK,FrP,Fremskridtspartiet,Progress
 DK-1-10-c,Enhedslisten,2002,2018,DK-1-10-c DK-2-10-c DK-3-10-c DK-4-9-c DK-5-9-c DK-6-9-c DK-7-9-c DK-9-9-c,"R1 --- prtcldk --- Enhedslisten
 R2 --- prtcldk --- Enhedslisten
 R3 --- prtcladk --- Enhedslisten
-R4 --- prtclbdk --- Enhedslisten, De RÃ¸d-GrÃ¸nne - The Red-Green Alliance
-R5 --- prtclbdk --- Enhedslisten, De RÃ¸d-GrÃ¸nne - The Red-Green Alliance
+R4 --- prtclbdk --- Enhedslisten, De Rød-Grønne - The Red-Green Alliance
+R5 --- prtclbdk --- Enhedslisten, De Rød-Grønne - The Red-Green Alliance
 R6 --- prtclcdk --- Enhedslisten - Unity List - The Red-Green Alliance
 R7 --- prtclcdk --- Enhedslisten - Unity List - The Red-Green Alliance
 R9 --- prtclddk --- Enhedslisten - Unity List - The Red-Green Alliance",1527,DNK,Enh,Enhedslisten / De Rød-Grønne,Red-Green Alliance,
@@ -727,7 +760,7 @@ EE-2-6-c,Eestimaa Rahvaliit,2004,2010,EE-2-6-c EE-3-6-c EE-4-4-c EE-5-4-c,"R2 --
 R3 --- prtclaee --- Eestimaa Rahvaliit
 R4 --- prtclbee --- Eestimaa Rahvaliit
 R5 --- prtclcee --- Eestimaa Rahvaliit",110,EST,ERL,Eestimaa Rahvalliit,People's Union of Estonia,
-EE-2-7-c,Eestimaa Ãœhendatud Rahvapartei,2004,2004,EE-2-7-c,R2 --- prtclee --- Eestimaa Ãœhendatud Rahvapartei,18,EST,K — EUR,Konstitutsioonierakond — Eestimaa Ühendatud Rahvapartei,Constitution Party — Estonian United People's Party,
+EE-2-7-c,Eestimaa Ühendatud Rahvapartei,2004,2004,EE-2-7-c,R2 --- prtclee --- Eestimaa Ühendatud Rahvapartei,18,EST,K — EUR,Konstitutsioonierakond — Eestimaa Ühendatud Rahvapartei,Constitution Party — Estonian United People's Party,
 EE-2-9-c,Eesti Iseseisvuspartei,2004,2004,EE-2-9-c,R2 --- prtclee --- Eesti Iseseisvuspartei,2679,EST,1-perc,1 percent,1 percent,11
 EE-2-13-c,Other,2004,2020,EE-2-13-c EE-3-7-c EE-5-7-c EE-9-13-c EE-10-19-c,"R2 --- prtclee --- Other
 R3 --- prtclaee --- Other
@@ -752,7 +785,7 @@ EE-4-7-c,Erakond Eesti Kristlikud Demokraadid,2008,2014,EE-4-7-c EE-5-9-c EE-6-7
 R5 --- prtclcee --- Erakond Eesti Kristlikud Demokraadid
 R6 --- prtcldee --- Erakond Eesti Kristlikud Demokraadid
 R7 --- prtcleee --- Erakond Eesti Kristlikud Demokraadid",790,EST,EKD,Eesti Kristlikud Demokraadid,Estonian Christian Democrats,
-EE-4-8-c,Eestimaa Ãœhendatud Vasakpartei,2008,2008,EE-4-8-c,R4 --- prtclbee --- Eestimaa Ãœhendatud Vasakpartei,2679,EST,1-perc,1 percent,1 percent,11
+EE-4-8-c,Eestimaa Ühendatud Vasakpartei,2008,2008,EE-4-8-c,R4 --- prtclbee --- Eestimaa Ühendatud Vasakpartei,2679,EST,1-perc,1 percent,1 percent,11
 EE-4-9-c,Eesti Iseseisvuspartei,2008,2008,EE-4-9-c,R4 --- prtclbee --- Eesti Iseseisvuspartei,1299,EST,ERSP,Eesti Rahvusliku Sõltumatuse Partei,Estonian National Independence Party,
 EE-4-10-c,Vene Erakond Eestis,2008,2014,EE-4-10-c EE-7-7-c,"R4 --- prtclbee --- Vene Erakond Eestis
 R7 --- prtcleee --- Vene Erakond Eestis",1975,EST,VEE,Vene Erakond Eestis,Russian Party in Estonia,
@@ -765,13 +798,13 @@ R7 --- prtcleee --- Eesti Konservatiivne Rahvaerakond
 R8 --- prtclfee --- Eesti Konservatiivne Rahvaerakond
 R9 --- prtclgee --- Eesti Konservatiivne Rahvaerakond
 R10 --- prtclhee --- Eesti Konservatiivne Rahvaerakond",4094,EST,EKRE,Eesti Konservatiivne Rahvaerakond,Conservative People’s Party,
-EE-6-11-c,Ãœksikkandidaadid vÃµi muud,2012,2016,EE-6-11-c EE-7-10-c EE-8-10-c,"R6 --- prtcldee --- Ãœksikkandidaadid vÃµi muud
-R7 --- prtcleee --- Ãœksikkandidaadid vÃµi muud
-R8 --- prtclfee --- Ãœksikkandidaadid vÃµi muud",2567,EST,indep,independent,independent,8
+EE-6-11-c,Üksikkandidaadid või muud,2012,2016,EE-6-11-c EE-7-10-c EE-8-10-c,"R6 --- prtcldee --- Üksikkandidaadid või muud
+R7 --- prtcleee --- Üksikkandidaadid või muud
+R8 --- prtclfee --- Üksikkandidaadid või muud",2567,EST,indep,independent,independent,8
 EE-8-11-c,Eesti Vabaerakond,2016,2020,EE-8-11-c EE-9-11-c EE-10-11-c,"R8 --- prtclfee --- Eesti Vabaerakond
 R9 --- prtclgee --- Eesti Vabaerakond
 R10 --- prtclhee --- Eesti Vabaerakond",3271,EST,EV,Eesti Vabaerakond,Estonian Free Party,
-EE-8-12-c,Rahva Ãœhtsuse Erakond,2016,2018,EE-8-12-c EE-9-12-c,"R8 --- prtclfee --- Rahva Ãœhtsuse Erakond
+EE-8-12-c,Rahva Ühtsuse Erakond,2016,2018,EE-8-12-c EE-9-12-c,"R8 --- prtclfee --- Rahva Ühtsuse Erakond
 R9 --- prtclgee --- Rahva Ühtsuse Erakond",2679,EST,1-perc,1 percent,1 percent,11
 ES-1-1-c,Partido Popular (PP),2002,2018,ES-1-1-c ES-2-1-c ES-3-1-c ES-4-1-c ES-5-1-c ES-6-1-c ES-7-1-c ES-8-1-c ES-9-1-c,"R1 --- prtcles --- Partido Popular (PP)
 R2 --- prtclaes --- Partido Popular (PP)
@@ -782,31 +815,31 @@ R6 --- prtclces --- Partido Popular (PP)
 R7 --- prtcldes --- PP
 R8 --- prtclees --- Partido Popular - PP
 R9 --- prtclfes --- PP",441,ESP,AP/PP,Alianza-Partido Popular / Partido Popular,People's Alliance-Party / People's Party,
-ES-1-2-c,Partido Socialista Obrero EspaÃ±ol (PSOE),2002,2018,ES-1-2-c ES-2-2-c ES-3-2-c ES-4-2-c ES-5-2-c ES-6-2-c ES-7-2-c ES-8-2-c ES-9-2-c,"R1 --- prtcles --- Partido Socialista Obrero EspaÃ±ol (PSOE)
-R2 --- prtclaes --- Partido Socialista Obrero EspaÃ±ol (PSOE)
-R3 --- prtclaes --- Partido Socialista Obrero EspaÃ±ol (PSOE)
-R4 --- prtclbes --- Partido Socialista Obrero EspaÃ±ol (PSOE)
-R5 --- prtclbes --- Partido Socialista Obrero EspaÃ±ol (PSOE)
-R6 --- prtclces --- Partido Socialista Obrero EspaÃ±ol (PSOE)
-R7 --- prtcldes --- Partido Socialista Obrero EspaÃ±ol (PSOE)
-R8 --- prtclees --- Partido Socialista Obrero EspaÃ±ol - PSOE
+ES-1-2-c,Partido Socialista Obrero Español (PSOE),2002,2018,ES-1-2-c ES-2-2-c ES-3-2-c ES-4-2-c ES-5-2-c ES-6-2-c ES-7-2-c ES-8-2-c ES-9-2-c,"R1 --- prtcles --- Partido Socialista Obrero Español (PSOE)
+R2 --- prtclaes --- Partido Socialista Obrero Español (PSOE)
+R3 --- prtclaes --- Partido Socialista Obrero Español (PSOE)
+R4 --- prtclbes --- Partido Socialista Obrero Español (PSOE)
+R5 --- prtclbes --- Partido Socialista Obrero Español (PSOE)
+R6 --- prtclces --- Partido Socialista Obrero Español (PSOE)
+R7 --- prtcldes --- Partido Socialista Obrero Español (PSOE)
+R8 --- prtclees --- Partido Socialista Obrero Español - PSOE
 R9 --- prtclfes --- PSOE",1338,ESP,PSOE,Partido Socialista Obrero Español,Spanish Socialist Workers Party,
 ES-1-3-c,Izquierda Unida (IU),2002,2018,ES-1-3-c ES-2-3-c ES-3-3-c ES-4-3-c ES-5-3-c ES-6-4-c ES-7-4-c ES-8-6-c ES-9-6-c,"R1 --- prtcles --- Izquierda Unida (IU)
 R2 --- prtclaes --- Izquierda Unida (IU)
 R3 --- prtclaes --- Izquierda Unida (IU)
 R4 --- prtclbes --- Izquierda Unida (IU)
 R5 --- prtclbes --- Izquierda Unida (IU)
-R6 --- prtclces --- Izquierda Unida (IU)-(ICV en CataluÃ±a)
-R7 --- prtcldes --- Izquierda Unida (IU) - (ICV en CataluÃ±a)
+R6 --- prtclces --- Izquierda Unida (IU)-(ICV en Cataluña)
+R7 --- prtcldes --- Izquierda Unida (IU) - (ICV en Cataluña)
 R8 --- prtclees --- Izquierda Unida - IU
 R9 --- prtclfes --- IU",247,ESP,IU,Izquierda Unida,United Left,
-ES-1-4-c,ConvergÃ¨ncia i UniÃ³ (CiU),2002,2014,ES-1-4-c ES-2-4-c ES-3-4-c ES-4-4-c ES-5-4-c ES-6-3-c ES-7-3-c,"R1 --- prtcles --- ConvergÃ¨ncia i UniÃ³ (CiU)
-R2 --- prtclaes --- ConvergÃ¨ncia i UniÃ³ (CiU)
-R3 --- prtclaes --- ConvergÃ¨ncia i UniÃ³ (CiU)
-R4 --- prtclbes --- ConvergÃ¨ncia i UniÃ³ (CiU)
-R5 --- prtclbes --- ConvergÃ¨ncia i UniÃ³ (CiU)
-R6 --- prtclces --- ConvergÃ¨ncia i UniÃ³ (CiU)
-R7 --- prtcldes --- ConvergÃ¨ncia i UniÃ³ (CiU)",139,ESP,CiU,Convergència i Unió,Convergence and Unity,
+ES-1-4-c,Convergència i Unió (CiU),2002,2014,ES-1-4-c ES-2-4-c ES-3-4-c ES-4-4-c ES-5-4-c ES-6-3-c ES-7-3-c,"R1 --- prtcles --- Convergència i Unió (CiU)
+R2 --- prtclaes --- Convergència i Unió (CiU)
+R3 --- prtclaes --- Convergència i Unió (CiU)
+R4 --- prtclbes --- Convergència i Unió (CiU)
+R5 --- prtclbes --- Convergència i Unió (CiU)
+R6 --- prtclces --- Convergència i Unió (CiU)
+R7 --- prtcldes --- Convergència i Unió (CiU)",139,ESP,CiU,Convergència i Unió,Convergence and Unity,
 ES-1-5-c,Esquerra Repubicana de Catalunya (ERC),2002,2018,ES-1-5-c ES-2-5-c ES-3-5-c ES-4-5-c ES-5-5-c ES-6-8-c ES-7-8-c ES-8-10-c ES-9-10-c,"R1 --- prtcles --- Esquerra Repubicana de Catalunya (ERC)
 R2 --- prtclaes --- Esquerra Repubicana de Catalunya (ERC)
 R3 --- prtclaes --- Esquerra Repubicana de Catalunya (ERC)
@@ -839,10 +872,10 @@ R5 --- prtclbes --- Bloque Nacionalista Galego (BNG)
 R6 --- prtclces --- Bloque Nacionalista Galego (BNG)
 R7 --- prtcldes --- Bloque Nacionalista Galego (BNG)
 R9 --- prtclfes --- Bloque Nacionalista Galego",1011,ESP,BNG,Bloque Nacionalista Galego,Galician Nationalist Block,
-ES-1-10-c,CoaliciÃ³n Canaria (CC),2002,2016,ES-1-10-c ES-2-10-c ES-3-10-c ES-8-16-c,"R1 --- prtcles --- CoaliciÃ³n Canaria (CC)
-R2 --- prtclaes --- CoaliciÃ³n Canaria (CC)
-R3 --- prtclaes --- CoaliciÃ³n Canaria (CC)
-R8 --- prtclees --- CC (CoaliciÃ³n Canaria)",81,ESP,CC,Coalición Canaria,Canary Coalition,
+ES-1-10-c,Coalición Canaria (CC),2002,2016,ES-1-10-c ES-2-10-c ES-3-10-c ES-8-16-c,"R1 --- prtcles --- Coalición Canaria (CC)
+R2 --- prtclaes --- Coalición Canaria (CC)
+R3 --- prtclaes --- Coalición Canaria (CC)
+R8 --- prtclees --- CC (Coalición Canaria)",81,ESP,CC,Coalición Canaria,Canary Coalition,
 ES-1-11-c,Partido Andalucista (PA),2002,2006,ES-1-11-c ES-2-11-c ES-3-11-c,"R1 --- prtcles --- Partido Andalucista (PA)
 R2 --- prtclaes --- Partido Andalucista (PA)
 R3 --- prtclaes --- Partido Andalucista (PA)",1497,ESP,PA,Partidu Andalucista,Andalusian Party,
@@ -861,19 +894,19 @@ R9 --- prtclfes --- Other",1839,ESP,etc,other,other,7
 ES-3-13-c,Nafarroa-Bai (NA-BAI),2006,2010,ES-3-13-c ES-4-9-c ES-5-9-c,"R3 --- prtclaes --- Nafarroa-Bai (NA-BAI)
 R4 --- prtclbes --- Nafarroa-Bai (NA-BAI)
 R5 --- prtclbes --- Nafarroa-Bai (NA-BAI)",611,ESP,NaBai,Nafarroa Bai,Navarre Yes,
-ES-4-8-c,CoaliciÃ³n Canaria-Partido Nacionalista Canario (CC-PNC),2008,2018,ES-4-8-c ES-5-8-c ES-7-10-c ES-9-15-c,"R4 --- prtclbes --- CoaliciÃ³n Canaria-Partido Nacionalista Canario (CC-PNC)
-R5 --- prtclbes --- CoaliciÃ³n Canaria-Partido Nacionalista Canario (CC-PNC)
-R7 --- prtcldes --- CoaliciÃ³n Canaria - Nueva Canarias
+ES-4-8-c,Coalición Canaria-Partido Nacionalista Canario (CC-PNC),2008,2018,ES-4-8-c ES-5-8-c ES-7-10-c ES-9-15-c,"R4 --- prtclbes --- Coalición Canaria-Partido Nacionalista Canario (CC-PNC)
+R5 --- prtclbes --- Coalición Canaria-Partido Nacionalista Canario (CC-PNC)
+R7 --- prtcldes --- Coalición Canaria - Nueva Canarias
 R9 --- prtclfes --- CC-PNC",8262,ESP,AUN,Acuerdo de Unidad Nacionalista,Agreement of Nationalist Unity,
-ES-4-10-c,UniÃ³n Progreso y Democracia (UPyD),2008,2014,ES-4-10-c ES-5-10-c ES-6-6-c ES-7-6-c,"R4 --- prtclbes --- UniÃ³n Progreso y Democracia (UPyD)
-R5 --- prtclbes --- UniÃ³n Progreso y Democracia (UPyD)
-R6 --- prtclces --- UniÃ³n, Progreso y Democracia (UPyD)
-R7 --- prtcldes --- UniÃ³n, Progreso y Democracia (UPyD)",55,ESP,UPyD,Unión Progreso y Democracia,"Union, Progress and Democracy",
+ES-4-10-c,Unión Progreso y Democracia (UPyD),2008,2014,ES-4-10-c ES-5-10-c ES-6-6-c ES-7-6-c,"R4 --- prtclbes --- Unión Progreso y Democracia (UPyD)
+R5 --- prtclbes --- Unión Progreso y Democracia (UPyD)
+R6 --- prtclces --- Unión, Progreso y Democracia (UPyD)
+R7 --- prtcldes --- Unión, Progreso y Democracia (UPyD)",55,ESP,UPyD,Unión Progreso y Democracia,"Union, Progress and Democracy",
 ES-6-5-c,AMAIUR,2012,2014,ES-6-5-c ES-7-5-c,"R6 --- prtclces --- AMAIUR
 R7 --- prtcldes --- AMAIUR-Bildu",1671,ESP,A,Amaiur,Amaiur,
-ES-6-11-c,CompromÃ­s - EQUO,2012,2018,ES-6-11-c ES-7-11-c ES-8-9-c ES-9-9-c,"R6 --- prtclces --- CompromÃ­s - EQUO
-R7 --- prtcldes --- CompromÃ­s - EQUO
-R8 --- prtclees --- CompromÃ­s
+ES-6-11-c,Compromís - EQUO,2012,2018,ES-6-11-c ES-7-11-c ES-8-9-c ES-9-9-c,"R6 --- prtclces --- Compromís - EQUO
+R7 --- prtcldes --- Compromís - EQUO
+R8 --- prtclees --- Compromís
 R9 --- prtclfes --- Compromís",5623,ESP,CC,Coalició Compromís,Commitment Coalition,
 ES-6-12-c,Foro de Ciudadanos,2012,2018,ES-6-12-c ES-7-16-c ES-8-5-c ES-9-5-c,"R6 --- prtclces --- Foro de Ciudadanos
 R7 --- prtcldes --- Ciudadanos
@@ -884,10 +917,10 @@ ES-7-14-c,UPN,2014,2014,ES-7-14-c,R7 --- prtcldes --- UPN,722,ESP,UPN,Union del 
 ES-7-15-c,Podemos,2014,2018,ES-7-15-c ES-8-4-c ES-9-4-c,"R7 --- prtcldes --- Podemos
 R8 --- prtclees --- Podemos
 R9 --- prtclfes --- Podemos",3203,ESP,PODEMOS,Podemos,We Can,
-ES-7-18-c,Candidatura dÂ´Unitat Popular (CUP),2014,2018,ES-7-18-c ES-8-19-c ES-9-19-c,"R7 --- prtcldes --- Candidatura dÂ´Unitat Popular (CUP)
-R8 --- prtclees --- Candidatura dÂ´Unitat Popular - CUP
+ES-7-18-c,Candidatura d´Unitat Popular (CUP),2014,2018,ES-7-18-c ES-8-19-c ES-9-19-c,"R7 --- prtcldes --- Candidatura d´Unitat Popular (CUP)
+R8 --- prtclees --- Candidatura d´Unitat Popular - CUP
 R9 --- prtclfes --- CUP",8357,ESP,CUP,Candidatura d'Unitat Popular,Popular Unity Candidacy,
-ES-8-7-c,En ComÃº Podem,2016,2018,ES-8-7-c ES-9-7-c,"R8 --- prtclees --- En ComÃº Podem
+ES-8-7-c,En Comú Podem,2016,2018,ES-8-7-c ES-9-7-c,"R8 --- prtclees --- En Comú Podem
 R9 --- prtclfes --- En Comú Podem",8031,ESP,ECP,En Comú Podem,In Common We Can,
 ES-8-11-c,CDC-PdeCAT,2016,2016,ES-8-11-c,R8 --- prtclees --- CDC-PdeCAT,4795,ESP,CDC,Convergència Democràtica de Catalunya,Democratic Convergence of Catalonia,
 ES-8-12-c,En Marea,2016,2016,ES-8-12-c,R8 --- prtclees --- En Marea,5873,ESP,EM,En Marea,In Tide,
@@ -1023,16 +1056,21 @@ Choose",2687,FIN,1-perc,1 percent,1 percent,11
 FI-9-13-c,Feminist Party,2018,2020,FI-9-13-c FI-10-13-c,"R9 --- prtclefi --- Feminist Party
 R10 --- prtclffi --- Feminist Party",2687,FIN,1-perc,1 percent,1 percent,11
 FR-1-3-v,FN (Front National),2020,2020,FR-10-11-c,R10 --- prtclffr --- FN (Front National),433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
+FR-1-3-v,FN (Front National),2020,2020,FR-10-11-c,R10 --- prtclffr --- FN (Front National),433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
+FR-1-5-v,LO (Lutte Ouvrière),2020,2020,FR-10-1-c,R10 --- prtclffr --- LO (Lutte Ouvrière),617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR-1-5-v,LO (Lutte Ouvrière),2020,2020,FR-10-1-c,R10 --- prtclffr --- LO (Lutte Ouvrière),617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR-1-9-v,PCF (Parti Communiste Français),2020,2020,FR-10-3-c,R10 --- prtclffr --- PCF (Parti Communiste Français),1251,FRA,PCF,Parti communiste française,French Communist Party,
+FR-1-9-v,PCF (Parti Communiste Français),2020,2020,FR-10-3-c,R10 --- prtclffr --- PCF (Parti Communiste Français),1251,FRA,PCF,Parti communiste française,French Communist Party,
+FR-1-10-v,PS (Parti Socialiste),2020,2020,FR-10-5-c,R10 --- prtclffr --- PS (Parti Socialiste),1478,FRA,PS,Parti socialiste,Socialist Party,
 FR-1-10-v,PS (Parti Socialiste),2020,2020,FR-10-5-c,R10 --- prtclffr --- PS (Parti Socialiste),1478,FRA,PS,Parti socialiste,Socialist Party,
 FR-1-16-v,Autre,2020,2020,FR-10-12-c,R10 --- prtclffr --- Autre,1898,FRA,etc,other,other,7
-FR-1-1-c,"CPNT (Chasse, PÃªche, Nature et Traditions)",2002,2008,FR-1-1-c FR-2-1-c FR-3-1-c FR-4-1-c,"R1 --- prtclfr --- CPNT (Chasse, PÃªche, Nature et Traditions)
-R2 --- prtclfr --- CPNT (Chasse, PÃªche, Nature et Traditions)
-R3 --- prtclafr --- CPNT (Chasse, pÃªche, nature et traditions)
-R4 --- prtclbfr --- CPNT (Chasse, PÃªche, Nature et Traditions)",1313,FRA,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",
-FR-1-2-c,DL (DÃ©mocratie LibÃ©rale),2002,2004,FR-1-2-c FR-2-2-c,"R1 --- prtclfr --- DL (DÃ©mocratie LibÃ©rale)
-R2 --- prtclfr --- DL (DÃ©mocratie LibÃ©rale)",4364,FRA,DL,Démocratie Libérale,Liberal Democracy,
+FR-1-16-v,Autre,2020,2020,FR-10-12-c,R10 --- prtclffr --- Autre,1898,FRA,etc,other,other,7
+FR-1-1-c,"CPNT (Chasse, Pêche, Nature et Traditions)",2002,2008,FR-1-1-c FR-2-1-c FR-3-1-c FR-4-1-c,"R1 --- prtclfr --- CPNT (Chasse, Pêche, Nature et Traditions)
+R2 --- prtclfr --- CPNT (Chasse, Pêche, Nature et Traditions)
+R3 --- prtclafr --- CPNT (Chasse, pêche, nature et traditions)
+R4 --- prtclbfr --- CPNT (Chasse, Pêche, Nature et Traditions)",1313,FRA,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",
+FR-1-2-c,DL (Démocratie Libérale),2002,2004,FR-1-2-c FR-2-2-c,"R1 --- prtclfr --- DL (Démocratie Libérale)
+R2 --- prtclfr --- DL (Démocratie Libérale)",4364,FRA,DL,Démocratie Libérale,Liberal Democracy,
 FR-1-3-c,FN (Front National),2002,2018,FR-1-3-c FR-2-3-c FR-3-2-c FR-4-2-c FR-5-1-c FR-6-2-c FR-7-2-c FR-8-2-c FR-9-11-c,"R1 --- prtclfr --- FN (Front National)
 R2 --- prtclfr --- FN (Front National)
 R3 --- prtclafr --- FN (Front national)
@@ -1042,25 +1080,25 @@ R6 --- prtcldfr --- FN (Front National)
 R7 --- prtcldfr --- FN (Front National)
 R8 --- prtclefr --- FN (Front National)
 R9 --- prtclffr --- FN (Front National)",433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR-1-4-c,LCR (ligue communiste rÃ©volutionnaire),2002,2008,FR-1-4-c FR-2-4-c FR-3-3-c FR-4-3-c,"R1 --- prtclfr --- LCR (ligue communiste rÃ©volutionnaire)
-R2 --- prtclfr --- LCR (ligue communiste rÃ©volutionnaire)
-R3 --- prtclafr --- LCR (Ligue communiste rÃ©volutionnaire)
-R4 --- prtclbfr --- LCR (Ligue Communiste RÃ©volutionnaire)",1506,FRA,LCR,Ligue communiste révolutionnaire,Revolutionary Communist League,
-FR-1-5-c,LO (Lutte ouvriÃ¨re),2002,2018,FR-1-5-c FR-2-5-c FR-3-4-c FR-4-4-c FR-5-2-c FR-6-5-c FR-7-5-c FR-8-5-c FR-9-1-c,"R1 --- prtclfr --- LO (Lutte ouvriÃ¨re)
-R2 --- prtclfr --- LO (Lutte ouvriÃ¨re)
-R3 --- prtclafr --- LO (Lutte ouvriÃ¨re)
-R4 --- prtclbfr --- LO (Lutte OuvriÃ¨re)
-R5 --- prtclcfr --- LO (Lutte ouvriÃ¨re)
-R6 --- prtcldfr --- LO (Lutte OuvriÃ¨re)
-R7 --- prtcldfr --- LO (Lutte OuvriÃ¨re)
-R8 --- prtclefr --- LO (Lutte OuvriÃ¨re)
+FR-1-4-c,LCR (ligue communiste révolutionnaire),2002,2008,FR-1-4-c FR-2-4-c FR-3-3-c FR-4-3-c,"R1 --- prtclfr --- LCR (ligue communiste révolutionnaire)
+R2 --- prtclfr --- LCR (ligue communiste révolutionnaire)
+R3 --- prtclafr --- LCR (Ligue communiste révolutionnaire)
+R4 --- prtclbfr --- LCR (Ligue Communiste Révolutionnaire)",1506,FRA,LCR,Ligue communiste révolutionnaire,Revolutionary Communist League,
+FR-1-5-c,LO (Lutte ouvrière),2002,2018,FR-1-5-c FR-2-5-c FR-3-4-c FR-4-4-c FR-5-2-c FR-6-5-c FR-7-5-c FR-8-5-c FR-9-1-c,"R1 --- prtclfr --- LO (Lutte ouvrière)
+R2 --- prtclfr --- LO (Lutte ouvrière)
+R3 --- prtclafr --- LO (Lutte ouvrière)
+R4 --- prtclbfr --- LO (Lutte Ouvrière)
+R5 --- prtclcfr --- LO (Lutte ouvrière)
+R6 --- prtcldfr --- LO (Lutte Ouvrière)
+R7 --- prtcldfr --- LO (Lutte Ouvrière)
+R8 --- prtclefr --- LO (Lutte Ouvrière)
 R9 --- prtclffr --- LO (Lutte Ouvrière)",617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR-1-6-c,MDC (Mouvement des citoyens),2002,2008,FR-1-6-c FR-3-5-c FR-4-5-c,"R1 --- prtclfr --- MDC (Mouvement des citoyens)
-R3 --- prtclafr --- MRC (Mouvement rÃ©publicain et citoyen)
-R4 --- prtclbfr --- MRC (Mouvement RÃ¨publicain et Citoyen)",3156,FRA,MDC/PR,Mouvement des citoyens / Pôle républicain,Citizens' Movement / Republican Alliance,
-FR-1-7-c,MNR (Mouvement National RÃ©publicain),2002,2006,FR-1-7-c FR-2-7-c FR-3-6-c,"R1 --- prtclfr --- MNR (Mouvement National RÃ©publicain)
-R2 --- prtclfr --- MNR (Mouvement National RÃ©publicain)
-R3 --- prtclafr --- MNR (Mouvement national rÃ©publicain)",1634,FRA,MNR,Mouvement national républicain,National Republican Movement,
+R3 --- prtclafr --- MRC (Mouvement républicain et citoyen)
+R4 --- prtclbfr --- MRC (Mouvement Rèpublicain et Citoyen)",3156,FRA,MDC/PR,Mouvement des citoyens / Pôle républicain,Citizens' Movement / Republican Alliance,
+FR-1-7-c,MNR (Mouvement National Républicain),2002,2006,FR-1-7-c FR-2-7-c FR-3-6-c,"R1 --- prtclfr --- MNR (Mouvement National Républicain)
+R2 --- prtclfr --- MNR (Mouvement National Républicain)
+R3 --- prtclafr --- MNR (Mouvement national républicain)",1634,FRA,MNR,Mouvement national républicain,National Republican Movement,
 FR-1-8-c,MPF (Mouvement pour la France),2002,2016,FR-1-8-c FR-2-8-c FR-3-7-c FR-4-6-c FR-6-9-c FR-7-9-c FR-8-9-c,"R1 --- prtclfr --- MPF (Mouvement pour la France)
 R2 --- prtclfr --- MPF (Mouvement pour la France)
 R3 --- prtclafr --- MPF (Mouvement pour la France)
@@ -1073,8 +1111,8 @@ R2 --- prtclfr --- PC (Parti communiste)
 R3 --- prtclafr --- PC (Parti communiste)
 R4 --- prtclbfr --- PC (Parti Communiste)
 R5 --- prtclcfr --- PC (Parti communiste)
-R6 --- prtcldfr --- PCF (Parti Communiste FranÃ§ais)
-R7 --- prtcldfr --- PCF (Parti Communiste FranÃ§ais)
+R6 --- prtcldfr --- PCF (Parti Communiste Français)
+R7 --- prtcldfr --- PCF (Parti Communiste Français)
 R8 --- prtclefr --- PCF (Parti Communiste Francais)
 R9 --- prtclffr --- PCF (Parti Communiste Français)",1251,FRA,PCF,Parti communiste française,French Communist Party,
 FR-1-10-c,PS (Parti Socialiste),2002,2018,FR-1-10-c FR-2-10-c FR-3-10-c FR-4-10-c FR-5-8-c FR-6-11-c FR-7-11-c FR-8-11-c FR-9-5-c,"R1 --- prtclfr --- PS (Parti Socialiste)
@@ -1086,29 +1124,29 @@ R6 --- prtcldfr --- PS (Parti Socialiste)
 R7 --- prtcldfr --- PS (Parti Socialiste)
 R8 --- prtclefr --- PS (Parti Socialiste)
 R9 --- prtclffr --- PS (Parti Socialiste)",1478,FRA,PS,Parti socialiste,Socialist Party,
-FR-1-11-c,RPF (Rassemblement du Peuple FranÃ§ais),2002,2004,FR-1-11-c FR-2-11-c,"R1 --- prtclfr --- RPF (Rassemblement du Peuple FranÃ§ais)
-R2 --- prtclfr --- RPF (Rassemblement du Peuple FranÃ§ais)",2689,FRA,unknown,unknown,unknown,10
-FR-1-12-c,UMP (Union de la MajoritÃ© PrÃ©sidentielle),2002,2014,FR-1-12-c FR-2-12-c FR-3-11-c FR-4-11-c FR-5-9-c FR-6-12-c FR-7-12-c,"R1 --- prtclfr --- UMP (Union de la MajoritÃ© PrÃ©sidentielle)
-R2 --- prtclfr --- UMP (Union de la MajoritÃ© PrÃ©sidentielle)
-R3 --- prtclafr --- UMP (Lâ€™Union)
-R4 --- prtclbfr --- UMP (Union pour la MajoritÃ© PrÃ©sidentielle)
-R5 --- prtclcfr --- UMP (Union pour la MajoritÃ© PrÃ©sidentielle)
+FR-1-11-c,RPF (Rassemblement du Peuple Français),2002,2004,FR-1-11-c FR-2-11-c,"R1 --- prtclfr --- RPF (Rassemblement du Peuple Français)
+R2 --- prtclfr --- RPF (Rassemblement du Peuple Français)",2689,FRA,unknown,unknown,unknown,10
+FR-1-12-c,UMP (Union de la Majorité Présidentielle),2002,2014,FR-1-12-c FR-2-12-c FR-3-11-c FR-4-11-c FR-5-9-c FR-6-12-c FR-7-12-c,"R1 --- prtclfr --- UMP (Union de la Majorité Présidentielle)
+R2 --- prtclfr --- UMP (Union de la Majorité Présidentielle)
+R3 --- prtclafr --- UMP (L’Union)
+R4 --- prtclbfr --- UMP (Union pour la Majorité Présidentielle)
+R5 --- prtclcfr --- UMP (Union pour la Majorité Présidentielle)
 R6 --- prtcldfr --- UMP (Union pour un Mouvement Populaire)
 R7 --- prtcldfr --- UMP (Union pour un Mouvement Populaire)",1595,FRA,UMP,Union pour un mouvement populaire,Union for a Popular Movement,
-FR-1-13-c,UDF (Union pour la DÃ©mocratie FranÃ§aise),2002,2006,FR-1-13-c FR-2-13-c FR-3-12-c,"R1 --- prtclfr --- UDF (Union pour la DÃ©mocratie FranÃ§aise)
-R2 --- prtclfr --- UDF (Union pour la DÃ©mocratie FranÃ§aise)
-R3 --- prtclafr --- UDF (Union pour la dÃ©mocratie franÃ§aise)",213,FRA,UDF,Union pour la démocratie française,Union for French Democracy,
+FR-1-13-c,UDF (Union pour la Démocratie Française),2002,2006,FR-1-13-c FR-2-13-c FR-3-12-c,"R1 --- prtclfr --- UDF (Union pour la Démocratie Française)
+R2 --- prtclfr --- UDF (Union pour la Démocratie Française)
+R3 --- prtclafr --- UDF (Union pour la démocratie française)",213,FRA,UDF,Union pour la démocratie française,Union for French Democracy,
 FR-1-14-c,Les Verts,2002,2008,FR-1-14-c FR-2-14-c FR-3-13-c FR-4-13-c,"R1 --- prtclfr --- Les Verts
 R2 --- prtclfr --- Les Verts
 R3 --- prtclafr --- Les Verts
 R4 --- prtclbfr --- Les Verts",1108,FRA,V,Les Verts,Greens,
-FR-1-15-c,Autres mouvements Ã©cologistes,2002,2016,FR-1-15-c FR-2-15-c FR-3-14-c FR-4-14-c FR-6-15-c FR-7-15-c FR-8-15-c,"R1 --- prtclfr --- Autres mouvements Ã©cologistes
-R2 --- prtclfr --- Autres mouvements Ã©cologistes
-R3 --- prtclafr --- Autres mouvements Ã©cologistes
-R4 --- prtclbfr --- Autres mouvements Ã©cologistes
-R6 --- prtcldfr --- Autres mouvements Ã©cologistes
-R7 --- prtcldfr --- Autres mouvements Ã©cologistes
-R8 --- prtclefr --- Autres mouvements Ã©cologistes",8657,FRA,d-eco,divers ecologistes,other greens,
+FR-1-15-c,Autres mouvements écologistes,2002,2016,FR-1-15-c FR-2-15-c FR-3-14-c FR-4-14-c FR-6-15-c FR-7-15-c FR-8-15-c,"R1 --- prtclfr --- Autres mouvements écologistes
+R2 --- prtclfr --- Autres mouvements écologistes
+R3 --- prtclafr --- Autres mouvements écologistes
+R4 --- prtclbfr --- Autres mouvements écologistes
+R6 --- prtcldfr --- Autres mouvements écologistes
+R7 --- prtcldfr --- Autres mouvements écologistes
+R8 --- prtclefr --- Autres mouvements écologistes",8657,FRA,d-eco,divers ecologistes,other greens,
 FR-1-16-c,Autre,2002,2018,FR-1-16-c FR-2-16-c FR-3-15-c FR-4-15-c FR-5-15-c FR-6-16-c FR-7-16-c FR-8-16-c FR-9-12-c,"R1 --- prtclfr --- Autre
 R2 --- prtclfr --- Autre
 R3 --- prtclafr --- Autre
@@ -1125,24 +1163,27 @@ R6 --- prtcldfr --- Parti Radical de Gauche
 R7 --- prtcldfr --- Parti Radical de Gauche
 R8 --- prtclefr --- Parti Radical de Gauche",1783,FRA,PRG,Parti radical de gauche,Radical Party of the Left,
 FR-4-10-v,MODEM (Mouvement Démocrate),2020,2020,FR-10-8-c,R10 --- prtclffr --- MODEM (Mouvement Démocrate),496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
+FR-4-10-v,MODEM (Mouvement Démocrate),2020,2020,FR-10-8-c,R10 --- prtclffr --- MODEM (Mouvement Démocrate),496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR-4-7-c,Nouveau Centre,2008,2016,FR-4-7-c FR-5-4-c FR-6-1-c FR-7-1-c FR-8-1-c,"R4 --- prtclbfr --- Nouveau Centre
 R5 --- prtclcfr --- Nouveau Centre
 R6 --- prtcldfr --- Nouveau Centre
 R7 --- prtcldfr --- Nouveau Centre
 R8 --- prtclefr --- Nouveau Centre",1255,FRA,NC,Nouveau centre,New Centre,
 FR-4-12-c,UDF-MoDem (Mouvement Democrate),2008,2018,FR-4-12-c FR-5-3-c FR-6-13-c FR-7-13-c FR-8-13-c FR-9-8-c,"R4 --- prtclbfr --- UDF-MoDem (Mouvement Democrate)
-R5 --- prtclcfr --- MoDem (Mouvement DÃ©mocrate)
-R6 --- prtcldfr --- MODEM (Mouvement DÃ©mocrate)
-R7 --- prtcldfr --- MODEM (Mouvement DÃ©mocrate)
-R8 --- prtclefr --- MODEM (Mouvement DÃ©mocrate)
+R5 --- prtclcfr --- MoDem (Mouvement Démocrate)
+R6 --- prtcldfr --- MODEM (Mouvement Démocrate)
+R7 --- prtcldfr --- MODEM (Mouvement Démocrate)
+R8 --- prtclefr --- MODEM (Mouvement Démocrate)
 R9 --- prtclffr --- MODEM (Mouvement Démocrate)",496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR-5-5-c,NPA (Nouveau Parti Anti-capitaliste),2010,2010,FR-5-5-c,R5 --- prtclcfr --- NPA (Nouveau Parti Anti-capitaliste),6684,FRA,NPA,Nouveau Parti Anticapitaliste,New Anticapitalist Party,
-FR-5-10-c,Les Verts â€“ Europe Ecologie,2010,2018,FR-5-10-c FR-6-14-c FR-7-14-c FR-8-14-c FR-9-6-c,"R5 --- prtclcfr --- Les Verts â€“ Europe Ecologie
+FR-5-10-c,Les Verts – Europe Ecologie,2010,2018,FR-5-10-c FR-6-14-c FR-7-14-c FR-8-14-c FR-9-6-c,"R5 --- prtclcfr --- Les Verts – Europe Ecologie
 R6 --- prtcldfr --- EELV (Europe Ecologie Les Verts)
 R7 --- prtcldfr --- EELV (Europe Ecologie Les Verts)
 R8 --- prtclefr --- EELV (Europe Ecologie Les Verts)
 R9 --- prtclffr --- EELV (Europe Ecologie Les Verts)",5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR-6-4-v,NPA (Nouveau Parti Anti-Capitaliste),2020,2020,FR-10-2-c,R10 --- prtclffr --- NPA (Nouveau Parti Anti-Capitaliste),2536,FRA,1-perc,1 percent,1 percent,11
+FR-6-4-v,NPA (Nouveau Parti Anti-Capitaliste),2020,2020,FR-10-2-c,R10 --- prtclffr --- NPA (Nouveau Parti Anti-Capitaliste),2536,FRA,1-perc,1 percent,1 percent,11
+FR-6-12-v,EELV (Europe Ecologie Les Verts),2020,2020,FR-10-6-c,R10 --- prtclffr --- EELV (Europe Ecologie Les Verts),5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR-6-12-v,EELV (Europe Ecologie Les Verts),2020,2020,FR-10-6-c,R10 --- prtclffr --- EELV (Europe Ecologie Les Verts),5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR-6-3-c,PR (Parti Radical Valoisien),2012,2016,FR-6-3-c FR-7-3-c FR-8-3-c,"R6 --- prtcldfr --- PR (Parti Radical Valoisien)
 R7 --- prtcldfr --- PR (Parti Radical Valoisien)
@@ -1154,14 +1195,18 @@ R9 --- prtclffr --- NPA (Nouveau Parti Anti-Capitaliste)",2536,FRA,1-perc,1 perc
 FR-6-6-c,PG (Parti de Gauche),2012,2016,FR-6-6-c FR-7-6-c FR-8-6-c,"R6 --- prtcldfr --- PG (Parti de Gauche)
 R7 --- prtcldfr --- PG (Parti de Gauche)
 R8 --- prtclefr --- PG (Parti de Gauche)",8359,FRA,PG,Parti de Gauche,Left Party,
-FR-6-10-c,UDI (Union des DÃ©mocrates IndÃ©pendants),2012,2016,FR-6-10-c FR-7-10-c FR-8-10-c,"R6 --- prtcldfr --- UDI (Union des DÃ©mocrates IndÃ©pendants)
-R7 --- prtcldfr --- UDI (Union des DÃ©mocrates IndÃ©pendants)
+FR-6-10-c,UDI (Union des Démocrates Indépendants),2012,2016,FR-6-10-c FR-7-10-c FR-8-10-c,"R6 --- prtcldfr --- UDI (Union des Démocrates Indépendants)
+R7 --- prtcldfr --- UDI (Union des Démocrates Indépendants)
 R8 --- prtclefr --- UDI (Union des democrates independants)",3229,FRA,UDI,Union des démocrates et indépendants,Union of Democrats and Independents,
 FR-8-12-c,LR (Les Republicains),2016,2018,FR-8-12-c FR-9-9-c,"R8 --- prtclefr --- LR (Les Republicains)
 R9 --- prtclffr --- LR (Les Républicains)",8168,FRA,LR,Les Républicains,The Republicans,
 FR-9-4-v,FI (La France Insoumise),2020,2020,FR-10-4-c,R10 --- prtclffr --- FI (La France Insoumise),5858,FRA,FI,La France Insoumise,Unbowed France,
+FR-9-4-v,FI (La France Insoumise),2020,2020,FR-10-4-c,R10 --- prtclffr --- FI (La France Insoumise),5858,FRA,FI,La France Insoumise,Unbowed France,
+FR-9-7-v,LREM (La République en Marche),2020,2020,FR-10-7-c,R10 --- prtclffr --- LREM (La République en Marche),5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
 FR-9-7-v,LREM (La République en Marche),2020,2020,FR-10-7-c,R10 --- prtclffr --- LREM (La République en Marche),5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
 FR-9-9-v,LR (Les Républicains),2020,2020,FR-10-9-c,R10 --- prtclffr --- LR (Les Républicains),8168,FRA,LR,Les Républicains,The Republicans,
+FR-9-9-v,LR (Les Républicains),2020,2020,FR-10-9-c,R10 --- prtclffr --- LR (Les Républicains),8168,FRA,LR,Les Républicains,The Republicans,
+FR-9-10-v,Debout la France,2020,2020,FR-10-10-c,R10 --- prtclffr --- Debout la France,3207,FRA,DLF,Debout la France,France Arise,
 FR-9-10-v,Debout la France,2020,2020,FR-10-10-c,R10 --- prtclffr --- Debout la France,3207,FRA,DLF,Debout la France,France Arise,
 FR-9-4-c,FI (La France Insoumise),2018,2018,FR-9-4-c,R9 --- prtclffr --- FI (La France Insoumise),5858,FRA,FI,La France Insoumise,Unbowed France,
 FR-9-7-c,LREM (La République en Marche),2018,2018,FR-9-7-c,R9 --- prtclffr --- LREM (La République en Marche),5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
@@ -1254,14 +1299,14 @@ R6 --- prtclgb --- Democratic Unionist Party (nir)
 R7 --- prtclbgb --- Democratic Unionist Party (nir)
 R8 --- prtclbgb --- Democratic Unionist Party (nir)
 R9 --- prtclcgb --- Democratic Unionist Party (nir)",335,GBR,DUP,Democratic Unionist Party,Democratic Unionist Party,
-GB-1-13-c,Sinn FÃ©in (nir),2002,2020,GB-1-13-c GB-2-13-c GB-3-13-c GB-4-13-c GB-5-13-c GB-6-13-c GB-7-11-c GB-8-11-c GB-9-11-c GB-10-12-c,"R1 --- prtclgb --- Sinn FÃ©in (nir)
-R2 --- prtclgb --- Sinn FÃ©in (nir)
-R3 --- prtclagb --- Sinn FÃ©in (nir)
-R4 --- prtclgb --- Sinn FÃ©in (nir)
-R5 --- prtclgb --- Sinn FÃ©in (nir)
-R6 --- prtclgb --- Sinn FÃ©in (nir)
-R7 --- prtclbgb --- Sinn FÃ©in (nir)
-R8 --- prtclbgb --- Sinn FÃ©in (nir)
+GB-1-13-c,Sinn Féin (nir),2002,2020,GB-1-13-c GB-2-13-c GB-3-13-c GB-4-13-c GB-5-13-c GB-6-13-c GB-7-11-c GB-8-11-c GB-9-11-c GB-10-12-c,"R1 --- prtclgb --- Sinn Féin (nir)
+R2 --- prtclgb --- Sinn Féin (nir)
+R3 --- prtclagb --- Sinn Féin (nir)
+R4 --- prtclgb --- Sinn Féin (nir)
+R5 --- prtclgb --- Sinn Féin (nir)
+R6 --- prtclgb --- Sinn Féin (nir)
+R7 --- prtclbgb --- Sinn Féin (nir)
+R8 --- prtclbgb --- Sinn Féin (nir)
 R9 --- prtclcgb --- Sinn Féin (nir)
 R10 --- prtcldgb --- Sinn Féin (nir)",963,GBR,SF,Sinn Féin,Sinn Fein,
 GB-1-14-c,Social Democratic and Labour Party (nir),2002,2018,GB-1-14-c GB-2-14-c GB-3-14-c GB-4-14-c GB-5-14-c GB-6-14-c GB-7-12-c GB-8-12-c GB-9-12-c,"R1 --- prtclgb --- Social Democratic and Labour Party (nir)
@@ -1303,7 +1348,7 @@ GB-7-14-c,Traditional Unionist (nir),2014,2014,GB-7-14-c,R7 --- prtclbgb --- Tra
 GB-9-15-c,Green Party (nir),2018,2018,GB-9-15-c,R9 --- prtclcgb --- Green Party (nir),8240,GBR,GP-NI,Green Party in Northern Ireland,Green Party in Northern Ireland,
 GR-1-1-c,PASOK (Panhellenic Socialist Movement),2002,2010,GR-1-1-c GR-2-1-c GR-4-1-c GR-5-1-c,"R1 --- prtclgr --- PASOK (Panhellenic Socialist Movement)
 R2 --- prtclagr --- PASOK (Panhellenic Socialist Movement)
-R4 --- prtclbgr --- Panhellenic Socialist Movement â€“ PASOK
+R4 --- prtclbgr --- Panhellenic Socialist Movement – PASOK
 R5 --- prtclcgr --- The Panhellenic Socialist Movement (PASOK)",1468,GRC,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,
 GR-1-2-c,ND (New Democracy),2002,2010,GR-1-2-c GR-2-2-c GR-4-2-c GR-5-2-c,"R1 --- prtclgr --- ND (New Democracy)
 R2 --- prtclagr --- ND (New Democracy)
@@ -1376,13 +1421,13 @@ R9 --- prtclahr --- Other
 R10 --- prtclbhr --- Other",2027,HRV,etc,other,other,7
 HU-1-1-c,Center Party,2002,2008,HU-1-1-c HU-2-1-c HU-4-7-c,"R1 --- prtclhu --- Center Party
 R2 --- prtclhu --- Center Party
-R4 --- prtclbhu --- CentrumpÃ¡rt",1779,HUN,CP,Centrumpárt,Centre Party,
+R4 --- prtclbhu --- Centrumpárt",1779,HUN,CP,Centrumpárt,Centre Party,
 HU-1-2-c,FYD-Federation of Young Democrats,2002,2020,HU-1-2-c HU-2-2-c HU-3-3-c HU-6-6-c HU-7-3-c HU-8-3-c HU-9-3-c HU-10-3-c,"R1 --- prtclhu --- FYD-Federation of Young Democrats
 R2 --- prtclhu --- FYD-Federation of Young Democrats
 R3 --- prtclahu --- FIDESZ
-R6 --- prtcldhu --- FIDESZ (Fidesz Magyar PolgÃ¡ri PÃ¡rt)
-R7 --- prtclehu --- Fidesz (Fidesz Magyar PolgÃ¡ri PÃ¡rt)
-R8 --- prtclfhu --- Fidesz (Fidesz Magyar PolgÃ¡ri PÃ¡rt)
+R6 --- prtcldhu --- FIDESZ (Fidesz Magyar Polgári Párt)
+R7 --- prtclehu --- Fidesz (Fidesz Magyar Polgári Párt)
+R8 --- prtclfhu --- Fidesz (Fidesz Magyar Polgári Párt)
 R9 --- prtclghu --- Fidesz (Fidesz Magyar Polgári Párt)
 R10 --- prtclhhu --- Fidesz (Fidesz Magyar Polgári Párt)",1691,HUN,Fidesz,Fidesz — Magyar Polgári Szövetség,Fidesz — Hungarian Civic Alliance,
 HU-1-3-c,ISHP-Independent Small Holders,2002,2004,HU-1-3-c HU-2-3-c,"R1 --- prtclhu --- ISHP-Independent Small Holders
@@ -1399,19 +1444,19 @@ R2 --- prtclhu --- HSP-Hungarian Socialist Party
 R3 --- prtclahu --- MSZP
 R4 --- prtclbhu --- MSZP
 R5 --- prtclchu --- MSZP
-R6 --- prtcldhu --- MSZP (Magyar Szocialista PÃ¡rt)
-R7 --- prtclehu --- MSZP (Magyar Szocialista PÃ¡rt)
-R8 --- prtclfhu --- MSZP (Magyar Szocialista PÃ¡rt)
+R6 --- prtcldhu --- MSZP (Magyar Szocialista Párt)
+R7 --- prtclehu --- MSZP (Magyar Szocialista Párt)
+R8 --- prtclfhu --- MSZP (Magyar Szocialista Párt)
 R9 --- prtclghu --- MSZP (Magyar Szocialista Párt)
 R10 --- prtclhhu --- MSZP (Magyar Szocialista Párt)",1408,HUN,MSZP,Magyar Szocialista Párt,Hungarian Socialist Party,
 HU-1-7-c,WP-Workers Party,2002,2020,HU-1-7-c HU-2-7-c HU-3-14-c HU-4-5-c HU-5-5-c HU-6-15-c HU-7-8-c HU-8-8-c HU-9-8-c HU-10-8-c,"R1 --- prtclhu --- WP-Workers Party
 R2 --- prtclhu --- WP-Workers Party
-R3 --- prtclahu --- MUNKÃSPÃRT
-R4 --- prtclbhu --- MunkÃ¡spÃ¡rt
+R3 --- prtclahu --- MUNKÁSPÁRT
+R4 --- prtclbhu --- Munkáspárt
 R5 --- prtclchu --- Munkaspart
-R6 --- prtcldhu --- MunkÃ¡spÃ¡rt (Magyar Kommunista MunkÃ¡spÃ¡rt)
-R7 --- prtclehu --- MunkÃ¡spÃ¡rt (Magyar Kommunista MunkÃ¡spÃ¡rt)
-R8 --- prtclfhu --- MunkÃ¡spÃ¡rt (Magyar Kommunista MunkÃ¡spÃ¡rt)
+R6 --- prtcldhu --- Munkáspárt (Magyar Kommunista Munkáspárt)
+R7 --- prtclehu --- Munkáspárt (Magyar Kommunista Munkáspárt)
+R8 --- prtclfhu --- Munkáspárt (Magyar Kommunista Munkáspárt)
 R9 --- prtclghu --- Munkáspárt (Magyar Kommunista Munkáspárt)
 R10 --- prtclhhu --- Munkáspárt (Magyar Kommunista Munkáspárt)",859,HUN,MKM,Magyar Kommunista Munkáspárt,Hungarian Communist Workers' Party,
 HU-1-8-c,FFD-Free Democrats,2002,2012,HU-1-8-c HU-2-8-c HU-3-20-c HU-4-6-c HU-5-6-c HU-6-17-c,"R1 --- prtclhu --- FFD-Free Democrats
@@ -1419,7 +1464,7 @@ R2 --- prtclhu --- FFD-Free Democrats
 R3 --- prtclahu --- SZDSZ
 R4 --- prtclbhu --- SZDSZ
 R5 --- prtclchu --- SZDSZ
-R6 --- prtcldhu --- SZDSZ (Szabad DemokratÃ¡k SzÃ¶vetsÃ©ge - A Magyar LiberÃ¡lis PÃ¡rt)",910,HUN,SzDSz,Szabad Demokraták Szövetsége,Alliance of Free Democrats,
+R6 --- prtcldhu --- SZDSZ (Szabad Demokraták Szövetsége - A Magyar Liberális Párt)",910,HUN,SzDSz,Szabad Demokraták Szövetsége,Alliance of Free Democrats,
 HU-1-9-c,Other,2002,2020,HU-1-9-c HU-2-9-c HU-3-21-c HU-4-16-c HU-5-86-c HU-7-55-c HU-8-55-c HU-9-55-c HU-10-55-c,"R1 --- prtclhu --- Other
 R2 --- prtclhu --- Other
 R3 --- prtclahu --- Other
@@ -1429,48 +1474,48 @@ R7 --- prtclehu --- Other
 R8 --- prtclfhu --- Other
 R9 --- prtclghu --- Other
 R10 --- prtclhhu --- Other",1843,HUN,etc,other,other,7
-HU-3-4-c,"FKNP (FÃœGGETLEN KISGAZDA-, NEMZETI EGYSÃ‰G PÃRT)",2006,2006,HU-3-4-c,"R3 --- prtclahu --- FKNP (FÃœGGETLEN KISGAZDA-, NEMZETI EGYSÃ‰G PÃRT)",2721,HUN,1-perc,1 percent,1 percent,11
-HU-3-5-c,Jobbik (Jobbik MagyarorszÃ¡gÃ©rt Mozgalom),2006,2020,HU-3-5-c HU-4-11-c HU-5-11-c HU-6-7-c HU-7-4-c HU-8-4-c HU-9-4-c HU-10-4-c,"R3 --- prtclahu --- Jobbik (Jobbik MagyarorszÃ¡gÃ©rt Mozgalom)
-R4 --- prtclbhu --- Jobbik MagyarorszÃ¡gÃ©rt Mozgalom
+HU-3-4-c,"FKNP (FÜGGETLEN KISGAZDA-, NEMZETI EGYSÉG PÁRT)",2006,2006,HU-3-4-c,"R3 --- prtclahu --- FKNP (FÜGGETLEN KISGAZDA-, NEMZETI EGYSÉG PÁRT)",2721,HUN,1-perc,1 percent,1 percent,11
+HU-3-5-c,Jobbik (Jobbik Magyarországért Mozgalom),2006,2020,HU-3-5-c HU-4-11-c HU-5-11-c HU-6-7-c HU-7-4-c HU-8-4-c HU-9-4-c HU-10-4-c,"R3 --- prtclahu --- Jobbik (Jobbik Magyarországért Mozgalom)
+R4 --- prtclbhu --- Jobbik Magyarországért Mozgalom
 R5 --- prtclchu --- Jobbik Magyarorszagert Mozgalom
-R6 --- prtcldhu --- Jobbik (Jobbik MagyarorszÃ¡gÃ©rt Mozgalom)
-R7 --- prtclehu --- Jobbik (Jobbik MagyarorszÃ¡gÃ©rt Mozgalom)
-R8 --- prtclfhu --- Jobbik (Jobbik MagyarorszÃ¡gÃ©rt Mozgalom)
+R6 --- prtcldhu --- Jobbik (Jobbik Magyarországért Mozgalom)
+R7 --- prtclehu --- Jobbik (Jobbik Magyarországért Mozgalom)
+R8 --- prtclfhu --- Jobbik (Jobbik Magyarországért Mozgalom)
 R9 --- prtclghu --- Jobbik (Jobbik Magyarországért Mozgalom)
 R10 --- prtclhhu --- Jobbik (Jobbik Magyarországért Mozgalom)",42,HUN,Jobbik,Jobbik Magyarországért Mozgalom,Movement for a Better Hungary,
 HU-3-6-c,KDNP,2006,2020,HU-3-6-c HU-4-8-c HU-6-8-c HU-7-5-c HU-8-5-c HU-9-5-c HU-10-5-c,"R3 --- prtclahu --- KDNP
-R4 --- prtclbhu --- KeresztÃ©nydemokrata PÃ¡rt - KeresztÃ©ny Centrum Ã–sszefogÃ¡s
-R6 --- prtcldhu --- KDNP (KeresztÃ©nydemokrata NÃ©ppÃ¡rt)
-R7 --- prtclehu --- KDNP (KeresztÃ©nydemokrata NÃ©ppÃ¡rt)
-R8 --- prtclfhu --- KDNP (KeresztÃ©nydemokrata NÃ©ppÃ¡rt)
+R4 --- prtclbhu --- Kereszténydemokrata Párt - Keresztény Centrum Összefogás
+R6 --- prtcldhu --- KDNP (Kereszténydemokrata Néppárt)
+R7 --- prtclehu --- KDNP (Kereszténydemokrata Néppárt)
+R8 --- prtclfhu --- KDNP (Kereszténydemokrata Néppárt)
 R9 --- prtclghu --- KDNP (Kereszténydemokrata Néppárt)
 R10 --- prtclhhu --- KDNP (Kereszténydemokrata Néppárt)",1412,HUN,KDNP,Kereszténydemokrata Néppárt,Christian Democratic People's Party,
-HU-3-9-c,MIÃ‰P,2006,2012,HU-3-9-c HU-4-3-c HU-6-12-c,"R3 --- prtclahu --- MIÃ‰P
-R4 --- prtclbhu --- MIÃ‰P
-R6 --- prtcldhu --- MIÃ‰P (Magyar IgazsÃ¡g Ã‰s Ã‰let PÃ¡rtja)",1597,HUN,MIEP,Magyar Igazság és Élet Pártja,Hungarian Justice and Life Party,
-HU-3-11-c,MRDP (MAGYARORSZÃGI ROMÃK DEMOKRATIKUS PÃRTJA),2006,2006,HU-3-11-c,R3 --- prtclahu --- MRDP (MAGYARORSZÃGI ROMÃK DEMOKRATIKUS PÃRTJA),2721,HUN,1-perc,1 percent,1 percent,11
-HU-3-19-c,SZDP (SZOCIÃLDEMOKRATA PÃRT),2006,2012,HU-3-19-c HU-5-12-c HU-6-13-c,"R3 --- prtclahu --- SZDP (SZOCIÃLDEMOKRATA PÃRT)
+HU-3-9-c,MIÉP,2006,2012,HU-3-9-c HU-4-3-c HU-6-12-c,"R3 --- prtclahu --- MIÉP
+R4 --- prtclbhu --- MIÉP
+R6 --- prtcldhu --- MIÉP (Magyar Igazság És Élet Pártja)",1597,HUN,MIEP,Magyar Igazság és Élet Pártja,Hungarian Justice and Life Party,
+HU-3-11-c,MRDP (MAGYARORSZÁGI ROMÁK DEMOKRATIKUS PÁRTJA),2006,2006,HU-3-11-c,R3 --- prtclahu --- MRDP (MAGYARORSZÁGI ROMÁK DEMOKRATIKUS PÁRTJA),2721,HUN,1-perc,1 percent,1 percent,11
+HU-3-19-c,SZDP (SZOCIÁLDEMOKRATA PÁRT),2006,2012,HU-3-19-c HU-5-12-c HU-6-13-c,"R3 --- prtclahu --- SZDP (SZOCIÁLDEMOKRATA PÁRT)
 R5 --- prtclchu --- Magyarorszagi Szocialdemokrata Part
-R6 --- prtcldhu --- MSZDP (Magyar SzociÃ¡ldemokrata PÃ¡rt)",1726,HUN,MSzDP,Magyarországi Szociáldemokrata Párt,Social Democratic Party of Hungary (1989),
+R6 --- prtcldhu --- MSZDP (Magyar Szociáldemokrata Párt)",1726,HUN,MSzDP,Magyarországi Szociáldemokrata Párt,Social Democratic Party of Hungary (1989),
 HU-4-1-c,Fidesz - KDNP,2008,2010,HU-4-1-c HU-5-1-c,"R4 --- prtclbhu --- Fidesz - KDNP
 R5 --- prtclchu --- Fidesz - KDNP",6366,HUN,Fidesz — KDNP,Fidesz — KDNP pártszövetség / Magyar Szolidaritás Szövetsége,Fidesz — KDNP Party Alliance / Alliance of Hungarian Solidarity,
-HU-4-9-c,Magyar VidÃ©k Ã©s PolgÃ¡ri PÃ¡rt,2008,2008,HU-4-9-c,R4 --- prtclbhu --- Magyar VidÃ©k Ã©s PolgÃ¡ri PÃ¡rt,2721,HUN,1-perc,1 percent,1 percent,11
+HU-4-9-c,Magyar Vidék és Polgári Párt,2008,2008,HU-4-9-c,R4 --- prtclbhu --- Magyar Vidék és Polgári Párt,2721,HUN,1-perc,1 percent,1 percent,11
 HU-5-8-c,Keresztenydemokrata Part - Kereszteny Centrum Osszefogas,2010,2010,HU-5-8-c,R5 --- prtclchu --- Keresztenydemokrata Part - Kereszteny Centrum Osszefogas,2721,HUN,1-perc,1 percent,1 percent,11
 HU-5-9-c,Magyar Videk es Polgari Part,2010,2010,HU-5-9-c,R5 --- prtclchu --- Magyar Videk es Polgari Part,2721,HUN,1-perc,1 percent,1 percent,11
 HU-5-13-c,Lehet Mas a Politika (LMP),2010,2020,HU-5-13-c HU-6-9-c HU-7-6-c HU-8-6-c HU-9-6-c HU-10-6-c,"R5 --- prtclchu --- Lehet Mas a Politika (LMP)
-R6 --- prtcldhu --- LMP (Lehet MÃ¡s A Politika)
-R7 --- prtclehu --- LMP (Lehet MÃ¡s A Politika)
-R8 --- prtclfhu --- LMP (Lehet MÃ¡s A Politika)
+R6 --- prtcldhu --- LMP (Lehet Más A Politika)
+R7 --- prtclehu --- LMP (Lehet Más A Politika)
+R8 --- prtclfhu --- LMP (Lehet Más A Politika)
 R9 --- prtclghu --- LMP (Lehet Más A Politika)
 R10 --- prtclhhu --- LMP (Lehet Más A Politika)",1650,HUN,LMP—Greens,Lehet Más a Politika — LMP – Magyarország Zöld Pártja,Politics Can Be Different — LMP – Hungary's Green Party,
-HU-6-4-c,DK (Demokratikus KoalÃ­ciÃ³),2012,2020,HU-6-4-c HU-7-1-c HU-8-1-c HU-9-1-c HU-10-1-c,"R6 --- prtcldhu --- DK (Demokratikus KoalÃ­ciÃ³)
-R7 --- prtclehu --- DK (Demokratikus KoalÃ­ciÃ³)
-R8 --- prtclfhu --- DK (Demokratikus KoalÃ­ciÃ³)
+HU-6-4-c,DK (Demokratikus Koalíció),2012,2020,HU-6-4-c HU-7-1-c HU-8-1-c HU-9-1-c HU-10-1-c,"R6 --- prtcldhu --- DK (Demokratikus Koalíció)
+R7 --- prtclehu --- DK (Demokratikus Koalíció)
+R8 --- prtclfhu --- DK (Demokratikus Koalíció)
 R9 --- prtclghu --- DK (Demokratikus Koalíció)
 R10 --- prtclhhu --- DK (Demokratikus Koalíció)",469,HUN,DK,Demokratikus Koalíció,Democratic Coalition,
-HU-6-5-c,"EgyÃ¼tt 2014 Mozgalom (Haza Ã©s HaladÃ¡s, Milla, SzolidaritÃ¡s)",2012,2018,HU-6-5-c HU-7-2-c HU-8-2-c HU-9-2-c,"R6 --- prtcldhu --- EgyÃ¼tt 2014 Mozgalom (Haza Ã©s HaladÃ¡s, Milla, SzolidaritÃ¡s)
-R7 --- prtclehu --- EgyÃ¼tt2014 Mozgalom
-R8 --- prtclfhu --- EgyÃ¼tt2014 Mozgalom
+HU-6-5-c,"Együtt 2014 Mozgalom (Haza és Haladás, Milla, Szolidaritás)",2012,2018,HU-6-5-c HU-7-2-c HU-8-2-c HU-9-2-c,"R6 --- prtcldhu --- Együtt 2014 Mozgalom (Haza és Haladás, Milla, Szolidaritás)
+R7 --- prtclehu --- Együtt2014 Mozgalom
+R8 --- prtclfhu --- Együtt2014 Mozgalom
 R9 --- prtclghu --- Együtt2014 Mozgalom",2458,HUN,Egyutt,Együtt — A Korszakváltók Pártja,Together — Party for a New Era,
 HU-8-9-c,Momentum Mozgalom,2016,2020,HU-8-9-c HU-9-9-c HU-10-9-c,"R8 --- prtclfhu --- Momentum Mozgalom
 R9 --- prtclghu --- Momentum Mozgalom
@@ -1479,14 +1524,14 @@ HU-9-10-c,Párbeszéd (Párbeszéd Magyarországért Párt),2018,2020,HU-9-10-c 
 R10 --- prtclhhu --- Párbeszéd (Párbeszéd Magyarországért Párt)",3115,HUN,PM,Párbeszéd Magyarországért,Dialogue for Hungary,
 HU-9-11-c,MKKP (Magyar Kétfarkú Kutya Párt),2018,2020,HU-9-11-c HU-10-11-c,"R9 --- prtclghu --- MKKP (Magyar Kétfarkú Kutya Párt)
 R10 --- prtclhhu --- MKKP (Magyar Kétfarkú Kutya Párt)",6129,HUN,MKKP,Magyar Kétfarkú Kutya Párt,Hungarian Two-tailed Dog Party,
-IE-1-1-c,Fianna FÃ¡il,2002,2020,IE-1-1-c IE-2-1-c IE-3-1-c IE-4-1-c IE-5-1-c IE-6-1-c IE-7-1-c IE-8-2-c IE-9-2-c IE-10-1-c,"R1 --- prtclie --- Fianna FÃ¡il
-R2 --- prtclie --- Fianna FÃ¡il
-R3 --- prtclaie --- Fianna FÃ¡il
-R4 --- prtclbie --- Fianna FÃ¡il
-R5 --- prtclcie --- Fianna FÃ¡il
-R6 --- prtclcie --- Fianna FÃ¡il
-R7 --- prtclcie --- Fianna FÃ¡il
-R8 --- prtcldie --- Fianna FÃ¡il
+IE-1-1-c,Fianna Fáil,2002,2020,IE-1-1-c IE-2-1-c IE-3-1-c IE-4-1-c IE-5-1-c IE-6-1-c IE-7-1-c IE-8-2-c IE-9-2-c IE-10-1-c,"R1 --- prtclie --- Fianna Fáil
+R2 --- prtclie --- Fianna Fáil
+R3 --- prtclaie --- Fianna Fáil
+R4 --- prtclbie --- Fianna Fáil
+R5 --- prtclcie --- Fianna Fáil
+R6 --- prtclcie --- Fianna Fáil
+R7 --- prtclcie --- Fianna Fáil
+R8 --- prtcldie --- Fianna Fáil
 R9 --- prtcleie --- Fianna Fáil
 R10 --- prtclfie --- Fianna Fáil",1055,IRL,FF,Fianna Fáil,Fianna Fail — The Republican Party,
 IE-1-2-c,Fine Gael,2002,2020,IE-1-2-c IE-2-2-c IE-3-2-c IE-4-2-c IE-5-2-c IE-6-2-c IE-7-2-c IE-8-3-c IE-9-3-c IE-10-2-c,"R1 --- prtclie --- Fine Gael
@@ -1522,14 +1567,14 @@ R7 --- prtclcie --- Green Party
 R8 --- prtcldie --- Green Party
 R9 --- prtcleie --- Green Party
 R10 --- prtclfie --- Green Party",1775,IRL,Greens,Green Party-Comhaontas Glas,Green Party,
-IE-1-6-c,Sinn FÃ©in,2002,2020,IE-1-6-c IE-2-6-c IE-3-6-c IE-4-5-c IE-5-7-c IE-6-7-c IE-7-7-c IE-8-7-c IE-9-7-c IE-10-4-c,"R1 --- prtclie --- Sinn FÃ©in
-R2 --- prtclie --- Sinn FÃ©in
-R3 --- prtclaie --- Sinn FÃ©in
-R4 --- prtclbie --- Sinn FÃ©in
-R5 --- prtclcie --- Sinn FÃ©in
-R6 --- prtclcie --- Sinn FÃ©in
-R7 --- prtclcie --- Sinn FÃ©in
-R8 --- prtcldie --- Sinn FÃ©in
+IE-1-6-c,Sinn Féin,2002,2020,IE-1-6-c IE-2-6-c IE-3-6-c IE-4-5-c IE-5-7-c IE-6-7-c IE-7-7-c IE-8-7-c IE-9-7-c IE-10-4-c,"R1 --- prtclie --- Sinn Féin
+R2 --- prtclie --- Sinn Féin
+R3 --- prtclaie --- Sinn Féin
+R4 --- prtclbie --- Sinn Féin
+R5 --- prtclcie --- Sinn Féin
+R6 --- prtclcie --- Sinn Féin
+R7 --- prtclcie --- Sinn Féin
+R8 --- prtcldie --- Sinn Féin
 R9 --- prtcleie --- Sinn Féin
 R10 --- prtclfie --- Sinn Féin",4,IRL,SF,Sinn Féin (Provisional),Sinn Fein (Provisional),
 IE-1-7-c,Other,2002,2020,IE-1-7-c IE-2-7-c IE-3-8-c IE-5-10-c IE-6-10-c IE-7-10-c IE-8-10-c IE-9-13-c IE-10-14-c,"R1 --- prtclie --- Other
@@ -1669,8 +1714,8 @@ R8 --- prtcldil --- HaReshima HaMeshutefet",7912,ISR,JL,al-Qa'imah al-Mushtaraka
 IL-7-12-c,HaReshima HaArvit,2014,2016,IL-7-12-c IL-8-12-c,"R7 --- prtcldil --- HaReshima HaArvit
 R8 --- prtcldil --- HaReshima HaArvit",2740,ISR,1-perc,1 percent,1 percent,11
 IS-2-1-c,Progressive Party,2004,2020,IS-2-1-c IS-6-2-c IS-8-2-c IS-9-2-c IS-10-5-c,"R2 --- prtclis --- Progressive Party
-R6 --- prtclais --- FramsÃ³knarflokkinn
-R8 --- prtclbis --- FramsÃ³knarflokknum
+R6 --- prtclais --- Framsóknarflokkinn
+R8 --- prtclbis --- Framsóknarflokknum
 R9 --- prtclcis --- Framsóknarflokknum
 R10 --- prtcldis --- Framsóknarflokkinn",964,ISL,F,Framsóknarflokkurinn,Progressive Party,
 IS-2-2-c,Liberal Party,2004,2004,IS-2-2-c,R2 --- prtclis --- Liberal Party,1224,ISL,Ff,Frjálslyndi flokkurinn,Liberal Party,
@@ -1680,33 +1725,33 @@ R8 --- prtclbis --- Samfylkingunni
 R9 --- prtclcis --- Samfylkingunni
 R10 --- prtcldis --- Samfylkinguna",1396,ISL,Sam,Samfylkingin,Social Democratic Alliance,
 IS-2-5-c,Independence Party,2004,2020,IS-2-5-c IS-6-3-c IS-8-3-c IS-9-1-c IS-10-9-c,"R2 --- prtclis --- Independence Party
-R6 --- prtclais --- SjÃ¡lfstÃ¦Ã°isflokkinn
-R8 --- prtclbis --- SjÃ¡lfstÃ¦Ã°isflokknum
+R6 --- prtclais --- Sjálfstæðisflokkinn
+R8 --- prtclbis --- Sjálfstæðisflokknum
 R9 --- prtclcis --- Sjálfstæðisflokknum
 R10 --- prtcldis --- Sjálfstæðisflokkinn",363,ISL,Sj,Sjálfstæðisflokkurinn,Independence Party,
 IS-2-7-c,The Left Green Movement,2004,2020,IS-2-7-c IS-6-4-c IS-8-10-c IS-9-3-c IS-10-11-c,"R2 --- prtclis --- The Left Green Movement
-R6 --- prtclais --- Vinstri hreyfinguna-GrÃ¦nt framboÃ°
-R8 --- prtclbis --- Vinstri hreyfingunni - grÃ¦nu framboÃ°i
+R6 --- prtclais --- Vinstri hreyfinguna-Grænt framboð
+R8 --- prtclbis --- Vinstri hreyfingunni - grænu framboði
 R9 --- prtclcis --- Vinstri hreyfingunni - grænu framboði
 R10 --- prtcldis --- Vinstri hreyfinguna - grænt framboð",457,ISL,Graen,Vinstrihreyfingin — grænt framboð,Left-Green Movement,
 IS-2-10-c,Other parties,2004,2018,IS-2-10-c IS-6-11-c IS-8-14-c IS-9-20-c,"R2 --- prtclis --- Other parties
 R6 --- prtclais --- Other
-R8 --- prtclbis --- Ã–Ã°rum, skrÃ¡ hÃ©r
+R8 --- prtclbis --- Öðrum, skrá hér
 R9 --- prtclcis --- Other",1844,ISL,etc,other,other,7
 IS-6-6-c,Borgarahreyfinguna,2012,2012,IS-6-6-c,R6 --- prtclais --- Borgarahreyfinguna,224,ISL,B,Borgarahreyfingin,Citizens' Movement,
-IS-6-8-c,Bjartri framtÃ­Ã°,2012,2018,IS-6-8-c IS-8-1-c IS-9-5-c,"R6 --- prtclais --- Bjartri framtÃ­Ã°
-R8 --- prtclbis --- Bjartri framtÃ­Ã°
+IS-6-8-c,Bjartri framtíð,2012,2018,IS-6-8-c IS-8-1-c IS-9-5-c,"R6 --- prtclais --- Bjartri framtíð
+R8 --- prtclbis --- Bjartri framtíð
 R9 --- prtclcis --- Bjartri framtíð",2517,ISL,BF,Björt framtíð,Bright Future,
 IS-6-9-c,Hreyfingunni,2012,2012,IS-6-9-c,R6 --- prtclais --- Hreyfingunni,2723,ISL,unknown,unknown,unknown,10
-IS-6-10-c,SamstÃ¶Ã°u,2012,2012,IS-6-10-c,R6 --- prtclais --- SamstÃ¶Ã°u,2724,ISL,1-perc,1 percent,1 percent,11
-IS-8-4-c,Flokki fÃ³lksins,2016,2020,IS-8-4-c IS-9-13-c IS-10-4-c,"R8 --- prtclbis --- Flokki fÃ³lksins
+IS-6-10-c,Samstöðu,2012,2012,IS-6-10-c,R6 --- prtclais --- Samstöðu,2724,ISL,1-perc,1 percent,1 percent,11
+IS-8-4-c,Flokki fólksins,2016,2020,IS-8-4-c IS-9-13-c IS-10-4-c,"R8 --- prtclbis --- Flokki fólksins
 R9 --- prtclcis --- Flokki fólksins
 R10 --- prtcldis --- Flokk fólksins",5852,ISL,FlF,Flokkur fólksins,People's Party,
 IS-8-6-c,Flokki heimilanna,2016,2016,IS-8-6-c,R8 --- prtclbis --- Flokki heimilanna,2519,ISL,FH,Flokkur Heimilanna,Households Party,
-IS-8-11-c,PÃ­rÃ¶tum,2016,2020,IS-8-11-c IS-9-6-c IS-10-7-c,"R8 --- prtclbis --- PÃ­rÃ¶tum
+IS-8-11-c,Pírötum,2016,2020,IS-8-11-c IS-9-6-c IS-10-7-c,"R8 --- prtclbis --- Pírötum
 R9 --- prtclcis --- Pírötum
 R10 --- prtcldis --- Pírata",2048,ISL,Pi,Pírata,Pirate Party of Iceland,
-IS-8-12-c,ViÃ°reisn,2016,2020,IS-8-12-c IS-9-7-c IS-10-10-c,"R8 --- prtclbis --- ViÃ°reisn
+IS-8-12-c,Viðreisn,2016,2020,IS-8-12-c IS-9-7-c IS-10-10-c,"R8 --- prtclbis --- Viðreisn
 R9 --- prtclcis --- Viðreisn
 R10 --- prtcldis --- Viðreisn",5454,ISL,V,Viðreisn,Reform Party,
 IT-1-1-c,Democratici di Sinistra,2002,2002,IT-1-1-c,R1 --- prtclit --- Democratici di Sinistra,878,ITA,DS,Democratici di Sinistra,Democrats of the Left,
@@ -1736,10 +1781,11 @@ R8 --- prtclcit --- Altro (scrivere)
 R9 --- prtcldit --- Altro
 R10 --- prtcleit --- Altro",1896,ITA,etc,other,other,7
 IT-6-1-v,Partido Democratico,2020,2020,IT-10-2-c,R10 --- prtcleit --- Partido Democratico,802,ITA,PD,Partito Democratico,Democratic Party,
+IT-6-1-v,Partido Democratico,2020,2020,IT-10-2-c,R10 --- prtcleit --- Partido Democratico,802,ITA,PD,Partito Democratico,Democratic Party,
 IT-6-1-c,Partido Democratico (PD),2012,2018,IT-6-1-c IT-8-2-c IT-9-1-c,"R6 --- prtclbit --- Partido Democratico (PD)
 R8 --- prtclcit --- Partido Democratico (PD)
 R9 --- prtcldit --- Partido Democratico (PD)",802,ITA,PD,Partito Democratico,Democratic Party,
-IT-6-2-c,Sinistra Ecologia e LibertÃ  (SEL),2012,2016,IT-6-2-c IT-8-8-c,"R6 --- prtclbit --- Sinistra Ecologia e LibertÃ  (SEL)
+IT-6-2-c,Sinistra Ecologia e Libertà (SEL),2012,2016,IT-6-2-c IT-8-8-c,"R6 --- prtclbit --- Sinistra Ecologia e Libertà (SEL)
 R8 --- prtclcit --- Sinistra italiana",1212,ITA,SI,Sinistra Italiana,Italian Left,
 IT-6-3-c,Rivoluzione Civile (Ingroia),2012,2012,IT-6-3-c,R6 --- prtclbit --- Rivoluzione Civile (Ingroia),2277,ITA,RC,Rivoluzione Civile,Civil Revolution,
 IT-6-4-c,Movimento 5 Stelle,2012,2020,IT-6-4-c IT-8-1-c IT-9-7-c IT-10-1-c,"R6 --- prtclbit --- Movimento 5 Stelle
@@ -1748,19 +1794,19 @@ R9 --- prtcldit --- Movimento 5 Stelle
 R10 --- prtcleit --- Movimento 5 Stelle",2046,ITA,M5S,Movimento 5 Stelle,Five Star Movement,
 IT-6-5-c,Scelta Civica (con Monti),2012,2012,IT-6-5-c,R6 --- prtclbit --- Scelta Civica (con Monti),2281,ITA,SC,Scelta Civica,Civic Choice,
 IT-6-6-c,UDC,2012,2012,IT-6-6-c,R6 --- prtclbit --- UDC,201,ITA,UdC,Unione di Centro,Union of the Centre,
-IT-6-8-c,Popolo delle LibertÃ  (PDL),2012,2012,IT-6-8-c,R6 --- prtclbit --- Popolo delle LibertÃ  (PDL),365,ITA,IPdL,Il Popolo della Libertà,The People of Freedom,
+IT-6-8-c,Popolo delle Libertà (PDL),2012,2012,IT-6-8-c,R6 --- prtclbit --- Popolo delle Libertà (PDL),365,ITA,IPdL,Il Popolo della Libertà,The People of Freedom,
 IT-6-10-c,Fratelli d'Italia,2012,2020,IT-6-10-c IT-8-5-c IT-9-10-c IT-10-5-c,"R6 --- prtclbit --- Fratelli d'Italia
 R8 --- prtclcit --- Fratelli d'Italia - An
 R9 --- prtcldit --- Fratelli d'Italia
 R10 --- prtcleit --- Fratelli d'Italia con Giorgia Meloni",2280,ITA,FdI,Fratelli d'Italia,Brothers of Italy,
-IT-6-11-c,Radicali Italiani (Amnistia giustizia e libertÃ ),2012,2012,IT-6-11-c,R6 --- prtclbit --- Radicali Italiani (Amnistia giustizia e libertÃ ),8248,ITA,RI,Radicali Italiani,Italian Radicals,
+IT-6-11-c,Radicali Italiani (Amnistia giustizia e libertà),2012,2012,IT-6-11-c,R6 --- prtclbit --- Radicali Italiani (Amnistia giustizia e libertà),8248,ITA,RI,Radicali Italiani,Italian Radicals,
 IT-6-12-c,FARE - Giannino,2012,2012,IT-6-12-c,R6 --- prtclbit --- FARE - Giannino,2279,ITA,FiD,Fermare il Declino,Stop the Decline,
 IT-6-13-c,La destra,2012,2012,IT-6-13-c,R6 --- prtclbit --- La destra,2415,ITA,1-perc,1 percent,1 percent,11
 IT-8-4-c,Forza Italia,2016,2016,IT-8-4-c,R8 --- prtclcit --- Forza Italia,8058,ITA,FI,Forza Italia (2013),Forward Italy (2013),
 IT-8-6-c,Articolo 1 Mdp,2016,2016,IT-8-6-c,R8 --- prtclcit --- Articolo 1 Mdp,8361,ITA,Art.1,Articolo Uno,Article One,
 IT-8-7-c,Alternativa popolare,2016,2016,IT-8-7-c,R8 --- prtclcit --- Alternativa popolare,9090,ITA,AP,Alternativa Popolare,Popular Alternative,
-IT-9-2-c,#NAME?,2018,2020,IT-9-2-c IT-10-7-c,"R9 --- prtcldit --- #NAME?
-R10 --- prtcleit --- #NAME?",6155,ITA,+E,Più Europa,More Europe,
+IT-9-2-c,+ Europa,2018,2020,IT-9-2-c IT-10-7-c,"R9 --- prtcldit --- + Europa
+R10 --- prtcleit --- + Europa",6155,ITA,+E,Più Europa,More Europe,
 IT-9-3-c,Italia Europa Insieme,2018,2018,IT-9-3-c,R9 --- prtcldit --- Italia Europa Insieme,7671,ITA,IEI,Insieme,Together,
 IT-9-4-c,Civia Popolare Lorenzin,2018,2018,IT-9-4-c,R9 --- prtcldit --- Civia Popolare Lorenzin,7670,ITA,CP,Civica Popolare,Popular Civic List,
 IT-9-5-c,SVP-PATT,2018,2020,IT-9-5-c IT-10-14-c,"R9 --- prtcldit --- SVP-PATT
@@ -1770,6 +1816,7 @@ R10 --- prtcleit --- Liberi e Uguali (LEU)",8246,ITA,LeU,Liberi e Uguali,Free an
 IT-9-12-c,Potere al popolo,2018,2020,IT-9-12-c IT-10-9-c,"R9 --- prtcldit --- Potere al popolo
 R10 --- prtcleit --- Potere al popolo",8247,ITA,PaP,Potere al Popolo,Power to the People,
 IT-9-13-c,Casapound Italia,2018,2018,IT-9-13-c,R9 --- prtcldit --- Casapound Italia,8244,ITA,CPI,CasaPound Italia,CasaPound Italy,
+LT-5-15-v,Party 'Young Lithuania' (JL),2018,2018,LT-9-15-c,R9 --- prtclblt --- Party 'Young Lithuania' (JL),1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT-5-15-v,Party 'Young Lithuania' (JL),2018,2018,LT-9-15-c,R9 --- prtclblt --- Party 'Young Lithuania' (JL),1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT-5-1-c,Lithuanian Social Democratic Party (LSDP),2010,2020,LT-5-1-c LT-6-8-c LT-7-8-c LT-8-3-c LT-9-3-c LT-10-4-c,"R5 --- prtcllt --- Lithuanian Social Democratic Party (LSDP)
 R6 --- prtclalt --- Lithuanian Social Democratic Party (LSDP)
@@ -1861,18 +1908,18 @@ R8 --- prtclblt --- Political Party 'List of Lithuania' (LS)",6738,LTU,List,"Pol
 LT-7-27-c,Zemaiciai (Samogitian) Party (ZP),2014,2014,LT-7-27-c,R7 --- prtclalt --- Zemaiciai (Samogitian) Party (ZP),1291,LTU,Zp,Žemaičių partija,Samogitian Party,
 LT-8-8-c,Lithuanian Freedom Union (Liberals) (LLSL),2016,2018,LT-8-8-c LT-9-8-c,"R8 --- prtclblt --- Lithuanian Freedom Union (Liberals) (LLSL)
 R9 --- prtclblt --- Lithuanian Freedom Union (Liberals) (LLSL)",5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
-LU-1-1-c,Parti ChrÃ©tien Social (PCS),2002,2004,LU-1-1-c LU-2-1-c,"R1 --- prtcllu --- Parti ChrÃ©tien Social (PCS)
-R2 --- prtcllu --- Parti ChrÃ©tien Social (PCS)",539,LUX,CSV,Chrëschtlech Sozial Vollekspartei,Christian Social People's Party,
+LU-1-1-c,Parti Chrétien Social (PCS),2002,2004,LU-1-1-c LU-2-1-c,"R1 --- prtcllu --- Parti Chrétien Social (PCS)
+R2 --- prtcllu --- Parti Chrétien Social (PCS)",539,LUX,CSV,Chrëschtlech Sozial Vollekspartei,Christian Social People's Party,
 LU-1-2-c,Parti Socialiste Ouvrier Luxembourgeois (PSOL),2002,2004,LU-1-2-c LU-2-2-c,"R1 --- prtcllu --- Parti Socialiste Ouvrier Luxembourgeois (PSOL)
 R2 --- prtcllu --- Parti Socialiste Ouvrier Luxembourgeois (PSOL)",186,LUX,LSAP,Lëtzebuerger Sozialistesch Aarbechterpartei,Luxembourg Socialist Workers' Party,
-LU-1-3-c,Parti DÃ©mocrate (PD),2002,2004,LU-1-3-c LU-2-3-c,"R1 --- prtcllu --- Parti DÃ©mocrate (PD)
-R2 --- prtcllu --- Parti DÃ©mocrate (PD)",300,LUX,DP,Demokratesch Partei,Democratic Party,
+LU-1-3-c,Parti Démocrate (PD),2002,2004,LU-1-3-c LU-2-3-c,"R1 --- prtcllu --- Parti Démocrate (PD)
+R2 --- prtcllu --- Parti Démocrate (PD)",300,LUX,DP,Demokratesch Partei,Democratic Party,
 LU-1-4-c,Les Verts,2002,2004,LU-1-4-c LU-2-4-c,"R1 --- prtcllu --- Les Verts
 R2 --- prtcllu --- Les Verts",1138,LUX,Greng/GAP,Déi Gréng [Alternativ],The Greens,
 LU-1-5-c,La Gauche,2002,2004,LU-1-5-c LU-2-5-c,"R1 --- prtcllu --- La Gauche
 R2 --- prtcllu --- La Gauche",271,LUX,DL,Déi Lénk,The Left,
-LU-1-6-c,ComitÃ© d'action pour la DÃ©mocratie et la Justice sociale,2002,2004,LU-1-6-c LU-2-6-c,"R1 --- prtcllu --- ComitÃ© d'action pour la DÃ©mocratie et la Justice sociale
-R2 --- prtcllu --- ComitÃ© d'action pour la DÃ©mocratie et la Justice sociale",1114,LUX,ADR,Alternativ Demokratesch Reformpartei,Alternative Democratic Reform Party,
+LU-1-6-c,Comité d'action pour la Démocratie et la Justice sociale,2002,2004,LU-1-6-c LU-2-6-c,"R1 --- prtcllu --- Comité d'action pour la Démocratie et la Justice sociale
+R2 --- prtcllu --- Comité d'action pour la Démocratie et la Justice sociale",1114,LUX,ADR,Alternativ Demokratesch Reformpartei,Alternative Democratic Reform Party,
 LU-1-7-c,Autres,2002,2004,LU-1-7-c LU-2-7-c,"R1 --- prtcllu --- Autres
 R2 --- prtcllu --- Autres",1847,LUX,etc,other,other,7
 NL-1-1-c,Christian Democratic Appeal,2002,2020,NL-1-1-c NL-2-1-c NL-3-1-c NL-4-1-c NL-5-4-c NL-6-4-c NL-7-5-c NL-8-5-c NL-9-5-c NL-10-5-c,"R1 --- prtclnl --- Christian Democratic Appeal
@@ -2002,10 +2049,10 @@ NL-9-13-c,Forum for Democracy,2018,2020,NL-9-13-c NL-10-13-c,"R9 --- prtclfnl --
 R10 --- prtclgnl --- Forum for Democracy",5855,NLD,FvD,Forum voor Democratie,Forum for Democracy,
 NL-9-14-c,Article 1,2018,2020,NL-9-14-c NL-10-14-c,"R9 --- prtclfnl --- Article 1
 R10 --- prtclgnl --- Article 1",2841,NLD,1-perc,1 percent,1 percent,11
-NO-1-1-c,RÃ¸d Valgallianse,2002,2008,NO-1-1-c NO-2-1-c NO-3-1-c NO-4-1-c,"R1 --- prtclno --- RÃ¸d Valgallianse
-R2 --- prtclno --- RÃ¸d Valgallianse
-R3 --- prtclno --- RÃ¸d Valgallianse
-R4 --- prtclno --- RÃ¸d Valgallianse",44,NOR,RV,Rød Valgallianse,Red Electoral Alliance,
+NO-1-1-c,Rød Valgallianse,2002,2008,NO-1-1-c NO-2-1-c NO-3-1-c NO-4-1-c,"R1 --- prtclno --- Rød Valgallianse
+R2 --- prtclno --- Rød Valgallianse
+R3 --- prtclno --- Rød Valgallianse
+R4 --- prtclno --- Rød Valgallianse",44,NOR,RV,Rød Valgallianse,Red Electoral Alliance,
 NO-1-2-c,Sosialistisk Venstreparti,2002,2020,NO-1-2-c NO-2-2-c NO-3-2-c NO-4-2-c NO-5-2-c NO-6-2-c NO-7-2-c NO-8-2-c NO-9-2-c NO-10-2-c,"R1 --- prtclno --- Sosialistisk Venstreparti
 R2 --- prtclno --- Sosialistisk Venstreparti
 R3 --- prtclno --- Sosialistisk Venstreparti
@@ -2056,14 +2103,14 @@ R7 --- prtclbno --- Senterpartiet
 R8 --- prtclbno --- Senterpartiet
 R9 --- prtclbno --- Senterpartiet
 R10 --- prtclbno --- Senterpartiet",1072,NOR,Sp/Bp,Senterpartiet / Bondepartiet,Centre [Agrarian] Party,
-NO-1-7-c,HÃ¸yre,2002,2020,NO-1-7-c NO-2-7-c NO-3-7-c NO-4-7-c NO-5-7-c NO-6-7-c NO-7-7-c NO-8-7-c NO-9-7-c NO-10-7-c,"R1 --- prtclno --- HÃ¸yre
-R2 --- prtclno --- HÃ¸yre
-R3 --- prtclno --- HÃ¸yre
-R4 --- prtclno --- HÃ¸yre
-R5 --- prtclano --- HÃ¸yre
-R6 --- prtclano --- HÃ¸yre
-R7 --- prtclbno --- HÃ¸yre
-R8 --- prtclbno --- HÃ¸yre
+NO-1-7-c,Høyre,2002,2020,NO-1-7-c NO-2-7-c NO-3-7-c NO-4-7-c NO-5-7-c NO-6-7-c NO-7-7-c NO-8-7-c NO-9-7-c NO-10-7-c,"R1 --- prtclno --- Høyre
+R2 --- prtclno --- Høyre
+R3 --- prtclno --- Høyre
+R4 --- prtclno --- Høyre
+R5 --- prtclano --- Høyre
+R6 --- prtclano --- Høyre
+R7 --- prtclbno --- Høyre
+R8 --- prtclbno --- Høyre
 R9 --- prtclbno --- Høyre
 R10 --- prtclbno --- Høyre",503,NOR,H,Høyre,Conservative Party,
 NO-1-8-c,Fremskrittspartiet,2002,2020,NO-1-8-c NO-2-8-c NO-3-8-c NO-4-8-c NO-5-8-c NO-6-8-c NO-7-8-c NO-8-8-c NO-9-8-c NO-10-8-c,"R1 --- prtclno --- Fremskrittspartiet
@@ -2092,14 +2139,14 @@ R7 --- prtclbno --- Other
 R8 --- prtclbno --- Other
 R9 --- prtclbno --- Other
 R10 --- prtclbno --- Other",1886,NOR,etc,other,other,7
-NO-5-1-c,RÃ¸dt,2010,2020,NO-5-1-c NO-6-1-c NO-7-1-c NO-8-1-c NO-9-1-c NO-10-1-c,"R5 --- prtclano --- RÃ¸dt
-R6 --- prtclano --- RÃ¸dt
-R7 --- prtclbno --- RÃ¸dt
-R8 --- prtclbno --- RÃ¸dt
+NO-5-1-c,Rødt,2010,2020,NO-5-1-c NO-6-1-c NO-7-1-c NO-8-1-c NO-9-1-c NO-10-1-c,"R5 --- prtclano --- Rødt
+R6 --- prtclano --- Rødt
+R7 --- prtclbno --- Rødt
+R8 --- prtclbno --- Rødt
 R9 --- prtclbno --- Rødt
 R10 --- prtclbno --- Rødt",3698,NOR,DT,Rødt,Red Party,
-NO-7-10-c,MiljÃ¸partiet De GrÃ¸nne,2014,2020,NO-7-10-c NO-8-10-c NO-9-10-c NO-10-10-c,"R7 --- prtclbno --- MiljÃ¸partiet De GrÃ¸nne
-R8 --- prtclbno --- MiljÃ¸partiet De GrÃ¸nne
+NO-7-10-c,Miljøpartiet De Grønne,2014,2020,NO-7-10-c NO-8-10-c NO-9-10-c NO-10-10-c,"R7 --- prtclbno --- Miljøpartiet De Grønne
+R8 --- prtclbno --- Miljøpartiet De Grønne
 R9 --- prtclbno --- Miljøpartiet De Grønne
 R10 --- prtclbno --- Miljøpartiet De Grønne",1963,NOR,MDG,Miljøpartiet De Grønne,Green Party,
 PL-1-3-c,Krajowa Partia Emerytow i Rencistow,2002,2010,PL-1-3-c PL-2-6-c PL-5-2-c,"R1 --- prtclpl --- Krajowa Partia Emerytow i Rencistow
@@ -2121,14 +2168,14 @@ R8 --- prtclgpl --- Platforma Obywatelska
 R9 --- prtclhpl --- Platforma Obywatelska",1117,POL,PO,Platforma Obywatelska,Civic Platform,
 PL-1-7-c,Polska Partia Socjalistyczna,2002,2002,PL-1-7-c,R1 --- prtclpl --- Polska Partia Socjalistyczna,4354,POL,PPS,Polska Partia Socjalistyczna,Polish Socialist Party,
 PL-1-10-c,Polskie Stronnictwo Ludowe,2002,2002,PL-1-10-c,R1 --- prtclpl --- Polskie Stronnictwo Ludowe,6757,POL,PSL,Polskie Stronnictwo Ludowe,Polish People's Party,
-PL-1-11-c,Prawo i SprawiedliwoÅ›Ä‡,2002,2018,PL-1-11-c PL-2-15-c PL-3-15-c PL-4-5-c PL-5-7-c PL-6-5-c PL-7-5-c PL-8-6-c PL-9-5-c,"R1 --- prtclpl --- Prawo i SprawiedliwoÅ›Ä‡
-R2 --- prtclapl --- Prawo i SprawiedliwoÅ›Ä‡
-R3 --- prtclbpl --- Prawo i SprawiedliwoÅ›Ä‡
-R4 --- prtclcpl --- Prawo i SprawiedliwoÅ›Ä‡
-R5 --- prtcldpl --- Prawo i SprawiedliwoÅ›Ä‡
-R6 --- prtclepl --- Prawo i SprawiedliwoÅ›Ä‡
-R7 --- prtclfpl --- Prawo i SprawiedliwoÅ›Ä‡
-R8 --- prtclgpl --- Prawo i SprawiedliwoÅ›Ä‡
+PL-1-11-c,Prawo i Sprawiedliwość,2002,2018,PL-1-11-c PL-2-15-c PL-3-15-c PL-4-5-c PL-5-7-c PL-6-5-c PL-7-5-c PL-8-6-c PL-9-5-c,"R1 --- prtclpl --- Prawo i Sprawiedliwość
+R2 --- prtclapl --- Prawo i Sprawiedliwość
+R3 --- prtclbpl --- Prawo i Sprawiedliwość
+R4 --- prtclcpl --- Prawo i Sprawiedliwość
+R5 --- prtcldpl --- Prawo i Sprawiedliwość
+R6 --- prtclepl --- Prawo i Sprawiedliwość
+R7 --- prtclfpl --- Prawo i Sprawiedliwość
+R8 --- prtclgpl --- Prawo i Sprawiedliwość
 R9 --- prtclhpl --- Prawo i Sprawiedliwość",1565,POL,PiS,Prawo i Sprawiedliwość,Law and Justice,
 PL-1-13-c,Samoobrona Rzeczypospolitej Polskiej,2002,2010,PL-1-13-c PL-2-18-c PL-3-17-c PL-4-6-c PL-5-8-c,"R1 --- prtclpl --- Samoobrona Rzeczypospolitej Polskiej
 R2 --- prtclapl --- Samoobrona Rzeczypospolitej Polskiej
@@ -2151,7 +2198,7 @@ R5 --- prtcldpl --- Unia Polityki Realnej",283,POL,UPR,Unia Polityki Realnej,Rea
 PL-1-18-c,Unia Pracy,2002,2004,PL-1-18-c PL-2-22-c,"R1 --- prtclpl --- Unia Pracy
 R2 --- prtclapl --- Unia Pracy",1104,POL,UP,Unia Pracy,Labour Union,
 PL-1-19-c,Unia Wolnosci,2002,2004,PL-1-19-c PL-2-23-c,"R1 --- prtclpl --- Unia Wolnosci
-R2 --- prtclapl --- Unia WolnoÅ›ci",8268,POL,UW,Unia Wolności,Freedom Union,
+R2 --- prtclapl --- Unia Wolności",8268,POL,UW,Unia Wolności,Freedom Union,
 PL-1-20-c,Zjednoczenie Chrzescijansko-Narodowe,2002,2004,PL-1-20-c PL-2-24-c,"R1 --- prtclpl --- Zjednoczenie Chrzescijansko-Narodowe
 R2 --- prtclapl --- Zjednoczenie Chrzescijansko-Narodowe",70,POL,ZChN,Zjednoczenie Chrześcijańsko-Narodowe,Christian National Union,
 PL-1-21-c,Other,2002,2018,PL-1-21-c PL-2-26-c PL-3-20-c PL-4-10-c PL-5-14-c PL-6-9-c PL-7-9-c PL-8-9-c PL-9-9-c,"R1 --- prtclpl --- Other
@@ -2179,12 +2226,12 @@ R4 --- prtclcpl --- Socjaldemokracja Polska
 R5 --- prtcldpl --- Socjaldemokracja Polska",1328,POL,SDPL,Socjaldemokracja Polska,Social Democracy of Poland,
 PL-3-7-c,Partia Demokratyczna demokraci.pl,2006,2010,PL-3-7-c PL-4-3-c PL-5-4-c,"R3 --- prtclbpl --- Partia Demokratyczna demokraci.pl
 R4 --- prtclcpl --- Stronnictwo Demokratyczne
-R5 --- prtcldpl --- Partia Demokratyczna â€“ demokraci.pl",1566,POL,PD,Partia Demokratyczna,Democratic Party,
+R5 --- prtcldpl --- Partia Demokratyczna – demokraci.pl",1566,POL,PD,Partia Demokratyczna,Democratic Party,
 PL-3-9-c,Platforma Janusza Korwin-Mikke,2006,2014,PL-3-9-c PL-6-1-c PL-7-1-c,"R3 --- prtclbpl --- Platforma Janusza Korwin-Mikke
 R6 --- prtclepl --- Nowa Prawica
 R7 --- prtclfpl --- Nowa Prawica",913,POL,PJKM,Platforma Janusza Korwin-Mikke,Platform of Janusz Korwin-Mikke,
 PL-5-6-c,Prawica Rzeczpospolitej,2010,2010,PL-5-6-c,R5 --- prtcldpl --- Prawica Rzeczpospolitej,876,POL,PR,Prawica Rzeczypospolitej,Republic Right Party,
-PL-6-3-c,Polska Jest NajwaÅ¼niejsza,2012,2012,PL-6-3-c,R6 --- prtclepl --- Polska Jest NajwaÅ¼niejsza,41,POL,PjN,Polska jest Najważniejsza,Poland is the Most Important,
+PL-6-3-c,Polska Jest Najważniejsza,2012,2012,PL-6-3-c,R6 --- prtclepl --- Polska Jest Najważniejsza,41,POL,PjN,Polska jest Najważniejsza,Poland is the Most Important,
 PL-6-6-c,Ruch Palikota,2012,2014,PL-6-6-c PL-7-8-c,"R6 --- prtclepl --- Ruch Palikota
 R7 --- prtclfpl --- Twoj Ruch",731,POL,RP / TR,Ruch Palikota / Twój Ruch,Palikot's Movement / Your Movement,
 PL-6-8-c,Solidarna Polska,2012,2012,PL-6-8-c,R6 --- prtclepl --- Solidarna Polska,328,POL,SP,Solidarna Polska,United Poland,
@@ -2207,13 +2254,13 @@ R7 --- prtcldpt --- Bloco de Esquerda (BE)
 R8 --- prtclept --- B.E. - Bloco de Esquerda
 R9 --- prtclept --- B.E. - Bloco de Esquerda
 R10 --- prtclfpt --- B.E. - Bloco de Esquerda",1310,PRT,BE,Bloco de Esquerda,Left Bloc,
-PT-1-2-c,CDS/PP - Centro DemocrÃ¡tico Social / Partido Popular,2002,2020,PT-1-2-c PT-2-2-c PT-3-2-c PT-4-2-c PT-5-2-c PT-6-2-c PT-7-2-c PT-8-17-c PT-9-17-c PT-10-3-c,"R1 --- prtclpt --- CDS/PP - Centro DemocrÃ¡tico Social / Partido Popular
-R2 --- prtclapt --- CDS/PP - Centro DemocrÃ¡tico Social / Partido Popular
-R3 --- prtclbpt --- CDS/PP - Centro DemocrÃ¡tico Social/Partido Popular
-R4 --- prtclbpt --- CDS/PP - Centro DemocrÃ¡tico Social/Partido Popular
-R5 --- prtclcpt --- Centro DemocrÃ¡tico Social - Partido Popular (CDS-PP)
-R6 --- prtclcpt --- Centro DemocrÃ¡tico Social - Partido Popular (CDS-PP)
-R7 --- prtcldpt --- Centro DemocrÃ¡tico Social - Partido Popular (CDS-PP)
+PT-1-2-c,CDS/PP - Centro Democrático Social / Partido Popular,2002,2020,PT-1-2-c PT-2-2-c PT-3-2-c PT-4-2-c PT-5-2-c PT-6-2-c PT-7-2-c PT-8-17-c PT-9-17-c PT-10-3-c,"R1 --- prtclpt --- CDS/PP - Centro Democrático Social / Partido Popular
+R2 --- prtclapt --- CDS/PP - Centro Democrático Social / Partido Popular
+R3 --- prtclbpt --- CDS/PP - Centro Democrático Social/Partido Popular
+R4 --- prtclbpt --- CDS/PP - Centro Democrático Social/Partido Popular
+R5 --- prtclcpt --- Centro Democrático Social - Partido Popular (CDS-PP)
+R6 --- prtclcpt --- Centro Democrático Social - Partido Popular (CDS-PP)
+R7 --- prtcldpt --- Centro Democrático Social - Partido Popular (CDS-PP)
 R8 --- prtclept --- CDS-PP
 R9 --- prtclept --- CDS-PP
 R10 --- prtclfpt --- CDS-PP - CDS-Partido Popular",1308,PRT,CDS/PP,Centro Democrático e Social / Partido Popular,Democratic and Social Center / People's Party,
@@ -2221,13 +2268,13 @@ PT-1-4-c,P.H. - Partido Humanista,2002,2010,PT-1-4-c PT-2-4-c PT-3-6-c PT-5-6-c,
 R2 --- prtclapt --- P.H. - Partido Humanista
 R3 --- prtclbpt --- PH - Partido Humanista
 R5 --- prtclcpt --- Partido Humanista (PH)",8269,PRT,PH,Partido Humanista,Humanist Party,
-PT-1-5-c,PCP/PEV - Partido Comunista PortuguÃªs  Partido Ecolo,2002,2018,PT-1-5-c PT-3-3-c PT-4-3-c PT-5-3-c PT-6-3-c PT-7-5-c PT-8-3-c PT-9-3-c,"R1 --- prtclpt --- PCP/PEV - Partido Comunista PortuguÃªs  Partido Ecolo
-R3 --- prtclbpt --- PCP-PEV - Partido Comunista PortuguÃªs - Partido Ecologista os Verdes
-R4 --- prtclbpt --- PCP-PEV - Partido Comunista PortuguÃªs - Partido Ecologista os Verdes
-R5 --- prtclcpt --- ColigaÃ§Ã£o DemocrÃ¡tica UnitÃ¡ria (CDU)
-R6 --- prtclcpt --- ColigaÃ§Ã£o DemocrÃ¡tica UnitÃ¡ria (CDU)
-R7 --- prtcldpt --- CDU â€“ ColigaÃ§Ã£o DemocrÃ¡tica UnitÃ¡ria (PCP-PEV)
-R8 --- prtclept --- PCP-PEV - CDU - ColigaÃ§Ã£o DemocrÃ¡tica UnitÃ¡ria
+PT-1-5-c,PCP/PEV - Partido Comunista Português  Partido Ecolo,2002,2018,PT-1-5-c PT-3-3-c PT-4-3-c PT-5-3-c PT-6-3-c PT-7-5-c PT-8-3-c PT-9-3-c,"R1 --- prtclpt --- PCP/PEV - Partido Comunista Português  Partido Ecolo
+R3 --- prtclbpt --- PCP-PEV - Partido Comunista Português - Partido Ecologista os Verdes
+R4 --- prtclbpt --- PCP-PEV - Partido Comunista Português - Partido Ecologista os Verdes
+R5 --- prtclcpt --- Coligação Democrática Unitária (CDU)
+R6 --- prtclcpt --- Coligação Democrática Unitária (CDU)
+R7 --- prtcldpt --- CDU – Coligação Democrática Unitária (PCP-PEV)
+R8 --- prtclept --- PCP-PEV - CDU - Coligação Democrática Unitária
 R9 --- prtclept --- PCP-PEV - CDU - Coligação Democrática Unitária",284,PRT,CDU,Coligação Democrática Unitária,Unitary Democratic Coalition,
 PT-1-6-c,PCTP/MRPP - Partido Comunista dos Trabalhadores Po,2002,2020,PT-1-6-c PT-2-6-c PT-3-4-c PT-4-4-c PT-5-4-c PT-6-4-c PT-7-6-c PT-8-8-c PT-9-8-c PT-10-11-c,"R1 --- prtclpt --- PCTP/MRPP - Partido Comunista dos Trabalhadores Po
 R2 --- prtclapt --- PCTP/MRPP - Partido Comunista dos Trabalhadores Po
@@ -2270,20 +2317,20 @@ R8 --- prtclept --- Other
 R9 --- prtclept --- Other",1853,PRT,etc,other,other,7
 PT-2-3-c,MPT - Movimento Partido da Terra,2004,2016,PT-2-3-c PT-8-9-c,"R2 --- prtclapt --- MPT - Movimento Partido da Terra
 R8 --- prtclept --- MPT - Partido da Terra",3226,PRT,MPT / PT,Movimento Partido da Terra / Partido da Terra,The Earth Party Movement / Earth Party,
-PT-2-5-c,PCP- Partido Comunista PortuguÃªs,2004,2020,PT-2-5-c PT-10-12-c,"R2 --- prtclapt --- PCP- Partido Comunista PortuguÃªs
+PT-2-5-c,PCP- Partido Comunista Português,2004,2020,PT-2-5-c PT-10-12-c,"R2 --- prtclapt --- PCP- Partido Comunista Português
 R10 --- prtclfpt --- PCP- Partido Comunista Português",310,PRT,PCP,Partido Comunista Português,Portuguese Communist Party,
-PT-2-9-c,PPM - Partido Popular MonÃ¡rquico,2004,2018,PT-2-9-c PT-9-12-c,"R2 --- prtclapt --- PPM - Partido Popular MonÃ¡rquico
+PT-2-9-c,PPM - Partido Popular Monárquico,2004,2018,PT-2-9-c PT-9-12-c,"R2 --- prtclapt --- PPM - Partido Popular Monárquico
 R9 --- prtclept --- PPM - Partido Popular Monárquico",1480,PRT,PPM,Partido Popular Monárquico,Popular Monarchist Party,
 PT-3-7-c,PND - Partido da Nova Democracia,2006,2008,PT-3-7-c PT-4-7-c,"R3 --- prtclbpt --- PND - Partido da Nova Democracia
 R4 --- prtclbpt --- PND - Partido da Nova Democracia",1095,PRT,PND,Partido da Nova Democracia,New Democracy Party,
-PT-3-9-c,POUS - Partido OperÃ¡rio de Unidade Socialista,2006,2006,PT-3-9-c,R3 --- prtclbpt --- POUS - Partido OperÃ¡rio de Unidade Socialista,1106,PRT,POUS/PST,Partido Operário de Unidade Socialista,Workers Party of Socialist Unity,
+PT-3-9-c,POUS - Partido Operário de Unidade Socialista,2006,2006,PT-3-9-c,R3 --- prtclbpt --- POUS - Partido Operário de Unidade Socialista,1106,PRT,POUS/PST,Partido Operário de Unidade Socialista,Workers Party of Socialist Unity,
 PT-5-8-c,Partido Nacional Renovador (PNR),2010,2018,PT-5-8-c PT-9-11-c,"R5 --- prtclcpt --- Partido Nacional Renovador (PNR)
 R9 --- prtclept --- PNR - Partido Nacional Renovador",2893,PRT,1-perc,1 percent,1 percent,11
 PT-7-3-c,LIVRE,2014,2020,PT-7-3-c PT-8-5-c PT-9-5-c PT-10-7-c,"R7 --- prtcldpt --- LIVRE
-R8 --- prtclept --- L/TDA - LIVRE/Tempo de AvanÃ§ar
+R8 --- prtclept --- L/TDA - LIVRE/Tempo de Avançar
 R9 --- prtclept --- L/TDA - LIVRE/Tempo de Avançar
 R10 --- prtclfpt --- L - LIVRE",3225,PRT,L,"Livre — Liberdade, Esquerda, Europa e Ecologia",Livre,
-PT-8-7-c,PPV/CDC - Partido Cidadania e Democracia CristÃ£,2016,2020,PT-8-7-c PT-9-7-c PT-10-10-c,"R8 --- prtclept --- PPV/CDC - Partido Cidadania e Democracia CristÃ£
+PT-8-7-c,PPV/CDC - Partido Cidadania e Democracia Cristã,2016,2020,PT-8-7-c PT-9-7-c PT-10-10-c,"R8 --- prtclept --- PPV/CDC - Partido Cidadania e Democracia Cristã
 R9 --- prtclept --- PPV/CDC - Partido Cidadania e Democracia Cristã
 R10 --- prtclfpt --- PPV/CDC - Partido Cidadania e Democracia Cristã",2893,PRT,1-perc,1 percent,1 percent,11
 PT-8-15-c,PAN - Pessoas-Animais-Natureza,2016,2020,PT-8-15-c PT-9-15-c PT-10-18-c,"R8 --- prtclept --- PAN - Pessoas-Animais-Natureza
@@ -2407,10 +2454,10 @@ SE-1-4-c,Green Party,2002,2018,SE-1-4-c SE-2-4-c SE-3-4-c SE-4-4-c SE-5-4-c SE-6
 R2 --- prtclse --- Green Party
 R3 --- prtclse --- Green Party
 R4 --- prtclse --- Green Party
-R5 --- prtclase --- MiljÃ¶partiet de grÃ¶na
-R6 --- prtclbse --- MiljÃ¶partiet de grÃ¶na
-R7 --- prtclbse --- MiljÃ¶partiet de grÃ¶na
-R8 --- prtclbse --- MiljÃ¶partiet de grÃ¶na
+R5 --- prtclase --- Miljöpartiet de gröna
+R6 --- prtclbse --- Miljöpartiet de gröna
+R7 --- prtclbse --- Miljöpartiet de gröna
+R8 --- prtclbse --- Miljöpartiet de gröna
 R9 --- prtclcse --- Miljöpartiet de gröna",456,SWE,MP,Miljöpartiet de gröna,Greens,
 SE-1-5-c,Conservative,2002,2018,SE-1-5-c SE-2-5-c SE-3-5-c SE-4-5-c SE-5-5-c SE-6-5-c SE-7-5-c SE-8-5-c SE-9-5-c,"R1 --- prtclse --- Conservative
 R2 --- prtclse --- Conservative
@@ -2434,10 +2481,10 @@ SE-1-7-c,Left,2002,2018,SE-1-7-c SE-2-7-c SE-3-7-c SE-4-7-c SE-5-7-c SE-6-7-c SE
 R2 --- prtclse --- Left
 R3 --- prtclse --- Left
 R4 --- prtclse --- Left
-R5 --- prtclase --- VÃ¤nsterpartiet
-R6 --- prtclbse --- VÃ¤nsterpartiet
-R7 --- prtclbse --- VÃ¤nsterpartiet
-R8 --- prtclbse --- VÃ¤nsterpartiet
+R5 --- prtclase --- Vänsterpartiet
+R6 --- prtclbse --- Vänsterpartiet
+R7 --- prtclbse --- Vänsterpartiet
+R8 --- prtclbse --- Vänsterpartiet
 R9 --- prtclcse --- Vänsterpartiet",830,SWE,V/SKP,Vänsterpartiet / Sveriges Komunistiska Parti,Left Party / Communist Party,
 SE-1-8-c,Other,2002,2018,SE-1-8-c SE-2-8-c SE-3-8-c SE-4-8-c SE-5-11-c SE-6-11-c SE-7-11-c SE-8-11-c SE-9-10-c,"R1 --- prtclse --- Other
 R2 --- prtclse --- Other
@@ -2505,18 +2552,18 @@ R7 --- prtclesi --- SDS - Slovenska demokratska stranka
 R8 --- prtclesi --- SDS - Slovenska demokratska stranka
 R9 --- prtclfsi --- SDS - Slovenska demokratska stranka
 R10 --- prtclfsi --- SDS - Slovenska demokratska stranka",472,SVN,SDS,Slovenska demokratska stranka,Slovenian Democratic Party,
-SI-1-6-c,NSI - Nova Slovenija â€“ KrÅ¡canski demokrati,2002,2020,SI-1-6-c SI-2-4-c SI-3-6-c SI-4-4-c SI-5-4-c SI-6-3-c SI-7-3-c SI-8-3-c SI-9-4-c SI-10-4-c,"R1 --- prtclsi --- NSI - Nova Slovenija â€“ KrÅ¡canski demokrati
-R2 --- prtclasi --- NSI - Nova Slovenija â€“ KrÅ¡canski demokrati
-R3 --- prtclbsi --- NSI - Nova Slovenija â€“ KrÅ¡canski demokrati
-R4 --- prtclcsi --- NSI - Nova Slovenija â€“ KrÅ¡canski demokrati
-R5 --- prtclcsi --- NSI - Nova Slovenija â€“ KrÅ¡canski demokrati
-R6 --- prtcldsi --- NSI - Nova Slovenija â€“ KrÅ¡canski demokrati
-R7 --- prtclesi --- NSI - Nova Slovenija â€“ KrÅ¡canski demokrati
-R8 --- prtclesi --- NSI - Nova Slovenija â€“ KrÅ¡canski demokrati
+SI-1-6-c,NSI - Nova Slovenija – Kršcanski demokrati,2002,2020,SI-1-6-c SI-2-4-c SI-3-6-c SI-4-4-c SI-5-4-c SI-6-3-c SI-7-3-c SI-8-3-c SI-9-4-c SI-10-4-c,"R1 --- prtclsi --- NSI - Nova Slovenija – Kršcanski demokrati
+R2 --- prtclasi --- NSI - Nova Slovenija – Kršcanski demokrati
+R3 --- prtclbsi --- NSI - Nova Slovenija – Kršcanski demokrati
+R4 --- prtclcsi --- NSI - Nova Slovenija – Kršcanski demokrati
+R5 --- prtclcsi --- NSI - Nova Slovenija – Kršcanski demokrati
+R6 --- prtcldsi --- NSI - Nova Slovenija – Kršcanski demokrati
+R7 --- prtclesi --- NSI - Nova Slovenija – Kršcanski demokrati
+R8 --- prtclesi --- NSI - Nova Slovenija – Kršcanski demokrati
 R9 --- prtclfsi --- NSI - Nova Slovenija – Kršcanski demokrati
 R10 --- prtclfsi --- NSI - Nova Slovenija – Kršcanski demokrati",1618,SVN,NSi,Nova Slovenija — Krščanska ljudska stranka,New Slovenia — Christian People's Party,
-SI-1-7-c,ZLSD - ZdruÅ¾ena lista socialnih demokratov,2002,2020,SI-1-7-c SI-2-3-c SI-3-7-c SI-4-8-c SI-5-8-c SI-6-6-c SI-7-5-c SI-8-5-c SI-9-6-c SI-10-6-c,"R1 --- prtclsi --- ZLSD - ZdruÅ¾ena lista socialnih demokratov
-R2 --- prtclasi --- ZLSD - ZdruÅ¾ena lista socialnih demokratov
+SI-1-7-c,ZLSD - Združena lista socialnih demokratov,2002,2020,SI-1-7-c SI-2-3-c SI-3-7-c SI-4-8-c SI-5-8-c SI-6-6-c SI-7-5-c SI-8-5-c SI-9-6-c SI-10-6-c,"R1 --- prtclsi --- ZLSD - Združena lista socialnih demokratov
+R2 --- prtclasi --- ZLSD - Združena lista socialnih demokratov
 R3 --- prtclbsi --- SD - Socialni demokrati
 R4 --- prtclcsi --- SD - Socialni demokrati
 R5 --- prtclcsi --- SD - Socialni demokrati
@@ -2543,19 +2590,19 @@ SI-6-7-c,PS - Pozitivna Slovenija,2012,2018,SI-6-7-c SI-7-4-c SI-8-4-c SI-9-5-c,
 R7 --- prtclesi --- PS - Pozitivna Slovenija
 R8 --- prtclesi --- PS - Pozitivna Slovenija
 R9 --- prtclfsi --- PS - Pozitivna Slovenija",1773,SVN,LZJ — PS,Lista Zorana Jankovića — Pozitivna Slovenija,Zoran Janković's List — Positive Slovenia,
-SI-6-8-c,DL - DrÅ¾avljanska lista,2012,2016,SI-6-8-c SI-8-2-c,"R6 --- prtcldsi --- DL - DrÅ¾avljanska lista
-R8 --- prtclesi --- DL - DrÅ¾avljanska lista",98,SVN,DL,Državljanska lista,Civic List,
+SI-6-8-c,DL - Državljanska lista,2012,2016,SI-6-8-c SI-8-2-c,"R6 --- prtcldsi --- DL - Državljanska lista
+R8 --- prtclesi --- DL - Državljanska lista",98,SVN,DL,Državljanska lista,Civic List,
 SI-6-11-c,TRS - Stranka za Trajnostni Razvoj Slovenije,2012,2012,SI-6-11-c,R6 --- prtcldsi --- TRS - Stranka za Trajnostni Razvoj Slovenije,1015,SVN,TRS,Stranka za trajnostni razvoj Slovenije,Party for Sustainable Development of Slovenia,
 SI-7-8-c,SMC - Stranka Mira Cerarja,2014,2020,SI-7-8-c SI-8-8-c SI-9-10-c SI-10-10-c,"R7 --- prtclesi --- SMC - Stranka Mira Cerarja
 R8 --- prtclesi --- SMC - Stranka Mira Cerarja
 R9 --- prtclfsi --- SMC - Stranka modernega centra
 R10 --- prtclfsi --- SMC - Stranka modernega centra",3098,SVN,SMC,Stranka Mira Cerarja / Stranka modernega centra,Party of Miro Cerar / Modern Center Party,
-SI-7-10-c,ZAAB - ZavezniÅ¡tvo Alenke BratuÅ¡ek,2014,2020,SI-7-10-c SI-8-10-c SI-9-7-c SI-10-7-c,"R7 --- prtclesi --- ZAAB - ZavezniÅ¡tvo Alenke BratuÅ¡ek
-R8 --- prtclesi --- ZAAB - ZavezniÅ¡tvo Alenke BratuÅ¡ek
+SI-7-10-c,ZAAB - Zavezništvo Alenke Bratušek,2014,2020,SI-7-10-c SI-8-10-c SI-9-7-c SI-10-7-c,"R7 --- prtclesi --- ZAAB - Zavezništvo Alenke Bratušek
+R8 --- prtclesi --- ZAAB - Zavezništvo Alenke Bratušek
 R9 --- prtclfsi --- SAB - Stranka Alenke Bratušek
 R10 --- prtclfsi --- SAB - Stranka Alenke Bratušek",3114,SVN,ZaAB / SAB,Zavezništvo Alenke Bratušek / Stranka Alenke Bratušek,Alliance of Alenka Bratusek / Party of Alenka Bratušek,
-SI-7-11-c,"ZL - ZdruÅ¾ena levica (DSD, IDS in Stranka TRS)",2014,2016,SI-7-11-c SI-8-11-c,"R7 --- prtclesi --- ZL - ZdruÅ¾ena levica (DSD, IDS in Stranka TRS)
-R8 --- prtclesi --- ZL - ZdruÅ¾ena levica (DSD, IDS in Stranka TRS)",2276,SVN,ZL,Zdruzena Lista,"Unity, Asssociated List",
+SI-7-11-c,"ZL - Združena levica (DSD, IDS in Stranka TRS)",2014,2016,SI-7-11-c SI-8-11-c,"R7 --- prtclesi --- ZL - Združena levica (DSD, IDS in Stranka TRS)
+R8 --- prtclesi --- ZL - Združena levica (DSD, IDS in Stranka TRS)",2276,SVN,ZL,Zdruzena Lista,"Unity, Asssociated List",
 SI-9-2-c,L - Levica,2018,2020,SI-9-2-c SI-10-2-c,"R9 --- prtclfsi --- L - Levica
 R10 --- prtclfsi --- L - Levica",6131,SVN,L,Levica,The Left,
 SI-9-3-c,LMŠ - Lista Marjana Šarca,2018,2020,SI-9-3-c SI-10-3-c,"R9 --- prtclfsi --- LMŠ - Lista Marjana Šarca
@@ -2597,8 +2644,8 @@ R10 --- prtclesk --- Other",1855,SVK,etc,other,other,7
 SK-3-6-c,Slovak National Party (SNS),2006,2010,SK-3-6-c SK-4-6-c SK-5-1-c,"R3 --- prtclask --- Slovak National Party (SNS)
 R4 --- prtclask --- Slovak National Party (SNS)
 R5 --- prtclbsk --- Slovak National Party (SNS)",730,SVK,SNS,Slovenská národná strana,Slovak National Party,
-SK-5-4-c,Most-HÃ­d,2010,2018,SK-5-4-c SK-6-4-c SK-9-4-c,"R5 --- prtclbsk --- Most-HÃ­d
-R6 --- prtclcsk --- Most-HÃ­d
+SK-5-4-c,Most-Híd,2010,2018,SK-5-4-c SK-6-4-c SK-9-4-c,"R5 --- prtclbsk --- Most-Híd
+R6 --- prtclcsk --- Most-Híd
 R9 --- prtcldsk --- Most-Híd",258,SVK,MH,MOST-HID,Most-Hid,
 SK-5-6-c,Freedom and Solidarity (SaS),2010,2020,SK-5-6-c SK-6-6-c SK-9-6-c SK-10-6-c,"R5 --- prtclbsk --- Freedom and Solidarity (SaS)
 R6 --- prtclcsk --- Freedom and Solidarity (SaS)
@@ -2696,11 +2743,11 @@ UA-5-9-c,Political party 'Our Ukraine' (V.Yuschenko),2010,2010,UA-5-9-c,R5 --- p
 UA-5-10-c,Political pary 'Power Ukraine' (S.Tygypko),2010,2010,UA-5-10-c,R5 --- prtclcua --- Political pary 'Power Ukraine' (S.Tygypko),3178,UKR,SU,Sylna Ukraina,Strong Ukraine,
 UA-5-11-c,Political party 'Front of changes' (A.Yatsenuk),2010,2010,UA-5-11-c,R5 --- prtclcua --- Political party 'Front of changes' (A.Yatsenuk),2963,UKR,1-perc,1 percent,1 percent,11
 UA-6-1-c,All Ukrainian Union 'Fatherland',2012,2012,UA-6-1-c,R6 --- prtcldua --- All Ukrainian Union 'Fatherland',3266,UKR,Fath,Vseukrayins'ke Obyednannya Bat'kivshchyna,"All Ukrainian Union ""Fatherland""",
-XK-6-1-c,Lidhja Demokratike e KosovÃ«s (LDK),2012,2012,XK-6-1-c,R6 --- prtclxk --- Lidhja Demokratike e KosovÃ«s (LDK),2295,XKX,LDK,Lidhja Demokratike e Kosovës,Democratic League of Kosovo,
-XK-6-2-c,Partia Demokratike e KosovÃ«s (PDK),2012,2012,XK-6-2-c,R6 --- prtclxk --- Partia Demokratike e KosovÃ«s (PDK),2294,XKX,PDK,Partia Demokratike e Kosovës,Democratic Party of Kosovo,
-XK-6-3-c,LÃ«vizja VetÃ«vendosje (VV),2012,2012,XK-6-3-c,R6 --- prtclxk --- LÃ«vizja VetÃ«vendosje (VV),2296,XKX,VV!,Vetëvendosje!,Self-determination,
-XK-6-4-c,Aleanca pÃ«r ArdhmÃ«rinÃ« e KosovÃ«s (AAK),2012,2012,XK-6-4-c,R6 --- prtclxk --- Aleanca pÃ«r ArdhmÃ«rinÃ« e KosovÃ«s (AAK),3243,XKX,AAK,Aleanca për Ardhmërinë e Kosovës,Alliance for the Future of Kosovo,
-XK-6-5-c,Partia e DrejtÃ«sisÃ« (PD),2012,2012,XK-6-5-c,R6 --- prtclxk --- Partia e DrejtÃ«sisÃ« (PD),5497,XKX,PD,Partia e Drejtësisë,Justice Party,
+XK-6-1-c,Lidhja Demokratike e Kosovës (LDK),2012,2012,XK-6-1-c,R6 --- prtclxk --- Lidhja Demokratike e Kosovës (LDK),2295,XKX,LDK,Lidhja Demokratike e Kosovës,Democratic League of Kosovo,
+XK-6-2-c,Partia Demokratike e Kosovës (PDK),2012,2012,XK-6-2-c,R6 --- prtclxk --- Partia Demokratike e Kosovës (PDK),2294,XKX,PDK,Partia Demokratike e Kosovës,Democratic Party of Kosovo,
+XK-6-3-c,Lëvizja Vetëvendosje (VV),2012,2012,XK-6-3-c,R6 --- prtclxk --- Lëvizja Vetëvendosje (VV),2296,XKX,VV!,Vetëvendosje!,Self-determination,
+XK-6-4-c,Aleanca për Ardhmërinë e Kosovës (AAK),2012,2012,XK-6-4-c,R6 --- prtclxk --- Aleanca për Ardhmërinë e Kosovës (AAK),3243,XKX,AAK,Aleanca për Ardhmërinë e Kosovës,Alliance for the Future of Kosovo,
+XK-6-5-c,Partia e Drejtësisë (PD),2012,2012,XK-6-5-c,R6 --- prtclxk --- Partia e Drejtësisë (PD),5497,XKX,PD,Partia e Drejtësisë,Justice Party,
 XK-6-6-c,Aleanca Kosova e Re (AKR),2012,2012,XK-6-6-c,R6 --- prtclxk --- Aleanca Kosova e Re (AKR),3703,XKX,AKR,Aleanca Kosova e Re,New Kosovo Alliance,
 XK-6-7-c,Other,2012,2012,XK-6-7-c,R6 --- prtclxk --- Other,2761,XKX,etc,other,other,7
 XK-6-8-c,Srpska Napredna Stranka (SNS),2012,2012,XK-6-8-c,R6 --- prtclxk --- Srpska Napredna Stranka (SNS),8278,XKX,SNS,Srpska napredna stranka,Serbian Progressive Party,
