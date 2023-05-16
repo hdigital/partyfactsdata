@@ -55,7 +55,7 @@ get_ess_parties <- function(data, encoding) {
 # party name and party ID for round 1-9 -- time intense so avoiding rereading
 if (! exists("ess_prt_raw")) {
   ess_prt_raw <-
-    pmap(ess_dta_files, ~ get_ess_parties(..1, ..2), .progress = TRUE) %>%
+    pmap(ess_dta_files, ~ get_ess_parties(..1, ..2), .progress = TRUE) |>
     bind_rows()
 }
 
