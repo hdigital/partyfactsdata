@@ -1,10 +1,14 @@
 library(tidyverse)
 library(countrycode)
 
-manifesto_raw <- read_csv("manifesto-parties.csv")
-manifesto_share <- read_csv("manifesto-share.csv")
-
-manifesto <- manifesto_raw %>% select(-country) %>% inner_join(manifesto_share)
+manifesto <- read_csv("source__parties_MPDataset_MPDS2023a.csv", guess_max = 10000, show_col_types = FALSE) %>%
+  mutate(across(c(max_pervote, max_presvote), ~round(.x, 1))) %>%
+  select(countryname, party, abbrev,
+         orig_name = name, partyname = name_english,
+         min_year = year_min, max_year = year_max,
+         pervote_max_year = year_max_pervote, pervote_max = max_pervote,
+         presvote_max_year = year_max_presvote, presvote_max = max_presvote,
+         is_alliance)
 
 # add Party Facts country codes
 country_custom <- c(`German Democratic Republic` = "DDR",
