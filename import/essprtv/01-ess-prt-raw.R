@@ -26,20 +26,18 @@ ess_dta_files <-
   )
 
 # function to get party name and party ID
-get_ess_parties <- function(data, encoding = "UTF-8") {
-  data_path <- paste0(ess_dta_path, data)
+get_ess_parties <- function(ess_dta) {
+  data_path <- paste0(ess_dta_path, ess_dta)
 
   party <-
-    read.dta13(data_path, fromEncoding = encoding) |>
+    read.dta13(data_path) |>
     select(cntry, essround, starts_with(c("prtv", "prtc"))) |>
     pivot_longer(c(-cntry, -essround),
                  names_to = "variable",
                  values_to = "party")
 
   party_id <-
-    read.dta13(data_path,
-               convert.factors = FALSE,
-               fromEncoding = encoding) |>
+    read.dta13(data_path, convert.factors = FALSE) |>
     select(cntry, essround, starts_with(c("prtv", "prtc"))) |>
     pivot_longer(c(-cntry, -essround),
                  names_to = "variable",
@@ -51,7 +49,7 @@ get_ess_parties <- function(data, encoding = "UTF-8") {
   return(party)
 }
 
-# party name and party ID for round 1-9 -- time intense so avoiding rereading
+# party name and party ID for ESS rounds -- time intense so avoiding rereading
 if (! exists("ess_prt_raw")) {
   ess_prt_raw <-
     map(ess_dta_files, \(.x) get_ess_parties(.x), .progress = TRUE) |>
