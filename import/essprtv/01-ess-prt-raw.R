@@ -22,7 +22,8 @@ ess_dta_files <-
     "ESS7e02_2.dta",
     "ESS8e02_2.dta",
     "ESS9e03_1.dta",
-    "ESS10.dta"
+    "ESS10.dta",
+    "ESS10SC.dta"
   )
 
 # function to get party name and party ID
