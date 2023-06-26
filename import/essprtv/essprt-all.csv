@@ -529,7 +529,6 @@ BG,6,prtvtcbg,Balgarska sotsialisticheska partiya (BSP),2,BG-6-2-v,BG-3-1-v,757,
 BG,6,prtvtcbg,PP Ataka,3,BG-6-3-v,BG-3-10-v,1793,BGR,ATA,Natsionalen Sǎyuz Ataka,National Union Attack,
 BG,6,prtvtcbg,"PP Red, zakonnost i spravedlivost (RZS)",4,BG-6-4-v,BG-6-4-v,2635,BGR,1-perc,1 percent,1 percent,11
 BG,6,prtvtcbg,PP VMRO – Balgarsko natsionalno dvizhenie,5,BG-6-5-v,BG-6-5-v,2056,BGR,IMRO,VMRO — Bulgarsko Natsionalno Dvizhenie,IMRO — Bulgarian National Movement,
-BG,6,prtvtcbg,PP VMRO – Balgarsko natsionalno dvizhenie,5,BG-6-5-v,BG-6-5-v,2056,BGR,IMRO,VMRO — Bulgarsko Natsionalno Dvizhenie,IMRO — Bulgarian National Movement,
 BG,6,prtvtcbg,PP BZNS,6,BG-6-6-v,BG-6-6-v,2060,BGR,BZNS,Balgarski Zemedelski Naroden Sayuz,Bulgarian Agrarian National Union,
 BG,6,prtvtcbg,PP Natsionalen front za dpasenie na Bulgaria,7,BG-6-7-v,BG-6-7-v,2057,BGR,NFSB,Natzionalen Front za Spasenie na Bulgaria,National Front for the Salvation of Bulgaria,
 BG,6,prtvtcbg,KP Sayuz na desnite sili,8,BG-6-8-v,BG-3-6-v,482,BGR,SDS,Sayuz na Demokratichni Sili,Union of Democratic Forces,
@@ -559,7 +558,6 @@ BG,9,prtvtdbg,Obedinenie DOST,8,BG-9-8-v,BG-9-8-v,5860,BGR,DOST,"Demokrati za Ot
 BG,9,prtvtdbg,Nova republika - DSB - Suyuz za Plovdiv - BDO,9,BG-9-9-v,BG-9-9-v,3908,BGR,ally,alliance,alliance,15
 BG,9,prtvtdbg,Koalitsiya ABV – Dvizhenie 21,10,BG-9-10-v,BG-9-10-v,3908,BGR,ally,alliance,alliance,15
 BG,9,prtvtdbg,Vuzrazhdane,11,BG-9-11-v,BG-9-11-v,5862,BGR,R,Vazrazhdane,Revival,
-BG,9,prtvtdbg,Vuzrazhdane,11,BG-9-11-v,BG-9-11-v,5862,BGR,R,Vazrazhdane,Revival,
 BG,9,prtvtdbg,Other,12,BG-9-12-v,BG-3-11-v,1835,BGR,etc,other,other,7
 BG,9,prtvtdbg,Invalid,13,BG-9-13-v,BG-9-13-v,3008,BGR,tech,technical,technical,12
 BG,10,prtclebg,Grazhdani za evropeĭsko razvitie na Bulgariya (GERB),1,BG-10-1-c,BG-3-14-c,760,BGR,GERB,Grazhdani za evropeysko razvitie na Balgariya,Citizens for European Development of Bulgaria,
@@ -580,10 +578,8 @@ BG,10,prtvtebg,Dvizhenie za prava i svobodi (DPS),3,BG-10-3-v,BG-3-2-v,982,BGR,D
 BG,10,prtvtebg,Demokratichna Balgariya,4,BG-10-4-v,BG-10-4-v,,BGR,,,,
 BG,10,prtvtebg,Ima takav narod,5,BG-10-5-v,BG-10-5-v,,BGR,,,,
 BG,10,prtvtebg,PP VMRO – Balgarsko natsionalno dvizhenie,6,BG-10-6-v,BG-6-5-v,2056,BGR,IMRO,VMRO — Bulgarsko Natsionalno Dvizhenie,IMRO — Bulgarian National Movement,
-BG,10,prtvtebg,PP VMRO – Balgarsko natsionalno dvizhenie,6,BG-10-6-v,BG-6-5-v,2056,BGR,IMRO,VMRO — Bulgarsko Natsionalno Dvizhenie,IMRO — Bulgarian National Movement,
 BG,10,prtvtebg,NFSB-Volya,7,BG-10-7-v,BG-10-7-v,,BGR,,,,
 BG,10,prtvtebg,PP Ataka,8,BG-10-8-v,BG-3-10-v,1793,BGR,ATA,Natsionalen Sǎyuz Ataka,National Union Attack,
-BG,10,prtvtebg,Vazrazhdane,9,BG-10-9-v,BG-9-11-v,5862,BGR,R,Vazrazhdane,Revival,
 BG,10,prtvtebg,Vazrazhdane,9,BG-10-9-v,BG-9-11-v,5862,BGR,R,Vazrazhdane,Revival,
 BG,10,prtvtebg,Izpravi se! Mutri van!,10,BG-10-10-v,BG-10-10-v,,BGR,,,,
 BG,10,prtvtebg,Republikantsi za Balgariya,11,BG-10-11-v,BG-10-11-v,,BGR,,,,
@@ -2305,23 +2301,18 @@ FR,1,prtclfr,Autre,16,FR-1-16-c,FR-1-16-c,1898,FRA,etc,other,other,7
 FR,1,prtvtfr,"CPNT (Chasse, Pêche, Nature et Traditions)",1,FR-1-1-v,FR-1-1-v,1313,FRA,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",
 FR,1,prtvtfr,DL (Démocratie Libérale),2,FR-1-2-v,FR-1-2-v,4364,FRA,DL,Démocratie Libérale,Liberal Democracy,
 FR,1,prtvtfr,FN (Front National),3,FR-1-3-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,1,prtvtfr,FN (Front National),3,FR-1-3-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR,1,prtvtfr,LCR (ligue communiste révolutionnaire),4,FR-1-4-v,FR-1-4-v,1506,FRA,LCR,Ligue communiste révolutionnaire,Revolutionary Communist League,
-FR,1,prtvtfr,LO (Lutte ouvrière),5,FR-1-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,1,prtvtfr,LO (Lutte ouvrière),5,FR-1-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,1,prtvtfr,MDC (Mouvement des citoyens),6,FR-1-6-v,FR-1-6-v,3156,FRA,MDC/PR,Mouvement des citoyens / Pôle républicain,Citizens' Movement / Republican Alliance,
 FR,1,prtvtfr,MNR (Mouvement National Républicain),7,FR-1-7-v,FR-1-7-v,1634,FRA,MNR,Mouvement national républicain,National Republican Movement,
 FR,1,prtvtfr,MPF (Mouvement pour la France),8,FR-1-8-v,FR-1-8-v,364,FRA,MF,Mouvement pour la France,Movement for France,
 FR,1,prtvtfr,PC (Parti communiste),9,FR-1-9-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,1,prtvtfr,PC (Parti communiste),9,FR-1-9-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,1,prtvtfr,PS (Parti Socialiste),10,FR-1-10-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,1,prtvtfr,PS (Parti Socialiste),10,FR-1-10-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,1,prtvtfr,RPF (Rassemblement du Peuple Français),11,FR-1-11-v,FR-1-11-v,2689,FRA,unknown,unknown,unknown,10
 FR,1,prtvtfr,UMP (Union de la Majorité Présidentielle),12,FR-1-12-v,FR-1-12-v,1595,FRA,UMP,Union pour un mouvement populaire,Union for a Popular Movement,
 FR,1,prtvtfr,UDF (Union pour la Démocratie Française),13,FR-1-13-v,FR-1-13-v,213,FRA,UDF,Union pour la démocratie française,Union for French Democracy,
 FR,1,prtvtfr,Les Verts,14,FR-1-14-v,FR-1-14-v,1108,FRA,V,Les Verts,Greens,
 FR,1,prtvtfr,Autres mouvements écologistes,15,FR-1-15-v,FR-1-15-v,8657,FRA,d-eco,divers ecologistes,other greens,
-FR,1,prtvtfr,Autre,16,FR-1-16-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,1,prtvtfr,Autre,16,FR-1-16-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,2,prtclfr,"CPNT (Chasse, Pêche, Nature et Traditions)",1,FR-2-1-c,FR-1-1-c,1313,FRA,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",
 FR,2,prtclfr,DL (Démocratie Libérale),2,FR-2-2-c,FR-1-2-c,4364,FRA,DL,Démocratie Libérale,Liberal Democracy,
@@ -2341,23 +2332,18 @@ FR,2,prtclfr,Autre,16,FR-2-16-c,FR-1-16-c,1898,FRA,etc,other,other,7
 FR,2,prtvtfr,"CPNT (Chasse, Pêche, Nature et Traditions)",1,FR-2-1-v,FR-1-1-v,1313,FRA,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",
 FR,2,prtvtfr,DL (Démocratie Libérale),2,FR-2-2-v,FR-1-2-v,4364,FRA,DL,Démocratie Libérale,Liberal Democracy,
 FR,2,prtvtfr,FN (Front National),3,FR-2-3-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,2,prtvtfr,FN (Front National),3,FR-2-3-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR,2,prtvtfr,LCR (ligue communiste révolutionnaire),4,FR-2-4-v,FR-1-4-v,1506,FRA,LCR,Ligue communiste révolutionnaire,Revolutionary Communist League,
-FR,2,prtvtfr,LO (Lutte ouvrière),5,FR-2-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,2,prtvtfr,LO (Lutte ouvrière),5,FR-2-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,2,prtvtfr,MDC (Mouvement des citoyens),6,FR-2-6-v,FR-1-6-v,3156,FRA,MDC/PR,Mouvement des citoyens / Pôle républicain,Citizens' Movement / Republican Alliance,
 FR,2,prtvtfr,MNR (Mouvement National Républicain),7,FR-2-7-v,FR-1-7-v,1634,FRA,MNR,Mouvement national républicain,National Republican Movement,
 FR,2,prtvtfr,MPF (Mouvement pour la France),8,FR-2-8-v,FR-1-8-v,364,FRA,MF,Mouvement pour la France,Movement for France,
 FR,2,prtvtfr,PC (Parti communiste),9,FR-2-9-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,2,prtvtfr,PC (Parti communiste),9,FR-2-9-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,2,prtvtfr,PS (Parti Socialiste),10,FR-2-10-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,2,prtvtfr,PS (Parti Socialiste),10,FR-2-10-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,2,prtvtfr,RPF (Rassemblement du Peuple Français),11,FR-2-11-v,FR-1-11-v,2689,FRA,unknown,unknown,unknown,10
 FR,2,prtvtfr,UMP (Union de la Majorité Présidentielle),12,FR-2-12-v,FR-1-12-v,1595,FRA,UMP,Union pour un mouvement populaire,Union for a Popular Movement,
 FR,2,prtvtfr,UDF (Union pour la Démocratie Française),13,FR-2-13-v,FR-1-13-v,213,FRA,UDF,Union pour la démocratie française,Union for French Democracy,
 FR,2,prtvtfr,Les Verts,14,FR-2-14-v,FR-1-14-v,1108,FRA,V,Les Verts,Greens,
 FR,2,prtvtfr,Autres mouvements écologistes,15,FR-2-15-v,FR-1-15-v,8657,FRA,d-eco,divers ecologistes,other greens,
-FR,2,prtvtfr,Autre,16,FR-2-16-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,2,prtvtfr,Autre,16,FR-2-16-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,3,prtclafr,"CPNT (Chasse, pêche, nature et traditions)",1,FR-3-1-c,FR-1-1-c,1313,FRA,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",
 FR,3,prtclafr,FN (Front national),2,FR-3-2-c,FR-1-3-c,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
@@ -2377,23 +2363,18 @@ FR,3,prtclafr,Autre,15,FR-3-15-c,FR-1-16-c,1898,FRA,etc,other,other,7
 FR,3,prtvtafr,"CPNT (Chasse, pêche, nature et traditions)",1,FR-3-1-v,FR-1-1-v,1313,FRA,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",
 FR,3,prtvtafr,DL (Démocratie libérale),2,FR-3-2-v,FR-1-2-v,4364,FRA,DL,Démocratie Libérale,Liberal Democracy,
 FR,3,prtvtafr,FN (Front national),3,FR-3-3-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,3,prtvtafr,FN (Front national),3,FR-3-3-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR,3,prtvtafr,LCR (Ligue communiste révolutionnaire),4,FR-3-4-v,FR-1-4-v,1506,FRA,LCR,Ligue communiste révolutionnaire,Revolutionary Communist League,
-FR,3,prtvtafr,LO (Lutte ouvrière),5,FR-3-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,3,prtvtafr,LO (Lutte ouvrière),5,FR-3-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,3,prtvtafr,MDC (Mouvement des citoyens),6,FR-3-6-v,FR-1-6-v,3156,FRA,MDC/PR,Mouvement des citoyens / Pôle républicain,Citizens' Movement / Republican Alliance,
 FR,3,prtvtafr,MNR (Mouvement national républicain),7,FR-3-7-v,FR-1-7-v,1634,FRA,MNR,Mouvement national républicain,National Republican Movement,
 FR,3,prtvtafr,MPF (Mouvement pour la France),8,FR-3-8-v,FR-1-8-v,364,FRA,MF,Mouvement pour la France,Movement for France,
 FR,3,prtvtafr,PC (Parti communiste),9,FR-3-9-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,3,prtvtafr,PC (Parti communiste),9,FR-3-9-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,3,prtvtafr,PS (Parti socialiste),10,FR-3-10-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,3,prtvtafr,PS (Parti socialiste),10,FR-3-10-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,3,prtvtafr,RPF (Rassemblement du peuple français),11,FR-3-11-v,FR-3-11-v,2689,FRA,unknown,unknown,unknown,10
 FR,3,prtvtafr,UMP (Union pour la majorité présidentielle),12,FR-3-12-v,FR-1-12-v,1595,FRA,UMP,Union pour un mouvement populaire,Union for a Popular Movement,
 FR,3,prtvtafr,UDF (Union pour la démocratie française),13,FR-3-13-v,FR-1-13-v,213,FRA,UDF,Union pour la démocratie française,Union for French Democracy,
 FR,3,prtvtafr,Les Verts,14,FR-3-14-v,FR-1-14-v,1108,FRA,V,Les Verts,Greens,
 FR,3,prtvtafr,Autres mouvements écologistes,15,FR-3-15-v,FR-1-15-v,8657,FRA,d-eco,divers ecologistes,other greens,
-FR,3,prtvtafr,Autre,16,FR-3-16-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,3,prtvtafr,Autre,16,FR-3-16-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,3,prtvtafr,Blanc,17,FR-3-17-v,FR-3-17-v,3024,FRA,tech,technical,technical,12
 FR,4,prtclbfr,"CPNT (Chasse, Pêche, Nature et Traditions)",1,FR-4-1-c,FR-1-1-c,1313,FRA,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",
@@ -2413,25 +2394,19 @@ FR,4,prtclbfr,Autres mouvements écologistes,14,FR-4-14-c,FR-1-15-c,8657,FRA,d-e
 FR,4,prtclbfr,Autre,15,FR-4-15-c,FR-1-16-c,1898,FRA,etc,other,other,7
 FR,4,prtvtbfr,"CPNT (Chasse, Pêche, Nature et Traditions)",1,FR-4-1-v,FR-1-1-v,1313,FRA,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",
 FR,4,prtvtbfr,FN (Front National),2,FR-4-2-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,4,prtvtbfr,FN (Front National),2,FR-4-2-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR,4,prtvtbfr,LCR (Ligue Communiste Révolutionnaire),3,FR-4-3-v,FR-1-4-v,1506,FRA,LCR,Ligue communiste révolutionnaire,Revolutionary Communist League,
-FR,4,prtvtbfr,LO (Lutte Ouvrière),4,FR-4-4-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,4,prtvtbfr,LO (Lutte Ouvrière),4,FR-4-4-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,4,prtvtbfr,MPF (Mouvement pour la France),5,FR-4-5-v,FR-1-8-v,364,FRA,MF,Mouvement pour la France,Movement for France,
 FR,4,prtvtbfr,Nouveau Centre,6,FR-4-6-v,FR-4-6-v,1255,FRA,NC,Nouveau centre,New Centre,
 FR,4,prtvtbfr,PC (Parti Communiste),7,FR-4-7-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,4,prtvtbfr,PC (Parti Communiste),7,FR-4-7-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,4,prtvtbfr,PS (Parti Socialiste),8,FR-4-8-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,4,prtvtbfr,PS (Parti Socialiste),8,FR-4-8-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,4,prtvtbfr,PRG (Parti Radical de Gauche),9,FR-4-9-v,FR-4-9-v,1783,FRA,PRG,Parti radical de gauche,Radical Party of the Left,
-FR,4,prtvtbfr,UDF-MoDem (Mouvement Democrate),10,FR-4-10-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR,4,prtvtbfr,UDF-MoDem (Mouvement Democrate),10,FR-4-10-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR,4,prtvtbfr,UMP (Union pour la Majorité Présidentielle),11,FR-4-11-v,FR-1-12-v,1595,FRA,UMP,Union pour un mouvement populaire,Union for a Popular Movement,
 FR,4,prtvtbfr,Les Verts,12,FR-4-12-v,FR-1-14-v,1108,FRA,V,Les Verts,Greens,
 FR,4,prtvtbfr,Autres mouvements écologistes,13,FR-4-13-v,FR-1-15-v,8657,FRA,d-eco,divers ecologistes,other greens,
 FR,4,prtvtbfr,Divers gauche,14,FR-4-14-v,FR-4-14-v,126,FRA,d-g,divers gauche,other left,
 FR,4,prtvtbfr,Divers droite,15,FR-4-15-v,FR-4-15-v,1776,FRA,d-d,divers droite,other right,
-FR,4,prtvtbfr,Autre,16,FR-4-16-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,4,prtvtbfr,Autre,16,FR-4-16-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,4,prtvtbfr,Blanc,17,FR-4-17-v,FR-3-17-v,3024,FRA,tech,technical,technical,12
 FR,4,prtvtbfr,Nul,18,FR-4-18-v,FR-4-18-v,3024,FRA,tech,technical,technical,12
@@ -2448,25 +2423,19 @@ FR,5,prtclcfr,Les Verts – Europe Ecologie,10,FR-5-10-c,FR-5-10-c,5650,FRA,EELV
 FR,5,prtclcfr,Autre (PRECISEZ),15,FR-5-15-c,FR-1-16-c,1898,FRA,etc,other,other,7
 FR,5,prtvtbfr,"CPNT (Chasse, Pêche, Nature et Traditions)",1,FR-5-1-v,FR-1-1-v,1313,FRA,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",
 FR,5,prtvtbfr,FN (Front National),2,FR-5-2-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,5,prtvtbfr,FN (Front National),2,FR-5-2-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR,5,prtvtbfr,LCR (Ligue Communiste Révolutionnaire),3,FR-5-3-v,FR-1-4-v,1506,FRA,LCR,Ligue communiste révolutionnaire,Revolutionary Communist League,
-FR,5,prtvtbfr,LO (Lutte Ouvrière),4,FR-5-4-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,5,prtvtbfr,LO (Lutte Ouvrière),4,FR-5-4-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,5,prtvtbfr,MPF (Mouvement pour la France),5,FR-5-5-v,FR-1-8-v,364,FRA,MF,Mouvement pour la France,Movement for France,
 FR,5,prtvtbfr,Nouveau Centre,6,FR-5-6-v,FR-4-6-v,1255,FRA,NC,Nouveau centre,New Centre,
 FR,5,prtvtbfr,PC (Parti Communiste),7,FR-5-7-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,5,prtvtbfr,PC (Parti Communiste),7,FR-5-7-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,5,prtvtbfr,PS (Parti Socialiste),8,FR-5-8-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,5,prtvtbfr,PS (Parti Socialiste),8,FR-5-8-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,5,prtvtbfr,PRG (Parti Radical de Gauche),9,FR-5-9-v,FR-4-9-v,1783,FRA,PRG,Parti radical de gauche,Radical Party of the Left,
-FR,5,prtvtbfr,UDF-MoDem (Mouvement Democrate),10,FR-5-10-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR,5,prtvtbfr,UDF-MoDem (Mouvement Democrate),10,FR-5-10-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR,5,prtvtbfr,UMP (Union pour la Majorité Présidentielle),11,FR-5-11-v,FR-1-12-v,1595,FRA,UMP,Union pour un mouvement populaire,Union for a Popular Movement,
 FR,5,prtvtbfr,Les Verts,12,FR-5-12-v,FR-1-14-v,1108,FRA,V,Les Verts,Greens,
 FR,5,prtvtbfr,Autres mouvements écologistes,13,FR-5-13-v,FR-1-15-v,8657,FRA,d-eco,divers ecologistes,other greens,
 FR,5,prtvtbfr,Divers gauche,14,FR-5-14-v,FR-4-14-v,126,FRA,d-g,divers gauche,other left,
 FR,5,prtvtbfr,Divers droite,15,FR-5-15-v,FR-4-15-v,1776,FRA,d-d,divers droite,other right,
-FR,5,prtvtbfr,Autre,16,FR-5-16-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,5,prtvtbfr,Autre,16,FR-5-16-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,5,prtvtbfr,Blanc,17,FR-5-17-v,FR-3-17-v,3024,FRA,tech,technical,technical,12
 FR,5,prtvtbfr,Nul,18,FR-5-18-v,FR-4-18-v,3024,FRA,tech,technical,technical,12
@@ -2488,24 +2457,17 @@ FR,6,prtcldfr,Autres mouvements écologistes,15,FR-6-15-c,FR-1-15-c,8657,FRA,d-e
 FR,6,prtcldfr,Autre,16,FR-6-16-c,FR-1-16-c,1898,FRA,etc,other,other,7
 FR,6,prtvtcfr,Nouveau Centre,1,FR-6-1-v,FR-4-6-v,1255,FRA,NC,Nouveau centre,New Centre,
 FR,6,prtvtcfr,FN (Front National),2,FR-6-2-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,6,prtvtcfr,FN (Front National),2,FR-6-2-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR,6,prtvtcfr,PR (Parti Radical Valoisien),3,FR-6-3-v,FR-6-3-v,14,FRA,PR,Parti radical [socialiste],Radical [Socialist] Party,
 FR,6,prtvtcfr,NPA (Nouveau Parti Anti-Capitaliste),4,FR-6-4-v,FR-6-4-v,2536,FRA,1-perc,1 percent,1 percent,11
-FR,6,prtvtcfr,NPA (Nouveau Parti Anti-Capitaliste),4,FR-6-4-v,FR-6-4-v,2536,FRA,1-perc,1 percent,1 percent,11
-FR,6,prtvtcfr,LO (Lutte Ouvrière),5,FR-6-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,6,prtvtcfr,LO (Lutte Ouvrière),5,FR-6-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,6,prtvtcfr,FDG (Front de Gauche),6,FR-6-6-v,FR-6-6-v,4363,FRA,FDG,Front de Gauche,Left Front,
 FR,6,prtvtcfr,Parti Radical de Gauche,7,FR-6-7-v,FR-4-9-v,1783,FRA,PRG,Parti radical de gauche,Radical Party of the Left,
 FR,6,prtvtcfr,MPF (Mouvement pour la France),8,FR-6-8-v,FR-1-8-v,364,FRA,MF,Mouvement pour la France,Movement for France,
 FR,6,prtvtcfr,PS (Parti Socialiste),9,FR-6-9-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
-FR,6,prtvtcfr,PS (Parti Socialiste),9,FR-6-9-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,6,prtvtcfr,UMP (Union pour un Mouvement Populaire),10,FR-6-10-v,FR-1-12-v,1595,FRA,UMP,Union pour un mouvement populaire,Union for a Popular Movement,
 FR,6,prtvtcfr,MODEM (Mouvement Démocrate),11,FR-6-11-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
-FR,6,prtvtcfr,MODEM (Mouvement Démocrate),11,FR-6-11-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
-FR,6,prtvtcfr,EELV (Europe Ecologie Les Verts),12,FR-6-12-v,FR-6-12-v,5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR,6,prtvtcfr,EELV (Europe Ecologie Les Verts),12,FR-6-12-v,FR-6-12-v,5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR,6,prtvtcfr,Autres mouvements écologistes,13,FR-6-13-v,FR-1-15-v,8657,FRA,d-eco,divers ecologistes,other greens,
-FR,6,prtvtcfr,Autre,14,FR-6-14-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,6,prtvtcfr,Autre,14,FR-6-14-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,6,prtvtcfr,Blanc,15,FR-6-15-v,FR-3-17-v,3024,FRA,tech,technical,technical,12
 FR,6,prtvtcfr,Nul,16,FR-6-16-v,FR-4-18-v,3024,FRA,tech,technical,technical,12
@@ -2527,24 +2489,17 @@ FR,7,prtcldfr,Autres mouvements écologistes,15,FR-7-15-c,FR-1-15-c,8657,FRA,d-e
 FR,7,prtcldfr,Autre,16,FR-7-16-c,FR-1-16-c,1898,FRA,etc,other,other,7
 FR,7,prtvtcfr,Nouveau Centre,1,FR-7-1-v,FR-4-6-v,1255,FRA,NC,Nouveau centre,New Centre,
 FR,7,prtvtcfr,FN (Front National),2,FR-7-2-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,7,prtvtcfr,FN (Front National),2,FR-7-2-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR,7,prtvtcfr,PR (Parti Radical Valoisien),3,FR-7-3-v,FR-6-3-v,14,FRA,PR,Parti radical [socialiste],Radical [Socialist] Party,
 FR,7,prtvtcfr,NPA (Nouveau Parti Anti-Capitaliste),4,FR-7-4-v,FR-6-4-v,2536,FRA,1-perc,1 percent,1 percent,11
-FR,7,prtvtcfr,NPA (Nouveau Parti Anti-Capitaliste),4,FR-7-4-v,FR-6-4-v,2536,FRA,1-perc,1 percent,1 percent,11
-FR,7,prtvtcfr,LO (Lutte Ouvrière),5,FR-7-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,7,prtvtcfr,LO (Lutte Ouvrière),5,FR-7-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,7,prtvtcfr,FDG (Front de Gauche),6,FR-7-6-v,FR-6-6-v,4363,FRA,FDG,Front de Gauche,Left Front,
 FR,7,prtvtcfr,Parti Radical de Gauche,7,FR-7-7-v,FR-4-9-v,1783,FRA,PRG,Parti radical de gauche,Radical Party of the Left,
 FR,7,prtvtcfr,MPF (Mouvement pour la France),8,FR-7-8-v,FR-1-8-v,364,FRA,MF,Mouvement pour la France,Movement for France,
 FR,7,prtvtcfr,PS (Parti Socialiste),9,FR-7-9-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
-FR,7,prtvtcfr,PS (Parti Socialiste),9,FR-7-9-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,7,prtvtcfr,UMP (Union pour un Mouvement Populaire),10,FR-7-10-v,FR-1-12-v,1595,FRA,UMP,Union pour un mouvement populaire,Union for a Popular Movement,
 FR,7,prtvtcfr,MODEM (Mouvement Démocrate),11,FR-7-11-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
-FR,7,prtvtcfr,MODEM (Mouvement Démocrate),11,FR-7-11-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
-FR,7,prtvtcfr,EELV (Europe Ecologie Les Verts),12,FR-7-12-v,FR-6-12-v,5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR,7,prtvtcfr,EELV (Europe Ecologie Les Verts),12,FR-7-12-v,FR-6-12-v,5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR,7,prtvtcfr,Autres mouvements écologistes,13,FR-7-13-v,FR-1-15-v,8657,FRA,d-eco,divers ecologistes,other greens,
-FR,7,prtvtcfr,Autre,14,FR-7-14-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,7,prtvtcfr,Autre,14,FR-7-14-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,7,prtvtcfr,Blanc,15,FR-7-15-v,FR-3-17-v,3024,FRA,tech,technical,technical,12
 FR,7,prtvtcfr,Nul,16,FR-7-16-v,FR-4-18-v,3024,FRA,tech,technical,technical,12
@@ -2566,24 +2521,17 @@ FR,8,prtclefr,Autres mouvements écologistes,15,FR-8-15-c,FR-1-15-c,8657,FRA,d-e
 FR,8,prtclefr,Autre (precisez),16,FR-8-16-c,FR-1-16-c,1898,FRA,etc,other,other,7
 FR,8,prtvtcfr,Nouveau Centre,1,FR-8-1-v,FR-4-6-v,1255,FRA,NC,Nouveau centre,New Centre,
 FR,8,prtvtcfr,FN (Front National),2,FR-8-2-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,8,prtvtcfr,FN (Front National),2,FR-8-2-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR,8,prtvtcfr,PR (Parti Radical Valoisien),3,FR-8-3-v,FR-6-3-v,14,FRA,PR,Parti radical [socialiste],Radical [Socialist] Party,
 FR,8,prtvtcfr,NPA (Nouveau Parti Anti-Capitaliste),4,FR-8-4-v,FR-6-4-v,2536,FRA,1-perc,1 percent,1 percent,11
-FR,8,prtvtcfr,NPA (Nouveau Parti Anti-Capitaliste),4,FR-8-4-v,FR-6-4-v,2536,FRA,1-perc,1 percent,1 percent,11
-FR,8,prtvtcfr,LO (Lutte Ouvrière),5,FR-8-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,8,prtvtcfr,LO (Lutte Ouvrière),5,FR-8-5-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,8,prtvtcfr,FDG (Front de Gauche),6,FR-8-6-v,FR-6-6-v,4363,FRA,FDG,Front de Gauche,Left Front,
 FR,8,prtvtcfr,Parti Radical de Gauche,7,FR-8-7-v,FR-4-9-v,1783,FRA,PRG,Parti radical de gauche,Radical Party of the Left,
 FR,8,prtvtcfr,MPF (Mouvement pour la France),8,FR-8-8-v,FR-1-8-v,364,FRA,MF,Mouvement pour la France,Movement for France,
 FR,8,prtvtcfr,PS (Parti Socialiste),9,FR-8-9-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
-FR,8,prtvtcfr,PS (Parti Socialiste),9,FR-8-9-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
 FR,8,prtvtcfr,UMP (Union pour un Mouvement Populaire),10,FR-8-10-v,FR-1-12-v,1595,FRA,UMP,Union pour un mouvement populaire,Union for a Popular Movement,
 FR,8,prtvtcfr,MODEM (Mouvement Démocrate),11,FR-8-11-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
-FR,8,prtvtcfr,MODEM (Mouvement Démocrate),11,FR-8-11-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
-FR,8,prtvtcfr,EELV (Europe Ecologie Les Verts),12,FR-8-12-v,FR-6-12-v,5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR,8,prtvtcfr,EELV (Europe Ecologie Les Verts),12,FR-8-12-v,FR-6-12-v,5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR,8,prtvtcfr,Autres mouvements écologistes,13,FR-8-13-v,FR-1-15-v,8657,FRA,d-eco,divers ecologistes,other greens,
-FR,8,prtvtcfr,Autre,14,FR-8-14-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,8,prtvtcfr,Autre,14,FR-8-14-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,8,prtvtcfr,Blanc,15,FR-8-15-v,FR-3-17-v,3024,FRA,tech,technical,technical,12
 FR,8,prtvtcfr,Nul,16,FR-8-16-v,FR-4-18-v,3024,FRA,tech,technical,technical,12
@@ -2600,28 +2548,16 @@ FR,9,prtclffr,Debout la France,10,FR-9-10-c,FR-9-10-c,3207,FRA,DLF,Debout la Fra
 FR,9,prtclffr,FN (Front National),11,FR-9-11-c,FR-1-3-c,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR,9,prtclffr,Autre,12,FR-9-12-c,FR-1-16-c,1898,FRA,etc,other,other,7
 FR,9,prtvtdfr,LO (Lutte Ouvrière),1,FR-9-1-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
-FR,9,prtvtdfr,LO (Lutte Ouvrière),1,FR-9-1-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
-FR,9,prtvtdfr,NPA (Nouveau Parti Anti-Capitaliste),2,FR-9-2-v,FR-6-4-v,2536,FRA,1-perc,1 percent,1 percent,11
 FR,9,prtvtdfr,NPA (Nouveau Parti Anti-Capitaliste),2,FR-9-2-v,FR-6-4-v,2536,FRA,1-perc,1 percent,1 percent,11
 FR,9,prtvtdfr,PCF (Parti Communiste Français),3,FR-9-3-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,9,prtvtdfr,PCF (Parti Communiste Français),3,FR-9-3-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,9,prtvtdfr,FI (La France Insoumise),4,FR-9-4-v,FR-9-4-v,5858,FRA,FI,La France Insoumise,Unbowed France,
 FR,9,prtvtdfr,FI (La France Insoumise),4,FR-9-4-v,FR-9-4-v,5858,FRA,FI,La France Insoumise,Unbowed France,
 FR,9,prtvtdfr,PS (Parti Socialiste),5,FR-9-5-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
-FR,9,prtvtdfr,PS (Parti Socialiste),5,FR-9-5-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
-FR,9,prtvtdfr,EELV (Europe Ecologie Les Verts),6,FR-9-6-v,FR-6-12-v,5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR,9,prtvtdfr,EELV (Europe Ecologie Les Verts),6,FR-9-6-v,FR-6-12-v,5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR,9,prtvtdfr,LREM (La République en Marche),7,FR-9-7-v,FR-9-7-v,5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
-FR,9,prtvtdfr,LREM (La République en Marche),7,FR-9-7-v,FR-9-7-v,5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
-FR,9,prtvtdfr,MODEM (Mouvement Démocrate),8,FR-9-8-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR,9,prtvtdfr,MODEM (Mouvement Démocrate),8,FR-9-8-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR,9,prtvtdfr,LR (Les Républicains),9,FR-9-9-v,FR-9-9-v,8168,FRA,LR,Les Républicains,The Republicans,
-FR,9,prtvtdfr,LR (Les Républicains),9,FR-9-9-v,FR-9-9-v,8168,FRA,LR,Les Républicains,The Republicans,
-FR,9,prtvtdfr,Debout la France,10,FR-9-10-v,FR-9-10-v,3207,FRA,DLF,Debout la France,France Arise,
 FR,9,prtvtdfr,Debout la France,10,FR-9-10-v,FR-9-10-v,3207,FRA,DLF,Debout la France,France Arise,
 FR,9,prtvtdfr,FN (Front National),11,FR-9-11-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,9,prtvtdfr,FN (Front National),11,FR-9-11-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,9,prtvtdfr,Autre,12,FR-9-12-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,9,prtvtdfr,Autre,12,FR-9-12-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,10,prtclffr,LO (Lutte Ouvrière),1,FR-10-1-c,FR-1-5-c,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR,10,prtclffr,NPA (Nouveau Parti Anti-Capitaliste),2,FR-10-2-c,FR-6-4-c,2536,FRA,1-perc,1 percent,1 percent,11
@@ -2636,28 +2572,16 @@ FR,10,prtclffr,Debout la France,10,FR-10-10-c,FR-9-10-c,3207,FRA,DLF,Debout la F
 FR,10,prtclffr,FN (Front National),11,FR-10-11-c,FR-1-3-c,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR,10,prtclffr,Autre,12,FR-10-12-c,FR-1-16-c,1898,FRA,etc,other,other,7
 FR,10,prtvtefr,LO (Lutte Ouvrière),1,FR-10-1-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
-FR,10,prtvtefr,LO (Lutte Ouvrière),1,FR-10-1-v,FR-1-5-v,617,FRA,LO,Lutte ouvrière,Workers' Struggle,
-FR,10,prtvtefr,NPA (Nouveau Parti Anti-Capitaliste),2,FR-10-2-v,FR-6-4-v,2536,FRA,1-perc,1 percent,1 percent,11
 FR,10,prtvtefr,NPA (Nouveau Parti Anti-Capitaliste),2,FR-10-2-v,FR-6-4-v,2536,FRA,1-perc,1 percent,1 percent,11
 FR,10,prtvtefr,PCF (Parti Communiste Français),3,FR-10-3-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,10,prtvtefr,PCF (Parti Communiste Français),3,FR-10-3-v,FR-1-9-v,1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR,10,prtvtefr,FI (La France Insoumise),4,FR-10-4-v,FR-9-4-v,5858,FRA,FI,La France Insoumise,Unbowed France,
 FR,10,prtvtefr,FI (La France Insoumise),4,FR-10-4-v,FR-9-4-v,5858,FRA,FI,La France Insoumise,Unbowed France,
 FR,10,prtvtefr,PS (Parti Socialiste),5,FR-10-5-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
-FR,10,prtvtefr,PS (Parti Socialiste),5,FR-10-5-v,FR-1-10-v,1478,FRA,PS,Parti socialiste,Socialist Party,
-FR,10,prtvtefr,EELV (Europe Ecologie Les Verts),6,FR-10-6-v,FR-6-12-v,5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR,10,prtvtefr,EELV (Europe Ecologie Les Verts),6,FR-10-6-v,FR-6-12-v,5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR,10,prtvtefr,LREM (La République en Marche),7,FR-10-7-v,FR-9-7-v,5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
-FR,10,prtvtefr,LREM (La République en Marche),7,FR-10-7-v,FR-9-7-v,5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
-FR,10,prtvtefr,MODEM (Mouvement Démocrate),8,FR-10-8-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR,10,prtvtefr,MODEM (Mouvement Démocrate),8,FR-10-8-v,FR-4-10-v,496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR,10,prtvtefr,LR (Les Républicains),9,FR-10-9-v,FR-9-9-v,8168,FRA,LR,Les Républicains,The Republicans,
-FR,10,prtvtefr,LR (Les Républicains),9,FR-10-9-v,FR-9-9-v,8168,FRA,LR,Les Républicains,The Republicans,
-FR,10,prtvtefr,Debout la France,10,FR-10-10-v,FR-9-10-v,3207,FRA,DLF,Debout la France,France Arise,
 FR,10,prtvtefr,Debout la France,10,FR-10-10-v,FR-9-10-v,3207,FRA,DLF,Debout la France,France Arise,
 FR,10,prtvtefr,FN (Front National),11,FR-10-11-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,10,prtvtefr,FN (Front National),11,FR-10-11-v,FR-1-3-v,433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR,10,prtvtefr,Autre,12,FR-10-12-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,10,prtvtefr,Autre,12,FR-10-12-v,FR-1-16-v,1898,FRA,etc,other,other,7
 FR,10,prtvtefr,Blanc,13,FR-10-13-v,FR-3-17-v,3024,FRA,tech,technical,technical,12
 FR,10,prtvtefr,Nul,14,FR-10-14-v,FR-4-18-v,3024,FRA,tech,technical,technical,12
@@ -3881,7 +3805,6 @@ IT,6,prtclbit,FARE - Giannino,12,IT-6-12-c,IT-6-12-c,2279,ITA,FiD,Fermare il Dec
 IT,6,prtclbit,La destra,13,IT-6-13-c,IT-6-13-c,2415,ITA,1-perc,1 percent,1 percent,11
 IT,6,prtclbit,Altro,14,IT-6-14-c,IT-1-17-c,1896,ITA,etc,other,other,7
 IT,6,prtvtbit,Partido Democratico (PD),1,IT-6-1-v,IT-6-1-v,802,ITA,PD,Partito Democratico,Democratic Party,
-IT,6,prtvtbit,Partido Democratico (PD),1,IT-6-1-v,IT-6-1-v,802,ITA,PD,Partito Democratico,Democratic Party,
 IT,6,prtvtbit,Sinistra Ecologia e Libertà (SEL),2,IT-6-2-v,IT-6-2-v,1212,ITA,SI,Sinistra Italiana,Italian Left,
 IT,6,prtvtbit,Rivoluzione Civile (Ingroia),3,IT-6-3-v,IT-6-3-v,2277,ITA,RC,Rivoluzione Civile,Civil Revolution,
 IT,6,prtvtbit,Movimento 5 Stelle,4,IT-6-4-v,IT-6-4-v,2046,ITA,M5S,Movimento 5 Stelle,Five Star Movement,
@@ -3902,7 +3825,6 @@ IT,8,prtclcit,Articolo 1 Mdp,6,IT-8-6-c,IT-8-6-c,8361,ITA,Art.1,Articolo Uno,Art
 IT,8,prtclcit,Alternativa popolare,7,IT-8-7-c,IT-8-7-c,9090,ITA,AP,Alternativa Popolare,Popular Alternative,
 IT,8,prtclcit,Sinistra italiana,8,IT-8-8-c,IT-6-2-c,1212,ITA,SI,Sinistra Italiana,Italian Left,
 IT,8,prtclcit,Altro (scrivere),9,IT-8-9-c,IT-1-17-c,1896,ITA,etc,other,other,7
-IT,8,prtvtbit,Partido Democratico (PD),1,IT-8-1-v,IT-6-1-v,802,ITA,PD,Partito Democratico,Democratic Party,
 IT,8,prtvtbit,Partido Democratico (PD),1,IT-8-1-v,IT-6-1-v,802,ITA,PD,Partito Democratico,Democratic Party,
 IT,8,prtvtbit,Sinistra Ecologia e Libertà (SEL),2,IT-8-2-v,IT-6-2-v,1212,ITA,SI,Sinistra Italiana,Italian Left,
 IT,8,prtvtbit,Rivoluzione Civile (Ingroia),3,IT-8-3-v,IT-6-3-v,2277,ITA,RC,Rivoluzione Civile,Civil Revolution,
@@ -3930,7 +3852,6 @@ IT,9,prtcldit,Fratelli d'Italia,10,IT-9-10-c,IT-6-10-c,2280,ITA,FdI,Fratelli d'I
 IT,9,prtcldit,Potere al popolo,12,IT-9-12-c,IT-9-12-c,8247,ITA,PaP,Potere al Popolo,Power to the People,
 IT,9,prtcldit,Casapound Italia,13,IT-9-13-c,IT-9-13-c,8244,ITA,CPI,CasaPound Italia,CasaPound Italy,
 IT,9,prtcldit,Altro,14,IT-9-14-c,IT-1-17-c,1896,ITA,etc,other,other,7
-IT,9,prtvtcit,Partido Democratico (PD),1,IT-9-1-v,IT-6-1-v,802,ITA,PD,Partito Democratico,Democratic Party,
 IT,9,prtvtcit,Partido Democratico (PD),1,IT-9-1-v,IT-6-1-v,802,ITA,PD,Partito Democratico,Democratic Party,
 IT,9,prtvtcit,#NAME?,2,IT-9-2-v,IT-9-2-v,6155,ITA,+E,Più Europa,More Europe,
 IT,9,prtvtcit,Italia Europa Insieme,3,IT-9-3-v,IT-9-3-v,7671,ITA,IEI,Insieme,Together,
@@ -3965,7 +3886,6 @@ IT,10,prtcleit,Verdi/ Europa Verde,38,IT-10-38-c,IT-10-38-c,,ITA,,,,
 IT,10,prtcleit,Italexit,39,IT-10-39-c,IT-10-39-c,,ITA,,,,
 IT,10,prtcleit,Azione di Calenda,40,IT-10-40-c,IT-10-40-c,,ITA,,,,
 IT,10,prtvtdit,Movimento 5 Stelle,1,IT-10-1-v,IT-6-4-v,2046,ITA,M5S,Movimento 5 Stelle,Five Star Movement,
-IT,10,prtvtdit,Partido Democratico (PD),2,IT-10-2-v,IT-6-1-v,802,ITA,PD,Partito Democratico,Democratic Party,
 IT,10,prtvtdit,Partido Democratico (PD),2,IT-10-2-v,IT-6-1-v,802,ITA,PD,Partito Democratico,Democratic Party,
 IT,10,prtvtdit,Lega,3,IT-10-3-v,IT-1-11-v,1221,ITA,LN,Lega Nord,North League,
 IT,10,prtvtdit,Forza Italia,4,IT-10-4-v,IT-1-8-v,1626,ITA,FI,Forza Italia,Go Italy,
@@ -4013,7 +3933,6 @@ LT,5,prtvlt1,Lithuanian Peasant Popular Union (LVLS),12,LT-5-12-v,LT-5-12-v,1490
 LT,5,prtvlt1,Party Order and Justice (TT),13,LT-5-13-v,LT-5-13-v,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT,5,prtvlt1,Liberal and Centre Union (LiCS),14,LT-5-14-v,LT-5-14-v,1193,LTU,LiCS,Liberalų ir centro sąjunga,Liberal and Centre Union,
 LT,5,prtvlt1,Party 'Young Lithuania' (JL),15,LT-5-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
-LT,5,prtvlt1,Party 'Young Lithuania' (JL),15,LT-5-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,5,prtvlt1,Lithuanian Social Democratic Union (LSDS),16,LT-5-16-v,LT-5-16-v,8258,LTU,LSDS,Lietuvos socialdemokratų sąjunga,Lithuanian Social Democratic Union,
 LT,5,prtvlt1,Did not vote for a multi-member nationwide candidate list,44,LT-5-44-v,LT-5-44-v,3047,LTU,tech,technical,technical,12
 LT,5,prtvlt1,Don't know if voted for a multi-member nationwide candidate list,55,LT-5-55-v,LT-5-55-v,3047,LTU,tech,technical,technical,12
@@ -4032,7 +3951,6 @@ LT,5,prtvlt2,Liberals' Movement of the Republic of Lithuania (LRLS),12,LT-5-12-v
 LT,5,prtvlt2,Lithuanian Peasant Popular Union (LVLS),13,LT-5-13-v,LT-5-13-v,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT,5,prtvlt2,Party Order and Justice (TT),14,LT-5-14-v,LT-5-14-v,1193,LTU,LiCS,Liberalų ir centro sąjunga,Liberal and Centre Union,
 LT,5,prtvlt2,Liberal and Centre Union (LiCS),15,LT-5-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
-LT,5,prtvlt2,Liberal and Centre Union (LiCS),15,LT-5-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,5,prtvlt2,Party 'Young Lithuania' (JL),16,LT-5-16-v,LT-5-16-v,8258,LTU,LSDS,Lietuvos socialdemokratų sąjunga,Lithuanian Social Democratic Union,
 LT,5,prtvlt2,Lithuanian Social Democratic Union (LSDS),17,LT-5-17-v,LT-5-16-v,8258,LTU,LSDS,Lietuvos socialdemokratų sąjunga,Lithuanian Social Democratic Union,
 LT,5,prtvlt2,Independent/Self-Nominated,20,LT-5-20-v,LT-5-20-v,3047,LTU,tech,technical,technical,12
@@ -4050,7 +3968,6 @@ LT,5,prtvlt3,Labour Party (DP),10,LT-5-10-v,LT-5-10-v,8279,LTU,KDJ,Koalicija Dar
 LT,5,prtvlt3,Liberals' Movement of the Republic of Lithuania (LRLS),12,LT-5-12-v,LT-5-12-v,1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
 LT,5,prtvlt3,Lithuanian Peasant Popular Union (LVLS),13,LT-5-13-v,LT-5-13-v,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT,5,prtvlt3,Party Order and Justice (TT),14,LT-5-14-v,LT-5-14-v,1193,LTU,LiCS,Liberalų ir centro sąjunga,Liberal and Centre Union,
-LT,5,prtvlt3,Liberal and Centre Union (LiCS),15,LT-5-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,5,prtvlt3,Liberal and Centre Union (LiCS),15,LT-5-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,5,prtvlt3,Party 'Young Lithuania' (JL),16,LT-5-16-v,LT-5-16-v,8258,LTU,LSDS,Lietuvos socialdemokratų sąjunga,Lithuanian Social Democratic Union,
 LT,5,prtvlt3,Lithuanian Social Democratic Union (LSDS),17,LT-5-17-v,LT-5-16-v,8258,LTU,LSDS,Lietuvos socialdemokratų sąjunga,Lithuanian Social Democratic Union,
@@ -4091,7 +4008,6 @@ LT,6,prtvalt1,National Association 'For Lithuania in Lithuania' (ULL),10,LT-6-10
 LT,6,prtvalt1,Christian Party (KP),11,LT-6-11-v,LT-6-11-v,8254,LTU,KP,Krikščionių partija,Christian Party,
 LT,6,prtvalt1,Socialist People's Front (SLF),13,LT-6-13-v,LT-5-3-v,1250,LTU,F/SLF,Fronto partija / Socialistinis liaudies frontas,Front Party / Socialist People's Front,
 LT,6,prtvalt1,Lithuanian Peasant and Greens Union (LVZS),14,LT-6-14-v,LT-5-12-v,1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
-LT,6,prtvalt1,Party 'Young Lithuania' (JL),15,LT-6-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,6,prtvalt1,Party 'Young Lithuania' (JL),15,LT-6-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,6,prtvalt1,Liberal and Centre Union (LiCS),16,LT-6-16-v,LT-5-14-v,1193,LTU,LiCS,Liberalų ir centro sąjunga,Liberal and Centre Union,
 LT,6,prtvalt1,Political Party 'Union Yes' (ST),18,LT-6-18-v,LT-6-18-v,1806,LTU,TAIP,Tėvynės atgimimas ir perspektyva,YES — Homeland Revival and Perspective,
@@ -4170,7 +4086,6 @@ LT,7,prtvalt1,Lithuanian People's Party (LZP),12,LT-7-12-v,LT-7-12-v,8256,LTU,LL
 LT,7,prtvalt1,Socialist People's Front (SLF),13,LT-7-13-v,LT-5-3-v,1250,LTU,F/SLF,Fronto partija / Socialistinis liaudies frontas,Front Party / Socialist People's Front,
 LT,7,prtvalt1,Lithuanian Peasant and Greens Union (LVZS),14,LT-7-14-v,LT-5-12-v,1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
 LT,7,prtvalt1,Party 'Young Lithuania' (JL),15,LT-7-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
-LT,7,prtvalt1,Party 'Young Lithuania' (JL),15,LT-7-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,7,prtvalt1,Liberal and Centre Union (LiCS),16,LT-7-16-v,LT-5-14-v,1193,LTU,LiCS,Liberalų ir centro sąjunga,Liberal and Centre Union,
 LT,7,prtvalt1,Political Party 'Union Yes' (ST),18,LT-7-18-v,LT-6-18-v,1806,LTU,TAIP,Tėvynės atgimimas ir perspektyva,YES — Homeland Revival and Perspective,
 LT,7,prtvalt1,Did not vote for a multi-member nationwide candidate list,44,LT-7-44-v,LT-5-44-v,3047,LTU,tech,technical,technical,12
@@ -4187,7 +4102,6 @@ LT,7,prtvalt2,Party Order and Justice (TT),9,LT-7-9-v,LT-5-13-v,237,LTU,TT — L
 LT,7,prtvalt2,Lithuanian Centre Party (LCP),10,LT-7-10-v,LT-6-10-v,8257,LTU,ULL,Už Lietuvą Lietuvoje,For Lithuania in Lithuania,
 LT,7,prtvalt2,Lithuanian Social Democratic Union (LSDS),11,LT-7-11-v,LT-6-11-v,8254,LTU,KP,Krikščionių partija,Christian Party,
 LT,7,prtvalt2,National Unity Union (TVS),13,LT-7-13-v,LT-5-3-v,1250,LTU,F/SLF,Fronto partija / Socialistinis liaudies frontas,Front Party / Socialist People's Front,
-LT,7,prtvalt2,Lithuanian People's Party (LZP),15,LT-7-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,7,prtvalt2,Lithuanian People's Party (LZP),15,LT-7-15-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,7,prtvalt2,Lithuanian Peasant and Greens Union (LVZS),17,LT-7-17-v,LT-5-12-v,1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
 LT,7,prtvalt2,Party 'Young Lithuania' (JL),18,LT-7-18-v,LT-6-18-v,1806,LTU,TAIP,Tėvynės atgimimas ir perspektyva,YES — Homeland Revival and Perspective,
@@ -4301,7 +4215,6 @@ LT,9,prtvblt1,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v,LT-5-1-v,64,L
 LT,9,prtvblt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v,LT-5-5-v,193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,
 LT,9,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v,LT-5-18-v,5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
 LT,9,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-9-4-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
-LT,9,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-9-4-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,9,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-9-4-v,LT-8-4-v,2501,LTU,1-perc,1 percent,1 percent,11
 LT,9,prtvblt1,Party Order and Justice (TT),5,LT-9-5-v,LT-5-13-v,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT,9,prtvblt1,Lithuanian Peasant and Greens Union (LVZS),6,LT-9-6-v,LT-5-13-v,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
@@ -4328,7 +4241,6 @@ LT,9,prtvblt2,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v,LT-5-1-v,64,L
 LT,9,prtvblt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v,LT-5-5-v,193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,
 LT,9,prtvblt2,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v,LT-5-18-v,5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
 LT,9,prtvblt2,Party 'Young Lithuania' (JL),4,LT-9-4-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
-LT,9,prtvblt2,Party 'Young Lithuania' (JL),4,LT-9-4-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,9,prtvblt2,Party 'Young Lithuania' (JL),4,LT-9-4-v,LT-8-4-v,2501,LTU,1-perc,1 percent,1 percent,11
 LT,9,prtvblt2,Nationalist Union (TS),5,LT-9-5-v,LT-5-13-v,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT,9,prtvblt2,Party Order and Justice (TT),6,LT-9-6-v,LT-5-13-v,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
@@ -4354,7 +4266,6 @@ LT,9,prtvblt2,Don't know if voted for a single-member constituency candidate lis
 LT,9,prtvblt3,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v,LT-5-1-v,64,LTU,LSDP,Lietuvos socialdemokratų partija,Lithuanian Social Democratic Party,
 LT,9,prtvblt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v,LT-5-5-v,193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,
 LT,9,prtvblt3,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v,LT-5-18-v,5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
-LT,9,prtvblt3,Party 'Young Lithuania' (JL),4,LT-9-4-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,9,prtvblt3,Party 'Young Lithuania' (JL),4,LT-9-4-v,LT-5-15-v,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,9,prtvblt3,Party 'Young Lithuania' (JL),4,LT-9-4-v,LT-8-4-v,2501,LTU,1-perc,1 percent,1 percent,11
 LT,9,prtvblt3,Nationalist Union (TS),5,LT-9-5-v,LT-5-13-v,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,

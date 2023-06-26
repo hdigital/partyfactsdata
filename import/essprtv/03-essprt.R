@@ -3,6 +3,7 @@ conflicts_prefer(dplyr::filter, .quiet = TRUE)
 
 library(tidyverse)
 library(glue)
+library(countrycode)
 
 
 raw_ess_clean <- read_csv("02-ess-harmonize.csv", na = "", show_col_types = FALSE)
@@ -77,8 +78,17 @@ prt_out <-
   prt |>
   distinct(first_ess_id) |>
   inner_join(prt_info, by = "first_ess_id") |>
-  inner_join(pf_party, by = "first_ess_id") |>
-  relocate(partyfacts_id, .before = country)
+  left_join(pf_party, by = "first_ess_id") |>
+  relocate(partyfacts_id, .before = country) |> 
+  mutate(
+    country_short = str_extract(first_ess_id, "[:alpha:]{2}"),
+    country = if_else(
+      is.na(country),
+      countrycode(country_short, "iso2c", "iso3c", custom_match = c("XK" = "XKX")),
+      country
+    )
+  ) |> 
+  select(-country_short)
 
 
 ## Check duplicates ----
