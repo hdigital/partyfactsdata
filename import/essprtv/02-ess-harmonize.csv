@@ -2573,18 +2573,18 @@ FR,10,prtvtefr,FN (Front National),11,FR-10-11-v,FR-1-3-v,FRA
 FR,10,prtvtefr,Autre,12,FR-10-12-v,FR-1-16-v,FRA
 FR,10,prtvtefr,Blanc,13,FR-10-13-v,FR-3-17-v,FRA
 FR,10,prtvtefr,Nul,14,FR-10-14-v,FR-4-18-v,FRA
-FR,10,prtclffr,LO (Lutte Ouvrière),1,FR-10-1-c,FR-1-5-v,FRA
-FR,10,prtclffr,NPA (Nouveau Parti Anti-Capitaliste),2,FR-10-2-c,FR-6-4-v,FRA
-FR,10,prtclffr,PCF (Parti Communiste Français),3,FR-10-3-c,FR-1-9-v,FRA
-FR,10,prtclffr,FI (La France Insoumise),4,FR-10-4-c,FR-9-4-v,FRA
-FR,10,prtclffr,PS (Parti Socialiste),5,FR-10-5-c,FR-1-10-v,FRA
-FR,10,prtclffr,EELV (Europe Ecologie Les Verts),6,FR-10-6-c,FR-6-12-v,FRA
-FR,10,prtclffr,LREM (La République en Marche),7,FR-10-7-c,FR-9-7-v,FRA
-FR,10,prtclffr,MODEM (Mouvement Démocrate),8,FR-10-8-c,FR-4-10-v,FRA
-FR,10,prtclffr,LR (Les Républicains),9,FR-10-9-c,FR-9-9-v,FRA
-FR,10,prtclffr,Debout la France,10,FR-10-10-c,FR-9-10-v,FRA
-FR,10,prtclffr,FN (Front National),11,FR-10-11-c,FR-1-3-v,FRA
-FR,10,prtclffr,Autre,12,FR-10-12-c,FR-1-16-v,FRA
+FR,10,prtclffr,LO (Lutte Ouvrière),1,FR-10-1-c,FR-1-5-c,FRA
+FR,10,prtclffr,NPA (Nouveau Parti Anti-Capitaliste),2,FR-10-2-c,FR-6-4-c,FRA
+FR,10,prtclffr,PCF (Parti Communiste Français),3,FR-10-3-c,FR-1-9-c,FRA
+FR,10,prtclffr,FI (La France Insoumise),4,FR-10-4-c,FR-9-4-c,FRA
+FR,10,prtclffr,PS (Parti Socialiste),5,FR-10-5-c,FR-1-10-c,FRA
+FR,10,prtclffr,EELV (Europe Ecologie Les Verts),6,FR-10-6-c,FR-5-10-c,FRA
+FR,10,prtclffr,LREM (La République en Marche),7,FR-10-7-c,FR-9-7-c,FRA
+FR,10,prtclffr,MODEM (Mouvement Démocrate),8,FR-10-8-c,FR-4-12-c,FRA
+FR,10,prtclffr,LR (Les Républicains),9,FR-10-9-c,FR-8-12-c,FRA
+FR,10,prtclffr,Debout la France,10,FR-10-10-c,FR-9-10-c,FRA
+FR,10,prtclffr,FN (Front National),11,FR-10-11-c,FR-1-3-c,FRA
+FR,10,prtclffr,Autre,12,FR-10-12-c,FR-1-16-c,FRA
 GB,1,prtvtgb,Conservative,1,GB-1-1-v,GB-1-1-v,GBR
 GB,1,prtvtgb,Labour,2,GB-1-2-v,GB-1-2-v,GBR
 GB,1,prtvtgb,Liberal Democrat,3,GB-1-3-v,GB-1-3-v,GBR
@@ -3882,7 +3882,7 @@ IT,10,prtvtdit,SVP-PATT,14,IT-10-14-v,IT-9-5-v,ITA
 IT,10,prtvtdit,Altro,31,IT-10-31-v,IT-1-17-v,ITA
 IT,10,prtvtdit,Blank vote,32,IT-10-32-v,IT-10-32-v,ITA
 IT,10,prtcleit,Movimento 5 Stelle,1,IT-10-1-c,IT-6-4-c,ITA
-IT,10,prtcleit,Partido Democratico,2,IT-10-2-c,IT-6-1-v,ITA
+IT,10,prtcleit,Partido Democratico,2,IT-10-2-c,IT-6-1-c,ITA
 IT,10,prtcleit,Lega,3,IT-10-3-c,IT-1-11-c,ITA
 IT,10,prtcleit,Forza Italia,4,IT-10-4-c,IT-1-8-c,ITA
 IT,10,prtcleit,Fratelli d'Italia con Giorgia Meloni,5,IT-10-5-c,IT-6-10-c,ITA
@@ -4288,7 +4288,7 @@ LT,9,prtclblt,Lithuanian Greens Party (LZP),9,LT-9-9-c,LT-6-25-c,LTU
 LT,9,prtclblt,Political Party 'The Way of Courage' (DK),12,LT-9-12-c,LT-6-6-c,LTU
 LT,9,prtclblt,Lithuanian Centre Party (LCP),13,LT-9-13-c,LT-5-4-c,LTU
 LT,9,prtclblt,Lithuanian Pensioners' Party (LPP),14,LT-9-14-c,LT-6-23-c,LTU
-LT,9,prtclblt,Party 'Young Lithuania' (JL),15,LT-9-15-c,LT-5-15-v,LTU
+LT,9,prtclblt,Party 'Young Lithuania' (JL),15,LT-9-15-c,LT-5-16-c,LTU
 LT,9,prtclblt,Other,17,LT-9-17-c,LT-5-20-c,LTU
 LT,10,prtvclt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-10-5-v,LT-5-5-v,LTU
 LT,10,prtvclt3,National Alliance (NS),7,LT-10-7-v,LT-10-7-v,LTU

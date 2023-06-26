@@ -276,8 +276,6 @@ R6 --- prtvtcbg --- Kandidati, izdignati ot Initsiativni komiteti",2633,BGR,inde
 BG-6-4-v,"PP Red, zakonnost i spravedlivost (RZS)",2012,2012,BG-6-4-v,"R6 --- prtvtcbg --- PP Red, zakonnost i spravedlivost (RZS)",2635,BGR,1-perc,1 percent,1 percent,11
 BG-6-5-v,PP VMRO – Balgarsko natsionalno dvizhenie,2012,2020,BG-6-5-v BG-10-6-v,"R6 --- prtvtcbg --- PP VMRO – Balgarsko natsionalno dvizhenie
 R10 --- prtvtebg --- PP VMRO – Balgarsko natsionalno dvizhenie",2056,BGR,IMRO,VMRO — Bulgarsko Natsionalno Dvizhenie,IMRO — Bulgarian National Movement,
-BG-6-5-v,PP VMRO – Balgarsko natsionalno dvizhenie,2012,2020,BG-6-5-v BG-10-6-v,"R6 --- prtvtcbg --- PP VMRO – Balgarsko natsionalno dvizhenie
-R10 --- prtvtebg --- PP VMRO – Balgarsko natsionalno dvizhenie",2056,BGR,IMRO,VMRO — Bulgarsko Natsionalno Dvizhenie,IMRO — Bulgarian National Movement,
 BG-6-6-v,PP BZNS,2012,2012,BG-6-6-v,R6 --- prtvtcbg --- PP BZNS,2060,BGR,BZNS,Balgarski Zemedelski Naroden Sayuz,Bulgarian Agrarian National Union,
 BG-6-7-v,PP Natsionalen front za dpasenie na Bulgaria,2012,2012,BG-6-7-v,R6 --- prtvtcbg --- PP Natsionalen front za dpasenie na Bulgaria,2057,BGR,NFSB,Natzionalen Front za Spasenie na Bulgaria,National Front for the Salvation of Bulgaria,
 BG-6-9-v,PP Natsionalno dvizhenie Edinstvo,2012,2012,BG-6-9-v,R6 --- prtvtcbg --- PP Natsionalno dvizhenie Edinstvo,2635,BGR,1-perc,1 percent,1 percent,11
@@ -289,8 +287,6 @@ BG-9-6-v,Reformatorski blok - Glas Naroden,2018,2018,BG-9-6-v,R9 --- prtvtdbg --
 BG-9-8-v,Obedinenie DOST,2018,2018,BG-9-8-v,R9 --- prtvtdbg --- Obedinenie DOST,5860,BGR,DOST,"Demokrati za Otgovornost, Svoboda i Tolerantnost","Democrats for Responsibility, Solidarity and Tolerance",
 BG-9-9-v,Nova republika - DSB - Suyuz za Plovdiv - BDO,2018,2018,BG-9-9-v,R9 --- prtvtdbg --- Nova republika - DSB - Suyuz za Plovdiv - BDO,3908,BGR,ally,alliance,alliance,15
 BG-9-10-v,Koalitsiya ABV – Dvizhenie 21,2018,2018,BG-9-10-v,R9 --- prtvtdbg --- Koalitsiya ABV – Dvizhenie 21,3908,BGR,ally,alliance,alliance,15
-BG-9-11-v,Vuzrazhdane,2018,2020,BG-9-11-v BG-10-9-v,"R9 --- prtvtdbg --- Vuzrazhdane
-R10 --- prtvtebg --- Vazrazhdane",5862,BGR,R,Vazrazhdane,Revival,
 BG-9-11-v,Vuzrazhdane,2018,2020,BG-9-11-v BG-10-9-v,"R9 --- prtvtdbg --- Vuzrazhdane
 R10 --- prtvtebg --- Vazrazhdane",5862,BGR,R,Vazrazhdane,Revival,
 BG-9-13-v,Invalid,2018,2018,BG-9-13-v,R9 --- prtvtdbg --- Invalid,3008,BGR,tech,technical,technical,12
@@ -1198,31 +1194,11 @@ R7 --- prtvtcfr --- FN (Front National)
 R8 --- prtvtcfr --- FN (Front National)
 R9 --- prtvtdfr --- FN (Front National)
 R10 --- prtvtefr --- FN (Front National)",433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR-1-3-v,FN (Front National),2002,2020,FR-1-3-v FR-2-3-v FR-3-3-v FR-4-2-v FR-5-2-v FR-6-2-v FR-7-2-v FR-8-2-v FR-9-11-v FR-10-11-v,"R1 --- prtvtfr --- FN (Front National)
-R2 --- prtvtfr --- FN (Front National)
-R3 --- prtvtafr --- FN (Front national)
-R4 --- prtvtbfr --- FN (Front National)
-R5 --- prtvtbfr --- FN (Front National)
-R6 --- prtvtcfr --- FN (Front National)
-R7 --- prtvtcfr --- FN (Front National)
-R8 --- prtvtcfr --- FN (Front National)
-R9 --- prtvtdfr --- FN (Front National)
-R10 --- prtvtefr --- FN (Front National)",433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR-1-4-v,LCR (ligue communiste révolutionnaire),2002,2010,FR-1-4-v FR-2-4-v FR-3-4-v FR-4-3-v FR-5-3-v,"R1 --- prtvtfr --- LCR (ligue communiste révolutionnaire)
 R2 --- prtvtfr --- LCR (ligue communiste révolutionnaire)
 R3 --- prtvtafr --- LCR (Ligue communiste révolutionnaire)
 R4 --- prtvtbfr --- LCR (Ligue Communiste Révolutionnaire)
 R5 --- prtvtbfr --- LCR (Ligue Communiste Révolutionnaire)",1506,FRA,LCR,Ligue communiste révolutionnaire,Revolutionary Communist League,
-FR-1-5-v,LO (Lutte ouvrière),2002,2020,FR-1-5-v FR-2-5-v FR-3-5-v FR-4-4-v FR-5-4-v FR-6-5-v FR-7-5-v FR-8-5-v FR-9-1-v FR-10-1-v,"R1 --- prtvtfr --- LO (Lutte ouvrière)
-R2 --- prtvtfr --- LO (Lutte ouvrière)
-R3 --- prtvtafr --- LO (Lutte ouvrière)
-R4 --- prtvtbfr --- LO (Lutte Ouvrière)
-R5 --- prtvtbfr --- LO (Lutte Ouvrière)
-R6 --- prtvtcfr --- LO (Lutte Ouvrière)
-R7 --- prtvtcfr --- LO (Lutte Ouvrière)
-R8 --- prtvtcfr --- LO (Lutte Ouvrière)
-R9 --- prtvtdfr --- LO (Lutte Ouvrière)
-R10 --- prtvtefr --- LO (Lutte Ouvrière)",617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR-1-5-v,LO (Lutte ouvrière),2002,2020,FR-1-5-v FR-2-5-v FR-3-5-v FR-4-4-v FR-5-4-v FR-6-5-v FR-7-5-v FR-8-5-v FR-9-1-v FR-10-1-v,"R1 --- prtvtfr --- LO (Lutte ouvrière)
 R2 --- prtvtfr --- LO (Lutte ouvrière)
 R3 --- prtvtafr --- LO (Lutte ouvrière)
@@ -1254,23 +1230,6 @@ R4 --- prtvtbfr --- PC (Parti Communiste)
 R5 --- prtvtbfr --- PC (Parti Communiste)
 R9 --- prtvtdfr --- PCF (Parti Communiste Français)
 R10 --- prtvtefr --- PCF (Parti Communiste Français)",1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR-1-9-v,PC (Parti communiste),2002,2020,FR-1-9-v FR-2-9-v FR-3-9-v FR-4-7-v FR-5-7-v FR-9-3-v FR-10-3-v,"R1 --- prtvtfr --- PC (Parti communiste)
-R2 --- prtvtfr --- PC (Parti communiste)
-R3 --- prtvtafr --- PC (Parti communiste)
-R4 --- prtvtbfr --- PC (Parti Communiste)
-R5 --- prtvtbfr --- PC (Parti Communiste)
-R9 --- prtvtdfr --- PCF (Parti Communiste Français)
-R10 --- prtvtefr --- PCF (Parti Communiste Français)",1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR-1-10-v,PS (Parti Socialiste),2002,2020,FR-1-10-v FR-2-10-v FR-3-10-v FR-4-8-v FR-5-8-v FR-6-9-v FR-7-9-v FR-8-9-v FR-9-5-v FR-10-5-v,"R1 --- prtvtfr --- PS (Parti Socialiste)
-R2 --- prtvtfr --- PS (Parti Socialiste)
-R3 --- prtvtafr --- PS (Parti socialiste)
-R4 --- prtvtbfr --- PS (Parti Socialiste)
-R5 --- prtvtbfr --- PS (Parti Socialiste)
-R6 --- prtvtcfr --- PS (Parti Socialiste)
-R7 --- prtvtcfr --- PS (Parti Socialiste)
-R8 --- prtvtcfr --- PS (Parti Socialiste)
-R9 --- prtvtdfr --- PS (Parti Socialiste)
-R10 --- prtvtefr --- PS (Parti Socialiste)",1478,FRA,PS,Parti socialiste,Socialist Party,
 FR-1-10-v,PS (Parti Socialiste),2002,2020,FR-1-10-v FR-2-10-v FR-3-10-v FR-4-8-v FR-5-8-v FR-6-9-v FR-7-9-v FR-8-9-v FR-9-5-v FR-10-5-v,"R1 --- prtvtfr --- PS (Parti Socialiste)
 R2 --- prtvtfr --- PS (Parti Socialiste)
 R3 --- prtvtafr --- PS (Parti socialiste)
@@ -1317,16 +1276,6 @@ R7 --- prtvtcfr --- Autre
 R8 --- prtvtcfr --- Autre
 R9 --- prtvtdfr --- Autre
 R10 --- prtvtefr --- Autre",1898,FRA,etc,other,other,7
-FR-1-16-v,Autre,2002,2020,FR-1-16-v FR-2-16-v FR-3-16-v FR-4-16-v FR-5-16-v FR-6-14-v FR-7-14-v FR-8-14-v FR-9-12-v FR-10-12-v,"R1 --- prtvtfr --- Autre
-R2 --- prtvtfr --- Autre
-R3 --- prtvtafr --- Autre
-R4 --- prtvtbfr --- Autre
-R5 --- prtvtbfr --- Autre
-R6 --- prtvtcfr --- Autre
-R7 --- prtvtcfr --- Autre
-R8 --- prtvtcfr --- Autre
-R9 --- prtvtdfr --- Autre
-R10 --- prtvtefr --- Autre",1898,FRA,etc,other,other,7
 FR-3-11-v,RPF (Rassemblement du peuple français),2006,2006,FR-3-11-v,R3 --- prtvtafr --- RPF (Rassemblement du peuple français),2689,FRA,unknown,unknown,unknown,10
 FR-3-17-v,Blanc,2006,2020,FR-3-17-v FR-4-17-v FR-5-17-v FR-6-15-v FR-7-15-v FR-8-15-v FR-10-13-v,"R3 --- prtvtafr --- Blanc
 R4 --- prtvtbfr --- Blanc
@@ -1352,13 +1301,6 @@ R7 --- prtvtcfr --- MODEM (Mouvement Démocrate)
 R8 --- prtvtcfr --- MODEM (Mouvement Démocrate)
 R9 --- prtvtdfr --- MODEM (Mouvement Démocrate)
 R10 --- prtvtefr --- MODEM (Mouvement Démocrate)",496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
-FR-4-10-v,UDF-MoDem (Mouvement Democrate),2008,2020,FR-4-10-v FR-5-10-v FR-6-11-v FR-7-11-v FR-8-11-v FR-9-8-v FR-10-8-v,"R4 --- prtvtbfr --- UDF-MoDem (Mouvement Democrate)
-R5 --- prtvtbfr --- UDF-MoDem (Mouvement Democrate)
-R6 --- prtvtcfr --- MODEM (Mouvement Démocrate)
-R7 --- prtvtcfr --- MODEM (Mouvement Démocrate)
-R8 --- prtvtcfr --- MODEM (Mouvement Démocrate)
-R9 --- prtvtdfr --- MODEM (Mouvement Démocrate)
-R10 --- prtvtefr --- MODEM (Mouvement Démocrate)",496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR-4-14-v,Divers gauche,2008,2010,FR-4-14-v FR-5-14-v,"R4 --- prtvtbfr --- Divers gauche
 R5 --- prtvtbfr --- Divers gauche",126,FRA,d-g,divers gauche,other left,
 FR-4-15-v,Divers droite,2008,2010,FR-4-15-v FR-5-15-v,"R4 --- prtvtbfr --- Divers droite
@@ -1377,11 +1319,6 @@ R7 --- prtvtcfr --- NPA (Nouveau Parti Anti-Capitaliste)
 R8 --- prtvtcfr --- NPA (Nouveau Parti Anti-Capitaliste)
 R9 --- prtvtdfr --- NPA (Nouveau Parti Anti-Capitaliste)
 R10 --- prtvtefr --- NPA (Nouveau Parti Anti-Capitaliste)",2536,FRA,1-perc,1 percent,1 percent,11
-FR-6-4-v,NPA (Nouveau Parti Anti-Capitaliste),2012,2020,FR-6-4-v FR-7-4-v FR-8-4-v FR-9-2-v FR-10-2-v,"R6 --- prtvtcfr --- NPA (Nouveau Parti Anti-Capitaliste)
-R7 --- prtvtcfr --- NPA (Nouveau Parti Anti-Capitaliste)
-R8 --- prtvtcfr --- NPA (Nouveau Parti Anti-Capitaliste)
-R9 --- prtvtdfr --- NPA (Nouveau Parti Anti-Capitaliste)
-R10 --- prtvtefr --- NPA (Nouveau Parti Anti-Capitaliste)",2536,FRA,1-perc,1 percent,1 percent,11
 FR-6-6-v,FDG (Front de Gauche),2012,2016,FR-6-6-v FR-7-6-v FR-8-6-v,"R6 --- prtvtcfr --- FDG (Front de Gauche)
 R7 --- prtvtcfr --- FDG (Front de Gauche)
 R8 --- prtvtcfr --- FDG (Front de Gauche)",4363,FRA,FDG,Front de Gauche,Left Front,
@@ -1390,25 +1327,12 @@ R7 --- prtvtcfr --- EELV (Europe Ecologie Les Verts)
 R8 --- prtvtcfr --- EELV (Europe Ecologie Les Verts)
 R9 --- prtvtdfr --- EELV (Europe Ecologie Les Verts)
 R10 --- prtvtefr --- EELV (Europe Ecologie Les Verts)",5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
-FR-6-12-v,EELV (Europe Ecologie Les Verts),2012,2020,FR-6-12-v FR-7-12-v FR-8-12-v FR-9-6-v FR-10-6-v,"R6 --- prtvtcfr --- EELV (Europe Ecologie Les Verts)
-R7 --- prtvtcfr --- EELV (Europe Ecologie Les Verts)
-R8 --- prtvtcfr --- EELV (Europe Ecologie Les Verts)
-R9 --- prtvtdfr --- EELV (Europe Ecologie Les Verts)
-R10 --- prtvtefr --- EELV (Europe Ecologie Les Verts)",5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
-FR-9-4-v,FI (La France Insoumise),2018,2020,FR-9-4-v FR-10-4-v,"R9 --- prtvtdfr --- FI (La France Insoumise)
-R10 --- prtvtefr --- FI (La France Insoumise)",5858,FRA,FI,La France Insoumise,Unbowed France,
 FR-9-4-v,FI (La France Insoumise),2018,2020,FR-9-4-v FR-10-4-v,"R9 --- prtvtdfr --- FI (La France Insoumise)
 R10 --- prtvtefr --- FI (La France Insoumise)",5858,FRA,FI,La France Insoumise,Unbowed France,
 FR-9-7-v,LREM (La République en Marche),2018,2020,FR-9-7-v FR-10-7-v,"R9 --- prtvtdfr --- LREM (La République en Marche)
 R10 --- prtvtefr --- LREM (La République en Marche)",5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
-FR-9-7-v,LREM (La République en Marche),2018,2020,FR-9-7-v FR-10-7-v,"R9 --- prtvtdfr --- LREM (La République en Marche)
-R10 --- prtvtefr --- LREM (La République en Marche)",5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
 FR-9-9-v,LR (Les Républicains),2018,2020,FR-9-9-v FR-10-9-v,"R9 --- prtvtdfr --- LR (Les Républicains)
 R10 --- prtvtefr --- LR (Les Républicains)",8168,FRA,LR,Les Républicains,The Republicans,
-FR-9-9-v,LR (Les Républicains),2018,2020,FR-9-9-v FR-10-9-v,"R9 --- prtvtdfr --- LR (Les Républicains)
-R10 --- prtvtefr --- LR (Les Républicains)",8168,FRA,LR,Les Républicains,The Republicans,
-FR-9-10-v,Debout la France,2018,2020,FR-9-10-v FR-10-10-v,"R9 --- prtvtdfr --- Debout la France
-R10 --- prtvtefr --- Debout la France",3207,FRA,DLF,Debout la France,France Arise,
 FR-9-10-v,Debout la France,2018,2020,FR-9-10-v FR-10-10-v,"R9 --- prtvtdfr --- Debout la France
 R10 --- prtvtefr --- Debout la France",3207,FRA,DLF,Debout la France,France Arise,
 GB-1-1-v,Conservative,2002,2020,GB-1-1-v GB-2-1-v GB-3-1-v GB-4-1-v GB-5-1-v GB-6-1-v GB-7-1-v GB-8-1-v GB-9-1-v GB-10-1-v,"R1 --- prtvtgb --- Conservative
@@ -1985,10 +1909,6 @@ IT-6-1-v,Partido Democratico (PD),2012,2020,IT-6-1-v IT-8-1-v IT-9-1-v IT-10-2-v
 R8 --- prtvtbit --- Partido Democratico (PD)
 R9 --- prtvtcit --- Partido Democratico (PD)
 R10 --- prtvtdit --- Partido Democratico (PD)",802,ITA,PD,Partito Democratico,Democratic Party,
-IT-6-1-v,Partido Democratico (PD),2012,2020,IT-6-1-v IT-8-1-v IT-9-1-v IT-10-2-v,"R6 --- prtvtbit --- Partido Democratico (PD)
-R8 --- prtvtbit --- Partido Democratico (PD)
-R9 --- prtvtcit --- Partido Democratico (PD)
-R10 --- prtvtdit --- Partido Democratico (PD)",802,ITA,PD,Partito Democratico,Democratic Party,
 IT-6-2-v,Sinistra Ecologia e Libertà (SEL),2012,2016,IT-6-2-v IT-8-2-v,"R6 --- prtvtbit --- Sinistra Ecologia e Libertà (SEL)
 R8 --- prtvtbit --- Sinistra Ecologia e Libertà (SEL)",1212,ITA,SI,Sinistra Italiana,Italian Left,
 IT-6-3-v,Rivoluzione Civile (Ingroia),2012,2016,IT-6-3-v IT-8-3-v,"R6 --- prtvtbit --- Rivoluzione Civile (Ingroia)
@@ -2014,7 +1934,7 @@ R8 --- prtvtbit --- La destra",2415,ITA,1-perc,1 percent,1 percent,11
 IT-8-7-v,FLI,2016,2016,IT-8-7-v,R8 --- prtvtbit --- FLI,1179,ITA,FLI,Futuro e libertà per l'Italia,Future and Freedom for Italy,
 IT-8-11-v,Radicali Italiani (Amnistia giustizia e libertà),2016,2016,IT-8-11-v,R8 --- prtvtbit --- Radicali Italiani (Amnistia giustizia e libertà),8248,ITA,RI,Radicali Italiani,Italian Radicals,
 IT-9-2-v,#NAME?,2018,2020,IT-9-2-v IT-10-7-v,"R9 --- prtvtcit --- #NAME?
-R10 --- prtvtdit --- #NAME?",6155,ITA,+E,Più Europa,More Europe,
+R10 --- prtvtdit --- #NAME?",6155,ITA,#NAME?,Più Europa,More Europe,
 IT-9-3-v,Italia Europa Insieme,2018,2020,IT-9-3-v IT-10-11-v,"R9 --- prtvtcit --- Italia Europa Insieme
 R10 --- prtvtdit --- Italia Europa Insieme",7671,ITA,IEI,Insieme,Together,
 IT-9-4-v,Civia Popolare Lorenzin,2018,2018,IT-9-4-v,R9 --- prtvtcit --- Civia Popolare Lorenzin,7670,ITA,CP,Civica Popolare,Popular Civic List,
@@ -2158,15 +2078,6 @@ R7 --- prtvalt3 --- Socialist People's Front (SLF)
 R7 --- prtvalt3 --- Liberal and Centre Union (LiCS)
 R7 --- prtvalt2 --- Liberal and Centre Union (LiCS)
 R7 --- prtvalt1 --- Liberal and Centre Union (LiCS)",1193,LTU,LiCS,Liberalų ir centro sąjunga,Liberal and Centre Union,
-LT-5-15-v,Liberal and Centre Union (LiCS),2010,2018,LT-5-15-v LT-5-15-v LT-5-15-v LT-6-15-v LT-7-15-v LT-7-15-v LT-9-4-v LT-9-4-v LT-9-4-v,"R5 --- prtvlt3 --- Liberal and Centre Union (LiCS)
-R5 --- prtvlt2 --- Liberal and Centre Union (LiCS)
-R5 --- prtvlt1 --- Party 'Young Lithuania' (JL)
-R6 --- prtvalt1 --- Party 'Young Lithuania' (JL)
-R7 --- prtvalt2 --- Lithuanian People's Party (LZP)
-R7 --- prtvalt1 --- Party 'Young Lithuania' (JL)
-R9 --- prtvblt3 --- Party 'Young Lithuania' (JL)
-R9 --- prtvblt2 --- Party 'Young Lithuania' (JL)
-R9 --- prtvblt1 --- Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover",1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT-5-15-v,Liberal and Centre Union (LiCS),2010,2018,LT-5-15-v LT-5-15-v LT-5-15-v LT-6-15-v LT-7-15-v LT-7-15-v LT-9-4-v LT-9-4-v LT-9-4-v,"R5 --- prtvlt3 --- Liberal and Centre Union (LiCS)
 R5 --- prtvlt2 --- Liberal and Centre Union (LiCS)
 R5 --- prtvlt1 --- Party 'Young Lithuania' (JL)

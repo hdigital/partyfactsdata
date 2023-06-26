@@ -1049,23 +1049,13 @@ R10 --- prtclffi --- The Liberal Party - Freedom to
 Choose",2687,FIN,1-perc,1 percent,1 percent,11
 FI-9-13-c,Feminist Party,2018,2020,FI-9-13-c FI-10-13-c,"R9 --- prtclefi --- Feminist Party
 R10 --- prtclffi --- Feminist Party",2687,FIN,1-perc,1 percent,1 percent,11
-FR-1-3-v,FN (Front National),2020,2020,FR-10-11-c,R10 --- prtclffr --- FN (Front National),433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR-1-3-v,FN (Front National),2020,2020,FR-10-11-c,R10 --- prtclffr --- FN (Front National),433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
-FR-1-5-v,LO (Lutte Ouvrière),2020,2020,FR-10-1-c,R10 --- prtclffr --- LO (Lutte Ouvrière),617,FRA,LO,Lutte ouvrière,Workers' Struggle,
-FR-1-5-v,LO (Lutte Ouvrière),2020,2020,FR-10-1-c,R10 --- prtclffr --- LO (Lutte Ouvrière),617,FRA,LO,Lutte ouvrière,Workers' Struggle,
-FR-1-9-v,PCF (Parti Communiste Français),2020,2020,FR-10-3-c,R10 --- prtclffr --- PCF (Parti Communiste Français),1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR-1-9-v,PCF (Parti Communiste Français),2020,2020,FR-10-3-c,R10 --- prtclffr --- PCF (Parti Communiste Français),1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR-1-10-v,PS (Parti Socialiste),2020,2020,FR-10-5-c,R10 --- prtclffr --- PS (Parti Socialiste),1478,FRA,PS,Parti socialiste,Socialist Party,
-FR-1-10-v,PS (Parti Socialiste),2020,2020,FR-10-5-c,R10 --- prtclffr --- PS (Parti Socialiste),1478,FRA,PS,Parti socialiste,Socialist Party,
-FR-1-16-v,Autre,2020,2020,FR-10-12-c,R10 --- prtclffr --- Autre,1898,FRA,etc,other,other,7
-FR-1-16-v,Autre,2020,2020,FR-10-12-c,R10 --- prtclffr --- Autre,1898,FRA,etc,other,other,7
 FR-1-1-c,"CPNT (Chasse, Pêche, Nature et Traditions)",2002,2008,FR-1-1-c FR-2-1-c FR-3-1-c FR-4-1-c,"R1 --- prtclfr --- CPNT (Chasse, Pêche, Nature et Traditions)
 R2 --- prtclfr --- CPNT (Chasse, Pêche, Nature et Traditions)
 R3 --- prtclafr --- CPNT (Chasse, pêche, nature et traditions)
 R4 --- prtclbfr --- CPNT (Chasse, Pêche, Nature et Traditions)",1313,FRA,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",
 FR-1-2-c,DL (Démocratie Libérale),2002,2004,FR-1-2-c FR-2-2-c,"R1 --- prtclfr --- DL (Démocratie Libérale)
 R2 --- prtclfr --- DL (Démocratie Libérale)",4364,FRA,DL,Démocratie Libérale,Liberal Democracy,
-FR-1-3-c,FN (Front National),2002,2018,FR-1-3-c FR-2-3-c FR-3-2-c FR-4-2-c FR-5-1-c FR-6-2-c FR-7-2-c FR-8-2-c FR-9-11-c,"R1 --- prtclfr --- FN (Front National)
+FR-1-3-c,FN (Front National),2002,2020,FR-1-3-c FR-2-3-c FR-3-2-c FR-4-2-c FR-5-1-c FR-6-2-c FR-7-2-c FR-8-2-c FR-9-11-c FR-10-11-c,"R1 --- prtclfr --- FN (Front National)
 R2 --- prtclfr --- FN (Front National)
 R3 --- prtclafr --- FN (Front national)
 R4 --- prtclbfr --- FN (Front National)
@@ -1073,12 +1063,13 @@ R5 --- prtclcfr --- FN (Front National)
 R6 --- prtcldfr --- FN (Front National)
 R7 --- prtcldfr --- FN (Front National)
 R8 --- prtclefr --- FN (Front National)
-R9 --- prtclffr --- FN (Front National)",433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
+R9 --- prtclffr --- FN (Front National)
+R10 --- prtclffr --- FN (Front National)",433,FRA,FN / RN,Front National / Rassemblement national,National Front / National Rally,
 FR-1-4-c,LCR (ligue communiste révolutionnaire),2002,2008,FR-1-4-c FR-2-4-c FR-3-3-c FR-4-3-c,"R1 --- prtclfr --- LCR (ligue communiste révolutionnaire)
 R2 --- prtclfr --- LCR (ligue communiste révolutionnaire)
 R3 --- prtclafr --- LCR (Ligue communiste révolutionnaire)
 R4 --- prtclbfr --- LCR (Ligue Communiste Révolutionnaire)",1506,FRA,LCR,Ligue communiste révolutionnaire,Revolutionary Communist League,
-FR-1-5-c,LO (Lutte ouvrière),2002,2018,FR-1-5-c FR-2-5-c FR-3-4-c FR-4-4-c FR-5-2-c FR-6-5-c FR-7-5-c FR-8-5-c FR-9-1-c,"R1 --- prtclfr --- LO (Lutte ouvrière)
+FR-1-5-c,LO (Lutte ouvrière),2002,2020,FR-1-5-c FR-2-5-c FR-3-4-c FR-4-4-c FR-5-2-c FR-6-5-c FR-7-5-c FR-8-5-c FR-9-1-c FR-10-1-c,"R1 --- prtclfr --- LO (Lutte ouvrière)
 R2 --- prtclfr --- LO (Lutte ouvrière)
 R3 --- prtclafr --- LO (Lutte ouvrière)
 R4 --- prtclbfr --- LO (Lutte Ouvrière)
@@ -1086,7 +1077,8 @@ R5 --- prtclcfr --- LO (Lutte ouvrière)
 R6 --- prtcldfr --- LO (Lutte Ouvrière)
 R7 --- prtcldfr --- LO (Lutte Ouvrière)
 R8 --- prtclefr --- LO (Lutte Ouvrière)
-R9 --- prtclffr --- LO (Lutte Ouvrière)",617,FRA,LO,Lutte ouvrière,Workers' Struggle,
+R9 --- prtclffr --- LO (Lutte Ouvrière)
+R10 --- prtclffr --- LO (Lutte Ouvrière)",617,FRA,LO,Lutte ouvrière,Workers' Struggle,
 FR-1-6-c,MDC (Mouvement des citoyens),2002,2008,FR-1-6-c FR-3-5-c FR-4-5-c,"R1 --- prtclfr --- MDC (Mouvement des citoyens)
 R3 --- prtclafr --- MRC (Mouvement républicain et citoyen)
 R4 --- prtclbfr --- MRC (Mouvement Rèpublicain et Citoyen)",3156,FRA,MDC/PR,Mouvement des citoyens / Pôle républicain,Citizens' Movement / Republican Alliance,
@@ -1100,7 +1092,7 @@ R4 --- prtclbfr --- MPF (Mouvement pour la France)
 R6 --- prtcldfr --- MPF (Mouvement pour la France)
 R7 --- prtcldfr --- MPF (Mouvement pour la France)
 R8 --- prtclefr --- MPF (Mouvement pour la France)",364,FRA,MF,Mouvement pour la France,Movement for France,
-FR-1-9-c,PC (Parti communiste),2002,2018,FR-1-9-c FR-2-9-c FR-3-8-c FR-4-8-c FR-5-6-c FR-6-7-c FR-7-7-c FR-8-7-c FR-9-3-c,"R1 --- prtclfr --- PC (Parti communiste)
+FR-1-9-c,PC (Parti communiste),2002,2020,FR-1-9-c FR-2-9-c FR-3-8-c FR-4-8-c FR-5-6-c FR-6-7-c FR-7-7-c FR-8-7-c FR-9-3-c FR-10-3-c,"R1 --- prtclfr --- PC (Parti communiste)
 R2 --- prtclfr --- PC (Parti communiste)
 R3 --- prtclafr --- PC (Parti communiste)
 R4 --- prtclbfr --- PC (Parti Communiste)
@@ -1108,8 +1100,9 @@ R5 --- prtclcfr --- PC (Parti communiste)
 R6 --- prtcldfr --- PCF (Parti Communiste Français)
 R7 --- prtcldfr --- PCF (Parti Communiste Français)
 R8 --- prtclefr --- PCF (Parti Communiste Francais)
-R9 --- prtclffr --- PCF (Parti Communiste Français)",1251,FRA,PCF,Parti communiste française,French Communist Party,
-FR-1-10-c,PS (Parti Socialiste),2002,2018,FR-1-10-c FR-2-10-c FR-3-10-c FR-4-10-c FR-5-8-c FR-6-11-c FR-7-11-c FR-8-11-c FR-9-5-c,"R1 --- prtclfr --- PS (Parti Socialiste)
+R9 --- prtclffr --- PCF (Parti Communiste Français)
+R10 --- prtclffr --- PCF (Parti Communiste Français)",1251,FRA,PCF,Parti communiste française,French Communist Party,
+FR-1-10-c,PS (Parti Socialiste),2002,2020,FR-1-10-c FR-2-10-c FR-3-10-c FR-4-10-c FR-5-8-c FR-6-11-c FR-7-11-c FR-8-11-c FR-9-5-c FR-10-5-c,"R1 --- prtclfr --- PS (Parti Socialiste)
 R2 --- prtclfr --- PS (Parti Socialiste)
 R3 --- prtclafr --- PS (Parti socialiste)
 R4 --- prtclbfr --- PS (Parti Socialiste)
@@ -1117,7 +1110,8 @@ R5 --- prtclcfr --- PS (Parti Socialiste)
 R6 --- prtcldfr --- PS (Parti Socialiste)
 R7 --- prtcldfr --- PS (Parti Socialiste)
 R8 --- prtclefr --- PS (Parti Socialiste)
-R9 --- prtclffr --- PS (Parti Socialiste)",1478,FRA,PS,Parti socialiste,Socialist Party,
+R9 --- prtclffr --- PS (Parti Socialiste)
+R10 --- prtclffr --- PS (Parti Socialiste)",1478,FRA,PS,Parti socialiste,Socialist Party,
 FR-1-11-c,RPF (Rassemblement du Peuple Français),2002,2004,FR-1-11-c FR-2-11-c,"R1 --- prtclfr --- RPF (Rassemblement du Peuple Français)
 R2 --- prtclfr --- RPF (Rassemblement du Peuple Français)",2689,FRA,unknown,unknown,unknown,10
 FR-1-12-c,UMP (Union de la Majorité Présidentielle),2002,2014,FR-1-12-c FR-2-12-c FR-3-11-c FR-4-11-c FR-5-9-c FR-6-12-c FR-7-12-c,"R1 --- prtclfr --- UMP (Union de la Majorité Présidentielle)
@@ -1141,7 +1135,7 @@ R4 --- prtclbfr --- Autres mouvements écologistes
 R6 --- prtcldfr --- Autres mouvements écologistes
 R7 --- prtcldfr --- Autres mouvements écologistes
 R8 --- prtclefr --- Autres mouvements écologistes",8657,FRA,d-eco,divers ecologistes,other greens,
-FR-1-16-c,Autre,2002,2018,FR-1-16-c FR-2-16-c FR-3-15-c FR-4-15-c FR-5-15-c FR-6-16-c FR-7-16-c FR-8-16-c FR-9-12-c,"R1 --- prtclfr --- Autre
+FR-1-16-c,Autre,2002,2020,FR-1-16-c FR-2-16-c FR-3-15-c FR-4-15-c FR-5-15-c FR-6-16-c FR-7-16-c FR-8-16-c FR-9-12-c FR-10-12-c,"R1 --- prtclfr --- Autre
 R2 --- prtclfr --- Autre
 R3 --- prtclafr --- Autre
 R4 --- prtclbfr --- Autre
@@ -1149,62 +1143,56 @@ R5 --- prtclcfr --- Autre (PRECISEZ)
 R6 --- prtcldfr --- Autre
 R7 --- prtcldfr --- Autre
 R8 --- prtclefr --- Autre (precisez)
-R9 --- prtclffr --- Autre",1898,FRA,etc,other,other,7
+R9 --- prtclffr --- Autre
+R10 --- prtclffr --- Autre",1898,FRA,etc,other,other,7
 FR-3-9-c,PRG (Parti radical de gauche),2006,2016,FR-3-9-c FR-4-9-c FR-5-7-c FR-6-8-c FR-7-8-c FR-8-8-c,"R3 --- prtclafr --- PRG (Parti radical de gauche)
 R4 --- prtclbfr --- PRG (Parti Radical de Gauche)
 R5 --- prtclcfr --- PRG (Parti Radical de Gauche)
 R6 --- prtcldfr --- Parti Radical de Gauche
 R7 --- prtcldfr --- Parti Radical de Gauche
 R8 --- prtclefr --- Parti Radical de Gauche",1783,FRA,PRG,Parti radical de gauche,Radical Party of the Left,
-FR-4-10-v,MODEM (Mouvement Démocrate),2020,2020,FR-10-8-c,R10 --- prtclffr --- MODEM (Mouvement Démocrate),496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
-FR-4-10-v,MODEM (Mouvement Démocrate),2020,2020,FR-10-8-c,R10 --- prtclffr --- MODEM (Mouvement Démocrate),496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR-4-7-c,Nouveau Centre,2008,2016,FR-4-7-c FR-5-4-c FR-6-1-c FR-7-1-c FR-8-1-c,"R4 --- prtclbfr --- Nouveau Centre
 R5 --- prtclcfr --- Nouveau Centre
 R6 --- prtcldfr --- Nouveau Centre
 R7 --- prtcldfr --- Nouveau Centre
 R8 --- prtclefr --- Nouveau Centre",1255,FRA,NC,Nouveau centre,New Centre,
-FR-4-12-c,UDF-MoDem (Mouvement Democrate),2008,2018,FR-4-12-c FR-5-3-c FR-6-13-c FR-7-13-c FR-8-13-c FR-9-8-c,"R4 --- prtclbfr --- UDF-MoDem (Mouvement Democrate)
+FR-4-12-c,UDF-MoDem (Mouvement Democrate),2008,2020,FR-4-12-c FR-5-3-c FR-6-13-c FR-7-13-c FR-8-13-c FR-9-8-c FR-10-8-c,"R4 --- prtclbfr --- UDF-MoDem (Mouvement Democrate)
 R5 --- prtclcfr --- MoDem (Mouvement Démocrate)
 R6 --- prtcldfr --- MODEM (Mouvement Démocrate)
 R7 --- prtcldfr --- MODEM (Mouvement Démocrate)
 R8 --- prtclefr --- MODEM (Mouvement Démocrate)
-R9 --- prtclffr --- MODEM (Mouvement Démocrate)",496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
+R9 --- prtclffr --- MODEM (Mouvement Démocrate)
+R10 --- prtclffr --- MODEM (Mouvement Démocrate)",496,FRA,MoDem,Mouvement démocrate,Democratic Movement,
 FR-5-5-c,NPA (Nouveau Parti Anti-capitaliste),2010,2010,FR-5-5-c,R5 --- prtclcfr --- NPA (Nouveau Parti Anti-capitaliste),6684,FRA,NPA,Nouveau Parti Anticapitaliste,New Anticapitalist Party,
-FR-5-10-c,Les Verts – Europe Ecologie,2010,2018,FR-5-10-c FR-6-14-c FR-7-14-c FR-8-14-c FR-9-6-c,"R5 --- prtclcfr --- Les Verts – Europe Ecologie
+FR-5-10-c,Les Verts – Europe Ecologie,2010,2020,FR-5-10-c FR-6-14-c FR-7-14-c FR-8-14-c FR-9-6-c FR-10-6-c,"R5 --- prtclcfr --- Les Verts – Europe Ecologie
 R6 --- prtcldfr --- EELV (Europe Ecologie Les Verts)
 R7 --- prtcldfr --- EELV (Europe Ecologie Les Verts)
 R8 --- prtclefr --- EELV (Europe Ecologie Les Verts)
-R9 --- prtclffr --- EELV (Europe Ecologie Les Verts)",5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
-FR-6-4-v,NPA (Nouveau Parti Anti-Capitaliste),2020,2020,FR-10-2-c,R10 --- prtclffr --- NPA (Nouveau Parti Anti-Capitaliste),2536,FRA,1-perc,1 percent,1 percent,11
-FR-6-4-v,NPA (Nouveau Parti Anti-Capitaliste),2020,2020,FR-10-2-c,R10 --- prtclffr --- NPA (Nouveau Parti Anti-Capitaliste),2536,FRA,1-perc,1 percent,1 percent,11
-FR-6-12-v,EELV (Europe Ecologie Les Verts),2020,2020,FR-10-6-c,R10 --- prtclffr --- EELV (Europe Ecologie Les Verts),5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
-FR-6-12-v,EELV (Europe Ecologie Les Verts),2020,2020,FR-10-6-c,R10 --- prtclffr --- EELV (Europe Ecologie Les Verts),5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
+R9 --- prtclffr --- EELV (Europe Ecologie Les Verts)
+R10 --- prtclffr --- EELV (Europe Ecologie Les Verts)",5650,FRA,EELV,Europe Écologie — Les Verts,Europe Ecology — The Greens,
 FR-6-3-c,PR (Parti Radical Valoisien),2012,2016,FR-6-3-c FR-7-3-c FR-8-3-c,"R6 --- prtcldfr --- PR (Parti Radical Valoisien)
 R7 --- prtcldfr --- PR (Parti Radical Valoisien)
 R8 --- prtclefr --- PR (Parti Radical Valoisien)",14,FRA,PR,Parti radical [socialiste],Radical [Socialist] Party,
-FR-6-4-c,NPA (Nouveau Parti Anti-Capitaliste),2012,2018,FR-6-4-c FR-7-4-c FR-8-4-c FR-9-2-c,"R6 --- prtcldfr --- NPA (Nouveau Parti Anti-Capitaliste)
+FR-6-4-c,NPA (Nouveau Parti Anti-Capitaliste),2012,2020,FR-6-4-c FR-7-4-c FR-8-4-c FR-9-2-c FR-10-2-c,"R6 --- prtcldfr --- NPA (Nouveau Parti Anti-Capitaliste)
 R7 --- prtcldfr --- NPA (Nouveau Parti Anti-Capitaliste)
 R8 --- prtclefr --- NPA (Nouveau Parti Anti-Capitaliste)
-R9 --- prtclffr --- NPA (Nouveau Parti Anti-Capitaliste)",2536,FRA,1-perc,1 percent,1 percent,11
+R9 --- prtclffr --- NPA (Nouveau Parti Anti-Capitaliste)
+R10 --- prtclffr --- NPA (Nouveau Parti Anti-Capitaliste)",2536,FRA,1-perc,1 percent,1 percent,11
 FR-6-6-c,PG (Parti de Gauche),2012,2016,FR-6-6-c FR-7-6-c FR-8-6-c,"R6 --- prtcldfr --- PG (Parti de Gauche)
 R7 --- prtcldfr --- PG (Parti de Gauche)
 R8 --- prtclefr --- PG (Parti de Gauche)",8359,FRA,PG,Parti de Gauche,Left Party,
 FR-6-10-c,UDI (Union des Démocrates Indépendants),2012,2016,FR-6-10-c FR-7-10-c FR-8-10-c,"R6 --- prtcldfr --- UDI (Union des Démocrates Indépendants)
 R7 --- prtcldfr --- UDI (Union des Démocrates Indépendants)
 R8 --- prtclefr --- UDI (Union des democrates independants)",3229,FRA,UDI,Union des démocrates et indépendants,Union of Democrats and Independents,
-FR-8-12-c,LR (Les Republicains),2016,2018,FR-8-12-c FR-9-9-c,"R8 --- prtclefr --- LR (Les Republicains)
-R9 --- prtclffr --- LR (Les Républicains)",8168,FRA,LR,Les Républicains,The Republicans,
-FR-9-4-v,FI (La France Insoumise),2020,2020,FR-10-4-c,R10 --- prtclffr --- FI (La France Insoumise),5858,FRA,FI,La France Insoumise,Unbowed France,
-FR-9-4-v,FI (La France Insoumise),2020,2020,FR-10-4-c,R10 --- prtclffr --- FI (La France Insoumise),5858,FRA,FI,La France Insoumise,Unbowed France,
-FR-9-7-v,LREM (La République en Marche),2020,2020,FR-10-7-c,R10 --- prtclffr --- LREM (La République en Marche),5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
-FR-9-7-v,LREM (La République en Marche),2020,2020,FR-10-7-c,R10 --- prtclffr --- LREM (La République en Marche),5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
-FR-9-9-v,LR (Les Républicains),2020,2020,FR-10-9-c,R10 --- prtclffr --- LR (Les Républicains),8168,FRA,LR,Les Républicains,The Republicans,
-FR-9-9-v,LR (Les Républicains),2020,2020,FR-10-9-c,R10 --- prtclffr --- LR (Les Républicains),8168,FRA,LR,Les Républicains,The Republicans,
-FR-9-10-v,Debout la France,2020,2020,FR-10-10-c,R10 --- prtclffr --- Debout la France,3207,FRA,DLF,Debout la France,France Arise,
-FR-9-10-v,Debout la France,2020,2020,FR-10-10-c,R10 --- prtclffr --- Debout la France,3207,FRA,DLF,Debout la France,France Arise,
-FR-9-4-c,FI (La France Insoumise),2018,2018,FR-9-4-c,R9 --- prtclffr --- FI (La France Insoumise),5858,FRA,FI,La France Insoumise,Unbowed France,
-FR-9-7-c,LREM (La République en Marche),2018,2018,FR-9-7-c,R9 --- prtclffr --- LREM (La République en Marche),5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
-FR-9-10-c,Debout la France,2018,2018,FR-9-10-c,R9 --- prtclffr --- Debout la France,3207,FRA,DLF,Debout la France,France Arise,
+FR-8-12-c,LR (Les Republicains),2016,2020,FR-8-12-c FR-9-9-c FR-10-9-c,"R8 --- prtclefr --- LR (Les Republicains)
+R9 --- prtclffr --- LR (Les Républicains)
+R10 --- prtclffr --- LR (Les Républicains)",8168,FRA,LR,Les Républicains,The Republicans,
+FR-9-4-c,FI (La France Insoumise),2018,2020,FR-9-4-c FR-10-4-c,"R9 --- prtclffr --- FI (La France Insoumise)
+R10 --- prtclffr --- FI (La France Insoumise)",5858,FRA,FI,La France Insoumise,Unbowed France,
+FR-9-7-c,LREM (La République en Marche),2018,2020,FR-9-7-c FR-10-7-c,"R9 --- prtclffr --- LREM (La République en Marche)
+R10 --- prtclffr --- LREM (La République en Marche)",5857,FRA,LaREM,La République En Marche!,The Republic Onwards!,
+FR-9-10-c,Debout la France,2018,2020,FR-9-10-c FR-10-10-c,"R9 --- prtclffr --- Debout la France
+R10 --- prtclffr --- Debout la France",3207,FRA,DLF,Debout la France,France Arise,
 GB-1-1-c,Conservative,2002,2020,GB-1-1-c GB-2-1-c GB-3-1-c GB-4-1-c GB-5-1-c GB-6-1-c GB-7-1-c GB-8-1-c GB-9-1-c GB-10-1-c,"R1 --- prtclgb --- Conservative
 R2 --- prtclgb --- Conservative
 R3 --- prtclagb --- Conservative
@@ -1786,11 +1774,10 @@ R6 --- prtclbit --- Altro
 R8 --- prtclcit --- Altro (scrivere)
 R9 --- prtcldit --- Altro
 R10 --- prtcleit --- Altro",1896,ITA,etc,other,other,7
-IT-6-1-v,Partido Democratico,2020,2020,IT-10-2-c,R10 --- prtcleit --- Partido Democratico,802,ITA,PD,Partito Democratico,Democratic Party,
-IT-6-1-v,Partido Democratico,2020,2020,IT-10-2-c,R10 --- prtcleit --- Partido Democratico,802,ITA,PD,Partito Democratico,Democratic Party,
-IT-6-1-c,Partido Democratico (PD),2012,2018,IT-6-1-c IT-8-2-c IT-9-1-c,"R6 --- prtclbit --- Partido Democratico (PD)
+IT-6-1-c,Partido Democratico (PD),2012,2020,IT-6-1-c IT-8-2-c IT-9-1-c IT-10-2-c,"R6 --- prtclbit --- Partido Democratico (PD)
 R8 --- prtclcit --- Partido Democratico (PD)
-R9 --- prtcldit --- Partido Democratico (PD)",802,ITA,PD,Partito Democratico,Democratic Party,
+R9 --- prtcldit --- Partido Democratico (PD)
+R10 --- prtcleit --- Partido Democratico",802,ITA,PD,Partito Democratico,Democratic Party,
 IT-6-2-c,Sinistra Ecologia e Libertà (SEL),2012,2016,IT-6-2-c IT-8-8-c,"R6 --- prtclbit --- Sinistra Ecologia e Libertà (SEL)
 R8 --- prtclcit --- Sinistra italiana",1212,ITA,SI,Sinistra Italiana,Italian Left,
 IT-6-3-c,Rivoluzione Civile (Ingroia),2012,2012,IT-6-3-c,R6 --- prtclbit --- Rivoluzione Civile (Ingroia),2277,ITA,RC,Rivoluzione Civile,Civil Revolution,
@@ -1822,8 +1809,6 @@ R10 --- prtcleit --- Liberi e Uguali (LEU)",8246,ITA,LeU,Liberi e Uguali,Free an
 IT-9-12-c,Potere al popolo,2018,2020,IT-9-12-c IT-10-9-c,"R9 --- prtcldit --- Potere al popolo
 R10 --- prtcleit --- Potere al popolo",8247,ITA,PaP,Potere al Popolo,Power to the People,
 IT-9-13-c,Casapound Italia,2018,2018,IT-9-13-c,R9 --- prtcldit --- Casapound Italia,8244,ITA,CPI,CasaPound Italia,CasaPound Italy,
-LT-5-15-v,Party 'Young Lithuania' (JL),2018,2018,LT-9-15-c,R9 --- prtclblt --- Party 'Young Lithuania' (JL),1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
-LT-5-15-v,Party 'Young Lithuania' (JL),2018,2018,LT-9-15-c,R9 --- prtclblt --- Party 'Young Lithuania' (JL),1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT-5-1-c,Lithuanian Social Democratic Party (LSDP),2010,2020,LT-5-1-c LT-6-8-c LT-7-8-c LT-8-3-c LT-9-3-c LT-10-4-c,"R5 --- prtcllt --- Lithuanian Social Democratic Party (LSDP)
 R6 --- prtclalt --- Lithuanian Social Democratic Party (LSDP)
 R7 --- prtclalt --- Lithuanian Social Democratic Party (LSDP)
@@ -1880,9 +1865,10 @@ R9 --- prtclblt --- Party Order and Justice (TT)",237,LTU,TT — LDP,Tvarka ir t
 LT-5-15-c,Liberal and Centre Union (LiCS),2010,2014,LT-5-15-c LT-6-19-c LT-7-19-c,"R5 --- prtcllt --- Liberal and Centre Union (LiCS)
 R6 --- prtclalt --- Liberal and Centre Union (LiCS)
 R7 --- prtclalt --- Liberal and Centre Union (LiCS)",1193,LTU,LiCS,Liberalų ir centro sąjunga,Liberal and Centre Union,
-LT-5-16-c,Party 'Young Lithuania' (JL),2010,2014,LT-5-16-c LT-6-18-c LT-7-18-c,"R5 --- prtcllt --- Party 'Young Lithuania' (JL)
+LT-5-16-c,Party 'Young Lithuania' (JL),2010,2018,LT-5-16-c LT-6-18-c LT-7-18-c LT-9-15-c,"R5 --- prtcllt --- Party 'Young Lithuania' (JL)
 R6 --- prtclalt --- Party 'Young Lithuania' (JL)
-R7 --- prtclalt --- Party 'Young Lithuania' (JL)",1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
+R7 --- prtclalt --- Party 'Young Lithuania' (JL)
+R9 --- prtclblt --- Party 'Young Lithuania' (JL)",1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT-5-17-c,Lithuanian Social Democratic Union (LSDS),2010,2014,LT-5-17-c LT-6-11-c LT-7-11-c,"R5 --- prtcllt --- Lithuanian Social Democratic Union (LSDS)
 R6 --- prtclalt --- Lithuanian Social Democratic Union (LSDS)
 R7 --- prtclalt --- Lithuanian Social Democratic Union (LSDS)",8258,LTU,LSDS,Lietuvos socialdemokratų sąjunga,Lithuanian Social Democratic Union,

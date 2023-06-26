@@ -81,6 +81,27 @@ prt_out <-
   relocate(partyfacts_id, .before = country)
 
 
+## Check duplicates ----
+
+# question vote intention (prtv*)
+prtv_out_check <- 
+  prt_out |>
+  filter(prt_var == "prtv") |>
+  select(-prt_var) |>
+  group_by(first_ess_id) |> 
+  mutate(dupl = n()) |> 
+  filter(dupl > 1)
+  
+# question party close to (prtc*)
+prtc_out_check <- 
+  prt_out |> 
+  filter(prt_var == "prtc") |>
+  select(-prt_var) |>
+  group_by(first_ess_id) |> 
+  mutate(dupl = n()) |> 
+  filter(dupl > 1)
+
+
 ## Link files ----
 
 # question vote intention (prtv*)
