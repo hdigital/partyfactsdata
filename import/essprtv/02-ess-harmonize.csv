@@ -2645,11 +2645,11 @@ GB,3,prtvtagb,Green Party,6,GB-3-6-v,GB-1-6-v,GBR
 GB,3,prtvtagb,British National Party,7,GB-3-7-v,GB-3-7-v,GBR
 GB,3,prtvtagb,UK Independence Party,8,GB-3-8-v,GB-3-8-v,GBR
 GB,3,prtvtagb,Independent,9,GB-3-9-v,GB-3-9-v,GBR
-GB,3,prtvtagb,Ulster Unionist Party (nir),11,GB-3-11-v,GB-1-11-v,GBR
-GB,3,prtvtagb,Democratic Unionist Party (nir),12,GB-3-12-v,GB-1-12-v,GBR
-GB,3,prtvtagb,Sinn Féin (nir),13,GB-3-13-v,GB-1-13-v,GBR
-GB,3,prtvtagb,Social Democratic and Labour Party (nir),14,GB-3-14-v,GB-1-14-v,GBR
-GB,3,prtvtagb,Alliance Party (nir),15,GB-3-15-v,GB-1-15-v,GBR
+GB,3,prtvtagb,Ulster Unionist Party (nir),11,GB-3-11-v,GB-1-11-v,NIR
+GB,3,prtvtagb,Democratic Unionist Party (nir),12,GB-3-12-v,GB-1-12-v,NIR
+GB,3,prtvtagb,Sinn Féin (nir),13,GB-3-13-v,GB-1-13-v,NIR
+GB,3,prtvtagb,Social Democratic and Labour Party (nir),14,GB-3-14-v,GB-1-14-v,NIR
+GB,3,prtvtagb,Alliance Party (nir),15,GB-3-15-v,GB-1-15-v,NIR
 GB,3,prtvtagb,Other,22,GB-3-22-v,GB-1-7-v,GBR
 GB,3,prtclagb,Conservative,1,GB-3-1-c,GB-1-1-c,GBR
 GB,3,prtclagb,Labour,2,GB-3-2-c,GB-1-2-c,GBR
@@ -2660,12 +2660,12 @@ GB,3,prtclagb,Green Party,6,GB-3-6-c,GB-1-6-c,GBR
 GB,3,prtclagb,British National Party,7,GB-3-7-c,GB-3-7-c,GBR
 GB,3,prtclagb,UK Independence Party,8,GB-3-8-c,GB-3-8-c,GBR
 GB,3,prtclagb,Independent,9,GB-3-9-c,GB-3-9-c,GBR
-GB,3,prtclagb,Ulster Unionist Party (nir),11,GB-3-11-c,GB-1-11-c,GBR
-GB,3,prtclagb,Democratic Unionist Party (nir),12,GB-3-12-c,GB-1-12-c,GBR
-GB,3,prtclagb,Sinn Féin (nir),13,GB-3-13-c,GB-1-13-c,GBR
-GB,3,prtclagb,Social Democratic and Labour Party (nir),14,GB-3-14-c,GB-1-14-c,GBR
-GB,3,prtclagb,Alliance Party (nir),15,GB-3-15-c,GB-1-15-c,GBR
-GB,3,prtclagb,Workers' Party (nir),21,GB-3-21-c,GB-3-21-c,GBR
+GB,3,prtclagb,Ulster Unionist Party (nir),11,GB-3-11-c,GB-1-11-c,NIR
+GB,3,prtclagb,Democratic Unionist Party (nir),12,GB-3-12-c,GB-1-12-c,NIR
+GB,3,prtclagb,Sinn Féin (nir),13,GB-3-13-c,GB-1-13-c,NIR
+GB,3,prtclagb,Social Democratic and Labour Party (nir),14,GB-3-14-c,GB-1-14-c,NIR
+GB,3,prtclagb,Alliance Party (nir),15,GB-3-15-c,GB-1-15-c,NIR
+GB,3,prtclagb,Workers' Party (nir),21,GB-3-21-c,GB-3-21-c,NIR
 GB,3,prtclagb,Other,22,GB-3-22-c,GB-1-7-c,GBR
 GB,4,prtvtgb,Conservative,1,GB-4-1-v,GB-1-1-v,GBR
 GB,4,prtvtgb,Labour,2,GB-4-2-v,GB-1-2-v,GBR
@@ -3840,7 +3840,7 @@ IT,8,prtclcit,Alternativa popolare,7,IT-8-7-c,IT-8-7-c,ITA
 IT,8,prtclcit,Sinistra italiana,8,IT-8-8-c,IT-6-2-c,ITA
 IT,8,prtclcit,Altro (scrivere),9,IT-8-9-c,IT-1-17-c,ITA
 IT,9,prtvtcit,Partido Democratico (PD),1,IT-9-1-v,IT-6-1-v,ITA
-IT,9,prtvtcit,+ Europa,2,IT-9-2-v,IT-9-2-v,ITA
+IT,9,prtvtcit,#NAME?,2,IT-9-2-v,IT-9-2-v,ITA
 IT,9,prtvtcit,Italia Europa Insieme,3,IT-9-3-v,IT-9-3-v,ITA
 IT,9,prtvtcit,Civia Popolare Lorenzin,4,IT-9-4-v,IT-9-4-v,ITA
 IT,9,prtvtcit,SVP-PATT,5,IT-9-5-v,IT-9-5-v,ITA
@@ -3854,7 +3854,7 @@ IT,9,prtvtcit,Potere al popolo,12,IT-9-12-v,IT-9-12-v,ITA
 IT,9,prtvtcit,Casapound Italia,13,IT-9-13-v,IT-9-13-v,ITA
 IT,9,prtvtcit,Altro,14,IT-9-14-v,IT-1-17-v,ITA
 IT,9,prtcldit,Partido Democratico (PD),1,IT-9-1-c,IT-6-1-c,ITA
-IT,9,prtcldit,+ Europa,2,IT-9-2-c,IT-9-2-c,ITA
+IT,9,prtcldit,#NAME?,2,IT-9-2-c,IT-9-2-c,ITA
 IT,9,prtcldit,Italia Europa Insieme,3,IT-9-3-c,IT-9-3-c,ITA
 IT,9,prtcldit,Civia Popolare Lorenzin,4,IT-9-4-c,IT-9-4-c,ITA
 IT,9,prtcldit,SVP-PATT,5,IT-9-5-c,IT-9-5-c,ITA
@@ -3872,7 +3872,7 @@ IT,10,prtvtdit,Lega,3,IT-10-3-v,IT-1-11-v,ITA
 IT,10,prtvtdit,Forza Italia,4,IT-10-4-v,IT-1-8-v,ITA
 IT,10,prtvtdit,Fratelli d'Italia con Giorgia Meloni,5,IT-10-5-v,IT-6-10-v,ITA
 IT,10,prtvtdit,Liberi e Uguali (LEU),6,IT-10-6-v,IT-9-6-v,ITA
-IT,10,prtvtdit,+ Europa,7,IT-10-7-v,IT-9-2-v,ITA
+IT,10,prtvtdit,#NAME?,7,IT-10-7-v,IT-9-2-v,ITA
 IT,10,prtvtdit,Noi con l'Italia - UDC,8,IT-10-8-v,IT-9-11-v,ITA
 IT,10,prtvtdit,Potere al popolo,9,IT-10-9-v,IT-9-12-v,ITA
 IT,10,prtvtdit,Casapound Italia,10,IT-10-10-v,IT-9-13-v,ITA
@@ -3887,7 +3887,7 @@ IT,10,prtcleit,Lega,3,IT-10-3-c,IT-1-11-c,ITA
 IT,10,prtcleit,Forza Italia,4,IT-10-4-c,IT-1-8-c,ITA
 IT,10,prtcleit,Fratelli d'Italia con Giorgia Meloni,5,IT-10-5-c,IT-6-10-c,ITA
 IT,10,prtcleit,Liberi e Uguali (LEU),6,IT-10-6-c,IT-9-6-c,ITA
-IT,10,prtcleit,+ Europa,7,IT-10-7-c,IT-9-2-c,ITA
+IT,10,prtcleit,#NAME?,7,IT-10-7-c,IT-9-2-c,ITA
 IT,10,prtcleit,Noi con l'Italia - UDC,8,IT-10-8-c,IT-10-8-c,ITA
 IT,10,prtcleit,Potere al popolo,9,IT-10-9-c,IT-9-12-c,ITA
 IT,10,prtcleit,SVP-PATT,14,IT-10-14-c,IT-9-5-c,ITA
