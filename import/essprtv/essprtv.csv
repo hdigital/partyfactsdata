@@ -290,11 +290,11 @@ BG-9-10-v,Koalitsiya ABV – Dvizhenie 21,2018,2018,BG-9-10-v,R9 --- prtvtdbg --
 BG-9-11-v,Vuzrazhdane,2018,2020,BG-9-11-v BG-10-9-v,"R9 --- prtvtdbg --- Vuzrazhdane
 R10 --- prtvtebg --- Vazrazhdane",5862,BGR,R,Vazrazhdane,Revival,
 BG-9-13-v,Invalid,2018,2018,BG-9-13-v,R9 --- prtvtdbg --- Invalid,3008,BGR,tech,technical,technical,12
-BG-10-4-v,Demokratichna Balgariya,2020,2020,BG-10-4-v,R10 --- prtvtebg --- Demokratichna Balgariya,,BGR,,,,
-BG-10-5-v,Ima takav narod,2020,2020,BG-10-5-v,R10 --- prtvtebg --- Ima takav narod,,BGR,,,,
-BG-10-7-v,NFSB-Volya,2020,2020,BG-10-7-v,R10 --- prtvtebg --- NFSB-Volya,,BGR,,,,
-BG-10-10-v,Izpravi se! Mutri van!,2020,2020,BG-10-10-v,R10 --- prtvtebg --- Izpravi se! Mutri van!,,BGR,,,,
-BG-10-11-v,Republikantsi za Balgariya,2020,2020,BG-10-11-v,R10 --- prtvtebg --- Republikantsi za Balgariya,,BGR,,,,
+BG-10-4-v,Demokratichna Balgariya,2020,2020,BG-10-4-v,R10 --- prtvtebg --- Demokratichna Balgariya,9083,BGR,DB,Demokratichna Bulgaria,Democratic Bulgaria,
+BG-10-5-v,Ima takav narod,2020,2020,BG-10-5-v,R10 --- prtvtebg --- Ima takav narod,8992,BGR,ITN,Ima takav narod,There Is Such a People,
+BG-10-7-v,NFSB-Volya,2020,2020,BG-10-7-v,R10 --- prtvtebg --- NFSB-Volya,3908,BGR,ally,alliance,alliance,15
+BG-10-10-v,Izpravi se! Mutri van!,2020,2020,BG-10-10-v,R10 --- prtvtebg --- Izpravi se! Mutri van!,8991,BGR,IS,Izpravi se!,Stand up!,
+BG-10-11-v,Republikantsi za Balgariya,2020,2020,BG-10-11-v,R10 --- prtvtebg --- Republikantsi za Balgariya,8995,BGR,RzB,Republikantsi za Balgariya,Republicans for Bulgaria,
 CH-1-1-v,Radicals,2002,2010,CH-1-1-v CH-2-1-v CH-3-1-v CH-4-1-v CH-5-1-v,"R1 --- prtvtch --- Radicals
 R2 --- prtvtch --- Radicals
 R3 --- prtvtach --- Radicals
@@ -448,7 +448,7 @@ R9 --- prtvtgch --- Alternative Left",8184,CHE,AL,Alternative Linke,Alternative 
 CH-6-16-v,Pirate Party Switzerland,2012,2016,CH-6-16-v CH-8-16-v,"R6 --- prtvtdch --- Pirate Party Switzerland
 R8 --- prtvtfch --- Pirate Party Switzerland",2939,CHE,1-perc,1 percent,1 percent,11
 CH-8-55-v,No party,2016,2016,CH-8-55-v,R8 --- prtvtfch --- No party,3086,CHE,tech,technical,technical,12
-CH-10-12-v,"Small leftist parties (Solidarity, Together on the Left, Alternative Left)",2020,2020,CH-10-12-v,"R10 --- prtvthch --- Small leftist parties (Solidarity, Together on the Left, Alternative Left)",,CHE,,,,
+CH-10-12-v,"Small leftist parties (Solidarity, Together on the Left, Alternative Left)",2020,2020,CH-10-12-v,"R10 --- prtvthch --- Small leftist parties (Solidarity, Together on the Left, Alternative Left)",1964,CHE,etc,other,other,7
 CY-3-1-v,Progressive Party of Working People (AKEL),2006,2018,CY-3-1-v CY-4-1-v CY-5-1-v CY-6-1-v CY-9-1-v,"R3 --- prtvtcy --- Progressive Party of Working People (AKEL)
 R4 --- prtvtcy --- Progressive Party of Working People (AKEL)
 R5 --- prtvtcy --- Progressive Party of Working People (AKEL)
@@ -820,7 +820,7 @@ R5 --- prtvtbdk --- Ny Alliance - New alliance
 R6 --- prtvtcdk --- Liberal Alliance - Liberal Alliance
 R7 --- prtvtcdk --- Liberal Alliance - Liberal Alliance
 R9 --- prtvtddk --- Liberal Alliance - Liberal Alliance",212,DNK,LA,[Ny] Liberal Alliance,[New] Liberal Alliance,
-DK-9-10-v,Alternativet - The Alternative,2018,2018,DK-9-10-v,R9 --- prtvtddk --- Alternativet - The Alternative,,DNK,,,,
+DK-9-10-v,Alternativet - The Alternative,2018,2018,DK-9-10-v,R9 --- prtvtddk --- Alternativet - The Alternative,4070,DNK,A,Alternativet,The Alternative,
 EE-2-1-v,Res Publica,2004,2006,EE-2-1-v EE-3-1-v,"R2 --- prtvtee --- Res Publica
 R3 --- prtvtaee --- Res Publica",491,EST,UVE/RP,Ühendus vabariigi eest / Res Publica,Union for the Republic / Res Publica Party,
 EE-2-2-v,Eesti Keskerakond,2004,2020,EE-2-2-v EE-3-2-v EE-4-2-v EE-5-2-v EE-6-2-v EE-7-2-v EE-8-2-v EE-9-2-v EE-10-2-v,"R2 --- prtvtee --- Eesti Keskerakond
@@ -909,8 +909,8 @@ EE-8-11-v,Eesti Vabaerakond,2016,2020,EE-8-11-v EE-9-11-v EE-10-11-v,"R8 --- prt
 R9 --- prtvtgee --- Eesti Vabaerakond
 R10 --- prtvthee --- Eesti Vabaerakond",3271,EST,EV,Eesti Vabaerakond,Estonian Free Party,
 EE-8-12-v,Rahva Ühtsuse Erakond,2016,2016,EE-8-12-v,R8 --- prtvtfee --- Rahva Ühtsuse Erakond,2679,EST,1-perc,1 percent,1 percent,11
-EE-10-14-v,Eesti 200,2020,2020,EE-10-14-v,R10 --- prtvthee --- Eesti 200,,EST,,,,
-EE-10-15-v,Tulevikuerakond,2020,2020,EE-10-15-v,R10 --- prtvthee --- Tulevikuerakond,,EST,,,,
+EE-10-14-v,Eesti 200,2020,2020,EE-10-14-v,R10 --- prtvthee --- Eesti 200,7340,EST,E200,Erakond Eesti 200,Estonia 200,
+EE-10-15-v,Tulevikuerakond,2020,2020,EE-10-15-v,R10 --- prtvthee --- Tulevikuerakond,2679,EST,1-perc,1 percent,1 percent,11
 ES-1-1-v,Partido Popular (PP),2002,2020,ES-1-1-v ES-2-1-v ES-3-1-v ES-4-1-v ES-5-1-v ES-6-1-v ES-7-1-v ES-8-1-v ES-9-1-v ES-10-2-v,"R1 --- prtvtes --- Partido Popular (PP)
 R2 --- prtvtaes --- Partido Popular (PP)
 R3 --- prtvtaes --- Partido Popular (PP)
@@ -1056,20 +1056,20 @@ ES-8-52-v,Invalid vote,2016,2020,ES-8-52-v ES-9-55-v ES-10-55-v,"R8 --- prtvtdes
 R9 --- prtvtees --- Invalid vote
 R10 --- prtvtfes --- Invalid vote",3083,ESP,tech,technical,technical,12
 ES-9-8-v,Más País,2018,2020,ES-9-8-v ES-10-7-v,"R9 --- prtvtees --- Más País
-R10 --- prtvtfes --- Más País",,ESP,,,,
+R10 --- prtvtfes --- Más País",8395,ESP,Pais,Más País,More Country,
 ES-9-11-v,Junts per Catalunya/PDeCAT,2018,2020,ES-9-11-v ES-10-9-v,"R9 --- prtvtees --- Junts per Catalunya/PDeCAT
-R10 --- prtvtfes --- Junts x Cat",,ESP,,,,
+R10 --- prtvtfes --- Junts x Cat",9097,ESP,JxCat — PDECat,Junts per Catalunya — Partit Demòcrata Europeu Català,Together for Catalonia — Catalan European Democratic Party,
 ES-9-16-v,VOX,2018,2020,ES-9-16-v ES-10-3-v,"R9 --- prtvtees --- VOX
-R10 --- prtvtfes --- VOX",,ESP,,,,
-ES-9-17-v,Navarra Suma,2018,2018,ES-9-17-v,R9 --- prtvtees --- Navarra Suma,,ESP,,,,
+R10 --- prtvtfes --- VOX",3218,ESP,Vox,Vox,Voice,
+ES-9-17-v,Navarra Suma,2018,2020,ES-9-17-v ES-10-14-v,"R9 --- prtvtees --- Navarra Suma
+R10 --- prtvtfes --- Navarra Suma",4019,ESP,ally,alliance,alliance,15
 ES-9-19-v,CUP,2018,2020,ES-9-19-v ES-10-10-v,"R9 --- prtvtees --- CUP
-R10 --- prtvtfes --- CUP",,ESP,,,,
-ES-9-20-v,PRC,2018,2018,ES-9-20-v,R9 --- prtvtees --- PRC,,ESP,,,,
-ES-10-13-v,CC-PNC-NC,2020,2020,ES-10-13-v,R10 --- prtvtfes --- CC-PNC-NC,,ESP,,,,
-ES-10-14-v,Navarra Suma,2020,2020,ES-10-14-v,R10 --- prtvtfes --- Navarra Suma,,ESP,,,,
-ES-10-15-v,Més Compromis,2020,2020,ES-10-15-v,R10 --- prtvtfes --- Més Compromis,,ESP,,,,
-ES-10-17-v,PRC,2020,2020,ES-10-17-v,R10 --- prtvtfes --- PRC,,ESP,,,,
-ES-10-18-v,Teruel Existe,2020,2020,ES-10-18-v,R10 --- prtvtfes --- Teruel Existe,,ESP,,,,
+R10 --- prtvtfes --- CUP",8357,ESP,CUP,Candidatura d'Unitat Popular,Popular Unity Candidacy,
+ES-9-20-v,PRC,2018,2020,ES-9-20-v ES-10-17-v,"R9 --- prtvtees --- PRC
+R10 --- prtvtfes --- PRC",2538,ESP,1-perc,1 percent,1 percent,11
+ES-10-13-v,CC-PNC-NC,2020,2020,ES-10-13-v,R10 --- prtvtfes --- CC-PNC-NC,8262,ESP,AUN,Acuerdo de Unidad Nacionalista,Agreement of Nationalist Unity,
+ES-10-15-v,Més Compromis,2020,2020,ES-10-15-v,R10 --- prtvtfes --- Més Compromis,4019,ESP,ally,alliance,alliance,15
+ES-10-18-v,Teruel Existe,2020,2020,ES-10-18-v,R10 --- prtvtfes --- Teruel Existe,2538,ESP,1-perc,1 percent,1 percent,11
 FI-1-1-v,The National Coalition Party,2002,2020,FI-1-1-v FI-2-1-v FI-3-1-v FI-4-1-v FI-5-1-v FI-6-1-v FI-7-1-v FI-8-1-v FI-9-1-v FI-10-1-v,"R1 --- prtvtfi --- The National Coalition Party
 R2 --- prtvtfi --- The National Coalition Party
 R3 --- prtvtfi --- The National Coalition Party
@@ -1200,7 +1200,7 @@ R9 --- prtvtdfi --- For the Poor",2687,FIN,1-perc,1 percent,1 percent,11
 FI-7-7-v,Change 2011,2014,2014,FI-7-7-v,R7 --- prtvtcfi --- Change 2011,2687,FIN,1-perc,1 percent,1 percent,11
 FI-7-16-v,The Communist Workers' Party,2014,2014,FI-7-16-v,R7 --- prtvtcfi --- The Communist Workers' Party,2687,FIN,1-perc,1 percent,1 percent,11
 FI-9-15-v,Workers' Party,2018,2018,FI-9-15-v,R9 --- prtvtdfi --- Workers' Party,2687,FIN,1-perc,1 percent,1 percent,11
-FI-10-8-v,Movement Now,2020,2020,FI-10-8-v,R10 --- prtvtefi --- Movement Now,,FIN,,,,
+FI-10-8-v,Movement Now,2020,2020,FI-10-8-v,R10 --- prtvtefi --- Movement Now,8639,FIN,LN,Liike Nyt,Movement Now,
 FR-1-1-v,"CPNT (Chasse, Pêche, Nature et Traditions)",2002,2010,FR-1-1-v FR-2-1-v FR-3-1-v FR-4-1-v FR-5-1-v,"R1 --- prtvtfr --- CPNT (Chasse, Pêche, Nature et Traditions)
 R2 --- prtvtfr --- CPNT (Chasse, Pêche, Nature et Traditions)
 R3 --- prtvtafr --- CPNT (Chasse, pêche, nature et traditions)
@@ -1483,7 +1483,7 @@ GB-2-22-v,Other (nir),2004,2018,GB-2-22-v GB-6-22-v GB-7-18-v GB-8-18-v GB-9-19-
 R6 --- prtvtgb --- Other (nir)
 R7 --- prtvtbgb --- Other (nir)
 R8 --- prtvtbgb --- Other (nir)
-R9 --- prtvtcgb --- Other (nir)",,GBR,,,,
+R9 --- prtvtcgb --- Other (nir)",1841,GBR,etc,other,other,7
 GB-3-7-v,British National Party,2006,2006,GB-3-7-v,R3 --- prtvtagb --- British National Party,855,GBR,BNP,British National Party,British National Party,
 GB-3-8-v,UK Independence Party,2006,2020,GB-3-8-v GB-7-7-v GB-8-7-v GB-9-7-v GB-10-7-v,"R3 --- prtvtagb --- UK Independence Party
 R7 --- prtvtbgb --- UK Independence Party
@@ -1497,7 +1497,7 @@ R9 --- prtvtcgb --- Independent(s) (nir)
 R10 --- prtvtdgb --- Independent candidate",2964,GBR,indep,independent,independent,8
 GB-8-14-v,Traditional Unionist (nir),2016,2016,GB-8-14-v,R8 --- prtvtbgb --- Traditional Unionist (nir),2966,GBR,1-perc,1 percent,1 percent,11
 GB-9-15-v,Green Party (nir),2018,2018,GB-9-15-v,R9 --- prtvtcgb --- Green Party (nir),8240,GBR,GP-NI,Green Party in Northern Ireland,Green Party in Northern Ireland,
-GB-10-8-v,Brexit Party,2020,2020,GB-10-8-v,R10 --- prtvtdgb --- Brexit Party,,GBR,,,,
+GB-10-8-v,Brexit Party,2020,2020,GB-10-8-v,R10 --- prtvtdgb --- Brexit Party,7364,GBR,BP,Brexit Party,Brexit Party,
 GR-1-1-v,PASOK (Panhellenic Socialist Movement),2002,2010,GR-1-1-v GR-2-1-v GR-4-1-v GR-5-1-v,"R1 --- prtvtgr --- PASOK (Panhellenic Socialist Movement)
 R2 --- prtvtagr --- PASOK (Panhellenic Socialist Movement)
 R4 --- prtvtbgr --- Panhellenic Socialist Movement – PASOK
@@ -1536,12 +1536,12 @@ GR-5-11-v,The Liberal Alliance (FS),2010,2010,GR-5-11-v,R5 --- prtvtcgr --- The 
 GR-5-12-v,The Anticapitalist Left Cooperation for the Overthrow (ANTARSYA),2010,2010,GR-5-12-v,R5 --- prtvtcgr --- The Anticapitalist Left Cooperation for the Overthrow (ANTARSYA),95,GRC,Antarsya,Antikapitalistiki Aristeri Synergasia gia tin Anatropi,Front of the Greek Anticapitalist Left,
 GR-5-13-v,Smokers' Groups for Art and Visual Formation (KOTES),2010,2010,GR-5-13-v,R5 --- prtvtcgr --- Smokers' Groups for Art and Visual Formation (KOTES),2710,GRC,1-perc,1 percent,1 percent,11
 GR-5-14-v,Independent Citizens' Movement (SPITHA),2010,2010,GR-5-14-v,R5 --- prtvtcgr --- Independent Citizens' Movement (SPITHA),2710,GRC,1-perc,1 percent,1 percent,11
-GR-10-2-v,ΣΥΡΙΖΑ,2020,2020,GR-10-2-v,R10 --- prtvtdgr --- ΣΥΡΙΖΑ,,GRC,,,,
-GR-10-3-v,ΚΙΝ.ΑΛ.,2020,2020,GR-10-3-v,R10 --- prtvtdgr --- ΚΙΝ.ΑΛ.,,GRC,,,,
-GR-10-5-v,Ελληνική Λύση,2020,2020,GR-10-5-v,R10 --- prtvtdgr --- Ελληνική Λύση,,GRC,,,,
-GR-10-6-v,ΜέΡΑ25,2020,2020,GR-10-6-v,R10 --- prtvtdgr --- ΜέΡΑ25,,GRC,,,,
-GR-10-8-v,Πλεύση Ελευθερίας,2020,2020,GR-10-8-v,R10 --- prtvtdgr --- Πλεύση Ελευθερίας,,GRC,,,,
-GR-10-9-v,Ένωση Κεντρώων,2020,2020,GR-10-9-v,R10 --- prtvtdgr --- Ένωση Κεντρώων,,GRC,,,,
+GR-10-2-v,ΣΥΡΙΖΑ,2020,2020,GR-10-2-v,R10 --- prtvtdgr --- ΣΥΡΙΖΑ,301,GRC,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,
+GR-10-3-v,ΚΙΝ.ΑΛ.,2020,2020,GR-10-3-v,R10 --- prtvtdgr --- ΚΙΝ.ΑΛ.,1468,GRC,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,
+GR-10-5-v,Ελληνική Λύση,2020,2020,GR-10-5-v,R10 --- prtvtdgr --- Ελληνική Λύση,7347,GRC,EL,Elliniki Lisi,Greek Solution,
+GR-10-6-v,ΜέΡΑ25,2020,2020,GR-10-6-v,R10 --- prtvtdgr --- ΜέΡΑ25,7348,GRC,MeRA25,Métopo Evropaikís Realistikís Anypakoís,European Realistic Disobedience Front,
+GR-10-8-v,Πλεύση Ελευθερίας,2020,2020,GR-10-8-v,R10 --- prtvtdgr --- Πλεύση Ελευθερίας,9088,GRC,PE,Plefsi Eleftherias,Course of Freedom,
+GR-10-9-v,Ένωση Κεντρώων,2020,2020,GR-10-9-v,R10 --- prtvtdgr --- Ένωση Κεντρώων,2510,GRC,EK,Enosi Kentroon,Union of Centrists,
 HR-4-1-v,Hrvatska demokratska zajednica (HDZ),2008,2018,HR-4-1-v HR-5-1-v HR-9-1-v,"R4 --- prtvthr --- Hrvatska demokratska zajednica (HDZ)
 R5 --- prtvthr --- Hrvatska demokratska zajednica (HDZ)
 R9 --- prtvtahr --- Hrvatska demokratska zajednica (HDZ)",1431,HRV,HDZ,Hrvatska demokratska zajednica,Croatian Democratic Union,
@@ -1572,18 +1572,18 @@ R9 --- prtvtahr --- Other
 R10 --- prtvtbhr --- HDZ, HSLS
 R10 --- prtvtbhr --- Other",2027,HRV,etc,other,other,7
 HR-9-2-v,"Narodna koalicija - SDP, HNS, HSU, HSS",2018,2020,HR-9-2-v HR-10-2-v,"R9 --- prtvtahr --- Narodna koalicija - SDP, HNS, HSU, HSS
-R10 --- prtvtbhr --- SDP,  HSS, HSU",,HRV,,,,
+R10 --- prtvtbhr --- SDP,  HSS, HSU",2522,HRV,KK,Kukuriku koalicija,Kukuriku Coalition,
 HR-9-3-v,Most nezavisnih lista (Most),2018,2020,HR-9-3-v HR-10-4-v,"R9 --- prtvtahr --- Most nezavisnih lista (Most)
-R10 --- prtvtbhr --- Most",,HRV,,,,
-HR-9-4-v,"Koalicija Živi zid, Promijenimo Hrvatsku, Abeceda, HDSS",2018,2018,HR-9-4-v,"R9 --- prtvtahr --- Koalicija Živi zid, Promijenimo Hrvatsku, Abeceda, HDSS",,HRV,,,,
-HR-9-5-v,"Koalicija za premijera - BM 365, NS-R, NV-SR, HSS-SR, BUZ",2018,2018,HR-9-5-v,"R9 --- prtvtahr --- Koalicija za premijera - BM 365, NS-R, NV-SR, HSS-SR, BUZ",,HRV,,,,
-HR-9-6-v,"Koalicija IDS, PGS, LRI",2018,2018,HR-9-6-v,"R9 --- prtvtahr --- Koalicija IDS, PGS, LRI",,HRV,,,,
-HR-9-7-v,Koalicija HDSSB-HKS,2018,2018,HR-9-7-v,R9 --- prtvtahr --- Koalicija HDSSB-HKS,,HRV,,,,
-HR-9-9-v,Koalicija Pametno i Za grad,2018,2018,HR-9-9-v,R9 --- prtvtahr --- Koalicija Pametno i Za grad,,HRV,,,,
-HR-10-3-v,"DP, HS, Blok za Hrvatsku, HKS, Hrast",2020,2020,HR-10-3-v,"R10 --- prtvtbhr --- DP, HS, Blok za Hrvatsku, HKS, Hrast",,HRV,,,,
-HR-10-5-v,"Možemo, Zagreb je naš, NLJ, RF, Orah",2020,2020,HR-10-5-v,"R10 --- prtvtbhr --- Možemo, Zagreb je naš, NLJ, RF, Orah",,HRV,,,,
-HR-10-6-v,"SiP, Pametno, Fokus",2020,2020,HR-10-6-v,"R10 --- prtvtbhr --- SiP, Pametno, Fokus",,HRV,,,,
-HR-10-7-v,Reformisti,2020,2020,HR-10-7-v,R10 --- prtvtbhr --- Reformisti,,HRV,,,,
+R10 --- prtvtbhr --- Most",4865,HRV,Most,Most nezavisnih lista,Bridge of Independent Lists,
+HR-9-4-v,"Koalicija Živi zid, Promijenimo Hrvatsku, Abeceda, HDSS",2018,2018,HR-9-4-v,"R9 --- prtvtahr --- Koalicija Živi zid, Promijenimo Hrvatsku, Abeceda, HDSS",3918,HRV,ally,alliance,alliance,15
+HR-9-5-v,"Koalicija za premijera - BM 365, NS-R, NV-SR, HSS-SR, BUZ",2018,2018,HR-9-5-v,"R9 --- prtvtahr --- Koalicija za premijera - BM 365, NS-R, NV-SR, HSS-SR, BUZ",9092,HRV,KP,Koalicija za Premijera,Coalition for Prime Minister,
+HR-9-6-v,"Koalicija IDS, PGS, LRI",2018,2018,HR-9-6-v,"R9 --- prtvtahr --- Koalicija IDS, PGS, LRI",3918,HRV,ally,alliance,alliance,15
+HR-9-7-v,Koalicija HDSSB-HKS,2018,2018,HR-9-7-v,R9 --- prtvtahr --- Koalicija HDSSB-HKS,3918,HRV,ally,alliance,alliance,15
+HR-9-9-v,Koalicija Pametno i Za grad,2018,2018,HR-9-9-v,R9 --- prtvtahr --- Koalicija Pametno i Za grad,3918,HRV,ally,alliance,alliance,15
+HR-10-3-v,"DP, HS, Blok za Hrvatsku, HKS, Hrast",2020,2020,HR-10-3-v,"R10 --- prtvtbhr --- DP, HS, Blok za Hrvatsku, HKS, Hrast",3918,HRV,ally,alliance,alliance,15
+HR-10-5-v,"Možemo, Zagreb je naš, NLJ, RF, Orah",2020,2020,HR-10-5-v,"R10 --- prtvtbhr --- Možemo, Zagreb je naš, NLJ, RF, Orah",3918,HRV,ally,alliance,alliance,15
+HR-10-6-v,"SiP, Pametno, Fokus",2020,2020,HR-10-6-v,"R10 --- prtvtbhr --- SiP, Pametno, Fokus",3918,HRV,ally,alliance,alliance,15
+HR-10-7-v,Reformisti,2020,2020,HR-10-7-v,R10 --- prtvtbhr --- Reformisti,4866,HRV,NS — R,Narodna stranka — Reformisti,People's Party — Reformists,
 HU-1-1-v,Center Party,2002,2012,HU-1-1-v HU-2-1-v HU-3-7-v HU-4-7-v HU-5-7-v HU-6-1-v,"R1 --- prtvthu --- Center Party
 R2 --- prtvthu --- Center Party
 R3 --- prtvtahu --- Centrumpárt
@@ -1766,10 +1766,10 @@ R10 --- prtvtdie --- Social Democrats",4870,IRL,DS,Daonlathaigh Shóisialta,Soci
 IE-8-9-v,Socialist Party - United Left Alliance,2016,2020,IE-8-9-v IE-9-9-v IE-10-7-v,"R8 --- prtvtbie --- Socialist Party - United Left Alliance
 R9 --- prtvtcie --- Socialist Party - United Left Alliance
 R10 --- prtvtdie --- Socialist Party",8242,IRL,AAA / S,Anti-Austerity Alliance / Solidarity,Anti-Austerity Alliance / Solidarity,
-IE-10-9-v,RENUA Ireland,2020,2020,IE-10-9-v,R10 --- prtvtdie --- RENUA Ireland,,IRL,,,,
-IE-10-10-v,Aontu,2020,2020,IE-10-10-v,R10 --- prtvtdie --- Aontu,,IRL,,,,
-IE-10-11-v,Independents4Change,2020,2020,IE-10-11-v,R10 --- prtvtdie --- Independents4Change,,IRL,,,,
-IE-10-13-v,Workers' Party,2020,2020,IE-10-13-v,R10 --- prtvtdie --- Workers' Party,,IRL,,,,
+IE-10-9-v,RENUA Ireland,2020,2020,IE-10-9-v,R10 --- prtvtdie --- RENUA Ireland,4869,IRL,RI,Renua Ireland,Renua Ireland,
+IE-10-10-v,Aontu,2020,2020,IE-10-10-v,R10 --- prtvtdie --- Aontu,8642,IRL,A,Aontú,Aontu,
+IE-10-11-v,Independents4Change,2020,2020,IE-10-11-v,R10 --- prtvtdie --- Independents4Change,8181,IRL,I4C,Neamhspleáigh ar son an Athraithe,Independents 4 Change,
+IE-10-13-v,Workers' Party,2020,2020,IE-10-13-v,R10 --- prtvtdie --- Workers' Party,208,IRL,WP,Páirtí na nOibrithe,Workers Party,
 IL-1-1-v,Israel ahat,2002,2002,IL-1-1-v,R1 --- prtvtil --- Israel ahat,1314,ISR,YA,Yisrael Ahat,One Israel,
 IL-1-2-v,Likud,2002,2020,IL-1-2-v IL-4-2-v IL-5-2-v IL-6-2-v IL-7-2-v IL-8-2-v IL-10-1-v,"R1 --- prtvtil --- Likud
 R4 --- prtvtail --- Likud
@@ -1885,11 +1885,11 @@ IL-7-12-v,HaReshima HaArvit,2014,2016,IL-7-12-v IL-8-12-v,"R7 --- prtvtcil --- H
 R8 --- prtvtcil --- HaReshima HaArvit",2740,ISR,1-perc,1 percent,1 percent,11
 IL-7-15-v,White ballot,2014,2016,IL-7-15-v IL-8-15-v,"R7 --- prtvtcil --- White ballot
 R8 --- prtvtcil --- White ballot",3037,ISR,tech,technical,technical,12
-IL-10-2-v,Chachol- Lavan,2020,2020,IL-10-2-v,R10 --- prtvtdil --- Chachol- Lavan,,ISR,,,,
-IL-10-7-v,Tikva Hadasha,2020,2020,IL-10-7-v,R10 --- prtvtdil --- Tikva Hadasha,,ISR,,,,
-IL-10-8-v,Yamina,2020,2020,IL-10-8-v,R10 --- prtvtdil --- Yamina,,ISR,,,,
-IL-10-9-v,Ha'Zionut Ha'Datit,2020,2020,IL-10-9-v,R10 --- prtvtdil --- Ha'Zionut Ha'Datit,,ISR,,,,
-IL-10-13-v,Ra'am (led by Mansour Abbas),2020,2020,IL-10-13-v,R10 --- prtvtdil --- Ra'am (led by Mansour Abbas),,ISR,,,,
+IL-10-2-v,Chachol- Lavan,2020,2020,IL-10-2-v,R10 --- prtvtdil --- Chachol- Lavan,7599,ISR,KL,Kahol Lavan,Blue and White,
+IL-10-7-v,Tikva Hadasha,2020,2020,IL-10-7-v,R10 --- prtvtdil --- Tikva Hadasha,9005,ISR,NH,Tikva Hadasha,New Hope,
+IL-10-8-v,Yamina,2020,2020,IL-10-8-v,R10 --- prtvtdil --- Yamina,9095,ISR,Y,Yamina,Yamina,
+IL-10-9-v,Ha'Zionut Ha'Datit,2020,2020,IL-10-9-v,R10 --- prtvtdil --- Ha'Zionut Ha'Datit,953,ISR,HH — T,HaIchud HaLeumi — Tkuma,National Union — Tkuma,
+IL-10-13-v,Ra'am (led by Mansour Abbas),2020,2020,IL-10-13-v,R10 --- prtvtdil --- Ra'am (led by Mansour Abbas),1337,ISR,Raam,Reshima Aravit Me'uhedet,United Arab List,
 IS-2-1-v,Progressive Party,2004,2020,IS-2-1-v IS-6-2-v IS-8-2-v IS-9-2-v IS-10-5-v,"R2 --- prtvtis --- Progressive Party
 R6 --- prtvtais --- Framsóknarflokkinn
 R8 --- prtvtbis --- Framsóknarflokkinn
@@ -1939,8 +1939,8 @@ R9 --- prtvtcis --- Viðreisn
 R10 --- prtvtdis --- Viðreisn",5454,ISL,V,Viðreisn,Reform Party,
 IS-8-15-v,Skilaði auðu,2016,2016,IS-8-15-v,R8 --- prtvtbis --- Skilaði auðu,3033,ISL,tech,technical,technical,12
 IS-9-8-v,Miðflokkinn,2018,2020,IS-9-8-v IS-10-6-v,"R9 --- prtvtcis --- Miðflokkinn
-R10 --- prtvtdis --- Miðflokkinn",,ISL,,,,
-IS-10-13-v,Sósíalistaflokkurinn,2020,2020,IS-10-13-v,R10 --- prtvtdis --- Sósíalistaflokkurinn,,ISL,,,,
+R10 --- prtvtdis --- Miðflokkinn",7565,ISL,CP,Miðflokkurinn,Centre Party,
+IS-10-13-v,Sósíalistaflokkurinn,2020,2020,IS-10-13-v,R10 --- prtvtdis --- Sósíalistaflokkurinn,9004,ISL,SFI,Sósíalistaflokkur Íslands,Icelandic Socialist Party,
 IT-1-1-v,Democratici di Sinistra,2002,2002,IT-1-1-v,R1 --- prtvtit --- Democratici di Sinistra,878,ITA,DS,Democratici di Sinistra,Democrats of the Left,
 IT-1-2-v,La Margherita,2002,2002,IT-1-2-v,R1 --- prtvtit --- La Margherita,279,ITA,DL — M,Democrazia è Libertà — La Margherita,Democracy is Freedom — The Daisy,
 IT-1-3-v,Comunisti Italiani,2002,2002,IT-1-3-v,R1 --- prtvtit --- Comunisti Italiani,1635,ITA,PdCI,Partito dei Comunisti Italiani,Party of Italian Communists,
@@ -1995,8 +1995,8 @@ IT-6-13-v,La destra,2012,2016,IT-6-13-v IT-8-13-v,"R6 --- prtvtbit --- La destra
 R8 --- prtvtbit --- La destra",2415,ITA,1-perc,1 percent,1 percent,11
 IT-8-7-v,FLI,2016,2016,IT-8-7-v,R8 --- prtvtbit --- FLI,1179,ITA,FLI,Futuro e libertà per l'Italia,Future and Freedom for Italy,
 IT-8-11-v,Radicali Italiani (Amnistia giustizia e libertà),2016,2016,IT-8-11-v,R8 --- prtvtbit --- Radicali Italiani (Amnistia giustizia e libertà),8248,ITA,RI,Radicali Italiani,Italian Radicals,
-IT-9-2-v,#NAME?,2018,2020,IT-9-2-v IT-10-7-v,"R9 --- prtvtcit --- #NAME?
-R10 --- prtvtdit --- #NAME?",6155,ITA,#NAME?,Più Europa,More Europe,
+IT-9-2-v,+ Europa,2018,2020,IT-9-2-v IT-10-7-v,"R9 --- prtvtcit --- + Europa
+R10 --- prtvtdit --- + Europa",6155,ITA,+E,Più Europa,More Europe,
 IT-9-3-v,Italia Europa Insieme,2018,2020,IT-9-3-v IT-10-11-v,"R9 --- prtvtcit --- Italia Europa Insieme
 R10 --- prtvtdit --- Italia Europa Insieme",7671,ITA,IEI,Insieme,Together,
 IT-9-4-v,Civia Popolare Lorenzin,2018,2018,IT-9-4-v,R9 --- prtvtcit --- Civia Popolare Lorenzin,7670,ITA,CP,Civica Popolare,Popular Civic List,
@@ -2010,8 +2010,8 @@ IT-9-12-v,Potere al popolo,2018,2020,IT-9-12-v IT-10-9-v,"R9 --- prtvtcit --- Po
 R10 --- prtvtdit --- Potere al popolo",8247,ITA,PaP,Potere al Popolo,Power to the People,
 IT-9-13-v,Casapound Italia,2018,2020,IT-9-13-v IT-10-10-v,"R9 --- prtvtcit --- Casapound Italia
 R10 --- prtvtdit --- Casapound Italia",8244,ITA,CPI,CasaPound Italia,CasaPound Italy,
-IT-10-12-v,Il popolo della famiglia,2020,2020,IT-10-12-v,R10 --- prtvtdit --- Il popolo della famiglia,,ITA,,,,
-IT-10-32-v,Blank vote,2020,2020,IT-10-32-v,R10 --- prtvtdit --- Blank vote,,ITA,,,,
+IT-10-12-v,Il popolo della famiglia,2020,2020,IT-10-12-v,R10 --- prtvtdit --- Il popolo della famiglia,2415,ITA,1-perc,1 percent,1 percent,11
+IT-10-32-v,Blank vote,2020,2020,IT-10-32-v,R10 --- prtvtdit --- Blank vote,3038,ITA,tech,technical,technical,12
 LT-5-1-v,Lithuanian Social Democratic Party (LSDP),2010,2020,LT-5-1-v LT-5-1-v LT-5-1-v LT-6-8-v LT-6-8-v LT-6-8-v LT-7-8-v LT-7-8-v LT-7-8-v LT-8-1-v LT-8-1-v LT-8-1-v LT-9-1-v LT-9-1-v LT-9-1-v LT-10-17-v LT-10-17-v LT-10-17-v,"R5 --- prtvlt3 --- Lithuanian Social Democratic Party (LSDP)
 R5 --- prtvlt2 --- Lithuanian Social Democratic Party (LSDP)
 R5 --- prtvlt1 --- Lithuanian Social Democratic Party (LSDP)
@@ -2325,16 +2325,16 @@ R9 --- prtvblt1 --- Political Party 'List of Lithuania' (LS)
 R9 --- prtvblt1 --- Anti-corruption coalition of K. Krivickas and N. Puteikis (Lithuanian Centre Par
 R10 --- prtvclt3 --- Lithuanian Greens Party (LZP)
 R10 --- prtvclt1 --- Lithuanian Greens Party (LZP)",6738,LTU,List,"Politinė partija ""Lietuvos sąrašas""",Lithuanian List,
-LT-8-60-v,No 2nd round in single-member constituency,2016,2016,LT-8-60-v,R8 --- prtvblt3 --- No 2nd round in single-member constituency,,LTU,,,,
+LT-8-60-v,No 2nd round in single-member constituency,2016,2016,LT-8-60-v,R8 --- prtvblt3 --- No 2nd round in single-member constituency,3047,LTU,tech,technical,technical,12
 LT-8-61-v,"Did not vote for a single-member constituency candidate list, 2nd round",2016,2016,LT-8-61-v LT-8-61-v LT-8-61-v,"R8 --- prtvblt3 --- Did not vote for a single-member constituency candidate list, 2nd round
 R8 --- prtvblt2 --- Did not vote for a single-member constituency candidate list
-R8 --- prtvblt1 --- Did not vote for a multi-member nationwide candidate list",,LTU,,,,
+R8 --- prtvblt1 --- Did not vote for a multi-member nationwide candidate list",3047,LTU,tech,technical,technical,12
 LT-8-62-v,"Refused to tell if voted for a single-member constituency candidate list, 2nd ro",2016,2018,LT-8-62-v LT-8-62-v LT-8-62-v LT-9-62-v LT-9-62-v LT-9-62-v,"R8 --- prtvblt3 --- Refused to tell if voted for a single-member constituency candidate list, 2nd ro
 R8 --- prtvblt2 --- Refused to tell if voted for a single-member constituency candidate list
 R8 --- prtvblt1 --- Refused to tell if voted for a multi-member nationwide candidate list
 R9 --- prtvblt3 --- Refused to tell if voted for a single-member constituency candidate list, 2nd ro
 R9 --- prtvblt2 --- Refused to tell if voted for a single-member constituency candidate list
-R9 --- prtvblt1 --- Refused to tell if voted for a multi-member nationwide candidate list",,LTU,,,,
+R9 --- prtvblt1 --- Refused to tell if voted for a multi-member nationwide candidate list",3047,LTU,tech,technical,technical,12
 LT-8-14-v,Political Party 'List of Lithuania' (LS),2016,2020,LT-8-14-v LT-8-14-v LT-9-14-v LT-9-14-v LT-10-18-v,"R8 --- prtvblt2 --- Political Party 'List of Lithuania' (LS)
 R8 --- prtvblt1 --- Anti-corruption coalition of K. Krivickas and N. Puteikis (Lithuanian Centre Par
 R9 --- prtvblt3 --- Political Party 'List of Lithuania' (LS)
@@ -2342,17 +2342,17 @@ R9 --- prtvblt1 --- Anti-corruption coalition of K. Krivickas and N. Puteikis (L
 R10 --- prtvclt2 --- Political Party 'List of Lithuania' (LS)",3971,LTU,ally,alliance,alliance,15
 LT-10-7-v,National Alliance (NS),2020,2020,LT-10-7-v LT-10-7-v LT-10-7-v,"R10 --- prtvclt3 --- National Alliance (NS)
 R10 --- prtvclt2 --- National Alliance (NS)
-R10 --- prtvclt1 --- National Alliance (NS)",,LTU,,,,
+R10 --- prtvclt1 --- National Alliance (NS)",9096,LTU,NS,https://en.wikipedia.org/wiki/National_Alliance_(Lithuania),National Alliance,
 LT-10-9-v,Social Democratic Labour Party of Lithuania (LSDDP),2020,2020,LT-10-9-v LT-10-9-v LT-10-9-v,"R10 --- prtvclt3 --- Social Democratic Labour Party of Lithuania (LSDDP)
 R10 --- prtvclt2 --- Social Democratic Labour Party of Lithuania (LSDDP)
-R10 --- prtvclt1 --- Social Democratic Labour Party of Lithuania (LSDDP)",,LTU,,,,
+R10 --- prtvclt1 --- Social Democratic Labour Party of Lithuania (LSDDP)",7352,LTU,LSDDP—LRP,Lietuvos socialdemokratų darbo partija — Lietuvos regionų partija,Social Democratic Labour Party of Lithuania — Lithuanian Regions Party,
 LT-10-3-v,Freedom Party (LP),2020,2020,LT-10-3-v LT-10-3-v,"R10 --- prtvclt2 --- Freedom Party (LP)
-R10 --- prtvclt1 --- Freedom Party (LP)",,LTU,,,,
-LT-10-2-v,Party 'Freedom and Justice' (LT),2020,2020,LT-10-2-v,R10 --- prtvclt1 --- Party 'Freedom and Justice' (LT),,LTU,,,,
-LT-10-6-v,Centre Party - Nationalists (CPT),2020,2020,LT-10-6-v,R10 --- prtvclt1 --- Centre Party - Nationalists (CPT),,LTU,,,,
-LT-10-10-v,Union of Intergenerational Solidarity - Cohesion for Lithuania (KSSL),2020,2020,LT-10-10-v,R10 --- prtvclt1 --- Union of Intergenerational Solidarity - Cohesion for Lithuania (KSSL),,LTU,,,,
-LT-10-11-v,Party 'Lithuania - For everyone' (LV),2020,2020,LT-10-11-v,R10 --- prtvclt1 --- Party 'Lithuania - For everyone' (LV),,LTU,,,,
-LT-10-15-v,Christian Union (KS),2020,2020,LT-10-15-v,R10 --- prtvclt1 --- Christian Union (KS),,LTU,,,,
+R10 --- prtvclt1 --- Freedom Party (LP)",8982,LTU,LP,Laisvės partija,Freedom Party,
+LT-10-2-v,Party 'Freedom and Justice' (LT),2020,2020,LT-10-2-v,R10 --- prtvclt1 --- Party 'Freedom and Justice' (LT),5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
+LT-10-6-v,Centre Party - Nationalists (CPT),2020,2020,LT-10-6-v,R10 --- prtvclt1 --- Centre Party - Nationalists (CPT),3971,LTU,ally,alliance,alliance,15
+LT-10-10-v,Union of Intergenerational Solidarity - Cohesion for Lithuania (KSSL),2020,2020,LT-10-10-v,R10 --- prtvclt1 --- Union of Intergenerational Solidarity - Cohesion for Lithuania (KSSL),2501,LTU,1-perc,1 percent,1 percent,11
+LT-10-11-v,Party 'Lithuania - For everyone' (LV),2020,2020,LT-10-11-v,R10 --- prtvclt1 --- Party 'Lithuania - For everyone' (LV),2501,LTU,1-perc,1 percent,1 percent,11
+LT-10-15-v,Christian Union (KS),2020,2020,LT-10-15-v,R10 --- prtvclt1 --- Christian Union (KS),2501,LTU,1-perc,1 percent,1 percent,11
 LU-1-1-v,Parti Chrétien Social (PCS),2002,2004,LU-1-1-v LU-2-1-v,"R1 --- prtvtlu --- Parti Chrétien Social (PCS)
 R2 --- prtvtlu --- Parti Chrétien Social (PCS)",539,LUX,CSV,Chrëschtlech Sozial Vollekspartei,Christian Social People's Party,
 LU-1-2-v,Parti Socialiste Ouvrier Luxembourgeois (PSOL),2002,2004,LU-1-2-v LU-2-2-v,"R1 --- prtvtlu --- Parti Socialiste Ouvrier Luxembourgeois (PSOL)
@@ -2367,81 +2367,81 @@ LU-1-6-v,Comité d'action pour la Démocratie et la Justice sociale,2002,2004,LU
 R2 --- prtvtlu --- Comité d'action pour la Démocratie et la Justice sociale",1114,LUX,ADR,Alternativ Demokratesch Reformpartei,Alternative Democratic Reform Party,
 LU-1-7-v,Autres,2002,2004,LU-1-7-v LU-2-7-v,"R1 --- prtvtlu --- Autres
 R2 --- prtvtlu --- Autres",1847,LUX,etc,other,other,7
-LV-4-1-v,The People's Party,2008,2008,LV-4-1-v,R4 --- prtvtlv --- The People's Party,,LVA,,,,
+LV-4-1-v,The People's Party,2008,2008,LV-4-1-v,R4 --- prtvtlv --- The People's Party,1755,LVA,TP,Tautas Partija,People's Party,
 LV-4-2-v,Greens and Farmers Union,2008,2020,LV-4-2-v LV-9-16-v LV-10-16-v,"R4 --- prtvtlv --- Greens and Farmers Union
 R9 --- prtvtalv --- Zaļo un Zemnieku savienība
-R10 --- prtvtalv --- Zaļo un Zemnieku savienība",,LVA,,,,
-LV-4-3-v,New Era,2008,2008,LV-4-3-v,R4 --- prtvtlv --- New Era,,LVA,,,,
-LV-4-4-v,Concord Centre,2008,2008,LV-4-4-v,R4 --- prtvtlv --- Concord Centre,,LVA,,,,
-LV-4-5-v,Latvia's First party/Latvia's Way,2008,2008,LV-4-5-v,R4 --- prtvtlv --- Latvia's First party/Latvia's Way,,LVA,,,,
-LV-4-6-v,For Fatherland and Freedom/ LNNK,2008,2008,LV-4-6-v,R4 --- prtvtlv --- For Fatherland and Freedom/ LNNK,,LVA,,,,
-LV-4-7-v,For Human Rights in a United Latvia,2008,2008,LV-4-7-v,R4 --- prtvtlv --- For Human Rights in a United Latvia,,LVA,,,,
+R10 --- prtvtalv --- Zaļo un Zemnieku savienība",701,LVA,ZZS,Zaļo un Zemnieku savienība,Green and Farmers' Union,
+LV-4-3-v,New Era,2008,2008,LV-4-3-v,R4 --- prtvtlv --- New Era,1531,LVA,JL,Jaunais Laiks,New Era,
+LV-4-4-v,Concord Centre,2008,2008,LV-4-4-v,R4 --- prtvtlv --- Concord Centre,1056,LVA,SC,Saskaņas Centrs,Harmony Centre,
+LV-4-5-v,Latvia's First party/Latvia's Way,2008,2008,LV-4-5-v,R4 --- prtvtlv --- Latvia's First party/Latvia's Way,461,LVA,LPP/LC,Latvijas Pirmā partija / Latvijas Ceļš,Latvian First Party / Latvian Way Party,
+LV-4-6-v,For Fatherland and Freedom/ LNNK,2008,2008,LV-4-6-v,R4 --- prtvtlv --- For Fatherland and Freedom/ LNNK,1704,LVA,TB/LNNK,Tēvzemei un Brīvībai / LNNK,For Fatherland and Freedom / LNNK,
+LV-4-7-v,For Human Rights in a United Latvia,2008,2008,LV-4-7-v,R4 --- prtvtlv --- For Human Rights in a United Latvia,176,LVA,PCTVL,Par cilvēka tiesībām vienotā Latvijā,For Human Rights in a United Latvia,
 LV-4-8-v,Other,2008,2020,LV-4-8-v LV-10-17-v,"R4 --- prtvtlv --- Other
-R10 --- prtvtalv --- Other",,LVA,,,,
+R10 --- prtvtalv --- Other",1848,LVA,etc,other,other,7
 LV-9-1-v,Latvijas Krievu savienība,2018,2020,LV-9-1-v LV-10-1-v,"R9 --- prtvtalv --- Latvijas Krievu savienība
-R10 --- prtvtalv --- Latvijas Krievu savienība",,LVA,,,,
+R10 --- prtvtalv --- Latvijas Krievu savienība",5657,LVA,LKS/RSL,Latvijas Krievu savienība / Русский союз Латвии,Latvian Russian Union,
 LV-9-2-v,Jaunā konservatīvā partija,2018,2020,LV-9-2-v LV-10-2-v,"R9 --- prtvtalv --- Jaunā konservatīvā partija
-R10 --- prtvtalv --- Jaunā konservatīvā partija",,LVA,,,,
+R10 --- prtvtalv --- Jaunā konservatīvā partija",6355,LVA,JKP,Jaunā konservatīvā partija,New Conservative Party,
 LV-9-4-v,Nacionālā apvienība 'Visu Latvijai!' - 'Tēvzemei un Brīvībai/LNNK',2018,2020,LV-9-4-v LV-10-4-v,"R9 --- prtvtalv --- Nacionālā apvienība 'Visu Latvijai!' - 'Tēvzemei un Brīvībai/LNNK'
-R10 --- prtvtalv --- Nacionālā apvienība 'Visu Latvijai!' - 'Tēvzemei un Brīvībai/LNNK'",,LVA,,,,
+R10 --- prtvtalv --- Nacionālā apvienība 'Visu Latvijai!' - 'Tēvzemei un Brīvībai/LNNK'",7619,LVA,NA,Nacionālā apvienība,National Alliance,
 LV-9-5-v,Progresīvie,2018,2020,LV-9-5-v LV-10-5-v,"R9 --- prtvtalv --- Progresīvie
-R10 --- prtvtalv --- Progresīvie",,LVA,,,,
+R10 --- prtvtalv --- Progresīvie",6357,LVA,P,Progresīvie,The Progressive,
 LV-9-6-v,Latvijas centriskā partija,2018,2020,LV-9-6-v LV-10-6-v,"R9 --- prtvtalv --- Latvijas centriskā partija
-R10 --- prtvtalv --- Latvijas centriskā partija",,LVA,,,,
-LV-9-7-v,LSDSP/KDS/GKL,2018,2018,LV-9-7-v,R9 --- prtvtalv --- LSDSP/KDS/GKL,,LVA,,,,
+R10 --- prtvtalv --- Latvijas centriskā partija",2768,LVA,1-perc,1 percent,1 percent,11
+LV-9-7-v,LSDSP/KDS/GKL,2018,2018,LV-9-7-v,R9 --- prtvtalv --- LSDSP/KDS/GKL,3965,LVA,ally,alliance,alliance,15
 LV-9-8-v,No sirds Latvijai,2018,2020,LV-9-8-v LV-10-8-v,"R9 --- prtvtalv --- No sirds Latvijai
-R10 --- prtvtalv --- No sirds Latvijai",,LVA,,,,
+R10 --- prtvtalv --- No sirds Latvijai",3193,LVA,NsL,No sirds Latvijai,For Latvia from the Heart,
 LV-9-9-v,Sociāldemokrātiskā partija 'Saskaņa',2018,2020,LV-9-9-v LV-10-9-v,"R9 --- prtvtalv --- Sociāldemokrātiskā partija 'Saskaņa'
-R10 --- prtvtalv --- Sociāldemokrātiskā partija 'Saskaņa'",,LVA,,,,
+R10 --- prtvtalv --- Sociāldemokrātiskā partija 'Saskaņa'",5976,LVA,SDPS,"Sociāldemokrātiskā Partija ""Saskaņa""","Social Democratic Party ""Harmony""",
 LV-9-10-v,Attīstībai/Par!,2018,2020,LV-9-10-v LV-10-10-v,"R9 --- prtvtalv --- Attīstībai/Par!
-R10 --- prtvtalv --- Attīstībai/Par!",,LVA,,,,
+R10 --- prtvtalv --- Attīstībai/Par!",8393,LVA,AP!,Attīstībai/Par!,Development/For!,
 LV-9-11-v,Latvijas Reģionu Apvienība,2018,2020,LV-9-11-v LV-10-11-v,"R9 --- prtvtalv --- Latvijas Reģionu Apvienība
-R10 --- prtvtalv --- Latvijas Reģionu Apvienība",,LVA,,,,
+R10 --- prtvtalv --- Latvijas Reģionu Apvienība",3194,LVA,LRa,Latvijas Reģionu apvienība,Latvian Association of Regions,
 LV-9-12-v,Latviešu Nacionālisti,2018,2020,LV-9-12-v LV-10-12-v,"R9 --- prtvtalv --- Latviešu Nacionālisti
-R10 --- prtvtalv --- Latviešu Nacionālisti",,LVA,,,,
+R10 --- prtvtalv --- Latviešu Nacionālisti",2768,LVA,1-perc,1 percent,1 percent,11
 LV-9-13-v,Jaunā Vienotība,2018,2020,LV-9-13-v LV-10-13-v,"R9 --- prtvtalv --- Jaunā Vienotība
-R10 --- prtvtalv --- Jaunā Vienotība",,LVA,,,,
+R10 --- prtvtalv --- Jaunā Vienotība",9089,LVA,JV,Jaunā Vienotība,New Unity,
 LV-9-14-v,Par alternatīvu,2018,2020,LV-9-14-v LV-10-14-v,"R9 --- prtvtalv --- Par alternatīvu
-R10 --- prtvtalv --- Par alternatīvu",,LVA,,,,
+R10 --- prtvtalv --- Par alternatīvu",3965,LVA,ally,alliance,alliance,15
 LV-9-15-v,Politiskā partija KPV LV,2018,2020,LV-9-15-v LV-10-15-v,"R9 --- prtvtalv --- Politiskā partija KPV LV
-R10 --- prtvtalv --- Politiskā partija KPV LV",,LVA,,,,
-ME-9-1-v,"Albanci odlucno - Forca, DUA, AAA",2018,2018,ME-9-1-v,"R9 --- prtvtme --- Albanci odlucno - Forca, DUA, AAA",,MNE,,,,
-ME-9-2-v,SDP - Ranko Krivokapic,2018,2018,ME-9-2-v,R9 --- prtvtme --- SDP - Ranko Krivokapic,,MNE,,,,
-ME-9-3-v,"Albanska koalicija 'Sa jednim ciljem' - DP, GI, DS U CG i Perspektiva",2018,2018,ME-9-3-v,"R9 --- prtvtme --- Albanska koalicija 'Sa jednim ciljem' - DP, GI, DS U CG i Perspektiva",,MNE,,,,
-ME-9-5-v,Pozitivna Crna Gora - Darko Pajović,2018,2018,ME-9-5-v,R9 --- prtvtme --- Pozitivna Crna Gora - Darko Pajović,,MNE,,,,
+R10 --- prtvtalv --- Politiskā partija KPV LV",6356,LVA,KPVLV—PCL,Kam pieder valsts? — Par cilvēcīgu Latviju,Who owns the state? — For a Humane Latvia,
+ME-9-1-v,"Albanci odlucno - Forca, DUA, AAA",2018,2018,ME-9-1-v,"R9 --- prtvtme --- Albanci odlucno - Forca, DUA, AAA",8617,MNE,AO,Albanci odlučno,Albanians Decisively,
+ME-9-2-v,SDP - Ranko Krivokapic,2018,2020,ME-9-2-v ME-10-4-v,"R9 --- prtvtme --- SDP - Ranko Krivokapic
+R10 --- prtvtame --- Socijaldemokratska partija - SDP",3185,MNE,SDPCG,Socijaldemokratska Partija Crne Gore,Social Democratic Party of Montenegro,
+ME-9-3-v,"Albanska koalicija 'Sa jednim ciljem' - DP, GI, DS U CG i Perspektiva",2018,2018,ME-9-3-v,"R9 --- prtvtme --- Albanska koalicija 'Sa jednim ciljem' - DP, GI, DS U CG i Perspektiva",3982,MNE,ally,alliance,alliance,15
+ME-9-5-v,Pozitivna Crna Gora - Darko Pajović,2018,2018,ME-9-5-v,R9 --- prtvtme --- Pozitivna Crna Gora - Darko Pajović,4767,MNE,PCG,Pozitivna Crna Gora,Positive Montenegro,
 ME-9-6-v,DPS - Milo Đukanović,2018,2020,ME-9-6-v ME-10-8-v,"R9 --- prtvtme --- DPS - Milo Đukanović
-R10 --- prtvtame --- Demokratska partija socijalista - DPS",,MNE,,,,
-ME-9-8-v,Aleksa Bečić - Demokrate,2018,2018,ME-9-8-v,R9 --- prtvtme --- Aleksa Bečić - Demokrate,,MNE,,,,
-ME-9-9-v,"Velika koalicija Ključ - DEMOS, SNP, URA",2018,2018,ME-9-9-v,"R9 --- prtvtme --- Velika koalicija Ključ - DEMOS, SNP, URA",,MNE,,,,
-ME-9-10-v,Srpska stranka - Prof. Dr Milovan Živković,2018,2018,ME-9-10-v,R9 --- prtvtme --- Srpska stranka - Prof. Dr Milovan Živković,,MNE,,,,
-ME-9-11-v,"Stranka penzionera, invalida i socijalne pravde Crne Gore - Dr Smajo Šabotić",2018,2018,ME-9-11-v,"R9 --- prtvtme --- Stranka penzionera, invalida i socijalne pravde Crne Gore - Dr Smajo Šabotić",,MNE,,,,
-ME-9-12-v,Lista demokratskog saveza Albanaca,2018,2018,ME-9-12-v,R9 --- prtvtme --- Lista demokratskog saveza Albanaca,,MNE,,,,
+R10 --- prtvtame --- Demokratska partija socijalista - DPS",3162,MNE,DPS,Demokratska Partija Socijalista Crne Gore,Democratic Party of Socialists of Montenegro,
+ME-9-8-v,Aleksa Bečić - Demokrate,2018,2018,ME-9-8-v,R9 --- prtvtme --- Aleksa Bečić - Demokrate,5469,MNE,DCG,Demokratska Crna Gora,Democratic Montenegro,
+ME-9-9-v,"Velika koalicija Ključ - DEMOS, SNP, URA",2018,2018,ME-9-9-v,"R9 --- prtvtme --- Velika koalicija Ključ - DEMOS, SNP, URA",7624,MNE,KC,Koalicija Ključ,Key Coalition,
+ME-9-10-v,Srpska stranka - Prof. Dr Milovan Živković,2018,2018,ME-9-10-v,R9 --- prtvtme --- Srpska stranka - Prof. Dr Milovan Živković,2823,MNE,1-perc,1 percent,1 percent,11
+ME-9-11-v,"Stranka penzionera, invalida i socijalne pravde Crne Gore - Dr Smajo Šabotić",2018,2018,ME-9-11-v,"R9 --- prtvtme --- Stranka penzionera, invalida i socijalne pravde Crne Gore - Dr Smajo Šabotić",9104,MNE,PPIR,"Partija penzionera, invalida i restitucije",Party of United Pensioners and the Disabled,
+ME-9-12-v,Lista demokratskog saveza Albanaca,2018,2018,ME-9-12-v,R9 --- prtvtme --- Lista demokratskog saveza Albanaca,9103,MNE,DSA,Demokratskog Saveza Albanaca,Democratic League of Albanians,
 ME-9-13-v,Demokratski front,2018,2020,ME-9-13-v ME-10-9-v,"R9 --- prtvtme --- Demokratski front
-R10 --- prtvtame --- Demokratski front - DF",,MNE,,,,
-ME-9-14-v,Bošnjačka stranka - Rafet Husović,2018,2018,ME-9-14-v,R9 --- prtvtme --- Bošnjačka stranka - Rafet Husović,,MNE,,,,
-ME-9-15-v,Bošnjačka demokratska zajednica u Crnoj Gori - Hazbija Kalač,2018,2018,ME-9-15-v,R9 --- prtvtme --- Bošnjačka demokratska zajednica u Crnoj Gori - Hazbija Kalač,,MNE,,,,
-ME-9-16-v,Socijaldemokrate Crne Gore - Ivan Brajović,2018,2018,ME-9-16-v,R9 --- prtvtme --- Socijaldemokrate Crne Gore - Ivan Brajović,,MNE,,,,
-ME-9-17-v,Stranka srpskih radikala,2018,2018,ME-9-17-v,R9 --- prtvtme --- Stranka srpskih radikala,,MNE,,,,
-ME-9-18-v,Ostalo,2018,2018,ME-9-18-v,R9 --- prtvtme --- Ostalo,,MNE,,,,
-ME-10-1-v,Socijaldemokrate - SD,2020,2020,ME-10-1-v,R10 --- prtvtame --- Socijaldemokrate - SD,,MNE,,,,
-ME-10-2-v,Bošnjačka stranka - BS,2020,2020,ME-10-2-v,R10 --- prtvtame --- Bošnjačka stranka - BS,,MNE,,,,
-ME-10-4-v,Socijaldemokratska partija - SDP,2020,2020,ME-10-4-v,R10 --- prtvtame --- Socijaldemokratska partija - SDP,,MNE,,,,
-ME-10-6-v,Crno na bijelo - URA,2020,2020,ME-10-6-v,R10 --- prtvtame --- Crno na bijelo - URA,,MNE,,,,
-ME-10-7-v,Albanska koalicija - Jednoglasno,2020,2020,ME-10-7-v,R10 --- prtvtame --- Albanska koalicija - Jednoglasno,,MNE,,,,
-ME-10-10-v,Albanska lista - Genci Nimanbegu,2020,2020,ME-10-10-v,R10 --- prtvtame --- Albanska lista - Genci Nimanbegu,,MNE,,,,
-ME-10-11-v,Demokrate - Mir je nasa nacija,2020,2020,ME-10-11-v,R10 --- prtvtame --- Demokrate - Mir je nasa nacija,,MNE,,,,
-MK-10-1-v,Socijaldemokratski sojuz na Makedonija (SDSM) i Koalicija „Možeme“,2020,2020,MK-10-1-v,R10 --- prtvtmk --- Socijaldemokratski sojuz na Makedonija (SDSM) i Koalicija „Možeme“,,MKD,,,,
-MK-10-2-v,Vnatrešna makedonska revolucionerna organizacija - Demokratska partija za maked,2020,2020,MK-10-2-v,R10 --- prtvtmk --- Vnatrešna makedonska revolucionerna organizacija - Demokratska partija za maked,,MKD,,,,
-MK-10-3-v,Demokratska unija za integracija (DUI),2020,2020,MK-10-3-v,R10 --- prtvtmk --- Demokratska unija za integracija (DUI),,MKD,,,,
-MK-10-4-v,Alijansa za Albancite i Alternativa,2020,2020,MK-10-4-v,R10 --- prtvtmk --- Alijansa za Albancite i Alternativa,,MKD,,,,
-MK-10-5-v,Levica,2020,2020,MK-10-5-v,R10 --- prtvtmk --- Levica,,MKD,,,,
-MK-10-6-v,Demokratska partija na Albancite (DPA),2020,2020,MK-10-6-v,R10 --- prtvtmk --- Demokratska partija na Albancite (DPA),,MKD,,,,
-MK-10-8-v,Gragjansko demokratska unija (GDU),2020,2020,MK-10-8-v,R10 --- prtvtmk --- Gragjansko demokratska unija (GDU),,MKD,,,,
-MK-10-11-v,Edinstvena Makedonija — makedonska desničarska politička partija,2020,2020,MK-10-11-v,R10 --- prtvtmk --- Edinstvena Makedonija — makedonska desničarska politička partija,,MKD,,,,
-MK-10-12-v,Socijaldemokratska Unija (SDU),2020,2020,MK-10-12-v,R10 --- prtvtmk --- Socijaldemokratska Unija (SDU),,MKD,,,,
-MK-10-13-v,Tvoja partija,2020,2020,MK-10-13-v,R10 --- prtvtmk --- Tvoja partija,,MKD,,,,
-MK-10-15-v,Narodna partija na Romite (NPR),2020,2020,MK-10-15-v,R10 --- prtvtmk --- Narodna partija na Romite (NPR),,MKD,,,,
-MK-10-16-v,Other,2020,2020,MK-10-16-v,R10 --- prtvtmk --- Other,,MKD,,,,
+R10 --- prtvtame --- Demokratski front - DF",6087,MNE,DF,Demokratiski Front,Democratic Front,
+ME-9-14-v,Bošnjačka stranka - Rafet Husović,2018,2020,ME-9-14-v ME-10-2-v,"R9 --- prtvtme --- Bošnjačka stranka - Rafet Husović
+R10 --- prtvtame --- Bošnjačka stranka - BS",3255,MNE,BS,Bošnjačka stranka,Bosniak Party,
+ME-9-15-v,Bošnjačka demokratska zajednica u Crnoj Gori - Hazbija Kalač,2018,2018,ME-9-15-v,R9 --- prtvtme --- Bošnjačka demokratska zajednica u Crnoj Gori - Hazbija Kalač,2823,MNE,1-perc,1 percent,1 percent,11
+ME-9-16-v,Socijaldemokrate Crne Gore - Ivan Brajović,2018,2020,ME-9-16-v ME-10-1-v,"R9 --- prtvtme --- Socijaldemokrate Crne Gore - Ivan Brajović
+R10 --- prtvtame --- Socijaldemokrate - SD",5470,MNE,SDCG,Socijaldemokrate Crne Gore,Social Democrats of Montenegro,
+ME-9-17-v,Stranka srpskih radikala,2018,2018,ME-9-17-v,R9 --- prtvtme --- Stranka srpskih radikala,3161,MNE,SSR,Stranka srpskih radikala,Party of Serb Radicals,
+ME-9-18-v,Ostalo,2018,2018,ME-9-18-v,R9 --- prtvtme --- Ostalo,2819,MNE,etc,other,other,7
+ME-10-6-v,Crno na bijelo - URA,2020,2020,ME-10-6-v,R10 --- prtvtame --- Crno na bijelo - URA,5468,MNE,URA,Ujedinjena reformska akcija,United Reformist Action,
+ME-10-7-v,Albanska koalicija - Jednoglasno,2020,2020,ME-10-7-v,R10 --- prtvtame --- Albanska koalicija - Jednoglasno,3982,MNE,ally,alliance,alliance,15
+ME-10-10-v,Albanska lista - Genci Nimanbegu,2020,2020,ME-10-10-v,R10 --- prtvtame --- Albanska lista - Genci Nimanbegu,3982,MNE,ally,alliance,alliance,15
+ME-10-11-v,Demokrate - Mir je nasa nacija,2020,2020,ME-10-11-v,R10 --- prtvtame --- Demokrate - Mir je nasa nacija,3982,MNE,ally,alliance,alliance,15
+MK-10-1-v,Socijaldemokratski sojuz na Makedonija (SDSM) i Koalicija „Možeme“,2020,2020,MK-10-1-v,R10 --- prtvtmk --- Socijaldemokratski sojuz na Makedonija (SDSM) i Koalicija „Možeme“,3973,MKD,ally,alliance,alliance,15
+MK-10-2-v,Vnatrešna makedonska revolucionerna organizacija - Demokratska partija za maked,2020,2020,MK-10-2-v,R10 --- prtvtmk --- Vnatrešna makedonska revolucionerna organizacija - Demokratska partija za maked,1674,MKD,VMRO — DPMNE,VMRO — Demokratska partija za makedonsko nacionalno edinstvo,IMRO — Democratic Party for Macedonian National Unity,
+MK-10-3-v,Demokratska unija za integracija (DUI),2020,2020,MK-10-3-v,R10 --- prtvtmk --- Demokratska unija za integracija (DUI),1220,MKD,DUI,Demokratska unija za integracija,Democratic Union for Integrations,
+MK-10-4-v,Alijansa za Albancite i Alternativa,2020,2020,MK-10-4-v,R10 --- prtvtmk --- Alijansa za Albancite i Alternativa,3973,MKD,ally,alliance,alliance,15
+MK-10-5-v,Levica,2020,2020,MK-10-5-v,R10 --- prtvtmk --- Levica,9098,MKD,L,Levica,The Left,
+MK-10-6-v,Demokratska partija na Albancite (DPA),2020,2020,MK-10-6-v,R10 --- prtvtmk --- Demokratska partija na Albancite (DPA),431,MKD,DPA,Demokratska Partija na Albancite,Democratic Party of Albanians,
+MK-10-8-v,Gragjansko demokratska unija (GDU),2020,2020,MK-10-8-v,R10 --- prtvtmk --- Gragjansko demokratska unija (GDU),2787,MKD,1-perc,1 percent,1 percent,11
+MK-10-11-v,Edinstvena Makedonija — makedonska desničarska politička partija,2020,2020,MK-10-11-v,R10 --- prtvtmk --- Edinstvena Makedonija — makedonska desničarska politička partija,9099,MKD,EM,Edinstvena Makedonija — makedonska desničarska politička partija,Integra – Macedonian Conservative Party,
+MK-10-12-v,Socijaldemokratska Unija (SDU),2020,2020,MK-10-12-v,R10 --- prtvtmk --- Socijaldemokratska Unija (SDU),2787,MKD,1-perc,1 percent,1 percent,11
+MK-10-13-v,Tvoja partija,2020,2020,MK-10-13-v,R10 --- prtvtmk --- Tvoja partija,2787,MKD,1-perc,1 percent,1 percent,11
+MK-10-15-v,Narodna partija na Romite (NPR),2020,2020,MK-10-15-v,R10 --- prtvtmk --- Narodna partija na Romite (NPR),2787,MKD,1-perc,1 percent,1 percent,11
+MK-10-16-v,Other,2020,2020,MK-10-16-v,R10 --- prtvtmk --- Other,2783,MKD,etc,other,other,7
 NL-1-1-v,Christian Democratic Appeal,2002,2020,NL-1-1-v NL-2-1-v NL-3-1-v NL-4-1-v NL-5-4-v NL-6-4-v NL-7-5-v NL-8-5-v NL-9-5-v NL-10-5-v,"R1 --- prtvtnl --- Christian Democratic Appeal
 R2 --- prtvtanl --- Christian Democratic Appeal
 R3 --- prtvtbnl --- Christian Democratic Appeal
@@ -2576,9 +2576,9 @@ NL-9-13-v,Forum for Democracy,2018,2020,NL-9-13-v NL-10-13-v,"R9 --- prtvtgnl --
 R10 --- prtvthnl --- Forum for Democracy",5855,NLD,FvD,Forum voor Democratie,Forum for Democracy,
 NL-9-14-v,Article 1,2018,2020,NL-9-14-v NL-10-14-v,"R9 --- prtvtgnl --- Article 1
 R10 --- prtvthnl --- Article 1",2841,NLD,1-perc,1 percent,1 percent,11
-NL-10-15-v,Volt,2020,2020,NL-10-15-v,R10 --- prtvthnl --- Volt,,NLD,,,,
-NL-10-16-v,JA21,2020,2020,NL-10-16-v,R10 --- prtvthnl --- JA21,,NLD,,,,
-NL-10-17-v,BoerBurgerBeweging,2020,2020,NL-10-17-v,R10 --- prtvthnl --- BoerBurgerBeweging,,NLD,,,,
+NL-10-15-v,Volt,2020,2020,NL-10-15-v,R10 --- prtvthnl --- Volt,7355,NLD,VN,Volt Nederland,Volt Netherlands,
+NL-10-16-v,JA21,2020,2020,NL-10-16-v,R10 --- prtvthnl --- JA21,9011,NLD,JA21,Juiste Antwoord21,Right Answer 2021,
+NL-10-17-v,BoerBurgerBeweging,2020,2020,NL-10-17-v,R10 --- prtvthnl --- BoerBurgerBeweging,9010,NLD,BBB,BoerBurgerBeweging,Farmer-Citizen Movement,
 NO-1-1-v,Rød Valgallianse,2002,2008,NO-1-1-v NO-2-1-v NO-3-1-v NO-4-1-v,"R1 --- prtvtno --- Rød Valgallianse
 R2 --- prtvtno --- Rød Valgallianse
 R3 --- prtvtno --- Rød Valgallianse
@@ -2770,8 +2770,8 @@ PL-8-7-v,Razem,2016,2018,PL-8-7-v PL-9-7-v,"R8 --- prtvtdpl --- Razem
 R9 --- prtvtdpl --- Razem",4871,POL,Razem,[Lewica] Razem,[Left] Together,
 PL-8-8-v,Zjednoczona Lewica,2016,2016,PL-8-8-v,R8 --- prtvtdpl --- Zjednoczona Lewica,9091,POL,ZL,Zjednoczona Lewica,United Left,
 PL-9-8-v,Zjednoczona Lewica,2018,2018,PL-9-8-v,R9 --- prtvtdpl --- Zjednoczona Lewica,3999,POL,ally,alliance,alliance,15
-PL-10-1-v,Koalicja Bezpartyjni i Samorządowcy,2020,2020,PL-10-1-v,R10 --- prtvtepl --- Koalicja Bezpartyjni i Samorządowcy,,POL,,,,
-PL-10-3-v,Konfederacja Wolność i Niepodległość,2020,2020,PL-10-3-v,R10 --- prtvtepl --- Konfederacja Wolność i Niepodległość,,POL,,,,
+PL-10-1-v,Koalicja Bezpartyjni i Samorządowcy,2020,2020,PL-10-1-v,R10 --- prtvtepl --- Koalicja Bezpartyjni i Samorządowcy,2890,POL,1-perc,1 percent,1 percent,11
+PL-10-3-v,Konfederacja Wolność i Niepodległość,2020,2020,PL-10-3-v,R10 --- prtvtepl --- Konfederacja Wolność i Niepodległość,9026,POL,Konf,Konfederacja Wolność i Niepodległość,Confederation Freedom and Independence,
 PT-1-1-v,B.E. -  Bloco de Esquerda,2002,2020,PT-1-1-v PT-2-1-v PT-3-1-v PT-4-1-v PT-5-1-v PT-6-1-v PT-7-1-v PT-8-2-v PT-9-2-v PT-10-2-v,"R1 --- prtvtpt --- B.E. -  Bloco de Esquerda
 R2 --- prtvtpt --- B.E. -  Bloco de Esquerda
 R3 --- prtvtapt --- BE - Bloco de Esquerda
@@ -2877,16 +2877,16 @@ PT-8-16-v,PPD-PSD/CDS-PP - Portugal à Frente,2016,2018,PT-8-16-v PT-9-16-v,"R8 
 R9 --- prtvtcpt --- PPD-PSD/CDS-PP - Portugal à Frente",5939,PRT,PàF,Portugal à Frente,Portugal Ahead,
 PT-8-17-v,Votou em branco/ nulo,2016,2018,PT-8-17-v PT-9-17-v,"R8 --- prtvtcpt --- Votou em branco/ nulo
 R9 --- prtvtcpt --- Votou em branco/ nulo",3074,PRT,tech,technical,technical,12
-PT-9-10-v,PDR - Partido Democrático Republicano,2018,2018,PT-9-10-v,R9 --- prtvtcpt --- PDR - Partido Democrático Republicano,,PRT,,,,
-PT-10-4-v,CHEGA,2020,2020,PT-10-4-v,R10 --- prtvtdpt --- CHEGA,,PRT,,,,
-PT-10-5-v,IL - Iniciativa Liberal,2020,2020,PT-10-5-v,R10 --- prtvtdpt --- IL - Iniciativa Liberal,,PRT,,,,
-PT-10-6-v,JPP - Juntos pelo Povo,2020,2020,PT-10-6-v,R10 --- prtvtdpt --- JPP - Juntos pelo Povo,,PRT,,,,
-PT-10-21-v,R.I.R. - Reagir Incluir Reciclar,2020,2020,PT-10-21-v,R10 --- prtvtdpt --- R.I.R. - Reagir Incluir Reciclar,,PRT,,,,
+PT-9-10-v,PDR - Partido Democrático Republicano,2018,2018,PT-9-10-v,R9 --- prtvtcpt --- PDR - Partido Democrático Republicano,4513,PRT,PDR,Partido Democrático Republicano,Republican Democratic Party,
+PT-10-4-v,CHEGA,2020,2020,PT-10-4-v,R10 --- prtvtdpt --- CHEGA,8182,PRT,CH,Chega,Enough,
+PT-10-5-v,IL - Iniciativa Liberal,2020,2020,PT-10-5-v,R10 --- prtvtdpt --- IL - Iniciativa Liberal,8640,PRT,IL,Iniciativa Liberal,Liberal Initiative,
+PT-10-6-v,JPP - Juntos pelo Povo,2020,2020,PT-10-6-v,R10 --- prtvtdpt --- JPP - Juntos pelo Povo,2893,PRT,1-perc,1 percent,1 percent,11
+PT-10-21-v,R.I.R. - Reagir Incluir Reciclar,2020,2020,PT-10-21-v,R10 --- prtvtdpt --- R.I.R. - Reagir Incluir Reciclar,2893,PRT,1-perc,1 percent,1 percent,11
 RO-4-1-v,PD-L,2008,2008,RO-4-1-v,R4 --- prtvtaro --- PD-L,660,ROU,PDL,Partidul Democrat-Liberal,Democratic Liberal Party,
 RO-4-2-v,Alianta PSD-PC,2008,2008,RO-4-2-v,R4 --- prtvtaro --- Alianta PSD-PC,6153,ROU,PSD-PC,Alianța PSD+PC,Alliance PSD+PC,
 RO-4-3-v,PNL,2008,2008,RO-4-3-v,R4 --- prtvtaro --- PNL,481,ROU,PNL,Partidul Naţional Liberal,National Liberal Party,
-RO-4-4-v,PRM,2008,2008,RO-4-4-v,R4 --- prtvtaro --- PRM,,ROU,,,,
-RO-4-5-v,UDMR,2008,2008,RO-4-5-v,R4 --- prtvtaro --- UDMR,,ROU,,,,
+RO-4-4-v,PRM,2008,2008,RO-4-4-v,R4 --- prtvtaro --- PRM,1305,ROU,PRM,Partidul România Mare,Greater Romania Party,
+RO-4-5-v,UDMR,2008,2008,RO-4-5-v,R4 --- prtvtaro --- UDMR,1105,ROU,UDMR/RMDS,Uniunea Democrată Maghiară din România / Romániai Magyar Demokrata Szövetség,Democratic Union of Hungarians in Romania / Democratic Alliance of Hungarians in Romania,
 RO-4-6-v,PNG-CD,2008,2008,RO-4-6-v,R4 --- prtvtaro --- PNG-CD,296,ROU,PNG — CD,Partidul Noua Generaţie — Creştin Democrat,New Generation Party — Christian Democratic,
 RO-4-9-v,PNTCD,2008,2008,RO-4-9-v,R4 --- prtvtaro --- PNTCD,1750,ROU,PNT-CD,Partidul Naţional Ţărănesc Creştin Democrat,Christian-Democratic National Peasants' Party,
 RO-4-11-v,Other: PR,2008,2008,RO-4-11-v,R4 --- prtvtaro --- Other: PR,173,ROU,PaRo,Partida Romilor,Party of the Roma,
@@ -2910,22 +2910,22 @@ R10 --- prtvtars --- Vajdasági Magyar Szövetség-Pásztor István - Savez vojv
 RS-9-12-v,"Za pravednu Srbiju - Demokratska stranka (NOVA, DSHV, ZZS)",2018,2018,RS-9-12-v,"R9 --- prtvtrs --- Za pravednu Srbiju - Demokratska stranka (NOVA, DSHV, ZZS)",4011,SRB,ally,alliance,alliance,15
 RS-9-13-v,Other,2018,2020,RS-9-13-v RS-10-22-v,"R9 --- prtvtrs --- Other
 R10 --- prtvtars --- Other",2911,SRB,etc,other,other,7
-RS-10-1-v,ALEKSANDAR VUČIĆ - ZA NAŠU DECU.,2020,2020,RS-10-1-v,R10 --- prtvtars --- ALEKSANDAR VUČIĆ - ZA NAŠU DECU.,,SRB,,,,
-RS-10-5-v,ALEKSANDAR ŠAPIĆ - POBEDA ZA SRBIJU,2020,2020,RS-10-5-v,R10 --- prtvtars --- ALEKSANDAR ŠAPIĆ - POBEDA ZA SRBIJU,,SRB,,,,
-RS-10-6-v,ZA KRALjEVINU SRBIJU,2020,2020,RS-10-6-v,R10 --- prtvtars --- ZA KRALjEVINU SRBIJU,,SRB,,,,
-RS-10-7-v,UJEDINjENA DEMOKRATSKA SRBIJA,2020,2020,RS-10-7-v,R10 --- prtvtars --- UJEDINjENA DEMOKRATSKA SRBIJA,,SRB,,,,
-RS-10-8-v,Akademik Muamer Zukorlić - Samo pravo,2020,2020,RS-10-8-v,R10 --- prtvtars --- Akademik Muamer Zukorlić - Samo pravo,,SRB,,,,
-RS-10-9-v,METLA 2020,2020,2020,RS-10-9-v,R10 --- prtvtars --- METLA 2020,,SRB,,,,
-RS-10-10-v,Milan Stamatović - Zdravo da pobedi - Dragan Jovanović - Bolja Srbija - Zdrava,2020,2020,RS-10-10-v,R10 --- prtvtars --- Milan Stamatović - Zdravo da pobedi - Dragan Jovanović - Bolja Srbija - Zdrava,,SRB,,,,
-RS-10-12-v,Milica Đurđević Stamenkovski - Srpska stranka Zavetnici,2020,2020,RS-10-12-v,R10 --- prtvtars --- Milica Đurđević Stamenkovski - Srpska stranka Zavetnici,,SRB,,,,
-RS-10-13-v,NARODNI BLOK - Velimir Ilić - general Momir Stojanović,2020,2020,RS-10-13-v,R10 --- prtvtars --- NARODNI BLOK - Velimir Ilić - general Momir Stojanović,,SRB,,,,
-RS-10-14-v,SERGEJ TRIFUNOVIĆ - POKRET SLOBODNIH GRAĐANA,2020,2020,RS-10-14-v,R10 --- prtvtars --- SERGEJ TRIFUNOVIĆ - POKRET SLOBODNIH GRAĐANA,,SRB,,,,
-RS-10-15-v,SUVERENISTI,2020,2020,RS-10-15-v,R10 --- prtvtars --- SUVERENISTI,,SRB,,,,
-RS-10-17-v,Grupa građana: 1 od 5 miliona,2020,2020,RS-10-17-v,R10 --- prtvtars --- Grupa građana: 1 od 5 miliona,,SRB,,,,
-RS-10-18-v,NEK MASKE PADNU - Zelena stranka - Nova stranka,2020,2020,RS-10-18-v,R10 --- prtvtars --- NEK MASKE PADNU - Zelena stranka - Nova stranka,,SRB,,,,
-RS-10-19-v,RUSKA STRANKA - SLOBODAN NIKOLIĆ,2020,2020,RS-10-19-v,R10 --- prtvtars --- RUSKA STRANKA - SLOBODAN NIKOLIĆ,,SRB,,,,
-RS-10-20-v,Čedomir Jovanović - KOALICIJA ZA MIR,2020,2020,RS-10-20-v,R10 --- prtvtars --- Čedomir Jovanović - KOALICIJA ZA MIR,,SRB,,,,
-RS-10-21-v,POKRET LEVIJATAN - ŽIVIM ZA SRBIJU,2020,2020,RS-10-21-v,R10 --- prtvtars --- POKRET LEVIJATAN - ŽIVIM ZA SRBIJU,,SRB,,,,
+RS-10-1-v,ALEKSANDAR VUČIĆ - ZA NAŠU DECU.,2020,2020,RS-10-1-v,R10 --- prtvtars --- ALEKSANDAR VUČIĆ - ZA NAŠU DECU.,8999,SRB,ZMS,Zajedno možemo sve,Together We Can Do Everything,
+RS-10-5-v,ALEKSANDAR ŠAPIĆ - POBEDA ZA SRBIJU,2020,2020,RS-10-5-v,R10 --- prtvtars --- ALEKSANDAR ŠAPIĆ - POBEDA ZA SRBIJU,9101,SRB,SPAS,Srpski patriotski savez,Serbian Patriotic Alliance,
+RS-10-6-v,ZA KRALjEVINU SRBIJU,2020,2020,RS-10-6-v,R10 --- prtvtars --- ZA KRALjEVINU SRBIJU,9100,SRB,POKS,Pokret obnove Kraljevine Srbije,Movement for the Restoration of the Kingdom of Serbia,
+RS-10-7-v,UJEDINjENA DEMOKRATSKA SRBIJA,2020,2020,RS-10-7-v,R10 --- prtvtars --- UJEDINjENA DEMOKRATSKA SRBIJA,4011,SRB,ally,alliance,alliance,15
+RS-10-8-v,Akademik Muamer Zukorlić - Samo pravo,2020,2020,RS-10-8-v,R10 --- prtvtars --- Akademik Muamer Zukorlić - Samo pravo,4011,SRB,ally,alliance,alliance,15
+RS-10-9-v,METLA 2020,2020,2020,RS-10-9-v,R10 --- prtvtars --- METLA 2020,4011,SRB,ally,alliance,alliance,15
+RS-10-10-v,Milan Stamatović - Zdravo da pobedi - Dragan Jovanović - Bolja Srbija - Zdrava,2020,2020,RS-10-10-v,R10 --- prtvtars --- Milan Stamatović - Zdravo da pobedi - Dragan Jovanović - Bolja Srbija - Zdrava,4011,SRB,ally,alliance,alliance,15
+RS-10-12-v,Milica Đurđević Stamenkovski - Srpska stranka Zavetnici,2020,2020,RS-10-12-v,R10 --- prtvtars --- Milica Đurđević Stamenkovski - Srpska stranka Zavetnici,9102,SRB,SSZ,Srpska stranka Zavetnici,Serbian Party Oathkeepers,
+RS-10-13-v,NARODNI BLOK - Velimir Ilić - general Momir Stojanović,2020,2020,RS-10-13-v,R10 --- prtvtars --- NARODNI BLOK - Velimir Ilić - general Momir Stojanović,4011,SRB,ally,alliance,alliance,15
+RS-10-14-v,SERGEJ TRIFUNOVIĆ - POKRET SLOBODNIH GRAĐANA,2020,2020,RS-10-14-v,R10 --- prtvtars --- SERGEJ TRIFUNOVIĆ - POKRET SLOBODNIH GRAĐANA,8364,SRB,PSG,Pokret slobodnih građana,Movement of Free Citizens,
+RS-10-15-v,SUVERENISTI,2020,2020,RS-10-15-v,R10 --- prtvtars --- SUVERENISTI,7648,SRB,DJB,Udruženje „Dosta je bilo,Enough is Enough - Restart,
+RS-10-17-v,Grupa građana: 1 od 5 miliona,2020,2020,RS-10-17-v,R10 --- prtvtars --- Grupa građana: 1 od 5 miliona,2915,SRB,1-perc,1 percent,1 percent,11
+RS-10-18-v,NEK MASKE PADNU - Zelena stranka - Nova stranka,2020,2020,RS-10-18-v,R10 --- prtvtars --- NEK MASKE PADNU - Zelena stranka - Nova stranka,4011,SRB,ally,alliance,alliance,15
+RS-10-19-v,RUSKA STRANKA - SLOBODAN NIKOLIĆ,2020,2020,RS-10-19-v,R10 --- prtvtars --- RUSKA STRANKA - SLOBODAN NIKOLIĆ,2915,SRB,1-perc,1 percent,1 percent,11
+RS-10-20-v,Čedomir Jovanović - KOALICIJA ZA MIR,2020,2020,RS-10-20-v,R10 --- prtvtars --- Čedomir Jovanović - KOALICIJA ZA MIR,4011,SRB,ally,alliance,alliance,15
+RS-10-21-v,POKRET LEVIJATAN - ŽIVIM ZA SRBIJU,2020,2020,RS-10-21-v,R10 --- prtvtars --- POKRET LEVIJATAN - ŽIVIM ZA SRBIJU,4011,SRB,ally,alliance,alliance,15
 RU-3-1-v,United Russia (ER),2006,2016,RU-3-1-v RU-4-1-v RU-5-1-v RU-6-1-v RU-8-1-v,"R3 --- prtvtru --- United Russia (ER)
 R4 --- prtvtaru --- United Russia (ER)
 R5 --- prtvtbru --- United Russia (ER)
@@ -3218,13 +3218,13 @@ R10 --- prtvtesk --- Sloboda a Solidarita (SaS)",1386,SVK,SaS,Sloboda a Solidari
 SK-6-1-v,Ordinary People and Independent Personalities (OLaNO),2012,2020,SK-6-1-v SK-9-1-v SK-10-1-v,"R6 --- prtvtcsk --- Ordinary People and Independent Personalities (OLaNO)
 R9 --- prtvtdsk --- Obyčajní Ľudia a nezávislé osobnosti
 R10 --- prtvtesk --- Obyčajní Ľudia a nezávislé osobnosti",2130,SVK,OLaNO,Obyčajní Ľudia a Nezávislé Osobnosti,Ordinary People and Independents,
-SK-9-5-v,ĽS Naše Slovensko,2018,2018,SK-9-5-v,R9 --- prtvtdsk --- ĽS Naše Slovensko,,SVK,,,,
-SK-9-7-v,Sieť,2018,2018,SK-9-7-v,R9 --- prtvtdsk --- Sieť,,SVK,,,,
+SK-9-5-v,ĽS Naše Slovensko,2018,2018,SK-9-5-v,R9 --- prtvtdsk --- ĽS Naše Slovensko,656,SVK,LsNS,Ľudová strana Naše Slovensko,People's Party Our Slovakia,
+SK-9-7-v,Sieť,2018,2018,SK-9-7-v,R9 --- prtvtdsk --- Sieť,4872,SVK,S—SKS,Sieť — Slovenská konzervatívna strana,Network — Slovak Conservative Party,
 SK-9-8-v,SME Rodina,2018,2020,SK-9-8-v SK-10-3-v,"R9 --- prtvtdsk --- SME Rodina
-R10 --- prtvtesk --- SME Rodina",,SVK,,,,
-SK-10-4-v,ĽS Naše Slovensko,2020,2020,SK-10-4-v,R10 --- prtvtesk --- ĽS Naše Slovensko,,SVK,,,,
-SK-10-5-v,Pogresívne Slovensko - Spolu,2020,2020,SK-10-5-v,R10 --- prtvtesk --- Pogresívne Slovensko - Spolu,,SVK,,,,
-SK-10-7-v,Za ľudí,2020,2020,SK-10-7-v,R10 --- prtvtesk --- Za ľudí,,SVK,,,,
+R10 --- prtvtesk --- SME Rodina",4873,SVK,SR,Sme Rodina — Boris Kollár,We are family — Boris Kollar,
+SK-10-4-v,ĽS Naše Slovensko,2020,2020,SK-10-4-v,R10 --- prtvtesk --- ĽS Naše Slovensko,656,SVK,LsNS,Ľudová strana Naše Slovensko,People's Party Our Slovakia,
+SK-10-5-v,Pogresívne Slovensko - Spolu,2020,2020,SK-10-5-v,R10 --- prtvtesk --- Pogresívne Slovensko - Spolu,4015,SVK,ally,alliance,alliance,15
+SK-10-7-v,Za ľudí,2020,2020,SK-10-7-v,R10 --- prtvtesk --- Za ľudí,8394,SVK,Za,Za ľudí,For the People,
 TR-2-1-v,AKP-Adalet ve Kalkinma Partisi,2004,2008,TR-2-1-v TR-4-1-v,"R2 --- prtvttr --- AKP-Adalet ve Kalkinma Partisi
 R4 --- prtvtatr --- Adalet Kalkinma Partisi (AKP)",306,TUR,AKP,Adalet ve Kalkınma Partisi,Justice and Development Party,
 TR-2-2-v,ANAP-Anavatan Partisi,2004,2008,TR-2-2-v TR-4-2-v,"R2 --- prtvttr --- ANAP-Anavatan Partisi
