@@ -1995,10 +1995,10 @@ ES,10,prtvtfes,CUP,10,ES-10-10-v,ES-9-19-v,ESP
 ES,10,prtvtfes,EAJ-PNV,11,ES-10-11-v,ES-1-7-v,ESP
 ES,10,prtvtfes,EH-Bildu,12,ES-10-12-v,ES-8-14-v,ESP
 ES,10,prtvtfes,CC-PNC-NC,13,ES-10-13-v,ES-10-13-v,ESP
-ES,10,prtvtfes,Navarra Suma,14,ES-10-14-v,ES-10-14-v,ESP
+ES,10,prtvtfes,Navarra Suma,14,ES-10-14-v,ES-9-17-v,ESP
 ES,10,prtvtfes,Més Compromis,15,ES-10-15-v,ES-10-15-v,ESP
 ES,10,prtvtfes,BNG,16,ES-10-16-v,ES-1-9-v,ESP
-ES,10,prtvtfes,PRC,17,ES-10-17-v,ES-10-17-v,ESP
+ES,10,prtvtfes,PRC,17,ES-10-17-v,ES-9-20-v,ESP
 ES,10,prtvtfes,Teruel Existe,18,ES-10-18-v,ES-10-18-v,ESP
 ES,10,prtvtfes,Other,53,ES-10-53-v,ES-1-68-v,ESP
 ES,10,prtvtfes,Blank vote,54,ES-10-54-v,ES-2-75-v,ESP
@@ -4475,9 +4475,9 @@ ME,9,prtclme,Albanska alternativa (AA),16,ME-9-16-c,ME-9-16-c,MNE
 ME,9,prtclme,FORCA,17,ME-9-17-c,ME-9-17-c,MNE
 ME,9,prtclme,Prava Crna Gora,19,ME-9-19-c,ME-9-19-c,MNE
 ME,9,prtclme,Ostalo,20,ME-9-20-c,ME-9-20-c,MNE
-ME,10,prtvtame,Socijaldemokrate - SD,1,ME-10-1-v,ME-10-1-v,MNE
-ME,10,prtvtame,Bošnjačka stranka - BS,2,ME-10-2-v,ME-10-2-v,MNE
-ME,10,prtvtame,Socijaldemokratska partija - SDP,4,ME-10-4-v,ME-10-4-v,MNE
+ME,10,prtvtame,Socijaldemokrate - SD,1,ME-10-1-v,ME-9-16-v,MNE
+ME,10,prtvtame,Bošnjačka stranka - BS,2,ME-10-2-v,ME-9-14-v,MNE
+ME,10,prtvtame,Socijaldemokratska partija - SDP,4,ME-10-4-v,ME-9-2-v,MNE
 ME,10,prtvtame,Crno na bijelo - URA,6,ME-10-6-v,ME-10-6-v,MNE
 ME,10,prtvtame,Albanska koalicija - Jednoglasno,7,ME-10-7-v,ME-10-7-v,MNE
 ME,10,prtvtame,Demokratska partija socijalista - DPS,8,ME-10-8-v,ME-9-6-v,MNE
