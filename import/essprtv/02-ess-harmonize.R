@@ -29,7 +29,7 @@ ess_clean <-
 # create updated ESS / Party Facts link file
 ess_update <-
   ess |>
-  left_join(ess_clean, by = "ess_id") |>
+  left_join(ess_clean, by = "ess_id", multiple = "first") |>
   arrange(ess_cntry, essround, desc(ess_variable), ess_party_id)
 
 # replace existing link file -- changes tracked with Git
