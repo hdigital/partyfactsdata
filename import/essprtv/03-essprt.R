@@ -45,7 +45,7 @@ if (! exists("pf_party")) {
 
 ## ESS preparation ----
 
-# add some variables needed below
+# add variables needed below
 prt <-
   raw_ess_clean |>
   mutate(
@@ -61,7 +61,7 @@ prt <-
         remove = FALSE) |>
   select(-essround, -ess_variable)
 
-# collapse ESS rounds at the party level
+# collapse ESS rounds at party level
 prt_info <-
   prt |>
   summarise(
@@ -79,7 +79,7 @@ prt_out <-
   distinct(first_ess_id) |>
   inner_join(prt_info, by = "first_ess_id") |>
   left_join(pf_party, by = "first_ess_id") |>
-  relocate(partyfacts_id, .before = country) |> 
+  relocate(partyfacts_id, .before = country) |>
   mutate(
     country_short = str_extract(first_ess_id, "[:alpha:]{2}"),
     country = if_else(
@@ -87,32 +87,32 @@ prt_out <-
       countrycode(country_short, "iso2c", "iso3c", custom_match = c("XK" = "XKX")),
       country
     )
-  ) |> 
+  ) |>
   select(-country_short)
 
 
 ## Check duplicates ----
 
 # question vote intention (prtv*)
-prtv_out_check <- 
+prtv_out_check <-
   prt_out |>
   filter(prt_var == "prtv") |>
   select(-prt_var) |>
-  group_by(first_ess_id) |> 
-  mutate(dupl = n()) |> 
+  group_by(first_ess_id) |>
+  mutate(dupl = n()) |>
   filter(dupl > 1)
-  
+
 # question party close to (prtc*)
-prtc_out_check <- 
-  prt_out |> 
+prtc_out_check <-
+  prt_out |>
   filter(prt_var == "prtc") |>
   select(-prt_var) |>
-  group_by(first_ess_id) |> 
-  mutate(dupl = n()) |> 
+  group_by(first_ess_id) |>
+  mutate(dupl = n()) |>
   filter(dupl > 1)
 
 
-## Link files ----
+## Link data sets ----
 
 # question vote intention (prtv*)
 prt_out |>

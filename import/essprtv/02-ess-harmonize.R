@@ -38,7 +38,7 @@ write_csv(ess_update, file_ess_clean, na = "")
 
 ## Consistency checks ----
 
-# raise warning message and show data with consistency issue
+# raise warning message and show data with consistency issues
 raise_warning <- function(df, msg) {
   if (nrow(df) > 0) {
     warning(msg)

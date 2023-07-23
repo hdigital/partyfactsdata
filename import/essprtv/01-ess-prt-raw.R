@@ -78,6 +78,7 @@ write_csv(ess_prt_out, "01-ess-prt-raw.csv", na = "")
 ## Data issues ESS ----
 
 print("ESS variables with multipe 'prtv*' variables per country -- duplicate 'ess_id'")
+
 ess_prt_out |>
   filter(str_detect(variable, "prtv.+\\d")) |>
   pull(variable) |>
@@ -86,7 +87,6 @@ ess_prt_out |>
 
 
 # find parties with different ids in prtv/prtc
-
 prt_vc_different <-
   ess_prt_out |>
   mutate(variable = substr(variable, 1, 4),
