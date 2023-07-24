@@ -77,8 +77,12 @@ with `first_ess_id`  and `country`
       variable `prtvlfi`
 + `ess_id` and `first_ess_id`
   + consist of `cntry-essround-ess_party_id-prt_v/c`
-  + R tidyverse code — `mutate(ess_id = paste(cntry, essround, ess_party_id,
+    + R tidyverse code — `mutate(ess_id = paste(cntry, essround, ess_party_id,
     substr(variable, 4, 4), sep = "-"))`
+    + e.g. FR-1-1-v
+  + in case of DEU and LTU the voting tier is added as additional identification
+    + R tidyverse code — `mutate(ess_id = paste(cntry, essround, party_id, substr(variable, 4, 4), str_sub(variable, -3, -1), sep = "-"))`
+    + e.g. DE-1-1-v-de2
 + `first_ess_id`
   + used as a __unique identifier__ (harmonized) of a party within ESS ids
   + parties are imported into
@@ -89,3 +93,28 @@ with `first_ess_id`  and `country`
   + not unique for some `prtv*` variables
   + different variables for tier votes in DEU and LTU
   + e.g. `prtvade2` and `prtvblt3`
+
+### Code Snippet
+
+```R
+ mutate(ess_id = case_when(
+  cntry %in% c("DE", "LT") & str_detect(variable, "prtv") ~ paste(
+      cntry,
+      essround,
+      party_id,
+      substr(variable, 4, 4),
+      str_sub(variable, -3, -1),
+      sep = "-"
+      ),
+    T ~ paste(
+      cntry,
+      essround,
+      party_id,
+      substr(variable, 4, 4),
+      sep = "-"
+      )
+    )
+  )
+```
+
+see [01-ess-prt-raw.R](01-ess-prt-raw.R)
