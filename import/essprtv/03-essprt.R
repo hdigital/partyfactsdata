@@ -140,7 +140,7 @@ write_csv(prt_out_all, "essprt-all.csv", na = "")
 
 pl_dt <-
   prt_out_all |>
-  filter(is.na(technical), str_ends(ess_id, "v")) |>
+  filter(is.na(technical), str_detect(ess_variable, "prtv")) |>
   distinct(country, essround, ess_id) |>
   count(country, essround, sort = TRUE) |>
   mutate(country = factor(country) |> fct_rev(),
