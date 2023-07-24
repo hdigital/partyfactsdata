@@ -1139,20 +1139,20 @@ DE,1,prtclde,Free Democratic Party (FDP) ,4,DE-1-4-c
 DE,1,prtclde,Party of Democratic Socialism (PDS),5,DE-1-5-c
 DE,1,prtclde,The Republicans (REP),6,DE-1-6-c
 DE,1,prtclde,Other,7,DE-1-7-c
-DE,1,prtvde1,Social Democratic Party (SPD),1,DE-1-1-v
-DE,1,prtvde1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-1-2-v
-DE,1,prtvde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-1-3-v
-DE,1,prtvde1,Free Democratic Party (FDP) ,4,DE-1-4-v
-DE,1,prtvde1,Party of Democratic Socialism (PDS),5,DE-1-5-v
-DE,1,prtvde1,The Republicans (REP),6,DE-1-6-v
-DE,1,prtvde1,Other,7,DE-1-7-v
-DE,1,prtvde2,Social Democratic Party (SPD),1,DE-1-1-v
-DE,1,prtvde2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-1-2-v
-DE,1,prtvde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-1-3-v
-DE,1,prtvde2,Free Democratic Party (FDP) ,4,DE-1-4-v
-DE,1,prtvde2,Party of Democratic Socialism (PDS),5,DE-1-5-v
-DE,1,prtvde2,The Republicans (REP),6,DE-1-6-v
-DE,1,prtvde2,Other,7,DE-1-7-v
+DE,1,prtvde1,Social Democratic Party (SPD),1,DE-1-1-v-de1
+DE,1,prtvde1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-1-2-v-de1
+DE,1,prtvde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-1-3-v-de1
+DE,1,prtvde1,Free Democratic Party (FDP) ,4,DE-1-4-v-de1
+DE,1,prtvde1,Party of Democratic Socialism (PDS),5,DE-1-5-v-de1
+DE,1,prtvde1,The Republicans (REP),6,DE-1-6-v-de1
+DE,1,prtvde1,Other,7,DE-1-7-v-de1
+DE,1,prtvde2,Social Democratic Party (SPD),1,DE-1-1-v-de2
+DE,1,prtvde2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-1-2-v-de2
+DE,1,prtvde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-1-3-v-de2
+DE,1,prtvde2,Free Democratic Party (FDP) ,4,DE-1-4-v-de2
+DE,1,prtvde2,Party of Democratic Socialism (PDS),5,DE-1-5-v-de2
+DE,1,prtvde2,The Republicans (REP),6,DE-1-6-v-de2
+DE,1,prtvde2,Other,7,DE-1-7-v-de2
 DE,2,prtclade,Social Democratic Party (SPD),1,DE-2-1-c
 DE,2,prtclade,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-2-2-c
 DE,2,prtclade,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-2-3-c
@@ -1161,22 +1161,22 @@ DE,2,prtclade,Party of Democratic Socialism (PDS),5,DE-2-5-c
 DE,2,prtclade,The Republicans (REP),6,DE-2-6-c
 DE,2,prtclade,National Democratic Party/German People's Union (NPD/DVU),7,DE-2-7-c
 DE,2,prtclade,Other,8,DE-2-8-c
-DE,2,prtvade1,Social Democratic Party (SPD),1,DE-2-1-v
-DE,2,prtvade1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-2-2-v
-DE,2,prtvade1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-2-3-v
-DE,2,prtvade1,Free Democratic Party (FDP) ,4,DE-2-4-v
-DE,2,prtvade1,Party of Democratic Socialism (PDS),5,DE-2-5-v
-DE,2,prtvade1,The Republicans (REP),6,DE-2-6-v
-DE,2,prtvade1,National Democratic Party/German People's Union (NPD/DVU),7,DE-2-7-v
-DE,2,prtvade1,Other,8,DE-2-8-v
-DE,2,prtvade2,Social Democratic Party (SPD),1,DE-2-1-v
-DE,2,prtvade2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-2-2-v
-DE,2,prtvade2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-2-3-v
-DE,2,prtvade2,Free Democratic Party (FDP) ,4,DE-2-4-v
-DE,2,prtvade2,Party of Democratic Socialism (PDS),5,DE-2-5-v
-DE,2,prtvade2,The Republicans (REP),6,DE-2-6-v
-DE,2,prtvade2,National Democratic Party/German People's Union (NPD/DVU),7,DE-2-7-v
-DE,2,prtvade2,Other,8,DE-2-8-v
+DE,2,prtvade1,Social Democratic Party (SPD),1,DE-2-1-v-de1
+DE,2,prtvade1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-2-2-v-de1
+DE,2,prtvade1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-2-3-v-de1
+DE,2,prtvade1,Free Democratic Party (FDP) ,4,DE-2-4-v-de1
+DE,2,prtvade1,Party of Democratic Socialism (PDS),5,DE-2-5-v-de1
+DE,2,prtvade1,The Republicans (REP),6,DE-2-6-v-de1
+DE,2,prtvade1,National Democratic Party/German People's Union (NPD/DVU),7,DE-2-7-v-de1
+DE,2,prtvade1,Other,8,DE-2-8-v-de1
+DE,2,prtvade2,Social Democratic Party (SPD),1,DE-2-1-v-de2
+DE,2,prtvade2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-2-2-v-de2
+DE,2,prtvade2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-2-3-v-de2
+DE,2,prtvade2,Free Democratic Party (FDP) ,4,DE-2-4-v-de2
+DE,2,prtvade2,Party of Democratic Socialism (PDS),5,DE-2-5-v-de2
+DE,2,prtvade2,The Republicans (REP),6,DE-2-6-v-de2
+DE,2,prtvade2,National Democratic Party/German People's Union (NPD/DVU),7,DE-2-7-v-de2
+DE,2,prtvade2,Other,8,DE-2-8-v-de2
 DE,3,prtclbde,Social Democratic Party (SPD),1,DE-3-1-c
 DE,3,prtclbde,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-3-2-c
 DE,3,prtclbde,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-3-3-c
@@ -1185,22 +1185,22 @@ DE,3,prtclbde,The Left Party.PDS (Die Linkspartei.PDS),5,DE-3-5-c
 DE,3,prtclbde,The Republicans (REP),6,DE-3-6-c
 DE,3,prtclbde,National Democratic Party/German People's Union (NPD/DVU),7,DE-3-7-c
 DE,3,prtclbde,Other,8,DE-3-8-c
-DE,3,prtvbde1,Social Democratic Party (SPD),1,DE-3-1-v
-DE,3,prtvbde1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-3-2-v
-DE,3,prtvbde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-3-3-v
-DE,3,prtvbde1,Free Democratic Party (FDP) ,4,DE-3-4-v
-DE,3,prtvbde1,The Left Party.PDS (Die Linkspartei.PDS),5,DE-3-5-v
-DE,3,prtvbde1,The Republicans (REP),6,DE-3-6-v
-DE,3,prtvbde1,National Democratic Party/German People's Union (NPD/DVU),7,DE-3-7-v
-DE,3,prtvbde1,Other,8,DE-3-8-v
-DE,3,prtvbde2,Social Democratic Party (SPD),1,DE-3-1-v
-DE,3,prtvbde2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-3-2-v
-DE,3,prtvbde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-3-3-v
-DE,3,prtvbde2,Free Democratic Party (FDP) ,4,DE-3-4-v
-DE,3,prtvbde2,The Left Party.PDS (Die Linkspartei.PDS),5,DE-3-5-v
-DE,3,prtvbde2,The Republicans (REP),6,DE-3-6-v
-DE,3,prtvbde2,National Democratic Party/German People's Union (NPD/DVU),7,DE-3-7-v
-DE,3,prtvbde2,Other,8,DE-3-8-v
+DE,3,prtvbde1,Social Democratic Party (SPD),1,DE-3-1-v-de1
+DE,3,prtvbde1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-3-2-v-de1
+DE,3,prtvbde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-3-3-v-de1
+DE,3,prtvbde1,Free Democratic Party (FDP) ,4,DE-3-4-v-de1
+DE,3,prtvbde1,The Left Party.PDS (Die Linkspartei.PDS),5,DE-3-5-v-de1
+DE,3,prtvbde1,The Republicans (REP),6,DE-3-6-v-de1
+DE,3,prtvbde1,National Democratic Party/German People's Union (NPD/DVU),7,DE-3-7-v-de1
+DE,3,prtvbde1,Other,8,DE-3-8-v-de1
+DE,3,prtvbde2,Social Democratic Party (SPD),1,DE-3-1-v-de2
+DE,3,prtvbde2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-3-2-v-de2
+DE,3,prtvbde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-3-3-v-de2
+DE,3,prtvbde2,Free Democratic Party (FDP) ,4,DE-3-4-v-de2
+DE,3,prtvbde2,The Left Party.PDS (Die Linkspartei.PDS),5,DE-3-5-v-de2
+DE,3,prtvbde2,The Republicans (REP),6,DE-3-6-v-de2
+DE,3,prtvbde2,National Democratic Party/German People's Union (NPD/DVU),7,DE-3-7-v-de2
+DE,3,prtvbde2,Other,8,DE-3-8-v-de2
 DE,4,prtclbde,Social Democratic Party (SPD),1,DE-4-1-c
 DE,4,prtclbde,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-4-2-c
 DE,4,prtclbde,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-4-3-c
@@ -1209,22 +1209,22 @@ DE,4,prtclbde,The Left Party.PDS (Die Linkspartei.PDS),5,DE-4-5-c
 DE,4,prtclbde,The Republicans (REP),6,DE-4-6-c
 DE,4,prtclbde,National Democratic Party/German People's Union (NPD/DVU),7,DE-4-7-c
 DE,4,prtclbde,Other,8,DE-4-8-c
-DE,4,prtvbde1,Social Democratic Party (SPD),1,DE-4-1-v
-DE,4,prtvbde1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-4-2-v
-DE,4,prtvbde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-4-3-v
-DE,4,prtvbde1,Free Democratic Party (FDP) ,4,DE-4-4-v
-DE,4,prtvbde1,The Left Party.PDS (Die Linkspartei.PDS),5,DE-4-5-v
-DE,4,prtvbde1,The Republicans (REP),6,DE-4-6-v
-DE,4,prtvbde1,National Democratic Party/German People's Union (NPD/DVU),7,DE-4-7-v
-DE,4,prtvbde1,Other,8,DE-4-8-v
-DE,4,prtvbde2,Social Democratic Party (SPD),1,DE-4-1-v
-DE,4,prtvbde2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-4-2-v
-DE,4,prtvbde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-4-3-v
-DE,4,prtvbde2,Free Democratic Party (FDP) ,4,DE-4-4-v
-DE,4,prtvbde2,The Left Party.PDS (Die Linkspartei.PDS),5,DE-4-5-v
-DE,4,prtvbde2,The Republicans (REP),6,DE-4-6-v
-DE,4,prtvbde2,National Democratic Party/German People's Union (NPD/DVU),7,DE-4-7-v
-DE,4,prtvbde2,Other,8,DE-4-8-v
+DE,4,prtvbde1,Social Democratic Party (SPD),1,DE-4-1-v-de1
+DE,4,prtvbde1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-4-2-v-de1
+DE,4,prtvbde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-4-3-v-de1
+DE,4,prtvbde1,Free Democratic Party (FDP) ,4,DE-4-4-v-de1
+DE,4,prtvbde1,The Left Party.PDS (Die Linkspartei.PDS),5,DE-4-5-v-de1
+DE,4,prtvbde1,The Republicans (REP),6,DE-4-6-v-de1
+DE,4,prtvbde1,National Democratic Party/German People's Union (NPD/DVU),7,DE-4-7-v-de1
+DE,4,prtvbde1,Other,8,DE-4-8-v-de1
+DE,4,prtvbde2,Social Democratic Party (SPD),1,DE-4-1-v-de2
+DE,4,prtvbde2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-4-2-v-de2
+DE,4,prtvbde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-4-3-v-de2
+DE,4,prtvbde2,Free Democratic Party (FDP) ,4,DE-4-4-v-de2
+DE,4,prtvbde2,The Left Party.PDS (Die Linkspartei.PDS),5,DE-4-5-v-de2
+DE,4,prtvbde2,The Republicans (REP),6,DE-4-6-v-de2
+DE,4,prtvbde2,National Democratic Party/German People's Union (NPD/DVU),7,DE-4-7-v-de2
+DE,4,prtvbde2,Other,8,DE-4-8-v-de2
 DE,5,prtclcde,Social Democratic Party (SPD),1,DE-5-1-c
 DE,5,prtclcde,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-5-2-c
 DE,5,prtclcde,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-5-3-c
@@ -1233,22 +1233,22 @@ DE,5,prtclcde,The Left (Die Linke),5,DE-5-5-c
 DE,5,prtclcde,The Republicans (REP),6,DE-5-6-c
 DE,5,prtclcde,National Democratic Party (NPD),7,DE-5-7-c
 DE,5,prtclcde,Other,8,DE-5-8-c
-DE,5,prtvcde1,Social Democratic Party (SPD),1,DE-5-1-v
-DE,5,prtvcde1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-5-2-v
-DE,5,prtvcde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-5-3-v
-DE,5,prtvcde1,Free Democratic Party (FDP) ,4,DE-5-4-v
-DE,5,prtvcde1,The Left (Die Linke),5,DE-5-5-v
-DE,5,prtvcde1,The Republicans (REP),6,DE-5-6-v
-DE,5,prtvcde1,National Democratic Party (NPD),7,DE-5-7-v
-DE,5,prtvcde1,Other,8,DE-5-8-v
-DE,5,prtvcde2,Social Democratic Party (SPD),1,DE-5-1-v
-DE,5,prtvcde2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-5-2-v
-DE,5,prtvcde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-5-3-v
-DE,5,prtvcde2,Free Democratic Party (FDP) ,4,DE-5-4-v
-DE,5,prtvcde2,The Left (Die Linke),5,DE-5-5-v
-DE,5,prtvcde2,The Republicans (REP),6,DE-5-6-v
-DE,5,prtvcde2,National Democratic Party (NPD),7,DE-5-7-v
-DE,5,prtvcde2,Other,8,DE-5-8-v
+DE,5,prtvcde1,Social Democratic Party (SPD),1,DE-5-1-v-de1
+DE,5,prtvcde1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-5-2-v-de1
+DE,5,prtvcde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-5-3-v-de1
+DE,5,prtvcde1,Free Democratic Party (FDP) ,4,DE-5-4-v-de1
+DE,5,prtvcde1,The Left (Die Linke),5,DE-5-5-v-de1
+DE,5,prtvcde1,The Republicans (REP),6,DE-5-6-v-de1
+DE,5,prtvcde1,National Democratic Party (NPD),7,DE-5-7-v-de1
+DE,5,prtvcde1,Other,8,DE-5-8-v-de1
+DE,5,prtvcde2,Social Democratic Party (SPD),1,DE-5-1-v-de2
+DE,5,prtvcde2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-5-2-v-de2
+DE,5,prtvcde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-5-3-v-de2
+DE,5,prtvcde2,Free Democratic Party (FDP) ,4,DE-5-4-v-de2
+DE,5,prtvcde2,The Left (Die Linke),5,DE-5-5-v-de2
+DE,5,prtvcde2,The Republicans (REP),6,DE-5-6-v-de2
+DE,5,prtvcde2,National Democratic Party (NPD),7,DE-5-7-v-de2
+DE,5,prtvcde2,Other,8,DE-5-8-v-de2
 DE,6,prtcldde,Social Democratic Party (SPD),1,DE-6-1-c
 DE,6,prtcldde,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-6-2-c
 DE,6,prtcldde,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-6-3-c
@@ -1258,24 +1258,24 @@ DE,6,prtcldde,The Republicans (REP),6,DE-6-6-c
 DE,6,prtcldde,National Democratic Party (NPD),7,DE-6-7-c
 DE,6,prtcldde,Pirate Party (Piratenpartei),8,DE-6-8-c
 DE,6,prtcldde,Other,9,DE-6-9-c
-DE,6,prtvdde1,Social Democratic Party (SPD),1,DE-6-1-v
-DE,6,prtvdde1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-6-2-v
-DE,6,prtvdde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-6-3-v
-DE,6,prtvdde1,Free Democratic Party (FDP) ,4,DE-6-4-v
-DE,6,prtvdde1,The Left (Die Linke),5,DE-6-5-v
-DE,6,prtvdde1,The Republicans (REP),6,DE-6-6-v
-DE,6,prtvdde1,National Democratic Party (NPD),7,DE-6-7-v
-DE,6,prtvdde1,Pirate Party (Piratenpartei),8,DE-6-8-v
-DE,6,prtvdde1,Other,9,DE-6-9-v
-DE,6,prtvdde2,Social Democratic Party (SPD),1,DE-6-1-v
-DE,6,prtvdde2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-6-2-v
-DE,6,prtvdde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-6-3-v
-DE,6,prtvdde2,Free Democratic Party (FDP) ,4,DE-6-4-v
-DE,6,prtvdde2,The Left (Die Linke),5,DE-6-5-v
-DE,6,prtvdde2,The Republicans (REP),6,DE-6-6-v
-DE,6,prtvdde2,National Democratic Party (NPD),7,DE-6-7-v
-DE,6,prtvdde2,Pirate Party (Piratenpartei),8,DE-6-8-v
-DE,6,prtvdde2,Other,9,DE-6-9-v
+DE,6,prtvdde1,Social Democratic Party (SPD),1,DE-6-1-v-de1
+DE,6,prtvdde1,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-6-2-v-de1
+DE,6,prtvdde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-6-3-v-de1
+DE,6,prtvdde1,Free Democratic Party (FDP) ,4,DE-6-4-v-de1
+DE,6,prtvdde1,The Left (Die Linke),5,DE-6-5-v-de1
+DE,6,prtvdde1,The Republicans (REP),6,DE-6-6-v-de1
+DE,6,prtvdde1,National Democratic Party (NPD),7,DE-6-7-v-de1
+DE,6,prtvdde1,Pirate Party (Piratenpartei),8,DE-6-8-v-de1
+DE,6,prtvdde1,Other,9,DE-6-9-v-de1
+DE,6,prtvdde2,Social Democratic Party (SPD),1,DE-6-1-v-de2
+DE,6,prtvdde2,Christian Democratic Union/Christian Social Union (CDU/CSU),2,DE-6-2-v-de2
+DE,6,prtvdde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),3,DE-6-3-v-de2
+DE,6,prtvdde2,Free Democratic Party (FDP) ,4,DE-6-4-v-de2
+DE,6,prtvdde2,The Left (Die Linke),5,DE-6-5-v-de2
+DE,6,prtvdde2,The Republicans (REP),6,DE-6-6-v-de2
+DE,6,prtvdde2,National Democratic Party (NPD),7,DE-6-7-v-de2
+DE,6,prtvdde2,Pirate Party (Piratenpartei),8,DE-6-8-v-de2
+DE,6,prtvdde2,Other,9,DE-6-9-v-de2
 DE,7,prtclede,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-7-1-c
 DE,7,prtclede,Social Democratic Party (SPD),2,DE-7-2-c
 DE,7,prtclede,The Left (Die Linke),3,DE-7-3-c
@@ -1285,24 +1285,24 @@ DE,7,prtclede,Alternative for Germany (AFD),6,DE-7-6-c
 DE,7,prtclede,Pirate Party (Piratenpartei),7,DE-7-7-c
 DE,7,prtclede,National Democratic Party (NPD),8,DE-7-8-c
 DE,7,prtclede,Other,9,DE-7-9-c
-DE,7,prtvede1,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-7-1-v
-DE,7,prtvede1,Social Democratic Party (SPD),2,DE-7-2-v
-DE,7,prtvede1,The Left (Die Linke),3,DE-7-3-v
-DE,7,prtvede1,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-7-4-v
-DE,7,prtvede1,Free Democratic Party (FDP) ,5,DE-7-5-v
-DE,7,prtvede1,Alternative for Germany (AFD),6,DE-7-6-v
-DE,7,prtvede1,Pirate Party (Piratenpartei),7,DE-7-7-v
-DE,7,prtvede1,National Democratic Party (NPD),8,DE-7-8-v
-DE,7,prtvede1,Other,9,DE-7-9-v
-DE,7,prtvede2,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-7-1-v
-DE,7,prtvede2,Social Democratic Party (SPD),2,DE-7-2-v
-DE,7,prtvede2,The Left (Die Linke),3,DE-7-3-v
-DE,7,prtvede2,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-7-4-v
-DE,7,prtvede2,Free Democratic Party (FDP) ,5,DE-7-5-v
-DE,7,prtvede2,Alternative for Germany (AFD),6,DE-7-6-v
-DE,7,prtvede2,Pirate Party (Piratenpartei),7,DE-7-7-v
-DE,7,prtvede2,National Democratic Party (NPD),8,DE-7-8-v
-DE,7,prtvede2,Other,9,DE-7-9-v
+DE,7,prtvede1,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-7-1-v-de1
+DE,7,prtvede1,Social Democratic Party (SPD),2,DE-7-2-v-de1
+DE,7,prtvede1,The Left (Die Linke),3,DE-7-3-v-de1
+DE,7,prtvede1,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-7-4-v-de1
+DE,7,prtvede1,Free Democratic Party (FDP) ,5,DE-7-5-v-de1
+DE,7,prtvede1,Alternative for Germany (AFD),6,DE-7-6-v-de1
+DE,7,prtvede1,Pirate Party (Piratenpartei),7,DE-7-7-v-de1
+DE,7,prtvede1,National Democratic Party (NPD),8,DE-7-8-v-de1
+DE,7,prtvede1,Other,9,DE-7-9-v-de1
+DE,7,prtvede2,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-7-1-v-de2
+DE,7,prtvede2,Social Democratic Party (SPD),2,DE-7-2-v-de2
+DE,7,prtvede2,The Left (Die Linke),3,DE-7-3-v-de2
+DE,7,prtvede2,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-7-4-v-de2
+DE,7,prtvede2,Free Democratic Party (FDP) ,5,DE-7-5-v-de2
+DE,7,prtvede2,Alternative for Germany (AFD),6,DE-7-6-v-de2
+DE,7,prtvede2,Pirate Party (Piratenpartei),7,DE-7-7-v-de2
+DE,7,prtvede2,National Democratic Party (NPD),8,DE-7-8-v-de2
+DE,7,prtvede2,Other,9,DE-7-9-v-de2
 DE,8,prtclede,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-8-1-c
 DE,8,prtclede,Social Democratic Party (SPD),2,DE-8-2-c
 DE,8,prtclede,The Left (Die Linke),3,DE-8-3-c
@@ -1312,24 +1312,24 @@ DE,8,prtclede,Alternative for Germany (AFD),6,DE-8-6-c
 DE,8,prtclede,Pirate Party (Piratenpartei),7,DE-8-7-c
 DE,8,prtclede,National Democratic Party (NPD),8,DE-8-8-c
 DE,8,prtclede,Other,9,DE-8-9-c
-DE,8,prtvede1,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-8-1-v
-DE,8,prtvede1,Social Democratic Party (SPD),2,DE-8-2-v
-DE,8,prtvede1,The Left (Die Linke),3,DE-8-3-v
-DE,8,prtvede1,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-8-4-v
-DE,8,prtvede1,Free Democratic Party (FDP) ,5,DE-8-5-v
-DE,8,prtvede1,Alternative for Germany (AFD),6,DE-8-6-v
-DE,8,prtvede1,Pirate Party (Piratenpartei),7,DE-8-7-v
-DE,8,prtvede1,National Democratic Party (NPD),8,DE-8-8-v
-DE,8,prtvede1,Other,9,DE-8-9-v
-DE,8,prtvede2,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-8-1-v
-DE,8,prtvede2,Social Democratic Party (SPD),2,DE-8-2-v
-DE,8,prtvede2,The Left (Die Linke),3,DE-8-3-v
-DE,8,prtvede2,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-8-4-v
-DE,8,prtvede2,Free Democratic Party (FDP) ,5,DE-8-5-v
-DE,8,prtvede2,Alternative for Germany (AFD),6,DE-8-6-v
-DE,8,prtvede2,Pirate Party (Piratenpartei),7,DE-8-7-v
-DE,8,prtvede2,National Democratic Party (NPD),8,DE-8-8-v
-DE,8,prtvede2,Other,9,DE-8-9-v
+DE,8,prtvede1,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-8-1-v-de1
+DE,8,prtvede1,Social Democratic Party (SPD),2,DE-8-2-v-de1
+DE,8,prtvede1,The Left (Die Linke),3,DE-8-3-v-de1
+DE,8,prtvede1,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-8-4-v-de1
+DE,8,prtvede1,Free Democratic Party (FDP) ,5,DE-8-5-v-de1
+DE,8,prtvede1,Alternative for Germany (AFD),6,DE-8-6-v-de1
+DE,8,prtvede1,Pirate Party (Piratenpartei),7,DE-8-7-v-de1
+DE,8,prtvede1,National Democratic Party (NPD),8,DE-8-8-v-de1
+DE,8,prtvede1,Other,9,DE-8-9-v-de1
+DE,8,prtvede2,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-8-1-v-de2
+DE,8,prtvede2,Social Democratic Party (SPD),2,DE-8-2-v-de2
+DE,8,prtvede2,The Left (Die Linke),3,DE-8-3-v-de2
+DE,8,prtvede2,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-8-4-v-de2
+DE,8,prtvede2,Free Democratic Party (FDP) ,5,DE-8-5-v-de2
+DE,8,prtvede2,Alternative for Germany (AFD),6,DE-8-6-v-de2
+DE,8,prtvede2,Pirate Party (Piratenpartei),7,DE-8-7-v-de2
+DE,8,prtvede2,National Democratic Party (NPD),8,DE-8-8-v-de2
+DE,8,prtvede2,Other,9,DE-8-9-v-de2
 DE,9,prtclede,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-9-1-c
 DE,9,prtclede,Social Democratic Party (SPD),2,DE-9-2-c
 DE,9,prtclede,The Left (Die Linke),3,DE-9-3-c
@@ -1338,24 +1338,24 @@ DE,9,prtclede,Free Democratic Party (FDP) ,5,DE-9-5-c
 DE,9,prtclede,Alternative for Germany (AFD),6,DE-9-6-c
 DE,9,prtclede,Pirate Party (Piratenpartei),7,DE-9-7-c
 DE,9,prtclede,Other,9,DE-9-9-c
-DE,9,prtvede1,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-9-1-v
-DE,9,prtvede1,Social Democratic Party (SPD),2,DE-9-2-v
-DE,9,prtvede1,The Left (Die Linke),3,DE-9-3-v
-DE,9,prtvede1,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-9-4-v
-DE,9,prtvede1,Free Democratic Party (FDP) ,5,DE-9-5-v
-DE,9,prtvede1,Alternative for Germany (AFD),6,DE-9-6-v
-DE,9,prtvede1,Pirate Party (Piratenpartei),7,DE-9-7-v
-DE,9,prtvede1,National Democratic Party (NPD),8,DE-9-8-v
-DE,9,prtvede1,Other,9,DE-9-9-v
-DE,9,prtvede2,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-9-1-v
-DE,9,prtvede2,Social Democratic Party (SPD),2,DE-9-2-v
-DE,9,prtvede2,The Left (Die Linke),3,DE-9-3-v
-DE,9,prtvede2,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-9-4-v
-DE,9,prtvede2,Free Democratic Party (FDP) ,5,DE-9-5-v
-DE,9,prtvede2,Alternative for Germany (AFD),6,DE-9-6-v
-DE,9,prtvede2,Pirate Party (Piratenpartei),7,DE-9-7-v
-DE,9,prtvede2,National Democratic Party (NPD),8,DE-9-8-v
-DE,9,prtvede2,Other,9,DE-9-9-v
+DE,9,prtvede1,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-9-1-v-de1
+DE,9,prtvede1,Social Democratic Party (SPD),2,DE-9-2-v-de1
+DE,9,prtvede1,The Left (Die Linke),3,DE-9-3-v-de1
+DE,9,prtvede1,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-9-4-v-de1
+DE,9,prtvede1,Free Democratic Party (FDP) ,5,DE-9-5-v-de1
+DE,9,prtvede1,Alternative for Germany (AFD),6,DE-9-6-v-de1
+DE,9,prtvede1,Pirate Party (Piratenpartei),7,DE-9-7-v-de1
+DE,9,prtvede1,National Democratic Party (NPD),8,DE-9-8-v-de1
+DE,9,prtvede1,Other,9,DE-9-9-v-de1
+DE,9,prtvede2,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-9-1-v-de2
+DE,9,prtvede2,Social Democratic Party (SPD),2,DE-9-2-v-de2
+DE,9,prtvede2,The Left (Die Linke),3,DE-9-3-v-de2
+DE,9,prtvede2,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-9-4-v-de2
+DE,9,prtvede2,Free Democratic Party (FDP) ,5,DE-9-5-v-de2
+DE,9,prtvede2,Alternative for Germany (AFD),6,DE-9-6-v-de2
+DE,9,prtvede2,Pirate Party (Piratenpartei),7,DE-9-7-v-de2
+DE,9,prtvede2,National Democratic Party (NPD),8,DE-9-8-v-de2
+DE,9,prtvede2,Other,9,DE-9-9-v-de2
 DE,10,prtclfde,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-10-1-c
 DE,10,prtclfde,Social Democratic Party (SPD),2,DE-10-2-c
 DE,10,prtclfde,The Left (Die Linke),3,DE-10-3-c
@@ -1363,20 +1363,20 @@ DE,10,prtclfde,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-10-4-c
 DE,10,prtclfde,Free Democratic Party (FDP) ,5,DE-10-5-c
 DE,10,prtclfde,Alternative for Germany (AFD),6,DE-10-6-c
 DE,10,prtclfde,Other,7,DE-10-7-c
-DE,10,prtvfde1,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-10-1-v
-DE,10,prtvfde1,Social Democratic Party (SPD),2,DE-10-2-v
-DE,10,prtvfde1,The Left (Die Linke),3,DE-10-3-v
-DE,10,prtvfde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-10-4-v
-DE,10,prtvfde1,Free Democratic Party (FDP) ,5,DE-10-5-v
-DE,10,prtvfde1,Alternative for Germany (AFD),6,DE-10-6-v
-DE,10,prtvfde1,Other,7,DE-10-7-v
-DE,10,prtvfde2,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-10-1-v
-DE,10,prtvfde2,Social Democratic Party (SPD),2,DE-10-2-v
-DE,10,prtvfde2,The Left (Die Linke),3,DE-10-3-v
-DE,10,prtvfde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-10-4-v
-DE,10,prtvfde2,Free Democratic Party (FDP) ,5,DE-10-5-v
-DE,10,prtvfde2,Alternative for Germany (AFD),6,DE-10-6-v
-DE,10,prtvfde2,Other,7,DE-10-7-v
+DE,10,prtvfde1,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-10-1-v-de1
+DE,10,prtvfde1,Social Democratic Party (SPD),2,DE-10-2-v-de1
+DE,10,prtvfde1,The Left (Die Linke),3,DE-10-3-v-de1
+DE,10,prtvfde1,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-10-4-v-de1
+DE,10,prtvfde1,Free Democratic Party (FDP) ,5,DE-10-5-v-de1
+DE,10,prtvfde1,Alternative for Germany (AFD),6,DE-10-6-v-de1
+DE,10,prtvfde1,Other,7,DE-10-7-v-de1
+DE,10,prtvfde2,Christian Democratic Union/Christian Social Union (CDU/CSU),1,DE-10-1-v-de2
+DE,10,prtvfde2,Social Democratic Party (SPD),2,DE-10-2-v-de2
+DE,10,prtvfde2,The Left (Die Linke),3,DE-10-3-v-de2
+DE,10,prtvfde2,Alliance 90/The Greens (Bündnis 90/Die Grünen),4,DE-10-4-v-de2
+DE,10,prtvfde2,Free Democratic Party (FDP) ,5,DE-10-5-v-de2
+DE,10,prtvfde2,Alternative for Germany (AFD),6,DE-10-6-v-de2
+DE,10,prtvfde2,Other,7,DE-10-7-v-de2
 DK,1,prtcldk,Socialdemokratiet,1,DK-1-1-c
 DK,1,prtcldk,Det Radikale Venstre,2,DK-1-2-c
 DK,1,prtcldk,Det Konservative Folkeparti,3,DK-1-3-c
@@ -3918,64 +3918,64 @@ LT,5,prtcllt,Party 'Young Lithuania' (JL),16,LT-5-16-c
 LT,5,prtcllt,Lithuanian Social Democratic Union (LSDS),17,LT-5-17-c
 LT,5,prtcllt,Lithuanian People's Union 'For the Fair Lithuania' (UTL),19,LT-5-19-c
 LT,5,prtcllt,Other,20,LT-5-20-c
-LT,5,prtvlt1,Lithuanian Social Democratic Party (LSDP),1,LT-5-1-v
-LT,5,prtvlt1,Union of Russians of Lithuania (LRS),2,LT-5-2-v
-LT,5,prtvlt1,Party 'Front' (Frontas),3,LT-5-3-v
-LT,5,prtvlt1,Lithuanian Centre Party (LCP),4,LT-5-4-v
-LT,5,prtvlt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-5-5-v
-LT,5,prtvlt1,New Union (Social Liberals) (NS),6,LT-5-6-v
-LT,5,prtvlt1,Party of Civic Democracy (PDP),7,LT-5-7-v
-LT,5,prtvlt1,Electoral Action of Poles in Lithuania (LLRA),8,LT-5-8-v
-LT,5,prtvlt1,National Resurrection Party (TPP),9,LT-5-9-v
-LT,5,prtvlt1,The Coalition Labour Party + Youth,10,LT-5-10-v
-LT,5,prtvlt1,Liberals' Movement of the Republic of Lithuania (LRLS),11,LT-5-11-v
-LT,5,prtvlt1,Lithuanian Peasant Popular Union (LVLS),12,LT-5-12-v
-LT,5,prtvlt1,Party Order and Justice (TT),13,LT-5-13-v
-LT,5,prtvlt1,Liberal and Centre Union (LiCS),14,LT-5-14-v
-LT,5,prtvlt1,Party 'Young Lithuania' (JL),15,LT-5-15-v
-LT,5,prtvlt1,Lithuanian Social Democratic Union (LSDS),16,LT-5-16-v
-LT,5,prtvlt1,Did not vote for a multi-member nationwide candidate list,44,LT-5-44-v
-LT,5,prtvlt1,Don't know if voted for a multi-member nationwide candidate list,55,LT-5-55-v
-LT,5,prtvlt2,Lithuanian Social Democratic Party (LSDP),1,LT-5-1-v
-LT,5,prtvlt2,Union of Russians of Lithuania (LRS),2,LT-5-2-v
-LT,5,prtvlt2,Party 'Front' (Frontas),3,LT-5-3-v
-LT,5,prtvlt2,Lithuanian Centre Party (LCP),4,LT-5-4-v
-LT,5,prtvlt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-5-5-v
-LT,5,prtvlt2,New Union (Social Liberals) (NS),6,LT-5-6-v
-LT,5,prtvlt2,Party of Civic Democracy (PDP),7,LT-5-7-v
-LT,5,prtvlt2,Electoral Action of Poles in Lithuania (LLRA),8,LT-5-8-v
-LT,5,prtvlt2,National Resurrection Party (TPP),9,LT-5-9-v
-LT,5,prtvlt2,Labour Party (DP),10,LT-5-10-v
-LT,5,prtvlt2,Labourist Party (LP),11,LT-5-11-v
-LT,5,prtvlt2,Liberals' Movement of the Republic of Lithuania (LRLS),12,LT-5-12-v
-LT,5,prtvlt2,Lithuanian Peasant Popular Union (LVLS),13,LT-5-13-v
-LT,5,prtvlt2,Party Order and Justice (TT),14,LT-5-14-v
-LT,5,prtvlt2,Liberal and Centre Union (LiCS),15,LT-5-15-v
-LT,5,prtvlt2,Party 'Young Lithuania' (JL),16,LT-5-16-v
-LT,5,prtvlt2,Lithuanian Social Democratic Union (LSDS),17,LT-5-17-v
-LT,5,prtvlt2,Independent/Self-Nominated,20,LT-5-20-v
-LT,5,prtvlt2,Did not vote for a single-member constituency candidate list,44,LT-5-44-v
-LT,5,prtvlt2,Don't know if voted for a single-member constituency candidate list,55,LT-5-55-v
-LT,5,prtvlt3,Lithuanian Social Democratic Party (LSDP),1,LT-5-1-v
-LT,5,prtvlt3,Union of Russians of Lithuania (LRS),2,LT-5-2-v
-LT,5,prtvlt3,Lithuanian Centre Party (LCP),4,LT-5-4-v
-LT,5,prtvlt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-5-5-v
-LT,5,prtvlt3,New Union (Social Liberals) (NS),6,LT-5-6-v
-LT,5,prtvlt3,Party of Civic Democracy (PDP),7,LT-5-7-v
-LT,5,prtvlt3,Electoral Action of Poles in Lithuania (LLRA),8,LT-5-8-v
-LT,5,prtvlt3,National Resurrection Party (TPP),9,LT-5-9-v
-LT,5,prtvlt3,Labour Party (DP),10,LT-5-10-v
-LT,5,prtvlt3,Liberals' Movement of the Republic of Lithuania (LRLS),12,LT-5-12-v
-LT,5,prtvlt3,Lithuanian Peasant Popular Union (LVLS),13,LT-5-13-v
-LT,5,prtvlt3,Party Order and Justice (TT),14,LT-5-14-v
-LT,5,prtvlt3,Liberal and Centre Union (LiCS),15,LT-5-15-v
-LT,5,prtvlt3,Party 'Young Lithuania' (JL),16,LT-5-16-v
-LT,5,prtvlt3,Lithuanian Social Democratic Union (LSDS),17,LT-5-17-v
-LT,5,prtvlt3,Lithuanian Freedom Union (LLS),18,LT-5-18-v
-LT,5,prtvlt3,Independent/Self-Nominated,20,LT-5-20-v
-LT,5,prtvlt3,No 2nd round in single-member constituency,33,LT-5-33-v
-LT,5,prtvlt3,"Did not vote for a single-member constituency candidate list, 2nd round",44,LT-5-44-v
-LT,5,prtvlt3,"Don't know if voted for a single-member constituency candidate list, 2nd round",55,LT-5-55-v
+LT,5,prtvlt1,Lithuanian Social Democratic Party (LSDP),1,LT-5-1-v-lt1
+LT,5,prtvlt1,Union of Russians of Lithuania (LRS),2,LT-5-2-v-lt1
+LT,5,prtvlt1,Party 'Front' (Frontas),3,LT-5-3-v-lt1
+LT,5,prtvlt1,Lithuanian Centre Party (LCP),4,LT-5-4-v-lt1
+LT,5,prtvlt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-5-5-v-lt1
+LT,5,prtvlt1,New Union (Social Liberals) (NS),6,LT-5-6-v-lt1
+LT,5,prtvlt1,Party of Civic Democracy (PDP),7,LT-5-7-v-lt1
+LT,5,prtvlt1,Electoral Action of Poles in Lithuania (LLRA),8,LT-5-8-v-lt1
+LT,5,prtvlt1,National Resurrection Party (TPP),9,LT-5-9-v-lt1
+LT,5,prtvlt1,The Coalition Labour Party + Youth,10,LT-5-10-v-lt1
+LT,5,prtvlt1,Liberals' Movement of the Republic of Lithuania (LRLS),11,LT-5-11-v-lt1
+LT,5,prtvlt1,Lithuanian Peasant Popular Union (LVLS),12,LT-5-12-v-lt1
+LT,5,prtvlt1,Party Order and Justice (TT),13,LT-5-13-v-lt1
+LT,5,prtvlt1,Liberal and Centre Union (LiCS),14,LT-5-14-v-lt1
+LT,5,prtvlt1,Party 'Young Lithuania' (JL),15,LT-5-15-v-lt1
+LT,5,prtvlt1,Lithuanian Social Democratic Union (LSDS),16,LT-5-16-v-lt1
+LT,5,prtvlt1,Did not vote for a multi-member nationwide candidate list,44,LT-5-44-v-lt1
+LT,5,prtvlt1,Don't know if voted for a multi-member nationwide candidate list,55,LT-5-55-v-lt1
+LT,5,prtvlt2,Lithuanian Social Democratic Party (LSDP),1,LT-5-1-v-lt2
+LT,5,prtvlt2,Union of Russians of Lithuania (LRS),2,LT-5-2-v-lt2
+LT,5,prtvlt2,Party 'Front' (Frontas),3,LT-5-3-v-lt2
+LT,5,prtvlt2,Lithuanian Centre Party (LCP),4,LT-5-4-v-lt2
+LT,5,prtvlt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-5-5-v-lt2
+LT,5,prtvlt2,New Union (Social Liberals) (NS),6,LT-5-6-v-lt2
+LT,5,prtvlt2,Party of Civic Democracy (PDP),7,LT-5-7-v-lt2
+LT,5,prtvlt2,Electoral Action of Poles in Lithuania (LLRA),8,LT-5-8-v-lt2
+LT,5,prtvlt2,National Resurrection Party (TPP),9,LT-5-9-v-lt2
+LT,5,prtvlt2,Labour Party (DP),10,LT-5-10-v-lt2
+LT,5,prtvlt2,Labourist Party (LP),11,LT-5-11-v-lt2
+LT,5,prtvlt2,Liberals' Movement of the Republic of Lithuania (LRLS),12,LT-5-12-v-lt2
+LT,5,prtvlt2,Lithuanian Peasant Popular Union (LVLS),13,LT-5-13-v-lt2
+LT,5,prtvlt2,Party Order and Justice (TT),14,LT-5-14-v-lt2
+LT,5,prtvlt2,Liberal and Centre Union (LiCS),15,LT-5-15-v-lt2
+LT,5,prtvlt2,Party 'Young Lithuania' (JL),16,LT-5-16-v-lt2
+LT,5,prtvlt2,Lithuanian Social Democratic Union (LSDS),17,LT-5-17-v-lt2
+LT,5,prtvlt2,Independent/Self-Nominated,20,LT-5-20-v-lt2
+LT,5,prtvlt2,Did not vote for a single-member constituency candidate list,44,LT-5-44-v-lt2
+LT,5,prtvlt2,Don't know if voted for a single-member constituency candidate list,55,LT-5-55-v-lt2
+LT,5,prtvlt3,Lithuanian Social Democratic Party (LSDP),1,LT-5-1-v-lt3
+LT,5,prtvlt3,Union of Russians of Lithuania (LRS),2,LT-5-2-v-lt3
+LT,5,prtvlt3,Lithuanian Centre Party (LCP),4,LT-5-4-v-lt3
+LT,5,prtvlt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-5-5-v-lt3
+LT,5,prtvlt3,New Union (Social Liberals) (NS),6,LT-5-6-v-lt3
+LT,5,prtvlt3,Party of Civic Democracy (PDP),7,LT-5-7-v-lt3
+LT,5,prtvlt3,Electoral Action of Poles in Lithuania (LLRA),8,LT-5-8-v-lt3
+LT,5,prtvlt3,National Resurrection Party (TPP),9,LT-5-9-v-lt3
+LT,5,prtvlt3,Labour Party (DP),10,LT-5-10-v-lt3
+LT,5,prtvlt3,Liberals' Movement of the Republic of Lithuania (LRLS),12,LT-5-12-v-lt3
+LT,5,prtvlt3,Lithuanian Peasant Popular Union (LVLS),13,LT-5-13-v-lt3
+LT,5,prtvlt3,Party Order and Justice (TT),14,LT-5-14-v-lt3
+LT,5,prtvlt3,Liberal and Centre Union (LiCS),15,LT-5-15-v-lt3
+LT,5,prtvlt3,Party 'Young Lithuania' (JL),16,LT-5-16-v-lt3
+LT,5,prtvlt3,Lithuanian Social Democratic Union (LSDS),17,LT-5-17-v-lt3
+LT,5,prtvlt3,Lithuanian Freedom Union (LLS),18,LT-5-18-v-lt3
+LT,5,prtvlt3,Independent/Self-Nominated,20,LT-5-20-v-lt3
+LT,5,prtvlt3,No 2nd round in single-member constituency,33,LT-5-33-v-lt3
+LT,5,prtvlt3,"Did not vote for a single-member constituency candidate list, 2nd round",44,LT-5-44-v-lt3
+LT,5,prtvlt3,"Don't know if voted for a single-member constituency candidate list, 2nd round",55,LT-5-55-v-lt3
 LT,6,prtclalt,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-6-1-c
 LT,6,prtclalt,Republican Party (RP),2,LT-6-2-c
 LT,6,prtclalt,Labour Party (DP),3,LT-6-3-c
@@ -3995,63 +3995,63 @@ LT,6,prtclalt,Liberal and Centre Union (LiCS),19,LT-6-19-c
 LT,6,prtclalt,Political Party 'Union Yes' (ST),21,LT-6-21-c
 LT,6,prtclalt,Lithuanian Pensioners' Party (LPP),23,LT-6-23-c
 LT,6,prtclalt,Political Party 'Lithuanian Green Movement' (LZS),25,LT-6-25-c
-LT,6,prtvalt1,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-6-1-v
-LT,6,prtvalt1,Republican Party (RP),2,LT-6-2-v
-LT,6,prtvalt1,Labour Party (DP),3,LT-6-3-v
-LT,6,prtvalt1,Democratic Labour and Unity Party (DDVP),4,LT-6-4-v
-LT,6,prtvalt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-6-5-v
-LT,6,prtvalt1,Political Party 'The Way of Courage' (DK),6,LT-6-6-v
-LT,6,prtvalt1,Electoral Action of Poles in Lithuania (LLRA),7,LT-6-7-v
-LT,6,prtvalt1,Lithuanian Social Democratic Party (LSDP),8,LT-6-8-v
-LT,6,prtvalt1,Party Order and Justice (TT),9,LT-6-9-v
-LT,6,prtvalt1,National Association 'For Lithuania in Lithuania' (ULL),10,LT-6-10-v
-LT,6,prtvalt1,Christian Party (KP),11,LT-6-11-v
-LT,6,prtvalt1,Socialist People's Front (SLF),13,LT-6-13-v
-LT,6,prtvalt1,Lithuanian Peasant and Greens Union (LVZS),14,LT-6-14-v
-LT,6,prtvalt1,Party 'Young Lithuania' (JL),15,LT-6-15-v
-LT,6,prtvalt1,Liberal and Centre Union (LiCS),16,LT-6-16-v
-LT,6,prtvalt1,Political Party 'Union Yes' (ST),18,LT-6-18-v
-LT,6,prtvalt1,Did not vote for a multi-member nationwide candidate list,44,LT-6-44-v
-LT,6,prtvalt1,Don't know if voted for a multi-member nationwide candidate list,55,LT-6-55-v
-LT,6,prtvalt2,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-6-1-v
-LT,6,prtvalt2,Republican Party (RP),2,LT-6-2-v
-LT,6,prtvalt2,Labour Party (DP),3,LT-6-3-v
-LT,6,prtvalt2,Democratic Labour and Unity Party (DDVP),4,LT-6-4-v
-LT,6,prtvalt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-6-5-v
-LT,6,prtvalt2,Political Party 'The Way of Courage' (DK),6,LT-6-6-v
-LT,6,prtvalt2,Electoral Action of Poles in Lithuania (LLRA),7,LT-6-7-v
-LT,6,prtvalt2,Lithuanian Social Democratic Party (LSDP),8,LT-6-8-v
-LT,6,prtvalt2,Party Order and Justice (TT),9,LT-6-9-v
-LT,6,prtvalt2,Lithuanian Social Democratic Union (LSDS),11,LT-6-11-v
-LT,6,prtvalt2,Christian Party (KP),14,LT-6-14-v
-LT,6,prtvalt2,Socialist People's Front (SLF),16,LT-6-16-v
-LT,6,prtvalt2,Lithuanian Peasant and Greens Union (LVZS),17,LT-6-17-v
-LT,6,prtvalt2,Party 'Young Lithuania' (JL),18,LT-6-18-v
-LT,6,prtvalt2,Liberal and Centre Union (LiCS),19,LT-6-19-v
-LT,6,prtvalt2,Political Party 'Union Yes' (ST),21,LT-6-21-v
-LT,6,prtvalt2,Lithuanian Pensioners' Party (LPP),23,LT-6-23-v
-LT,6,prtvalt2,Independent/Self-Nominated,28,LT-6-28-v
-LT,6,prtvalt2,Did not vote for a single-member constituency candidate list,44,LT-6-44-v
-LT,6,prtvalt2,Don't know if voted for a single-member constituency candidate list,55,LT-6-55-v
-LT,6,prtvalt3,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-6-1-v
-LT,6,prtvalt3,Republican Party (RP),2,LT-6-2-v
-LT,6,prtvalt3,Labour Party (DP),3,LT-6-3-v
-LT,6,prtvalt3,Democratic Labour and Unity Party (DDVP),4,LT-6-4-v
-LT,6,prtvalt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-6-5-v
-LT,6,prtvalt3,Political Party 'The Way of Courage' (DK),6,LT-6-6-v
-LT,6,prtvalt3,Electoral Action of Poles in Lithuania (LLRA),7,LT-6-7-v
-LT,6,prtvalt3,Lithuanian Social Democratic Party (LSDP),8,LT-6-8-v
-LT,6,prtvalt3,Party Order and Justice (TT),9,LT-6-9-v
-LT,6,prtvalt3,Lithuanian Social Democratic Union (LSDS),11,LT-6-11-v
-LT,6,prtvalt3,Christian Party (KP),14,LT-6-14-v
-LT,6,prtvalt3,Lithuanian Peasant and Greens Union (LVZS),17,LT-6-17-v
-LT,6,prtvalt3,Party 'Young Lithuania' (JL),18,LT-6-18-v
-LT,6,prtvalt3,Liberal and Centre Union (LiCS),19,LT-6-19-v
-LT,6,prtvalt3,Political Party 'Union Yes' (ST),21,LT-6-21-v
-LT,6,prtvalt3,Independent/Self-Nominated,28,LT-6-28-v
-LT,6,prtvalt3,No 2nd round in single-member constituency,33,LT-6-33-v
-LT,6,prtvalt3,"Did not vote for a single-member constituency candidate list, 2nd round",44,LT-6-44-v
-LT,6,prtvalt3,"Don't know if voted for a single-member constituency candidate list, 2nd round",55,LT-6-55-v
+LT,6,prtvalt1,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-6-1-v-lt1
+LT,6,prtvalt1,Republican Party (RP),2,LT-6-2-v-lt1
+LT,6,prtvalt1,Labour Party (DP),3,LT-6-3-v-lt1
+LT,6,prtvalt1,Democratic Labour and Unity Party (DDVP),4,LT-6-4-v-lt1
+LT,6,prtvalt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-6-5-v-lt1
+LT,6,prtvalt1,Political Party 'The Way of Courage' (DK),6,LT-6-6-v-lt1
+LT,6,prtvalt1,Electoral Action of Poles in Lithuania (LLRA),7,LT-6-7-v-lt1
+LT,6,prtvalt1,Lithuanian Social Democratic Party (LSDP),8,LT-6-8-v-lt1
+LT,6,prtvalt1,Party Order and Justice (TT),9,LT-6-9-v-lt1
+LT,6,prtvalt1,National Association 'For Lithuania in Lithuania' (ULL),10,LT-6-10-v-lt1
+LT,6,prtvalt1,Christian Party (KP),11,LT-6-11-v-lt1
+LT,6,prtvalt1,Socialist People's Front (SLF),13,LT-6-13-v-lt1
+LT,6,prtvalt1,Lithuanian Peasant and Greens Union (LVZS),14,LT-6-14-v-lt1
+LT,6,prtvalt1,Party 'Young Lithuania' (JL),15,LT-6-15-v-lt1
+LT,6,prtvalt1,Liberal and Centre Union (LiCS),16,LT-6-16-v-lt1
+LT,6,prtvalt1,Political Party 'Union Yes' (ST),18,LT-6-18-v-lt1
+LT,6,prtvalt1,Did not vote for a multi-member nationwide candidate list,44,LT-6-44-v-lt1
+LT,6,prtvalt1,Don't know if voted for a multi-member nationwide candidate list,55,LT-6-55-v-lt1
+LT,6,prtvalt2,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-6-1-v-lt2
+LT,6,prtvalt2,Republican Party (RP),2,LT-6-2-v-lt2
+LT,6,prtvalt2,Labour Party (DP),3,LT-6-3-v-lt2
+LT,6,prtvalt2,Democratic Labour and Unity Party (DDVP),4,LT-6-4-v-lt2
+LT,6,prtvalt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-6-5-v-lt2
+LT,6,prtvalt2,Political Party 'The Way of Courage' (DK),6,LT-6-6-v-lt2
+LT,6,prtvalt2,Electoral Action of Poles in Lithuania (LLRA),7,LT-6-7-v-lt2
+LT,6,prtvalt2,Lithuanian Social Democratic Party (LSDP),8,LT-6-8-v-lt2
+LT,6,prtvalt2,Party Order and Justice (TT),9,LT-6-9-v-lt2
+LT,6,prtvalt2,Lithuanian Social Democratic Union (LSDS),11,LT-6-11-v-lt2
+LT,6,prtvalt2,Christian Party (KP),14,LT-6-14-v-lt2
+LT,6,prtvalt2,Socialist People's Front (SLF),16,LT-6-16-v-lt2
+LT,6,prtvalt2,Lithuanian Peasant and Greens Union (LVZS),17,LT-6-17-v-lt2
+LT,6,prtvalt2,Party 'Young Lithuania' (JL),18,LT-6-18-v-lt2
+LT,6,prtvalt2,Liberal and Centre Union (LiCS),19,LT-6-19-v-lt2
+LT,6,prtvalt2,Political Party 'Union Yes' (ST),21,LT-6-21-v-lt2
+LT,6,prtvalt2,Lithuanian Pensioners' Party (LPP),23,LT-6-23-v-lt2
+LT,6,prtvalt2,Independent/Self-Nominated,28,LT-6-28-v-lt2
+LT,6,prtvalt2,Did not vote for a single-member constituency candidate list,44,LT-6-44-v-lt2
+LT,6,prtvalt2,Don't know if voted for a single-member constituency candidate list,55,LT-6-55-v-lt2
+LT,6,prtvalt3,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-6-1-v-lt3
+LT,6,prtvalt3,Republican Party (RP),2,LT-6-2-v-lt3
+LT,6,prtvalt3,Labour Party (DP),3,LT-6-3-v-lt3
+LT,6,prtvalt3,Democratic Labour and Unity Party (DDVP),4,LT-6-4-v-lt3
+LT,6,prtvalt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-6-5-v-lt3
+LT,6,prtvalt3,Political Party 'The Way of Courage' (DK),6,LT-6-6-v-lt3
+LT,6,prtvalt3,Electoral Action of Poles in Lithuania (LLRA),7,LT-6-7-v-lt3
+LT,6,prtvalt3,Lithuanian Social Democratic Party (LSDP),8,LT-6-8-v-lt3
+LT,6,prtvalt3,Party Order and Justice (TT),9,LT-6-9-v-lt3
+LT,6,prtvalt3,Lithuanian Social Democratic Union (LSDS),11,LT-6-11-v-lt3
+LT,6,prtvalt3,Christian Party (KP),14,LT-6-14-v-lt3
+LT,6,prtvalt3,Lithuanian Peasant and Greens Union (LVZS),17,LT-6-17-v-lt3
+LT,6,prtvalt3,Party 'Young Lithuania' (JL),18,LT-6-18-v-lt3
+LT,6,prtvalt3,Liberal and Centre Union (LiCS),19,LT-6-19-v-lt3
+LT,6,prtvalt3,Political Party 'Union Yes' (ST),21,LT-6-21-v-lt3
+LT,6,prtvalt3,Independent/Self-Nominated,28,LT-6-28-v-lt3
+LT,6,prtvalt3,No 2nd round in single-member constituency,33,LT-6-33-v-lt3
+LT,6,prtvalt3,"Did not vote for a single-member constituency candidate list, 2nd round",44,LT-6-44-v-lt3
+LT,6,prtvalt3,"Don't know if voted for a single-member constituency candidate list, 2nd round",55,LT-6-55-v-lt3
 LT,7,prtclalt,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-7-1-c
 LT,7,prtclalt,Labour Party (DP),3,LT-7-3-c
 LT,7,prtclalt,Democratic Labour and Unity Party (DDVP),4,LT-7-4-c
@@ -4071,65 +4071,65 @@ LT,7,prtclalt,Party 'Young Lithuania' (JL),18,LT-7-18-c
 LT,7,prtclalt,Liberal and Centre Union (LiCS),19,LT-7-19-c
 LT,7,prtclalt,Political Party 'List of Lithuania' (LS),24,LT-7-24-c
 LT,7,prtclalt,Zemaiciai (Samogitian) Party (ZP),27,LT-7-27-c
-LT,7,prtvalt1,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-7-1-v
-LT,7,prtvalt1,Republican Party (RP),2,LT-7-2-v
-LT,7,prtvalt1,Labour Party (DP),3,LT-7-3-v
-LT,7,prtvalt1,Democratic Labour and Unity Party (DDVP),4,LT-7-4-v
-LT,7,prtvalt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-7-5-v
-LT,7,prtvalt1,Political Party 'The Way of Courage' (DK),6,LT-7-6-v
-LT,7,prtvalt1,Electoral Action of Poles in Lithuania (LLRA),7,LT-7-7-v
-LT,7,prtvalt1,Lithuanian Social Democratic Party (LSDP),8,LT-7-8-v
-LT,7,prtvalt1,Party Order and Justice (TT),9,LT-7-9-v
-LT,7,prtvalt1,National Association 'For Lithuania in Lithuania' (ULL),10,LT-7-10-v
-LT,7,prtvalt1,Christian Party (KP),11,LT-7-11-v
-LT,7,prtvalt1,Lithuanian People's Party (LZP),12,LT-7-12-v
-LT,7,prtvalt1,Socialist People's Front (SLF),13,LT-7-13-v
-LT,7,prtvalt1,Lithuanian Peasant and Greens Union (LVZS),14,LT-7-14-v
-LT,7,prtvalt1,Party 'Young Lithuania' (JL),15,LT-7-15-v
-LT,7,prtvalt1,Liberal and Centre Union (LiCS),16,LT-7-16-v
-LT,7,prtvalt1,Political Party 'Union Yes' (ST),18,LT-7-18-v
-LT,7,prtvalt1,Did not vote for a multi-member nationwide candidate list,44,LT-7-44-v
-LT,7,prtvalt1,Don't know if voted for a multi-member nationwide candidate list,55,LT-7-55-v
-LT,7,prtvalt2,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-7-1-v
-LT,7,prtvalt2,Republican Party (RP),2,LT-7-2-v
-LT,7,prtvalt2,Labour Party (DP),3,LT-7-3-v
-LT,7,prtvalt2,Democratic Labour and Unity Party (DDVP),4,LT-7-4-v
-LT,7,prtvalt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-7-5-v
-LT,7,prtvalt2,Political Party 'The Way of Courage' (DK),6,LT-7-6-v
-LT,7,prtvalt2,Electoral Action of Poles in Lithuania (LLRA),7,LT-7-7-v
-LT,7,prtvalt2,Lithuanian Social Democratic Party (LSDP),8,LT-7-8-v
-LT,7,prtvalt2,Party Order and Justice (TT),9,LT-7-9-v
-LT,7,prtvalt2,Lithuanian Centre Party (LCP),10,LT-7-10-v
-LT,7,prtvalt2,Lithuanian Social Democratic Union (LSDS),11,LT-7-11-v
-LT,7,prtvalt2,National Unity Union (TVS),13,LT-7-13-v
-LT,7,prtvalt2,Lithuanian People's Party (LZP),15,LT-7-15-v
-LT,7,prtvalt2,Lithuanian Peasant and Greens Union (LVZS),17,LT-7-17-v
-LT,7,prtvalt2,Party 'Young Lithuania' (JL),18,LT-7-18-v
-LT,7,prtvalt2,Liberal and Centre Union (LiCS),19,LT-7-19-v
-LT,7,prtvalt2,Political Party 'Union Yes' (ST),21,LT-7-21-v
-LT,7,prtvalt2,Political Party 'Lithuanian Green Movement' (LZS),25,LT-7-25-v
-LT,7,prtvalt2,Independent/Self-Nominated,28,LT-7-28-v
-LT,7,prtvalt2,Did not vote for a single-member constituency candidate list,44,LT-7-44-v
-LT,7,prtvalt2,Don't know if voted for a single-member constituency candidate list,55,LT-7-55-v
-LT,7,prtvalt3,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-7-1-v
-LT,7,prtvalt3,Labour Party (DP),3,LT-7-3-v
-LT,7,prtvalt3,Democratic Labour and Unity Party (DDVP),4,LT-7-4-v
-LT,7,prtvalt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-7-5-v
-LT,7,prtvalt3,Political Party 'The Way of Courage' (DK),6,LT-7-6-v
-LT,7,prtvalt3,Electoral Action of Poles in Lithuania (LLRA),7,LT-7-7-v
-LT,7,prtvalt3,Lithuanian Social Democratic Party (LSDP),8,LT-7-8-v
-LT,7,prtvalt3,Party Order and Justice (TT),9,LT-7-9-v
-LT,7,prtvalt3,Lithuanian Centre Party (LCP),10,LT-7-10-v
-LT,7,prtvalt3,Lithuanian Social Democratic Union (LSDS),11,LT-7-11-v
-LT,7,prtvalt3,National Unity Union (TVS),13,LT-7-13-v
-LT,7,prtvalt3,Socialist People's Front (SLF),16,LT-7-16-v
-LT,7,prtvalt3,Lithuanian Peasant and Greens Union (LVZS),17,LT-7-17-v
-LT,7,prtvalt3,Liberal and Centre Union (LiCS),19,LT-7-19-v
-LT,7,prtvalt3,Political Party 'Union Yes' (ST),21,LT-7-21-v
-LT,7,prtvalt3,Independent/Self-Nominated,28,LT-7-28-v
-LT,7,prtvalt3,No 2nd round in single-member constituency,33,LT-7-33-v
-LT,7,prtvalt3,"Did not vote for a single-member constituency candidate list, 2nd round",44,LT-7-44-v
-LT,7,prtvalt3,"Don't know if voted for a single-member constituency candidate list, 2nd round",55,LT-7-55-v
+LT,7,prtvalt1,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-7-1-v-lt1
+LT,7,prtvalt1,Republican Party (RP),2,LT-7-2-v-lt1
+LT,7,prtvalt1,Labour Party (DP),3,LT-7-3-v-lt1
+LT,7,prtvalt1,Democratic Labour and Unity Party (DDVP),4,LT-7-4-v-lt1
+LT,7,prtvalt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-7-5-v-lt1
+LT,7,prtvalt1,Political Party 'The Way of Courage' (DK),6,LT-7-6-v-lt1
+LT,7,prtvalt1,Electoral Action of Poles in Lithuania (LLRA),7,LT-7-7-v-lt1
+LT,7,prtvalt1,Lithuanian Social Democratic Party (LSDP),8,LT-7-8-v-lt1
+LT,7,prtvalt1,Party Order and Justice (TT),9,LT-7-9-v-lt1
+LT,7,prtvalt1,National Association 'For Lithuania in Lithuania' (ULL),10,LT-7-10-v-lt1
+LT,7,prtvalt1,Christian Party (KP),11,LT-7-11-v-lt1
+LT,7,prtvalt1,Lithuanian People's Party (LZP),12,LT-7-12-v-lt1
+LT,7,prtvalt1,Socialist People's Front (SLF),13,LT-7-13-v-lt1
+LT,7,prtvalt1,Lithuanian Peasant and Greens Union (LVZS),14,LT-7-14-v-lt1
+LT,7,prtvalt1,Party 'Young Lithuania' (JL),15,LT-7-15-v-lt1
+LT,7,prtvalt1,Liberal and Centre Union (LiCS),16,LT-7-16-v-lt1
+LT,7,prtvalt1,Political Party 'Union Yes' (ST),18,LT-7-18-v-lt1
+LT,7,prtvalt1,Did not vote for a multi-member nationwide candidate list,44,LT-7-44-v-lt1
+LT,7,prtvalt1,Don't know if voted for a multi-member nationwide candidate list,55,LT-7-55-v-lt1
+LT,7,prtvalt2,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-7-1-v-lt2
+LT,7,prtvalt2,Republican Party (RP),2,LT-7-2-v-lt2
+LT,7,prtvalt2,Labour Party (DP),3,LT-7-3-v-lt2
+LT,7,prtvalt2,Democratic Labour and Unity Party (DDVP),4,LT-7-4-v-lt2
+LT,7,prtvalt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-7-5-v-lt2
+LT,7,prtvalt2,Political Party 'The Way of Courage' (DK),6,LT-7-6-v-lt2
+LT,7,prtvalt2,Electoral Action of Poles in Lithuania (LLRA),7,LT-7-7-v-lt2
+LT,7,prtvalt2,Lithuanian Social Democratic Party (LSDP),8,LT-7-8-v-lt2
+LT,7,prtvalt2,Party Order and Justice (TT),9,LT-7-9-v-lt2
+LT,7,prtvalt2,Lithuanian Centre Party (LCP),10,LT-7-10-v-lt2
+LT,7,prtvalt2,Lithuanian Social Democratic Union (LSDS),11,LT-7-11-v-lt2
+LT,7,prtvalt2,National Unity Union (TVS),13,LT-7-13-v-lt2
+LT,7,prtvalt2,Lithuanian People's Party (LZP),15,LT-7-15-v-lt2
+LT,7,prtvalt2,Lithuanian Peasant and Greens Union (LVZS),17,LT-7-17-v-lt2
+LT,7,prtvalt2,Party 'Young Lithuania' (JL),18,LT-7-18-v-lt2
+LT,7,prtvalt2,Liberal and Centre Union (LiCS),19,LT-7-19-v-lt2
+LT,7,prtvalt2,Political Party 'Union Yes' (ST),21,LT-7-21-v-lt2
+LT,7,prtvalt2,Political Party 'Lithuanian Green Movement' (LZS),25,LT-7-25-v-lt2
+LT,7,prtvalt2,Independent/Self-Nominated,28,LT-7-28-v-lt2
+LT,7,prtvalt2,Did not vote for a single-member constituency candidate list,44,LT-7-44-v-lt2
+LT,7,prtvalt2,Don't know if voted for a single-member constituency candidate list,55,LT-7-55-v-lt2
+LT,7,prtvalt3,Liberals' Movement of the Republic of Lithuania (LRLS),1,LT-7-1-v-lt3
+LT,7,prtvalt3,Labour Party (DP),3,LT-7-3-v-lt3
+LT,7,prtvalt3,Democratic Labour and Unity Party (DDVP),4,LT-7-4-v-lt3
+LT,7,prtvalt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-7-5-v-lt3
+LT,7,prtvalt3,Political Party 'The Way of Courage' (DK),6,LT-7-6-v-lt3
+LT,7,prtvalt3,Electoral Action of Poles in Lithuania (LLRA),7,LT-7-7-v-lt3
+LT,7,prtvalt3,Lithuanian Social Democratic Party (LSDP),8,LT-7-8-v-lt3
+LT,7,prtvalt3,Party Order and Justice (TT),9,LT-7-9-v-lt3
+LT,7,prtvalt3,Lithuanian Centre Party (LCP),10,LT-7-10-v-lt3
+LT,7,prtvalt3,Lithuanian Social Democratic Union (LSDS),11,LT-7-11-v-lt3
+LT,7,prtvalt3,National Unity Union (TVS),13,LT-7-13-v-lt3
+LT,7,prtvalt3,Socialist People's Front (SLF),16,LT-7-16-v-lt3
+LT,7,prtvalt3,Lithuanian Peasant and Greens Union (LVZS),17,LT-7-17-v-lt3
+LT,7,prtvalt3,Liberal and Centre Union (LiCS),19,LT-7-19-v-lt3
+LT,7,prtvalt3,Political Party 'Union Yes' (ST),21,LT-7-21-v-lt3
+LT,7,prtvalt3,Independent/Self-Nominated,28,LT-7-28-v-lt3
+LT,7,prtvalt3,No 2nd round in single-member constituency,33,LT-7-33-v-lt3
+LT,7,prtvalt3,"Did not vote for a single-member constituency candidate list, 2nd round",44,LT-7-44-v-lt3
+LT,7,prtvalt3,"Don't know if voted for a single-member constituency candidate list, 2nd round",55,LT-7-55-v-lt3
 LT,8,prtclblt,Homeland Union - Lithuanian Christian Democrats (TS-LKD),1,LT-8-1-c
 LT,8,prtclblt,Lithuanian Peasant and Greens Union (LVZS),2,LT-8-2-c
 LT,8,prtclblt,Lithuanian Social Democratic Party (LSDP),3,LT-8-3-c
@@ -4142,58 +4142,58 @@ LT,8,prtclblt,Lithuanian Greens Party (LZP),9,LT-8-9-c
 LT,8,prtclblt,Political Party 'List of Lithuania' (LS),10,LT-8-10-c
 LT,8,prtclblt,Political Party 'The Way of Courage' (DK),12,LT-8-12-c
 LT,8,prtclblt,Lithuanian Centre Party (LCP),13,LT-8-13-c
-LT,8,prtvblt1,Lithuanian Social Democratic Party (LSDP),1,LT-8-1-v
-LT,8,prtvblt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-8-2-v
-LT,8,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v
-LT,8,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-8-4-v
-LT,8,prtvblt1,Party Order and Justice (TT),5,LT-8-5-v
-LT,8,prtvblt1,Lithuanian Peasant and Greens Union (LVZS),6,LT-8-6-v
-LT,8,prtvblt1,Liberals' Movement of the Republic of Lithuania (LRLS),7,LT-8-7-v
-LT,8,prtvblt1,Labour Party (DP),8,LT-8-8-v
-LT,8,prtvblt1,Political Party 'The Way of Courage' (DK),9,LT-8-9-v
-LT,8,prtvblt1,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),11,LT-8-11-v
-LT,8,prtvblt1,Lithuanian Greens Party (LZP),12,LT-8-12-v
-LT,8,prtvblt1,Political Party 'List of Lithuania' (LS),13,LT-8-13-v
-LT,8,prtvblt1,Anti-corruption coalition of K. Krivickas and N. Puteikis (Lithuanian Centre Par,14,LT-8-14-v
-LT,8,prtvblt1,Did not vote for a multi-member nationwide candidate list,61,LT-8-61-v
-LT,8,prtvblt1,Refused to tell if voted for a multi-member nationwide candidate list,62,LT-8-62-v
-LT,8,prtvblt1,Don't know if voted for a multi-member nationwide candidate list,63,LT-8-63-v
-LT,8,prtvblt2,Lithuanian Social Democratic Party (LSDP),1,LT-8-1-v
-LT,8,prtvblt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-8-2-v
-LT,8,prtvblt2,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v
-LT,8,prtvblt2,Party 'Young Lithuania' (JL),4,LT-8-4-v
-LT,8,prtvblt2,Party Order and Justice (TT),6,LT-8-6-v
-LT,8,prtvblt2,Lithuanian Peasant and Greens Union (LVZS),7,LT-8-7-v
-LT,8,prtvblt2,Liberals' Movement of the Republic of Lithuania (LRLS),8,LT-8-8-v
-LT,8,prtvblt2,Labour Party (DP),9,LT-8-9-v
-LT,8,prtvblt2,Political Party 'The Way of Courage' (DK),10,LT-8-10-v
-LT,8,prtvblt2,Lithuanian People's Party (LLP),11,LT-8-11-v
-LT,8,prtvblt2,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),12,LT-8-12-v
-LT,8,prtvblt2,Lithuanian Greens Party (LZP),13,LT-8-13-v
-LT,8,prtvblt2,Political Party 'List of Lithuania' (LS),14,LT-8-14-v
-LT,8,prtvblt2,Lithuanian Centre Party (LCP),15,LT-8-15-v
-LT,8,prtvblt2,Independent/Self-Nominated,17,LT-8-17-v
-LT,8,prtvblt2,Did not vote for a single-member constituency candidate list,61,LT-8-61-v
-LT,8,prtvblt2,Refused to tell if voted for a single-member constituency candidate list,62,LT-8-62-v
-LT,8,prtvblt2,Don't know if voted for a single-member constituency candidate list,63,LT-8-63-v
-LT,8,prtvblt3,Lithuanian Social Democratic Party (LSDP),1,LT-8-1-v
-LT,8,prtvblt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-8-2-v
-LT,8,prtvblt3,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v
-LT,8,prtvblt3,Party 'Young Lithuania' (JL),4,LT-8-4-v
-LT,8,prtvblt3,Nationalist Union (TS),5,LT-8-5-v
-LT,8,prtvblt3,Party Order and Justice (TT),6,LT-8-6-v
-LT,8,prtvblt3,Lithuanian Peasant and Greens Union (LVZS),7,LT-8-7-v
-LT,8,prtvblt3,Liberals' Movement of the Republic of Lithuania (LRLS),8,LT-8-8-v
-LT,8,prtvblt3,Labour Party (DP),9,LT-8-9-v
-LT,8,prtvblt3,Lithuanian People's Party (LLP),11,LT-8-11-v
-LT,8,prtvblt3,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),12,LT-8-12-v
-LT,8,prtvblt3,Lithuanian Greens Party (LZP),13,LT-8-13-v
-LT,8,prtvblt3,Lithuanian Centre Party (LCP),15,LT-8-15-v
-LT,8,prtvblt3,Independent/Self-Nominated,17,LT-8-17-v
-LT,8,prtvblt3,No 2nd round in single-member constituency,60,LT-8-60-v
-LT,8,prtvblt3,"Did not vote for a single-member constituency candidate list, 2nd round",61,LT-8-61-v
-LT,8,prtvblt3,"Refused to tell if voted for a single-member constituency candidate list, 2nd ro",62,LT-8-62-v
-LT,8,prtvblt3,"Don't know if voted for a single-member constituency candidate list, 2nd round",63,LT-8-63-v
+LT,8,prtvblt1,Lithuanian Social Democratic Party (LSDP),1,LT-8-1-v-lt1
+LT,8,prtvblt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-8-2-v-lt1
+LT,8,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v-lt1
+LT,8,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-8-4-v-lt1
+LT,8,prtvblt1,Party Order and Justice (TT),5,LT-8-5-v-lt1
+LT,8,prtvblt1,Lithuanian Peasant and Greens Union (LVZS),6,LT-8-6-v-lt1
+LT,8,prtvblt1,Liberals' Movement of the Republic of Lithuania (LRLS),7,LT-8-7-v-lt1
+LT,8,prtvblt1,Labour Party (DP),8,LT-8-8-v-lt1
+LT,8,prtvblt1,Political Party 'The Way of Courage' (DK),9,LT-8-9-v-lt1
+LT,8,prtvblt1,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),11,LT-8-11-v-lt1
+LT,8,prtvblt1,Lithuanian Greens Party (LZP),12,LT-8-12-v-lt1
+LT,8,prtvblt1,Political Party 'List of Lithuania' (LS),13,LT-8-13-v-lt1
+LT,8,prtvblt1,Anti-corruption coalition of K. Krivickas and N. Puteikis (Lithuanian Centre Par,14,LT-8-14-v-lt1
+LT,8,prtvblt1,Did not vote for a multi-member nationwide candidate list,61,LT-8-61-v-lt1
+LT,8,prtvblt1,Refused to tell if voted for a multi-member nationwide candidate list,62,LT-8-62-v-lt1
+LT,8,prtvblt1,Don't know if voted for a multi-member nationwide candidate list,63,LT-8-63-v-lt1
+LT,8,prtvblt2,Lithuanian Social Democratic Party (LSDP),1,LT-8-1-v-lt2
+LT,8,prtvblt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-8-2-v-lt2
+LT,8,prtvblt2,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v-lt2
+LT,8,prtvblt2,Party 'Young Lithuania' (JL),4,LT-8-4-v-lt2
+LT,8,prtvblt2,Party Order and Justice (TT),6,LT-8-6-v-lt2
+LT,8,prtvblt2,Lithuanian Peasant and Greens Union (LVZS),7,LT-8-7-v-lt2
+LT,8,prtvblt2,Liberals' Movement of the Republic of Lithuania (LRLS),8,LT-8-8-v-lt2
+LT,8,prtvblt2,Labour Party (DP),9,LT-8-9-v-lt2
+LT,8,prtvblt2,Political Party 'The Way of Courage' (DK),10,LT-8-10-v-lt2
+LT,8,prtvblt2,Lithuanian People's Party (LLP),11,LT-8-11-v-lt2
+LT,8,prtvblt2,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),12,LT-8-12-v-lt2
+LT,8,prtvblt2,Lithuanian Greens Party (LZP),13,LT-8-13-v-lt2
+LT,8,prtvblt2,Political Party 'List of Lithuania' (LS),14,LT-8-14-v-lt2
+LT,8,prtvblt2,Lithuanian Centre Party (LCP),15,LT-8-15-v-lt2
+LT,8,prtvblt2,Independent/Self-Nominated,17,LT-8-17-v-lt2
+LT,8,prtvblt2,Did not vote for a single-member constituency candidate list,61,LT-8-61-v-lt2
+LT,8,prtvblt2,Refused to tell if voted for a single-member constituency candidate list,62,LT-8-62-v-lt2
+LT,8,prtvblt2,Don't know if voted for a single-member constituency candidate list,63,LT-8-63-v-lt2
+LT,8,prtvblt3,Lithuanian Social Democratic Party (LSDP),1,LT-8-1-v-lt3
+LT,8,prtvblt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-8-2-v-lt3
+LT,8,prtvblt3,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v-lt3
+LT,8,prtvblt3,Party 'Young Lithuania' (JL),4,LT-8-4-v-lt3
+LT,8,prtvblt3,Nationalist Union (TS),5,LT-8-5-v-lt3
+LT,8,prtvblt3,Party Order and Justice (TT),6,LT-8-6-v-lt3
+LT,8,prtvblt3,Lithuanian Peasant and Greens Union (LVZS),7,LT-8-7-v-lt3
+LT,8,prtvblt3,Liberals' Movement of the Republic of Lithuania (LRLS),8,LT-8-8-v-lt3
+LT,8,prtvblt3,Labour Party (DP),9,LT-8-9-v-lt3
+LT,8,prtvblt3,Lithuanian People's Party (LLP),11,LT-8-11-v-lt3
+LT,8,prtvblt3,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),12,LT-8-12-v-lt3
+LT,8,prtvblt3,Lithuanian Greens Party (LZP),13,LT-8-13-v-lt3
+LT,8,prtvblt3,Lithuanian Centre Party (LCP),15,LT-8-15-v-lt3
+LT,8,prtvblt3,Independent/Self-Nominated,17,LT-8-17-v-lt3
+LT,8,prtvblt3,No 2nd round in single-member constituency,60,LT-8-60-v-lt3
+LT,8,prtvblt3,"Did not vote for a single-member constituency candidate list, 2nd round",61,LT-8-61-v-lt3
+LT,8,prtvblt3,"Refused to tell if voted for a single-member constituency candidate list, 2nd ro",62,LT-8-62-v-lt3
+LT,8,prtvblt3,"Don't know if voted for a single-member constituency candidate list, 2nd round",63,LT-8-63-v-lt3
 LT,9,prtclblt,Homeland Union - Lithuanian Christian Democrats (TS-LKD),1,LT-9-1-c
 LT,9,prtclblt,Lithuanian Peasant and Greens Union (LVZS),2,LT-9-2-c
 LT,9,prtclblt,Lithuanian Social Democratic Party (LSDP),3,LT-9-3-c
@@ -4208,59 +4208,59 @@ LT,9,prtclblt,Lithuanian Centre Party (LCP),13,LT-9-13-c
 LT,9,prtclblt,Lithuanian Pensioners' Party (LPP),14,LT-9-14-c
 LT,9,prtclblt,Party 'Young Lithuania' (JL),15,LT-9-15-c
 LT,9,prtclblt,Other,17,LT-9-17-c
-LT,9,prtvblt1,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v
-LT,9,prtvblt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v
-LT,9,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v
-LT,9,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-9-4-v
-LT,9,prtvblt1,Party Order and Justice (TT),5,LT-9-5-v
-LT,9,prtvblt1,Lithuanian Peasant and Greens Union (LVZS),6,LT-9-6-v
-LT,9,prtvblt1,Liberals' Movement of the Republic of Lithuania (LRLS),7,LT-9-7-v
-LT,9,prtvblt1,Labour Party (DP),8,LT-9-8-v
-LT,9,prtvblt1,Political Party 'The Way of Courage' (DK),9,LT-9-9-v
-LT,9,prtvblt1,Lithuanian People's Party (LLP),10,LT-9-10-v
-LT,9,prtvblt1,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),11,LT-9-11-v
-LT,9,prtvblt1,Lithuanian Greens Party (LZP),12,LT-9-12-v
-LT,9,prtvblt1,Political Party 'List of Lithuania' (LS),13,LT-9-13-v
-LT,9,prtvblt1,Anti-corruption coalition of K. Krivickas and N. Puteikis (Lithuanian Centre Par,14,LT-9-14-v
-LT,9,prtvblt1,Did not vote for a multi-member nationwide candidate list,61,LT-9-61-v
-LT,9,prtvblt1,Refused to tell if voted for a multi-member nationwide candidate list,62,LT-9-62-v
-LT,9,prtvblt1,Don't know if voted for a multi-member nationwide candidate list,63,LT-9-63-v
-LT,9,prtvblt2,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v
-LT,9,prtvblt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v
-LT,9,prtvblt2,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v
-LT,9,prtvblt2,Party 'Young Lithuania' (JL),4,LT-9-4-v
-LT,9,prtvblt2,Nationalist Union (TS),5,LT-9-5-v
-LT,9,prtvblt2,Party Order and Justice (TT),6,LT-9-6-v
-LT,9,prtvblt2,Lithuanian Peasant and Greens Union (LVZS),7,LT-9-7-v
-LT,9,prtvblt2,Liberals' Movement of the Republic of Lithuania (LRLS),8,LT-9-8-v
-LT,9,prtvblt2,Labour Party (DP),9,LT-9-9-v
-LT,9,prtvblt2,Political Party 'The Way of Courage' (DK),10,LT-9-10-v
-LT,9,prtvblt2,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),12,LT-9-12-v
-LT,9,prtvblt2,Lithuanian Greens Party (LZP),13,LT-9-13-v
-LT,9,prtvblt2,Lithuanian Centre Party (LCP),15,LT-9-15-v
-LT,9,prtvblt2,Lithuanian Pensioners' Party (LPP),16,LT-9-16-v
-LT,9,prtvblt2,Independent/Self-Nominated,17,LT-9-17-v
-LT,9,prtvblt2,Did not vote for a single-member constituency candidate list,61,LT-9-61-v
-LT,9,prtvblt2,Refused to tell if voted for a single-member constituency candidate list,62,LT-9-62-v
-LT,9,prtvblt2,Don't know if voted for a single-member constituency candidate list,63,LT-9-63-v
-LT,9,prtvblt3,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v
-LT,9,prtvblt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v
-LT,9,prtvblt3,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v
-LT,9,prtvblt3,Party 'Young Lithuania' (JL),4,LT-9-4-v
-LT,9,prtvblt3,Nationalist Union (TS),5,LT-9-5-v
-LT,9,prtvblt3,Party Order and Justice (TT),6,LT-9-6-v
-LT,9,prtvblt3,Lithuanian Peasant and Greens Union (LVZS),7,LT-9-7-v
-LT,9,prtvblt3,Liberals' Movement of the Republic of Lithuania (LRLS),8,LT-9-8-v
-LT,9,prtvblt3,Labour Party (DP),9,LT-9-9-v
-LT,9,prtvblt3,Political Party 'The Way of Courage' (DK),10,LT-9-10-v
-LT,9,prtvblt3,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),12,LT-9-12-v
-LT,9,prtvblt3,Lithuanian Greens Party (LZP),13,LT-9-13-v
-LT,9,prtvblt3,Political Party 'List of Lithuania' (LS),14,LT-9-14-v
-LT,9,prtvblt3,Lithuanian Centre Party (LCP),15,LT-9-15-v
-LT,9,prtvblt3,Independent/Self-Nominated,17,LT-9-17-v
-LT,9,prtvblt3,"Did not vote for a single-member constituency candidate list, 2nd round",61,LT-9-61-v
-LT,9,prtvblt3,"Refused to tell if voted for a single-member constituency candidate list, 2nd ro",62,LT-9-62-v
-LT,9,prtvblt3,"Don't know if voted for a single-member constituency candidate list, 2nd round",63,LT-9-63-v
+LT,9,prtvblt1,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v-lt1
+LT,9,prtvblt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v-lt1
+LT,9,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v-lt1
+LT,9,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-9-4-v-lt1
+LT,9,prtvblt1,Party Order and Justice (TT),5,LT-9-5-v-lt1
+LT,9,prtvblt1,Lithuanian Peasant and Greens Union (LVZS),6,LT-9-6-v-lt1
+LT,9,prtvblt1,Liberals' Movement of the Republic of Lithuania (LRLS),7,LT-9-7-v-lt1
+LT,9,prtvblt1,Labour Party (DP),8,LT-9-8-v-lt1
+LT,9,prtvblt1,Political Party 'The Way of Courage' (DK),9,LT-9-9-v-lt1
+LT,9,prtvblt1,Lithuanian People's Party (LLP),10,LT-9-10-v-lt1
+LT,9,prtvblt1,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),11,LT-9-11-v-lt1
+LT,9,prtvblt1,Lithuanian Greens Party (LZP),12,LT-9-12-v-lt1
+LT,9,prtvblt1,Political Party 'List of Lithuania' (LS),13,LT-9-13-v-lt1
+LT,9,prtvblt1,Anti-corruption coalition of K. Krivickas and N. Puteikis (Lithuanian Centre Par,14,LT-9-14-v-lt1
+LT,9,prtvblt1,Did not vote for a multi-member nationwide candidate list,61,LT-9-61-v-lt1
+LT,9,prtvblt1,Refused to tell if voted for a multi-member nationwide candidate list,62,LT-9-62-v-lt1
+LT,9,prtvblt1,Don't know if voted for a multi-member nationwide candidate list,63,LT-9-63-v-lt1
+LT,9,prtvblt2,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v-lt2
+LT,9,prtvblt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v-lt2
+LT,9,prtvblt2,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v-lt2
+LT,9,prtvblt2,Party 'Young Lithuania' (JL),4,LT-9-4-v-lt2
+LT,9,prtvblt2,Nationalist Union (TS),5,LT-9-5-v-lt2
+LT,9,prtvblt2,Party Order and Justice (TT),6,LT-9-6-v-lt2
+LT,9,prtvblt2,Lithuanian Peasant and Greens Union (LVZS),7,LT-9-7-v-lt2
+LT,9,prtvblt2,Liberals' Movement of the Republic of Lithuania (LRLS),8,LT-9-8-v-lt2
+LT,9,prtvblt2,Labour Party (DP),9,LT-9-9-v-lt2
+LT,9,prtvblt2,Political Party 'The Way of Courage' (DK),10,LT-9-10-v-lt2
+LT,9,prtvblt2,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),12,LT-9-12-v-lt2
+LT,9,prtvblt2,Lithuanian Greens Party (LZP),13,LT-9-13-v-lt2
+LT,9,prtvblt2,Lithuanian Centre Party (LCP),15,LT-9-15-v-lt2
+LT,9,prtvblt2,Lithuanian Pensioners' Party (LPP),16,LT-9-16-v-lt2
+LT,9,prtvblt2,Independent/Self-Nominated,17,LT-9-17-v-lt2
+LT,9,prtvblt2,Did not vote for a single-member constituency candidate list,61,LT-9-61-v-lt2
+LT,9,prtvblt2,Refused to tell if voted for a single-member constituency candidate list,62,LT-9-62-v-lt2
+LT,9,prtvblt2,Don't know if voted for a single-member constituency candidate list,63,LT-9-63-v-lt2
+LT,9,prtvblt3,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v-lt3
+LT,9,prtvblt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v-lt3
+LT,9,prtvblt3,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v-lt3
+LT,9,prtvblt3,Party 'Young Lithuania' (JL),4,LT-9-4-v-lt3
+LT,9,prtvblt3,Nationalist Union (TS),5,LT-9-5-v-lt3
+LT,9,prtvblt3,Party Order and Justice (TT),6,LT-9-6-v-lt3
+LT,9,prtvblt3,Lithuanian Peasant and Greens Union (LVZS),7,LT-9-7-v-lt3
+LT,9,prtvblt3,Liberals' Movement of the Republic of Lithuania (LRLS),8,LT-9-8-v-lt3
+LT,9,prtvblt3,Labour Party (DP),9,LT-9-9-v-lt3
+LT,9,prtvblt3,Political Party 'The Way of Courage' (DK),10,LT-9-10-v-lt3
+LT,9,prtvblt3,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),12,LT-9-12-v-lt3
+LT,9,prtvblt3,Lithuanian Greens Party (LZP),13,LT-9-13-v-lt3
+LT,9,prtvblt3,Political Party 'List of Lithuania' (LS),14,LT-9-14-v-lt3
+LT,9,prtvblt3,Lithuanian Centre Party (LCP),15,LT-9-15-v-lt3
+LT,9,prtvblt3,Independent/Self-Nominated,17,LT-9-17-v-lt3
+LT,9,prtvblt3,"Did not vote for a single-member constituency candidate list, 2nd round",61,LT-9-61-v-lt3
+LT,9,prtvblt3,"Refused to tell if voted for a single-member constituency candidate list, 2nd ro",62,LT-9-62-v-lt3
+LT,9,prtvblt3,"Don't know if voted for a single-member constituency candidate list, 2nd round",63,LT-9-63-v-lt3
 LT,10,prtclclt,Homeland Union - Lithuanian Christian Democrats (TS-LKD),1,LT-10-1-c
 LT,10,prtclclt,Lithuanian Peasant and Greens Union (LVZS),2,LT-10-2-c
 LT,10,prtclclt,Labour Party (DP),3,LT-10-3-c
@@ -4279,39 +4279,39 @@ LT,10,prtclclt,Christian Union (KS),15,LT-10-15-c
 LT,10,prtclclt,Union of Intergenerational Solidarity - Cohesion for Lithuania (KSSL),16,LT-10-16-c
 LT,10,prtclclt,Lithuanian People's Party (LLP),17,LT-10-17-c
 LT,10,prtclclt,Other,65,LT-10-65-c
-LT,10,prtvclt1,Political Party 'The Way of Courage' (DK),1,LT-10-1-v
-LT,10,prtvclt1,Party 'Freedom and Justice' (LT),2,LT-10-2-v
-LT,10,prtvclt1,Freedom Party (LP),3,LT-10-3-v
-LT,10,prtvclt1,Lithuanian People's Party (LLP),4,LT-10-4-v
-LT,10,prtvclt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-10-5-v
-LT,10,prtvclt1,Centre Party - Nationalists (CPT),6,LT-10-6-v
-LT,10,prtvclt1,National Alliance (NS),7,LT-10-7-v
-LT,10,prtvclt1,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),8,LT-10-8-v
-LT,10,prtvclt1,Social Democratic Labour Party of Lithuania (LSDDP),9,LT-10-9-v
-LT,10,prtvclt1,Union of Intergenerational Solidarity - Cohesion for Lithuania (KSSL),10,LT-10-10-v
-LT,10,prtvclt1,Party 'Lithuania - For everyone' (LV),11,LT-10-11-v
-LT,10,prtvclt1,Liberals' Movement of the Republic of Lithuania (LRLS),12,LT-10-12-v
-LT,10,prtvclt1,Lithuanian Peasant and Greens Union (LVZS),13,LT-10-13-v
-LT,10,prtvclt1,Lithuanian Greens Party (LZP),14,LT-10-14-v
-LT,10,prtvclt1,Christian Union (KS),15,LT-10-15-v
-LT,10,prtvclt1,Labour Party (DP),16,LT-10-16-v
-LT,10,prtvclt1,Lithuanian Social Democratic Party (LSDP),17,LT-10-17-v
-LT,10,prtvclt2,Political Party 'The Way of Courage' (DK),1,LT-10-1-v
-LT,10,prtvclt2,Freedom Party (LP),3,LT-10-3-v
-LT,10,prtvclt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-10-5-v
-LT,10,prtvclt2,National Alliance (NS),7,LT-10-7-v
-LT,10,prtvclt2,Social Democratic Labour Party of Lithuania (LSDDP),9,LT-10-9-v
-LT,10,prtvclt2,Lithuanian Peasant and Greens Union (LVZS),13,LT-10-13-v
-LT,10,prtvclt2,Labour Party (DP),16,LT-10-16-v
-LT,10,prtvclt2,Lithuanian Social Democratic Party (LSDP),17,LT-10-17-v
-LT,10,prtvclt2,Political Party 'List of Lithuania' (LS),18,LT-10-18-v
-LT,10,prtvclt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-10-5-v
-LT,10,prtvclt3,National Alliance (NS),7,LT-10-7-v
-LT,10,prtvclt3,Social Democratic Labour Party of Lithuania (LSDDP),9,LT-10-9-v
-LT,10,prtvclt3,Liberals' Movement of the Republic of Lithuania (LRLS),12,LT-10-12-v
-LT,10,prtvclt3,Lithuanian Peasant and Greens Union (LVZS),13,LT-10-13-v
-LT,10,prtvclt3,Lithuanian Greens Party (LZP),14,LT-10-14-v
-LT,10,prtvclt3,Lithuanian Social Democratic Party (LSDP),17,LT-10-17-v
+LT,10,prtvclt1,Political Party 'The Way of Courage' (DK),1,LT-10-1-v-lt1
+LT,10,prtvclt1,Party 'Freedom and Justice' (LT),2,LT-10-2-v-lt1
+LT,10,prtvclt1,Freedom Party (LP),3,LT-10-3-v-lt1
+LT,10,prtvclt1,Lithuanian People's Party (LLP),4,LT-10-4-v-lt1
+LT,10,prtvclt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-10-5-v-lt1
+LT,10,prtvclt1,Centre Party - Nationalists (CPT),6,LT-10-6-v-lt1
+LT,10,prtvclt1,National Alliance (NS),7,LT-10-7-v-lt1
+LT,10,prtvclt1,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),8,LT-10-8-v-lt1
+LT,10,prtvclt1,Social Democratic Labour Party of Lithuania (LSDDP),9,LT-10-9-v-lt1
+LT,10,prtvclt1,Union of Intergenerational Solidarity - Cohesion for Lithuania (KSSL),10,LT-10-10-v-lt1
+LT,10,prtvclt1,Party 'Lithuania - For everyone' (LV),11,LT-10-11-v-lt1
+LT,10,prtvclt1,Liberals' Movement of the Republic of Lithuania (LRLS),12,LT-10-12-v-lt1
+LT,10,prtvclt1,Lithuanian Peasant and Greens Union (LVZS),13,LT-10-13-v-lt1
+LT,10,prtvclt1,Lithuanian Greens Party (LZP),14,LT-10-14-v-lt1
+LT,10,prtvclt1,Christian Union (KS),15,LT-10-15-v-lt1
+LT,10,prtvclt1,Labour Party (DP),16,LT-10-16-v-lt1
+LT,10,prtvclt1,Lithuanian Social Democratic Party (LSDP),17,LT-10-17-v-lt1
+LT,10,prtvclt2,Political Party 'The Way of Courage' (DK),1,LT-10-1-v-lt2
+LT,10,prtvclt2,Freedom Party (LP),3,LT-10-3-v-lt2
+LT,10,prtvclt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-10-5-v-lt2
+LT,10,prtvclt2,National Alliance (NS),7,LT-10-7-v-lt2
+LT,10,prtvclt2,Social Democratic Labour Party of Lithuania (LSDDP),9,LT-10-9-v-lt2
+LT,10,prtvclt2,Lithuanian Peasant and Greens Union (LVZS),13,LT-10-13-v-lt2
+LT,10,prtvclt2,Labour Party (DP),16,LT-10-16-v-lt2
+LT,10,prtvclt2,Lithuanian Social Democratic Party (LSDP),17,LT-10-17-v-lt2
+LT,10,prtvclt2,Political Party 'List of Lithuania' (LS),18,LT-10-18-v-lt2
+LT,10,prtvclt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-10-5-v-lt3
+LT,10,prtvclt3,National Alliance (NS),7,LT-10-7-v-lt3
+LT,10,prtvclt3,Social Democratic Labour Party of Lithuania (LSDDP),9,LT-10-9-v-lt3
+LT,10,prtvclt3,Liberals' Movement of the Republic of Lithuania (LRLS),12,LT-10-12-v-lt3
+LT,10,prtvclt3,Lithuanian Peasant and Greens Union (LVZS),13,LT-10-13-v-lt3
+LT,10,prtvclt3,Lithuanian Greens Party (LZP),14,LT-10-14-v-lt3
+LT,10,prtvclt3,Lithuanian Social Democratic Party (LSDP),17,LT-10-17-v-lt3
 LU,1,prtcllu,Parti Chrétien Social (PCS),1,LU-1-1-c
 LU,1,prtcllu,Parti Socialiste Ouvrier Luxembourgeois (PSOL),2,LU-1-2-c
 LU,1,prtcllu,Parti Démocrate (PD),3,LU-1-3-c

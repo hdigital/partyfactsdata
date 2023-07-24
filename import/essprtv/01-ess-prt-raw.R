@@ -65,11 +65,24 @@ ess_prt_out <-
   ess_prt_raw |>
   drop_na(party) |>
   distinct() |>
-  mutate(ess_id = paste(cntry,
-                        essround,
-                        party_id,
-                        substr(variable, 4, 4),
-                        sep = "-")) |>
+  mutate(ess_id = case_when(
+    cntry %in% c("DE", "LT") & str_detect(variable, "prtv") ~ paste(
+      cntry,
+      essround,
+      party_id,
+      substr(variable, 4, 4),
+      str_sub(variable, -3, -1),
+      sep = "-"
+      ),
+    T ~ paste(
+      cntry,
+      essround,
+      party_id,
+      substr(variable, 4, 4),
+      sep = "-"
+      )
+    )
+  ) |>
   arrange(cntry, essround, variable, party_id)
 
 write_csv(ess_prt_out, "01-ess-prt-raw.csv", na = "")
