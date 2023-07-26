@@ -3840,7 +3840,7 @@ IT,8,prtvtbit,FARE - Giannino,12,IT-8-12-v,IT-6-12-v,2279,ITA,FiD,Fermare il Dec
 IT,8,prtvtbit,La destra,13,IT-8-13-v,IT-6-13-v,2415,ITA,1-perc,1 percent,1 percent,11
 IT,8,prtvtbit,Altro,14,IT-8-14-v,IT-1-17-v,1896,ITA,etc,other,other,7
 IT,9,prtcldit,Partido Democratico (PD),1,IT-9-1-c,IT-6-1-c,802,ITA,PD,Partito Democratico,Democratic Party,
-IT,9,prtcldit,+ Europa,2,IT-9-2-c,IT-9-2-c,6155,ITA,+E,Più Europa,More Europe,
+IT,9,prtcldit,#NAME?,2,IT-9-2-c,IT-9-2-c,6155,ITA,+E,Più Europa,More Europe,
 IT,9,prtcldit,Italia Europa Insieme,3,IT-9-3-c,IT-9-3-c,7671,ITA,IEI,Insieme,Together,
 IT,9,prtcldit,Civia Popolare Lorenzin,4,IT-9-4-c,IT-9-4-c,7670,ITA,CP,Civica Popolare,Popular Civic List,
 IT,9,prtcldit,SVP-PATT,5,IT-9-5-c,IT-9-5-c,1369,ITA,SVP,Südtiroler Volkspartei,South Tyrol Peoples Party,
@@ -3853,7 +3853,7 @@ IT,9,prtcldit,Potere al popolo,12,IT-9-12-c,IT-9-12-c,8247,ITA,PaP,Potere al Pop
 IT,9,prtcldit,Casapound Italia,13,IT-9-13-c,IT-9-13-c,8244,ITA,CPI,CasaPound Italia,CasaPound Italy,
 IT,9,prtcldit,Altro,14,IT-9-14-c,IT-1-17-c,1896,ITA,etc,other,other,7
 IT,9,prtvtcit,Partido Democratico (PD),1,IT-9-1-v,IT-6-1-v,802,ITA,PD,Partito Democratico,Democratic Party,
-IT,9,prtvtcit,+ Europa,2,IT-9-2-v,IT-9-2-v,6155,ITA,+E,Più Europa,More Europe,
+IT,9,prtvtcit,#NAME?,2,IT-9-2-v,IT-9-2-v,6155,ITA,+E,Più Europa,More Europe,
 IT,9,prtvtcit,Italia Europa Insieme,3,IT-9-3-v,IT-9-3-v,7671,ITA,IEI,Insieme,Together,
 IT,9,prtvtcit,Civia Popolare Lorenzin,4,IT-9-4-v,IT-9-4-v,7670,ITA,CP,Civica Popolare,Popular Civic List,
 IT,9,prtvtcit,SVP-PATT,5,IT-9-5-v,IT-9-5-v,1369,ITA,SVP,Südtiroler Volkspartei,South Tyrol Peoples Party,
@@ -3872,7 +3872,7 @@ IT,10,prtcleit,Lega,3,IT-10-3-c,IT-1-11-c,1221,ITA,LN,Lega Nord,North League,
 IT,10,prtcleit,Forza Italia,4,IT-10-4-c,IT-1-8-c,1626,ITA,FI,Forza Italia,Go Italy,
 IT,10,prtcleit,Fratelli d'Italia con Giorgia Meloni,5,IT-10-5-c,IT-6-10-c,2280,ITA,FdI,Fratelli d'Italia,Brothers of Italy,
 IT,10,prtcleit,Liberi e Uguali (LEU),6,IT-10-6-c,IT-9-6-c,8246,ITA,LeU,Liberi e Uguali,Free and Equal,
-IT,10,prtcleit,+ Europa,7,IT-10-7-c,IT-9-2-c,6155,ITA,+E,Più Europa,More Europe,
+IT,10,prtcleit,#NAME?,7,IT-10-7-c,IT-9-2-c,6155,ITA,+E,Più Europa,More Europe,
 IT,10,prtcleit,Noi con l'Italia - UDC,8,IT-10-8-c,IT-10-8-c,,ITA,,,,
 IT,10,prtcleit,Potere al popolo,9,IT-10-9-c,IT-9-12-c,8247,ITA,PaP,Potere al Popolo,Power to the People,
 IT,10,prtcleit,SVP-PATT,14,IT-10-14-c,IT-9-5-c,1369,ITA,SVP,Südtiroler Volkspartei,South Tyrol Peoples Party,
@@ -3891,7 +3891,7 @@ IT,10,prtvtdit,Lega,3,IT-10-3-v,IT-1-11-v,1221,ITA,LN,Lega Nord,North League,
 IT,10,prtvtdit,Forza Italia,4,IT-10-4-v,IT-1-8-v,1626,ITA,FI,Forza Italia,Go Italy,
 IT,10,prtvtdit,Fratelli d'Italia con Giorgia Meloni,5,IT-10-5-v,IT-6-10-v,2280,ITA,FdI,Fratelli d'Italia,Brothers of Italy,
 IT,10,prtvtdit,Liberi e Uguali (LEU),6,IT-10-6-v,IT-9-6-v,8246,ITA,LeU,Liberi e Uguali,Free and Equal,
-IT,10,prtvtdit,+ Europa,7,IT-10-7-v,IT-9-2-v,6155,ITA,+E,Più Europa,More Europe,
+IT,10,prtvtdit,#NAME?,7,IT-10-7-v,IT-9-2-v,6155,ITA,+E,Più Europa,More Europe,
 IT,10,prtvtdit,Noi con l'Italia - UDC,8,IT-10-8-v,IT-9-11-v,3956,ITA,ally,alliance,alliance,15
 IT,10,prtvtdit,Potere al popolo,9,IT-10-9-v,IT-9-12-v,8247,ITA,PaP,Potere al Popolo,Power to the People,
 IT,10,prtvtdit,Casapound Italia,10,IT-10-10-v,IT-9-13-v,8244,ITA,CPI,CasaPound Italia,CasaPound Italy,
@@ -4144,7 +4144,7 @@ LT,8,prtclblt,Political Party 'The Way of Courage' (DK),12,LT-8-12-c,LT-6-6-c,74
 LT,8,prtclblt,Lithuanian Centre Party (LCP),13,LT-8-13-c,LT-5-4-c,5455,LTU,LCP,Lietuvos Centro Partija,Lithuanian Centre Party,
 LT,8,prtvblt1,Lithuanian Social Democratic Party (LSDP),1,LT-8-1-v-lt1,LT-5-1-v-lt1,64,LTU,LSDP,Lietuvos socialdemokratų partija,Lithuanian Social Democratic Party,
 LT,8,prtvblt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-8-2-v-lt1,LT-5-5-v-lt1,193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,
-LT,8,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v-lt1,LT-5-18-v-lt1,5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
+LT,8,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v-lt1,LT-8-3-v-lt1,,LTU,,,,
 LT,8,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-8-4-v-lt1,LT-8-4-v-lt1,3971,LTU,ally,alliance,alliance,15
 LT,8,prtvblt1,Party Order and Justice (TT),5,LT-8-5-v-lt1,LT-5-13-v-lt1,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT,8,prtvblt1,Lithuanian Peasant and Greens Union (LVZS),6,LT-8-6-v-lt1,LT-5-12-v-lt1,1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
@@ -4210,7 +4210,7 @@ LT,9,prtclblt,Party 'Young Lithuania' (JL),15,LT-9-15-c,LT-5-16-c,1026,LTU,JL,Ja
 LT,9,prtclblt,Other,17,LT-9-17-c,LT-5-20-c,1846,LTU,etc,other,other,7
 LT,9,prtvblt1,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v-lt1,LT-5-1-v-lt1,64,LTU,LSDP,Lietuvos socialdemokratų partija,Lithuanian Social Democratic Party,
 LT,9,prtvblt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v-lt1,LT-5-5-v-lt1,193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,
-LT,9,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v-lt1,LT-5-18-v-lt1,5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
+LT,9,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v-lt1,LT-8-3-v-lt1,,LTU,,,,
 LT,9,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-9-4-v-lt1,LT-8-4-v-lt1,3971,LTU,ally,alliance,alliance,15
 LT,9,prtvblt1,Party Order and Justice (TT),5,LT-9-5-v-lt1,LT-5-13-v-lt1,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT,9,prtvblt1,Lithuanian Peasant and Greens Union (LVZS),6,LT-9-6-v-lt1,LT-5-12-v-lt1,1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
@@ -4271,7 +4271,7 @@ LT,10,prtclclt,Electoral Action of Poles in Lithuania-Christian Families Allianc
 LT,10,prtclclt,Social Democratic Labour Party of Lithuania (LSDDP),8,LT-10-8-c,LT-10-8-c,7352,LTU,LSDDP—LRP,Lietuvos socialdemokratų darbo partija — Lietuvos regionų partija,Social Democratic Labour Party of Lithuania — Lithuanian Regions Party,
 LT,10,prtclclt,Centre Party - Nationalists (CPT),9,LT-10-9-c,LT-10-9-c,,LTU,,,,
 LT,10,prtclclt,National Alliance (NS),10,LT-10-10-c,LT-10-10-c,9096,LTU,NS,https://en.wikipedia.org/wiki/National_Alliance_(Lithuania),National Alliance,
-LT,10,prtclclt,Party 'Freedom and Justice' (LT),11,LT-10-11-c,LT-10-11-c,,LTU,,,,
+LT,10,prtclclt,Party 'Freedom and Justice' (LT),11,LT-10-11-c,LT-8-8-c,5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
 LT,10,prtclclt,Lithuanian Greens Party (LZP),12,LT-10-12-c,LT-6-25-c,1407,LTU,LZP,Lietuvos žalioji partija,Lithuanian Green Party,
 LT,10,prtclclt,Political Party 'The Way of Courage' (DK),13,LT-10-13-c,LT-6-6-c,74,LTU,DK,Drąsos Kelias,The Way of Courage,
 LT,10,prtclclt,Party 'Lithuania - For everyone' (LV),14,LT-10-14-c,LT-10-14-c,,LTU,,,,
@@ -4280,7 +4280,7 @@ LT,10,prtclclt,Union of Intergenerational Solidarity - Cohesion for Lithuania (K
 LT,10,prtclclt,Lithuanian People's Party (LLP),17,LT-10-17-c,LT-10-17-c,,LTU,,,,
 LT,10,prtclclt,Other,65,LT-10-65-c,LT-5-20-c,1846,LTU,etc,other,other,7
 LT,10,prtvclt1,Political Party 'The Way of Courage' (DK),1,LT-10-1-v-lt1,LT-6-6-v-lt1,74,LTU,DK,Drąsos Kelias,The Way of Courage,
-LT,10,prtvclt1,Party 'Freedom and Justice' (LT),2,LT-10-2-v-lt1,LT-10-2-v-lt1,5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
+LT,10,prtvclt1,Party 'Freedom and Justice' (LT),2,LT-10-2-v-lt1,LT-8-3-v-lt1,,LTU,,,,
 LT,10,prtvclt1,Freedom Party (LP),3,LT-10-3-v-lt1,LT-10-3-v-lt1,8982,LTU,LP,Laisvės partija,Freedom Party,
 LT,10,prtvclt1,Lithuanian People's Party (LLP),4,LT-10-4-v-lt1,LT-9-10-v-lt1,8256,LTU,LLP,Lietuvos liaudies partija,Lithuanian People's Party,
 LT,10,prtvclt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-10-5-v-lt1,LT-5-5-v-lt1,193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,

@@ -1995,8 +1995,8 @@ IT-6-13-v,La destra,2012,2016,IT-6-13-v IT-8-13-v,"R6 --- prtvtbit --- La destra
 R8 --- prtvtbit --- La destra",2415,ITA,1-perc,1 percent,1 percent,11
 IT-8-7-v,FLI,2016,2016,IT-8-7-v,R8 --- prtvtbit --- FLI,1179,ITA,FLI,Futuro e libertà per l'Italia,Future and Freedom for Italy,
 IT-8-11-v,Radicali Italiani (Amnistia giustizia e libertà),2016,2016,IT-8-11-v,R8 --- prtvtbit --- Radicali Italiani (Amnistia giustizia e libertà),8248,ITA,RI,Radicali Italiani,Italian Radicals,
-IT-9-2-v,+ Europa,2018,2020,IT-9-2-v IT-10-7-v,"R9 --- prtvtcit --- + Europa
-R10 --- prtvtdit --- + Europa",6155,ITA,+E,Più Europa,More Europe,
+IT-9-2-v,#NAME?,2018,2020,IT-9-2-v IT-10-7-v,"R9 --- prtvtcit --- #NAME?
+R10 --- prtvtdit --- #NAME?",6155,ITA,+E,Più Europa,More Europe,
 IT-9-3-v,Italia Europa Insieme,2018,2020,IT-9-3-v IT-10-11-v,"R9 --- prtvtcit --- Italia Europa Insieme
 R10 --- prtvtdit --- Italia Europa Insieme",7671,ITA,IEI,Insieme,Together,
 IT-9-4-v,Civia Popolare Lorenzin,2018,2018,IT-9-4-v,R9 --- prtvtcit --- Civia Popolare Lorenzin,7670,ITA,CP,Civica Popolare,Popular Civic List,
@@ -2297,8 +2297,9 @@ LT-8-14-v-lt2,Political Party 'List of Lithuania' (LS),2016,2020,LT-8-14-v-lt2 L
 R10 --- prtvclt2 --- Political Party 'List of Lithuania' (LS)",6738,LTU,List,"Politinė partija ""Lietuvos sąrašas""",Lithuanian List,
 LT-8-62-v-lt2,Refused to tell if voted for a single-member constituency candidate list,2016,2018,LT-8-62-v-lt2 LT-9-62-v-lt2,"R8 --- prtvblt2 --- Refused to tell if voted for a single-member constituency candidate list
 R9 --- prtvblt2 --- Refused to tell if voted for a single-member constituency candidate list",3047,LTU,tech,technical,technical,12
-LT-5-18-v-lt1,Lithuanian Freedom Union (Liberals) (LLSL),2016,2018,LT-8-3-v-lt1 LT-9-3-v-lt1,"R8 --- prtvblt1 --- Lithuanian Freedom Union (Liberals) (LLSL)
-R9 --- prtvblt1 --- Lithuanian Freedom Union (Liberals) (LLSL)",5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
+LT-8-3-v-lt1,Lithuanian Freedom Union (Liberals) (LLSL),2016,2020,LT-8-3-v-lt1 LT-9-3-v-lt1 LT-10-2-v-lt1,"R8 --- prtvblt1 --- Lithuanian Freedom Union (Liberals) (LLSL)
+R9 --- prtvblt1 --- Lithuanian Freedom Union (Liberals) (LLSL)
+R10 --- prtvclt1 --- Party 'Freedom and Justice' (LT)",,LTU,,,,
 LT-8-4-v-lt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,2016,2018,LT-8-4-v-lt1 LT-9-4-v-lt1,"R8 --- prtvblt1 --- Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover
 R9 --- prtvblt1 --- Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover",3971,LTU,ally,alliance,alliance,15
 LT-8-13-v-lt1,Political Party 'List of Lithuania' (LS),2016,2018,LT-8-13-v-lt1 LT-9-13-v-lt1,"R8 --- prtvblt1 --- Political Party 'List of Lithuania' (LS)
@@ -2316,7 +2317,6 @@ LT-10-9-v-lt3,Social Democratic Labour Party of Lithuania (LSDDP),2020,2020,LT-1
 LT-10-3-v-lt2,Freedom Party (LP),2020,2020,LT-10-3-v-lt2,R10 --- prtvclt2 --- Freedom Party (LP),8982,LTU,LP,Laisvės partija,Freedom Party,
 LT-10-7-v-lt2,National Alliance (NS),2020,2020,LT-10-7-v-lt2,R10 --- prtvclt2 --- National Alliance (NS),9096,LTU,NS,https://en.wikipedia.org/wiki/National_Alliance_(Lithuania),National Alliance,
 LT-10-9-v-lt2,Social Democratic Labour Party of Lithuania (LSDDP),2020,2020,LT-10-9-v-lt2,R10 --- prtvclt2 --- Social Democratic Labour Party of Lithuania (LSDDP),7352,LTU,LSDDP—LRP,Lietuvos socialdemokratų darbo partija — Lietuvos regionų partija,Social Democratic Labour Party of Lithuania — Lithuanian Regions Party,
-LT-10-2-v-lt1,Party 'Freedom and Justice' (LT),2020,2020,LT-10-2-v-lt1,R10 --- prtvclt1 --- Party 'Freedom and Justice' (LT),5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
 LT-10-3-v-lt1,Freedom Party (LP),2020,2020,LT-10-3-v-lt1,R10 --- prtvclt1 --- Freedom Party (LP),8982,LTU,LP,Laisvės partija,Freedom Party,
 LT-10-6-v-lt1,Centre Party - Nationalists (CPT),2020,2020,LT-10-6-v-lt1,R10 --- prtvclt1 --- Centre Party - Nationalists (CPT),3971,LTU,ally,alliance,alliance,15
 LT-10-7-v-lt1,National Alliance (NS),2020,2020,LT-10-7-v-lt1,R10 --- prtvclt1 --- National Alliance (NS),9096,LTU,NS,https://en.wikipedia.org/wiki/National_Alliance_(Lithuania),National Alliance,

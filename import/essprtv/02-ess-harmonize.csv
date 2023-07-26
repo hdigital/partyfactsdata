@@ -3840,7 +3840,7 @@ IT,8,prtclcit,Alternativa popolare,7,IT-8-7-c,IT-8-7-c,ITA
 IT,8,prtclcit,Sinistra italiana,8,IT-8-8-c,IT-6-2-c,ITA
 IT,8,prtclcit,Altro (scrivere),9,IT-8-9-c,IT-1-17-c,ITA
 IT,9,prtvtcit,Partido Democratico (PD),1,IT-9-1-v,IT-6-1-v,ITA
-IT,9,prtvtcit,+ Europa,2,IT-9-2-v,IT-9-2-v,ITA
+IT,9,prtvtcit,#NAME?,2,IT-9-2-v,IT-9-2-v,ITA
 IT,9,prtvtcit,Italia Europa Insieme,3,IT-9-3-v,IT-9-3-v,ITA
 IT,9,prtvtcit,Civia Popolare Lorenzin,4,IT-9-4-v,IT-9-4-v,ITA
 IT,9,prtvtcit,SVP-PATT,5,IT-9-5-v,IT-9-5-v,ITA
@@ -3854,7 +3854,7 @@ IT,9,prtvtcit,Potere al popolo,12,IT-9-12-v,IT-9-12-v,ITA
 IT,9,prtvtcit,Casapound Italia,13,IT-9-13-v,IT-9-13-v,ITA
 IT,9,prtvtcit,Altro,14,IT-9-14-v,IT-1-17-v,ITA
 IT,9,prtcldit,Partido Democratico (PD),1,IT-9-1-c,IT-6-1-c,ITA
-IT,9,prtcldit,+ Europa,2,IT-9-2-c,IT-9-2-c,ITA
+IT,9,prtcldit,#NAME?,2,IT-9-2-c,IT-9-2-c,ITA
 IT,9,prtcldit,Italia Europa Insieme,3,IT-9-3-c,IT-9-3-c,ITA
 IT,9,prtcldit,Civia Popolare Lorenzin,4,IT-9-4-c,IT-9-4-c,ITA
 IT,9,prtcldit,SVP-PATT,5,IT-9-5-c,IT-9-5-c,ITA
@@ -3872,7 +3872,7 @@ IT,10,prtvtdit,Lega,3,IT-10-3-v,IT-1-11-v,ITA
 IT,10,prtvtdit,Forza Italia,4,IT-10-4-v,IT-1-8-v,ITA
 IT,10,prtvtdit,Fratelli d'Italia con Giorgia Meloni,5,IT-10-5-v,IT-6-10-v,ITA
 IT,10,prtvtdit,Liberi e Uguali (LEU),6,IT-10-6-v,IT-9-6-v,ITA
-IT,10,prtvtdit,+ Europa,7,IT-10-7-v,IT-9-2-v,ITA
+IT,10,prtvtdit,#NAME?,7,IT-10-7-v,IT-9-2-v,ITA
 IT,10,prtvtdit,Noi con l'Italia - UDC,8,IT-10-8-v,IT-9-11-v,ITA
 IT,10,prtvtdit,Potere al popolo,9,IT-10-9-v,IT-9-12-v,ITA
 IT,10,prtvtdit,Casapound Italia,10,IT-10-10-v,IT-9-13-v,ITA
@@ -3887,7 +3887,7 @@ IT,10,prtcleit,Lega,3,IT-10-3-c,IT-1-11-c,ITA
 IT,10,prtcleit,Forza Italia,4,IT-10-4-c,IT-1-8-c,ITA
 IT,10,prtcleit,Fratelli d'Italia con Giorgia Meloni,5,IT-10-5-c,IT-6-10-c,ITA
 IT,10,prtcleit,Liberi e Uguali (LEU),6,IT-10-6-c,IT-9-6-c,ITA
-IT,10,prtcleit,+ Europa,7,IT-10-7-c,IT-9-2-c,ITA
+IT,10,prtcleit,#NAME?,7,IT-10-7-c,IT-9-2-c,ITA
 IT,10,prtcleit,Noi con l'Italia - UDC,8,IT-10-8-c,IT-10-8-c,ITA
 IT,10,prtcleit,Potere al popolo,9,IT-10-9-c,IT-9-12-c,ITA
 IT,10,prtcleit,SVP-PATT,14,IT-10-14-c,IT-9-5-c,ITA
@@ -4168,7 +4168,7 @@ LT,8,prtvblt2,Refused to tell if voted for a single-member constituency candidat
 LT,8,prtvblt2,Don't know if voted for a single-member constituency candidate list,63,LT-8-63-v-lt2,LT-5-55-v-lt2,LTU
 LT,8,prtvblt1,Lithuanian Social Democratic Party (LSDP),1,LT-8-1-v-lt1,LT-5-1-v-lt1,LTU
 LT,8,prtvblt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-8-2-v-lt1,LT-5-5-v-lt1,LTU
-LT,8,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v-lt1,LT-5-18-v-lt1,LTU
+LT,8,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v-lt1,LT-8-3-v-lt1,LTU
 LT,8,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-8-4-v-lt1,LT-8-4-v-lt1,LTU
 LT,8,prtvblt1,Party Order and Justice (TT),5,LT-8-5-v-lt1,LT-5-13-v-lt1,LTU
 LT,8,prtvblt1,Lithuanian Peasant and Greens Union (LVZS),6,LT-8-6-v-lt1,LT-5-12-v-lt1,LTU
@@ -4232,7 +4232,7 @@ LT,9,prtvblt2,Refused to tell if voted for a single-member constituency candidat
 LT,9,prtvblt2,Don't know if voted for a single-member constituency candidate list,63,LT-9-63-v-lt2,LT-5-55-v-lt2,LTU
 LT,9,prtvblt1,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v-lt1,LT-5-1-v-lt1,LTU
 LT,9,prtvblt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v-lt1,LT-5-5-v-lt1,LTU
-LT,9,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v-lt1,LT-5-18-v-lt1,LTU
+LT,9,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v-lt1,LT-8-3-v-lt1,LTU
 LT,9,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-9-4-v-lt1,LT-8-4-v-lt1,LTU
 LT,9,prtvblt1,Party Order and Justice (TT),5,LT-9-5-v-lt1,LT-5-13-v-lt1,LTU
 LT,9,prtvblt1,Lithuanian Peasant and Greens Union (LVZS),6,LT-9-6-v-lt1,LT-5-12-v-lt1,LTU
@@ -4278,7 +4278,7 @@ LT,10,prtvclt2,Labour Party (DP),16,LT-10-16-v-lt2,LT-5-10-v-lt2,LTU
 LT,10,prtvclt2,Lithuanian Social Democratic Party (LSDP),17,LT-10-17-v-lt2,LT-5-1-v-lt2,LTU
 LT,10,prtvclt2,Political Party 'List of Lithuania' (LS),18,LT-10-18-v-lt2,LT-8-14-v-lt2,LTU
 LT,10,prtvclt1,Political Party 'The Way of Courage' (DK),1,LT-10-1-v-lt1,LT-6-6-v-lt1,LTU
-LT,10,prtvclt1,Party 'Freedom and Justice' (LT),2,LT-10-2-v-lt1,LT-10-2-v-lt1,LTU
+LT,10,prtvclt1,Party 'Freedom and Justice' (LT),2,LT-10-2-v-lt1,LT-8-3-v-lt1,LTU
 LT,10,prtvclt1,Freedom Party (LP),3,LT-10-3-v-lt1,LT-10-3-v-lt1,LTU
 LT,10,prtvclt1,Lithuanian People's Party (LLP),4,LT-10-4-v-lt1,LT-9-10-v-lt1,LTU
 LT,10,prtvclt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-10-5-v-lt1,LT-5-5-v-lt1,LTU
@@ -4304,7 +4304,7 @@ LT,10,prtclclt,Electoral Action of Poles in Lithuania-Christian Families Allianc
 LT,10,prtclclt,Social Democratic Labour Party of Lithuania (LSDDP),8,LT-10-8-c,LT-10-8-c,LTU
 LT,10,prtclclt,Centre Party - Nationalists (CPT),9,LT-10-9-c,LT-10-9-c,LTU
 LT,10,prtclclt,National Alliance (NS),10,LT-10-10-c,LT-10-10-c,LTU
-LT,10,prtclclt,Party 'Freedom and Justice' (LT),11,LT-10-11-c,LT-10-11-c,LTU
+LT,10,prtclclt,Party 'Freedom and Justice' (LT),11,LT-10-11-c,LT-8-8-c,LTU
 LT,10,prtclclt,Lithuanian Greens Party (LZP),12,LT-10-12-c,LT-6-25-c,LTU
 LT,10,prtclclt,Political Party 'The Way of Courage' (DK),13,LT-10-13-c,LT-6-6-c,LTU
 LT,10,prtclclt,Party 'Lithuania - For everyone' (LV),14,LT-10-14-c,LT-10-14-c,LTU

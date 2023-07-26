@@ -1867,8 +1867,8 @@ IT-6-13-c,La destra,2012,2012,IT-6-13-c,R6 --- prtclbit --- La destra,2415,ITA,1
 IT-8-4-c,Forza Italia,2016,2016,IT-8-4-c,R8 --- prtclcit --- Forza Italia,8058,ITA,FI,Forza Italia (2013),Forward Italy (2013),
 IT-8-6-c,Articolo 1 Mdp,2016,2016,IT-8-6-c,R8 --- prtclcit --- Articolo 1 Mdp,8361,ITA,Art.1,Articolo Uno,Article One,
 IT-8-7-c,Alternativa popolare,2016,2016,IT-8-7-c,R8 --- prtclcit --- Alternativa popolare,9090,ITA,AP,Alternativa Popolare,Popular Alternative,
-IT-9-2-c,+ Europa,2018,2020,IT-9-2-c IT-10-7-c,"R9 --- prtcldit --- + Europa
-R10 --- prtcleit --- + Europa",6155,ITA,+E,Più Europa,More Europe,
+IT-9-2-c,#NAME?,2018,2020,IT-9-2-c IT-10-7-c,"R9 --- prtcldit --- #NAME?
+R10 --- prtcleit --- #NAME?",6155,ITA,+E,Più Europa,More Europe,
 IT-9-3-c,Italia Europa Insieme,2018,2018,IT-9-3-c,R9 --- prtcldit --- Italia Europa Insieme,7671,ITA,IEI,Insieme,Together,
 IT-9-4-c,Civia Popolare Lorenzin,2018,2018,IT-9-4-c,R9 --- prtcldit --- Civia Popolare Lorenzin,7670,ITA,CP,Civica Popolare,Popular Civic List,
 IT-9-5-c,SVP-PATT,2018,2020,IT-9-5-c IT-10-14-c,"R9 --- prtcldit --- SVP-PATT
@@ -1976,13 +1976,13 @@ LT-7-15-c,Lithuanian People's Party (LZP),2014,2014,LT-7-15-c,R7 --- prtclalt --
 LT-7-24-c,Political Party 'List of Lithuania' (LS),2014,2016,LT-7-24-c LT-8-10-c,"R7 --- prtclalt --- Political Party 'List of Lithuania' (LS)
 R8 --- prtclblt --- Political Party 'List of Lithuania' (LS)",6738,LTU,List,"Politinė partija ""Lietuvos sąrašas""",Lithuanian List,
 LT-7-27-c,Zemaiciai (Samogitian) Party (ZP),2014,2014,LT-7-27-c,R7 --- prtclalt --- Zemaiciai (Samogitian) Party (ZP),1291,LTU,Zp,Žemaičių partija,Samogitian Party,
-LT-8-8-c,Lithuanian Freedom Union (Liberals) (LLSL),2016,2018,LT-8-8-c LT-9-8-c,"R8 --- prtclblt --- Lithuanian Freedom Union (Liberals) (LLSL)
-R9 --- prtclblt --- Lithuanian Freedom Union (Liberals) (LLSL)",5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
+LT-8-8-c,Lithuanian Freedom Union (Liberals) (LLSL),2016,2020,LT-8-8-c LT-9-8-c LT-10-11-c,"R8 --- prtclblt --- Lithuanian Freedom Union (Liberals) (LLSL)
+R9 --- prtclblt --- Lithuanian Freedom Union (Liberals) (LLSL)
+R10 --- prtclclt --- Party 'Freedom and Justice' (LT)",5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
 LT-10-5-c,Freedom Party (LP),2020,2020,LT-10-5-c,R10 --- prtclclt --- Freedom Party (LP),8982,LTU,LP,Laisvės partija,Freedom Party,
 LT-10-8-c,Social Democratic Labour Party of Lithuania (LSDDP),2020,2020,LT-10-8-c,R10 --- prtclclt --- Social Democratic Labour Party of Lithuania (LSDDP),7352,LTU,LSDDP—LRP,Lietuvos socialdemokratų darbo partija — Lietuvos regionų partija,Social Democratic Labour Party of Lithuania — Lithuanian Regions Party,
 LT-10-9-c,Centre Party - Nationalists (CPT),2020,2020,LT-10-9-c,R10 --- prtclclt --- Centre Party - Nationalists (CPT),,LTU,,,,
 LT-10-10-c,National Alliance (NS),2020,2020,LT-10-10-c,R10 --- prtclclt --- National Alliance (NS),9096,LTU,NS,https://en.wikipedia.org/wiki/National_Alliance_(Lithuania),National Alliance,
-LT-10-11-c,Party 'Freedom and Justice' (LT),2020,2020,LT-10-11-c,R10 --- prtclclt --- Party 'Freedom and Justice' (LT),,LTU,,,,
 LT-10-14-c,Party 'Lithuania - For everyone' (LV),2020,2020,LT-10-14-c,R10 --- prtclclt --- Party 'Lithuania - For everyone' (LV),,LTU,,,,
 LT-10-15-c,Christian Union (KS),2020,2020,LT-10-15-c,R10 --- prtclclt --- Christian Union (KS),,LTU,,,,
 LT-10-16-c,Union of Intergenerational Solidarity - Cohesion for Lithuania (KSSL),2020,2020,LT-10-16-c,R10 --- prtclclt --- Union of Intergenerational Solidarity - Cohesion for Lithuania (KSSL),,LTU,,,,
