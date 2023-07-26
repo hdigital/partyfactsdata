@@ -2926,8 +2926,8 @@ GR,5,prtclcgr,Invalid,11,GR-5-11-c,GR-5-11-c,GRC
 GR,5,prtclcgr,Golden Dawn (Xrusi Augi),12,GR-5-12-c,GR-5-12-c,GRC
 GR,5,prtclcgr,The Liberal Alliance (FS),13,GR-5-13-c,GR-5-13-c,GRC
 GR,10,prtvtdgr,ΝΔ,1,GR-10-1-v,GR-1-2-v,GRC
-GR,10,prtvtdgr,ΣΥΡΙΖΑ,2,GR-10-2-v,GR-10-2-v,GRC
-GR,10,prtvtdgr,ΚΙΝ.ΑΛ.,3,GR-10-3-v,GR-10-3-v,GRC
+GR,10,prtvtdgr,ΣΥΡΙΖΑ,2,GR-10-2-v,GR-4-4-v,GRC
+GR,10,prtvtdgr,ΚΙΝ.ΑΛ.,3,GR-10-3-v,GR-1-1-v,GRC
 GR,10,prtvtdgr,ΚΚΕ,4,GR-10-4-v,GR-1-3-v,GRC
 GR,10,prtvtdgr,Ελληνική Λύση,5,GR-10-5-v,GR-10-5-v,GRC
 GR,10,prtvtdgr,ΜέΡΑ25,6,GR-10-6-v,GR-10-6-v,GRC
@@ -3642,11 +3642,11 @@ IL,10,prtvtdil,Yisrael Beiteinu,5,IL-10-5-v,IL-1-12-v,ISR
 IL,10,prtvtdil,Yesh Atid,6,IL-10-6-v,IL-7-8-v,ISR
 IL,10,prtvtdil,Tikva Hadasha,7,IL-10-7-v,IL-10-7-v,ISR
 IL,10,prtvtdil,Yamina,8,IL-10-8-v,IL-10-8-v,ISR
-IL,10,prtvtdil,Ha'Zionut Ha'Datit,9,IL-10-9-v,IL-10-9-v,ISR
+IL,10,prtvtdil,Ha'Zionut Ha'Datit,9,IL-10-9-v,IL-1-9-v,ISR
 IL,10,prtvtdil,Shas,10,IL-10-10-v,IL-1-3-v,ISR
 IL,10,prtvtdil,Yahadut HaTora (United Torah Judaism),11,IL-10-11-v,IL-1-6-v,ISR
 IL,10,prtvtdil,HaReshima HaMeshutefet,12,IL-10-12-v,IL-7-11-v,ISR
-IL,10,prtvtdil,Ra'am (led by Mansour Abbas),13,IL-10-13-v,IL-10-13-v,ISR
+IL,10,prtvtdil,Ra'am (led by Mansour Abbas),13,IL-10-13-v,IL-1-33-v,ISR
 IL,10,prtvtdil,Other,14,IL-10-14-v,IL-1-35-v,ISR
 IL,10,prtcleil,HaLikud,1,IL-10-1-c,IL-1-2-c,ISR
 IL,10,prtcleil,Chachol- Lavan,2,IL-10-2-c,IL-10-2-c,ISR
@@ -3660,7 +3660,7 @@ IL,10,prtcleil,Ha'Zionut Ha'Datit,9,IL-10-9-c,IL-10-9-c,ISR
 IL,10,prtcleil,Shas,10,IL-10-10-c,IL-1-3-c,ISR
 IL,10,prtcleil,Yahadut HaTora (United Torah Judaism),11,IL-10-11-c,IL-1-6-c,ISR
 IL,10,prtcleil,HaReshima HaMeshutefet,12,IL-10-12-c,IL-7-11-c,ISR
-IL,10,prtcleil,Ra'am (led by Mansour Abbas),13,IL-10-13-c,IL-10-13-c,ISR
+IL,10,prtcleil,Ra'am (led by Mansour Abbas),13,IL-10-13-c,IL-1-33-c,ISR
 IL,10,prtcleil,Other,14,IL-10-14-c,IL-1-35-c,ISR
 IS,2,prtvtis,Progressive Party,1,IS-2-1-v,IS-2-1-v,ISL
 IS,2,prtvtis,Liberal Party,2,IS-2-2-v,IS-2-2-v,ISL
@@ -3840,7 +3840,7 @@ IT,8,prtclcit,Alternativa popolare,7,IT-8-7-c,IT-8-7-c,ITA
 IT,8,prtclcit,Sinistra italiana,8,IT-8-8-c,IT-6-2-c,ITA
 IT,8,prtclcit,Altro (scrivere),9,IT-8-9-c,IT-1-17-c,ITA
 IT,9,prtvtcit,Partido Democratico (PD),1,IT-9-1-v,IT-6-1-v,ITA
-IT,9,prtvtcit,#NAME?,2,IT-9-2-v,IT-9-2-v,ITA
+IT,9,prtvtcit,+ Europa,2,IT-9-2-v,IT-9-2-v,ITA
 IT,9,prtvtcit,Italia Europa Insieme,3,IT-9-3-v,IT-9-3-v,ITA
 IT,9,prtvtcit,Civia Popolare Lorenzin,4,IT-9-4-v,IT-9-4-v,ITA
 IT,9,prtvtcit,SVP-PATT,5,IT-9-5-v,IT-9-5-v,ITA
@@ -3854,7 +3854,7 @@ IT,9,prtvtcit,Potere al popolo,12,IT-9-12-v,IT-9-12-v,ITA
 IT,9,prtvtcit,Casapound Italia,13,IT-9-13-v,IT-9-13-v,ITA
 IT,9,prtvtcit,Altro,14,IT-9-14-v,IT-1-17-v,ITA
 IT,9,prtcldit,Partido Democratico (PD),1,IT-9-1-c,IT-6-1-c,ITA
-IT,9,prtcldit,#NAME?,2,IT-9-2-c,IT-9-2-c,ITA
+IT,9,prtcldit,+ Europa,2,IT-9-2-c,IT-9-2-c,ITA
 IT,9,prtcldit,Italia Europa Insieme,3,IT-9-3-c,IT-9-3-c,ITA
 IT,9,prtcldit,Civia Popolare Lorenzin,4,IT-9-4-c,IT-9-4-c,ITA
 IT,9,prtcldit,SVP-PATT,5,IT-9-5-c,IT-9-5-c,ITA
@@ -3872,7 +3872,7 @@ IT,10,prtvtdit,Lega,3,IT-10-3-v,IT-1-11-v,ITA
 IT,10,prtvtdit,Forza Italia,4,IT-10-4-v,IT-1-8-v,ITA
 IT,10,prtvtdit,Fratelli d'Italia con Giorgia Meloni,5,IT-10-5-v,IT-6-10-v,ITA
 IT,10,prtvtdit,Liberi e Uguali (LEU),6,IT-10-6-v,IT-9-6-v,ITA
-IT,10,prtvtdit,#NAME?,7,IT-10-7-v,IT-9-2-v,ITA
+IT,10,prtvtdit,+ Europa,7,IT-10-7-v,IT-9-2-v,ITA
 IT,10,prtvtdit,Noi con l'Italia - UDC,8,IT-10-8-v,IT-9-11-v,ITA
 IT,10,prtvtdit,Potere al popolo,9,IT-10-9-v,IT-9-12-v,ITA
 IT,10,prtvtdit,Casapound Italia,10,IT-10-10-v,IT-9-13-v,ITA
@@ -3887,7 +3887,7 @@ IT,10,prtcleit,Lega,3,IT-10-3-c,IT-1-11-c,ITA
 IT,10,prtcleit,Forza Italia,4,IT-10-4-c,IT-1-8-c,ITA
 IT,10,prtcleit,Fratelli d'Italia con Giorgia Meloni,5,IT-10-5-c,IT-6-10-c,ITA
 IT,10,prtcleit,Liberi e Uguali (LEU),6,IT-10-6-c,IT-9-6-c,ITA
-IT,10,prtcleit,#NAME?,7,IT-10-7-c,IT-9-2-c,ITA
+IT,10,prtcleit,+ Europa,7,IT-10-7-c,IT-9-2-c,ITA
 IT,10,prtcleit,Noi con l'Italia - UDC,8,IT-10-8-c,IT-10-8-c,ITA
 IT,10,prtcleit,Potere al popolo,9,IT-10-9-c,IT-9-12-c,ITA
 IT,10,prtcleit,SVP-PATT,14,IT-10-14-c,IT-9-5-c,ITA
@@ -6061,7 +6061,7 @@ SK,9,prtcldsk,Other,9,SK-9-9-c,SK-2-8-c,SVK
 SK,10,prtvtesk,Obyčajní Ľudia a nezávislé osobnosti,1,SK-10-1-v,SK-6-1-v,SVK
 SK,10,prtvtesk,Smer – SD,2,SK-10-2-v,SK-2-3-v,SVK
 SK,10,prtvtesk,SME Rodina,3,SK-10-3-v,SK-9-8-v,SVK
-SK,10,prtvtesk,ĽS Naše Slovensko,4,SK-10-4-v,SK-10-4-v,SVK
+SK,10,prtvtesk,ĽS Naše Slovensko,4,SK-10-4-v,SK-9-5-v,SVK
 SK,10,prtvtesk,Pogresívne Slovensko - Spolu,5,SK-10-5-v,SK-10-5-v,SVK
 SK,10,prtvtesk,Sloboda a Solidarita (SaS),6,SK-10-6-v,SK-5-6-v,SVK
 SK,10,prtvtesk,Za ľudí,7,SK-10-7-v,SK-10-7-v,SVK

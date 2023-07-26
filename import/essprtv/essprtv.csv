@@ -1498,10 +1498,11 @@ R10 --- prtvtdgb --- Independent candidate",2964,GBR,indep,independent,independe
 GB-8-14-v,Traditional Unionist (nir),2016,2016,GB-8-14-v,R8 --- prtvtbgb --- Traditional Unionist (nir),2966,GBR,1-perc,1 percent,1 percent,11
 GB-9-15-v,Green Party (nir),2018,2018,GB-9-15-v,R9 --- prtvtcgb --- Green Party (nir),8240,GBR,GP-NI,Green Party in Northern Ireland,Green Party in Northern Ireland,
 GB-10-8-v,Brexit Party,2020,2020,GB-10-8-v,R10 --- prtvtdgb --- Brexit Party,7364,GBR,BP,Brexit Party,Brexit Party,
-GR-1-1-v,PASOK (Panhellenic Socialist Movement),2002,2010,GR-1-1-v GR-2-1-v GR-4-1-v GR-5-1-v,"R1 --- prtvtgr --- PASOK (Panhellenic Socialist Movement)
+GR-1-1-v,PASOK (Panhellenic Socialist Movement),2002,2020,GR-1-1-v GR-2-1-v GR-4-1-v GR-5-1-v GR-10-3-v,"R1 --- prtvtgr --- PASOK (Panhellenic Socialist Movement)
 R2 --- prtvtagr --- PASOK (Panhellenic Socialist Movement)
 R4 --- prtvtbgr --- Panhellenic Socialist Movement – PASOK
-R5 --- prtvtcgr --- The Panhellenic Socialist Movement (PASOK)",1468,GRC,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,
+R5 --- prtvtcgr --- The Panhellenic Socialist Movement (PASOK)
+R10 --- prtvtdgr --- ΚΙΝ.ΑΛ.",1468,GRC,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,
 GR-1-2-v,ND (New Democracy),2002,2020,GR-1-2-v GR-2-2-v GR-4-2-v GR-5-2-v GR-10-1-v,"R1 --- prtvtgr --- ND (New Democracy)
 R2 --- prtvtagr --- ND (New Democracy)
 R4 --- prtvtbgr --- New Democracy - ND
@@ -1523,8 +1524,9 @@ R10 --- prtvtdgr --- Other",1842,GRC,etc,other,other,7
 GR-2-6-v,LAOS (Popular Orthodox Party),2004,2010,GR-2-6-v GR-4-5-v GR-5-4-v,"R2 --- prtvtagr --- LAOS (Popular Orthodox Party)
 R4 --- prtvtbgr --- Popular Orthodox Rally - LAOS
 R5 --- prtvtcgr --- The Popular Orthodox Rally (LAOS)",965,GRC,LAOS,Laïkós Orthódoxos Synagermós,Popular Orthodox Rally,
-GR-4-4-v,Coalition of the Radical Left - SYRIZA,2008,2010,GR-4-4-v GR-5-5-v,"R4 --- prtvtbgr --- Coalition of the Radical Left - SYRIZA
-R5 --- prtvtcgr --- The Coalition of the Radical Left (SYRIZA)",301,GRC,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,
+GR-4-4-v,Coalition of the Radical Left - SYRIZA,2008,2020,GR-4-4-v GR-5-5-v GR-10-2-v,"R4 --- prtvtbgr --- Coalition of the Radical Left - SYRIZA
+R5 --- prtvtcgr --- The Coalition of the Radical Left (SYRIZA)
+R10 --- prtvtdgr --- ΣΥΡΙΖΑ",301,GRC,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,
 GR-4-6-v,Greens,2008,2010,GR-4-6-v GR-5-6-v,"R4 --- prtvtbgr --- Greens
 R5 --- prtvtcgr --- The Ecologist Greens (OP)",378,GRC,OP,Oikologoi Prasinoi,Ecologist Greens,
 GR-5-7-v,Null,2010,2010,GR-5-7-v,R5 --- prtvtcgr --- Null,3029,GRC,tech,technical,technical,12
@@ -1536,8 +1538,6 @@ GR-5-11-v,The Liberal Alliance (FS),2010,2010,GR-5-11-v,R5 --- prtvtcgr --- The 
 GR-5-12-v,The Anticapitalist Left Cooperation for the Overthrow (ANTARSYA),2010,2010,GR-5-12-v,R5 --- prtvtcgr --- The Anticapitalist Left Cooperation for the Overthrow (ANTARSYA),95,GRC,Antarsya,Antikapitalistiki Aristeri Synergasia gia tin Anatropi,Front of the Greek Anticapitalist Left,
 GR-5-13-v,Smokers' Groups for Art and Visual Formation (KOTES),2010,2010,GR-5-13-v,R5 --- prtvtcgr --- Smokers' Groups for Art and Visual Formation (KOTES),2710,GRC,1-perc,1 percent,1 percent,11
 GR-5-14-v,Independent Citizens' Movement (SPITHA),2010,2010,GR-5-14-v,R5 --- prtvtcgr --- Independent Citizens' Movement (SPITHA),2710,GRC,1-perc,1 percent,1 percent,11
-GR-10-2-v,ΣΥΡΙΖΑ,2020,2020,GR-10-2-v,R10 --- prtvtdgr --- ΣΥΡΙΖΑ,301,GRC,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,
-GR-10-3-v,ΚΙΝ.ΑΛ.,2020,2020,GR-10-3-v,R10 --- prtvtdgr --- ΚΙΝ.ΑΛ.,1468,GRC,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,
 GR-10-5-v,Ελληνική Λύση,2020,2020,GR-10-5-v,R10 --- prtvtdgr --- Ελληνική Λύση,7347,GRC,EL,Elliniki Lisi,Greek Solution,
 GR-10-6-v,ΜέΡΑ25,2020,2020,GR-10-6-v,R10 --- prtvtdgr --- ΜέΡΑ25,7348,GRC,MeRA25,Métopo Evropaikís Realistikís Anypakoís,European Realistic Disobedience Front,
 GR-10-8-v,Πλεύση Ελευθερίας,2020,2020,GR-10-8-v,R10 --- prtvtdgr --- Πλεύση Ελευθερίας,9088,GRC,PE,Plefsi Eleftherias,Course of Freedom,
@@ -1804,9 +1804,10 @@ R10 --- prtvtdil --- Yahadut HaTora (United Torah Judaism)",1075,ISR,YH,Yahadut 
 IL-1-7-v,Am ehad,2002,2002,IL-1-7-v,R1 --- prtvtil --- Am ehad,640,ISR,AE,Am Ehad,One Nation,
 IL-1-8-v,Shinuy,2002,2008,IL-1-8-v IL-4-14-v,"R1 --- prtvtil --- Shinuy
 R4 --- prtvtail --- Shinui",557,ISR,Shinui,Shinui,Change,
-IL-1-9-v,Haehud haleumi,2002,2012,IL-1-9-v IL-5-10-v IL-6-10-v,"R1 --- prtvtil --- Haehud haleumi
+IL-1-9-v,Haehud haleumi,2002,2020,IL-1-9-v IL-5-10-v IL-6-10-v IL-10-9-v,"R1 --- prtvtil --- Haehud haleumi
 R5 --- prtvtbil --- Ha'ihud HaLeumi
-R6 --- prtvtbil --- Ha'ihud HaLeumi",953,ISR,HH — T,HaIchud HaLeumi — Tkuma,National Union — Tkuma,
+R6 --- prtvtbil --- Ha'ihud HaLeumi
+R10 --- prtvtdil --- Ha'Zionut Ha'Datit",953,ISR,HH — T,HaIchud HaLeumi — Tkuma,National Union — Tkuma,
 IL-1-10-v,The center party,2002,2002,IL-1-10-v,R1 --- prtvtil --- The center party,1061,ISR,MiHa/CP,Mifleget Hamerkaz,Centre Party,
 IL-1-11-v,Israel baliya,2002,2002,IL-1-11-v,R1 --- prtvtil --- Israel baliya,1053,ISR,YB,Yisrael BaAliya,Israel for Immigration,
 IL-1-12-v,Israel byteno,2002,2020,IL-1-12-v IL-4-9-v IL-5-9-v IL-6-9-v IL-7-3-v IL-8-3-v IL-10-5-v,"R1 --- prtvtil --- Israel byteno
@@ -1831,7 +1832,8 @@ IL-1-32-v,Balad,2002,2012,IL-1-32-v IL-4-11-v IL-5-15-v IL-6-15-v,"R1 --- prtvti
 R4 --- prtvtail --- Balad
 R5 --- prtvtbil --- Balad
 R6 --- prtvtbil --- Balad",1663,ISR,Balad,Brit Le'umit Demokratit,National Democratic Assembly,
-IL-1-33-v,Hatnua Harabit Hameauhedet,2002,2002,IL-1-33-v,R1 --- prtvtil --- Hatnua Harabit Hameauhedet,1337,ISR,Raam,Reshima Aravit Me'uhedet,United Arab List,
+IL-1-33-v,Hatnua Harabit Hameauhedet,2002,2020,IL-1-33-v IL-10-13-v,"R1 --- prtvtil --- Hatnua Harabit Hameauhedet
+R10 --- prtvtdil --- Ra'am (led by Mansour Abbas)",1337,ISR,Raam,Reshima Aravit Me'uhedet,United Arab List,
 IL-1-34-v,Haravi Hahadash,2002,2002,IL-1-34-v,R1 --- prtvtil --- Haravi Hahadash,2739,ISR,unknown,unknown,unknown,10
 IL-1-35-v,Other,2002,2020,IL-1-35-v IL-4-17-v IL-5-17-v IL-6-17-v IL-7-14-v IL-8-14-v IL-10-14-v,"R1 --- prtvtil --- Other
 R4 --- prtvtail --- Other
@@ -1888,8 +1890,6 @@ R8 --- prtvtcil --- White ballot",3037,ISR,tech,technical,technical,12
 IL-10-2-v,Chachol- Lavan,2020,2020,IL-10-2-v,R10 --- prtvtdil --- Chachol- Lavan,7599,ISR,KL,Kahol Lavan,Blue and White,
 IL-10-7-v,Tikva Hadasha,2020,2020,IL-10-7-v,R10 --- prtvtdil --- Tikva Hadasha,9005,ISR,NH,Tikva Hadasha,New Hope,
 IL-10-8-v,Yamina,2020,2020,IL-10-8-v,R10 --- prtvtdil --- Yamina,9095,ISR,Y,Yamina,Yamina,
-IL-10-9-v,Ha'Zionut Ha'Datit,2020,2020,IL-10-9-v,R10 --- prtvtdil --- Ha'Zionut Ha'Datit,953,ISR,HH — T,HaIchud HaLeumi — Tkuma,National Union — Tkuma,
-IL-10-13-v,Ra'am (led by Mansour Abbas),2020,2020,IL-10-13-v,R10 --- prtvtdil --- Ra'am (led by Mansour Abbas),1337,ISR,Raam,Reshima Aravit Me'uhedet,United Arab List,
 IS-2-1-v,Progressive Party,2004,2020,IS-2-1-v IS-6-2-v IS-8-2-v IS-9-2-v IS-10-5-v,"R2 --- prtvtis --- Progressive Party
 R6 --- prtvtais --- Framsóknarflokkinn
 R8 --- prtvtbis --- Framsóknarflokkinn
@@ -1995,8 +1995,8 @@ IT-6-13-v,La destra,2012,2016,IT-6-13-v IT-8-13-v,"R6 --- prtvtbit --- La destra
 R8 --- prtvtbit --- La destra",2415,ITA,1-perc,1 percent,1 percent,11
 IT-8-7-v,FLI,2016,2016,IT-8-7-v,R8 --- prtvtbit --- FLI,1179,ITA,FLI,Futuro e libertà per l'Italia,Future and Freedom for Italy,
 IT-8-11-v,Radicali Italiani (Amnistia giustizia e libertà),2016,2016,IT-8-11-v,R8 --- prtvtbit --- Radicali Italiani (Amnistia giustizia e libertà),8248,ITA,RI,Radicali Italiani,Italian Radicals,
-IT-9-2-v,#NAME?,2018,2020,IT-9-2-v IT-10-7-v,"R9 --- prtvtcit --- #NAME?
-R10 --- prtvtdit --- #NAME?",6155,ITA,+E,Più Europa,More Europe,
+IT-9-2-v,+ Europa,2018,2020,IT-9-2-v IT-10-7-v,"R9 --- prtvtcit --- + Europa
+R10 --- prtvtdit --- + Europa",6155,ITA,+E,Più Europa,More Europe,
 IT-9-3-v,Italia Europa Insieme,2018,2020,IT-9-3-v IT-10-11-v,"R9 --- prtvtcit --- Italia Europa Insieme
 R10 --- prtvtdit --- Italia Europa Insieme",7671,ITA,IEI,Insieme,Together,
 IT-9-4-v,Civia Popolare Lorenzin,2018,2018,IT-9-4-v,R9 --- prtvtcit --- Civia Popolare Lorenzin,7670,ITA,CP,Civica Popolare,Popular Civic List,
@@ -2121,7 +2121,7 @@ R7 --- prtvalt2 --- Labour Party (DP)
 R8 --- prtvblt2 --- Labour Party (DP)
 R9 --- prtvblt2 --- Labour Party (DP)
 R10 --- prtvclt2 --- Labour Party (DP)",102,LTU,DP,Darbo Partija,Labour Party,
-LT-5-11-v-lt2,Labourist Party (LP),2010,2010,LT-5-11-v-lt2,R5 --- prtvlt2 --- Labourist Party (LP),102,LTU,DP,Darbo Partija,Labour Party,
+LT-5-11-v-lt2,Labourist Party (LP),2010,2010,LT-5-11-v-lt2,R5 --- prtvlt2 --- Labourist Party (LP),2501,LTU,1-perc,1 percent,1 percent,11
 LT-5-12-v-lt2,Liberals' Movement of the Republic of Lithuania (LRLS),2010,2018,LT-5-12-v-lt2 LT-6-1-v-lt2 LT-7-1-v-lt2 LT-8-8-v-lt2 LT-9-8-v-lt2,"R5 --- prtvlt2 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R6 --- prtvalt2 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R7 --- prtvalt2 --- Liberals' Movement of the Republic of Lithuania (LRLS)
@@ -3189,11 +3189,11 @@ R10 --- prtvtesk --- Sloboda a Solidarita (SaS)",1386,SVK,SaS,Sloboda a Solidari
 SK-6-1-v,Ordinary People and Independent Personalities (OLaNO),2012,2020,SK-6-1-v SK-9-1-v SK-10-1-v,"R6 --- prtvtcsk --- Ordinary People and Independent Personalities (OLaNO)
 R9 --- prtvtdsk --- Obyčajní Ľudia a nezávislé osobnosti
 R10 --- prtvtesk --- Obyčajní Ľudia a nezávislé osobnosti",2130,SVK,OLaNO,Obyčajní Ľudia a Nezávislé Osobnosti,Ordinary People and Independents,
-SK-9-5-v,ĽS Naše Slovensko,2018,2018,SK-9-5-v,R9 --- prtvtdsk --- ĽS Naše Slovensko,656,SVK,LsNS,Ľudová strana Naše Slovensko,People's Party Our Slovakia,
+SK-9-5-v,ĽS Naše Slovensko,2018,2020,SK-9-5-v SK-10-4-v,"R9 --- prtvtdsk --- ĽS Naše Slovensko
+R10 --- prtvtesk --- ĽS Naše Slovensko",656,SVK,LsNS,Ľudová strana Naše Slovensko,People's Party Our Slovakia,
 SK-9-7-v,Sieť,2018,2018,SK-9-7-v,R9 --- prtvtdsk --- Sieť,4872,SVK,S—SKS,Sieť — Slovenská konzervatívna strana,Network — Slovak Conservative Party,
 SK-9-8-v,SME Rodina,2018,2020,SK-9-8-v SK-10-3-v,"R9 --- prtvtdsk --- SME Rodina
 R10 --- prtvtesk --- SME Rodina",4873,SVK,SR,Sme Rodina — Boris Kollár,We are family — Boris Kollar,
-SK-10-4-v,ĽS Naše Slovensko,2020,2020,SK-10-4-v,R10 --- prtvtesk --- ĽS Naše Slovensko,656,SVK,LsNS,Ľudová strana Naše Slovensko,People's Party Our Slovakia,
 SK-10-5-v,Pogresívne Slovensko - Spolu,2020,2020,SK-10-5-v,R10 --- prtvtesk --- Pogresívne Slovensko - Spolu,4015,SVK,ally,alliance,alliance,15
 SK-10-7-v,Za ľudí,2020,2020,SK-10-7-v,R10 --- prtvtesk --- Za ľudí,8394,SVK,Za,Za ľudí,For the People,
 TR-2-1-v,AKP-Adalet ve Kalkinma Partisi,2004,2008,TR-2-1-v TR-4-1-v,"R2 --- prtvttr --- AKP-Adalet ve Kalkinma Partisi
