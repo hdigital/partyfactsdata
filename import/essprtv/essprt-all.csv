@@ -564,12 +564,12 @@ BG,10,prtclebg,Grazhdani za evropeĭsko razvitie na Bulgariya (GERB),1,BG-10-1-
 BG,10,prtclebg,Balgarska sotsialisticheska partiya (BSP),2,BG-10-2-c,BG-3-2-c,757,BGR,BSP,Bălgarska Socialističeska Partija,Bulgarian Socialist Party,
 BG,10,prtclebg,Dvizhenie za prava i svobodi (DPS),3,BG-10-3-c,BG-3-4-c,982,BGR,DPS,Dvizhenie za prava i svobodi,Movement for Rights and Freedoms,
 BG,10,prtclebg,Demokratichna Balgariya,4,BG-10-4-c,BG-10-4-c,9083,BGR,DB,Demokratichna Bulgaria,Democratic Bulgaria,
-BG,10,prtclebg,Ima takav narod,5,BG-10-5-c,BG-10-5-c,,BGR,,,,
+BG,10,prtclebg,Ima takav narod,5,BG-10-5-c,BG-10-5-c,8992,BGR,ITN,Ima takav narod,There Is Such a People,
 BG,10,prtclebg,PP VMRO – Balgarsko natsionalno dvizhenie,6,BG-10-6-c,BG-4-3-c,2056,BGR,IMRO,VMRO — Bulgarsko Natsionalno Dvizhenie,IMRO — Bulgarian National Movement,
 BG,10,prtclebg,NFSB-Volya,7,BG-10-7-c,BG-9-8-c,2057,BGR,NFSB,Natzionalen Front za Spasenie na Bulgaria,National Front for the Salvation of Bulgaria,
 BG,10,prtclebg,PP Ataka,8,BG-10-8-c,BG-3-7-c,1793,BGR,ATA,Natsionalen Sǎyuz Ataka,National Union Attack,
-BG,10,prtclebg,Vazrazhdane,9,BG-10-9-c,BG-10-9-c,,BGR,,,,
-BG,10,prtclebg,Izpravi se! Mutri van!,10,BG-10-10-c,BG-10-10-c,,BGR,,,,
+BG,10,prtclebg,Vazrazhdane,9,BG-10-9-c,BG-10-9-c,5862,BGR,R,Vazrazhdane,Revival,
+BG,10,prtclebg,Izpravi se! Mutri van!,10,BG-10-10-c,BG-10-10-c,8991,BGR,IS,Izpravi se!,Stand up!,
 BG,10,prtclebg,Republikantsi za Balgariya,11,BG-10-11-c,BG-10-11-c,8995,BGR,RzB,Republikantsi za Balgariya,Republicans for Bulgaria,
 BG,10,prtclebg,Other,12,BG-10-12-c,BG-3-15-c,1835,BGR,etc,other,other,7
 BG,10,prtvtebg,Grazhdani za evropeĭsko razvitie na Bulgariya (GERB),1,BG-10-1-v,BG-5-1-v,760,BGR,GERB,Grazhdani za evropeysko razvitie na Balgariya,Citizens for European Development of Bulgaria,
@@ -1957,7 +1957,7 @@ ES,9,prtclfes,EAJ-PNV,13,ES-9-13-c,ES-1-7-c,1637,ESP,PNV,Partido Nacionalista Va
 ES,9,prtclfes,EH-Bildu,14,ES-9-14-c,ES-8-14-c,5668,ESP,EHBildu,Euskal Herria Bildu / Reunir Euskal Herria,Basque Country Unite,
 ES,9,prtclfes,CC-PNC,15,ES-9-15-c,ES-4-8-c,8262,ESP,AUN,Acuerdo de Unidad Nacionalista,Agreement of Nationalist Unity,
 ES,9,prtclfes,VOX,16,ES-9-16-c,ES-9-16-c,3218,ESP,Vox,Vox,Voice,
-ES,9,prtclfes,Navarra Suma,17,ES-9-17-c,ES-9-17-c,,ESP,,,,
+ES,9,prtclfes,Navarra Suma,17,ES-9-17-c,ES-9-17-c,4019,ESP,ally,alliance,alliance,15
 ES,9,prtclfes,PACMA,18,ES-9-18-c,ES-8-18-c,3219,ESP,PACMA,Partido Animalista Contra el Maltrato Animal,Animalist Party Against Mistreatment to Animals,
 ES,9,prtclfes,CUP,19,ES-9-19-c,ES-7-18-c,8357,ESP,CUP,Candidatura d'Unitat Popular,Popular Unity Candidacy,
 ES,9,prtclfes,Other,53,ES-9-53-c,ES-1-68-c,1839,ESP,etc,other,other,7
@@ -1998,8 +1998,8 @@ ES,10,prtclges,Coalición Canaria,13,ES-10-13-c,ES-1-10-c,81,ESP,CC,Coalición C
 ES,10,prtclges,UPN,14,ES-10-14-c,ES-7-14-c,722,ESP,UPN,Union del Pueblo Navarro,Navarrese Peoples Union,
 ES,10,prtclges,Compromís,15,ES-10-15-c,ES-6-11-c,5623,ESP,CC,Coalició Compromís,Commitment Coalition,
 ES,10,prtclges,BNG,16,ES-10-16-c,ES-1-9-c,1011,ESP,BNG,Bloque Nacionalista Galego,Galician Nationalist Block,
-ES,10,prtclges,PRC,17,ES-10-17-c,ES-10-17-c,,ESP,,,,
-ES,10,prtclges,Teruel Existe,18,ES-10-18-c,ES-10-18-c,,ESP,,,,
+ES,10,prtclges,PRC,17,ES-10-17-c,ES-10-17-c,2538,ESP,1-perc,1 percent,1 percent,11
+ES,10,prtclges,Teruel Existe,18,ES-10-18-c,ES-10-18-c,2538,ESP,1-perc,1 percent,1 percent,11
 ES,10,prtclges,Izquierda Unida,19,ES-10-19-c,ES-1-3-c,247,ESP,IU,Izquierda Unida,United Left,
 ES,10,prtclges,Other,53,ES-10-53-c,ES-1-68-c,1839,ESP,etc,other,other,7
 ES,10,prtvtfes,PSOE,1,ES-10-1-v,ES-1-2-v,1338,ESP,PSOE,Partido Socialista Obrero Español,Spanish Socialist Workers Party,
@@ -2927,13 +2927,13 @@ GR,5,prtvtcgr,Smokers' Groups for Art and Visual Formation (KOTES),13,GR-5-13-v,
 GR,5,prtvtcgr,Independent Citizens' Movement (SPITHA),14,GR-5-14-v,GR-5-14-v,2710,GRC,1-perc,1 percent,1 percent,11
 GR,10,prtcldgr,ΝΔ,1,GR-10-1-c,GR-1-2-c,794,GRC,ND,Néa Đimokratía,New Democracy,
 GR,10,prtcldgr,ΣΥΡΙΖΑ,2,GR-10-2-c,GR-10-2-c,301,GRC,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,
-GR,10,prtcldgr,ΚΙΝ.ΑΛ.,3,GR-10-3-c,GR-10-3-c,,GRC,,,,
+GR,10,prtcldgr,ΚΙΝ.ΑΛ.,3,GR-10-3-c,GR-1-1-c,1468,GRC,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,
 GR,10,prtcldgr,ΚΚΕ,4,GR-10-4-c,GR-1-3-c,48,GRC,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,
-GR,10,prtcldgr,Ελληνική Λύση,5,GR-10-5-c,GR-10-5-c,,GRC,,,,
-GR,10,prtcldgr,ΜέΡΑ25,6,GR-10-6-c,GR-10-6-c,,GRC,,,,
+GR,10,prtcldgr,Ελληνική Λύση,5,GR-10-5-c,GR-10-5-c,7347,GRC,EL,Elliniki Lisi,Greek Solution,
+GR,10,prtcldgr,ΜέΡΑ25,6,GR-10-6-c,GR-10-6-c,7348,GRC,MeRA25,Métopo Evropaikís Realistikís Anypakoís,European Realistic Disobedience Front,
 GR,10,prtcldgr,Χρυσή Αυγή,7,GR-10-7-c,GR-5-12-c,1660,GRC,LS/CA,Laïkós Sýndesmos / Chrysí Avgí,People’s Association / Golden Dawn,
-GR,10,prtcldgr,Πλεύση Ελευθερίας,8,GR-10-8-c,GR-10-8-c,,GRC,,,,
-GR,10,prtcldgr,Ένωση Κεντρώων,9,GR-10-9-c,GR-10-9-c,,GRC,,,,
+GR,10,prtcldgr,Πλεύση Ελευθερίας,8,GR-10-8-c,GR-10-8-c,9088,GRC,PE,Plefsi Eleftherias,Course of Freedom,
+GR,10,prtcldgr,Ένωση Κεντρώων,9,GR-10-9-c,GR-10-9-c,2510,GRC,EK,Enosi Kentroon,Union of Centrists,
 GR,10,prtcldgr,Other,31,GR-10-31-c,GR-1-6-c,1842,GRC,etc,other,other,7
 GR,10,prtvtdgr,ΝΔ,1,GR-10-1-v,GR-1-2-v,794,GRC,ND,Néa Đimokratía,New Democracy,
 GR,10,prtvtdgr,ΣΥΡΙΖΑ,2,GR-10-2-v,GR-4-4-v,301,GRC,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,
@@ -2991,8 +2991,8 @@ HR,5,prtvthr,Hrvatska stranka umirovljenika (HSU),10,HR-5-10-v,HR-4-10-v,2062,HR
 HR,5,prtvthr,Other,11,HR-5-11-v,HR-4-11-v,2027,HRV,etc,other,other,7
 HR,9,prtclahr,Hrvatska demokratska zajednica (HDZ),1,HR-9-1-c,HR-4-1-c,1431,HRV,HDZ,Hrvatska demokratska zajednica,Croatian Democratic Union,
 HR,9,prtclahr,Socijaldemokratska partija Hrvatske (SDP),2,HR-9-2-c,HR-4-2-c,1475,HRV,SDP,Socijaldemokratska partija Hrvatske,Social Democratic Party of Croatia,
-HR,9,prtclahr,Most nezavisnih lista (Most),3,HR-9-3-c,HR-9-3-c,,HRV,,,,
-HR,9,prtclahr,Živi zid,4,HR-9-4-c,HR-9-4-c,,HRV,,,,
+HR,9,prtclahr,Most nezavisnih lista (Most),3,HR-9-3-c,HR-9-3-c,4865,HRV,Most,Most nezavisnih lista,Bridge of Independent Lists,
+HR,9,prtclahr,Živi zid,4,HR-9-4-c,HR-9-4-c,4867,HRV,ZiZi,Živi zid,Human Shield,
 HR,9,prtclahr,Hrvatska seljačka stranka (HSS),5,HR-9-5-c,HR-4-4-c,72,HRV,HSS,Hrvatska seljačka stranka,Croatian Peasant Party,
 HR,9,prtclahr,Hrvatska narodna stranka - Liberalni demokrati (HNS),6,HR-9-6-c,HR-4-3-c,799,HRV,HNS — LD,Hrvatska narodna stranka — Liberalni Demokrati,Croatian People's Party — Liberal Democrats,
 HR,9,prtclahr,Istarski demokratski sabor (IDS),7,HR-9-7-c,HR-4-6-c,513,HRV,IDS,Istarski demokratski sabor,Istrian Democratic Assembly,
@@ -3000,11 +3000,11 @@ HR,9,prtclahr,Bandić Milan 365 - Stranka rada i solidarnosti,8,HR-9-8-c,HR-9-8-
 HR,9,prtclahr,Hrvatska socijalno liberalna stranka (HSLS),9,HR-9-9-c,HR-4-5-c,214,HRV,HSLS,Hrvatska socijalno liberalna stranka,Croatian Social Liberal Party,
 HR,9,prtclahr,Hrvatski demokratski savez Slavonije i Baranje (HDSSB),10,HR-9-10-c,HR-4-7-c,2347,HRV,HDSSB,Hrvatski demokratski savez Slavonije i Baranje,Croatian Democratic Alliance of Slavonia and Baranja,
 HR,9,prtclahr,Samostalna demokratska srpska stranka (SDSS),11,HR-9-11-c,HR-4-8-c,2348,HRV,SDSS,Samostalna demokratska srpska stranka,Independent Democratic Serb Party,
-HR,9,prtclahr,Neovisni za Hrvatsku (HNR),12,HR-9-12-c,HR-9-12-c,,HRV,,,,
-HR,9,prtclahr,Hrvatska konzervativna stranka (HKS),13,HR-9-13-c,HR-9-13-c,,HRV,,,,
-HR,9,prtclahr,Hrast - Pokret za modernu Hrvatsku,14,HR-9-14-c,HR-9-14-c,,HRV,,,,
-HR,9,prtclahr,"START - Stranka antikorupcije, razvoja i transparentnosti",15,HR-9-15-c,HR-9-15-c,,HRV,,,,
-HR,9,prtclahr,Lista Mislav Kolakušić,16,HR-9-16-c,HR-9-16-c,,HRV,,,,
+HR,9,prtclahr,Neovisni za Hrvatsku (HNR),12,HR-9-12-c,HR-9-12-c,7422,HRV,NHR,Neovisni za Hrvatsku,Independents for Croatia,
+HR,9,prtclahr,Hrvatska konzervativna stranka (HKS),13,HR-9-13-c,HR-9-13-c,9085,HRV,HKS,Hrvatska konzervativna stranka,Croatian Conservative Party,
+HR,9,prtclahr,Hrast - Pokret za modernu Hrvatsku,14,HR-9-14-c,HR-9-14-c,3138,HRV,Hrast,Hrvatski rast,Croatian Growth,
+HR,9,prtclahr,"START - Stranka antikorupcije, razvoja i transparentnosti",15,HR-9-15-c,HR-9-15-c,2524,HRV,1-perc,1 percent,1 percent,11
+HR,9,prtclahr,Lista Mislav Kolakušić,16,HR-9-16-c,HR-9-16-c,2524,HRV,1-perc,1 percent,1 percent,11
 HR,9,prtclahr,GLAS - Građansko-liberalni savez,17,HR-9-17-c,HR-9-17-c,8178,HRV,GLAS,Građansko-liberalni savez,Civic Liberal Alliance,
 HR,9,prtclahr,Other,18,HR-9-18-c,HR-4-11-c,2027,HRV,etc,other,other,7
 HR,9,prtvtahr,Hrvatska demokratska zajednica (HDZ),1,HR-9-1-v,HR-4-1-v,1431,HRV,HDZ,Hrvatska demokratska zajednica,Croatian Democratic Union,
@@ -3017,22 +3017,22 @@ HR,9,prtvtahr,Koalicija HDSSB-HKS,7,HR-9-7-v,HR-9-7-v,3918,HRV,ally,alliance,all
 HR,9,prtvtahr,Samostalna demokratska srpska stranka (SDSS),8,HR-9-8-v,HR-4-8-v,2348,HRV,SDSS,Samostalna demokratska srpska stranka,Independent Democratic Serb Party,
 HR,9,prtvtahr,Koalicija Pametno i Za grad,9,HR-9-9-v,HR-9-9-v,3918,HRV,ally,alliance,alliance,15
 HR,9,prtvtahr,Other,10,HR-9-10-v,HR-4-11-v,2027,HRV,etc,other,other,7
-HR,10,prtclbhr,Centar,1,HR-10-1-c,HR-10-1-c,,HRV,,,,
-HR,10,prtclbhr,Domovinski pokret,2,HR-10-2-c,HR-10-2-c,,HRV,,,,
-HR,10,prtclbhr,Fokus,3,HR-10-3-c,HR-10-3-c,,HRV,,,,
+HR,10,prtclbhr,Centar,1,HR-10-1-c,HR-10-1-c,2524,HRV,1-perc,1 percent,1 percent,11
+HR,10,prtclbhr,Domovinski pokret,2,HR-10-2-c,HR-10-2-c,8981,HRV,DP,Domovinski pokret,Homeland Movement,
+HR,10,prtclbhr,Fokus,3,HR-10-3-c,HR-10-3-c,2524,HRV,1-perc,1 percent,1 percent,11
 HR,10,prtclbhr,Hrvatska demokratska zajednica (HDZ),5,HR-10-5-c,HR-4-1-c,1431,HRV,HDZ,Hrvatska demokratska zajednica,Croatian Democratic Union,
-HR,10,prtclbhr,Hrvatska demokršćanska stranka (HDS),6,HR-10-6-c,HR-10-6-c,,HRV,,,,
+HR,10,prtclbhr,Hrvatska demokršćanska stranka (HDS),6,HR-10-6-c,HR-10-6-c,2524,HRV,1-perc,1 percent,1 percent,11
 HR,10,prtclbhr,Hrvatska narodna stranka - Liberalni demokrati (HNS),7,HR-10-7-c,HR-4-3-c,799,HRV,HNS — LD,Hrvatska narodna stranka — Liberalni Demokrati,Croatian People's Party — Liberal Democrats,
 HR,10,prtclbhr,Hrvatska seljačka stranka (HSS),8,HR-10-8-c,HR-4-4-c,72,HRV,HSS,Hrvatska seljačka stranka,Croatian Peasant Party,
 HR,10,prtclbhr,Hrvatska socijalno liberalna stranka (HSLS),9,HR-10-9-c,HR-4-5-c,214,HRV,HSLS,Hrvatska socijalno liberalna stranka,Croatian Social Liberal Party,
 HR,10,prtclbhr,Hrvatska stranka umirovljenika (HSU),10,HR-10-10-c,HR-4-10-c,2062,HRV,HSU,Hrvatska stranka umirovljenika,Croatian Party of Pensioners,
 HR,10,prtclbhr,Hrvatski suverenisti,11,HR-10-11-c,HR-10-11-c,9086,HRV,HS,Hrvatski suverenisti,Croatian Souverainists,
 HR,10,prtclbhr,Istarski demokratski sabor (IDS),12,HR-10-12-c,HR-4-6-c,513,HRV,IDS,Istarski demokratski sabor,Istrian Democratic Assembly,
-HR,10,prtclbhr,Most nezavisnih lista (Most),13,HR-10-13-c,HR-9-3-c,,HRV,,,,
+HR,10,prtclbhr,Most nezavisnih lista (Most),13,HR-10-13-c,HR-9-3-c,4865,HRV,Most,Most nezavisnih lista,Bridge of Independent Lists,
 HR,10,prtclbhr,Možemo! - politička platforma,14,HR-10-14-c,HR-10-14-c,8980,HRV,M!,Možemo! – politička platforma,We Can! – Political Platform,
 HR,10,prtclbhr,Narodna stranka – Reformista,15,HR-10-15-c,HR-10-15-c,4866,HRV,NS — R,Narodna stranka — Reformisti,People's Party — Reformists,
-HR,10,prtclbhr,Nova ljevica,16,HR-10-16-c,HR-10-16-c,,HRV,,,,
-HR,10,prtclbhr,Radnička fronta,17,HR-10-17-c,HR-10-17-c,,HRV,,,,
+HR,10,prtclbhr,Nova ljevica,16,HR-10-16-c,HR-10-16-c,2524,HRV,1-perc,1 percent,1 percent,11
+HR,10,prtclbhr,Radnička fronta,17,HR-10-17-c,HR-10-17-c,2524,HRV,1-perc,1 percent,1 percent,11
 HR,10,prtclbhr,Samostalna demokratska srpska stranka (SDSS),18,HR-10-18-c,HR-4-8-c,2348,HRV,SDSS,Samostalna demokratska srpska stranka,Independent Democratic Serb Party,
 HR,10,prtclbhr,Socijaldemokratska partija Hrvatske (SDP),19,HR-10-19-c,HR-4-2-c,1475,HRV,SDP,Socijaldemokratska partija Hrvatske,Social Democratic Party of Croatia,
 HR,10,prtclbhr,Other,20,HR-10-20-c,HR-4-11-c,2027,HRV,etc,other,other,7
@@ -3635,14 +3635,14 @@ IL,8,prtvtcil,Ale Yarok,13,IL-8-13-v,IL-4-15-v,3129,ISR,AlYa,Ale Yarok,Green Lea
 IL,8,prtvtcil,Other,14,IL-8-14-v,IL-1-35-v,2541,ISR,etc,other,other,7
 IL,8,prtvtcil,White ballot,15,IL-8-15-v,IL-7-15-v,3037,ISR,tech,technical,technical,12
 IL,10,prtcleil,HaLikud,1,IL-10-1-c,IL-1-2-c,1036,ISR,L,HaLikud,Likud-National Liberal Movement,
-IL,10,prtcleil,Chachol- Lavan,2,IL-10-2-c,IL-10-2-c,,ISR,,,,
+IL,10,prtcleil,Chachol- Lavan,2,IL-10-2-c,IL-10-2-c,7599,ISR,KL,Kahol Lavan,Blue and White,
 IL,10,prtcleil,Mifleget HaAvoda HaYisraelit (The Israeli Labor Party),3,IL-10-3-c,IL-4-1-c,1436,ISR,Labor,Mifleget HaAvoda HaYisrelit,Israeli Labor Party,
 IL,10,prtcleil,Meretz,4,IL-10-4-c,IL-1-4-c,3131,ISR,Meretz,Meretz,Energy,
 IL,10,prtcleil,Yisrael Beiteinu,5,IL-10-5-c,IL-1-12-c,235,ISR,YB,Yisrael Beiteinu,Israel is Our Home,
 IL,10,prtcleil,Yesh Atid,6,IL-10-6-c,IL-6-20-c,3128,ISR,Yesh,Yesh Atid,There is a Future,
-IL,10,prtcleil,Tikva Hadasha,7,IL-10-7-c,IL-10-7-c,,ISR,,,,
+IL,10,prtcleil,Tikva Hadasha,7,IL-10-7-c,IL-10-7-c,9005,ISR,NH,Tikva Hadasha,New Hope,
 IL,10,prtcleil,Yamina,8,IL-10-8-c,IL-10-8-c,9095,ISR,Y,Yamina,Yamina,
-IL,10,prtcleil,Ha'Zionut Ha'Datit,9,IL-10-9-c,IL-10-9-c,,ISR,,,,
+IL,10,prtcleil,Ha'Zionut Ha'Datit,9,IL-10-9-c,IL-1-9-c,953,ISR,HH — T,HaIchud HaLeumi — Tkuma,National Union — Tkuma,
 IL,10,prtcleil,Shas,10,IL-10-10-c,IL-1-3-c,455,ISR,SHAS,Shomrei Torah Sephardim,Sephardi Torah Guardians,
 IL,10,prtcleil,Yahadut HaTora (United Torah Judaism),11,IL-10-11-c,IL-1-6-c,1075,ISR,YH,Yahadut HaTorah,United Torah Judaism,
 IL,10,prtcleil,HaReshima HaMeshutefet,12,IL-10-12-c,IL-7-11-c,7912,ISR,JL,al-Qa'imah al-Mushtarakah,Joint List,
@@ -3720,9 +3720,9 @@ IS,9,prtclcis,Samfylkingunni,4,IS-9-4-c,IS-2-4-c,1396,ISL,Sam,Samfylkingin,Socia
 IS,9,prtclcis,Bjartri framtíð,5,IS-9-5-c,IS-6-8-c,2517,ISL,BF,Björt framtíð,Bright Future,
 IS,9,prtclcis,Pírötum,6,IS-9-6-c,IS-8-11-c,2048,ISL,Pi,Pírata,Pirate Party of Iceland,
 IS,9,prtclcis,Viðreisn,7,IS-9-7-c,IS-8-12-c,5454,ISL,V,Viðreisn,Reform Party,
-IS,9,prtclcis,Miðflokknum,8,IS-9-8-c,IS-9-8-c,,ISL,,,,
-IS,9,prtclcis,Alþýðufylkingunni,10,IS-9-10-c,IS-9-10-c,,ISL,,,,
-IS,9,prtclcis,Sósíalistaflokki Íslands,11,IS-9-11-c,IS-9-11-c,,ISL,,,,
+IS,9,prtclcis,Miðflokknum,8,IS-9-8-c,IS-9-8-c,7565,ISL,CP,Miðflokkurinn,Centre Party,
+IS,9,prtclcis,Alþýðufylkingunni,10,IS-9-10-c,IS-9-10-c,2724,ISL,1-perc,1 percent,1 percent,11
+IS,9,prtclcis,Sósíalistaflokki Íslands,11,IS-9-11-c,IS-9-11-c,9004,ISL,SFI,Sósíalistaflokkur Íslands,Icelandic Socialist Party,
 IS,9,prtclcis,Flokki fólksins,13,IS-9-13-c,IS-8-4-c,5852,ISL,FlF,Flokkur fólksins,People's Party,
 IS,9,prtclcis,Other,20,IS-9-20-c,IS-2-10-c,1844,ISL,etc,other,other,7
 IS,9,prtvtcis,Sjálfstæðisflokkinn,1,IS-9-1-v,IS-2-5-v,363,ISL,Sj,Sjálfstæðisflokkurinn,Independence Party,
@@ -3739,13 +3739,13 @@ IS,9,prtvtcis,Flokk fólksins,13,IS-9-13-v,IS-8-4-v,5852,ISL,FlF,Flokkur fólksi
 IS,9,prtvtcis,Blank paper,15,IS-9-15-v,IS-2-9-v,3033,ISL,tech,technical,technical,12
 IS,10,prtcldis,Flokk fólksins,4,IS-10-4-c,IS-8-4-c,5852,ISL,FlF,Flokkur fólksins,People's Party,
 IS,10,prtcldis,Framsóknarflokkinn,5,IS-10-5-c,IS-2-1-c,964,ISL,F,Framsóknarflokkurinn,Progressive Party,
-IS,10,prtcldis,Miðflokkinn,6,IS-10-6-c,IS-9-8-c,,ISL,,,,
+IS,10,prtcldis,Miðflokkinn,6,IS-10-6-c,IS-9-8-c,7565,ISL,CP,Miðflokkurinn,Centre Party,
 IS,10,prtcldis,Pírata,7,IS-10-7-c,IS-8-11-c,2048,ISL,Pi,Pírata,Pirate Party of Iceland,
 IS,10,prtcldis,Samfylkinguna,8,IS-10-8-c,IS-2-4-c,1396,ISL,Sam,Samfylkingin,Social Democratic Alliance,
 IS,10,prtcldis,Sjálfstæðisflokkinn,9,IS-10-9-c,IS-2-5-c,363,ISL,Sj,Sjálfstæðisflokkurinn,Independence Party,
 IS,10,prtcldis,Viðreisn,10,IS-10-10-c,IS-8-12-c,5454,ISL,V,Viðreisn,Reform Party,
 IS,10,prtcldis,Vinstri hreyfinguna - grænt framboð,11,IS-10-11-c,IS-2-7-c,457,ISL,Graen,Vinstrihreyfingin — grænt framboð,Left-Green Movement,
-IS,10,prtcldis,Sósíalistaflokkurinn,13,IS-10-13-c,IS-10-13-c,9004,ISL,SFI,Sósíalistaflokkur Íslands,Icelandic Socialist Party,
+IS,10,prtcldis,Sósíalistaflokkurinn,13,IS-10-13-c,IS-9-11-c,9004,ISL,SFI,Sósíalistaflokkur Íslands,Icelandic Socialist Party,
 IS,10,prtvtdis,Alþýðufylkinguna,1,IS-10-1-v,IS-8-7-v,2724,ISL,1-perc,1 percent,1 percent,11
 IS,10,prtvtdis,Bjarta framtíð,2,IS-10-2-v,IS-8-1-v,2517,ISL,BF,Björt framtíð,Bright Future,
 IS,10,prtvtdis,Dögun,3,IS-10-3-v,IS-8-9-v,2518,ISL,Dawn,"Dögun — stjórnmálasamtök um réttlæti, sanngirni og lýðræði","Dawn — Organization of justice, fairness and democracy",
@@ -3873,18 +3873,18 @@ IT,10,prtcleit,Forza Italia,4,IT-10-4-c,IT-1-8-c,1626,ITA,FI,Forza Italia,Go Ita
 IT,10,prtcleit,Fratelli d'Italia con Giorgia Meloni,5,IT-10-5-c,IT-6-10-c,2280,ITA,FdI,Fratelli d'Italia,Brothers of Italy,
 IT,10,prtcleit,Liberi e Uguali (LEU),6,IT-10-6-c,IT-9-6-c,8246,ITA,LeU,Liberi e Uguali,Free and Equal,
 IT,10,prtcleit,#NAME?,7,IT-10-7-c,IT-9-2-c,6155,ITA,+E,Più Europa,More Europe,
-IT,10,prtcleit,Noi con l'Italia - UDC,8,IT-10-8-c,IT-10-8-c,,ITA,,,,
+IT,10,prtcleit,Noi con l'Italia - UDC,8,IT-10-8-c,IT-10-8-c,3956,ITA,ally,alliance,alliance,15
 IT,10,prtcleit,Potere al popolo,9,IT-10-9-c,IT-9-12-c,8247,ITA,PaP,Potere al Popolo,Power to the People,
 IT,10,prtcleit,SVP-PATT,14,IT-10-14-c,IT-9-5-c,1369,ITA,SVP,Südtiroler Volkspartei,South Tyrol Peoples Party,
 IT,10,prtcleit,Altro,31,IT-10-31-c,IT-1-17-c,1896,ITA,etc,other,other,7
 IT,10,prtcleit,Italia Viva,33,IT-10-33-c,IT-10-33-c,8641,ITA,IV,Italia Viva,Italy Alive,
-IT,10,prtcleit,Unione Valdotaine,34,IT-10-34-c,IT-10-34-c,,ITA,,,,
-IT,10,prtcleit,Partito Comunista,35,IT-10-35-c,IT-10-35-c,,ITA,,,,
-IT,10,prtcleit,Vox Italia,36,IT-10-36-c,IT-10-36-c,,ITA,,,,
-IT,10,prtcleit,Partito Socialista,37,IT-10-37-c,IT-10-37-c,,ITA,,,,
-IT,10,prtcleit,Verdi/ Europa Verde,38,IT-10-38-c,IT-10-38-c,,ITA,,,,
+IT,10,prtcleit,Unione Valdotaine,34,IT-10-34-c,IT-10-34-c,548,ITA,UV,Union Valdôtaine,Valdotanian Union,
+IT,10,prtcleit,Partito Comunista,35,IT-10-35-c,IT-10-35-c,2415,ITA,1-perc,1 percent,1 percent,11
+IT,10,prtcleit,Vox Italia,36,IT-10-36-c,IT-10-36-c,2415,ITA,1-perc,1 percent,1 percent,11
+IT,10,prtcleit,Partito Socialista,37,IT-10-37-c,IT-10-37-c,2415,ITA,1-perc,1 percent,1 percent,11
+IT,10,prtcleit,Verdi/ Europa Verde,38,IT-10-38-c,IT-10-38-c,9110,ITA,EV,Europa Verde,Green Europe,
 IT,10,prtcleit,Italexit,39,IT-10-39-c,IT-10-39-c,9081,ITA,Italexit,Italexit for Italy,Italexit per l'Italia,
-IT,10,prtcleit,Azione di Calenda,40,IT-10-40-c,IT-10-40-c,,ITA,,,,
+IT,10,prtcleit,Azione di Calenda,40,IT-10-40-c,IT-10-40-c,9082,ITA,A,Azione,Action,
 IT,10,prtvtdit,Movimento 5 Stelle,1,IT-10-1-v,IT-6-4-v,2046,ITA,M5S,Movimento 5 Stelle,Five Star Movement,
 IT,10,prtvtdit,Partido Democratico (PD),2,IT-10-2-v,IT-6-1-v,802,ITA,PD,Partito Democratico,Democratic Party,
 IT,10,prtvtdit,Lega,3,IT-10-3-v,IT-1-11-v,1221,ITA,LN,Lega Nord,North League,
@@ -4064,7 +4064,7 @@ LT,7,prtclalt,Lithuanian Centre Party (LCP),10,LT-7-10-c,LT-5-4-c,5455,LTU,LCP,L
 LT,7,prtclalt,Lithuanian Social Democratic Union (LSDS),11,LT-7-11-c,LT-5-17-c,8258,LTU,LSDS,Lietuvos socialdemokratų sąjunga,Lithuanian Social Democratic Union,
 LT,7,prtclalt,Nationalist Union (TS),12,LT-7-12-c,LT-6-12-c,377,LTU,LTS,Lietuvių tautininkų sąjunga,Lithuanian National Union,
 LT,7,prtclalt,Christian Party (KP),14,LT-7-14-c,LT-6-14-c,8254,LTU,KP,Krikščionių partija,Christian Party,
-LT,7,prtclalt,Lithuanian People's Party (LZP),15,LT-7-15-c,LT-7-15-c,8256,LTU,LLP,Lietuvos liaudies partija,Lithuanian People's Party,
+LT,7,prtclalt,Lithuanian People's Party (LZP),15,LT-7-15-c,LT-7-15-c,1407,LTU,LZP,Lietuvos žalioji partija,Lithuanian Green Party,
 LT,7,prtclalt,Socialist People's Front (SLF),16,LT-7-16-c,LT-5-3-c,1250,LTU,F/SLF,Fronto partija / Socialistinis liaudies frontas,Front Party / Socialist People's Front,
 LT,7,prtclalt,Lithuanian Peasant and Greens Union (LVZS),17,LT-7-17-c,LT-5-13-c,1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
 LT,7,prtclalt,Party 'Young Lithuania' (JL),18,LT-7-18-c,LT-5-16-c,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
@@ -4102,7 +4102,7 @@ LT,7,prtvalt2,Party Order and Justice (TT),9,LT-7-9-v-lt2,LT-5-14-v-lt2,237,LTU,
 LT,7,prtvalt2,Lithuanian Centre Party (LCP),10,LT-7-10-v-lt2,LT-5-4-v-lt2,5455,LTU,LCP,Lietuvos Centro Partija,Lithuanian Centre Party,
 LT,7,prtvalt2,Lithuanian Social Democratic Union (LSDS),11,LT-7-11-v-lt2,LT-5-17-v-lt2,8258,LTU,LSDS,Lietuvos socialdemokratų sąjunga,Lithuanian Social Democratic Union,
 LT,7,prtvalt2,National Unity Union (TVS),13,LT-7-13-v-lt2,LT-7-13-v-lt2,2501,LTU,1-perc,1 percent,1 percent,11
-LT,7,prtvalt2,Lithuanian People's Party (LZP),15,LT-7-15-v-lt2,LT-7-15-v-lt2,8256,LTU,LLP,Lietuvos liaudies partija,Lithuanian People's Party,
+LT,7,prtvalt2,Lithuanian People's Party (LZP),15,LT-7-15-v-lt2,LT-7-15-v-lt2,1407,LTU,LZP,Lietuvos žalioji partija,Lithuanian Green Party,
 LT,7,prtvalt2,Lithuanian Peasant and Greens Union (LVZS),17,LT-7-17-v-lt2,LT-5-13-v-lt2,1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
 LT,7,prtvalt2,Party 'Young Lithuania' (JL),18,LT-7-18-v-lt2,LT-5-16-v-lt2,1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT,7,prtvalt2,Liberal and Centre Union (LiCS),19,LT-7-19-v-lt2,LT-5-15-v-lt2,1193,LTU,LiCS,Liberalų ir centro sąjunga,Liberal and Centre Union,
@@ -4144,7 +4144,7 @@ LT,8,prtclblt,Political Party 'The Way of Courage' (DK),12,LT-8-12-c,LT-6-6-c,74
 LT,8,prtclblt,Lithuanian Centre Party (LCP),13,LT-8-13-c,LT-5-4-c,5455,LTU,LCP,Lietuvos Centro Partija,Lithuanian Centre Party,
 LT,8,prtvblt1,Lithuanian Social Democratic Party (LSDP),1,LT-8-1-v-lt1,LT-5-1-v-lt1,64,LTU,LSDP,Lietuvos socialdemokratų partija,Lithuanian Social Democratic Party,
 LT,8,prtvblt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-8-2-v-lt1,LT-5-5-v-lt1,193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,
-LT,8,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v-lt1,LT-8-3-v-lt1,,LTU,,,,
+LT,8,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-8-3-v-lt1,LT-8-3-v-lt1,5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
 LT,8,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-8-4-v-lt1,LT-8-4-v-lt1,3971,LTU,ally,alliance,alliance,15
 LT,8,prtvblt1,Party Order and Justice (TT),5,LT-8-5-v-lt1,LT-5-13-v-lt1,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT,8,prtvblt1,Lithuanian Peasant and Greens Union (LVZS),6,LT-8-6-v-lt1,LT-5-12-v-lt1,1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
@@ -4169,7 +4169,7 @@ LT,8,prtvblt2,Labour Party (DP),9,LT-8-9-v-lt2,LT-5-10-v-lt2,102,LTU,DP,Darbo Pa
 LT,8,prtvblt2,Political Party 'The Way of Courage' (DK),10,LT-8-10-v-lt2,LT-6-6-v-lt2,74,LTU,DK,Drąsos Kelias,The Way of Courage,
 LT,8,prtvblt2,Lithuanian People's Party (LLP),11,LT-8-11-v-lt2,LT-8-11-v-lt2,8256,LTU,LLP,Lietuvos liaudies partija,Lithuanian People's Party,
 LT,8,prtvblt2,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),12,LT-8-12-v-lt2,LT-5-8-v-lt2,556,LTU,LLRA,Lietuvos lenkų rinkimų akcija,Election Action of Lithuania's Poles,
-LT,8,prtvblt2,Lithuanian Greens Party (LZP),13,LT-8-13-v-lt2,LT-7-15-v-lt2,8256,LTU,LLP,Lietuvos liaudies partija,Lithuanian People's Party,
+LT,8,prtvblt2,Lithuanian Greens Party (LZP),13,LT-8-13-v-lt2,LT-7-15-v-lt2,1407,LTU,LZP,Lietuvos žalioji partija,Lithuanian Green Party,
 LT,8,prtvblt2,Political Party 'List of Lithuania' (LS),14,LT-8-14-v-lt2,LT-8-14-v-lt2,6738,LTU,List,"Politinė partija ""Lietuvos sąrašas""",Lithuanian List,
 LT,8,prtvblt2,Lithuanian Centre Party (LCP),15,LT-8-15-v-lt2,LT-5-4-v-lt2,5455,LTU,LCP,Lietuvos Centro Partija,Lithuanian Centre Party,
 LT,8,prtvblt2,Independent/Self-Nominated,17,LT-8-17-v-lt2,LT-5-20-v-lt2,2778,LTU,indep,independent,independent,8
@@ -4210,7 +4210,7 @@ LT,9,prtclblt,Party 'Young Lithuania' (JL),15,LT-9-15-c,LT-5-16-c,1026,LTU,JL,Ja
 LT,9,prtclblt,Other,17,LT-9-17-c,LT-5-20-c,1846,LTU,etc,other,other,7
 LT,9,prtvblt1,Lithuanian Social Democratic Party (LSDP),1,LT-9-1-v-lt1,LT-5-1-v-lt1,64,LTU,LSDP,Lietuvos socialdemokratų partija,Lithuanian Social Democratic Party,
 LT,9,prtvblt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2,LT-9-2-v-lt1,LT-5-5-v-lt1,193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,
-LT,9,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v-lt1,LT-8-3-v-lt1,,LTU,,,,
+LT,9,prtvblt1,Lithuanian Freedom Union (Liberals) (LLSL),3,LT-9-3-v-lt1,LT-8-3-v-lt1,5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
 LT,9,prtvblt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,4,LT-9-4-v-lt1,LT-8-4-v-lt1,3971,LTU,ally,alliance,alliance,15
 LT,9,prtvblt1,Party Order and Justice (TT),5,LT-9-5-v-lt1,LT-5-13-v-lt1,237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT,9,prtvblt1,Lithuanian Peasant and Greens Union (LVZS),6,LT-9-6-v-lt1,LT-5-12-v-lt1,1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
@@ -4236,7 +4236,7 @@ LT,9,prtvblt2,Liberals' Movement of the Republic of Lithuania (LRLS),8,LT-9-8-v-
 LT,9,prtvblt2,Labour Party (DP),9,LT-9-9-v-lt2,LT-5-10-v-lt2,102,LTU,DP,Darbo Partija,Labour Party,
 LT,9,prtvblt2,Political Party 'The Way of Courage' (DK),10,LT-9-10-v-lt2,LT-6-6-v-lt2,74,LTU,DK,Drąsos Kelias,The Way of Courage,
 LT,9,prtvblt2,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),12,LT-9-12-v-lt2,LT-5-8-v-lt2,556,LTU,LLRA,Lietuvos lenkų rinkimų akcija,Election Action of Lithuania's Poles,
-LT,9,prtvblt2,Lithuanian Greens Party (LZP),13,LT-9-13-v-lt2,LT-7-15-v-lt2,8256,LTU,LLP,Lietuvos liaudies partija,Lithuanian People's Party,
+LT,9,prtvblt2,Lithuanian Greens Party (LZP),13,LT-9-13-v-lt2,LT-7-15-v-lt2,1407,LTU,LZP,Lietuvos žalioji partija,Lithuanian Green Party,
 LT,9,prtvblt2,Lithuanian Centre Party (LCP),15,LT-9-15-v-lt2,LT-5-4-v-lt2,5455,LTU,LCP,Lietuvos Centro Partija,Lithuanian Centre Party,
 LT,9,prtvblt2,Lithuanian Pensioners' Party (LPP),16,LT-9-16-v-lt2,LT-6-23-v-lt2,8255,LTU,LPP,Lithuanian Pensioners' Party,Lithuanian Pensioners' Party,
 LT,9,prtvblt2,Independent/Self-Nominated,17,LT-9-17-v-lt2,LT-5-20-v-lt2,2778,LTU,indep,independent,independent,8
@@ -4269,18 +4269,18 @@ LT,10,prtclclt,Freedom Party (LP),5,LT-10-5-c,LT-10-5-c,8982,LTU,LP,Laisvės par
 LT,10,prtclclt,Liberals' Movement of the Republic of Lithuania (LRLS),6,LT-10-6-c,LT-5-12-c,1744,LTU,LRLS,Lietuvos Respublikos Liberalų sąjūdis,Liberals' Movement of the Republic of Lithuania,
 LT,10,prtclclt,Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS),7,LT-10-7-c,LT-5-8-c,556,LTU,LLRA,Lietuvos lenkų rinkimų akcija,Election Action of Lithuania's Poles,
 LT,10,prtclclt,Social Democratic Labour Party of Lithuania (LSDDP),8,LT-10-8-c,LT-10-8-c,7352,LTU,LSDDP—LRP,Lietuvos socialdemokratų darbo partija — Lietuvos regionų partija,Social Democratic Labour Party of Lithuania — Lithuanian Regions Party,
-LT,10,prtclclt,Centre Party - Nationalists (CPT),9,LT-10-9-c,LT-10-9-c,,LTU,,,,
+LT,10,prtclclt,Centre Party - Nationalists (CPT),9,LT-10-9-c,LT-10-9-c,3971,LTU,ally,alliance,alliance,15
 LT,10,prtclclt,National Alliance (NS),10,LT-10-10-c,LT-10-10-c,9096,LTU,NS,https://en.wikipedia.org/wiki/National_Alliance_(Lithuania),National Alliance,
 LT,10,prtclclt,Party 'Freedom and Justice' (LT),11,LT-10-11-c,LT-8-8-c,5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
 LT,10,prtclclt,Lithuanian Greens Party (LZP),12,LT-10-12-c,LT-6-25-c,1407,LTU,LZP,Lietuvos žalioji partija,Lithuanian Green Party,
 LT,10,prtclclt,Political Party 'The Way of Courage' (DK),13,LT-10-13-c,LT-6-6-c,74,LTU,DK,Drąsos Kelias,The Way of Courage,
-LT,10,prtclclt,Party 'Lithuania - For everyone' (LV),14,LT-10-14-c,LT-10-14-c,,LTU,,,,
-LT,10,prtclclt,Christian Union (KS),15,LT-10-15-c,LT-10-15-c,,LTU,,,,
-LT,10,prtclclt,Union of Intergenerational Solidarity - Cohesion for Lithuania (KSSL),16,LT-10-16-c,LT-10-16-c,,LTU,,,,
-LT,10,prtclclt,Lithuanian People's Party (LLP),17,LT-10-17-c,LT-10-17-c,,LTU,,,,
+LT,10,prtclclt,Party 'Lithuania - For everyone' (LV),14,LT-10-14-c,LT-10-14-c,2501,LTU,1-perc,1 percent,1 percent,11
+LT,10,prtclclt,Christian Union (KS),15,LT-10-15-c,LT-10-15-c,2501,LTU,1-perc,1 percent,1 percent,11
+LT,10,prtclclt,Union of Intergenerational Solidarity - Cohesion for Lithuania (KSSL),16,LT-10-16-c,LT-10-16-c,2501,LTU,1-perc,1 percent,1 percent,11
+LT,10,prtclclt,Lithuanian People's Party (LLP),17,LT-10-17-c,LT-10-17-c,8256,LTU,LLP,Lietuvos liaudies partija,Lithuanian People's Party,
 LT,10,prtclclt,Other,65,LT-10-65-c,LT-5-20-c,1846,LTU,etc,other,other,7
 LT,10,prtvclt1,Political Party 'The Way of Courage' (DK),1,LT-10-1-v-lt1,LT-6-6-v-lt1,74,LTU,DK,Drąsos Kelias,The Way of Courage,
-LT,10,prtvclt1,Party 'Freedom and Justice' (LT),2,LT-10-2-v-lt1,LT-8-3-v-lt1,,LTU,,,,
+LT,10,prtvclt1,Party 'Freedom and Justice' (LT),2,LT-10-2-v-lt1,LT-8-3-v-lt1,5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
 LT,10,prtvclt1,Freedom Party (LP),3,LT-10-3-v-lt1,LT-10-3-v-lt1,8982,LTU,LP,Laisvės partija,Freedom Party,
 LT,10,prtvclt1,Lithuanian People's Party (LLP),4,LT-10-4-v-lt1,LT-9-10-v-lt1,8256,LTU,LLP,Lietuvos liaudies partija,Lithuanian People's Party,
 LT,10,prtvclt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),5,LT-10-5-v-lt1,LT-5-5-v-lt1,193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,
@@ -4356,18 +4356,18 @@ LV,4,prtvtlv,Latvia's First party/Latvia's Way,5,LV-4-5-v,LV-4-5-v,461,LVA,LPP/L
 LV,4,prtvtlv,For Fatherland and Freedom/ LNNK,6,LV-4-6-v,LV-4-6-v,1704,LVA,TB/LNNK,Tēvzemei un Brīvībai / LNNK,For Fatherland and Freedom / LNNK,
 LV,4,prtvtlv,For Human Rights in a United Latvia,7,LV-4-7-v,LV-4-7-v,176,LVA,PCTVL,Par cilvēka tiesībām vienotā Latvijā,For Human Rights in a United Latvia,
 LV,4,prtvtlv,Other,8,LV-4-8-v,LV-4-8-v,1848,LVA,etc,other,other,7
-LV,9,prtclalv,Latvijas Krievu savienība,1,LV-9-1-c,LV-9-1-c,,LVA,,,,
+LV,9,prtclalv,Latvijas Krievu savienība,1,LV-9-1-c,LV-9-1-c,5657,LVA,LKS/RSL,Latvijas Krievu savienība / Русский союз Латвии,Latvian Russian Union,
 LV,9,prtclalv,Jaunā konservatīvā partija,2,LV-9-2-c,LV-9-2-c,6355,LVA,JKP,Jaunā konservatīvā partija,New Conservative Party,
-LV,9,prtclalv,Nacionālā apvienība 'Visu Latvijai!' - 'Tēvzemei un Brīvībai/LNNK',4,LV-9-4-c,LV-9-4-c,,LVA,,,,
+LV,9,prtclalv,Nacionālā apvienība 'Visu Latvijai!' - 'Tēvzemei un Brīvībai/LNNK',4,LV-9-4-c,LV-9-4-c,7619,LVA,NA,Nacionālā apvienība,National Alliance,
 LV,9,prtclalv,Progresīvie,5,LV-9-5-c,LV-9-5-c,6357,LVA,P,Progresīvie,The Progressive,
-LV,9,prtclalv,LSDSP/KDS/GKL,7,LV-9-7-c,LV-9-7-c,,LVA,,,,
-LV,9,prtclalv,No sirds Latvijai,8,LV-9-8-c,LV-9-8-c,,LVA,,,,
-LV,9,prtclalv,Sociāldemokrātiskā partija 'Saskaņa',9,LV-9-9-c,LV-9-9-c,,LVA,,,,
-LV,9,prtclalv,Attīstībai/Par!,10,LV-9-10-c,LV-9-10-c,,LVA,,,,
-LV,9,prtclalv,Latvijas Reģionu Apvienība,11,LV-9-11-c,LV-9-11-c,,LVA,,,,
-LV,9,prtclalv,Latviešu Nacionālisti,12,LV-9-12-c,LV-9-12-c,,LVA,,,,
-LV,9,prtclalv,Jaunā Vienotība,13,LV-9-13-c,LV-9-13-c,,LVA,,,,
-LV,9,prtclalv,Politiskā partija KPV LV,15,LV-9-15-c,LV-9-15-c,,LVA,,,,
+LV,9,prtclalv,LSDSP/KDS/GKL,7,LV-9-7-c,LV-9-7-c,3965,LVA,ally,alliance,alliance,15
+LV,9,prtclalv,No sirds Latvijai,8,LV-9-8-c,LV-9-8-c,3193,LVA,NsL,No sirds Latvijai,For Latvia from the Heart,
+LV,9,prtclalv,Sociāldemokrātiskā partija 'Saskaņa',9,LV-9-9-c,LV-9-9-c,5976,LVA,SDPS,"Sociāldemokrātiskā Partija ""Saskaņa""","Social Democratic Party ""Harmony""",
+LV,9,prtclalv,Attīstībai/Par!,10,LV-9-10-c,LV-9-10-c,8393,LVA,AP!,Attīstībai/Par!,Development/For!,
+LV,9,prtclalv,Latvijas Reģionu Apvienība,11,LV-9-11-c,LV-9-11-c,3194,LVA,LRa,Latvijas Reģionu apvienība,Latvian Association of Regions,
+LV,9,prtclalv,Latviešu Nacionālisti,12,LV-9-12-c,LV-9-12-c,2768,LVA,1-perc,1 percent,1 percent,11
+LV,9,prtclalv,Jaunā Vienotība,13,LV-9-13-c,LV-9-13-c,9089,LVA,JV,Jaunā Vienotība,New Unity,
+LV,9,prtclalv,Politiskā partija KPV LV,15,LV-9-15-c,LV-9-15-c,6356,LVA,KPVLV—PCL,Kam pieder valsts? — Par cilvēcīgu Latviju,Who owns the state? — For a Humane Latvia,
 LV,9,prtclalv,Zaļo un Zemnieku savienība,16,LV-9-16-c,LV-4-2-c,701,LVA,ZZS,Zaļo un Zemnieku savienība,Green and Farmers' Union,
 LV,9,prtclalv,Other,17,LV-9-17-c,LV-4-8-c,1848,LVA,etc,other,other,7
 LV,9,prtvtalv,Latvijas Krievu savienība,1,LV-9-1-v,LV-9-1-v,5657,LVA,LKS/RSL,Latvijas Krievu savienība / Русский союз Латвии,Latvian Russian Union,
@@ -4385,18 +4385,18 @@ LV,9,prtvtalv,Jaunā Vienotība,13,LV-9-13-v,LV-9-13-v,9089,LVA,JV,Jaunā Vienot
 LV,9,prtvtalv,Par alternatīvu,14,LV-9-14-v,LV-9-14-v,3965,LVA,ally,alliance,alliance,15
 LV,9,prtvtalv,Politiskā partija KPV LV,15,LV-9-15-v,LV-9-15-v,6356,LVA,KPVLV—PCL,Kam pieder valsts? — Par cilvēcīgu Latviju,Who owns the state? — For a Humane Latvia,
 LV,9,prtvtalv,Zaļo un Zemnieku savienība,16,LV-9-16-v,LV-4-2-v,701,LVA,ZZS,Zaļo un Zemnieku savienība,Green and Farmers' Union,
-LV,10,prtclalv,Latvijas Krievu savienība,1,LV-10-1-c,LV-9-1-c,,LVA,,,,
+LV,10,prtclalv,Latvijas Krievu savienība,1,LV-10-1-c,LV-9-1-c,5657,LVA,LKS/RSL,Latvijas Krievu savienība / Русский союз Латвии,Latvian Russian Union,
 LV,10,prtclalv,Jaunā konservatīvā partija,2,LV-10-2-c,LV-9-2-c,6355,LVA,JKP,Jaunā konservatīvā partija,New Conservative Party,
-LV,10,prtclalv,Nacionālā apvienība 'Visu Latvijai!' - 'Tēvzemei un Brīvībai/LNNK',4,LV-10-4-c,LV-9-4-c,,LVA,,,,
+LV,10,prtclalv,Nacionālā apvienība 'Visu Latvijai!' - 'Tēvzemei un Brīvībai/LNNK',4,LV-10-4-c,LV-9-4-c,7619,LVA,NA,Nacionālā apvienība,National Alliance,
 LV,10,prtclalv,Progresīvie,5,LV-10-5-c,LV-9-5-c,6357,LVA,P,Progresīvie,The Progressive,
-LV,10,prtclalv,No sirds Latvijai,8,LV-10-8-c,LV-9-8-c,,LVA,,,,
-LV,10,prtclalv,Sociāldemokrātiskā partija 'Saskaņa',9,LV-10-9-c,LV-9-9-c,,LVA,,,,
-LV,10,prtclalv,Attīstībai/Par!,10,LV-10-10-c,LV-9-10-c,,LVA,,,,
-LV,10,prtclalv,Latvijas Reģionu Apvienība,11,LV-10-11-c,LV-9-11-c,,LVA,,,,
-LV,10,prtclalv,Latviešu Nacionālisti,12,LV-10-12-c,LV-9-12-c,,LVA,,,,
-LV,10,prtclalv,Jaunā Vienotība,13,LV-10-13-c,LV-9-13-c,,LVA,,,,
-LV,10,prtclalv,Par alternatīvu,14,LV-10-14-c,LV-10-14-c,,LVA,,,,
-LV,10,prtclalv,Politiskā partija KPV LV,15,LV-10-15-c,LV-9-15-c,,LVA,,,,
+LV,10,prtclalv,No sirds Latvijai,8,LV-10-8-c,LV-9-8-c,3193,LVA,NsL,No sirds Latvijai,For Latvia from the Heart,
+LV,10,prtclalv,Sociāldemokrātiskā partija 'Saskaņa',9,LV-10-9-c,LV-9-9-c,5976,LVA,SDPS,"Sociāldemokrātiskā Partija ""Saskaņa""","Social Democratic Party ""Harmony""",
+LV,10,prtclalv,Attīstībai/Par!,10,LV-10-10-c,LV-9-10-c,8393,LVA,AP!,Attīstībai/Par!,Development/For!,
+LV,10,prtclalv,Latvijas Reģionu Apvienība,11,LV-10-11-c,LV-9-11-c,3194,LVA,LRa,Latvijas Reģionu apvienība,Latvian Association of Regions,
+LV,10,prtclalv,Latviešu Nacionālisti,12,LV-10-12-c,LV-9-12-c,2768,LVA,1-perc,1 percent,1 percent,11
+LV,10,prtclalv,Jaunā Vienotība,13,LV-10-13-c,LV-9-13-c,9089,LVA,JV,Jaunā Vienotība,New Unity,
+LV,10,prtclalv,Par alternatīvu,14,LV-10-14-c,LV-10-14-c,3965,LVA,ally,alliance,alliance,15
+LV,10,prtclalv,Politiskā partija KPV LV,15,LV-10-15-c,LV-9-15-c,6356,LVA,KPVLV—PCL,Kam pieder valsts? — Par cilvēcīgu Latviju,Who owns the state? — For a Humane Latvia,
 LV,10,prtclalv,Zaļo un Zemnieku savienība,16,LV-10-16-c,LV-4-2-c,701,LVA,ZZS,Zaļo un Zemnieku savienība,Green and Farmers' Union,
 LV,10,prtclalv,Other,17,LV-10-17-c,LV-4-8-c,1848,LVA,etc,other,other,7
 LV,10,prtvtalv,Latvijas Krievu savienība,1,LV-10-1-v,LV-9-1-v,5657,LVA,LKS/RSL,Latvijas Krievu savienība / Русский союз Латвии,Latvian Russian Union,
@@ -4414,22 +4414,22 @@ LV,10,prtvtalv,Par alternatīvu,14,LV-10-14-v,LV-9-14-v,3965,LVA,ally,alliance,a
 LV,10,prtvtalv,Politiskā partija KPV LV,15,LV-10-15-v,LV-9-15-v,6356,LVA,KPVLV—PCL,Kam pieder valsts? — Par cilvēcīgu Latviju,Who owns the state? — For a Humane Latvia,
 LV,10,prtvtalv,Zaļo un Zemnieku savienība,16,LV-10-16-v,LV-4-2-v,701,LVA,ZZS,Zaļo un Zemnieku savienība,Green and Farmers' Union,
 LV,10,prtvtalv,Other,17,LV-10-17-v,LV-4-8-v,1848,LVA,etc,other,other,7
-ME,9,prtclme,Demokratska partija socijalista (DPS),1,ME-9-1-c,ME-9-1-c,,MNE,,,,
-ME,9,prtclme,Socijaldemokratska partija (SDP),2,ME-9-2-c,ME-9-2-c,,MNE,,,,
-ME,9,prtclme,Socijaldemokrate Crne Gore (SD),3,ME-9-3-c,ME-9-3-c,,MNE,,,,
-ME,9,prtclme,Socijalistička narodna partija (SNP),4,ME-9-4-c,ME-9-4-c,,MNE,,,,
+ME,9,prtclme,Demokratska partija socijalista (DPS),1,ME-9-1-c,ME-9-1-c,3162,MNE,DPS,Demokratska Partija Socijalista Crne Gore,Democratic Party of Socialists of Montenegro,
+ME,9,prtclme,Socijaldemokratska partija (SDP),2,ME-9-2-c,ME-9-2-c,3185,MNE,SDPCG,Socijaldemokratska Partija Crne Gore,Social Democratic Party of Montenegro,
+ME,9,prtclme,Socijaldemokrate Crne Gore (SD),3,ME-9-3-c,ME-9-3-c,5470,MNE,SDCG,Socijaldemokrate Crne Gore,Social Democrats of Montenegro,
+ME,9,prtclme,Socijalistička narodna partija (SNP),4,ME-9-4-c,ME-9-4-c,3104,MNE,SNP-CG,Socijalisticka narodna partija Crne Gore,Socialist People’s Party of Montenegro,
 ME,9,prtclme,Demokratski front (DF),5,ME-9-5-c,ME-9-5-c,6087,MNE,DF,Demokratiski Front,Democratic Front,
-ME,9,prtclme,Pozitivna Crna Gora (PCG),6,ME-9-6-c,ME-9-6-c,,MNE,,,,
-ME,9,prtclme,Ujedinjena Crna Gora (UCG),9,ME-9-9-c,ME-9-9-c,,MNE,,,,
-ME,9,prtclme,Demokratska Crna Gora - DEMOKRATE,10,ME-9-10-c,ME-9-10-c,,MNE,,,,
-ME,9,prtclme,Ujedinjena reformska akcija (URA),11,ME-9-11-c,ME-9-11-c,,MNE,,,,
-ME,9,prtclme,Crnogorska,12,ME-9-12-c,ME-9-12-c,,MNE,,,,
+ME,9,prtclme,Pozitivna Crna Gora (PCG),6,ME-9-6-c,ME-9-6-c,4767,MNE,PCG,Pozitivna Crna Gora,Positive Montenegro,
+ME,9,prtclme,Ujedinjena Crna Gora (UCG),9,ME-9-9-c,ME-9-9-c,2823,MNE,1-perc,1 percent,1 percent,11
+ME,9,prtclme,Demokratska Crna Gora - DEMOKRATE,10,ME-9-10-c,ME-9-10-c,5469,MNE,DCG,Demokratska Crna Gora,Democratic Montenegro,
+ME,9,prtclme,Ujedinjena reformska akcija (URA),11,ME-9-11-c,ME-9-11-c,5468,MNE,URA,Ujedinjena reformska akcija,United Reformist Action,
+ME,9,prtclme,Crnogorska,12,ME-9-12-c,ME-9-12-c,2823,MNE,1-perc,1 percent,1 percent,11
 ME,9,prtclme,Bošnjačka stranka (BS),13,ME-9-13-c,ME-9-13-c,3255,MNE,BS,Bošnjačka stranka,Bosniak Party,
-ME,9,prtclme,Demokratska unija Albanaca (DUA),15,ME-9-15-c,ME-9-15-c,,MNE,,,,
+ME,9,prtclme,Demokratska unija Albanaca (DUA),15,ME-9-15-c,ME-9-15-c,3250,MNE,DUA,Demokratska unija Albanaca,Democratic Union of Albanians,
 ME,9,prtclme,Albanska alternativa (AA),16,ME-9-16-c,ME-9-16-c,5661,MNE,AA,Albanska alternativa / Alternativa Shqiptare,Albanian Alternative,
 ME,9,prtclme,FORCA,17,ME-9-17-c,ME-9-17-c,3251,MNE,FORCA,Nova demokratska snaga,New Democratic Force,
-ME,9,prtclme,Prava Crna Gora,19,ME-9-19-c,ME-9-19-c,,MNE,,,,
-ME,9,prtclme,Ostalo,20,ME-9-20-c,ME-9-20-c,,MNE,,,,
+ME,9,prtclme,Prava Crna Gora,19,ME-9-19-c,ME-9-19-c,2823,MNE,1-perc,1 percent,1 percent,11
+ME,9,prtclme,Ostalo,20,ME-9-20-c,ME-9-20-c,2819,MNE,etc,other,other,7
 ME,9,prtvtme,"Albanci odlucno - Forca, DUA, AAA",1,ME-9-1-v,ME-9-1-v,8617,MNE,AO,Albanci odlučno,Albanians Decisively,
 ME,9,prtvtme,SDP - Ranko Krivokapic,2,ME-9-2-v,ME-9-2-v,3185,MNE,SDPCG,Socijaldemokratska Partija Crne Gore,Social Democratic Party of Montenegro,
 ME,9,prtvtme,"Albanska koalicija 'Sa jednim ciljem' - DP, GI, DS U CG i Perspektiva",3,ME-9-3-v,ME-9-3-v,3982,MNE,ally,alliance,alliance,15
@@ -4446,20 +4446,20 @@ ME,9,prtvtme,Bošnjačka demokratska zajednica u Crnoj Gori - Hazbija Kalač,15,
 ME,9,prtvtme,Socijaldemokrate Crne Gore - Ivan Brajović,16,ME-9-16-v,ME-9-16-v,5470,MNE,SDCG,Socijaldemokrate Crne Gore,Social Democrats of Montenegro,
 ME,9,prtvtme,Stranka srpskih radikala,17,ME-9-17-v,ME-9-17-v,3161,MNE,SSR,Stranka srpskih radikala,Party of Serb Radicals,
 ME,9,prtvtme,Ostalo,18,ME-9-18-v,ME-9-18-v,2819,MNE,etc,other,other,7
-ME,10,prtclame,Demokratska partija socijalista (DPS),1,ME-10-1-c,ME-9-1-c,,MNE,,,,
-ME,10,prtclame,Socijaldemokratska partija (SDP),2,ME-10-2-c,ME-9-2-c,,MNE,,,,
-ME,10,prtclame,Socijaldemokrate Crne Gore (SD),3,ME-10-3-c,ME-9-3-c,,MNE,,,,
-ME,10,prtclame,Socijalistička narodna partija (SNP),4,ME-10-4-c,ME-9-4-c,,MNE,,,,
+ME,10,prtclame,Demokratska partija socijalista (DPS),1,ME-10-1-c,ME-9-1-c,3162,MNE,DPS,Demokratska Partija Socijalista Crne Gore,Democratic Party of Socialists of Montenegro,
+ME,10,prtclame,Socijaldemokratska partija (SDP),2,ME-10-2-c,ME-9-2-c,3185,MNE,SDPCG,Socijaldemokratska Partija Crne Gore,Social Democratic Party of Montenegro,
+ME,10,prtclame,Socijaldemokrate Crne Gore (SD),3,ME-10-3-c,ME-9-3-c,5470,MNE,SDCG,Socijaldemokrate Crne Gore,Social Democrats of Montenegro,
+ME,10,prtclame,Socijalistička narodna partija (SNP),4,ME-10-4-c,ME-9-4-c,3104,MNE,SNP-CG,Socijalisticka narodna partija Crne Gore,Socialist People’s Party of Montenegro,
 ME,10,prtclame,Demokratski front (DF),5,ME-10-5-c,ME-9-5-c,6087,MNE,DF,Demokratiski Front,Democratic Front,
-ME,10,prtclame,Demokratski savez DEMOS,7,ME-10-7-c,ME-10-7-c,,MNE,,,,
-ME,10,prtclame,Demokratska Crna Gora - DEMOKRATE,9,ME-10-9-c,ME-9-10-c,,MNE,,,,
-ME,10,prtclame,Ujedinjena reformska akcija (URA),10,ME-10-10-c,ME-9-11-c,,MNE,,,,
+ME,10,prtclame,Demokratski savez DEMOS,7,ME-10-7-c,ME-10-7-c,5467,MNE,DEMOS,Demokratski savez,Democratic Alliance,
+ME,10,prtclame,Demokratska Crna Gora - DEMOKRATE,9,ME-10-9-c,ME-9-10-c,5469,MNE,DCG,Demokratska Crna Gora,Democratic Montenegro,
+ME,10,prtclame,Ujedinjena reformska akcija (URA),10,ME-10-10-c,ME-9-11-c,5468,MNE,URA,Ujedinjena reformska akcija,United Reformist Action,
 ME,10,prtclame,Bošnjačka stranka (BS),11,ME-10-11-c,ME-9-13-c,3255,MNE,BS,Bošnjačka stranka,Bosniak Party,
-ME,10,prtclame,Demokratska unija Albanaca (DUA),13,ME-10-13-c,ME-9-15-c,,MNE,,,,
+ME,10,prtclame,Demokratska unija Albanaca (DUA),13,ME-10-13-c,ME-9-15-c,3250,MNE,DUA,Demokratska unija Albanaca,Democratic Union of Albanians,
 ME,10,prtclame,Albanska alternativa (AA),14,ME-10-14-c,ME-9-16-c,5661,MNE,AA,Albanska alternativa / Alternativa Shqiptare,Albanian Alternative,
 ME,10,prtclame,FORCA,15,ME-10-15-c,ME-9-17-c,3251,MNE,FORCA,Nova demokratska snaga,New Democratic Force,
-ME,10,prtclame,Prava Crna Gora,17,ME-10-17-c,ME-9-19-c,,MNE,,,,
-ME,10,prtclame,Other,18,ME-10-18-c,ME-9-20-c,,MNE,,,,
+ME,10,prtclame,Prava Crna Gora,17,ME-10-17-c,ME-9-19-c,2823,MNE,1-perc,1 percent,1 percent,11
+ME,10,prtclame,Other,18,ME-10-18-c,ME-9-20-c,2819,MNE,etc,other,other,7
 ME,10,prtvtame,Socijaldemokrate - SD,1,ME-10-1-v,ME-9-16-v,5470,MNE,SDCG,Socijaldemokrate Crne Gore,Social Democrats of Montenegro,
 ME,10,prtvtame,Bošnjačka stranka - BS,2,ME-10-2-v,ME-9-14-v,3255,MNE,BS,Bošnjačka stranka,Bosniak Party,
 ME,10,prtvtame,Socijaldemokratska partija - SDP,4,ME-10-4-v,ME-9-2-v,3185,MNE,SDPCG,Socijaldemokratska Partija Crne Gore,Social Democratic Party of Montenegro,
@@ -4469,19 +4469,19 @@ ME,10,prtvtame,Demokratska partija socijalista - DPS,8,ME-10-8-v,ME-9-6-v,3162,M
 ME,10,prtvtame,Demokratski front - DF,9,ME-10-9-v,ME-9-13-v,6087,MNE,DF,Demokratiski Front,Democratic Front,
 ME,10,prtvtame,Albanska lista - Genci Nimanbegu,10,ME-10-10-v,ME-10-10-v,3982,MNE,ally,alliance,alliance,15
 ME,10,prtvtame,Demokrate - Mir je nasa nacija,11,ME-10-11-v,ME-10-11-v,3982,MNE,ally,alliance,alliance,15
-MK,10,prtclmk,Vnatrešna makedonska revolucionerna organizacija - Demokratska partija za maked,1,MK-10-1-c,MK-10-1-c,,MKD,,,,
+MK,10,prtclmk,Vnatrešna makedonska revolucionerna organizacija - Demokratska partija za maked,1,MK-10-1-c,MK-10-1-c,1674,MKD,VMRO — DPMNE,VMRO — Demokratska partija za makedonsko nacionalno edinstvo,IMRO — Democratic Party for Macedonian National Unity,
 MK,10,prtclmk,Socijaldemokratski sojuz na Makedonija (SDSM),2,MK-10-2-c,MK-10-2-c,1508,MKD,SDSM,Socijaldemokratski sojuz na Makedonija,Social Democratic Union of Macedonia,
 MK,10,prtclmk,Demokratska unija za integracija (DUI),3,MK-10-3-c,MK-10-3-c,1220,MKD,DUI,Demokratska unija za integracija,Democratic Union for Integrations,
-MK,10,prtclmk,Alijansa za Albancite (AA),4,MK-10-4-c,MK-10-4-c,,MKD,,,,
-MK,10,prtclmk,Alternativa,5,MK-10-5-c,MK-10-5-c,,MKD,,,,
-MK,10,prtclmk,Dviženje Besa,6,MK-10-6-c,MK-10-6-c,,MKD,,,,
-MK,10,prtclmk,Levica,8,MK-10-8-c,MK-10-8-c,,MKD,,,,
+MK,10,prtclmk,Alijansa za Albancite (AA),4,MK-10-4-c,MK-10-4-c,3973,MKD,ally,alliance,alliance,15
+MK,10,prtclmk,Alternativa,5,MK-10-5-c,MK-10-5-c,2787,MKD,1-perc,1 percent,1 percent,11
+MK,10,prtclmk,Dviženje Besa,6,MK-10-6-c,MK-10-6-c,5585,MKD,BESA,Dviženje Besa,Besa Movement,
+MK,10,prtclmk,Levica,8,MK-10-8-c,MK-10-8-c,9098,MKD,L,Levica,The Left,
 MK,10,prtclmk,Socijalistička partija na Makedonija (SPM),10,MK-10-10-c,MK-10-10-c,724,MKD,SPM,Socijalistička Partija na Makedonija,Socialist Party of Macedonia,
 MK,10,prtclmk,Vnatrešna makedonska revolucionerna organizacija - Narodna partija (VMRO-NP),12,MK-10-12-c,MK-10-12-c,4258,MKD,VMRO — NP,VMRO — Narodna Partija,IMRO — People’s Party,
 MK,10,prtclmk,Demokratska partija na Albancite (DPA),14,MK-10-14-c,MK-10-14-c,431,MKD,DPA,Demokratska Partija na Albancite,Democratic Party of Albanians,
-MK,10,prtclmk,Srpska stranka vo Makedonija (SSM),20,MK-10-20-c,MK-10-20-c,,MKD,,,,
-MK,10,prtclmk,Edinstvena Makedonija — makedonska desničarska politička partija,22,MK-10-22-c,MK-10-22-c,,MKD,,,,
-MK,10,prtclmk,Tvoja partija,23,MK-10-23-c,MK-10-23-c,,MKD,,,,
+MK,10,prtclmk,Srpska stranka vo Makedonija (SSM),20,MK-10-20-c,MK-10-20-c,2787,MKD,1-perc,1 percent,1 percent,11
+MK,10,prtclmk,Edinstvena Makedonija — makedonska desničarska politička partija,22,MK-10-22-c,MK-10-22-c,9099,MKD,EM,Edinstvena Makedonija — makedonska desničarska politička partija,Integra – Macedonian Conservative Party,
+MK,10,prtclmk,Tvoja partija,23,MK-10-23-c,MK-10-23-c,2787,MKD,1-perc,1 percent,1 percent,11
 MK,10,prtclmk,Other,25,MK-10-25-c,MK-10-25-c,2783,MKD,etc,other,other,7
 MK,10,prtvtmk,Socijaldemokratski sojuz na Makedonija (SDSM) i Koalicija „Možeme“,1,MK-10-1-v,MK-10-1-v,3973,MKD,ally,alliance,alliance,15
 MK,10,prtvtmk,Vnatrešna makedonska revolucionerna organizacija - Demokratska partija za maked,2,MK-10-2-v,MK-10-2-v,1674,MKD,VMRO — DPMNE,VMRO — Demokratska partija za makedonsko nacionalno edinstvo,IMRO — Democratic Party for Macedonian National Unity,
@@ -5147,13 +5147,13 @@ PL,9,prtvtdpl,Zjednoczona Lewica,8,PL-9-8-v,PL-9-8-v,3999,POL,ally,alliance,alli
 PL,9,prtvtdpl,Other,9,PL-9-9-v,PL-3-19-v,1852,POL,etc,other,other,7
 PL,10,prtclipl,Platforma Obywatelska,1,PL-10-1-c,PL-1-6-c,1117,POL,PO,Platforma Obywatelska,Civic Platform,
 PL,10,prtclipl,Prawo i Sprawiedliwość,2,PL-10-2-c,PL-1-11-c,1565,POL,PiS,Prawo i Sprawiedliwość,Law and Justice,
-PL,10,prtclipl,Nowa Lewica,3,PL-10-3-c,PL-10-3-c,,POL,,,,
+PL,10,prtclipl,Nowa Lewica,3,PL-10-3-c,PL-10-3-c,2890,POL,1-perc,1 percent,1 percent,11
 PL,10,prtclipl,Wolnosc,4,PL-10-4-c,PL-8-1-c,4629,POL,KORWIN,Koalicja Odnowy Rzeczypospolitej Wolność i Nadzieja KORWiN,Coalition for the Renewal of the Republic — Liberty and Hope,
 PL,10,prtclipl,Polskie Stronnictwo Ludowe,5,PL-10-5-c,PL-2-14-c,602,POL,PSL,Polskie Stronnictwo Ludowe,Polish People's (Peasants') Party,
 PL,10,prtclipl,Kukiz'15,6,PL-10-6-c,PL-8-2-c,4631,POL,K,Kukiz'15,Kukiz'15,
 PL,10,prtclipl,Razem,7,PL-10-7-c,PL-8-7-c,4871,POL,Razem,[Lewica] Razem,[Left] Together,
-PL,10,prtclipl,Porozumienie Jarosława Gowina,8,PL-10-8-c,PL-10-8-c,,POL,,,,
-PL,10,prtclipl,Solidarna Polska,9,PL-10-9-c,PL-10-9-c,,POL,,,,
+PL,10,prtclipl,Porozumienie Jarosława Gowina,8,PL-10-8-c,PL-10-8-c,9025,POL,P,Porozumienie,Agreement,
+PL,10,prtclipl,Solidarna Polska,9,PL-10-9-c,PL-10-9-c,9109,POL,SP,Suwerenna Polska,Solidarity Poland,
 PL,10,prtclipl,Ruch Polska 2050 Szymona Hołowni,10,PL-10-10-c,PL-10-10-c,9027,POL,PL2050,Polska 2050,Poland 2050,
 PL,10,prtclipl,Other,11,PL-10-11-c,PL-1-21-c,1852,POL,etc,other,other,7
 PL,10,prtvtepl,Koalicja Bezpartyjni i Samorządowcy,1,PL-10-1-v,PL-10-1-v,2890,POL,1-perc,1 percent,1 percent,11
@@ -5321,14 +5321,14 @@ PT,8,prtvtcpt,Votou em branco/ nulo,17,PT-8-17-v,PT-8-17-v,3074,PRT,tech,technic
 PT,8,prtvtcpt,Other,18,PT-8-18-v,PT-1-12-v,1853,PRT,etc,other,other,7
 PT,9,prtclept,B.E. - Bloco de Esquerda,2,PT-9-2-c,PT-1-1-c,1310,PRT,BE,Bloco de Esquerda,Left Bloc,
 PT,9,prtclept,PCP-PEV - CDU - Coligação Democrática Unitária,3,PT-9-3-c,PT-1-5-c,284,PRT,CDU,Coligação Democrática Unitária,Unitary Democratic Coalition,
-PT,9,prtclept,JPP - Juntos pelo Povo,4,PT-9-4-c,PT-9-4-c,,PRT,,,,
+PT,9,prtclept,JPP - Juntos pelo Povo,4,PT-9-4-c,PT-9-4-c,2893,PRT,1-perc,1 percent,1 percent,11
 PT,9,prtclept,L/TDA - LIVRE/Tempo de Avançar,5,PT-9-5-c,PT-7-3-c,3225,PRT,L,"Livre — Liberdade, Esquerda, Europa e Ecologia",Livre,
 PT,9,prtclept,PPV/CDC - Partido Cidadania e Democracia Cristã,7,PT-9-7-c,PT-8-7-c,2893,PRT,1-perc,1 percent,1 percent,11
 PT,9,prtclept,PCTP/MRPP - Partido Comunista dos Trabalhadores Portugueses,8,PT-9-8-c,PT-1-6-c,857,PRT,PCTP/MRPP,Comunista dos Trabalhadores Portugueses / Movimento Reorganizativo do Partido do Proletariado,Communist Party of the Portuguese Workers / Reorganizative Movement of the Party of the Proletariat,
 PT,9,prtclept,PNR - Partido Nacional Renovador,11,PT-9-11-c,PT-5-8-c,2893,PRT,1-perc,1 percent,1 percent,11
 PT,9,prtclept,PPM - Partido Popular Monárquico,12,PT-9-12-c,PT-2-9-c,1480,PRT,PPM,Partido Popular Monárquico,Popular Monarchist Party,
 PT,9,prtclept,PS - Partido Socialista,13,PT-9-13-c,PT-1-10-c,655,PRT,PS,Partido Socialista,Socialist Party,
-PT,9,prtclept,PURP - Partido Unido dos Reformados e Pensionistas,14,PT-9-14-c,PT-9-14-c,,PRT,,,,
+PT,9,prtclept,PURP - Partido Unido dos Reformados e Pensionistas,14,PT-9-14-c,PT-9-14-c,2893,PRT,1-perc,1 percent,1 percent,11
 PT,9,prtclept,PAN - Pessoas-Animais-Natureza,15,PT-9-15-c,PT-8-15-c,97,PRT,PAN,Partido pelos Animais e pela Natureza,Party for Animals and Nature,
 PT,9,prtclept,PPD/PSD,16,PT-9-16-c,PT-1-11-c,1359,PRT,PPD/PSD,Partido Popular Democrático / Partido Social Democrata,Popular Democratic Party / Social Democratic Party,
 PT,9,prtclept,CDS-PP,17,PT-9-17-c,PT-1-2-c,1308,PRT,CDS/PP,Centro Democrático e Social / Partido Popular,Democratic and Social Center / People's Party,
@@ -5348,7 +5348,7 @@ PT,9,prtvtcpt,Votou em branco/ nulo,17,PT-9-17-v,PT-8-17-v,3074,PRT,tech,technic
 PT,9,prtvtcpt,Other,18,PT-9-18-v,PT-1-12-v,1853,PRT,etc,other,other,7
 PT,10,prtclfpt,B.E. - Bloco de Esquerda,2,PT-10-2-c,PT-1-1-c,1310,PRT,BE,Bloco de Esquerda,Left Bloc,
 PT,10,prtclfpt,CDS-PP - CDS-Partido Popular,3,PT-10-3-c,PT-1-2-c,1308,PRT,CDS/PP,Centro Democrático e Social / Partido Popular,Democratic and Social Center / People's Party,
-PT,10,prtclfpt,CHEGA,4,PT-10-4-c,PT-10-4-c,,PRT,,,,
+PT,10,prtclfpt,CHEGA,4,PT-10-4-c,PT-10-4-c,8182,PRT,CH,Chega,Enough,
 PT,10,prtclfpt,IL - Iniciativa Liberal,5,PT-10-5-c,PT-10-5-c,8640,PRT,IL,Iniciativa Liberal,Liberal Initiative,
 PT,10,prtclfpt,L - LIVRE,7,PT-10-7-c,PT-7-3-c,3225,PRT,L,"Livre — Liberdade, Esquerda, Europa e Ecologia",Livre,
 PT,10,prtclfpt,"NC - Nós, Cidadãos!",9,PT-10-9-c,PT-10-9-c,7358,PRT,NC,"Nós, Cidadãos!","We, the Citizens!",
@@ -5434,7 +5434,7 @@ RS,10,prtclars,Dosta je bilo,3,RS-10-3-c,RS-9-5-c,5379,SRB,DJB,Dosta je bilo,It'
 RS,10,prtclars,Dveri,4,RS-10-4-c,RS-9-6-c,5665,SRB,Dveri,Srpski pokret Dveri,Serbian Movement Dveri,
 RS,10,prtclars,Jedinstvena Srbija,5,RS-10-5-c,RS-9-7-c,6625,SRB,JS,Jedinstvena Srbija,United Serbia,
 RS,10,prtclars,Liga socijaldemokrata Vojvodine,6,RS-10-6-c,RS-9-10-c,4769,SRB,LSV,Liga socijaldemokrata Vojvodine,League of Social Democrats of Vojvodina,
-RS,10,prtclars,Narodna stranka,7,RS-10-7-c,RS-10-7-c,,SRB,,,,
+RS,10,prtclars,Narodna stranka,7,RS-10-7-c,RS-10-7-c,9111,SRB,Narodna,Narodna stranka,People's Party,
 RS,10,prtclars,Ne davimo Beograd,8,RS-10-8-c,RS-9-12-c,2915,SRB,1-perc,1 percent,1 percent,11
 RS,10,prtclars,Nova stranka,9,RS-10-9-c,RS-10-9-c,7874,SRB,NP,Nova stranka,New Party,
 RS,10,prtclars,Pokret slobodnih građana,10,RS-10-10-c,RS-9-16-c,8364,SRB,PSG,Pokret slobodnih građana,Movement of Free Citizens,
@@ -5443,11 +5443,11 @@ RS,10,prtclars,Socijaldemokratska stranka,12,RS-10-12-c,RS-9-20-c,4770,SRB,SDS,S
 RS,10,prtclars,Socijaldemokratska partija Srbije,13,RS-10-13-c,RS-9-19-c,4771,SRB,SDPS,Socijaldemokratska partija Srbije,Social Democratic Party of Serbia,
 RS,10,prtclars,Srpska napredna stranka,14,RS-10-14-c,RS-9-22-c,3177,SRB,SNS,Srpska napredna stranka,Serbian Progressive Party,
 RS,10,prtclars,Srpska radikalna stranka,15,RS-10-15-c,RS-9-23-c,2175,SRB,SRS,Srpska Radikalna Stranka,Serbian Radical Party,
-RS,10,prtclars,Stranka slobode i pravde,16,RS-10-16-c,RS-10-16-c,,SRB,,,,
+RS,10,prtclars,Stranka slobode i pravde,16,RS-10-16-c,RS-10-16-c,9112,SRB,SSP,Stranka slobode i pravde,Party of Freedom and Justice,
 RS,10,prtclars,Liberalno demokratska partija,17,RS-10-17-c,RS-9-9-c,2196,SRB,LDP,Liberalno-Demokratska Partija,Liberal Democratic Party,
-RS,10,prtclars,Pokret obnove kraljevine Srbije,18,RS-10-18-c,RS-10-18-c,,SRB,,,,
-RS,10,prtclars,Srpska stranka Zavetnici,19,RS-10-19-c,RS-10-19-c,,SRB,,,,
-RS,10,prtclars,Suverenisti,20,RS-10-20-c,RS-10-20-c,,SRB,,,,
+RS,10,prtclars,Pokret obnove kraljevine Srbije,18,RS-10-18-c,RS-10-18-c,9100,SRB,POKS,Pokret obnove Kraljevine Srbije,Movement for the Restoration of the Kingdom of Serbia,
+RS,10,prtclars,Srpska stranka Zavetnici,19,RS-10-19-c,RS-10-19-c,9102,SRB,SSZ,Srpska stranka Zavetnici,Serbian Party Oathkeepers,
+RS,10,prtclars,Suverenisti,20,RS-10-20-c,RS-10-20-c,4011,SRB,ally,alliance,alliance,15
 RS,10,prtclars,Other,22,RS-10-22-c,RS-9-27-c,2911,SRB,etc,other,other,7
 RS,10,prtvtars,ALEKSANDAR VUČIĆ - ZA NAŠU DECU.,1,RS-10-1-v,RS-10-1-v,8999,SRB,ZMS,Zajedno možemo sve,Together We Can Do Everything,
 RS,10,prtvtars,"Ivica Dačić - ''Socijalistička partija Srbije (SPS), Jedinstvena Srbija (JS)-",2,RS-10-2-v,RS-9-7-v,9001,SRB,SPS/PUPS/JS,Ivica Dačić — Premijer Srbije,Ivica Dačić — Prime Minister of Serbia,
@@ -5463,7 +5463,7 @@ RS,10,prtvtars,SDA Sandžaka - dr Sulejman Ugljanin  SDA Sandžaka - dr. Sulejma
 RS,10,prtvtars,Milica Đurđević Stamenkovski - Srpska stranka Zavetnici,12,RS-10-12-v,RS-10-12-v,9102,SRB,SSZ,Srpska stranka Zavetnici,Serbian Party Oathkeepers,
 RS,10,prtvtars,NARODNI BLOK - Velimir Ilić - general Momir Stojanović,13,RS-10-13-v,RS-10-13-v,4011,SRB,ally,alliance,alliance,15
 RS,10,prtvtars,SERGEJ TRIFUNOVIĆ - POKRET SLOBODNIH GRAĐANA,14,RS-10-14-v,RS-10-14-v,8364,SRB,PSG,Pokret slobodnih građana,Movement of Free Citizens,
-RS,10,prtvtars,SUVERENISTI,15,RS-10-15-v,RS-10-15-v,7648,SRB,DJB,Udruženje „Dosta je bilo,Enough is Enough - Restart,
+RS,10,prtvtars,SUVERENISTI,15,RS-10-15-v,RS-10-15-v,4011,SRB,ally,alliance,alliance,15
 RS,10,prtvtars,Grupa građana: 1 od 5 miliona,17,RS-10-17-v,RS-10-17-v,2915,SRB,1-perc,1 percent,1 percent,11
 RS,10,prtvtars,NEK MASKE PADNU - Zelena stranka - Nova stranka,18,RS-10-18-v,RS-10-18-v,4011,SRB,ally,alliance,alliance,15
 RS,10,prtvtars,RUSKA STRANKA - SLOBODAN NIKOLIĆ,19,RS-10-19-v,RS-10-19-v,2915,SRB,1-perc,1 percent,1 percent,11
@@ -6046,8 +6046,8 @@ SK,9,prtcldsk,SMER-Social Democracy,3,SK-9-3-c,SK-2-3-c,311,SVK,Smer — SD,Smer
 SK,9,prtcldsk,Most-Híd,4,SK-9-4-c,SK-5-4-c,258,SVK,MH,MOST-HID,Most-Hid,
 SK,9,prtcldsk,Christian Democratic Movement (KDH),5,SK-9-5-c,SK-2-5-c,63,SVK,KDH,Kresťanskodemokratické hnutie,Christian Democratic Movement,
 SK,9,prtcldsk,Freedom and Solidarity (SaS),6,SK-9-6-c,SK-5-6-c,1386,SVK,SaS,Sloboda a Solidarita,Freedom and Solidarity,
-SK,9,prtcldsk,Sieť,7,SK-9-7-c,SK-9-7-c,,SVK,,,,
-SK,9,prtcldsk,SME Rodina,8,SK-9-8-c,SK-9-8-c,,SVK,,,,
+SK,9,prtcldsk,Sieť,7,SK-9-7-c,SK-9-7-c,4872,SVK,S—SKS,Sieť — Slovenská konzervatívna strana,Network — Slovak Conservative Party,
+SK,9,prtcldsk,SME Rodina,8,SK-9-8-c,SK-9-8-c,4873,SVK,SR,Sme Rodina — Boris Kollár,We are family — Boris Kollar,
 SK,9,prtcldsk,Other,9,SK-9-9-c,SK-2-8-c,1855,SVK,etc,other,other,7
 SK,9,prtvtdsk,Obyčajní Ľudia a nezávislé osobnosti,1,SK-9-1-v,SK-6-1-v,2130,SVK,OLaNO,Obyčajní Ľudia a Nezávislé Osobnosti,Ordinary People and Independents,
 SK,9,prtvtdsk,Slovenská národná strana (SNS),2,SK-9-2-v,SK-3-6-v,730,SVK,SNS,Slovenská národná strana,Slovak National Party,
@@ -6060,11 +6060,11 @@ SK,9,prtvtdsk,SME Rodina,8,SK-9-8-v,SK-9-8-v,4873,SVK,SR,Sme Rodina — Boris Ko
 SK,9,prtvtdsk,Other,9,SK-9-9-v,SK-2-8-v,1855,SVK,etc,other,other,7
 SK,10,prtclesk,Obyčajní Ľudia a nezávislé osobnosti,1,SK-10-1-c,SK-6-1-c,2130,SVK,OLaNO,Obyčajní Ľudia a Nezávislé Osobnosti,Ordinary People and Independents,
 SK,10,prtclesk,Smer – SD,2,SK-10-2-c,SK-2-3-c,311,SVK,Smer — SD,Smer — sociálna demokracia,Direction — Social Democracy,
-SK,10,prtclesk,SME Rodina,3,SK-10-3-c,SK-9-8-c,,SVK,,,,
-SK,10,prtclesk,ĽS Naše Slovensko,4,SK-10-4-c,SK-10-4-c,,SVK,,,,
-SK,10,prtclesk,Pogresívne Slovensko - Spolu,5,SK-10-5-c,SK-10-5-c,,SVK,,,,
+SK,10,prtclesk,SME Rodina,3,SK-10-3-c,SK-9-8-c,4873,SVK,SR,Sme Rodina — Boris Kollár,We are family — Boris Kollar,
+SK,10,prtclesk,ĽS Naše Slovensko,4,SK-10-4-c,SK-10-4-c,656,SVK,LsNS,Ľudová strana Naše Slovensko,People's Party Our Slovakia,
+SK,10,prtclesk,Pogresívne Slovensko - Spolu,5,SK-10-5-c,SK-10-5-c,4015,SVK,ally,alliance,alliance,15
 SK,10,prtclesk,Sloboda a Solidarita (SaS),6,SK-10-6-c,SK-5-6-c,1386,SVK,SaS,Sloboda a Solidarita,Freedom and Solidarity,
-SK,10,prtclesk,Za ľudí,7,SK-10-7-c,SK-10-7-c,,SVK,,,,
+SK,10,prtclesk,Za ľudí,7,SK-10-7-c,SK-10-7-c,8394,SVK,Za,Za ľudí,For the People,
 SK,10,prtclesk,Other,8,SK-10-8-c,SK-2-8-c,1855,SVK,etc,other,other,7
 SK,10,prtvtesk,Obyčajní Ľudia a nezávislé osobnosti,1,SK-10-1-v,SK-6-1-v,2130,SVK,OLaNO,Obyčajní Ľudia a Nezávislé Osobnosti,Ordinary People and Independents,
 SK,10,prtvtesk,Smer – SD,2,SK-10-2-v,SK-2-3-v,311,SVK,Smer — SD,Smer — sociálna demokracia,Direction — Social Democracy,

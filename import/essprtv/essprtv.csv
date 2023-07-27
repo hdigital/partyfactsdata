@@ -2274,7 +2274,7 @@ LT-7-16-v-lt3,Socialist People's Front (SLF),2014,2014,LT-7-16-v-lt3,R7 --- prtv
 LT-7-13-v-lt2,National Unity Union (TVS),2014,2014,LT-7-13-v-lt2,R7 --- prtvalt2 --- National Unity Union (TVS),2501,LTU,1-perc,1 percent,1 percent,11
 LT-7-15-v-lt2,Lithuanian People's Party (LZP),2014,2018,LT-7-15-v-lt2 LT-8-13-v-lt2 LT-9-13-v-lt2,"R7 --- prtvalt2 --- Lithuanian People's Party (LZP)
 R8 --- prtvblt2 --- Lithuanian Greens Party (LZP)
-R9 --- prtvblt2 --- Lithuanian Greens Party (LZP)",8256,LTU,LLP,Lietuvos liaudies partija,Lithuanian People's Party,
+R9 --- prtvblt2 --- Lithuanian Greens Party (LZP)",1407,LTU,LZP,Lietuvos žalioji partija,Lithuanian Green Party,
 LT-7-25-v-lt2,Political Party 'Lithuanian Green Movement' (LZS),2014,2014,LT-7-25-v-lt2,R7 --- prtvalt2 --- Political Party 'Lithuanian Green Movement' (LZS),2501,LTU,1-perc,1 percent,1 percent,11
 LT-7-12-v-lt1,Lithuanian People's Party (LZP),2014,2020,LT-7-12-v-lt1 LT-8-12-v-lt1 LT-9-12-v-lt1 LT-10-14-v-lt1,"R7 --- prtvalt1 --- Lithuanian People's Party (LZP)
 R8 --- prtvblt1 --- Lithuanian Greens Party (LZP)
@@ -2299,7 +2299,7 @@ LT-8-62-v-lt2,Refused to tell if voted for a single-member constituency candidat
 R9 --- prtvblt2 --- Refused to tell if voted for a single-member constituency candidate list",3047,LTU,tech,technical,technical,12
 LT-8-3-v-lt1,Lithuanian Freedom Union (Liberals) (LLSL),2016,2020,LT-8-3-v-lt1 LT-9-3-v-lt1 LT-10-2-v-lt1,"R8 --- prtvblt1 --- Lithuanian Freedom Union (Liberals) (LLSL)
 R9 --- prtvblt1 --- Lithuanian Freedom Union (Liberals) (LLSL)
-R10 --- prtvclt1 --- Party 'Freedom and Justice' (LT)",,LTU,,,,
+R10 --- prtvclt1 --- Party 'Freedom and Justice' (LT)",5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
 LT-8-4-v-lt1,Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover,2016,2018,LT-8-4-v-lt1 LT-9-4-v-lt1,"R8 --- prtvblt1 --- Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover
 R9 --- prtvblt1 --- Coalition of S. Buškevičius and the Nationalists 'Against corruption and pover",3971,LTU,ally,alliance,alliance,15
 LT-8-13-v-lt1,Political Party 'List of Lithuania' (LS),2016,2018,LT-8-13-v-lt1 LT-9-13-v-lt1,"R8 --- prtvblt1 --- Political Party 'List of Lithuania' (LS)
@@ -2891,7 +2891,7 @@ RS-10-10-v,Milan Stamatović - Zdravo da pobedi - Dragan Jovanović - Bolja Srbi
 RS-10-12-v,Milica Đurđević Stamenkovski - Srpska stranka Zavetnici,2020,2020,RS-10-12-v,R10 --- prtvtars --- Milica Đurđević Stamenkovski - Srpska stranka Zavetnici,9102,SRB,SSZ,Srpska stranka Zavetnici,Serbian Party Oathkeepers,
 RS-10-13-v,NARODNI BLOK - Velimir Ilić - general Momir Stojanović,2020,2020,RS-10-13-v,R10 --- prtvtars --- NARODNI BLOK - Velimir Ilić - general Momir Stojanović,4011,SRB,ally,alliance,alliance,15
 RS-10-14-v,SERGEJ TRIFUNOVIĆ - POKRET SLOBODNIH GRAĐANA,2020,2020,RS-10-14-v,R10 --- prtvtars --- SERGEJ TRIFUNOVIĆ - POKRET SLOBODNIH GRAĐANA,8364,SRB,PSG,Pokret slobodnih građana,Movement of Free Citizens,
-RS-10-15-v,SUVERENISTI,2020,2020,RS-10-15-v,R10 --- prtvtars --- SUVERENISTI,7648,SRB,DJB,Udruženje „Dosta je bilo,Enough is Enough - Restart,
+RS-10-15-v,SUVERENISTI,2020,2020,RS-10-15-v,R10 --- prtvtars --- SUVERENISTI,4011,SRB,ally,alliance,alliance,15
 RS-10-17-v,Grupa građana: 1 od 5 miliona,2020,2020,RS-10-17-v,R10 --- prtvtars --- Grupa građana: 1 od 5 miliona,2915,SRB,1-perc,1 percent,1 percent,11
 RS-10-18-v,NEK MASKE PADNU - Zelena stranka - Nova stranka,2020,2020,RS-10-18-v,R10 --- prtvtars --- NEK MASKE PADNU - Zelena stranka - Nova stranka,4011,SRB,ally,alliance,alliance,15
 RS-10-19-v,RUSKA STRANKA - SLOBODAN NIKOLIĆ,2020,2020,RS-10-19-v,R10 --- prtvtars --- RUSKA STRANKA - SLOBODAN NIKOLIĆ,2915,SRB,1-perc,1 percent,1 percent,11

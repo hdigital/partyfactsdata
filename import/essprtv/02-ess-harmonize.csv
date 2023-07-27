@@ -2937,7 +2937,7 @@ GR,10,prtvtdgr,Ένωση Κεντρώων,9,GR-10-9-v,GR-10-9-v,GRC
 GR,10,prtvtdgr,Other,31,GR-10-31-v,GR-1-6-v,GRC
 GR,10,prtcldgr,ΝΔ,1,GR-10-1-c,GR-1-2-c,GRC
 GR,10,prtcldgr,ΣΥΡΙΖΑ,2,GR-10-2-c,GR-10-2-c,GRC
-GR,10,prtcldgr,ΚΙΝ.ΑΛ.,3,GR-10-3-c,GR-10-3-c,GRC
+GR,10,prtcldgr,ΚΙΝ.ΑΛ.,3,GR-10-3-c,GR-1-1-c,GRC
 GR,10,prtcldgr,ΚΚΕ,4,GR-10-4-c,GR-1-3-c,GRC
 GR,10,prtcldgr,Ελληνική Λύση,5,GR-10-5-c,GR-10-5-c,GRC
 GR,10,prtcldgr,ΜέΡΑ25,6,GR-10-6-c,GR-10-6-c,GRC
@@ -3656,7 +3656,7 @@ IL,10,prtcleil,Yisrael Beiteinu,5,IL-10-5-c,IL-1-12-c,ISR
 IL,10,prtcleil,Yesh Atid,6,IL-10-6-c,IL-6-20-c,ISR
 IL,10,prtcleil,Tikva Hadasha,7,IL-10-7-c,IL-10-7-c,ISR
 IL,10,prtcleil,Yamina,8,IL-10-8-c,IL-10-8-c,ISR
-IL,10,prtcleil,Ha'Zionut Ha'Datit,9,IL-10-9-c,IL-10-9-c,ISR
+IL,10,prtcleil,Ha'Zionut Ha'Datit,9,IL-10-9-c,IL-1-9-c,ISR
 IL,10,prtcleil,Shas,10,IL-10-10-c,IL-1-3-c,ISR
 IL,10,prtcleil,Yahadut HaTora (United Torah Judaism),11,IL-10-11-c,IL-1-6-c,ISR
 IL,10,prtcleil,HaReshima HaMeshutefet,12,IL-10-12-c,IL-7-11-c,ISR
@@ -3758,7 +3758,7 @@ IS,10,prtcldis,Samfylkinguna,8,IS-10-8-c,IS-2-4-c,ISL
 IS,10,prtcldis,Sjálfstæðisflokkinn,9,IS-10-9-c,IS-2-5-c,ISL
 IS,10,prtcldis,Viðreisn,10,IS-10-10-c,IS-8-12-c,ISL
 IS,10,prtcldis,Vinstri hreyfinguna - grænt framboð,11,IS-10-11-c,IS-2-7-c,ISL
-IS,10,prtcldis,Sósíalistaflokkurinn,13,IS-10-13-c,IS-10-13-c,ISL
+IS,10,prtcldis,Sósíalistaflokkurinn,13,IS-10-13-c,IS-9-11-c,ISL
 IT,1,prtvtit,Democratici di Sinistra,1,IT-1-1-v,IT-1-1-v,ITA
 IT,1,prtvtit,La Margherita,2,IT-1-2-v,IT-1-2-v,ITA
 IT,1,prtvtit,Comunisti Italiani,3,IT-1-3-v,IT-1-3-v,ITA
