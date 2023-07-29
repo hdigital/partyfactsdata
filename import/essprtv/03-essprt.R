@@ -11,20 +11,22 @@ raw_ess_clean <- read_csv("02-ess-harmonize.csv", na = "", show_col_types = FALS
 
 ## Party Facts information ----
 
-if (! exists("pf_party")) {
+if (!exists("pf_party")) {
   # potentially time intense so avoiding rereading
   url <- "https://partyfacts.herokuapp.com/download"
 
   raw_pf_core <-
     read_csv(glue("{url}/core-parties-csv/"),
-             na = "",
-             show_col_types = FALSE)
+      na = "",
+      show_col_types = FALSE
+    )
 
   raw_pf_ext_raw <-
     read_csv(glue("{url}/external-parties-csv/"),
-             na = "",
-             guess_max = 50000,
-             show_col_types = FALSE)
+      na = "",
+      guess_max = 50000,
+      show_col_types = FALSE
+    )
 
   pf_ext <-
     raw_pf_ext_raw |>
@@ -33,12 +35,14 @@ if (! exists("pf_party")) {
 
   pf_party <-
     raw_pf_core |>
-    select(country,
-           name_short,
-           name,
-           name_english,
-           partyfacts_id,
-           technical) |>
+    select(
+      country,
+      name_short,
+      name,
+      name_english,
+      partyfacts_id,
+      technical
+    ) |>
     inner_join(pf_ext, by = "partyfacts_id")
 }
 
@@ -54,11 +58,12 @@ prt <-
     essround = paste0("R", essround)
   ) |>
   unite(ess_info,
-        essround,
-        ess_variable,
-        ess_party,
-        sep = " --- ",
-        remove = FALSE) |>
+    essround,
+    ess_variable,
+    ess_party,
+    sep = " --- ",
+    remove = FALSE
+  ) |>
   select(-essround, -ess_variable)
 
 # collapse ESS rounds at party level
@@ -143,8 +148,10 @@ pl_dt <-
   filter(is.na(technical), str_detect(ess_variable, "prtv")) |>
   distinct(country, essround, ess_id) |>
   count(country, essround, sort = TRUE) |>
-  mutate(country = factor(country) |> fct_rev(),
-         essround = factor(essround))
+  mutate(
+    country = factor(country) |> fct_rev(),
+    essround = factor(essround)
+  )
 
 pl <-
   ggplot(pl_dt, aes(y = country, x = essround, size = n)) +
@@ -158,8 +165,8 @@ pl <-
 
 # plot(pl)
 ggsave("essprtv.png",
-       pl,
-       width = 20,
-       height = 25,
-       units = "cm")
-
+  pl,
+  width = 20,
+  height = 25,
+  units = "cm"
+)

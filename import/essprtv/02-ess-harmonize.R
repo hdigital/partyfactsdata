@@ -61,4 +61,3 @@ check_harmonized <-
   filter(is.na(first_ess_id) | is.na(country))
 
 raise_warning(check_harmonized, "Some ESS observations are not harmonized")
-

@@ -5,7 +5,7 @@ library(tidyverse)
 library(readstata13)
 
 
-ess_dta_path <- "source__ESS/"  # path of ESS rounds Stata data
+ess_dta_path <- "source__ESS/" # path of ESS rounds Stata data
 
 
 ## ESS waves ----
@@ -34,15 +34,17 @@ get_ess_parties <- function(ess_dta) {
     read.dta13(data_path) |>
     select(cntry, essround, starts_with(c("prtv", "prtc"))) |>
     pivot_longer(c(-cntry, -essround),
-                 names_to = "variable",
-                 values_to = "party")
+      names_to = "variable",
+      values_to = "party"
+    )
 
   party_id <-
     read.dta13(data_path, convert.factors = FALSE) |>
     select(cntry, essround, starts_with(c("prtv", "prtc"))) |>
     pivot_longer(c(-cntry, -essround),
-                 names_to = "variable",
-                 values_to = "party_id") |>
+      names_to = "variable",
+      values_to = "party_id"
+    ) |>
     pull(party_id)
 
   party["party_id"] <- party_id
@@ -51,7 +53,7 @@ get_ess_parties <- function(ess_dta) {
 }
 
 # party name and party ID for ESS rounds -- time intense so avoiding rereading
-if (! exists("ess_prt_raw")) {
+if (!exists("ess_prt_raw")) {
   ess_prt_raw <-
     map(ess_dta_files, \(.x) get_ess_parties(.x), .progress = TRUE) |>
     bind_rows()
@@ -65,21 +67,22 @@ ess_prt_out <-
   ess_prt_raw |>
   drop_na(party) |>
   distinct() |>
-  mutate(ess_id = case_when(
-    cntry %in% c("DE", "LT") & str_detect(variable, "prtv") ~ paste(
-      cntry,
-      essround,
-      party_id,
-      substr(variable, 4, 4),
-      str_sub(variable, -3, -1),
-      sep = "-"
+  mutate(
+    ess_id = case_when(
+      cntry %in% c("DE", "LT") & str_detect(variable, "prtv") ~ paste(
+        cntry,
+        essround,
+        party_id,
+        substr(variable, 4, 4),
+        str_sub(variable, -3, -1),
+        sep = "-"
       ),
-    T ~ paste(
-      cntry,
-      essround,
-      party_id,
-      substr(variable, 4, 4),
-      sep = "-"
+      T ~ paste(
+        cntry,
+        essround,
+        party_id,
+        substr(variable, 4, 4),
+        sep = "-"
       )
     )
   ) |>
@@ -102,8 +105,10 @@ ess_prt_out |>
 # find parties with different ids in prtv/prtc
 prt_vc_different <-
   ess_prt_out |>
-  mutate(variable = substr(variable, 1, 4),
-         ess_id_vc = str_remove(ess_id, "-v$|-c$")) |>
+  mutate(
+    variable = substr(variable, 1, 4),
+    ess_id_vc = str_remove(ess_id, "-v$|-c$")
+  ) |>
   distinct(ess_id, variable, .keep_all = TRUE) |>
   select(ess_id_vc, variable, party) |>
   pivot_wider(names_from = variable, values_from = party) |>
