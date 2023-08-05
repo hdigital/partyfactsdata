@@ -22,7 +22,8 @@ if (!exists("pf_party")) {
     )
 
   raw_pf_ext_raw <-
-    read_csv(glue("{url}/external-parties-csv/"),
+    read_csv(
+      glue("{url}/external-parties-csv/"),
       na = "",
       guess_max = 50000,
       show_col_types = FALSE
@@ -57,7 +58,8 @@ prt <-
     year = essround * 2 + 2000,
     essround = paste0("R", essround)
   ) |>
-  unite(ess_info,
+  unite(
+    ess_info,
     essround,
     ess_variable,
     ess_party,
@@ -164,7 +166,8 @@ pl <-
   guides(color = "none")
 
 # plot(pl)
-ggsave("essprtv.png",
+ggsave(
+  "essprtv.png",
   pl,
   width = 20,
   height = 25,

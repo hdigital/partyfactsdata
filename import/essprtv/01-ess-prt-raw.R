@@ -33,7 +33,8 @@ get_ess_parties <- function(ess_dta) {
   party <-
     read.dta13(data_path) |>
     select(cntry, essround, starts_with(c("prtv", "prtc"))) |>
-    pivot_longer(c(-cntry, -essround),
+    pivot_longer(
+      c(-cntry, -essround),
       names_to = "variable",
       values_to = "party"
     )
@@ -41,7 +42,8 @@ get_ess_parties <- function(ess_dta) {
   party_id <-
     read.dta13(data_path, convert.factors = FALSE) |>
     select(cntry, essround, starts_with(c("prtv", "prtc"))) |>
-    pivot_longer(c(-cntry, -essround),
+    pivot_longer(
+      c(-cntry, -essround),
       names_to = "variable",
       values_to = "party_id"
     ) |>
