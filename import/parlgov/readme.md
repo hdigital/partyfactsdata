@@ -1,6 +1,6 @@
 ## Source
 
-Döring, Holger, Constantin Huber and Philip Manow. 2022. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in modern democracies. Development version. – [parlgov.org](http://www.parlgov.org/)
+Döring, Holger, Alexandra Quaas, Maike Hesse, and Philip Manow. 2023. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies. Development version. – [parlgov.org](http://www.parlgov.org/)
 
 ## Import
 
