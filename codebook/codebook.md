@@ -23,7 +23,7 @@ body {
 -   Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of
     Political Parties Worldwide.” Party Politics 25(2): 97–109. doi:
     [10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671)
--   Bederke, Paul, Holger Döring, and Sven Regel. 2021. “Party Facts
+-   Bederke, Paul, Holger Döring, and Sven Regel. 2023. “Party Facts
     Dataverse.”
     [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
 
@@ -126,12 +126,12 @@ Examples for additional, optional inclusion criteria of parties:
 
 **Core parties** are observations that have been gathered by the Party
 Facts project. They can be added and edited on the Party Facts webpage.
-Currently we include around **5700 core parties**.
+Currently we include around **5900 core parties**.
 
 **External parties** are observations with party information extracted
 from other datasets – see [Party Facts
 Data](https://github.com/hdigital/partyfactsdata). Currently we include
-around **40000 external parties**.
+around **45000 external parties**.
 
 # Countries
 
@@ -257,8 +257,8 @@ Gandhi (1969-1977)” ).
     Bloc / League of Expellees and Deprived of
     Rights](https://partyfacts.herokuapp.com/data/partycodes/1010/)).
 -   **Identical names** used by different parties include the **first
-    year** in the English name ([Civic
-    Union (1912)](https://partyfacts.herokuapp.com/data/partycodes/4507/))
+    year** in the English name ([Civic Union
+    (1912)](https://partyfacts.herokuapp.com/data/partycodes/4507/))
 -   Optional or **temporal parts** of a party name are put in
     **brackets** (e.g. [\[United\] Democratic
     Party](https://partyfacts.herokuapp.com/data/partycodes/2305/))
@@ -279,8 +279,7 @@ Gandhi (1969-1977)” ).
     -   *Required*: Indicate the name of the language followed by a
         colon
     -   Several names are divided by a semicolon.
-    -   e.g. [Malayalam: ഇന്ത്യൻ യൂണിയൻ മുസ്ലിം ലീഗ്; Urdu: انڈین یونین
-        مسلم
+    -   e.g. [Malayalam: ഇന്ത്യൻ യൂണിയൻ മുസ്ലിം ലീഗ്; Urdu: انڈین یونین مسلم
         لیگ](https://partyfacts.herokuapp.com/data/partycodes/1455/)
     -   e.g. [French: Parti populaire chrétien-social; German:
         Christlich Soziale
@@ -387,7 +386,7 @@ In Party Facts we collect party level information from external
 datasets. We do not include these external datasets but **extract party
 information only**. Therefore different datasets from the social
 sciences are linked but are not combined. Currently around **60 external
-datasets** are imported and around **40000 external parties** are
+datasets** are imported and around **45000 external parties** are
 linked.
 
 ## Categories
@@ -586,6 +585,15 @@ addressed.
 # Changes
 
 ### Codebook
+
+2023-12-15
+
+-   update references
+-   update Party Facts coverage information
+
+2022-12-16
+
+-   update references
 
 2021-12-07
 
