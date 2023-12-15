@@ -25,8 +25,8 @@ The [import](import) folder contains all external datasets.
 
 You may submit your own dataset there.
 
-![Party Facts world map](codebook/graph-worldmap.png)
+![Party Facts world map](codebook/figure_worldmap.png)
 
 ---
 
-![Party Facts linking activity](codebook/graph-linking-activity.png)
+![Party Facts linking activity](codebook/figure_linking-activity.png)
