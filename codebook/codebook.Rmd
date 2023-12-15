@@ -31,7 +31,7 @@ body {
 
 + Paul Bederke (University of Konstanz) -- since 2019
 + Holger Döring (GESIS – Leibniz Institute for the Social Sciences) -- since 2012
-+ Sven Regel (WZB Berlin Social Science Center) -- since 2012
++ Sven Regel (WZB Berlin Social Science Center) -- 2012–2023
 </br>
 
 **Contact**
@@ -51,8 +51,8 @@ library(tidyverse)
 
 # core parties + countries
 pf_core <-
-  read_csv("https://partyfacts.herokuapp.com/download/core-parties-csv/", na = "") %>% 
-  filter(is.na(technical)) %>% 
+  read_csv("https://partyfacts.herokuapp.com/download/core-parties-csv/", na = "") %>%
+  filter(is.na(technical)) %>%
   summarise(
     number_countries = n_distinct(country),
     number_parties = round(n_distinct(partyfacts_id) / 100) * 100
@@ -97,10 +97,10 @@ world <- read_rds("worldmap.rds") %>% mutate(id=iso3)
 
 pf_dt <- pf_core_map %>% filter(is.na(technical))
 
-pf_map <- pf_dt %>% 
+pf_map <- pf_dt %>%
   group_by(country) %>%
   summarise(parties = n()) %>%
-  select(country, parties) %>% 
+  select(country, parties) %>%
   full_join(world %>% select(country=id))
 
 pl <- ggplot()
@@ -149,7 +149,7 @@ The project may add parties
 
 The respective threshold for including and linking parties from external datasets depends on the quality of the party level information (names, first/last year, election results) in the external source.
 
-We aim to avoid including small and short lived parties. If feasible, we remove these smaller parties during the import. 
+We aim to avoid including small and short lived parties. If feasible, we remove these smaller parties during the import.
 
 Examples for additional, optional inclusion criteria of parties:
 
@@ -252,7 +252,7 @@ If no common abbreviation is identifiable, a new short version is added.
   - Several names are divided by a semicolon.
   - e.g. [Malayalam: ഇന്ത്യൻ യൂണിയൻ മുസ്ലിം ലീഗ്; Urdu: انڈین یونین مسلم لیگ](https://partyfacts.herokuapp.com/data/partycodes/1455/)
   - e.g. [French: Parti populaire chrétien-social; German: Christlich Soziale Volkspartei](https://partyfacts.herokuapp.com/data/partycodes/539/)
-- **Wikipedia** -- A link to the party website on the English Wikipedia. We use this link to download the Wikipedia data (Infobox and Wikidata). 
+- **Wikipedia** -- A link to the party website on the English Wikipedia. We use this link to download the Wikipedia data (Infobox and Wikidata).
 - **Year first** -- Foundation of the party (usually automatically filled out based on source).
 If no information is available, the first election occurrence may be entered or the first year the party appears in an external dataset.
 - **Year last** --  Dissolution of the party. If no information is available, the last election occurrence may be entered. Leave empty if the party exists as of today.
@@ -261,7 +261,7 @@ If no information is available, the first election occurrence may be entered or 
 - **New** -- Genuinely new party, not formed through party change.
 - **Description** -- Further information about the party (e.g. evolution, name changes etc.).
 - **Comment** -- Comments about the coding to the party. May also include party relations such as predecessor, successor, name changes, mergers and alliances.
-- **Data** -- Additional data in [JSON](https://en.wikipedia.org/wiki/JSON) as a collection name–value pairs in an object. (e.g. '{"inclusion": "leader"}')  
+- **Data** -- Additional data in [JSON](https://en.wikipedia.org/wiki/JSON) as a collection name–value pairs in an object. (e.g. '{"inclusion": "leader"}')
 
 
 ## Deleting parties
@@ -585,7 +585,7 @@ We review all comments and mark them as solved once the issue has been addressed
 
 2021-07-15
 
-- completed removal of about 100 duplicates 
+- completed removal of about 100 duplicates
 
 2021-03-08
 
