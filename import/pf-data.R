@@ -1,11 +1,12 @@
 library(tidyverse)
 
-pl_dt <- 
+# use of magrittr pipe ('%>%') with placeholder ('.')
+pl_dt <-
   map_int(
     fs::dir_ls(type = "directory"),
     ~ read_csv(glue::glue("{.}/{.}.csv")) %>% nrow()
-  ) %>% 
-  tibble(dataset = names(.), parties = .) %>% 
+  ) %>%
+  tibble(dataset = names(.), parties = .) %>%
   mutate(dataset = fct_reorder(dataset, parties))
 
 pl <-
