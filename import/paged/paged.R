@@ -5,7 +5,6 @@ library(countrycode)
 file_in <- 
   read_csv("source__PAGED-basic-party-dataset-Dec-2023.csv", na = "")
 
-
 paged <- 
   file_in |> 
   mutate(
@@ -20,7 +19,7 @@ paged <-
   arrange(-seat_share) |> 
   slice(1L, .by = c(party_id)) |> 
   filter(seat_share >= 2.5 | !is.na(partyfacts_id)) |> 
-  select(countrycode, party_abbr, party_id, year_first, year_last, seat_share, year, partyfacts_id) |> 
+  select(countrycode, party_abbr, party_id, year_first, year_last, seat_share, year) |> 
   distinct() |> 
   mutate(
     countrycode = case_when(
@@ -29,6 +28,5 @@ paged <-
       T ~ countrycode
     )
   )
-
 
 write_csv(paged, "paged.csv", na = "")
