@@ -9,6 +9,7 @@ file_in <-
 paged <- 
   file_in |> 
   mutate(
+    party_abbr = if_else(party_abbr == "Other minor parties and/or independents", "Others/Indep.", party_abbr),
     countrycode = countrycode(country_id_iso, "iso3n", "iso3c"),
     year = as.numeric(str_extract(elecdate, "[:digit:]{4}")),
     seat_share = round(seats_party / seats * 100, 1),
