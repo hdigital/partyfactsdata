@@ -20,6 +20,15 @@ Additional party names are based on PF data. For the [PF-Web](https://partyfacts
 
 _Note_ — run all scripts in [PF-Data](https://github.com/hdigital/partyfactsdata/tree/master/import/essprtv) with — `purrr::map(fs::dir_ls(".", glob = "*R"), callr::rscript)`
 
+## Article
+
+Bederke, P. and Döring, H. (2023) “Harmonizing and linking party information: The ESS as an example of complex data linking”. Zenodo (preprint). doi: [10.5281/zenodo.10061173](https://doi.org/10.5281/zenodo.10061173)
+
+Bederke, P. and Döring, H. (2023) “Linking European Social Survey (ESS) party information”. Zenodo (software). doi: [10.5281/zenodo.8421232](https://doi.org/10.5281/zenodo.8421232)
+
+Code repository at [github.com/hdigital/ess-linking](https://github.com/hdigital/ess-linking/)
+and website at [hdigital.github.io/ess-linking](https://hdigital.github.io/ess-linking/)
+
 ## Credits
 
 + Paul Bederke
