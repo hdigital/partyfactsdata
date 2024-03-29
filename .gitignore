@@ -12,3 +12,4 @@
 source__*
 
 !.gitignore
+!.pre-commit-config.yaml
