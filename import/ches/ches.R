@@ -8,7 +8,7 @@ ches19 <- read_csv("ches-2019/ches-2019.csv")
 ches_all <-
   ches14 %>%
   select(-cmp_id) %>%
-  bind_rows(ches17) %>% 
+  bind_rows(ches17) %>%
   bind_rows(ches19)
 
 # first and last year

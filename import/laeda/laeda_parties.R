@@ -11,7 +11,7 @@ colnames(laeda) <- c("country_name", "office_office", "date", "party_name_short"
 ## Delete column 2
 laeda <- laeda[,-2]
 
-## added ISO3 
+## added ISO3
 laeda <- laeda %>%
   mutate(country_short = countrycode(country_name, "country.name", "iso3c")) %>%
   arrange(country_name, party_name) %>%

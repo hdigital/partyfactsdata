@@ -11,7 +11,7 @@ tags used: 3"
 AFG,5184,HDK,People's Democratic Party of Afghanistan,People's Democratic Party of Afghanistan,-1.35,1965,1992,100,1988,"tags position: left-wing
 tags ideology: left-wing nationalism // progressivism // secularism // socialism // marxism-leninism
 tags used: 6"
-ALB,8377,BK,Balli Kombëtar,National Front,0.88,1942,1945,,,"tags position: 
+ALB,8377,BK,Balli Kombëtar,National Front,0.88,1942,1945,,,"tags position:
 tags ideology: [ albanian nationalism ] // [ greater albania ] // anti-communism // republicanism // conservatism // big tent // [ agrarian socialism ] // monarchism
 tags used: 5"
 ALB,717,BLD,Bashkimi Liberal Demokrat,Liberal Democratic Union,-0.17,1995,2018,4,1996,"tags position: centre
@@ -80,7 +80,7 @@ tags used: 2"
 DZA,6219,MRI,Mouvement de la Renaissance Islamique,Movement of the Islamic Renaissance,0.87,1990,2018,8.9,1997,"tags position: centre-right // right-wing
 tags ideology: [ conservative democracy ] // [ islam and democracy ]
 tags used: 2"
-DZA,5221,MSPP,Mouvement de la société pour la paix / Hamas,Movement for the Society of Peace,0.97,1990,2018,18.2,1997,"tags position: 
+DZA,5221,MSPP,Mouvement de la société pour la paix / Hamas,Movement for the Society of Peace,0.97,1990,2018,18.2,1997,"tags position:
 tags ideology: [ sunni islam ] // [ islamism ] // [ islam and democracy ] // social conservatism // economic liberalism
 tags used: 2"
 DZA,5622,PT,Parti des Travailleurs,Workers' Party,-1.81,1990,2018,5.1,2007,"tags position: far-left
@@ -290,7 +290,7 @@ tags used: 2"
 ARM,2008,A,Ardarutyun,Justice,0.05,2003,2007,13.7,2003,"tags position: big tent // left-wing // right-wing
 tags ideology: big tent
 tags used: 4"
-ARM,2010,AIM,Azgayin Inknoroshum Miavorum,National Self-Determination Union,0.09,1987,2018,5.7,1995,"tags position: 
+ARM,2010,AIM,Azgayin Inknoroshum Miavorum,National Self-Determination Union,0.09,1987,2018,5.7,1995,"tags position:
 tags ideology: liberalism // pro-europeanism // [ western world ]
 tags used: 2"
 ARM,2009,AZhM,Azgayin Zhoghovrdakan Miutyun,National Democratic Union,0.08,1995,1999,7.7,1995,"tags position: centre
@@ -302,7 +302,7 @@ tags used: 4"
 ARM,7507,BA,Bright Armenia,Bright Armenia,0.18,2015,2018,6.4,2018,"tags position: centre
 tags ideology: classical liberalism // pro-europeanism
 tags used: 3"
-ARM,8012,CPA,Communist Party of Armenia,Communist Party of Armenia,-2.17,1920,1991,52.5,1990,"tags position: 
+ARM,8012,CPA,Communist Party of Armenia,Communist Party of Armenia,-2.17,1920,1991,52.5,1990,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 ARM,2012,HA,Hanrapetutyun,Republic,0.33,1995,2018,43.9,1995,"tags position: centre // centre-right
@@ -350,7 +350,7 @@ tags used: 4"
 ABW,5518,MEP,Movimiento Electoral di Pueblo,People's Electoral Movement,-0.61,1970,2018,43,2005,"tags position: centre-left
 tags ideology: social democracy // [ separatism ]
 tags used: 2"
-ABW,5517,RED,Red Eternal Democratico,Network of Eternal Democracy,-0.63,2005,2013,7,2005,"tags position: 
+ABW,5517,RED,Red Eternal Democratico,Network of Eternal Democracy,-0.63,2005,2013,7,2005,"tags position:
 tags ideology: [ cultural liberalism ] // progressivism // green politics
 tags used: 2"
 AUS,1743,ACP-NPA,Australian Country Party / National Party of Australia,Australian Country Party / National Party of Australia,0.74,1913,2018,12.6,1922,"tags position: centre-right
@@ -398,7 +398,7 @@ tags used: 2"
 AUS,663,FTP,Free Trade Party / Anti-Socialist Party,Free Trade Party / Anti-Socialist Party,0.64,1887,1909,38.2,1906,"tags position: centre-right
 tags ideology: economic liberalism // [ free trade ] // [ criticism of socialism ]
 tags used: 2"
-AUS,1997,Katter,Katter's Australian Party,Katter's Australian Party,0.86,2013,2018,1,2013,"tags position: 
+AUS,1997,Katter,Katter's Australian Party,Katter's Australian Party,0.86,2013,2018,1,2013,"tags position:
 tags ideology: agrarianism // conservatism // [ economic nationalism ]
 tags used: 2"
 AUS,1642,LCL,Liberal and Country League,Liberal and Country League,0.52,1934,1946,4.4,1946,"tags position: centre // centre-right
@@ -452,7 +452,7 @@ tags used: 5"
 AUT,2991,REKOS,Die Reformkonservativen,The Reform Conservatives,1.12,2013,2016,1.2,2014,"tags position: right-wing
 tags ideology: conservatism // euroscepticism
 tags used: 3"
-AUT,8223,FP,Föderalistische Partei,Federalist Party,0.85,1861,1907,,,"tags position: 
+AUT,8223,FP,Föderalistische Partei,Federalist Party,0.85,1861,1907,,,"tags position:
 tags ideology: christian democracy // [ protectionism ] // national conservatism // federalism
 tags used: 3"
 AUT,463,FPO,Freiheitliche Partei Österreichs,Freedom Party of Austria,1.37,1949,2018,26.9,1999,"tags position: right-wing // time (magazine) // far-right // centre // centre-right
@@ -461,7 +461,7 @@ tags used: 9"
 AUT,996,KPO,Kommunistische Partei Österreichs,Communist Party of Austria,-1.74,1945,2018,5.4,1945,"tags position: far-left
 tags ideology: communism // socialism
 tags used: 3"
-AUT,1708,MARTIN,Liste Dr. Hans-Peter Martin,Hans-Peter Martin's List,0.38,2004,2018,2.8,2006,"tags position: 
+AUT,1708,MARTIN,Liste Dr. Hans-Peter Martin,Hans-Peter Martin's List,0.38,2004,2018,2.8,2006,"tags position:
 tags ideology: populism // euroscepticism // [ anti-globalization movement ]
 tags used: 2"
 AUT,6137,PILZ,Liste Peter Pilz,Peter Pilz List,-0.94,2017,2017,4.4,2017,"tags position: centre-left // left-wing
@@ -497,7 +497,7 @@ tags used: 3"
 AZE,1993,ACP,Azərbaycan Kommunist Partiyası,Azerbaijan Communist Party (1993),-2.24,1993,2018,6.3,2000,"tags position: far-left
 tags ideology: communism // marxism-leninism
 tags used: 3"
-AZE,6223,AKP,Azərbaycan Kommunist Partiyası,Communist Party of Azerbaijan (1921),-2.16,1920,1991,100,1990,"tags position: 
+AZE,6223,AKP,Azərbaycan Kommunist Partiyası,Communist Party of Azerbaijan (1921),-2.16,1920,1991,100,1990,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 AZE,5877,AUP,Azərbaycan Ümid Partiyası,Azerbaijan Hope Party,0.21,1993,2018,7.8,2016,"tags position: centre-right
@@ -512,7 +512,7 @@ tags used: 3"
 AZE,7050,Mu,[Yeni] Müsavat Partiyası,Equality Party / New Musavat,0.08,1989,2018,4,2005,"tags position: centre
 tags ideology: liberalism // civic nationalism // [ pan-turkism ] // [ pan-islamism ]
 tags used: 3"
-BHS,3653,DNA,Democratic National Alliance,Democratic National Alliance,0.52,2011,2018,8.6,2012,"tags position: 
+BHS,3653,DNA,Democratic National Alliance,Democratic National Alliance,0.52,2011,2018,8.6,2012,"tags position:
 tags ideology: economic liberalism // [ fiscal conservatism ] // populism
 tags used: 2"
 BHS,3652,FNM,Free National Movement,Free National Movement,0.51,1970,2018,57.6,1997,"tags position: centre-right
@@ -551,7 +551,7 @@ tags used: 2"
 BGD,8568,KSP,Krishak Sramik Party,Farmer-People's Party,-0.5,1929,1958,,,"tags position: centre-left
 tags ideology: [ feudalism ] // agrarianism // progressivism // populism // social democracy
 tags used: 5"
-BGD,8569,PML,Pakistan Muslim League,Pakistan Muslim League,0.6,1962,1971,,,"tags position: 
+BGD,8569,PML,Pakistan Muslim League,Pakistan Muslim League,0.6,1962,1971,,,"tags position:
 tags ideology: conservatism // economic liberalism // [ fiscal conservatism ] // nationalism // [ centre ] // [ presidential system ] // [ parliamentary system ]
 tags used: 3"
 BGD,7519,WPB,Workers Party of Bangladesh,Workers Party of Bangladesh,-2.25,1980,2018,2.1,2014,"tags position: far-left
@@ -569,7 +569,7 @@ tags used: 4"
 BLR,2035,BSDP-H,Belarusskaya Social-Demokraticheskaya Partiya (Hromada),Belarusian Social Democratic Party (Assembly),-0.52,2005,2018,1,2004,"tags position: centre-left
 tags ideology: social democracy // [ liberal democracy ] // pro-europeanism
 tags used: 3"
-BLR,2036,BPP,Belorusskaia patrioticheskaia partiia,Belarusian Patriotic Party,-1.01,1995,2018,1.7,2015,"tags position: 
+BLR,2036,BPP,Belorusskaia patrioticheskaia partiia,Belarusian Patriotic Party,-1.01,1995,2018,1.7,2015,"tags position:
 tags ideology: socialism // social conservatism // [ alexander lukashenko ]
 tags used: 2"
 BLR,7406,BSDP-NH,Biełaruskaja Sacyjal-Demakratyčnaja Partyja (Narodnaja Hramada),Belarusian Social Democratic Party (People's Assembly),-0.61,1996,2005,2.8,2004,"tags position: centre-left
@@ -578,7 +578,7 @@ tags used: 2"
 BLR,7418,KPB,Kamunistyčnaja Partyja Bielarusi,Communist Party of Belarus,-2.24,1996,2018,4.3,2008,"tags position: far-left
 tags ideology: communism // marxism-leninism // [ soviet patriotism ] // [ union state ] // [ alexander lukashenko ]
 tags used: 3"
-BLR,8376,KPB-B,Kommunisticheskaya Partiya (Bolsheviki) Belorussii,Communist Party (bolsheviks) of Byelorussia,-2.17,1918,1991,,,"tags position: 
+BLR,8376,KPB-B,Kommunisticheskaya Partiya (Bolsheviki) Belorussii,Communist Party (bolsheviks) of Byelorussia,-2.17,1918,1991,,,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 BLR,2030,PKB,Partiya Komunistau Belaruskaya,"Party of Communists of Belarus / Belarusian Left Party ""A Just World""",-1.55,1991,2018,100,1990,"tags position: left-wing
@@ -671,7 +671,7 @@ tags used: 5"
 BEL,281,RW,Rassemblement Wallon,Walloon Rally,-0.15,1968,1981,6.7,1971,"tags position: centre // centre-left
 tags ideology: regionalism // [ walloon movement ] // [ rattachism ]
 tags used: 3"
-BEL,7008,RWF,Rassemblement Wallonie France,Rally Wallonia France,-1.2,1999,2018,1.5,2007,"tags position: 
+BEL,7008,RWF,Rassemblement Wallonie France,Rally Wallonia France,-1.2,1999,2018,1.5,2007,"tags position:
 tags ideology: [ walloon movement ] // [ rattachism ] // [ pluralism (political theory) ] // republicanism // socialism
 tags used: 2"
 BEL,7015,SPIRIT,Sociaal-Liberale Partij,Social Liberal Party,-0.28,2001,2009,10.3,2007,"tags position: centre // centre-left
@@ -704,19 +704,19 @@ tags used: 6"
 BLZ,3738,UDP,United Democratic Party,United Democratic Party,0.73,1974,2012,56.7,2008,"tags position: centre-right
 tags ideology: conservatism
 tags used: 2"
-BEN,5920,PDB,Democratic Party of Benin,Democratic Party of Benin,-0.52,1999,2006,2.1,1999,"tags position: 
+BEN,5920,PDB,Democratic Party of Benin,Democratic Party of Benin,-0.52,1999,2006,2.1,1999,"tags position:
 tags ideology: social democracy // third way
 tags used: 2"
 BEN,2300,FCBE,Forces Cauris pour un Bénin Emergent,Cowry Forces for an Emerging Benin,0.1,2007,2018,33.3,2011,"tags position: centre
 tags ideology: populism // liberalism
 tags used: 3"
-BEN,4089,FARD,Front D’Action pour le Renouveau et le Developpement,Action Front for Renewal and Development,-0.86,1994,2018,6.2,1995,"tags position: 
+BEN,4089,FARD,Front D’Action pour le Renouveau et le Developpement,Action Front for Renewal and Development,-0.86,1994,2018,6.2,1995,"tags position:
 tags ideology: democratic socialism // social democracy
 tags used: 2"
 BEN,3828,PCB,Parti Communiste du Benin,Communist Party of Benin,-2.25,1977,1998,3.3,1995,"tags position: far-left
 tags ideology: communism // marxism-leninism // [ hoxhaism ] // [ anti-revisionism ]
 tags used: 3"
-BEN,5413,PRPB,Parti de la Révolution Populaire du Bénin,People's Revolutionary Party of Benin,-1.96,1975,1990,100,1979,"tags position: 
+BEN,5413,PRPB,Parti de la Révolution Populaire du Bénin,People's Revolutionary Party of Benin,-1.96,1975,1990,100,1979,"tags position:
 tags ideology: communism // marxism-leninism // nationalism // [ authoritarianism ]
 tags used: 3"
 BEN,2365,PRD,Parti du renouveau démocratique,Democratic Renewal Party,-0.56,1990,2018,15.4,1995,"tags position: centre-left
@@ -725,7 +725,7 @@ tags used: 2"
 BEN,2368,PSD,Parti Social-Démocrate,Social Democratic Party,-0.79,1990,2018,7.7,1995,"tags position: centre-left
 tags ideology: social democracy // democratic socialism
 tags used: 3"
-BEN,6569,UN,Union fait la Nation,Union Makes the Nation,-0.77,2011,2019,36.1,2011,"tags position: 
+BEN,6569,UN,Union fait la Nation,Union Makes the Nation,-0.77,2011,2019,36.1,2011,"tags position:
 tags ideology: big tent // progressivism // social democracy // democratic socialism
 tags used: 4"
 BMU,3790,OBA,One Bermuda Alliance,One Bermuda Alliance,0.53,2011,2018,51.7,2012,"tags position: centre-right
@@ -779,7 +779,7 @@ tags used: 4"
 BOL,8312,MDS,Movimiento Demócrata Social,Democrat Social Movement,0.49,2013,2018,,,"tags position: centre-right
 tags ideology: liberal conservatism // federalism // regionalism
 tags used: 4"
-BOL,4392,MIP,Movimiento Indígena Pachakuti,Indigenous Pachakuti Movement,-1.08,2000,2005,5.7,2002,"tags position: 
+BOL,4392,MIP,Movimiento Indígena Pachakuti,Indigenous Pachakuti Movement,-1.08,2000,2005,5.7,2002,"tags position:
 tags ideology: [ indigenismo ] // [ minority rights ] // socialism // nationalism
 tags used: 2"
 BOL,568,MNR,Movimiento Nacionalista Revolucionario,Revolutionary Nationalist Movement,-0.24,1942,2018,21.8,1989,"tags position: centre-right // centre-left // left-wing
@@ -791,7 +791,7 @@ tags used: 4"
 BOL,4386,NFR,Nueva Fuerza Republicana,New Republic Force,0.64,1995,2018,18.3,2002,"tags position: centre-right
 tags ideology: populism // conservatism
 tags used: 3"
-BOL,8693,PCB,Partido Comunista de Bolivia,Communist Party of Bolivia,-2.16,1950,2003,,,"tags position: 
+BOL,8693,PCB,Partido Comunista de Bolivia,Communist Party of Bolivia,-2.16,1950,2003,,,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 BOL,5107,PIR,Partido de la Izquierda Revolucionaria,Revolutionary Left Party,-1.67,1940,1964,32.4,1947,"tags position: left-wing // far-left
@@ -806,7 +806,7 @@ tags used: 7"
 BOL,5108,LP,Partido Liberal,Liberal Party,0.1,1883,1978,71.5,1894,"tags position: big tent
 tags ideology: liberalism
 tags used: 2"
-BOL,5110,PN,Partido Nacionalista,Nationalist Party,0.12,1926,1936,41,1928,"tags position: 
+BOL,5110,PN,Partido Nacionalista,Nationalist Party,0.12,1926,1936,41,1928,"tags position:
 tags ideology: nationalism // reformism
 tags used: 2"
 BOL,5111,PRG,Partido Republicano Genuino,Genuine Republican Party,1.05,1921,1946,23.6,1927,"tags position: right-wing
@@ -914,7 +914,7 @@ tags used: 8"
 BRA,2489,PCB,Partido Comunista Brasile,Brazilian Communist Party,-2.24,1922,2018,8.6,1945,"tags position: far-left
 tags ideology: communism // marxism-leninism
 tags used: 3"
-BRA,565,PCdoB,Partido Comunista do Brasil,Communist Party of Brazil,-2.17,1962,2018,2.8,2010,"tags position: 
+BRA,565,PCdoB,Partido Comunista do Brasil,Communist Party of Brazil,-2.17,1962,2018,2.8,2010,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 BRA,8386,PC,Partido Conservador,Conservative Party,0.88,1836,1989,,,"tags position: right-wing
@@ -924,7 +924,7 @@ BRA,1536,PFL,Partido da Frente Liberal /  Democratas,Liberal Front / Democrats,0
 tags ideology: liberal conservatism // economic liberalism // classical liberalism // christian democracy
 tags used: 5"
 BRA,4410,PRN/PTC,Partido da Reconstrucao Nacional / Partido Trabalhista Cristão,National Reconstruction Party / Christian Labour Party,0.57,1985,2018,8.3,1990,"tags position: centre // centre-right // right-wing
-tags ideology: 
+tags ideology:
 tags used: 3"
 BRA,4405,PR/PL,Partido da República / Partido Liberal,Party of the Republic / Liberal Party,1.08,2006,2018,7.6,2010,"tags position: centre-right // right-wing
 tags ideology: conservatism // [ oxford university press ] // [ cambridge university press ] // [ princeton university press ] // economic liberalism // right-wing populism // [ national liberalism ]
@@ -1016,7 +1016,7 @@ tags used: 4"
 BRA,4407,UDN,União Democrática Nacional,National Democratic Union,0.64,1945,1965,32.5,1947,"tags position: centre-right
 tags ideology: conservatism // classical liberalism
 tags used: 3"
-VGB,3760,NDP,National Democratic Party,National Democratic Party,-0.64,1999,2018,53.1,2003,"tags position: 
+VGB,3760,NDP,National Democratic Party,National Democratic Party,-0.64,1999,2018,53.1,2003,"tags position:
 tags ideology: social democracy // progressivism
 tags used: 2"
 BGR,7809,ZS-AS,"Agrarian Union ""Aleksandar Stamboliyski""","Agrarian Union ""Aleksandar Stamboliyski""",-0.5,1993,2018,0.4,2009,"tags position: centre-left
@@ -1049,7 +1049,7 @@ tags used: 3"
 BGR,6750,BRSDP,Bulgarian Workers' Social Democratic Party,Bulgarian Workers' Social Democratic Party,-0.86,1894,1903,5,1901,"tags position: left-wing
 tags ideology: social democracy
 tags used: 2"
-BGR,149,BEL,Bulgarska Evrolevista,Bulgarian Euro-Left Coalition,-0.51,1997,2000,5.6,1997,"tags position: 
+BGR,149,BEL,Bulgarska Evrolevista,Bulgarian Euro-Left Coalition,-0.51,1997,2000,5.6,1997,"tags position:
 tags ideology: social democracy // pro-europeanism
 tags used: 2"
 BGR,5861,DB,Da Bulgaria,"Yes, Bulgaria!",0.08,2017,2018,3,2017,"tags position: centre
@@ -1112,7 +1112,7 @@ tags used: 3"
 BGR,661,PBSD,Partiya balgarski sotsialdemokrati,Party of Bulgarian Social Democrats,-0.61,1989,2018,1.9,2007,"tags position: centre-left
 tags ideology: social democracy
 tags used: 2"
-BGR,5649,PF,Patriotichen front,Patriotic Front,1.91,2014,2017,7.3,2014,"tags position: 
+BGR,5649,PF,Patriotichen front,Patriotic Front,1.91,2014,2017,7.3,2014,"tags position:
 tags ideology: nationalism // national conservatism // right-wing populism
 tags used: 3"
 BGR,8187,PG,Prezaredi Balgariya,Reload Bulgaria,1.07,2014,2018,5.7,2014,"tags position: centre-right
@@ -1157,7 +1157,7 @@ tags used: 2"
 BFA,4313,CDP,Congrès pour la Démocratie et le Progrès,Congress for Democracy and Progress,-0.61,1996,2018,48.7,2012,"tags position: centre-left
 tags ideology: social democracy
 tags used: 2"
-BFA,8740,CFD,Convention des Forces Démocratiques,Convention of Democratic Forces,-0.49,2007,2018,2.4,2012,"tags position: 
+BFA,8740,CFD,Convention des Forces Démocratiques,Convention of Democratic Forces,-0.49,2007,2018,2.4,2012,"tags position:
 tags ideology: big tent // [ democracy ] // green politics
 tags used: 2"
 BFA,7331,RPF,French Rassemblement du Peuple Français,Rally of the French People,1.06,1947,1955,15,1952,"tags position: right-wing
@@ -1181,7 +1181,7 @@ tags used: 3"
 BFA,4317,PDS/Metba,Parti pour la démocratie et le socialisme / Metba,Party for Democracy and Socialism / Metba,-1.54,2012,2018,3.9,2012,"tags position: left-wing
 tags ideology: communism // socialism
 tags used: 3"
-BFA,6415,FP,Popular Front,Popular Front,-1.38,1987,1987,,,"tags position: 
+BFA,6415,FP,Popular Front,Popular Front,-1.38,1987,1987,,,"tags position:
 tags ideology: communism // marxism-leninism // social democracy
 tags used: 3"
 BFA,4316,UNIR/PS,Union pour la Renaissance / Mouvement Sankariste,Union for Rebirth / Sankarist Movement,-1.29,2000,2018,4.4,2012,"tags position: left-wing
@@ -1205,7 +1205,7 @@ tags used: 4"
 KHM,4722,DP,Democratic Party,Democratic Party,-1.55,1946,1957,12.3,1955,"tags position: left-wing
 tags ideology: [ khmer nationalism ] // [ anti-imperialism ] // socialism // communism // [ marxism ]
 tags used: 3"
-KHM,8505,FUNSK,Front Uni National pour le Salut du Kampuchéa,Kampuchean United Front for National Salvation,-2.17,1978,1981,,,"tags position: 
+KHM,8505,FUNSK,Front Uni National pour le Salut du Kampuchéa,Kampuchean United Front for National Salvation,-2.17,1978,1981,,,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 KHM,3764,FUNC-INPEC,"Front Uni National pour un Cambodge Indépendant, Neutre, Pacifique, et Coopératif (French)","National United Front for an Independent, Neutral, Peaceful, and Cooperative Cambodia",0.77,1981,2018,5.1,2008,"tags position: centre-right
@@ -1238,7 +1238,7 @@ tags used: 4"
 KHM,4721,Sangkum,Sangkum Reastr Niyum,People's Socialist Community,1,1955,1970,82.7,1955,"tags position: big tent
 tags ideology: [ khmer nationalism ] // national conservatism // [ royalist ] // [ statism ] // [ buddhist socialism ] // [ economic nationalism ]
 tags used: 2"
-CMR,3774,RDPC,Rassemblement Démocratique du Peuple Camerounais,Cameroon People’s Democratic Movement,0.31,1960,2018,64.8,2002,"tags position: 
+CMR,3774,RDPC,Rassemblement Démocratique du Peuple Camerounais,Cameroon People’s Democratic Movement,0.31,1960,2018,64.8,2002,"tags position:
 tags ideology: big tent // nationalism // [ francophile ] // populism
 tags used: 3"
 CMR,3682,SDF,Social Democratic Front,Social Democratic Front,-0.61,1990,2018,23.5,1997,"tags position: centre-left
@@ -1247,13 +1247,13 @@ tags used: 2"
 CMR,5411,UPC,Union des Populations du Cameroun,Union of the Peoples of Cameroon,-1.21,1947,2018,20.8,1960,"tags position: left-wing
 tags ideology: nationalism // [ marxism ] // socialism // [ decolonization ] // [ independence ]
 tags used: 3"
-CMR,5791,UNC,Union nationale camérounaise,Cameroonian National Union,0.3,1966,1985,100,1979,"tags position: 
+CMR,5791,UNC,Union nationale camérounaise,Cameroonian National Union,0.3,1966,1985,100,1979,"tags position:
 tags ideology: big tent // nationalism // [ francophile ] // populism
 tags used: 3"
 CMR,3775,UNDP,Union Nationale pour la Démocratie et le Progrès,National Union for Democracy and Progress,1.27,1997,2002,13.3,1997,"tags position: right-wing
 tags ideology: anti-communism
 tags used: 2"
-CAN,3640,ACP,Anti-Confederation Party,Anti-Confederation Party,0.24,1867,1867,7.9,1867,"tags position: 
+CAN,3640,ACP,Anti-Confederation Party,Anti-Confederation Party,0.24,1867,1867,7.9,1867,"tags position:
 tags ideology: regionalism // populism // [ canadian nationalism ]
 tags used: 2"
 CAN,1428,BQ,Bloc Québécois,Quebec Bloc,-0.55,1993,2018,13.5,1993,"tags position: centre-left
@@ -1313,7 +1313,7 @@ tags used: 2"
 CYM,3788,UnDePa,United Democratic Party,United Democratic Party,0.32,2005,2009,55.8,2009,"tags position: centre // centre-right
 tags ideology: [ fiscal conservatism ] // classical liberalism // [ neoliberalism ]
 tags used: 3"
-CAF,8411,FC,Forum Civique,Civic Forum,0.67,1991,2018,,,"tags position: 
+CAF,8411,FC,Forum Civique,Civic Forum,0.67,1991,2018,,,"tags position:
 tags ideology: conservatism // republicanism // federalism
 tags used: 3"
 CAF,5607,FPP,Front Patriotique pour le Progrès,Patriotic Front for Progress,-0.78,1991,2010,6.4,1998,"tags position: centre-left
@@ -1322,7 +1322,7 @@ tags used: 3"
 CAF,4897,MLPC,Mouvement pour la Libération du Peuple Centrafricain,Movement for the Liberation of the Central African People,-0.87,1978,2018,43.1,1998,"tags position: centre-left // left-wing
 tags ideology: democratic socialism // social democracy // republicanism
 tags used: 5"
-CAF,4710,MESAN,Mouvement pour l'évolution sociale de l'Afrique noire,Movement for the Social Evolution of Black Africa,-0.06,1949,1979,100,1964,"tags position: 
+CAF,4710,MESAN,Mouvement pour l'évolution sociale de l'Afrique noire,Movement for the Social Evolution of Black Africa,-0.06,1949,1979,100,1964,"tags position:
 tags ideology: [ african nationalism ] // [ pan-africanism ] // progressivism // [ decolonization ] // [ anti-imperialism ] // monarchism
 tags used: 2"
 CAF,4896,KNK,"National Convergence ""Kwa Na Kwa""","Convergence Nationale ""Kwa Na Kwa""",-0.61,2009,2018,61,2009,"tags position: centre-left
@@ -1355,7 +1355,7 @@ tags used: 3"
 CHL,6061,A,Alianza,Alliance,0.72,1989,2015,36.2,2013,"tags position: centre-right // right-wing
 tags ideology: liberal conservatism
 tags used: 3"
-CHL,4822,ALP,Alianza de Liberación Popular,Popular Freedom Alliance,0.37,1941,1945,1.4,1945,"tags position: 
+CHL,4822,ALP,Alianza de Liberación Popular,Popular Freedom Alliance,0.37,1941,1945,1.4,1945,"tags position:
 tags ideology: nationalism // populism
 tags used: 2"
 CHL,7020,A,Amplitude,Amplitude,0.14,2014,2018,1,2017,"tags position: centre
@@ -1406,7 +1406,7 @@ tags used: 2"
 CHL,4634,PCU,Partido Conservador Unido,United Conservative Party,1.17,1953,1966,5.3,1965,"tags position: centre-right // right-wing
 tags ideology: [ conservatism in canada ] // [ fiscal conservatism ] // economic liberalism // right-wing populism // social conservatism // [ libertarianism ] // [ autonomism (political doctrine) ]
 tags used: 5"
-CHL,4644,PDem,Partido Demócrata,Democratic Party,-0.27,1887,1941,7.7,1932,"tags position: 
+CHL,4644,PDem,Partido Demócrata,Democratic Party,-0.27,1887,1941,7.7,1932,"tags position:
 tags ideology: social democracy // social liberalism // [ centre ]
 tags used: 2"
 CHL,390,PDC,Partido Demócrata Cristiano,Christian Democratic Party,-0.19,1957,2018,26,1989,"tags position: centre // centre-left
@@ -1421,10 +1421,10 @@ tags used: 3"
 CHL,7018,PI,Partido Igualdad,Equality Party,-1.24,2009,2018,1.1,2013,"tags position: left-wing
 tags ideology: [ socialism of the 21st century ] // [ marxism ] // left-wing populism // [ anti-capitalism ] // [ anti-imperialism ]
 tags used: 2"
-CHL,4633,PL,Partido Liberal,Liberal Party,0.24,1849,1966,7.5,1965,"tags position: 
+CHL,4633,PL,Partido Liberal,Liberal Party,0.24,1849,1966,7.5,1965,"tags position:
 tags ideology: liberalism // classical liberalism // economic liberalism
 tags used: 3"
-CHL,4647,PL — A,Partido Liberal — Aliancistas,Liberal Party — Aliancistas,0.25,1920,1929,12.2,1921,"tags position: 
+CHL,4647,PL — A,Partido Liberal — Aliancistas,Liberal Party — Aliancistas,0.25,1920,1929,12.2,1921,"tags position:
 tags ideology: liberalism // classical liberalism // economic liberalism
 tags used: 3"
 CHL,7019,PLC,Partido Liberal de Chile,Liberal Party of Chile,-0.28,2013,2018,1.7,2017,"tags position: centre-left
@@ -1478,7 +1478,7 @@ tags used: 3"
 CHL,1599,UDI,Unión Demócrata Independiente,Independent Democratic Union,1.32,1983,2018,9.4,1989,"tags position: right-wing
 tags ideology: conservatism // [ christian right ] // social conservatism // national conservatism // economic liberalism // anti-communism // [ opposition to immigration ]
 tags used: 6"
-CHN,5124,CPC,Communist Party of China,Communist Party of China,-2.16,1921,2018,100,1948,"tags position: 
+CHN,5124,CPC,Communist Party of China,Communist Party of China,-2.16,1921,2018,100,1948,"tags position:
 tags ideology: communism // marxism-leninism // [ maoism ] // [ socialist patriotism ] // [ chinese nationalism ]
 tags used: 2"
 CHN,8372,J/CT,Jinbudang/Chin-pu Tang,Progressive Party,1.08,1913,1916,,,"tags position: right-wing
@@ -1641,7 +1641,7 @@ HRV,78,DC,Demokratski centar,Democratic Centre,0.54,2000,2018,0.7,2011,"tags pos
 tags ideology: liberal conservatism
 tags used: 2"
 HRV,8608,DK,Domoljubna koalicija,Patriotic Coalition,0.87,2015,2016,37.1,2015,"tags position: centre-right // right-wing
-tags ideology: 
+tags ideology:
 tags used: 2"
 HRV,8981,DP,Domovinski pokret,Homeland Movement,1.52,2020,2018,10.9,2020,"tags position: right-wing
 tags ideology: [ croatian nationalism ] // right-wing populism // national conservatism // social conservatism // conservatism // euroscepticism
@@ -1745,7 +1745,7 @@ tags used: 2"
 HRV,7221,SP,Stranka prava,Party of Rights,1.52,1861,1929,14.3,1883,"tags position: right-wing // far-right
 tags ideology: [ croatian nationalism ] // [ greater croatia ] // national conservatism // monarchism // republicanism
 tags used: 5"
-HRV,4867,ZiZi,Živi zid,Human Shield,0.37,2011,2018,4,2015,"tags position: 
+HRV,4867,ZiZi,Živi zid,Human Shield,0.37,2011,2018,4,2015,"tags position:
 tags ideology: populism // euroscepticism // [ anti-establishment ] // [ sovereigntism ] // [ protectionism ]
 tags used: 2"
 CUB,8380,M-26-7,Movimiento 26 de Julio,26th of July Movement,-1.32,1955,1962,,,"tags position: far-left
@@ -1835,7 +1835,7 @@ tags used: 2"
 CYP,6108,UBP,National Unity Party,Ulusal Birlik Partisi,0.96,1975,2018,44,2009,"tags position: right-wing
 tags ideology: [ turkish nationalism ] // conservatism // [ two-state solution (cyprus) ] // liberal conservatism // national conservatism
 tags used: 4"
-CYP,4893,PF,Patriotic Front,Patriotic Front,0.92,1959,1970,85.7,1960,"tags position: 
+CYP,4893,PF,Patriotic Front,Patriotic Front,0.92,1959,1970,85.7,1960,"tags position:
 tags ideology: [ enosis ] // nationalism // conservatism
 tags used: 2"
 CYP,6198,TDP,"Toplumcu Demokrasi Partisi,",Communal Democracy Party,-0.61,2007,2018,7.4,2013,"tags position: centre-left
@@ -1844,7 +1844,7 @@ tags used: 2"
 CZE,2141,ANO,Akce nespokojených občanů,Action of Dissatisfied Citizens,0.36,2011,2018,18.6,2013,"tags position: centre // centre-right
 tags ideology: populism // [ syncretic politics ] // conservative liberalism
 tags used: 4"
-CZE,5610,BdL,Bund der Landwirte,Farmers' League,0.85,1919,1938,8,1925,"tags position: 
+CZE,5610,BdL,Bund der Landwirte,Farmers' League,0.85,1919,1938,8,1925,"tags position:
 tags ideology: agrarianism // conservatism // [ german nationalism ]
 tags used: 2"
 CZE,2047,Pi,Ceska piratska strana,Czech Pirate Party,-0.14,2009,2018,10.8,2017,"tags position: centre // centre-left
@@ -1898,7 +1898,7 @@ tags used: 3"
 CZE,1041,KSC,Komunistická strana Československa,Communist Party of Czechoslovakia,-2.24,1921,1990,13.2,1925,"tags position: far-left
 tags ideology: communism // marxism-leninism // [ stalinism ]
 tags used: 3"
-CZE,6798,KSS,Komunistická strana Slovenska,Communist Party of Slovakia,-2.15,1939,1990,6.9,1946,"tags position: 
+CZE,6798,KSS,Komunistická strana Slovenska,Communist Party of Slovakia,-2.15,1939,1990,6.9,1946,"tags position:
 tags ideology: communism // marxism-leninism // [ stalinism ]
 tags used: 2"
 CZE,676,KDU/CSL,Křesťanská a demokratická unie / Československá strana lidová,Christian Democratic Union / People's Party,0.37,1992,2018,14.3,2002,"tags position: centre // centre-right
@@ -2108,10 +2108,10 @@ tags used: 3"
 COD,6208,FR,Forces du Renouveau,Forces for Renewal,0.19,2003,2018,7.6,2006,"tags position: centre-right
 tags ideology: federalism // liberalism
 tags used: 3"
-COD,7426,MNC-K,Mouvement national Congolais - Kalonji,Congolese National Movement - Kalonji,0.01,1959,1965,6.6,1960,"tags position: 
+COD,7426,MNC-K,Mouvement national Congolais - Kalonji,Congolese National Movement - Kalonji,0.01,1959,1965,6.6,1960,"tags position:
 tags ideology: [ congolese nationalism (democratic republic of the congo) ] // [ patrice lumumba ] // civic nationalism // federalism // [ tribalism ] // [ pan-africanism ]
 tags used: 2"
-COD,6050,MNC-L,Mouvement national Congolais - Lumumba,Congolese National Movement - Lumumba,0.01,1959,1965,23.4,1960,"tags position: 
+COD,6050,MNC-L,Mouvement national Congolais - Lumumba,Congolese National Movement - Lumumba,0.01,1959,1965,23.4,1960,"tags position:
 tags ideology: [ congolese nationalism (democratic republic of the congo) ] // [ patrice lumumba ] // civic nationalism // federalism // [ tribalism ] // [ pan-africanism ]
 tags used: 2"
 COD,5089,MLC,Mouvement pour la Liberation du Congo,Movement for the Liberation of the Congo,0.76,2003,2018,12.8,2006,"tags position: right-wing
@@ -2285,10 +2285,10 @@ tags used: 3"
 EST,4094,EKRE,Eesti Konservatiivne Rahvaerakond,Conservative People’s Party,1.77,2012,2018,8.1,,"tags position: right-wing // far-right
 tags ideology: national conservatism // right-wing populism
 tags used: 4"
-EST,790,EKD,Eesti Kristlikud Demokraadid,Estonian Christian Democrats,0.6,1990,2018,2.4,1999,"tags position: 
+EST,790,EKD,Eesti Kristlikud Demokraadid,Estonian Christian Democrats,0.6,1990,2018,2.4,1999,"tags position:
 tags ideology: christian democracy // euroscepticism
 tags used: 2"
-EST,7238,EKP,Eestimaa Kommunistlik Partei,Communist Party of Estonia,-2.16,1920,1990,92.8,1940,"tags position: 
+EST,7238,EKP,Eestimaa Kommunistlik Partei,Communist Party of Estonia,-2.16,1920,1990,92.8,1940,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 EST,174,EME,Eesti Maarahva Erakond,Estonian Country People's Party,-0.15,1994,1999,7.3,1999,"tags position: centre // centre-left
@@ -2339,7 +2339,7 @@ tags used: 2"
 EST,429,TEE,Tuleviku Eesti Erakond,Estonian Future Party,1.98,1993,1999,2.6,1995,"tags position: far-right
 tags ideology: [ estonian nationalism ] // right-wing populism // euroscepticism
 tags used: 3"
-EST,491,UVE/RP,Ühendus vabariigi eest / Res Publica,Union for the Republic / Res Publica Party,0.67,2001,2006,24.6,2003,"tags position: 
+EST,491,UVE/RP,Ühendus vabariigi eest / Res Publica,Union for the Republic / Res Publica Party,0.67,2001,2006,24.6,2003,"tags position:
 tags ideology: conservatism // populism
 tags used: 2"
 ETH,4323,CUD|CDU,Coalition for Unity and Democracy,Coalition for Unity and Democracy,0.19,2004,2007,19.9,2005,"tags position: centre-right
@@ -2387,7 +2387,7 @@ tags used: 4"
 EUN,6403,G/EFA,The Greens / European Free Alliance,The Greens / European Free Alliance,-0.59,1999,2018,6.9,2014,"tags position: centre-left // left-wing
 tags ideology: green politics // regionalism // [ ethnic party ] // pro-europeanism
 tags used: 5"
-EUN,8760,UEN,Union for Europe of the Nations,Union for Europe of the Nations,1.26,1999,2009,5.6,2008,"tags position: 
+EUN,8760,UEN,Union for Europe of the Nations,Union for Europe of the Nations,1.26,1999,2009,5.6,2008,"tags position:
 tags ideology: national conservatism // conservatism // euroscepticism
 tags used: 3"
 FRO,5530,F,Framsókn,Progress,0.08,2011,2018,7,2015,"tags position: centre
@@ -2498,7 +2498,7 @@ tags used: 2"
 FRA,1629,CNIP,Centre National des Indépendants et Paysans,National Centre of Independents and Peasants,0.77,1949,2018,20,1958,"tags position: right-wing // centre-right
 tags ideology: [ french nationalism ] // conservatism // agrarianism // euroscepticism // conservative liberalism // economic liberalism // pro-europeanism
 tags used: 8"
-FRA,1313,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",0.7,1989,2004,1.7,2002,"tags position: 
+FRA,1313,CPNT,"Chasse, pêche, nature, traditions","Hunting, Fishing, Nature, Tradition",0.7,1989,2004,1.7,2002,"tags position:
 tags ideology: agrarianism // [ alter-globalization ] // euroscepticism
 tags used: 2"
 FRA,3207,DLF,Debout la France,France Arise,1.82,2008,2018,1.2,2017,"tags position: right-wing // far-right // europe 1
@@ -2696,13 +2696,13 @@ tags used: 2"
 GEO,4551,MM-TST,Mrgvali Magida -Tavisufali Saqar Tvelo,Round Table - Free Georgia,1.05,1990,1993,54,1990,"tags position: centre-right // right-wing
 tags ideology: [ georgian nationalism ] // national conservatism // christian democracy // anti-communism // [ anti-sovietism ] // [ constitutional monarchy ]
 tags used: 5"
-GEO,2161,NDPG,Sakartvelos Erovnul Demokratiuli Partia,National Democratic Party of Georgia,0.33,1988,2018,8.2,1992,"tags position: 
+GEO,2161,NDPG,Sakartvelos Erovnul Demokratiuli Partia,National Democratic Party of Georgia,0.33,1988,2018,8.2,1992,"tags position:
 tags ideology: christian democracy // pro-europeanism // [ georgian nationalism ]
 tags used: 2"
 GEO,7088,SEKP,"Sakartvelos Ertiani Komunisturi Partia, abbreviated",Unified Communist Party of Georgia,-2.24,1994,2018,41.8,1999,"tags position: far-left
 tags ideology: communism // marxism-leninism // [ soviet patriotism ]
 tags used: 3"
-GEO,4540,SKP,Sak'art'velos Komunisturi Partia,Communist Party of Georgia,-2.16,1921,1992,29.6,1990,"tags position: 
+GEO,4540,SKP,Sak'art'velos Komunisturi Partia,Communist Party of Georgia,-2.16,1921,1992,29.6,1990,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 GEO,2153,SLP,Sakartvelos Leiboristuli Partia,Georgian Labour Party,-0.67,1995,2018,12,2003,"tags position: centre-left
@@ -2732,7 +2732,7 @@ tags used: 3"
 DDR,389,BFD,Bund Freier Demokraten,Association of Free Democrats,0.33,1990,1990,5.3,1990,"tags position: centre // centre-right
 tags ideology: classical liberalism // [ liberal democracy ] // [ national liberalism ] // [ centre ] // [ german reunification ]
 tags used: 3"
-DDR,807,B90,Bündnis 90,Alliance 90,-0.28,1990,1991,2.9,1990,"tags position: 
+DDR,807,B90,Bündnis 90,Alliance 90,-0.28,1990,1991,2.9,1990,"tags position:
 tags ideology: [ civil and political rights ] // anti-communism // green politics // big tent
 tags used: 3"
 DDR,8607,DA,Demokratischer Aufbruch,Democratic Awakening,0.53,1989,1990,1,1990,"tags position: centre-right
@@ -2744,7 +2744,7 @@ tags used: 8"
 DDR,1791,Gru,Grüne Partei,Greens,-0.57,1989,1991,2,1990,"tags position: centre-left
 tags ideology: green politics
 tags used: 2"
-DDR,1334,NDPD,National-Demokratische Partei Deutschlands,National Democratic Party,0.2,1948,1990,10.4,1963,"tags position: 
+DDR,1334,NDPD,National-Demokratische Partei Deutschlands,National Democratic Party,0.2,1948,1990,10.4,1963,"tags position:
 tags ideology: conservatism // national conservatism // socialism // [ centre ] // [ national liberalism ]
 tags used: 3"
 DDR,1054,PDS,Partei des Demokratischen Sozialismus,Party for Democratic Socialism,-1.19,1989,1990,16.4,1990,"tags position: left-wing
@@ -2861,7 +2861,7 @@ tags used: 3"
 DEU,1135,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,-2.24,1919,1956,14.3,1932,"tags position: far-left
 tags ideology: communism // marxism-leninism
 tags used: 3"
-DEU,2109,LV,Liberale Vereinigung,Liberal Union,0.21,1880,1884,8.1,1881,"tags position: 
+DEU,2109,LV,Liberale Vereinigung,Liberal Union,0.21,1880,1884,8.1,1881,"tags position:
 tags ideology: liberalism // [ parliamentary sovereignty ] // economic liberalism
 tags used: 2"
 DEU,2110,NLP,Nationalliberale Partei,National Liberal Party,0.37,1867,1918,30.1,1871,"tags position: centre // centre-right
@@ -2876,7 +2876,7 @@ tags used: 3"
 DEU,383,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,-0.53,1875,2018,45.8,1972,"tags position: centre-left
 tags ideology: social democracy // pro-europeanism
 tags used: 3"
-DEU,50,SSW,Südschleswigscher Wählerverband,South Schleswig Voter League,-0.16,1948,2018,0.3,1949,"tags position: 
+DEU,50,SSW,Südschleswigscher Wählerverband,South Schleswig Voter League,-0.16,1948,2018,0.3,1949,"tags position:
 tags ideology: regionalism // [ ethnic party ] // social liberalism
 tags used: 2"
 DEU,749,Tier,Tierschutzpartei,Animal Welfare Party,-0.53,1993,2018,1.3,2004,"tags position: centre-left
@@ -2894,7 +2894,7 @@ tags used: 2"
 GHA,2312,NPP,New Patriotic Party,New Patriotic Party,0.39,1992,2018,48.9,2004,"tags position: centre-right
 tags ideology: liberal conservatism // conservatism // liberalism
 tags used: 4"
-GHA,4843,PCP,People's Convention Party,People's Convention Party,-1.24,1992,1996,6,1996,"tags position: 
+GHA,4843,PCP,People's Convention Party,People's Convention Party,-1.24,1992,1996,6,1996,"tags position:
 tags ideology: [ nkrumaism ] // nationalism // left-wing nationalism // socialism // [ anti-imperialism ] // [ pan-africanism ]
 tags used: 3"
 GHA,4837,PNP,People's National Party,People's National Party,-1.29,1979,1981,36.4,1979,"tags position: left-wing
@@ -3200,7 +3200,7 @@ tags used: 3"
 GTM,1035,PAN,Partido de Avanzada Nacional,National Advancement Party,0.73,1989,2018,26.4,1995,"tags position: centre-right
 tags ideology: conservatism
 tags used: 2"
-GTM,4734,PGT,Partido Guatemalteco del Trabajo,Guatemalan Party of Labour,-2.17,1949,1998,5.2,1950,"tags position: 
+GTM,4734,PGT,Partido Guatemalteco del Trabajo,Guatemalan Party of Labour,-2.17,1949,1998,5.2,1950,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 GTM,4437,PID,Partido Institucional Democrático,Democratic Institutional Party,0.61,1963,1990,7.8,1984,"tags position: centre-right
@@ -3428,7 +3428,7 @@ tags used: 5"
 HUN,5753,MDP,Magyar Dolgozók Pártja,Hungarian Working People's Party,-2.24,1948,1956,99,1953,"tags position: far-left
 tags ideology: communism // marxism-leninism // [ stalinism ]
 tags used: 3"
-HUN,6721,MFP,Magyar Függetlenségi Párt,Hungarian Independence Party,1.68,1947,1990,13.4,1947,"tags position: 
+HUN,6721,MFP,Magyar Függetlenségi Párt,Hungarian Independence Party,1.68,1947,1990,13.4,1947,"tags position:
 tags ideology: national conservatism // anti-communism
 tags used: 2"
 HUN,1597,MIEP,Magyar Igazság és Élet Pártja,Hungarian Justice and Life Party,1.75,1993,2021,5.5,1998,"tags position: right-wing // far-right
@@ -3518,7 +3518,7 @@ tags used: 3"
 ISL,1890,FF,Frjálslyndi flokkurinn,Liberal Party,0.4,1926,1929,5.8,1927,"tags position: centre // centre-right
 tags ideology: liberal conservatism // [ history of iceland ]
 tags used: 3"
-ISL,2516,HG,Hægri Grænir flokkur fólksins,RIght-Green People's Party,-0.26,2010,2016,1.7,2013,"tags position: 
+ISL,2516,HG,Hægri Grænir flokkur fólksins,RIght-Green People's Party,-0.26,2010,2016,1.7,2013,"tags position:
 tags ideology: euroscepticism // [ libertarianism ] // environmentalism
 tags used: 2"
 ISL,1958,He,Heimastjórnarflokkurinn,Home Rule Party,0.73,1900,1923,45.8,1919,"tags position: centre-right
@@ -3578,10 +3578,10 @@ tags used: 3"
 IND,5180,AAP,Aam Aadmi Party,Common Man's Party,-0.19,2012,2018,2,2014,"tags position: centre // theprint // centre-left
 tags ideology: [ economic nationalism ] // [ anti-corruption ] // secularism // nationalism // [ patriotism ] // [ humanism ]
 tags used: 5"
-IND,1571,AIADMK,All India Anna Dravida Munnetra Kazhagam,All India Anna Dravidian Progress Federation,-0.49,1972,2018,2.9,1977,"tags position: 
+IND,1571,AIADMK,All India Anna Dravida Munnetra Kazhagam,All India Anna Dravidian Progress Federation,-0.49,1972,2018,2.9,1977,"tags position:
 tags ideology: [ tamil nationalism ] // [ dravidian parties ] // populism // social democracy // [ social justice ]
 tags used: 2"
-IND,2494,AITMC,All India Trinamool Congress,All India Trinamool Congress,-0.36,1998,2018,3.2,2009,"tags position: 
+IND,2494,AITMC,All India Trinamool Congress,All India Trinamool Congress,-0.36,1998,2018,3.2,2009,"tags position:
 tags ideology: [ bengali nationalism ] // [ scroll.in ] // populism // [ al jazeera english ] // progressivism // [ the guardian ] // secularism
 tags used: 3"
 IND,5177,AGP,Asom Gana Parishad,Assam Peoples Association,0.48,1985,2018,2.6,1996,"tags position: centre-right
@@ -3596,7 +3596,7 @@ tags used: 4"
 IND,408,CPI,Bhāratīya Kamyunisṭ Pārṭī,Communist Party of India,-1.81,1925,2018,3.8,1985,"tags position: left-wing
 tags ideology: communism // marxism-leninism
 tags used: 3"
-IND,2495,BJD,Biju Janata Dal,Biju Janata Dal,-0.07,1997,2018,1.4,2008,"tags position: 
+IND,2495,BJD,Biju Janata Dal,Biju Janata Dal,-0.07,1997,2018,1.4,2008,"tags position:
 tags ideology: regionalism // secularism // [ economic nationalism ]
 tags used: 2"
 IND,893,CPI(M),Communist Party of India (Marxist),Communist Party of India (Marxist),-1.56,1964,2018,6.5,1989,"tags position: left-wing
@@ -3605,7 +3605,7 @@ tags used: 2"
 IND,7258,CNP,Congress Nationalist Party,Congress Nationalist Party,0.91,1934,1941,8.2,1934,"tags position: right-wing
 tags ideology: [ criticism of socialism ] // nationalism // populism
 tags used: 3"
-IND,17,DMK,Dravida Munnetra Kazhagam,Dravidian Progress Federation,-0.64,1949,2018,2.4,1984,"tags position: 
+IND,17,DMK,Dravida Munnetra Kazhagam,Dravidian Progress Federation,-0.64,1949,2018,2.4,1984,"tags position:
 tags ideology: [ tamil nationalism ] // social democracy // secularism // [ dravidian parties ] // [ social justice ]
 tags used: 2"
 IND,1297,INC,Indian National Congress,Indian National Congress,-0.13,1885,2018,49.3,1992,"tags position: centre // routledge
@@ -3626,10 +3626,10 @@ tags used: 2"
 IND,2497,RJD,Rashtriya Janata Dal,Rashtriya Janata Dal,-1.03,1997,2018,2.8,1998,"tags position: centre-left // left-wing
 tags ideology: socialism // secularism // progressivism // left-wing populism
 tags used: 6"
-IND,5175,RPI,Republican Party Of India,Republican Party Of India,-0.56,1957,2018,2.5,1967,"tags position: 
+IND,5175,RPI,Republican Party Of India,Republican Party Of India,-0.56,1957,2018,2.5,1967,"tags position:
 tags ideology: [ constitutionalism ] // republicanism // progressivism // secularism // [ egalitarianism ]
 tags used: 3"
-IND,8493,SJP-R,Samajwadi Janata Party (Rashtriya),Socialist People's Party-National,-1.16,1990,2018,,,"tags position: 
+IND,8493,SJP-R,Samajwadi Janata Party (Rashtriya),Socialist People's Party-National,-1.16,1990,2018,,,"tags position:
 tags ideology: socialism // secularism
 tags used: 2"
 IND,2491,SP,Samajwadi Party,Socialist Party,-0.82,1992,2018,4.9,1998,"tags position: centre-left // left-wing // financial times // the independent
@@ -3644,22 +3644,22 @@ tags used: 7"
 IND,2492,TDP,Telugu Desam Party,Telugu Desam Party,0.54,1982,2018,4.3,1984,"tags position: centre-right
 tags ideology: regionalism // populism // economic liberalism
 tags used: 4"
-IND,5179,YSR,Yuvajana Sramika Rythu Congress Party,"Youth, Labour and Farmer Congress Party",-0.06,2011,2018,2.5,2014,"tags position: 
+IND,5179,YSR,Yuvajana Sramika Rythu Congress Party,"Youth, Labour and Farmer Congress Party",-0.06,2011,2018,2.5,2014,"tags position:
 tags ideology: secularism // regionalism // [ social equality ] // [ economic nationalism ]
 tags used: 2"
 IDN,4498,PDI,Partai Demokrasi Indonesia,The Indonesian Democratic Party,-0.94,1973,2003,14.9,1992,"tags position: big tent // left-wing
 tags ideology: [ pancasila ] // [ marhaenism ]
 tags used: 2"
-IDN,2560,PDIP,Partai Demokrasi Indonesia Perjuangan,Indonesian Democratic Party of Struggle,-0.71,1998,2018,34.3,1999,"tags position: 
+IDN,2560,PDIP,Partai Demokrasi Indonesia Perjuangan,Indonesian Democratic Party of Struggle,-0.71,1998,2018,34.3,1999,"tags position:
 tags ideology: [ pancasila ] // [ marhaenism ] // [ economic nationalism ] // [ carnegie endowment for international peace ] // [ indonesian nationalism ] // populism // left-wing nationalism
 tags used: 2"
-IDN,4495,Gerindra,Partai Gerakan Indonesia Raya,Great Indonesia Movement Party,2.23,2008,2018,11.8,2014,"tags position: 
+IDN,4495,Gerindra,Partai Gerakan Indonesia Raya,Great Indonesia Movement Party,2.23,2008,2018,11.8,2014,"tags position:
 tags ideology: [ pancasila ] // anti-communism // [ indonesian nationalism ] // national conservatism // social conservatism // right-wing populism
 tags used: 4"
-IDN,2304,Golkar,Partai Golongan Karya,Party of the Functional Groups,0.83,1964,2018,22.5,2004,"tags position: 
+IDN,2304,Golkar,Partai Golongan Karya,Party of the Functional Groups,0.83,1964,2018,22.5,2004,"tags position:
 tags ideology: [ pancasila ] // conservatism // national conservatism // economic liberalism // [ indonesian nationalism ] // secularism // big tent
 tags used: 5"
-IDN,4503,PKI,Partai Komunis Indonesia,Communist Party of Indonesia,-2.16,1914,1965,16.5,1955,"tags position: 
+IDN,4503,PKI,Partai Komunis Indonesia,Communist Party of Indonesia,-2.16,1914,1965,16.5,1955,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 IDN,4500,PNI,Partai Nasional Indonesia,Indonesian National Party,-1.28,1927,1973,6.9,1971,"tags position: left-wing
@@ -3683,7 +3683,7 @@ tags used: 3"
 IRN,7264,HEM,Ḥezb-e Ettehād-e Mellī,National Union Party,0.42,1944,1947,25,1947,"tags position: centre
 tags ideology: [ royalist ] // social conservatism // [ mixed economy ] // anti-communism
 tags used: 3"
-IRN,7814,NTP,Ḥezb-e Eʿtemād-e Mellī,National Trust Party,0.05,2005,2018,,,"tags position: 
+IRN,7814,NTP,Ḥezb-e Eʿtemād-e Mellī,National Trust Party,0.05,2005,2018,,,"tags position:
 tags ideology: reformism // populism
 tags used: 2"
 IRN,6873,MPRP/IPRP,Ḥezb-e jomhuri-e ḵalq-e mosalmān-e Irān,Muslim People's Republic Party / Islamic People's Republican Party,0.22,1979,1980,5.5,1979,"tags position: centre
@@ -3692,13 +3692,13 @@ tags used: 2"
 IRN,7818,ICP,ḥezb-e moʾtalefe-ye eslāmi,Islamic Coalition Party,1.16,1963,2018,,,"tags position: right-wing
 tags ideology: conservatism // [ islamism ] // [ guardianship of the islamic jurist ] // [ laissez-faire ] // [ capitalism ] // social conservatism // [ fiscal conservatism ]
 tags used: 3"
-IRN,8494,HTj,Ḥezb-e Taǰaddod,Revival Party,-0.06,1920,1960,,,"tags position: 
+IRN,8494,HTj,Ḥezb-e Taǰaddod,Revival Party,-0.06,1920,1960,,,"tags position:
 tags ideology: progressivism // liberalism // nationalism // reformism // secularism
 tags used: 5"
 IRN,7266,HE,Ḥezb-e ʿEdālat,Justice Party,0.59,1941,1946,11,1943,"tags position: centre-right
 tags ideology: [ iranian nationalism ] // reformism // monarchism // anti-communism
 tags used: 4"
-IRN,5802,IRP,Islamic Republican Party,Islamic Republican Party,0.56,1979,1987,100,1980,"tags position: 
+IRN,5802,IRP,Islamic Republican Party,Islamic Republican Party,0.56,1979,1987,100,1980,"tags position:
 tags ideology: [ islamism ] // [ khomeinism ] // [ theocracy ] // populism // [ clericalism ] // [ anti-imperialism ] // anti-communism // [ planned economy ] // [ free market ] // [ radical politics ] // [ realpolitik ]
 tags used: 2"
 IRN,5359,JRM,Jāme'e-ye Rowhāniyyat-e Mobārez,Combatant Clergy Association,0.92,1977,2018,40.7,1996,"tags position: right-wing
@@ -3717,7 +3717,7 @@ IRN,5358,OG,Osul-Garâyân,Principlists / Iranian Conservatives,1.44,1996,2018,6
 tags ideology: [ islamism ] // [ political islam ] // [ theocracy ] // [ guardianship of the islamic jurist ] // [ traditionalist conservatism ] // right-wing populism // [ realpolitik ] // [ islamic fundamentalism ]
 tags used: 2"
 IRN,7569,PGC,Principlists Grand Coalition,Principlists Grand Coalition,1.55,2016,2018,29,2016,"tags position: right-wing // far-right
-tags ideology: 
+tags ideology:
 tags used: 2"
 IRN,5803,RP,Rastakhiz Party of People of Iran‎‎,Rastakhiz Party,0.23,1975,1978,100,1975,"tags position: big tent
 tags ideology: monarchism // [ oxford university press ] // populism // secularism // [ cambridge university press ] // [ democratic centralism ] // [ fascism ] // [ columbia university press ] // anti-communism // progressivism // conservative liberalism
@@ -3737,10 +3737,10 @@ tags used: 5"
 IRQ,6880,ID,al-Ittihad al-Dusturi,Constitutional Union Party,0.72,1949,1954,53.6,1953,"tags position: centre-right
 tags ideology: anti-communism // [ arab nationalism ] // [ pan-arabism ]
 tags used: 2"
-IRQ,7471,Hiwar,al-Jabha al-Iraqia li al-Hiwar al-Watani,Iraqi National Dialogue Front,1.37,2005,2018,4.1,2005,"tags position: 
+IRQ,7471,Hiwar,al-Jabha al-Iraqia li al-Hiwar al-Watani,Iraqi National Dialogue Front,1.37,2005,2018,4.1,2005,"tags position:
 tags ideology: [ iraqi nationalism ] // national conservatism // [ right-wing ]
 tags used: 1"
-IRQ,7121,INC,Al-Moutammar Al-Watani Al-'Iraqi,Iraqi National Congress,0.05,1992,2018,8.8,2014,"tags position: 
+IRQ,7121,INC,Al-Moutammar Al-Watani Al-'Iraqi,Iraqi National Congress,0.05,1992,2018,8.8,2014,"tags position:
 tags ideology: [ centre ] // [ nonsectarian ] // [ welfare state ] // secularism // liberalism
 tags used: 2"
 IRQ,5927,SM,al-Tayyār al-Sadri,Sadrist Movement,0.92,2003,2018,10.4,2014,"tags position: right-wing
@@ -3758,7 +3758,7 @@ tags used: 6"
 IRQ,7584,CDJ,Coalition for Democracy and Justice,Coalition for Democracy and Justice,-0.56,2018,2018,1.2,2018,"tags position: centre-left
 tags ideology: [ kurdish nationalism ] // social democracy // [ self-determination ] // reformism // [ corruption ]
 tags used: 3"
-IRQ,5361,HAB,Hizb Al-Baath Al-'Arabi Al-Ishtiraki fi Al-'Iraq,Arab Socialist Ba'ath Party — Iraq Region,-0.36,1951,2003,100,1979,"tags position: 
+IRQ,5361,HAB,Hizb Al-Baath Al-'Arabi Al-Ishtiraki fi Al-'Iraq,Arab Socialist Ba'ath Party — Iraq Region,-0.36,1951,2003,100,1979,"tags position:
 tags ideology: [ ba'athism ] // [ militarism ] // [ iraqi nationalism ] // [ arab nationalism ] // [ arab socialism ] // republicanism // secularism // [ anti-imperialism ] // [ anti-zionism ]
 tags used: 2"
 IRQ,7270,HIW,Hizb al-Ikha al-Watani,Party of National Brotherhood,1.06,1930,1941,18.2,1933,"tags position: right-wing
@@ -3773,7 +3773,7 @@ tags used: 2"
 IRQ,7594,SLC,I'tilāf Dawlat al-Qānūn,State of Law Coalition,0.01,2009,2018,0.1,2018,"tags position: syncretic politics
 tags ideology: populism // big tent // secularism // [ statism ]
 tags used: 4"
-IRQ,7122,URC,I'tilāf Muttaḥidūn lil-Iṣlāḥ,Uniters for Reform Coalition,0.25,2012,2018,5.2,2014,"tags position: 
+IRQ,7122,URC,I'tilāf Muttaḥidūn lil-Iṣlāḥ,Uniters for Reform Coalition,0.25,2012,2018,5.2,2014,"tags position:
 tags ideology: regionalism // [ islam and democracy ] // populism
 tags used: 2"
 IRQ,8701,IAS,Ittihad Al Shaab,People's Union,-1.49,2005,2010,0.8,2005,"tags position: left-wing
@@ -3806,7 +3806,7 @@ tags used: 4"
 IRL,8242,AAA / S,Anti-Austerity Alliance / Solidarity,Anti-Austerity Alliance / Solidarity,-1.3,2014,2018,2,2016,"tags position: left-wing
 tags ideology: socialism // [ eco-socialism ] // left-wing populism // [ trotskyism ] // [ feminism ]
 tags used: 3"
-IRL,8642,A,Aontú,Aontu,1.28,2019,2018,1.9,2020,"tags position: 
+IRL,8642,A,Aontú,Aontu,1.28,2019,2018,1.9,2020,"tags position:
 tags ideology: [ anti-abortion movements ] // [ irish republicanism ] // social conservatism // euroscepticism
 tags used: 2"
 IRL,1354,CnP,Clann na Poblachta,Republican Party / Family / Children of the Republic,-0.61,1948,1965,13.2,1948,"tags position: centre-left
@@ -3854,7 +3854,7 @@ tags used: 4"
 IRL,2443,NCP,National Centre Party,National Centre Party,0.7,1932,1933,9.2,1933,"tags position: centre-right
 tags ideology: agrarianism // conservatism // christian democracy
 tags used: 4"
-IRL,1391,NL,National Labour Party,National Labour Party,-0.5,1944,1948,2.7,1944,"tags position: 
+IRL,1391,NL,National Labour Party,National Labour Party,-0.5,1944,1948,2.7,1944,"tags position:
 tags ideology: social democracy // anti-communism
 tags used: 2"
 IRL,2053,NP,National Party,National Party,1.34,1995,2018,1.1,1997,"tags position: right-wing
@@ -3872,7 +3872,7 @@ tags used: 4"
 IRL,562,Lab,Páirti Lucht Oibre,Labour Party,-0.52,1912,2018,21.3,1922,"tags position: centre-left
 tags ideology: social democracy // pro-europeanism
 tags used: 3"
-IRL,208,WP,Páirtí na nOibrithe,Workers Party,-2.16,1970,2018,5,1989,"tags position: 
+IRL,208,WP,Páirtí na nOibrithe,Workers Party,-2.16,1970,2018,5,1989,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 IRL,1448,SP,Páirtí Sóisialach,Socialist Party,-1.3,1996,2018,1.2,2011,"tags position: left-wing // far-left
@@ -4068,7 +4068,7 @@ ISR,1489,ZK,Zionim Klalim,General Zionists,0.26,1949,1959,16.2,1951,"tags positi
 tags ideology: [ zionism ] // liberalism // classical liberalism // economic liberalism
 tags used: 5"
 ITA,8053,AP,Alleanza dei Progressisti,Alliance of Progressives,-0.86,1994,1995,33,1994,"tags position: centre-left // left-wing
-tags ideology: 
+tags ideology:
 tags used: 2"
 ITA,614,AD,Alleanza Democratica,Democratic Alliance,-0.24,1994,1994,5.8,1996,"tags position: centre-left
 tags ideology: social liberalism
@@ -4101,7 +4101,7 @@ ITA,7670,CP,Civica Popolare,Popular Civic List,0.25,2017,2018,0.5,2018,"tags pos
 tags ideology: christian democracy
 tags used: 2"
 ITA,8056,CCD,Coalizione di centro-destra,Centre-right Coalition,0.87,2008,2018,47.6,2008,"tags position: centre-right // the daily telegraph // right-wing
-tags ideology: 
+tags ideology:
 tags used: 3"
 ITA,763,CDU,Cristiani Democratici Uniti,United Christian Democrats,0.43,1996,2001,2.9,1996,"tags position: centre // centre-right
 tags ideology: christian democracy // social conservatism
@@ -4190,13 +4190,13 @@ tags used: 8"
 ITA,8246,LeU,Liberi e Uguali,Free and Equal,-0.96,2017,2018,3.4,2018,"tags position: left-wing
 tags ideology: social democracy // democratic socialism
 tags used: 3"
-ITA,744,LL,Liga Lombarda,Lombard League,0.24,1984,2018,0.5,1987,"tags position: 
+ITA,744,LL,Liga Lombarda,Lombard League,0.24,1984,2018,0.5,1987,"tags position:
 tags ideology: regionalism // populism
 tags used: 2"
-ITA,718,LV,Liga Veneta,Venetian League,0.75,1979,1992,0.8,1987,"tags position: 
+ITA,718,LV,Liga Veneta,Venetian League,0.75,1979,1992,0.8,1987,"tags position:
 tags ideology: regionalism // conservatism
 tags used: 2"
-ITA,2134,LB,Lista Bonino,Bonino List,0.09,1996,2001,2.2,2001,"tags position: 
+ITA,2134,LB,Lista Bonino,Bonino List,0.09,1996,2001,2.2,2001,"tags position:
 tags ideology: liberalism // [ libertarianism ] // pro-europeanism
 tags used: 2"
 ITA,768,IdV,Lista di Pietro — Italia del Valori,List Di Pietro — Italy of Values,-0.27,2001,2018,4.5,2008,"tags position: centre-left
@@ -4385,7 +4385,7 @@ tags used: 3"
 JPN,8489,DC,Dōshi Club,Fellow Thinkers Club,0.2,1947,1948,4.7,1947,"tags position: centre-right
 tags ideology: liberalism
 tags used: 2"
-JPN,4494,IRAA,Imperial Rule Assistance Association,Imperial Rule Assistance Association,0.45,1940,1945,81.7,1942,"tags position: 
+JPN,4494,IRAA,Imperial Rule Assistance Association,Imperial Rule Assistance Association,0.45,1940,1945,81.7,1942,"tags position:
 tags ideology: [ statism in shōwa japan ] // [ list of territories acquired by the empire of japan ] // [ japanese militarism ] // [ japanese nationalism ] // monarchism // [ totalitarianism ] // national conservatism // social conservatism // [ pan-asianism ] // [ state capitalism ] // anti-communism // liberalism
 tags used: 5"
 JPN,3215,PFG/PJK,Jisedai No Tou / Nippon no Kokoro o Taisetsu ni Suru Tō,Party for Future Generations /  Party for Japanese Kokoro,1.41,2014,2018,2.6,2014,"tags position: far-right // the japan times // oxford university press
@@ -4394,7 +4394,7 @@ tags used: 4"
 JPN,1746,LDP,Jiyū Minshutō,Liberal Democratic Party,1.06,1955,2018,59,1958,"tags position: right-wing
 tags ideology: conservatism // [ japanese nationalism ]
 tags used: 2"
-JPN,348,LL,Jiyu Rengo,Liberal League,0.49,1994,2005,1.8,2000,"tags position: 
+JPN,348,LL,Jiyu Rengo,Liberal League,0.49,1994,2005,1.8,2000,"tags position:
 tags ideology: classical liberalism // liberal conservatism
 tags used: 2"
 JPN,8490,LP,Jiyutō,Liberal Party,1.06,1950,1955,48,1952,"tags position: right-wing
@@ -4403,7 +4403,7 @@ tags used: 2"
 JPN,13,LP,Jiyū-tō,Liberal Party,0.73,1998,2003,11,2000,"tags position: centre-right
 tags ideology: conservatism // [ neoliberalism ] // [ neoconservatism in japan ]
 tags used: 2"
-JPN,1435,LP / JLP,Jiyūtō / Nihon Jiyūtō,Liberal Party / Japan Liberal Party,0.35,1945,1948,25.4,1946,"tags position: 
+JPN,1435,LP / JLP,Jiyūtō / Nihon Jiyūtō,Liberal Party / Japan Liberal Party,0.35,1945,1948,25.4,1946,"tags position:
 tags ideology: conservatism // liberalism // [ antimilitarism ] // economic liberalism
 tags used: 3"
 JPN,6936,K,Kenseitō,Constitutional Party,0.2,1898,1900,40,1898,"tags position: centre-right
@@ -4475,7 +4475,7 @@ tags used: 2"
 JPN,492,SDF,Shaminren,Socialist Democratic Federation,-0.56,1978,1993,0.9,1990,"tags position: centre-left
 tags ideology: [ liberal socialism ] // social democracy // [ pacifism ] // reformism
 tags used: 3"
-JPN,1524,NLC,Shin-jiyū-kurabu,New Liberal Club,0.24,1976,1986,4.2,1976,"tags position: 
+JPN,1524,NLC,Shin-jiyū-kurabu,New Liberal Club,0.24,1976,1986,4.2,1976,"tags position:
 tags ideology: conservatism // [ neoconservatism in japan ] // [ neoliberalism ] // [ decentralization ] // progressivism
 tags used: 2"
 JPN,282,NFP,Shinshin-to,New Frontier Party,0.5,1994,1996,28,1996,"tags position: centre // centre-right
@@ -4487,7 +4487,7 @@ tags used: 2"
 JPN,392,NPS,Shinto Sakigake,New Party Sakigake,0.02,1993,1996,2.6,1993,"tags position: centre // centre-left
 tags ideology: [ not found. ] // [ routledge ] // [ the asahi shimbun ] // environmentalism // reformism // liberalism // conservative liberalism
 tags used: 6"
-JPN,7272,TY,Taisei Yokusanka,Imperial Rule Assistance Association,0.45,1940,1945,83.2,1942,"tags position: 
+JPN,7272,TY,Taisei Yokusanka,Imperial Rule Assistance Association,0.45,1940,1945,83.2,1942,"tags position:
 tags ideology: [ statism in shōwa japan ] // [ list of territories acquired by the empire of japan ] // [ japanese militarism ] // [ japanese nationalism ] // monarchism // [ totalitarianism ] // national conservatism // social conservatism // [ pan-asianism ] // [ state capitalism ] // anti-communism // liberalism
 tags used: 5"
 JPN,4562,TK,Toho Kai / Tōhōkai,Eastern Party / Society of the East,2.32,1937,1937,2.4,1937,"tags position: far-right
@@ -4520,7 +4520,7 @@ tags used: 5"
 KAZ,3747,AkZhol,Qazaqstan Demokratiyalyk Partiya Ak Zhol,Democratic Party of Kazakhstan Bright Path,0.52,2002,2018,7.5,2012,"tags position: centre-right
 tags ideology: liberal conservatism // economic liberalism // secularism
 tags used: 4"
-KAZ,4350,QKP,Qazaqstan Kommunistik Partiyasi,Communist Party of Kazakhstan,-2.15,1936,2015,3.4,2004,"tags position: 
+KAZ,4350,QKP,Qazaqstan Kommunistik Partiyasi,Communist Party of Kazakhstan,-2.15,1936,2015,3.4,2004,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 KAZ,3749,QKXP,Qazaqstan Kommunistik Xaliq Partiya,Communist People’s Party of Kazakhstan,-1.29,2004,2018,7.2,2012,"tags position: left-wing
@@ -4601,7 +4601,7 @@ tags used: 3"
 KOR,2307,HD-SD,Hannara-dang — Saenuri-dang,New World Party — The Grand National Party,1.65,1997,2020,42.8,2012,"tags position: right-wing // far-right // indiewire // united press international // the hankyoreh // centre-right // house of commons of the united kingdom
 tags ideology: [ conservatism in south korea ] // social conservatism // national conservatism // right-wing populism // anti-communism
 tags used: 11"
-KOR,2306,LFP/AUP,Jayou Seonjin Dang,Liberty Forward Party / Advancement Unification Party,0.74,2008,2012,6.8,2008,"tags position: 
+KOR,2306,LFP/AUP,Jayou Seonjin Dang,Liberty Forward Party / Advancement Unification Party,0.74,2008,2012,6.8,2008,"tags position:
 tags ideology: conservatism // regionalism
 tags used: 2"
 KOR,4455,LP,Jayu-dang,Liberal Party,1.77,1951,1970,42.1,1958,"tags position: far-right
@@ -4619,7 +4619,7 @@ tags used: 4"
 KOR,4450,NPP,Jinbo Shin-dang,New Progressive Party,-0.78,2008,2012,2.1,2008,"tags position: centre-left // left-wing
 tags ideology: [ progressivism in south korea ] // social democracy // [ postnationalism ] // [ feminism ]
 tags used: 3"
-KOR,5247,CRP,Jongmin hoe,Civil Rule Party / Civil Rights Party,0.48,1963,1963,23.4,1963,"tags position: 
+KOR,5247,CRP,Jongmin hoe,Civil Rule Party / Civil Rights Party,0.48,1963,1963,23.4,1963,"tags position:
 tags ideology: classical liberalism // liberal conservatism // [ liberal democracy ]
 tags used: 2"
 KOR,4458,DP,Minju-dang,Democratic Party,0.52,1955,1964,49.2,1960,"tags position: centre-right
@@ -4631,7 +4631,7 @@ tags used: 4"
 KOR,4510,MG,Minju Gungmin-dang,Democratic Nationalist Party,1.17,1950,1954,9.8,1950,"tags position: right-wing
 tags ideology: [ liberal democracy ] // anti-communism // [ korean nationalism ] // conservatism
 tags used: 3"
-KOR,4342,DKP,Minju Hanguk-dang,Democratic Korean Party,0.48,1981,1988,21.6,1981,"tags position: 
+KOR,4342,DKP,Minju Hanguk-dang,Democratic Korean Party,0.48,1981,1988,21.6,1981,"tags position:
 tags ideology: classical liberalism // liberal conservatism // [ korean nationalism ]
 tags used: 2"
 KOR,894,MK/SH,Minju Ja-yudang / Sin Han-gukdang,Democratic Liberal Party / New Korea Party,0.99,1990,1997,38.5,1992,"tags position: centre-right // right-wing
@@ -4646,7 +4646,7 @@ tags used: 2"
 KOR,4464,DP,Min Ju Tong Hap-dang,Democratic United Party / Democratic Party,-0.2,2011,2014,37.2,2012,"tags position: centre // centre-left
 tags ideology: social liberalism
 tags used: 3"
-KOR,4344,PPD,Pyunghwa Minju-dang,Party for Peace and Democracy,0.2,1987,1991,19.4,1988,"tags position: 
+KOR,4344,PPD,Pyunghwa Minju-dang,Party for Peace and Democracy,0.2,1987,1991,19.4,1988,"tags position:
 tags ideology: liberalism // [ liberalism in south korea ] // conservative liberalism // [ centrist reformism ] // [ democratization ]
 tags used: 2"
 KOR,2548,MDP,Saecheonnyeonminju Dang,Millenium Democratic Party,-0.05,2000,2007,35.9,2000,"tags position: centre // centre-left
@@ -4739,7 +4739,7 @@ tags used: 2"
 KWT,5275,PAB,Popular Action Bloc,Popular Action Bloc,0.51,1992,2012,12,2007,"tags position: centre-right
 tags ideology: populism // nationalism
 tags used: 3"
-KGZ,7201,A,Adilet,"Democratic Party ""Justice""",-0.32,2004,2006,1,2005,"tags position: 
+KGZ,7201,A,Adilet,"Democratic Party ""Justice""",-0.32,2004,2006,1,2005,"tags position:
 tags ideology: social liberalism // social democracy
 tags used: 2"
 KGZ,5382,AJ,Ak Jol,White Path,1,2007,2010,78.9,2007,"tags position: centre-right
@@ -4760,7 +4760,7 @@ tags used: 3"
 KGZ,6881,BK,Butun Kyrgyzstan,United Kyrgyzstan,1.08,2010,2018,8.4,2010,"tags position: centre-right // right-wing
 tags ideology: national conservatism // [ ethnic nationalism ]
 tags used: 3"
-KGZ,5613,CPK,Communist Party of Kirghizia,Communist Party of Kirghizia,-2.17,1924,1991,100,,"tags position: 
+KGZ,5613,CPK,Communist Party of Kirghizia,Communist Party of Kirghizia,-2.17,1924,1991,100,,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 KGZ,6883,KP,Kyrgyzstan Party,Kyrgyzstan Party,0.31,2015,2018,13.1,2015,"tags position: centre
@@ -4814,7 +4814,7 @@ tags used: 2"
 LVA,1043,LC,Latvijas Ceļš,Latvian Way,0.52,1993,2006,32.4,1993,"tags position: centre-right
 tags ideology: conservative liberalism
 tags used: 2"
-LVA,600,LKP,Latvijas Komunistiskā partija,Communist Party of Latvia,-2.16,1904,1991,21.5,1990,"tags position: 
+LVA,600,LKP,Latvijas Komunistiskā partija,Communist Party of Latvia,-2.16,1904,1991,21.5,1990,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 LVA,1778,LPP,Latvijas Pirmā partija,Latvia's First Party,0.99,2002,2006,9.5,2002,"tags position: right-wing
@@ -4937,7 +4937,7 @@ tags used: 2"
 LSO,3771,LCD,Lesotho Congress for Democracy,Lesotho Congress for Democracy,-0.61,1998,2018,60.9,1998,"tags position: centre-left
 tags ideology: [ pan-africanism ] // social democracy
 tags used: 2"
-LSO,4381,MML,Mokhatio oa Makomonisi a Lesotho,Communist Party of Lesotho,-2.16,1970,2002,2.9,2002,"tags position: 
+LSO,4381,MML,Mokhatio oa Makomonisi a Lesotho,Communist Party of Lesotho,-2.16,1970,2002,2.9,2002,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 LBR,4136,CDC,Congress for Democratic Change,Congress for Democratic Change,0.17,2005,2018,28.3,2005,"tags position: big tent
@@ -4946,7 +4946,7 @@ tags used: 2"
 LBR,6596,NDC,National Democratic Coalition,National Democratic Coalition,-0.38,2011,2018,5.9,2011,"tags position: centre-left // left-wing
 tags ideology: [ pan-africanism ] // [ african socialism ] // social democracy // liberalism
 tags used: 4"
-LBR,4143,NDPL,National Democratic Party of Liberia,National Democratic Party of Liberia,1.27,1984,2018,9.2,2005,"tags position: 
+LBR,4143,NDPL,National Democratic Party of Liberia,National Democratic Party of Liberia,1.27,1984,2018,9.2,2005,"tags position:
 tags ideology: nationalism // [ authoritarianism ] // anti-communism
 tags used: 2"
 LBR,4140,UP,Unity Party,Unity Party,0.41,1984,2018,19.8,2005,"tags position: centre // centre-right
@@ -4958,7 +4958,7 @@ tags used: 3"
 LBY,8435,NFP,Hizb Al-Jabha Al-Wataniyya,National Front Party,-0.16,2012,2018,4.1,2012,"tags position: centre-left
 tags ideology: liberalism // progressivism
 tags used: 3"
-LBY,3639,NFC,Taḥaalof al-qiwaa al-wataniyya,National Forces Alliance,0.19,2012,2018,48.1,2012,"tags position: 
+LBY,3639,NFC,Taḥaalof al-qiwaa al-wataniyya,National Forces Alliance,0.19,2012,2018,48.1,2012,"tags position:
 tags ideology: [ libyan nationalism ] // [ islam and democracy ] // big tent // economic liberalism // liberalism
 tags used: 3"
 LIE,4178,DU,Die Unabhängigen,The Independents,1.5,2013,2018,15.3,2013,"tags position: right-wing
@@ -5000,7 +5000,7 @@ tags used: 4"
 LTU,5455,LCP,Lietuvos Centro Partija,Lithuanian Centre Party,0.31,2003,2018,6.3,2016,"tags position: centre
 tags ideology: agrarianism // euroscepticism // [ anti-globalization movement ] // [ lithuania ] // nationalism
 tags used: 4"
-LTU,1587,LKP,Lietuvos komunistų partija,Communist Party of Lithuania,-2.16,1918,1991,8.6,2000,"tags position: 
+LTU,1587,LKP,Lietuvos komunistų partija,Communist Party of Lithuania,-2.16,1918,1991,8.6,2000,"tags position:
 tags ideology: communism // marxism-leninism // [ soviet patriotism ]
 tags used: 2"
 LTU,5456,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),0.56,2014,2018,2.2,2016,"tags position: centre-right
@@ -5054,7 +5054,7 @@ tags used: 2"
 LUX,1114,ADR,Alternativ Demokratesch Reformpartei,Alternative Democratic Reform Party,1.61,1987,2018,10.4,1999,"tags position: right-wing // far-right
 tags ideology: social conservatism // national conservatism // economic liberalism // euroscepticism // [ pensioners' party ]
 tags used: 6"
-LUX,1213,Bl,Biergerlëscht,Citizens' List,0.31,2009,2018,1.4,2009,"tags position: 
+LUX,1213,Bl,Biergerlëscht,Citizens' List,0.31,2009,2018,1.4,2009,"tags position:
 tags ideology: [ anti-establishment ] // big tent // euroscepticism
 tags used: 2"
 LUX,539,CSV,Chrëschtlech Sozial Vollekspartei,Christian Social People's Party,0.46,1944,2018,42.4,1954,"tags position: centre // centre-right
@@ -5078,7 +5078,7 @@ tags used: 4"
 LUX,186,LSAP,Lëtzebuerger Sozialistesch Aarbechterpartei,Luxembourg Socialist Workers' Party,-0.7,1902,2018,41.5,1948,"tags position: centre-left
 tags ideology: social democracy // democratic socialism // progressivism // pro-europeanism
 tags used: 5"
-LUX,4445,PD,Rietspartei,Party of the Right,0.74,1914,1944,56.3,1919,"tags position: 
+LUX,4445,PD,Rietspartei,Party of the Right,0.74,1914,1944,56.3,1919,"tags position:
 tags ideology: christian democracy // conservatism
 tags used: 2"
 LUX,7353,VL,Volt Luxembourg,Volt Luxembourg,-0.22,2017,2018,2.1,2019,"tags position: centre // centre-left
@@ -5144,7 +5144,7 @@ tags used: 7"
 MDG,5838,MFM/MPP,Mpitolona ho amin'ny Fanjakana ny Madinika / Mpitolona ho an'ny Fandrosoan'i Madagasikara,Party for Proletarian Power / Movement for the Progress of Madagascar,-0.3,1972,2018,11,1993,"tags position: centre // far-left
 tags ideology: liberalism // socialism
 tags used: 4"
-MDG,5372,PSD,Parti Social Démocrate de Madagascar et des Comores,Social Democratic Party of Madagascar and the Comoros,-0.85,1956,1972,97.2,1965,"tags position: 
+MDG,5372,PSD,Parti Social Démocrate de Madagascar et des Comores,Social Democratic Party of Madagascar and the Comoros,-0.85,1956,1972,97.2,1965,"tags position:
 tags ideology: social democracy // democratic socialism
 tags used: 2"
 MDG,8438,TGV,Tanora malaGasy Vonona,Young Malagasies Determined,-0.56,2007,2018,,,"tags position: centre-left
@@ -5270,7 +5270,7 @@ tags used: 5"
 MLT,7354,PD,Partit Demokratiku,Democratic Party,-0.18,2016,2020,2,2019,"tags position: centre // centre-left
 tags ideology: social liberalism // [ green liberalism ] // pro-europeanism
 tags used: 4"
-MLT,1861,PKM,Partit Komunista Malti,Communist Party of Malta,-2.17,1969,2018,0.1,1987,"tags position: 
+MLT,1861,PKM,Partit Komunista Malti,Communist Party of Malta,-2.17,1969,2018,0.1,1987,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 MLT,808,MLP,Partit Laburista,Malta Labour Party,-0.53,1945,2018,59.9,1947,"tags position: centre-left
@@ -5282,7 +5282,7 @@ tags used: 3"
 MRT,5693,APP,Alliance populaire progressiste,People's Progressive Alliance,-0.61,2003,2012,5.3,2006,"tags position: centre-left
 tags ideology: [ nasserism ] // social democracy
 tags used: 2"
-MRT,5289,PPM,Parti du peuple mauritanien,Mauritanian People's Party,-0.94,1960,1978,100,1960,"tags position: 
+MRT,5289,PPM,Parti du peuple mauritanien,Mauritanian People's Party,-0.94,1960,1978,100,1960,"tags position:
 tags ideology: [ authoritarianism ] // nationalism // [ centralisation ] // [ islamic socialism ] // democratic socialism
 tags used: 2"
 MRT,5288,PRDS / PRDR,Parti Républicain Démocratique et Social / Parti Républicain Démocratique pour le Renouvellement,Democratic and Social Republican Party / Democratic Republican Party for Renewal,0.76,1992,2018,89.9,1996,"tags position: right-wing
@@ -5306,7 +5306,7 @@ tags used: 3"
 MUS,2460,MMM,Mouvement Militant Mauricien,Mauritian Militant Movement,-0.96,1969,2018,46,1983,"tags position: left-wing
 tags ideology: democratic socialism // social democracy // [ humanism ]
 tags used: 3"
-MUS,7143,MR,Mouvement Républicain,Republican Movement,-1.63,1990,2018,,,"tags position: 
+MUS,7143,MR,Mouvement Républicain,Republican Movement,-1.63,1990,2018,,,"tags position:
 tags ideology: communism // socialism
 tags used: 2"
 MUS,2464,MR,Mouvement Rodriguais,Rodrigues Movement,-0.72,2000,2018,5.6,2015,"tags position: centre-left
@@ -5375,7 +5375,7 @@ tags used: 3"
 MDA,7904,PAS,Partidul Acțiune și Solidaritate,Party of Action and Solidarity,0.19,2016,2018,14.9,2019,"tags position: centre-right
 tags ideology: liberalism // pro-europeanism
 tags used: 3"
-MDA,6971,PCM,Partidul Comunist al Moldovei,Communist Party of Moldova,-2.16,1940,1991,100,1940,"tags position: 
+MDA,6971,PCM,Partidul Comunist al Moldovei,Communist Party of Moldova,-2.16,1940,1991,100,1940,"tags position:
 tags ideology: communism // marxism-leninism // [ moldovenism ]
 tags used: 2"
 MDA,2260,PCRM,Partidul Comunistilor din Republica Moldova,Party of Communists of the Republic of Moldova,-2.02,1993,2018,50.1,2001,"tags position: far-left
@@ -5414,7 +5414,7 @@ tags used: 2"
 MCO,7137,HM,Horizon Monaco,Horizon Monaco,1.19,2012,2018,50.3,2013,"tags position: right-wing
 tags ideology: conservatism // monarchism // nationalism // social conservatism // [ fiscal conservatism ] // economic liberalism // euroscepticism
 tags used: 7"
-MCO,6389,MUD,Mouvement d'Union democratique,Democratic Union Movement,-1.63,1963,1978,5.6,1963,"tags position: 
+MCO,6389,MUD,Mouvement d'Union democratique,Democratic Union Movement,-1.63,1963,1978,5.6,1963,"tags position:
 tags ideology: communism // socialism // [ trade union ]
 tags used: 2"
 MCO,5320,UM,Union Monégasque,Union for Monaco,0.5,2004,2012,87.5,2003,"tags position: centre // centre-right // europe elects
@@ -5441,7 +5441,7 @@ tags used: 2"
 MNG,7925,MUNN,Mongolyn Ulamjlalyn Negdsen Nam,Mongolian Traditional United Party,1.38,1994,2018,1.7,1996,"tags position: right-wing
 tags ideology: national conservatism
 tags used: 2"
-MNG,7142,MUAN,Mongolyn Ündesnii Ardchilsan Nam,Mongolian National Democratic Party,0.93,2005,2018,14.5,2012,"tags position: 
+MNG,7142,MUAN,Mongolyn Ündesnii Ardchilsan Nam,Mongolian National Democratic Party,0.93,2005,2018,14.5,2012,"tags position:
 tags ideology: conservatism // nationalism
 tags used: 2"
 MNE,8617,AO,Albanci odlučno,Albanians Decisively,0.5,2016,2020,1.3,2016,"tags position: centre-right
@@ -5537,7 +5537,7 @@ tags used: 4"
 MNE,5468,URA,Ujedinjena reformska akcija,United Reformist Action,-0.22,2015,2018,2.5,2016,"tags position: centre // centre-left
 tags ideology: [ green liberalism ] // social liberalism // progressivism // pro-europeanism
 tags used: 5"
-MAR,5325,AMP,Authenticity and Modernity Party,Authenticity and Modernity Party,-0.1,2008,2018,11.1,2011,"tags position: 
+MAR,5325,AMP,Authenticity and Modernity Party,Authenticity and Modernity Party,-0.1,2008,2018,11.1,2011,"tags position:
 tags ideology: reformism // monarchism // social liberalism
 tags used: 3"
 MAR,8714,FFD,Front des Forces Démocratiques,Front of Democratic Forces,-1.29,1997,2018,4.9,2002,"tags position: left-wing
@@ -5549,7 +5549,7 @@ tags used: 4"
 MAR,2481,MP,Mouvement Populaire,Popular Movement,0.6,1957,2018,25,1970,"tags position: centre-right
 tags ideology: conservative liberalism // monarchism
 tags used: 3"
-MAR,2479,PJD,Parti de la Justice et du Développement,Justice and Development Party,1.09,1998,2018,32.9,2011,"tags position: 
+MAR,2479,PJD,Parti de la Justice et du Développement,Justice and Development Party,1.09,1998,2018,32.9,2011,"tags position:
 tags ideology: [ islam and democracy ] // [ taiwan news ] // social conservatism // conservatism // nationalism
 tags used: 3"
 MAR,6220,PPS,Parti du Progrès et du Socialisme,Progress and Socialism,-1.65,1974,2012,5.5,2011,"tags position: left-wing // far-left
@@ -5582,10 +5582,10 @@ tags used: 2"
 MMR,5970,ANP,Arakan National Party,Arakan National Party,1.53,2014,2018,2.2,2015,"tags position: right-wing // far-right // deutsche welle
 tags ideology: [ rakhine people ] // nationalism // [ religious nationalism ] // [ ethnic nationalism ] // [ islamophobia ]
 tags used: 4"
-MMR,7139,BWP,Burma Workers Party,Burma Workers Party,-2.17,1950,1962,5.2,1951,"tags position: 
+MMR,7139,BWP,Burma Workers Party,Burma Workers Party,-2.17,1950,1962,5.2,1951,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
-MMR,5973,NLD,National League for Democracy,National League for Democracy,-0.08,1988,2018,57.2,2015,"tags position: 
+MMR,5973,NLD,National League for Democracy,National League for Democracy,-0.08,1988,2018,57.2,2015,"tags position:
 tags ideology: [ liberal democracy ] // liberal conservatism // populism // [ protectionism ] // social democracy
 tags used: 3"
 MMR,5974,NUP,National Unity Party,National Unity Party,0.95,1988,2018,19.5,2010,"tags position: centre-right // right-wing
@@ -5615,7 +5615,7 @@ tags used: 2"
 NAM,4895,RDP,Rally for Democracy and Progress,Rally for Democracy and Progress,-0.04,2007,2018,10.9,2009,"tags position: centre-left
 tags ideology: liberalism // [ african nationalism ]
 tags used: 2"
-NAM,5641,RP,Republican Party,Republican Party,0.74,1977,2018,2,2004,"tags position: 
+NAM,5641,RP,Republican Party,Republican Party,0.74,1977,2018,2,2004,"tags position:
 tags ideology: conservatism // christian democracy
 tags used: 2"
 NAM,8524,SWANU,South West Africa National Union,South West Africa National Union,-1.16,1959,2018,0.7,2014,"tags position: left-wing
@@ -5696,7 +5696,7 @@ tags used: 2"
 NLD,1459,CU,ChristenUnie,ChristianUnion,0.23,2000,2018,4,2006,"tags position: centre // centre-left // norwegian centre for research data // centre-right
 tags ideology: christian democracy // social conservatism
 tags used: 6"
-NLD,6758,CU — SGP,ChristenUnie — Staatkundig Gereformeerde Partij,Christian Union — Reformed Political Party,-0.22,1984,2018,8.7,1999,"tags position: 
+NLD,6758,CU — SGP,ChristenUnie — Staatkundig Gereformeerde Partij,Christian Union — Reformed Political Party,-0.22,1984,2018,8.7,1999,"tags position:
 tags ideology: christian democracy // social democracy // social conservatism // euroscepticism // [ christian left ] // [ christian right ]
 tags used: 4"
 NLD,459,CPN,Communistische Partij Nederland,Communist Party of the Netherlands,-1.62,1909,1991,10.6,1946,"tags position: left-wing // far-left
@@ -5840,7 +5840,7 @@ tags used: 2"
 NZL,8343,Uni,United Party,United Party,0.48,1927,1936,16.9,1931,"tags position: centre-right
 tags ideology: classical liberalism
 tags used: 2"
-NZL,653,VP,Values Party,Values Party,-0.6,1972,1978,5.2,1975,"tags position: 
+NZL,653,VP,Values Party,Values Party,-0.6,1972,1978,5.2,1975,"tags position:
 tags ideology: environmentalism // green politics
 tags used: 2"
 NIC,1640,ALN,Alianza Liberal Nicaragüense,Nicaraguan Liberal Alliance,0.54,2005,2018,24.4,2006,"tags position: centre-right
@@ -5885,7 +5885,7 @@ tags used: 3"
 NGA,2313,ANPP,All Nigeria People's Party,All Nigeria People's Party,0.98,1998,2013,27.4,2003,"tags position: centre-right // right-wing
 tags ideology: conservatism // social conservatism // economic liberalism // [ islam and democracy ]
 tags used: 5"
-NGA,6144,APGA,All Progressive Grand Alliance,All Progressive Grand Alliance,-0.41,2003,2013,1.3,2003,"tags position: 
+NGA,6144,APGA,All Progressive Grand Alliance,All Progressive Grand Alliance,-0.41,2003,2013,1.3,2003,"tags position:
 tags ideology: nationalism // federalism // [ pluralism (political philosophy) ] // [ pan-africanism ] // progressivism
 tags used: 3"
 NGA,5538,APC,All Progressives Congress,All Progressives Congress,-0.39,2013,2018,70.8,2015,"tags position: centre-left
@@ -5906,7 +5906,7 @@ tags used: 2"
 NGA,510,SDP,Social Democratic Party,Social Democratic Party,-0.61,1990,1993,53.3,1992,"tags position: centre-left
 tags ideology: social democracy
 tags used: 2"
-NGA,3802,UNPP,United Nigeria People's Party,United Nigeria People's Party,1.04,2003,2003,2.7,2003,"tags position: 
+NGA,3802,UNPP,United Nigeria People's Party,United Nigeria People's Party,1.04,2003,2003,2.7,2003,"tags position:
 tags ideology: conservatism // [ capitalism ] // anti-communism
 tags used: 2"
 NGA,5356,UPN,Unity Party of Nigeria,Unity Party of Nigeria,-0.78,1978,1983,24.7,1979,"tags position: centre-left
@@ -6200,7 +6200,7 @@ tags used: 4"
 PHL,7086,AD,Aksyon Demokratiko,Democratic Action,-0.35,1997,2018,2.6,2016,"tags position: centre // centre-left
 tags ideology: progressivism // [ liberal democracy ]
 tags used: 3"
-PHL,7044,ACT-Teachers,Alliance for Concerned Teachers,Alliance for Concerned Teachers,-1.02,2010,2016,3.7,2016,"tags position: 
+PHL,7044,ACT-Teachers,Alliance for Concerned Teachers,Alliance for Concerned Teachers,-1.02,2010,2016,3.7,2016,"tags position:
 tags ideology: [ national democracy (philippines) ] // progressivism // left-wing nationalism
 tags used: 2"
 PHL,7028,An,Anakpawis,Anakpawis,-0.98,2003,2018,2.3,2007,"tags position: left-wing
@@ -6264,12 +6264,12 @@ PHL,3654,PMP,Pwersa Ng Masang Pilipino,Force of the Filipino Masses,-0.22,1991,2
 tags ideology: populism // big tent
 tags used: 3"
 PHL,4655,UNIDO,United Nationalist Democratic Organization,United Nationalist Democratic Organization,-0.38,1980,1987,20,1984,"tags position: big tent // centre-left
-tags ideology: 
+tags ideology:
 tags used: 2"
 POL,863,AWS,Akcja Wyborcza Solidarność Prawicy,Solidarity Electoral Action of the Right,0.64,1996,2001,33.8,1997,"tags position: centre-right
 tags ideology: conservatism // christian democracy // national conservatism // conservative liberalism // agrarianism // [ centre ]
 tags used: 6"
-POL,4800,BBWR,Bezpartyjny Blok Współpracy z Rządem,Nonpartisan Bloc for Cooperation with the Government,0.09,1927,1935,46.7,1930,"tags position: 
+POL,4800,BBWR,Bezpartyjny Blok Współpracy z Rządem,Nonpartisan Bloc for Cooperation with the Government,0.09,1927,1935,46.7,1930,"tags position:
 tags ideology: [ sanation ] // civic nationalism // [ authoritarianism ] // big tent
 tags used: 2"
 POL,4352,BMN,Blok Mniejszości Narodowych,Bloc of National Minorities,0.08,1922,1935,13.4,1935,"tags position: centre
@@ -6398,7 +6398,7 @@ tags used: 3"
 POL,919,SD,Stronnictwo Demokratyczne,Democratic Party,-0.18,1937,1991,1.4,1991,"tags position: centre // centre-left
 tags ideology: social liberalism // pro-europeanism
 tags used: 4"
-POL,8766,SKL,Stronnictwo Konserwatywno-Ludowe,Conservative People's Party,0.67,1997,2014,4.8,2001,"tags position: 
+POL,8766,SKL,Stronnictwo Konserwatywno-Ludowe,Conservative People's Party,0.67,1997,2014,4.8,2001,"tags position:
 tags ideology: conservatism // liberal conservatism // christian democracy // agrarianism
 tags used: 4"
 POL,4353,SN,Stronnictwo Narodowe,National Party,1.38,1928,1947,12.7,1930,"tags position: right-wing
@@ -6431,7 +6431,7 @@ tags used: 3"
 PRT,1742,AD,Aliança Democrática,Democratic Alliance,0.55,1979,1980,46,1980,"tags position: centre-right
 tags ideology: liberal conservatism // christian democracy
 tags used: 3"
-PRT,1705,APU,Aliança Povo Unido,United People Alliance,-1.59,1979,1985,19.3,1979,"tags position: 
+PRT,1705,APU,Aliança Povo Unido,United People Alliance,-1.59,1979,1985,19.3,1979,"tags position:
 tags ideology: communism // marxism-leninism // green politics // [ eco-socialism ]
 tags used: 3"
 PRT,1308,CDS/PP,Centro Democrático e Social / Partido Popular,Democratic and Social Center / People's Party,0.86,1975,2018,16.8,1976,"tags position: centre-right // right-wing
@@ -6533,14 +6533,14 @@ tags used: 3"
 PRT,896,UDP,União Democrática Popular,Popular Democratic Union,-1.29,1975,1989,2.2,1979,"tags position: left-wing
 tags ideology: [ marxism ] // socialism
 tags used: 2"
-PRT,4753,UN,União Nacional,National Union,1.74,1930,1974,100,1953,"tags position: 
+PRT,4753,UN,União Nacional,National Union,1.74,1930,1974,100,1953,"tags position:
 tags ideology: nationalism // [ corporatism ] // national conservatism // social conservatism
 tags used: 3"
 PRI,3668,PIP,Partido Independentista Puertorriqueño,Puerto Rican Independence Party,-0.61,1946,2018,5.8,2000,"tags position: centre-left
 tags ideology: social democracy
 tags used: 2"
 PRI,3670,PNP,Partido Nuevo Progresista,New Progressive Party,0.02,1967,2018,51.4,2008,"tags position: centre-left // centre-right
-tags ideology: 
+tags ideology:
 tags used: 2"
 PRI,3669,PPD,Partido Popular Democrático,Popular Democratic Party,-0.11,1938,2018,47.9,2000,"tags position: centre // centre-left
 tags ideology: liberalism // social liberalism
@@ -6614,7 +6614,7 @@ tags used: 5"
 ROU,6762,PNL,Partidul Național Liberal-Brătianu,National Liberal Party-Brătianu,1.25,1930,1938,6.1,1931,"tags position: right-wing
 tags ideology: [ national liberalism ] // [ laissez-faire ] // social conservatism
 tags used: 2"
-ROU,7163,PNL—T,Partidul Național Liberal—Tătărescu,National Liberal Party—Tătărescu,-0.08,1944,1947,18.1,1946,"tags position: 
+ROU,7163,PNL—T,Partidul Național Liberal—Tătărescu,National Liberal Party—Tătărescu,-0.08,1944,1947,18.1,1946,"tags position:
 tags ideology: liberalism // social liberalism
 tags used: 2"
 ROU,6761,PNM,Partidul Naţional Maghiar,Magyar Party,0.1,1922,1938,6.2,1928,"tags position: centre
@@ -6797,13 +6797,13 @@ tags used: 2"
 RWA,7996,PVDR,Parti vert démocratique du Rwanda,Democratic Green Party of Rwanda,-0.38,2009,2018,4.6,2018,"tags position: centre // centre-left
 tags ideology: green politics // [ green liberalism ] // [ liberal democracy ]
 tags used: 3"
-RWA,5328,UNAR,Union Nationale Rwandaise,Rwandese National Union,0.92,1959,1963,16.9,1960,"tags position: 
+RWA,5328,UNAR,Union Nationale Rwandaise,Rwandese National Union,0.92,1959,1963,16.9,1960,"tags position:
 tags ideology: conservatism // monarchism
 tags used: 2"
-KNA,4054,CCM,Concerned Citizens’ Movement,Concerned Citizens’ Movement,1.06,1987,2018,11,2010,"tags position: 
+KNA,4054,CCM,Concerned Citizens’ Movement,Concerned Citizens’ Movement,1.06,1987,2018,11,2010,"tags position:
 tags ideology: [ nevis ] // conservatism // monarchism // anti-communism
 tags used: 3"
-KNA,4060,NRP,Nevis Reformation Party,Nevis Reformation Party,0.76,1971,2010,16.2,1975,"tags position: 
+KNA,4060,NRP,Nevis Reformation Party,Nevis Reformation Party,0.76,1971,2010,16.2,1975,"tags position:
 tags ideology: [ nevis ] // nationalism // liberal conservatism // monarchism // anti-communism
 tags used: 4"
 KNA,4058,PAM,People’s Action Movement,People’s Action Movement,0.73,1966,2018,47.6,1984,"tags position: centre-right
@@ -6851,7 +6851,7 @@ tags used: 5"
 SMR,3832,NS,Noi Sammarinesi,We Sammarinese,0.23,2006,2006,2.5,2006,"tags position: centre // centre-right
 tags ideology: liberalism // conservative liberalism
 tags used: 4"
-SMR,3833,NPS,Nuovo Partito Socialista,New Socialist Party,-0.33,2005,2012,5.4,2006,"tags position: 
+SMR,3833,NPS,Nuovo Partito Socialista,New Socialist Party,-0.33,2005,2012,5.4,2006,"tags position:
 tags ideology: social liberalism // social democracy // third way
 tags used: 3"
 SMR,3835,PD,Partito dei Democratici,Party of Democrats,-0.78,2001,2005,20.8,2001,"tags position: centre-left
@@ -6872,7 +6872,7 @@ tags used: 2"
 SMR,7170,PS,Partito Socialista,Socialist Party,-0.48,2012,2018,12.1,2012,"tags position: centre-left
 tags ideology: social democracy // third way // pro-europeanism
 tags used: 4"
-SMR,6733,PSDIS,Partito Socialista Democratico Indipendente Sammarinese,Sammarinese Independent Democratic Socialist Party,-0.85,1957,1990,18,1969,"tags position: 
+SMR,6733,PSDIS,Partito Socialista Democratico Indipendente Sammarinese,Sammarinese Independent Democratic Socialist Party,-0.85,1957,1990,18,1969,"tags position:
 tags ideology: democratic socialism // social democracy
 tags used: 2"
 SMR,3844,PS,Popolari Sammarinesi,Sammarinese People,0.81,2003,2018,2.4,2006,"tags position: centre-right
@@ -6899,7 +6899,7 @@ tags used: 8"
 STP,6143,MDFM,Movimento Democrático das Forças da Mudança-Partido Liberal,Force for Change Democratic Movement-Liberal Party,-0.17,2001,2018,39.4,2002,"tags position: centre
 tags ideology: liberalism // social liberalism // social democracy
 tags used: 4"
-STP,5332,PCD,Partido de Convergência Democrática-Grupa de Reflexão,Democratic Convergence Party-Reflection Group,0.88,1990,2018,60,1991,"tags position: 
+STP,5332,PCD,Partido de Convergência Democrática-Grupa de Reflexão,Democratic Convergence Party-Reflection Group,0.88,1990,2018,60,1991,"tags position:
 tags ideology: [ social market economy ] // conservatism // economic liberalism
 tags used: 2"
 SAU,6299,NRP,Hezb Enqilab Mile,National Revolutionary Party,-0.47,1973,1973,,,"tags position: big tent
@@ -6954,7 +6954,7 @@ SRB,2190,DSS,Demokratska Stranka Srbije,Democratic Party of Serbia,1.38,1993,201
 tags ideology: national conservatism
 tags used: 2"
 SRB,6150,DEPOS,Demokratski pokret Srbije,Democratic Movement of Serbia,0.42,1992,1993,17.2,1993,"tags position: centre-right // big tent
-tags ideology: 
+tags ideology:
 tags used: 2"
 SRB,5379,DJB,Dosta je bilo,It's Enough,1.28,2014,2018,6,2016,"tags position: right-wing
 tags ideology: conservatism // right-wing populism
@@ -7025,13 +7025,13 @@ tags used: 2"
 SRB,5483,PSS — BK,Pokret Snaga Srbije — BK,Strength of Serbia Movement — BK,0.66,2004,2018,24,2012,"tags position: centre-right
 tags ideology: conservatism // economic liberalism // pro-europeanism
 tags used: 4"
-SRB,6558,PS,Pokret socijalista,Movement of Socialists,-0.76,2008,2018,1.2,2014,"tags position: 
+SRB,6558,PS,Pokret socijalista,Movement of Socialists,-0.76,2008,2018,1.2,2014,"tags position:
 tags ideology: left-wing nationalism // social democracy // social conservatism
 tags used: 3"
 SRB,2174,RDSV,Reformska demokartska stranka Vojvodine,Reformist Democratic Party of Vojvodina,-0.42,1990,2000,1.5,1990,"tags position: centre // centre-left
 tags ideology: social democracy // regionalism
 tags used: 4"
-SRB,6741,SDS,Samostalna demokratska stranka,Independent Democratic Party,-0.08,1924,1946,8.6,1927,"tags position: 
+SRB,6741,SDS,Samostalna demokratska stranka,Independent Democratic Party,-0.08,1924,1946,8.6,1927,"tags position:
 tags ideology: liberalism // social liberalism // [ decentralization ]
 tags used: 2"
 SRB,5391,SKJ,Savez komunista Jugoslavije,League of Communists of Yugoslavia,-1.9,1919,1990,100,1959,"tags position: left-wing // far-left
@@ -7043,7 +7043,7 @@ tags used: 4"
 SRB,8526,SRSJ,Savez reformskih snaga Jugoslavije,Union of Reform Forces of Yugoslavia,-0.31,1990,1991,1.4,1990,"tags position: centre-left
 tags ideology: social democracy // social liberalism // [ yugoslavism ] // nationalism // pro-europeanism
 tags used: 5"
-SRB,6740,SLS,Slovenska ljudska stranka,Slovene People's Party,0.75,1882,1945,4.3,1925,"tags position: 
+SRB,6740,SLS,Slovenska ljudska stranka,Slovene People's Party,0.75,1882,1945,4.3,1925,"tags position:
 tags ideology: conservatism // [ slovenes ] // [ autonomy ] // christian democracy // [ slovenian nationalism ]
 tags used: 2"
 SRB,5357,SDP,Socijaldemokratska partija,Social Democratic Party,-0.52,2001,2009,11.5,2003,"tags position: centre-left
@@ -7100,7 +7100,7 @@ tags used: 4"
 SRB,2203,SVM,Vajdasági Magyar Szövetség,Alliance of Vojvodina Hungarians,0.69,1994,2018,2.2,2014,"tags position: centre-right
 tags ideology: [ ethnic party ] // regionalism // conservatism
 tags used: 3"
-SRB,2192,ZES,Za Evropsku Srbiju,For a European Serbia Alliance,-0.24,2008,2008,39.3,2008,"tags position: 
+SRB,2192,ZES,Za Evropsku Srbiju,For a European Serbia Alliance,-0.24,2008,2008,39.3,2008,"tags position:
 tags ideology: big tent // third way // pro-europeanism
 tags used: 3"
 SRB,7175,ZZS,Zajedno za Srbiju,Together for Serbia,-0.47,2012,2018,5.7,2014,"tags position: centre-left
@@ -7184,7 +7184,7 @@ tags used: 2"
 SXM,8659,UD,United Democrats,United Democrats,-0.4,2017,2018,42.4,2018,"tags position: centre-left
 tags ideology: [ christian left ] // christian democracy // social democracy
 tags used: 3"
-SVK,217,ANO,Aliancia Nového Občana,Alliance of the New Citizen,0.41,2001,2011,8,2002,"tags position: 
+SVK,217,ANO,Aliancia Nového Občana,Alliance of the New Citizen,0.41,2001,2011,8,2002,"tags position:
 tags ideology: populism // conservative liberalism
 tags used: 2"
 SVK,6629,DEÚS,Demokratická únia Slovenska,Democratic Union of Slovakia,0.34,1994,1995,8.6,1994,"tags position: centre
@@ -7199,7 +7199,7 @@ tags used: 3"
 SVK,340,KSS,Komunistická strana Slovenska,Communist Party of Slovakia,-2.23,1992,2018,6.3,2002,"tags position: far-left
 tags ideology: communism // marxism-leninism
 tags used: 3"
-SVK,6980,KSS,Komunistická strana Slovenska,Communist Party of Slovakia (1939),-2.16,1939,1990,68.7,1986,"tags position: 
+SVK,6980,KSS,Komunistická strana Slovenska,Communist Party of Slovakia (1939),-2.16,1939,1990,68.7,1986,"tags position:
 tags ideology: communism // marxism-leninism // [ stalinism ]
 tags used: 2"
 SVK,7360,KU,Kresťanská únia,Christian Union,1.18,2019,2018,3.9,2019,"tags position: centre-right // right-wing
@@ -7322,7 +7322,7 @@ tags used: 3"
 SVN,472,SDS,Slovenska demokratska stranka,Slovenian Democratic Party,1.28,1989,2018,29.3,2008,"tags position: right-wing
 tags ideology: conservatism // [ slovenian nationalism ] // right-wing populism // [ opposition to immigration ]
 tags used: 3"
-SVN,8231,SLS,Slovenska ljudska stranka,Slovene People's Party (1982),0.74,1892,1945,,,"tags position: 
+SVN,8231,SLS,Slovenska ljudska stranka,Slovene People's Party (1982),0.74,1892,1945,,,"tags position:
 tags ideology: conservatism // [ slovenes ] // [ autonomy ] // christian democracy // [ slovenian nationalism ]
 tags used: 2"
 SVN,764,SLS,Slovenska ljudska stranka,Slovenian People's Party,0.71,1990,2018,19.4,1996,"tags position: centre-right
@@ -7355,10 +7355,10 @@ tags used: 3"
 SVN,1494,ZS,Zeleni Slovenije,Greens of Slovenia,0.06,1990,2004,8.8,1990,"tags position: centre-right
 tags ideology: green politics // social conservatism
 tags used: 3"
-SOM,5286,SRSP,Xisbiga Hantiwadaagga Kacaanka Soomaaliyeed,Somali Revolutionary Socialist Party,-2.17,1976,1991,100,1979,"tags position: 
+SOM,5286,SRSP,Xisbiga Hantiwadaagga Kacaanka Soomaaliyeed,Somali Revolutionary Socialist Party,-2.17,1976,1991,100,1979,"tags position:
 tags ideology: communism // marxism-leninism // [ islamic socialism ] // [ scientific socialism ] // [ somali nationalism ] // [ greater somalia ]
 tags used: 2"
-SOM,8444,PDP,Xisbiga Nabadda Iyo Horumarka,Peace and Development Party,0.88,2011,2018,,,"tags position: 
+SOM,8444,PDP,Xisbiga Nabadda Iyo Horumarka,Peace and Development Party,0.88,2011,2018,,,"tags position:
 tags ideology: [ islam and democracy ] // conservatism // economic liberalism
 tags used: 2"
 SML,4109,PUDP,"Kulmiye Nabad, Midnimo Iyo Horumar Iyo","Peace, Unity, and Development Party",-0.19,2005,2018,34.1,2005,"tags position: centre // centre-left
@@ -7496,7 +7496,7 @@ tags used: 3"
 ESP,6779,CR—S,Conjunción Republicano—Socialista,Republican—Socialist Conjunction,-0.98,1909,1919,10.3,1910,"tags position: centre-left // left-wing
 tags ideology: [ republicanism in spain ] // progressivism // federalism // [ radical politics ] // socialism
 tags used: 5"
-ESP,6781,CM/PM,Conservadores Mauristas / Partido Maurista,Maurist Conservatives / Maurist Party,0.91,1913,1923,25.4,1919,"tags position: 
+ESP,6781,CM/PM,Conservadores Mauristas / Partido Maurista,Maurist Conservatives / Maurist Party,0.91,1913,1923,25.4,1919,"tags position:
 tags ideology: conservatism // monarchism
 tags used: 2"
 ESP,4795,CDC,Convergència Democràtica de Catalunya,Democratic Convergence of Catalonia,0.12,1974,2016,2.2,2015,"tags position: centre-right
@@ -7541,13 +7541,13 @@ tags used: 9"
 ESP,473,HB,Herri Batasuna,United People,-1.49,1978,1999,1.1,1986,"tags position: far-left
 tags ideology: [ basque nationalism ] // socialism // [ abertzale left ] // left-wing nationalism // [ separatism ] // [ revolutionary socialism ]
 tags used: 3"
-ESP,1141,II — SP,Iniciativa Internacionalista — La Solidaridad entre los Pueblos,Internationalist Initiative — Solidarity between Peoples,-1.61,2009,2018,1.1,2009,"tags position: 
+ESP,1141,II — SP,Iniciativa Internacionalista — La Solidaridad entre los Pueblos,Internationalist Initiative — Solidarity between Peoples,-1.61,2009,2018,1.1,2009,"tags position:
 tags ideology: [ revolutionary socialism ] // communism // left-wing nationalism // [ feminism ] // [ independence ] // [ anti-capitalism ] // [ internationalism ]
 tags used: 2"
 ESP,1260,ICV,Iniciativa per Catalunya Verds,Initiative for Catalonia Greens,-0.83,1987,2019,0.8,2011,"tags position: left-wing
 tags ideology: [ eco-socialism ] // regionalism // federalism // [ catalan nationalism ]
 tags used: 3"
-ESP,6776,ID,Izquierda Dinástica,Dynastic Left,0.05,1881,1884,9.7,1884,"tags position: 
+ESP,6776,ID,Izquierda Dinástica,Dynastic Left,0.05,1881,1884,9.7,1884,"tags position:
 tags ideology: liberalism // monarchism // progressivism
 tags used: 3"
 ESP,6782,IL,Izquierda Liberal,Liberal Left,0.06,1917,1923,7.1,1918,"tags position: centre-left
@@ -7562,7 +7562,7 @@ tags used: 6"
 ESP,6777,LG,Liberales Gamacistas,Gamacist Liberals,0.16,1899,1902,7,1899,"tags position: centre
 tags ideology: liberalism // monarchism
 tags used: 3"
-ESP,4592,IPR,Lliga Regionalista de Catalunya,Regionalist League of Catalonia,0.38,1901,1936,3.6,1933,"tags position: 
+ESP,4592,IPR,Lliga Regionalista de Catalunya,Regionalist League of Catalonia,0.38,1901,1936,3.6,1933,"tags position:
 tags ideology: [ catalan nationalism ] // conservatism // liberalism // christian democracy // monarchism
 tags used: 4"
 ESP,8395,Pais,Más País,More Country,-0.78,2019,2018,2.4,2019,"tags position: centre-left // el país // left-wing
@@ -7718,7 +7718,7 @@ tags used: 2"
 SDN,4754,NUP / DUP,Al Hizb Al-Ittihadi Al-Dimuqrati,National Unionist Party / Democratic Unionist Party,0.49,1952,2018,4.8,2015,"tags position: centre-right
 tags ideology: nationalism // liberal conservatism // secularism // [ new sudan ]
 tags used: 4"
-SDN,5494,SSU,Al-Ittihad Al-Ishtiraki Al-Sudaniy,Sudanese Socialist Union,-0.56,1971,1985,100,1974,"tags position: 
+SDN,5494,SSU,Al-Ittihad Al-Ishtiraki Al-Sudaniy,Sudanese Socialist Union,-0.56,1971,1985,100,1974,"tags position:
 tags ideology: [ arab nationalism ] // [ arab socialism ] // social democracy // [ authoritarianism ] // [ nasserism ] // nationalism // [ islamism ]
 tags used: 2"
 SDN,5496,NCP,al-Mu'tamar al-Waṭanī,National Congress Party,1.34,1998,2019,98.8,1999,"tags position: far-right
@@ -7742,10 +7742,10 @@ tags used: 5"
 SUR,5799,NFDD,Nieuw Front voor Democratie en Ontwikkeling,New Front for Democracy and Development,-0.61,1991,2018,47.3,2000,"tags position: centre-left
 tags ideology: social democracy
 tags used: 2"
-SUR,6849,PNR,Partij Nationalistische Republiek,Nationalist Republican Party,-0.56,1959,1980,7.8,1969,"tags position: 
+SUR,6849,PNR,Partij Nationalistische Republiek,Nationalist Republican Party,-0.56,1959,1980,7.8,1969,"tags position:
 tags ideology: social democracy // nationalism
 tags used: 2"
-SUR,3725,DOE,Partij voor Democratie en Ontwikkeling door Eenheid,Party for Democracy and Development through Unity,0.06,2000,2010,5.1,2010,"tags position: 
+SUR,3725,DOE,Partij voor Democratie en Ontwikkeling door Eenheid,Party for Democracy and Development through Unity,0.06,2000,2010,5.1,2010,"tags position:
 tags ideology: reformism // populism
 tags used: 2"
 SUR,6076,PALU,Progressieve Arbeiders- en Landbouwersunie,Progressive Workers' and Farmers' Union,-1.46,1977,2018,7.8,1987,"tags position: left-wing // far-left
@@ -7769,7 +7769,7 @@ tags used: 4"
 SWE,8720,HP,Hovpartiet,Royal Court Party,1.07,1723,1772,,,"tags position: right-wing
 tags ideology: conservatism
 tags used: 2"
-SWE,1093,Jl,Junilistan,June List,0.47,2004,2009,14.5,2004,"tags position: 
+SWE,1093,Jl,Junilistan,June List,0.47,2004,2009,14.5,2004,"tags position:
 tags ideology: euroscepticism // [ decentralization ] // regionalism
 tags used: 2"
 SWE,651,KD,Kristdemokraterna,Christian Democrats,0.92,1964,2018,11.8,1998,"tags position: centre-right // right-wing // the local
@@ -7793,7 +7793,7 @@ tags used: 3"
 SWE,1959,SP,Socialistiska partiet / Kommunistiska parti [Kilbomarna],Socialist Party / Communist Party [Kilbomians],-1.29,1929,1948,5.3,1932,"tags position: left-wing
 tags ideology: socialism // [ anti-stalinist left ] // [ nazism ]
 tags used: 2"
-SWE,4053,SSV,Sverges socialdemokratiska vänsterparti,Social Democratic Left Party of Sweden,-0.51,1921,1923,3.2,1921,"tags position: 
+SWE,4053,SSV,Sverges socialdemokratiska vänsterparti,Social Democratic Left Party of Sweden,-0.51,1921,1923,3.2,1921,"tags position:
 tags ideology: social democracy // anti-communism
 tags used: 2"
 SWE,409,SD,Sverigedemokraterna,Sweden Democrats,1.91,1988,2018,12.9,2014,"tags position: right-wing // far-right
@@ -7940,7 +7940,7 @@ tags used: 2"
 TJK,8570,PPU,Hizbi Yagonagii Khalqi,Party of People's Unity,0.47,1994,1998,,,"tags position: centre-right
 tags ideology: conservative liberalism // liberal conservatism // secularism
 tags used: 4"
-TJK,8485,CPU,Oʻzbekiston Kommunistik Partiyasi,Communist Party of Uzbekistan,-2.16,1925,1991,,,"tags position: 
+TJK,8485,CPU,Oʻzbekiston Kommunistik Partiyasi,Communist Party of Uzbekistan,-2.16,1925,1991,,,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 TZA,5170,ACT,Alliance for Change and Transparency,Alliance for Change and Transparency,-0.96,2014,2018,2.2,2015,"tags position: left-wing
@@ -7961,7 +7961,7 @@ tags used: 4"
 TZA,3553,TLP,Tanzania Labour Party,Tanzania Labour Party,-0.86,1992,2018,2.8,2005,"tags position: left-wing
 tags ideology: social democracy
 tags used: 2"
-THA,5866,KR,Khana Ratsadon,People's Party,1.26,1932,1946,,,"tags position: 
+THA,5866,KR,Khana Ratsadon,People's Party,1.26,1932,1946,,,"tags position:
 tags ideology: [ constitutionalism ] // nationalism // [ anti-imperialism ] // anti-communism
 tags used: 2"
 THA,4289,PKM,Khwamwang Mai,New Aspiration Party,0.11,1990,2018,22.3,1992,"tags position: centre
@@ -8027,13 +8027,13 @@ tags used: 2"
 TGO,5767,ANC,'Alliance nationale pour le changement,National Alliance for Change,-0.62,2010,2018,17.6,2013,"tags position: centre-left
 tags ideology: social democracy // progressivism // [ anti-authoritarianism ]
 tags used: 3"
-TGO,7185,CAEC,Coalition Arc-en-Ciel,Rainbow Alliance,-0.8,2012,2018,10.8,2013,"tags position: 
+TGO,7185,CAEC,Coalition Arc-en-Ciel,Rainbow Alliance,-0.8,2012,2018,10.8,2013,"tags position:
 tags ideology: big tent // [ democracy ] // [ pan-africanism ] // democratic socialism // social democracy
 tags used: 3"
 TGO,4132,CST,Collectif Sauvons le Togo,Save Togo Group,-1.1,2012,2018,28.9,2013,"tags position: centre-left // far-left
 tags ideology: big tent // social democracy // progressivism // [ anti-authoritarianism ] // socialism // communism // [ trotskyism ]
 tags used: 7"
-TGO,8752,CDPA,Convention démocratique des peuples africains,Democratic Convention of African People,-0.85,1989,2009,1.7,2007,"tags position: 
+TGO,8752,CDPA,Convention démocratique des peuples africains,Democratic Convention of African People,-0.85,1989,2009,1.7,2007,"tags position:
 tags ideology: social democracy // democratic socialism
 tags used: 2"
 TGO,4131,RPT,Rassemblement du Peuple Togolais,Rally of the Togolese People,1.67,1969,2012,39.4,2007,"tags position: right-wing // far-right
@@ -8057,7 +8057,7 @@ tags used: 2"
 TTO,5386,DLP,Democratic Labour Party,Democratic Labour Party,-0.14,1957,1971,33.3,1966,"tags position: big tent // centre // right-wing // left-wing
 tags ideology: [ labour movement ] // civic nationalism // anti-communism // social liberalism // democratic socialism // conservatism // [ criticism of socialism ]
 tags used: 9"
-TTO,4284,NAR,National Alliance for Reconstruction,National Alliance for Reconstruction,-0.31,1986,2005,24.5,1991,"tags position: 
+TTO,4284,NAR,National Alliance for Reconstruction,National Alliance for Reconstruction,-0.31,1986,2005,24.5,1991,"tags position:
 tags ideology: social liberalism // social democracy
 tags used: 2"
 TTO,4283,PNM,People’s National Movement,People’s National Movement,-0.1,1955,2018,50.9,2002,"tags position: centre // centre-left
@@ -8084,7 +8084,7 @@ tags used: 3"
 TUN,4532,CPR,Congrès pour la République,Congress for the Republic,-0.43,2001,2017,8.7,2011,"tags position: centre-left // left-wing
 tags ideology: secularism // left-wing nationalism // social democracy // democratic socialism // social liberalism // liberalism
 tags used: 8"
-TUN,4534,COL,"Current of Love / Tayar el-Mahaba / Popular Petition for Freedom, Justice and Development",Current of Love,0.47,2011,2018,6.7,2011,"tags position: 
+TUN,4534,COL,"Current of Love / Tayar el-Mahaba / Popular Petition for Freedom, Justice and Development",Current of Love,0.47,2011,2018,6.7,2011,"tags position:
 tags ideology: populism // [ islam and democracy ] // social conservatism // regionalism
 tags used: 3"
 TUN,5586,PF,ej-Jabha,Popular Front,-1.57,2012,2018,3.6,2014,"tags position: left-wing // far-left
@@ -8105,7 +8105,7 @@ tags used: 3"
 TUN,4530,NT,Nidaa Tounes,Nidaa Tounes,-0.43,2012,2018,37.6,2014,"tags position: centre // centre-left
 tags ideology: [ bourguibism ] // social democracy // third way // big tent // secularism
 tags used: 6"
-TUN,4533,PDP,Progressive Democratic Party,Progressive Democratic Party,0.05,1983,2012,3.9,2011,"tags position: 
+TUN,4533,PDP,Progressive Democratic Party,Progressive Democratic Party,0.05,1983,2012,3.9,2011,"tags position:
 tags ideology: liberalism // secularism
 tags used: 2"
 TUN,7916,QT,Qalb Tounes,Heart of Tunisia,0.03,2019,2018,17.5,2019,"tags position: centre
@@ -8180,7 +8180,7 @@ tags used: 3"
 TUR,6042,HDP,Halkların Demokratik Partisi,Peoples' Democratic Party,-0.88,2012,2018,12.8,2015,"tags position: centre-left // left-wing
 tags ideology: [ kurds in turkey ] // [ reuters ] // [ minority rights ] // [ pluralism (political philosophy) ] // secularism // social democracy // democratic socialism // left-wing populism // regionalism // [ direct democracy ]
 tags used: 7"
-TUR,8521,CUP,İttihad ve Terakki Cemiyeti,Committee of Union and Progress,-0.58,1889,1918,100,1914,"tags position: 
+TUR,8521,CUP,İttihad ve Terakki Cemiyeti,Committee of Union and Progress,-0.58,1889,1918,100,1914,"tags position:
 tags ideology: secularism // progressivism // [ pan-turkism ] // [ turanism ] // [ pan-islamism ] // [ turkish nationalism ] // [ authoritarianism ]
 tags used: 2"
 TUR,6236,IYI,İyi Parti,Good Party,0.45,2017,2018,10,2018,"tags position: centre // al jazeera english // centre-right
@@ -8210,10 +8210,10 @@ tags used: 2"
 TUR,2471,YTP,Yeni Türkiye Partisi,New Turkey Party (2002),-0.61,2002,2004,1.1,2002,"tags position: centre-left
 tags ideology: social democracy
 tags used: 2"
-TKM,5287,KPT,Kommunisticheskaya Partiya Turkmenistana,Communist Party of Turkmenistan,-2.17,1924,1991,100,1990,"tags position: 
+TKM,5287,KPT,Kommunisticheskaya Partiya Turkmenistana,Communist Party of Turkmenistan,-2.17,1924,1991,100,1990,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
-TKM,5202,DPT,Türkmenistanyň Demokratik partiýasy,Democratic Party of Turkmenistan,1.2,1991,2018,100,1999,"tags position: 
+TKM,5202,DPT,Türkmenistanyň Demokratik partiýasy,Democratic Party of Turkmenistan,1.2,1991,2018,100,1999,"tags position:
 tags ideology: nationalism // social conservatism
 tags used: 2"
 TCA,4120,PDM,People’s Democratic Movement,People’s Democratic Movement,0.7,1975,2018,50.9,2012,"tags position: centre-right
@@ -8240,13 +8240,13 @@ tags used: 3"
 UKR,2215,APU,Ahrarna Partiya Ukrainy,Agrarian Party of Ukraine,0.13,1998,1998,3.8,1998,"tags position: centre
 tags ideology: agrarianism
 tags used: 2"
-UKR,2230,LB,Blok Lytvyna,Lytvyn Bloc,0.13,2006,2012,4.1,2007,"tags position: 
+UKR,2230,LB,Blok Lytvyna,Lytvyn Bloc,0.13,2006,2012,4.1,2007,"tags position:
 tags ideology: [ centre ] // agrarianism
 tags used: 1"
-UKR,2231,BNU — NS,Blok Nasha Ukrayina — Narodna Samooborona,Our Ukraine — People's Self-Defense Bloc,0.22,2001,2012,24.5,2002,"tags position: 
+UKR,2231,BNU — NS,Blok Nasha Ukrayina — Narodna Samooborona,Our Ukraine — People's Self-Defense Bloc,0.22,2001,2012,24.5,2002,"tags position:
 tags ideology: liberalism // conservatism // reformism // pro-europeanism
 tags used: 4"
-UKR,2228,BYuT,Blok Yuliyi Tymoshenko,Yulia Tymoshenko Bloc,0.08,2001,2013,32.1,2007,"tags position: 
+UKR,2228,BYuT,Blok Yuliyi Tymoshenko,Yulia Tymoshenko Bloc,0.08,2001,2013,32.1,2007,"tags position:
 tags ideology: civic nationalism // [ solidarism ] // pro-europeanism
 tags used: 2"
 UKR,4778,BPP,European Solidarity / Blok Petra Poroshenka,European Solidarity / Petro Poroshenko Bloc,0.3,2014,2018,21.8,2014,"tags position: centre-right
@@ -8258,22 +8258,22 @@ tags used: 4"
 UKR,3554,H,Hromada,Hromada,-0.27,1994,2018,2.4,1998,"tags position: centre-left
 tags ideology: populism // [ oligarchy ] // [ leonid kuchma ]
 tags used: 2"
-UKR,4780,GP,Hromadianska pozytsiia (Anatolii Grytsenko),Civic Position (Anatolii Grytsenko),0.47,2005,2018,3.1,2014,"tags position: 
+UKR,4780,GP,Hromadianska pozytsiia (Anatolii Grytsenko),Civic Position (Anatolii Grytsenko),0.47,2005,2018,3.1,2014,"tags position:
 tags ideology: conservative liberalism // economic liberalism // pro-europeanism
 tags used: 3"
-UKR,8251,KPRS,Komunistychna Partiya Robitnykiv i Selyan,Communist Party of Workers and Peasants,-2.16,2001,2015,0.4,2002,"tags position: 
+UKR,8251,KPRS,Komunistychna Partiya Robitnykiv i Selyan,Communist Party of Workers and Peasants,-2.16,2001,2015,0.4,2002,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
-UKR,6985,KPU,Komunistychna Partiya Ukrayiny,Communist Party of Ukraine,-2.16,1918,1991,73.6,1990,"tags position: 
+UKR,6985,KPU,Komunistychna Partiya Ukrayiny,Communist Party of Ukraine,-2.16,1918,1991,73.6,1990,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 UKR,2220,KPU,Komunistychna Partiya Ukrayiny,Communist Party of Ukraine,-1.81,1993,2018,25.4,1998,"tags position: far-left
 tags ideology: communism // marxism-leninism // left-wing populism // [ soviet patriotism ] // social conservatism // [ russophilia ]
 tags used: 5"
-UKR,8250,KPUo,Komunistyčna Partija Ukraïny (onovlena),Communist Party of Ukraine (renewed),-2.16,2000,2015,1.4,2002,"tags position: 
+UKR,8250,KPUo,Komunistyčna Partija Ukraïny (onovlena),Communist Party of Ukraine (renewed),-2.16,2000,2015,1.4,2002,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
-UKR,8253,LPU,Liberalna Partiya Ukrayiny,Liberal Party of Ukraine,-0.07,1991,2018,1.9,1998,"tags position: 
+UKR,8253,LPU,Liberalna Partiya Ukrayiny,Liberal Party of Ukraine,-0.07,1991,2018,1.9,1998,"tags position:
 tags ideology: liberalism // social liberalism // euroscepticism
 tags used: 3"
 UKR,3158,LDPU,Liberal'no Demokratuyčna Partiya Ukrayiny,Liberal Democratic Party of Ukraine,0.29,1992,2018,0,1994,"tags position: right-wing
@@ -8288,7 +8288,7 @@ tags used: 4"
 UKR,4773,NF,Narodnyy Front,People's Front,0.97,2014,2018,22.1,2014,"tags position: centre-right // europe elects // right-wing
 tags ideology: [ ukrainian nationalism ] // social conservatism // national conservatism // pro-europeanism
 tags used: 6"
-UKR,4779,OB,Opozytsiynyy Blok,Opposition Bloc,0.19,2010,2019,9.4,2014,"tags position: 
+UKR,4779,OB,Opozytsiynyy Blok,Opposition Bloc,0.19,2010,2019,9.4,2014,"tags position:
 tags ideology: [ centre ] // euroscepticism // regionalism
 tags used: 2"
 UKR,7922,OPFL,Opposition Platform — For Life,Opposition Platform — For Life,0.16,2018,2018,13.1,2019,"tags position: centre
@@ -8312,7 +8312,7 @@ tags used: 5"
 UKR,2208,PSPU,Prohresyvna Sotsialistychna Partiya Ukrainy,Progressive Socialist Party of the Ukraine,-0.74,1996,2018,4.2,1998,"tags position: syncretic politics
 tags ideology: left-wing populism // social conservatism // [ pan-slavism ] // [ eurasianism ] // euroscepticism // [ russophilia ] // [ anti-americanism ]
 tags used: 4"
-UKR,4774,RP,Radikalna Partiya Oleha Lyashka,Radical Party of Oleh Lyashko,1.13,2010,2018,7.4,2014,"tags position: 
+UKR,4774,RP,Radikalna Partiya Oleha Lyashka,Radical Party of Oleh Lyashko,1.13,2010,2018,7.4,2014,"tags position:
 tags ideology: populism // [ ukrainian nationalism ] // right-wing populism // agrarianism // [ economic nationalism ] // euroscepticism
 tags used: 4"
 UKR,4776,SP,Samopomich,Self Reliance Party,0.49,2012,2018,11,2014,"tags position: centre-right
@@ -8399,7 +8399,7 @@ tags used: 3"
 GBR,1388,LD,Liberal Democrats,Liberal Democrats,-0.1,1988,2018,23,2010,"tags position: centre // centre-left
 tags ideology: liberalism // [ liberalism in the united kingdom ] // social liberalism // pro-europeanism
 tags used: 5"
-GBR,540,Lib,Liberal Party,Liberal Party,-0.03,1859,1988,36.1,1923,"tags position: 
+GBR,540,Lib,Liberal Party,Liberal Party,-0.03,1859,1988,36.1,1923,"tags position:
 tags ideology: liberalism // [ liberalism in the united kingdom ] // classical liberalism // social liberalism
 tags used: 3"
 GBR,2120,LUP,Liberal Unionist Party,Liberal Unionist Party,0.28,1886,1912,12.5,1886,"tags position: centre
@@ -8420,7 +8420,7 @@ tags used: 3"
 GBR,8757,NILP,Northern Ireland Labour Party,Northern Ireland Labour Party,-0.61,1925,1987,16.1,1964,"tags position: centre-left
 tags ideology: social democracy // [ unionism in the united kingdom ]
 tags used: 2"
-GBR,8360,PO,Páirtí na nOibrithe,Workers' Party of Ireland,-2.17,1970,2018,5,1989,"tags position: 
+GBR,8360,PO,Páirtí na nOibrithe,Workers' Party of Ireland,-2.17,1970,2018,5,1989,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 GBR,1002,Plaid,Plaid Cymru,Plaid Cymru — the Party of Wales,-0.74,1925,2018,0.7,2001,"tags position: centre-left // left-wing
@@ -8474,7 +8474,7 @@ tags used: 5"
 USA,2293,Anti-Ma,Anti-Masonic Party,Anti-Masonic Party,1.55,1828,1838,2.9,1830,"tags position: right-wing // far-right
 tags ideology: [ american school (economics) ] // [ elitism ] // [ jacksonian democracy ] // [ anti-masonry ]
 tags used: 2"
-USA,432,Dem,Democratic Party,Democratic Party,-0.52,1828,2018,57.7,1964,"tags position: 
+USA,432,Dem,Democratic Party,Democratic Party,-0.52,1828,2018,57.7,1964,"tags position:
 tags ideology: [ red faction: armageddon ] // third way // [ the new york times ] // [ progressivism in the united states ] // [ reuters ] // social democracy // [ the atlantic ] // [ the new yorker ]
 tags used: 2"
 USA,4538,DRP,Democratic-Republican Party,Democratic-Republican Party,-0.07,1792,1825,100,1816,"tags position: left-wing
@@ -8489,13 +8489,13 @@ tags used: 2"
 USA,2290,GP,Greenback Party,Greenback Party,-0.36,1874,1889,11.6,1878,"tags position: centre-left
 tags ideology: [ monopoly ] // [ labor rights ] // agrarianism
 tags used: 2"
-USA,5728,J,Jacksonian,Jacksonian,0.38,1825,1829,55.9,1826,"tags position: 
+USA,5728,J,Jacksonian,Jacksonian,0.38,1825,1829,55.9,1826,"tags position:
 tags ideology: agrarianism // [ anti-corruption ] // [ elitism ] // [ jeffersonian democracy ] // [ liberalism in the united states ] // classical liberalism // populism // [ laissez-faire ]
 tags used: 3"
 USA,4504,LRP,Liberal Republican Party,Liberal Republican Party,0.19,1870,1872,36.2,1872,"tags position: centre-left
 tags ideology: [ reconstruction era ] // classical liberalism // economic liberalism
 tags used: 3"
-USA,2291,LP,Libertarian Party,Libertarian Party,0.56,1971,2018,1.6,1992,"tags position: 
+USA,2291,LP,Libertarian Party,Libertarian Party,0.56,1971,2018,1.6,1992,"tags position:
 tags ideology: [ red faction: armageddon ] // [ libertarianism in the united states ] // [ laissez-faire ] // classical liberalism // [ cultural liberalism ] // economic liberalism // [ fiscal conservatism ] // [ non-interventionism ] // [ night-watchman state ] // [ austrian school ]
 tags used: 2"
 USA,8633,NP,Nullifier Party,Nullifier Party,1.05,1828,1839,3.9,1833,"tags position: right-wing
@@ -8519,7 +8519,7 @@ tags used: 5"
 USA,3557,RPUSA,Reform Party USA,Reform Party USA,0.11,1995,2018,2.1,1874,"tags position: centre
 tags ideology: populism // [ radical centrism ]
 tags used: 2"
-USA,809,Rep,Republican Party,Republican Party,0.59,1854,2018,58.2,1920,"tags position: 
+USA,809,Rep,Republican Party,Republican Party,0.59,1854,2018,58.2,1920,"tags position:
 tags ideology: [ red faction: armageddon ] // [ centre ] // [ neoconservatism ] // [ libertarianism in the united states ] // [ christian right ] // right-wing populism // [ the new yorker ] // [ the atlantic ]
 tags used: 1"
 USA,2427,SPA,Socialist Party of America,Socialist Party of America,-1.16,1901,1972,10.6,1912,"tags position: left-wing
@@ -8561,7 +8561,7 @@ tags used: 5"
 URY,8743,UP,Unidad Popular,Popular Unity,-1.7,2013,2018,1.1,2014,"tags position: far-left
 tags ideology: socialism // marxism-leninism // [ anti-imperialism ]
 tags used: 3"
-URY,353,UC,Unión Cívica,Civic Union (1980),0.74,1980,2018,2,1984,"tags position: 
+URY,353,UC,Unión Cívica,Civic Union (1980),0.74,1980,2018,2,1984,"tags position:
 tags ideology: christian democracy // conservatism
 tags used: 2"
 UZB,5101,ASDP,Adolat Sotsial Demokratik Partiyasi,Justice Social Democratic Party,-0.61,1995,2018,14.1,2009,"tags position: centre-left
@@ -8582,13 +8582,13 @@ tags used: 2"
 UZB,5831,FMDP,Fidokorlar Milliy Demokratik Partiyasi,Self-Sacrifice National Democratic Party,1.06,1999,2009,24.5,1999,"tags position: right-wing
 tags ideology: conservatism
 tags used: 2"
-UZB,8486,KPU,Kommunisticheskaya Partiya Uzbekistana,Communist Party of Uzbekistan,-2.16,1925,1991,,,"tags position: 
+UZB,8486,KPU,Kommunisticheskaya Partiya Uzbekistana,Communist Party of Uzbekistan,-2.16,1925,1991,,,"tags position:
 tags ideology: communism // marxism-leninism
 tags used: 2"
 UZB,5100,OXDP,O'zbekistan Xalq Demokratik Partiyasi,People's Democratic Party of Uzbekistan,-0.61,1991,2018,23.7,2009,"tags position: centre-left
 tags ideology: social democracy
 tags used: 2"
-UZB,5099,OLDP,O'zbekiston Liberal Demokratik Partiyasi,Uzbekistan Liberal Democratic Party,0.49,2003,2018,39.3,2009,"tags position: 
+UZB,5099,OLDP,O'zbekiston Liberal Demokratik Partiyasi,Uzbekistan Liberal Democratic Party,0.49,2003,2018,39.3,2009,"tags position:
 tags ideology: economic liberalism // [ red faction: armageddon ] // secularism // nationalism
 tags used: 3"
 UZB,5102,OMTDP,O'zbekiston Milliy Tiklanish Demokratik Partiyasi,Uzbekistan National Revival Democratic Party,1.38,1995,2018,23,2009,"tags position: right-wing
@@ -8606,7 +8606,7 @@ tags used: 2"
 VUT,5339,MPP,Melanesian Progressive Party,Melanesian Progressive Party,-0.61,1992,2018,11.5,1998,"tags position: centre-left
 tags ideology: social democracy // [ autonomism (political doctrine) ] // environmentalism
 tags used: 3"
-VUT,6045,N,Nagriamel,Nagriamel,0.6,1960,2018,5.8,2014,"tags position: 
+VUT,6045,N,Nagriamel,Nagriamel,0.6,1960,2018,5.8,2014,"tags position:
 tags ideology: [ autonomism (political doctrine) ] // regionalism // [ cultural conservatism ] // economic liberalism // [ welfare state ]
 tags used: 2"
 VUT,5888,PPP,People's Progess Party,People's Progess Party,-0.56,2001,2018,11.5,2012,"tags position: centre-left
@@ -8693,19 +8693,19 @@ tags used: 3"
 VNM,6901,VDP,Vietnam Democratic Party,Vietnam Democratic Party,-1.04,1944,1988,14.9,1946,"tags position: centre-left // left-wing
 tags ideology: [ vietnamese nationalism ] // social democracy // democratic socialism // marxism-leninism
 tags used: 5"
-VNM,6900,VFF,Vietnamese Fatherland Front,Vietnamese Fatherland Front,-2.16,1977,2018,100,1976,"tags position: 
+VNM,6900,VFF,Vietnamese Fatherland Front,Vietnamese Fatherland Front,-2.16,1977,2018,100,1976,"tags position:
 tags ideology: communism // marxism-leninism // [ ho chi minh thought ] // [ vietnamese nationalism ]
 tags used: 2"
 VNM,6902,VNQDD,Viet Nam Quoc Dan Dang,Vietnamese Nationalist Party,-0.73,1927,1975,8.6,1946,"tags position: centre-left
 tags ideology: [ vietnamese nationalism ] // democratic socialism // anti-communism // [ three principles of the people ]
 tags used: 3"
-VNM,6903,VSP,Vietnam Socialist Party,Vietnam Socialist Party,-1.2,1946,1988,8.9,1946,"tags position: 
+VNM,6903,VSP,Vietnam Socialist Party,Vietnam Socialist Party,-1.2,1946,1988,8.9,1946,"tags position:
 tags ideology: [ vietnamese nationalism ] // democratic socialism // socialism
 tags used: 2"
-VNR,8516,CL,Can Lao Party,Personalist Labor Revolutionary Party,1.04,1954,1963,,,"tags position: 
+VNR,8516,CL,Can Lao Party,Personalist Labor Revolutionary Party,1.04,1954,1963,,,"tags position:
 tags ideology: [ personalism ] // [ vietnamese nationalism ] // conservatism // anti-communism
 tags used: 2"
-VNR,8515,FNL,Front National de Libération,National Liberation Front of South Vietnam,-2.17,1960,1976,,,"tags position: 
+VNR,8515,FNL,Front National de Libération,National Liberation Front of South Vietnam,-2.17,1960,1976,,,"tags position:
 tags ideology: communism // marxism-leninism // [ vietnamese nationalism ] // [ anti-imperialism ]
 tags used: 2"
 VNR,6057,DVQDD,Nationalist Party of Greater Vietnam,Nationalist Party of Greater Vietnam,1.27,1939,1963,,,"tags position: right-wing
@@ -8720,13 +8720,13 @@ tags used: 3"
 ESH,5578,POLISARIO,Frente Popular de Liberación de Saguía el Hamra y Río de Oro,Popular Front for the Liberation of Saguia el-Hamra and Río de Oro,-1.01,1973,2018,100,2012,"tags position: centre-left // left-wing
 tags ideology: big tent // social democracy // democratic socialism // [ arab nationalism ] // [ pan-africanism ] // [ marxism ] // communism
 tags used: 6"
-YEM,4164,YSP,Al-Hizb Al-Ishtiraki Al-Yamani),Yemeni Socialist Party,-1.38,1978,2018,18.5,1993,"tags position: 
+YEM,4164,YSP,Al-Hizb Al-Ishtiraki Al-Yamani),Yemeni Socialist Party,-1.38,1978,2018,18.5,1993,"tags position:
 tags ideology: social democracy // [ arab nationalism ] // [ islamic socialism ] // communism // marxism-leninism
 tags used: 3"
 YEM,4162,GPC,Al-Mo'tamar Ash-Sha'abiy Al-'Aam,General People's Congress,0.14,1982,2018,58,2003,"tags position: centre
 tags ideology: nationalism // [ arab nationalism ] // [ pan-arabism ] // big tent
 tags used: 3"
-YMD,5218,HIY,al-Hizb al-Ishtiraki al-Yamani,Yemeni Socialist Party,-1.38,1978,1990,100,1966,"tags position: 
+YMD,5218,HIY,al-Hizb al-Ishtiraki al-Yamani,Yemeni Socialist Party,-1.38,1978,1990,100,1966,"tags position:
 tags ideology: social democracy // [ arab nationalism ] // [ islamic socialism ] // communism // marxism-leninism
 tags used: 3"
 ZMB,2332,FDD,Forum for Democracy and Development,Forum for Democracy and Development,-0.61,2001,2018,15.6,2001,"tags position: centre-left
@@ -8762,7 +8762,7 @@ tags used: 2"
 ZWE,6616,FPZ,Forum Party of Zimbabwe,Forum Party of Zimbabwe,0.74,1993,1995,6,1995,"tags position: centre-right
 tags ideology: conservatism
 tags used: 2"
-ZWE,3558,MDC,Movement for Democratic Change,Movement for Democratic Change,-0.85,1999,2005,39.5,2005,"tags position: 
+ZWE,3558,MDC,Movement for Democratic Change,Movement for Democratic Change,-0.85,1999,2005,39.5,2005,"tags position:
 tags ideology: democratic socialism // social democracy
 tags used: 2"
 ZWE,3560,MDC—N,Movement for Democratic Change—Ncube,Movement for Democratic Change—Ncube,-0.79,2005,2018,2.7,2013,"tags position: centre-left
@@ -8771,7 +8771,7 @@ tags used: 3"
 ZWE,3559,MDC—T,Movement for Democratic Change—Tsvangirai,Movement for Democratic Change—Tsvangirai,-0.77,2005,2018,43.2,2008,"tags position: centre-left
 tags ideology: social democracy // left-wing nationalism
 tags used: 3"
-ZWE,7986,PDP,People's Democratic Party,People's Democratic Party,-0.86,2015,2018,,,"tags position: 
+ZWE,7986,PDP,People's Democratic Party,People's Democratic Party,-0.86,2015,2018,,,"tags position:
 tags ideology: democratic socialism // social democracy
 tags used: 2"
 ZWE,7275,RGA,Responsible Government Association,Rhodesia Party,0.08,1917,1934,48,1920,"tags position: centre
@@ -8795,6 +8795,6 @@ tags used: 4"
 ZWE,3305,ZANU — PF,Zimbabwe African National Union — Patriotic Front,Zimbabwe African National Union — Patriotic Front,0.16,1980,2018,63,2013,"tags position: big tent
 tags ideology: populism // [ anti-imperialism ] // [ pan-africanism ] // [ african nationalism ]
 tags used: 2"
-ZWE,5344,ZAPU,Zimbabwe African People's Union,Zimbabwe African People's Union,-1.58,1961,1987,19.3,1985,"tags position: 
+ZWE,5344,ZAPU,Zimbabwe African People's Union,Zimbabwe African People's Union,-1.58,1961,1987,19.3,1985,"tags position:
 tags ideology: [ african nationalism ] // left-wing nationalism // [ georgism ] // marxism-leninism // [ african socialism ]
 tags used: 2"

@@ -49,4 +49,3 @@ ess[ ! select.row, 'name'] <- ess[ ! select.row, 'label']
 
 # list with unique party keys
 write.csv(ess, 'ess.csv', na='', row.names = FALSE)
-

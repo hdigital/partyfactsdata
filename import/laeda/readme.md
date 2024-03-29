@@ -8,5 +8,3 @@
 
 * *"multi_country_consolidates_lh_seats.xlsx"* converted to .csv (utf-8)
 * ISO3-Codes from R-package "countrycode"
-
-

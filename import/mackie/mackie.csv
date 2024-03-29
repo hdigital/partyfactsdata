@@ -5,7 +5,7 @@ AUS,3,Protectionists,1901-1906,3,AUS-103,1901,1906,Protectionists,,,
 AUS,4,Western Australia Party ,1906,1,AUS-104,1906,1906,Western Australia Party ,,,
 AUS,5,Liberal Party ,1910-1914,3,AUS-105,1910,1914,Liberal Party ,,,
 AUS,6,Nationalist Party ,1917-1929,6,AUS-106,1917,1929,Nationalist Party ,,,
-AUS,7,Country Party; from 1975 to 1982 the National Country Party; since 1982 the National Party ,1919ff,28,AUS-107,1919,1991,Country Party,,,from 1975 to 1982 the National Country Party; since 1982 the National Party 
+AUS,7,Country Party; from 1975 to 1982 the National Country Party; since 1982 the National Party ,1919ff,28,AUS-107,1919,1991,Country Party,,,from 1975 to 1982 the National Country Party; since 1982 the National Party
 AUS,8,Liberal Union ,1922,1,AUS-108,1922,1922,Liberal Union ,,,
 AUS,9,Country Progressive Party ,1928-1929,2,AUS-109,1928,1929,Country Progressive Party ,,,
 AUS,10,Communist Party ,1931-1937; 1943ff,22,AUS-110,1931,1991,Communist Party ,,,
@@ -51,7 +51,7 @@ BEL,7,Ex-Servicemen (Anciens combattants),1919-1922,,BEL-107,1919,1922,Ex-Servic
 BEL,8,Flemish Nationalists. Until 1932 the Front Party (Frontpartij); 1936-39 the Flemish National League (Vlaamsch Nationaal Verbond – VNV); 1949 Flemish Concentration (Vlaamsch Concentratie); 1954 Flemish Christian 'eoples' Union (Christelijke Vlaamse Volksunie). Since 1954 Volksunie (VU),1919-1939; 1949; 1954ff,20,BEL-108,1919,1991,Flemish Nationalists,Volksunie,VU,Until 1932 the Front Party (Frontpartij); 1936-39 the Flemish National League (Vlaamsch Nationaal Verbond – VNV); 1949 Flemish Concentration (Vlaamsch Concentratie); 1954 Flemish Christian 'eoples' Union (Christelijke Vlaamse Volksunie). Since 1954 Volksunie (VU)
 BEL,9,Middle Class Party (Classes moyennes),1919-1928,4,BEL-109,1919,1928,Middle Class Party ,Classes moyennes,,
 BEL,10,Communist Party (Kommunistische Partij van Belgie - KPB/Parti communiste de Belgique – PCB),1921 ff,22,BEL-110,1921,1991,Communist Party ,Kommunistische Partij van Belgie - KPB/Parti communiste de Belgique – PCB,KPB/PCB,
-BEL,11,German Minority. In 1929-32 Christian People's Party (Christlich Volkspartei). In 1939 Heimattreue Front. In 1971 Christlich Unabhängige Wählerverband. From 1972 Partei der Deutschsprachigen Belgier ,1929-1932; 1939;1971ff,8,BEL-111,1929,1991,German Minority,Partei der Deutschsprachigen Belgier,,In 1929-32 Christian People's Party (Christlich Volkspartei). In 1939 Heimattreue Front. In 1971 Christlich Unabhängige Wählerverband. From 1972 Partei der Deutschsprachigen Belgier 
+BEL,11,German Minority. In 1929-32 Christian People's Party (Christlich Volkspartei). In 1939 Heimattreue Front. In 1971 Christlich Unabhängige Wählerverband. From 1972 Partei der Deutschsprachigen Belgier ,1929-1932; 1939;1971ff,8,BEL-111,1929,1991,German Minority,Partei der Deutschsprachigen Belgier,,In 1929-32 Christian People's Party (Christlich Volkspartei). In 1939 Heimattreue Front. In 1971 Christlich Unabhängige Wählerverband. From 1972 Partei der Deutschsprachigen Belgier
 BEL,12,Rexists (Rex),1936-1939,2,BEL-112,1936,1939,Rexists ,Rex,,
 BEL,13,Democratic Union (Union democratique belge – UDB),1946,1,BEL-113,1946,1946,Democratic Union ,Union democratique beige – UDB,UDB,
 BEL,14,Francophone Democratic Front (Front democratique des Bruxellois francophones – FDF),1965ff,9,BEL-114,1965,1991,Francophone Democratic Front ,Front democratique des Bruxellois francophones – FDF,FDF,
@@ -258,14 +258,14 @@ FIN,13,Finnish People's Democratic Union (Suomen Kansan Demokraattinen Liitto) ,
 FIN,14,Liberal League (Vapaamielisten Liitto) ,1951-1962,4,FIN-114,1951,1962,Liberal League ,Vapaamielisten Liitto,,
 FIN,15,Social Democratic League of Workers and Smallholders (Työväen ja Pienviljelijäin Sosialdemokraattinen Liitto) ,1958-1972,5,FIN-115,1958,1972,Social Democratic League of Workers and Smallholders ,Työväen ja Pienviljelijäin Sosialdemokraattinen Liitto,,
 FIN,16,Christian League (Suomen Kristillinen Liitto),1958ff,9,FIN-116,1958,1991,Christian League ,Suomen Kristillinen Liitto,,
-FIN,17,Finnish Smallholders' Party (Suomen Pientalonpoiken Puolue); since 1966 Finnish Rural Party (Suomen Maaseudun Puolue) ,1962ff,8,FIN-117,1962,1991,Finnish Smallholders' Party ,Suomen Maaseudun Puolue,,since 1966 Finnish Rural Party (Suomen Maaseudun Puolue) 
-FIN,18,Constitutional People's Party (Suomen Perustuslaillinen Kansanpuolue). Renamed Constitutional Party of Finland (Perustuslaillinen Oikeistopuolue) in 1980 ,1975ff,4,FIN-118,1975,1991,Constitutional People's Party ,Perustuslaillinen Oikeistopuolue,,Renamed Constitutional Party of Finland (Perustuslaillinen Oikeistopuolue) in 1980 
-FIN,19,Finnish People's Unity Party (Suomen Kansan Yhtenaisyyden Puolue). In 1983 Union for Democracy (Kansalaisvallan Liitto) ,1975-1983,3,FIN-119,1975,1983,Finnish People's Unity Party ,Kansalaisvallan Liitto,,In 1983 Union for Democracy (Kansalaisvallan Liitto) 
+FIN,17,Finnish Smallholders' Party (Suomen Pientalonpoiken Puolue); since 1966 Finnish Rural Party (Suomen Maaseudun Puolue) ,1962ff,8,FIN-117,1962,1991,Finnish Smallholders' Party ,Suomen Maaseudun Puolue,,since 1966 Finnish Rural Party (Suomen Maaseudun Puolue)
+FIN,18,Constitutional People's Party (Suomen Perustuslaillinen Kansanpuolue). Renamed Constitutional Party of Finland (Perustuslaillinen Oikeistopuolue) in 1980 ,1975ff,4,FIN-118,1975,1991,Constitutional People's Party ,Perustuslaillinen Oikeistopuolue,,Renamed Constitutional Party of Finland (Perustuslaillinen Oikeistopuolue) in 1980
+FIN,19,Finnish People's Unity Party (Suomen Kansan Yhtenaisyyden Puolue). In 1983 Union for Democracy (Kansalaisvallan Liitto) ,1975-1983,3,FIN-119,1975,1983,Finnish People's Unity Party ,Kansalaisvallan Liitto,,In 1983 Union for Democracy (Kansalaisvallan Liitto)
 FIN,20,Greens (Vihreät); since February 1987 the Green Union (Vihreä Liitto),1983ff,2,FIN-120,1983,1991,Greens ,Vihreä Liitto,,since February 1987 the Green Union (Vihreä Liitto)
 FIN,21,Pensioners' Party (Suomen Eläkeläisten Puolue),1987,1,FIN-121,1987,1987,Pensioners' Party ,Suomen Eläkeläisten Puolue,,
 FIN,22,Democratic Alternative (Demokraattinen Vaihtoehto) ,1987,1,FIN-122,1987,1987,Democratic Alternative ,Demokraattinen Vaihtoehto,,
 FRA,1,"Socialist Party (Section francaise de l'internationale ouvriere - SFIO; since 1969 the
-Parti socialiste - PS)",1910ff,21,FRA-101,1910,1991,"Socialist Party 
+Parti socialiste - PS)",1910ff,21,FRA-101,1910,1991,"Socialist Party
 ",Parti socialiste,PS,"since 1969 the
 Parti socialiste - PS)"
 FRA,2,Radical Socialist Party (Parti republicain radical et radical socialiste) ,1910-73,14,FRA-102,1910,1973,Radical Socialist Party ,Parti republicain radical et radical socialiste,,
@@ -282,14 +282,14 @@ FRA,12,Conservatives ,1945ff,12,FRA-112,,1991,Conservatives ,Conservatives ,,
 FRA,13,Popular Republican Movement (Mouvement republicain populaire – MRP),1945-1962,6,FRA-113,1945,1962,Popular Republican Movement ,Mouvement republicain populaire – MRP,MRP,
 FRA,14,Gaullists ,1946ff,12,FRA-114,1946,1991,Gaullists ,Gaullists ,,
 FRA,15,"Poujadists - Union for the Defence of Traders and Artisans (UDCA -Union pour la defence des
-commertrants et artisans)",1956-1962,3,FRA-115,1956,1962,"Poujadists - Union for the Defence of Traders and Artisans 
+commertrants et artisans)",1956-1962,3,FRA-115,1956,1962,"Poujadists - Union for the Defence of Traders and Artisans
 ",Union pour la defence des commertrants et artisans,UDCA,
 FRA,16,Other Extreme Right ,1956ff,10,FRA-116,1956,1991,Other Extreme Right ,,,
 FRA,17,Union of Democratic Forces (Union des forces democratiques – UFD),1958,1,FRA-117,1958,,Union of Democratic Forces ,Union des forces democratiques – UFD,UFD,
 FRA,18,Other Extreme Left ,1962ff,8,FRA-118,1962,1991,Other Extreme Left ,,,
 FRA,19,Unified Socialist Party (Parti socialiste unifié – PSU),1962-1981,6,FRA-119,1962,1981,Unified Socialist Party ,Parti socialiste unifié – PSU,PSU,
 FRA,20,Independent Republicans (Fédération nationale des Republicains independants – FNRI) ,1962-73,4,FRA-120,1962,,Independent Republicans ,Fédération nationale des Republicains independants – FNRI,FNRI,
-FRA,21,Democratic Centre (Centre démocrat); in 1968 Centre du progrès et de la democratie moderne ,1967-73,3,FRA-121,1967,,Democratic Centre ,Centre démocrat,,in 1968 Centre du progrès et de la democratie moderne 
+FRA,21,Democratic Centre (Centre démocrat); in 1968 Centre du progrès et de la democratie moderne ,1967-73,3,FRA-121,1967,,Democratic Centre ,Centre démocrat,,in 1968 Centre du progrès et de la democratie moderne
 FRA,22,Regionalist parties ,1967-68; 1978-86,5,FRA-122,1967,1978,Regionalist parties ,,,
 FRA,23,Centre Democracy and Progress (Centre democratie et progres - CDP) ,1973,1,FRA-123,1973,1973,Centre Democracy and Progress ,Centre democratie et progres - CDP,CDP,
 FRA,24,Workers' Struggle (Lutte ouvriere - LO),1973-86,4,FRA-124,1973,1986,Workers' Struggle ,Lutte ouvriere - LO,LO,
@@ -327,15 +327,15 @@ GRC,4,Communist Party of Greece (Kommounistikon Komma Elladas - KKE) ,1926-1936;
 GRC,5,Farmer-Labour Party (Agrotikon-Ergatikon Komma) ,1926-1936,5,GRC-105,1926,1936,Farmer-Labour Party ,Agrotikon-Ergatikon Komma,,
 GRC,6,Free Opinion Party (Komma Ton Eleftherofronon),1926-1936,6,GRC-106,1926,1936,Free Opinion Party ,Komma Ton Eleftherofronon,,
 GRC,7,Conservative Republican Party (Syntiritiko Dimokratikon Komma) ,1926-1933,4,GRC-107,1926,1933,Conservative Republican Party ,Syntiritiko Dimokratikon Komma,,
-GRC,8,National Republican Party (Ethnikon Dimokratikon Komma); from 1932 the National Radical Party (Ethnikon Rizospastikon Komma) ,1928-1936,4,GRC-108,1928,1936,National Republican Party ,Ethnikon Rizospastikon Komma,,from 1932 the National Radical Party (Ethnikon Rizospastikon Komma) 
+GRC,8,National Republican Party (Ethnikon Dimokratikon Komma); from 1932 the National Radical Party (Ethnikon Rizospastikon Komma) ,1928-1936,4,GRC-108,1928,1936,National Republican Party ,Ethnikon Rizospastikon Komma,,from 1932 the National Radical Party (Ethnikon Rizospastikon Komma)
 GRC,9,Progressive Party (Proodeftikon Komma) ,1928-1936,5,GRC-109,1928,1936,Progressive Party ,Proodeftikon Komma,,
 GRC,10,Progressive Union (Proodeftiki Enosis) ,1928,1,GRC-110,1928,1928,Progressive Union ,Proodeftiki Enosis,,
 GRC,11,Agrarian Republican Party (Agrotikon Dimokratikon Komma) ,1933-1936,2,GRC-111,1933,1936,Agrarian Republican Party ,Agrotikon Dimokratikon Komma,,
 GRC,12,Agrarian Party (Agrotikon Komma) ,1933,1,GRC-112,1933,1933,Agrarian Party ,Agrotikon Komma,,
-GRC,13,National Unity Party (Ethnikon Enotikon Komma); in 1950 National Regeneration Front (Metopon Ethnikis Anadimiourgias) ,1936-1950,3,GRC-113,1936,1950,National Unity Party ,Metopon Ethnikis Anadimiourgias,,in 1950 National Regeneration Front (Metopon Ethnikis Anadimiourgias) 
+GRC,13,National Unity Party (Ethnikon Enotikon Komma); in 1950 National Regeneration Front (Metopon Ethnikis Anadimiourgias) ,1936-1950,3,GRC-113,1936,1950,National Unity Party ,Metopon Ethnikis Anadimiourgias,,in 1950 National Regeneration Front (Metopon Ethnikis Anadimiourgias)
 GRC,14,National People's Party (Ethnikon Laikon Komma) ,1936,1,GRC-114,1936,1936,National People's Party ,Ethnikon Laikon Komma,,
 GRC,15,Reformist Party (Metarrythmistikon Komma) ,1936-1946,2,GRC-115,1936,1946,Reformist Party ,Metarrythmistikon Komma,,
-GRC,16,Democratic Socialist Party (Dimokratikon Socialistikon Komma); in 1950 and 1951 George Papandreou Party (Komma Georgiou Papandreou) ,1936-1951,4,GRC-116,1936,1951,Democratic Socialist Party ,Komma Georgiou Papandreou,,in 1950 and 1951 George Papandreou Party (Komma Georgiou Papandreou) 
+GRC,16,Democratic Socialist Party (Dimokratikon Socialistikon Komma); in 1950 and 1951 George Papandreou Party (Komma Georgiou Papandreou) ,1936-1951,4,GRC-116,1936,1951,Democratic Socialist Party ,Komma Georgiou Papandreou,,in 1950 and 1951 George Papandreou Party (Komma Georgiou Papandreou)
 GRC,17,Venizelist Liberal Party (Komma Venizelikon Fileleftheron) ,1946,1,GRC-117,1946,1946,Venizelist Liberal Party ,Komma Venizelikon Fileleftheron,,
 GRC,18,National Liberal Party (Ethnikon Fileleftheron Komma) ,1946,1,GRC-118,1946,1946,National Liberal Party ,Ethnikon Fileleftheron Komma,,
 GRC,19,National Party of Greece (Ethnikon Komma Ellados) ,1946-1950,2,GRC-119,1946,1950,National Party of Greece ,Ethnikon Komma Ellados,,
@@ -343,15 +343,15 @@ GRC,20,Nationalist Party (Komma Ethnikofronon) ,1946-1950; 1958,3,GRC-120,1946,1
 GRC,21,National Front of the Working People (Ethniki Parataksis Ergazomenou Laou) ,1950,1,GRC-121,1950,1950,National Front of the Working People ,Ethniki Parataksis Ergazomenou Laou,,
 GRC,22,National Progressive Centre Union (Ethniki Proodeftiki Enosis Kentrou - EPEK) ,1950-1958,5,GRC-122,1950,1958,National Progressive Centre Union ,Ethniki Proodeftiki Enosis Kentrou - EPEK,EPEK,
 GRC,23,New Party (Neon Komma) ,1950,1,GRC-123,1950,1950,New Party ,Neon Komma,,
-GRC,24,Farmers' and Workers' Rally (Synagermos Agroton kai Ergazomenon); from 1956 the Farmers' and Workers' Party (Agrotikon kai Ergatikon Komma) ,1950-1958,4,GRC-124,1950,1958,Farmers' and Workers' Rally ,Agrotikon kai Ergatikon Komma,,from 1956 the Farmers' and Workers' Party (Agrotikon kai Ergatikon Komma) 
-GRC,25,United Democratic Left (Eniaia Demokratiki Aristera - EDA); in 1950 Democratic Front (Dimokratiki Parataksis); in 1961 Pan-Agrarian Democratic Front of Greece (Pandimokratikon Agrotikon Metopon Ellados -PAME) ,1950ff,13,GRC-125,1950,1991,United Democratic Left ,Pandimokratikon Agrotikon Metopon Ellados -PAME,PAME,in 1950 Democratic Front (Dimokratiki Parataksis); in 1961 Pan-Agrarian Democratic Front of Greece (Pandimokratikon Agrotikon Metopon Ellados -PAME) 
+GRC,24,Farmers' and Workers' Rally (Synagermos Agroton kai Ergazomenon); from 1956 the Farmers' and Workers' Party (Agrotikon kai Ergatikon Komma) ,1950-1958,4,GRC-124,1950,1958,Farmers' and Workers' Rally ,Agrotikon kai Ergatikon Komma,,from 1956 the Farmers' and Workers' Party (Agrotikon kai Ergatikon Komma)
+GRC,25,United Democratic Left (Eniaia Demokratiki Aristera - EDA); in 1950 Democratic Front (Dimokratiki Parataksis); in 1961 Pan-Agrarian Democratic Front of Greece (Pandimokratikon Agrotikon Metopon Ellados -PAME) ,1950ff,13,GRC-125,1950,1991,United Democratic Left ,Pandimokratikon Agrotikon Metopon Ellados -PAME,PAME,in 1950 Democratic Front (Dimokratiki Parataksis); in 1961 Pan-Agrarian Democratic Front of Greece (Pandimokratikon Agrotikon Metopon Ellados -PAME)
 GRC,26,Greek Rally (Ellenikos Synagermos) ,1951-1952,2,GRC-126,1951,1952,Greek Rally ,Ellenikos Synagermos,,
 GRC,27,Democratic Party of the Working People (Dimokratikon Komma Ergazomenou Laou) ,1956-1958,2,GRC-127,1956,1958,Democratic Party of the Working People ,Dimokratikon Komma Ergazomenou Laou,,
 GRC,28,Liberal Democratic Union (Fileleftheri Dimokratiki Enosis) ,1956,1,GRC-128,1956,1956,Liberal Democratic Union ,Fileleftheri Dimokratiki Enosis,,
 GRC,29,National Radical Union (Ethniki Rizospasriki Enosis - ERE) ,1956-1964,5,GRC-129,1956,1964,National Radical Union ,Ethniki Rizospasriki Enosis - ERE,ERE,
 GRC,30,Popular Social Party (Laikon Koinonikon Komma) ,1956-1958,2,GRC-130,1956,1958,Popular Social Party ,Laikon Koinonikon Komma,,
 GRC,31,Party of the Progressives (Komma Proodeftikon),1956-1964; 1981,6,GRC-131,1956,1964,Party of the Progressives ,Komma Proodeftikon,,
-GRC,32,Centre Union (Enosis Kentrou); from 1977 Union of the Democratic Centre (Enosis Dimokratikou Kentrou - EDIK) ,1961 ff,8,GRC-132,1961,1991,Centre Union ,Enosis Dimokratikou Kentrou - EDIK,EDIK,from 1977 Union of the Democratic Centre (Enosis Dimokratikou Kentrou - EDIK) 
+GRC,32,Centre Union (Enosis Kentrou); from 1977 Union of the Democratic Centre (Enosis Dimokratikou Kentrou - EDIK) ,1961 ff,8,GRC-132,1961,1991,Centre Union ,Enosis Dimokratikou Kentrou - EDIK,EDIK,from 1977 Union of the Democratic Centre (Enosis Dimokratikou Kentrou - EDIK)
 GRC,33,Christian Democracy (Christianiki Dimokratia) ,1974ff,5,GRC-133,1974,1991,Christian Democracy ,Christianiki Dimokratia,,
 GRC,34,National Democratic Union (Ethniki Dimokratiki Enosis) ,1974,1,GRC-134,1974,1974,National Democratic Union ,Ethniki Dimokratiki Enosis,,
 GRC,35,Communist Party of Greece – Interior (Kommounistikon Komma Ellados Esoterikou - KKE es.) ,1974ff,4,GRC-135,1974,1991,Communist Party of Greece – Interior ,Kommounistikon Komma Ellados Esoterikou - KKE es.,KKE es,
@@ -488,11 +488,11 @@ ITA,16,Action Party (Partito d'Azione - Pd'A),1946,1,ITA-116,1946,1946,Action Pa
 ITA,17,Christian Democrats (Democrazia Cristiana - DC),1946ff,9,ITA-117,1946,1991,Christian Democrats ,Democrazia Cristiana - DC,DC,
 ITA,18,Common Man Front (Fronte dell'Uomo Qualunque),1946,1,ITA-118,1946,1946,Common Man Front ,Fronte dell'Uomo Qualunque,,
 ITA,19,Liberal Party (Partito Liberale Italiano - PLI) ,1946ff,1 l,ITA-119,1946,1991,Liberal Party ,Partito Liberale Italiano - PLI,PLI,
-ITA,20,Monarchist Party. In 1946 Blocco Nazionale della Liberta. From 1948 to 1958 Partito Nazionale Monarchico - PNM. From 1963 Partito Democratico di Unita Monarchica - PDIUM ,1946-1968,7,ITA-120,1946,1968,Monarchist Party,,PNM,In 1946 Blocco Nazionale della Liberta. From 1948 to 1958 Partito Nazionale Monarchico - PNM. From 1963 Partito Democratico di Unita Monarchica - PDIUM 
+ITA,20,Monarchist Party. In 1946 Blocco Nazionale della Liberta. From 1948 to 1958 Partito Nazionale Monarchico - PNM. From 1963 Partito Democratico di Unita Monarchica - PDIUM ,1946-1968,7,ITA-120,1946,1968,Monarchist Party,,PNM,In 1946 Blocco Nazionale della Liberta. From 1948 to 1958 Partito Nazionale Monarchico - PNM. From 1963 Partito Democratico di Unita Monarchica - PDIUM
 ITA,21,Peasants' Party (Partito Contadini d'Italia – Pcd'I) ,1946-1948; 1953,3,ITA-121,1946,1948,Peasants' Party ,Partito Contadini d'Italia – Pcd'I,Pcd'I,
-ITA,22,Sicilian Independence Movement (Movimento per I'Independenza della Sicilia); in 1948 Union of Federalist Movements (Unione Moviment Federalisti) ,1946-1948,2,ITA-122,1946,1948,Sicilian Independence Movement ,Movimento per I'Independenza della Sicilia,,in 1948 Union of Federalist Movements (Unione Moviment Federalisti) 
-ITA,23,Social Democrats. In 1948 Partito Socialista die LavoratoriItaliani - PSLI. From 1953 Partito Socialista Democratico Italiano - PSDI) ,1948-1963;1972ff,10,ITA-123,1948,1991,Social Democrats,Partito Socialista Democratico Italiano,PSDI,In 1948 Partito Socialista die LavoratoriItaliani - PSLI. From 1953 Partito Socialista Democratico Italiano - PSDI) 
-ITA,24,Italian Social Movement (Movimento Sociale ltaliano - MSI); since 1972 Movimento Sociale Italiano - Destra Nazionale - MSI - DN) ,1948ff,10,ITA-124,1948,1991,Italian Social Movement ,Movimento Sociale ltaliano - MSI,MSI,since 1972 Movimento Sociale Italiano - Destra Nazionale - MSI - DN) 
+ITA,22,Sicilian Independence Movement (Movimento per I'Independenza della Sicilia); in 1948 Union of Federalist Movements (Unione Moviment Federalisti) ,1946-1948,2,ITA-122,1946,1948,Sicilian Independence Movement ,Movimento per I'Independenza della Sicilia,,in 1948 Union of Federalist Movements (Unione Moviment Federalisti)
+ITA,23,Social Democrats. In 1948 Partito Socialista die LavoratoriItaliani - PSLI. From 1953 Partito Socialista Democratico Italiano - PSDI) ,1948-1963;1972ff,10,ITA-123,1948,1991,Social Democrats,Partito Socialista Democratico Italiano,PSDI,In 1948 Partito Socialista die LavoratoriItaliani - PSLI. From 1953 Partito Socialista Democratico Italiano - PSDI)
+ITA,24,Italian Social Movement (Movimento Sociale ltaliano - MSI); since 1972 Movimento Sociale Italiano - Destra Nazionale - MSI - DN) ,1948ff,10,ITA-124,1948,1991,Italian Social Movement ,Movimento Sociale ltaliano - MSI,MSI,since 1972 Movimento Sociale Italiano - Destra Nazionale - MSI - DN)
 ITA,25,South Tyrol People's Party (Südtiroler Volkspartei – SVP),1948ff,10,ITA-125,1948,1991,South Tyrol People's Party ,Südtiroler Volkspartei – SVP,SVP,
 ITA,26,"Community (Comunita - Concenu-azione della Cultura, degli Operaii et dei Contadini d'Italia) ",1958,1,ITA-126,1958,1958,Community ,"Comunita - Concenu-azione della Cultura, degli Operaii et dei Contadini d'Italia",,
 ITA,27,Popular Monarchist Party (Partito Monarchico Popolare - PMP) ,1958,1,ITA-127,1958,1958,Popular Monarchist Party ,Partito Monarchico Popolare - PMP,PMP,
@@ -639,7 +639,7 @@ NLD,35,Reformed Political Federation (Reformatorische Politieke Federatie),1977f
 NLD,36,Centre Party (Centrumpartij) ,1981ff,3,NLD-136,1981,1991,Centre Party ,Centrumpartij,,
 NLD,37,Evangelical People's Party (Evangelische Volkspartij – EVP),1981ff,3,NLD-137,1981,1991,Evangelical People's Party ,Evangelische Volkspartij – EVP,,
 NOR,1,Liberals (Venstre - literally Left),1882ff,30,NOR-101,1882,1991,Liberals ,Venstre ,,- literally Left
-NOR,2,Conservatives (Hoyre - literally Right); from 1903 to 1913 known as the Unionist Party (Samlingspartiet) ,1882ff,30,NOR-102,1882,1991,Conservatives ,Samlingspartiet,,from 1903 to 1913 known as the Unionist Party (Samlingspartiet) 
+NOR,2,Conservatives (Hoyre - literally Right); from 1903 to 1913 known as the Unionist Party (Samlingspartiet) ,1882ff,30,NOR-102,1882,1991,Conservatives ,Samlingspartiet,,from 1903 to 1913 known as the Unionist Party (Samlingspartiet)
 NOR,3,"Moderates (Moderate Venstre - literally, Moderate Left)",1888-1903,6,NOR-103,1888,1903,Moderates ,Moderate Venstre ,,"- literally, Moderate Left"
 NOR,4,Labour Party (Det Norske Arbeiderparti - DNA),1894ff,26,NOR-104,1894,1991,Labour Party ,Det Norske Arbeiderparti - DNA,DNA,
 NOR,5,Worker Democrats (Arbeiderdemokratene); from 1921 Radical People's Party (Radikale Folkeparti),1906-1936,11,NOR-105,1906,1936,Worker Democrats ,Radikale Folkeparti,,from 1921 Radical People's Party (Radikale Folkeparti)
@@ -651,8 +651,8 @@ NOR,10,Christian People's Party (Kristelig Folkeparti),1933ff,13,NOR-110,1933,19
 NOR,11,Commonwealth Party (Samfunnspartiet) ,1933-1949,4,NOR-111,1933,1949,Commonwealth Party ,Samfunnspartiet,,
 NOR,12,National Socialists (Nasjonal Samling – literally National Unity),1933-1936,2,NOR-112,1933,1936,National Socialists ,Nasjonal Samling ,,– literally National Unity
 NOR,13,Joint Non-Socialist Lists ,1949-1981,9,NOR-113,1949,1981,Joint Non-Socialist Lists ,,,
-NOR,14,Socialist People's Party (Sosialistisk Folkeparti); since 1975 Socialist Left Party (Sosialistisk Venstreparti) ,1961ff,7,NOR-114,1961,1991,Socialist People's Party ,Sosialistisk Venstreparti,,since 1975 Socialist Left Party (Sosialistisk Venstreparti) 
-NOR,15,Anders Lange's Party (Anders Langes Parti); since 1977 Progress Party (Fremskrittspartiet) ,1973ff,4,NOR-115,1973,1991,Anders Lange's Party ,Fremskrittspartiet,,since 1977 Progress Party (Fremskrittspartiet) 
+NOR,14,Socialist People's Party (Sosialistisk Folkeparti); since 1975 Socialist Left Party (Sosialistisk Venstreparti) ,1961ff,7,NOR-114,1961,1991,Socialist People's Party ,Sosialistisk Venstreparti,,since 1975 Socialist Left Party (Sosialistisk Venstreparti)
+NOR,15,Anders Lange's Party (Anders Langes Parti); since 1977 Progress Party (Fremskrittspartiet) ,1973ff,4,NOR-115,1973,1991,Anders Lange's Party ,Fremskrittspartiet,,since 1977 Progress Party (Fremskrittspartiet)
 NOR,16,New People's Party (Det Nye Folkepartiet); since 1980 Liberal People's Party (Det Liberale Folkeparti),1973ff,4,NOR-116,1973,1991,New People's Party ,Det Liberale Folkeparti,,since 1980 Liberal People's Party (Det Liberale Folkeparti)
 NZL,1,Conservative Party,1890-1908,7,NZL-101,1890,1908,Conservative Party,,,
 NZL,2,Liberal Party ,1890-1935,15,NZL-102,1890,1935,Liberal Party ,,,

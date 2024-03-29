@@ -8,7 +8,7 @@ name <-read.csv("source__clea/appendix_II/clea-appendix_II.csv", fileEncoding = 
 name <- name %>%
   select(-row) %>%
   mutate(country = replace(country, country == "United Kingdom", "UK"),
-         country = replace(country, country == "United States of America", "US"))                
+         country = replace(country, country == "United States of America", "US"))
 
 party <- party_raw %>% left_join(name, by = c("ctr_n"="country", "pty"="code"))
 

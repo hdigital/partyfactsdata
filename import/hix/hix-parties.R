@@ -28,10 +28,10 @@ mep <- mep %>% mutate(year = 1979 + (ep_term - 1) * 5)
 party <- party %>% mutate(code = as.integer(code))
 
 country <-
-  country %>% 
+  country %>%
   select(code_country = code, country_name = member_state)
 
-pa_years <- 
+pa_years <-
   mep %>%
   group_by(national_party) %>%
   summarise(year_first = min(year), year_last = max(year))
@@ -52,7 +52,7 @@ pa_size <-
 
 ## Create party list ----
 
-pa_out <- 
+pa_out <-
   party %>%
   inner_join(country, by = c("member_state" = "code_country")) %>%
   inner_join(pa_years, by = c("code" = "national_party")) %>%

@@ -14,12 +14,12 @@ rm(data_ipod)
 if(FALSE) {
   pf_ext <- read_csv("source__partyfacts-external-parties.csv") %>%
     filter(dataset_key == "parlgov") %>%
-    select(parlgov_id = dataset_party_id, partyfacts_id) %>% 
+    select(parlgov_id = dataset_party_id, partyfacts_id) %>%
     write_csv("partyfacts-parlgov-ids.csv")
 }
 
 pf_ext <- read_csv("partyfacts-parlgov-ids.csv")
-  
+
 
 ## Extract information ----
 
@@ -42,7 +42,7 @@ ipod <- raw_ipod %>%
     )
   )
 
-ipod_party <- ipod %>% 
+ipod_party <- ipod %>%
   group_by(party_id) %>%
   mutate(
     year_first = min(year),
@@ -60,9 +60,9 @@ ipod_party <- ipod %>%
 
 ## Final data ----
 
-ipod_compl <- ipod_party %>% 
+ipod_compl <- ipod_party %>%
   left_join(pf_ext, by = c("party_id" = "parlgov_id")) %>%
-  filter(share >= 1) %>% 
+  filter(share >= 1) %>%
   distinct(party_id, .keep_all = TRUE)
 
 write.csv(ipod_compl, "ipod.csv", fileEncoding = "UTF-8", row.names = FALSE, na = "")

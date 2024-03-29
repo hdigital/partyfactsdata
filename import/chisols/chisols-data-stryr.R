@@ -82,7 +82,7 @@ write_csv(coal_out, "source__chisols-data/chisols-stryr-coalition.csv", na = "")
 
 party <-
   coal_out %>%
-  mutate(year = year(date)) %>% 
+  mutate(year = year(date)) %>%
   group_by(statename, affiliation) %>%
   summarise(first = min(year), last = max(year))
 

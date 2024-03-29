@@ -5,7 +5,7 @@ library(tidyverse)
 if( ! exists("ess_raw") | ! exists("ess")) {
   ess_raw <- haven::read_dta("source__ESS1-7e01-dta.zip")
   ess <- ess_raw %>%
-    haven::as_factor() %>% 
+    haven::as_factor() %>%
     mutate(essround = as.integer(essround))
 }
 
@@ -14,12 +14,12 @@ if( ! exists("ess_raw") | ! exists("ess")) {
 
 get_ess_party <- function(prt_var) {
   quo_prt_var <- rlang::sym(prt_var)
-  ess %>% 
-  select(cntry, essround, !!quo_prt_var) %>% 
-  na.omit() %>% 
+  ess %>%
+  select(cntry, essround, !!quo_prt_var) %>%
+  na.omit() %>%
   mutate(variable = rlang::quo_text(quo_prt_var),
          ess_id = as.integer(!!quo_prt_var),
-         party = as.character(!!quo_prt_var)) %>% 
+         party = as.character(!!quo_prt_var)) %>%
   count(cntry, essround, variable, ess_id, party)
 }
 
@@ -36,18 +36,17 @@ write_csv(party_all, "ess-parties-round.csv", na = "")
 pa_ignore <- c("Don't know", "No answer", "Not applicable", "Other", "Refusal")
 
 party_round <- party_all %>%
-  filter( ! party %in% pa_ignore) %>% 
+  filter( ! party %in% pa_ignore) %>%
   mutate(ess_key = sprintf("%s -- %s", cntry, party) %>% tolower()) %>%
-  group_by(cntry, essround, variable) %>% 
+  group_by(cntry, essround, variable) %>%
   mutate(share = round(100 * n / sum(n), 1))
 
-party <- party_round %>% 
-  group_by(ess_key) %>% 
+party <- party_round %>%
+  group_by(ess_key) %>%
   mutate(ess_first = min(essround), ess_last = last(essround)) %>%
   top_n(1, share) %>%
-  distinct(ess_key, .keep_all = TRUE) %>% 
-  select(-variable, -n) %>% 
+  distinct(ess_key, .keep_all = TRUE) %>%
+  select(-variable, -n) %>%
   arrange(ess_key)
-  
-write_csv(party, "ess-parties.csv", na = "")
 
+write_csv(party, "ess-parties.csv", na = "")

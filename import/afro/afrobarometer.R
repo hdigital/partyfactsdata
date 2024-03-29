@@ -39,4 +39,3 @@ ab_party <- ab_party %>%
          )
 
 write_csv(ab_party, "afrobarometer.csv", na = "")
-

@@ -3,7 +3,7 @@ Step-by-step import guide -- contribute a dataset
 
 
 Initial version of the codebook was created by Phillip Hocks and Jan
-Fischer (University of Bremen) in 2015.  
+Fischer (University of Bremen) in 2015.
 This work was funded by a small research grant of the University of Bremen (M8 Plus).
 
 More information: [partyfacts.org](http://www.partyfacts.org) --

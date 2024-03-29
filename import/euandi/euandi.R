@@ -4,7 +4,7 @@ library(countrycode)
 euandi_raw <- read_csv("euandi-parties.csv")
 
 euandi <-
-  euandi_raw %>% 
+  euandi_raw %>%
   mutate(
     country = str_extract(ZA5970_Codebook, "[:alpha:]*"),
     country = case_when(
@@ -18,7 +18,7 @@ euandi <-
     name = str_extract(ZA5970_Codebook, "(?<=\\)[:space:]).*"),
     name = str_extract(name, "(?<=[:space:]).*"),
     party_id = paste(country_short, name_short, sep = "-")
-    ) %>% 
+    ) %>%
   select(-ZA5970_Codebook)
 
 write_csv(euandi, "euandi.csv")

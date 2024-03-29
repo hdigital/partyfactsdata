@@ -6,7 +6,7 @@ max_share <- 2.0
 # clea <- read.csv("clea.csv", fileEncoding = "cp1252", na.strings = "Missing data", as.is = TRUE)
 # saveRDS(clea, file="clea.Rda", ascii = TRUE)
 
-# read CLEA data only once 
+# read CLEA data only once
 if( ! exists("clea_raw")) {
   clea_raw <- readRDS(file="source__clea/clea.Rda")
 }
@@ -16,7 +16,7 @@ clea <- clea_raw
 clea$pv1 <- as.integer(clea$pv1)
 
 pa_info <- clea %>%
-  group_by(ctr, pty) %>% 
+  group_by(ctr, pty) %>%
   summarise(yr_first = min(yr, na.rm=T),
             yr_last = max(yr, na.rm=T) )
 
@@ -26,7 +26,7 @@ pa_name <- clea %>%
   filter(nchar(pty_n) == max(nchar(pty_n))) %>%
   distinct(ctr, pty)
 
-elec <- clea %>% 
+elec <- clea %>%
   group_by(ctr, yr, mn, pty) %>%
   summarize(pv1 = sum(pv1, na.rm=T)) %>%
   group_by(ctr, yr, mn) %>%
@@ -38,7 +38,7 @@ pa_share <- elec %>%
   filter(pv1_share == max(pv1_share)) %>%
   distinct(ctr, pty) %>%
   select(ctr, pty, pv1_share_max = pv1_share, pv1_share_max_yr = yr, n_election)
-  
+
 party <- pa_name %>%
   left_join(pa_info) %>%
   left_join(pa_share) %>%

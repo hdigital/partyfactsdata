@@ -17,20 +17,20 @@ linked_all <- read_csv("wvs-linked-2017-03-12.csv")
 linked <- linked_all %>% filter( ! is.na(partyfacts_id))
 
 share <- share_all %>%
-  group_by(party) %>% 
+  group_by(party) %>%
   mutate(year_first = min(year) - 4, year_last = max(year),
          share_max = max(share),
          waves = paste(sort(wave), collapse = " ")) %>%
-  filter(share == share_max) %>% 
-  distinct(party, .keep_all = TRUE) %>% 
+  filter(share == share_max) %>%
+  distinct(party, .keep_all = TRUE) %>%
   select(id=party, year_first, year_last, share_max, share_year=year, waves)
 
 wvs <- wvs_all %>%
-  filter(ignore == 0, is.na(id_duplicate)) %>% 
+  filter(ignore == 0, is.na(id_duplicate)) %>%
   select(-ignore, -id_duplicate) %>%
-  left_join(share) %>% 
-  arrange(id) %>% 
-  filter(! is.na(share_max),         # exclude parties with no respondents 
+  left_join(share) %>%
+  arrange(id) %>%
+  filter(! is.na(share_max),         # exclude parties with no respondents
          (share_max >= share_filter  # size filter import
           | (share_max >= 1.0 & id %in% linked$dataset_party_id)))  # already linked
 

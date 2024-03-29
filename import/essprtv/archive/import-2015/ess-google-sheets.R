@@ -20,18 +20,18 @@ ess_source_parties <- read.csv("ess-parties.csv", fileEncoding = "UTF-8", as.is=
 ess_source_parties$partyname <- stri_trim_both(ess_source_parties$partyname)
 for (i in 1:6) {
   round_nr <- i
-  
+
   ess_party_round <- select(ess, country_short, get(paste0("ess_round_", round_nr)))
   ess_party_round$party_merge <- paste(ess_party_round[[1]], ess_party_round[[2]])
-  
-  ess_source_party_round <- filter(ess_source_parties, essround == round_nr) 
+
+  ess_source_party_round <- filter(ess_source_parties, essround == round_nr)
   ess_source_party_round <- mutate(ess_source_party_round, party_merge = paste(countrynameshort, partyname))
-  
-  missing_parties <- ess_source_party_round[which( ! ess_source_party_round$party_merge %in% 
+
+  missing_parties <- ess_source_party_round[which( ! ess_source_party_round$party_merge %in%
                                                      ess_party_round$party_merge), ]
   missing_parties <- select(missing_parties, -essround, -year, -party_merge)
   colnames(missing_parties) <- c(paste0("ess_round_", round_nr), "country", "country_short")
-  
+
   ess <- bind_rows(ess, missing_parties)
 }
 
@@ -54,7 +54,7 @@ ess$name <- party_name %>%
   stri_trans_tolower %>%
   stri_replace_all_regex("\\W+", " ") %>%
   stri_trim_both
-  
+
 name_dupl <- paste(ess$country_short, ess$name) %>% .[duplicated(.)] %>% unique
 if(length(name_dupl) >= 1) {
   warning("Duplicate party names")
@@ -74,4 +74,3 @@ ess_codebook <- ess %>% filter (id %in% ess_ids) %>% arrange(country_short, name
 ess_to_add <- ess %>% filter ( ! id %in% ess_ids) %>% arrange(country_short, name)
 write.csv(ess_codebook, "ess.csv", fileEncoding = 'utf-8', na='', row.names = FALSE)
 write.csv(ess_to_add, "source__ess-add-to-codebook.csv", fileEncoding = 'utf-8', na='', row.names = FALSE)
-

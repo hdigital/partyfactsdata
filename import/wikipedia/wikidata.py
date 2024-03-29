@@ -1,6 +1,6 @@
 """
-    Script for retrieving wikidata ids from partyfacts
-    outputs a csv file with the partyfacts ids and wikidata ids
+Script for retrieving wikidata ids from partyfacts
+outputs a csv file with the partyfacts ids and wikidata ids
 """
 
 import pandas as pd

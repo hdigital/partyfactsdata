@@ -33,9 +33,9 @@ country_custom = c(
 
 party_all <-
   party_raw %>%
-  rename(party = affiliation) %>% 
+  rename(party = affiliation) %>%
   filter(! statename %in% country_ignore) %>%  # ignore countries with no parties
-  left_join(leader_first) %>% 
+  left_join(leader_first) %>%
   mutate(country = countrycode(statename, "country.name", "iso3c", custom_match = country_custom))
 
 
@@ -48,8 +48,8 @@ party_out <-
   left_join(party_name %>% distinct(country, party, name_english, name)) %>%
   mutate(party_id = paste(country, party, sep = "-")) %>%
   filter(! str_detect(tolower(party), re_exclude)) %>%
-  select(-party_id, everything()) %>% 
-  relocate(chisols_first, .after = name) %>% 
+  select(-party_id, everything()) %>%
+  relocate(chisols_first, .after = name) %>%
   distinct(party_id, .keep_all = TRUE)
 
 write_csv(party_out, "chisols.csv", na = "")

@@ -4,13 +4,13 @@ library(countrycode)
 file_in <- read_csv("source__euned.csv", na = "NA")
 
 euned <-
-  file_in %>% 
+  file_in %>%
   mutate(party_id = paste(country, party_abbreviation, sep = "-"))
 
 euned$dup <- duplicated(euned$party_id)
 
 file_out <-
-  euned %>% 
+  euned %>%
   mutate(
     dup = as.character(dup),
     party_abbreviation = if_else(str_length(party_abbreviation) >= 25, NA_character_, party_abbreviation),
@@ -26,8 +26,7 @@ file_out <-
       partyfacts_id == 2172 ~ NA_real_,
       T ~ partyfacts_id
     )
-  ) %>% 
+  ) %>%
   filter(dup == "FALSE")
 
-write_csv(file_out, "euned.csv", na = "")  
-
+write_csv(file_out, "euned.csv", na = "")

@@ -6,8 +6,8 @@ http://www.europeansocialsurvey.org/data/round-index.html
 
 ## Credits
 
-Holger Döring – University of Bremen – 2017, 2015  
-Jan Fischer – University of Bremen – 2015  
+Holger Döring – University of Bremen – 2017, 2015
+Jan Fischer – University of Bremen – 2015
 Tomasz Żółtak – Polish Academy of Sciences, Poland – 2014
 
 ## Note
@@ -30,6 +30,6 @@ We use two scripts here:
 * `ess-partyfacts.R` –
   Script to create a merge file `ess-partyfacts.csv` for all ESS round IDs.
 
-An initial script and dataset was created with significant support by [Tomasz Żółtak](mailto:t.zoltak@ibe.edu.pl).  
+An initial script and dataset was created with significant support by [Tomasz Żółtak](mailto:t.zoltak@ibe.edu.pl).
 
 Tomasz also added Party Facts IDs to most parties, so that the identification of identical parties across ESS rounds was more easy.

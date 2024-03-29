@@ -7,7 +7,7 @@ ppmd_raw <- read_csv("source__ppmd_summary_data.csv")
 # one observation per party and unique
 country_custom = c(`NI`= "NIR", `SR` = "SRB", `UK` = "GBR")
 
-ppmd <- ppmd_raw %>% 
+ppmd <- ppmd_raw %>%
   mutate(
     id = paste(Country, Party, sep = "-"),
     country_short = countrycode(
@@ -18,7 +18,7 @@ ppmd <- ppmd_raw %>%
       country_short == "NIR" ~ "GBR",
       TRUE ~ country_short
     )
-    ) %>% 
+    ) %>%
   distinct(Country, Party, .keep_all = TRUE) %>%
   arrange(Country, Party)
 

@@ -16,11 +16,11 @@ clea_appendix <- janitor::clean_names(raw_clea_appendix)
 ## PF-Data linked ----
 
 if(FALSE) {
-  read_csv("https://partyfacts.herokuapp.com/download/external-parties-csv/", 
+  read_csv("https://partyfacts.herokuapp.com/download/external-parties-csv/",
            na = "",
-           guess_max = 50000) %>% 
-    filter(dataset_key == "clea") %>% 
-    select(dataset_party_id, partyfacts_id) %>% 
+           guess_max = 50000) %>%
+    filter(dataset_key == "clea") %>%
+    select(dataset_party_id, partyfacts_id) %>%
     write_csv("partyfacts-clea.csv")
 }
 
@@ -31,9 +31,9 @@ pf_ext <- read_csv("partyfacts-clea.csv", na = "")
 
 country_custom <- c("Kosovo" = "XKX", "Madagscar" = "MDG", "Micronesia" = "FSM", "Somaliland" = "SML")
 
-clea_appendix <- 
-  clea_appendix %>% 
-  drop_na(party_code) %>% 
+clea_appendix <-
+  clea_appendix %>%
+  drop_na(party_code) %>%
   mutate(
     party_code = as.numeric(str_remove(party_code, "\\-")),
     country_short = countrycode(country,
@@ -41,8 +41,8 @@ clea_appendix <-
                                 destination = "iso3c",
                                 custom_match = country_custom),
     merge_id = paste(country_short, party_code, sep = "-")
-  ) %>% 
-  select(country_short, country, name_short = abbr, name = party_name, 
+  ) %>%
+  select(country_short, country, name_short = abbr, name = party_name,
          name_english = party_name_in_english, merge_id)
 
 
@@ -50,8 +50,8 @@ clea_appendix <-
 
 ### party names ----
 
-clea_appendix <- 
-  clea_appendix %>% 
+clea_appendix <-
+  clea_appendix %>%
   mutate(
     name_english = case_when(
       country_short == "SGP" ~ name_short,
@@ -69,19 +69,19 @@ clea_appendix <-
 
 
 ### remove duplicate party ids ----
-  
+
 # check for duplicate merge_id's
 duplicated(clea_appendix$merge_id) %>% any()
 
-clea_appendix <- 
-  clea_appendix %>% 
+clea_appendix <-
+  clea_appendix %>%
   distinct(merge_id, .keep_all = TRUE)
 
 ### country codes separately ----
-country_info <- 
-  clea_appendix %>% 
-  select(country, country_short) %>% 
-  distinct() %>% 
+country_info <-
+  clea_appendix %>%
+  select(country, country_short) %>%
+  distinct() %>%
   mutate(
     country = case_when(
       country_short == "GBR" ~ "UK",
@@ -94,7 +94,7 @@ country_info <-
 ## Create aggregate information ----
 
 ### year first/last ----
-pa_info <- 
+pa_info <-
   raw_clea %>%
   group_by(ctr, pty) %>%
   summarise(
@@ -104,35 +104,35 @@ pa_info <-
   )
 
 ### name ----
-pa_name <- 
+pa_name <-
   raw_clea %>%
   select(ctr_n, ctr, pty_n, pty) %>%
   group_by(ctr, pty) %>%
   filter(nchar(pty_n) == max(nchar(pty_n))) %>%
-  distinct(ctr, pty, .keep_all = TRUE) %>% 
+  distinct(ctr, pty, .keep_all = TRUE) %>%
   ungroup()
 
 ### elections ----
-elec <- 
+elec <-
   raw_clea %>%
   group_by(ctr, yr, mn, pty) %>%
   summarize(pv1 = sum(pv1, na.rm = TRUE), .groups = "drop") %>%
   group_by(ctr, yr, mn) %>%
-  mutate(pv1_share = round(pv1 / sum(pv1) * 100, 1)) %>% 
+  mutate(pv1_share = round(pv1 / sum(pv1) * 100, 1)) %>%
   ungroup()
 
 ### number elections, max vote share, year ----
-pa_share <- 
+pa_share <-
   elec %>%
   group_by(ctr, pty) %>%
   mutate(n_election = n()) %>%
   filter(pv1_share == max(pv1_share)) %>%
   distinct(ctr, pty, .keep_all = TRUE) %>%
-  select(ctr, pty, pv1_share_max = pv1_share, pv1_share_max_yr = yr, n_election) %>% 
+  select(ctr, pty, pv1_share_max = pv1_share, pv1_share_max_yr = yr, n_election) %>%
   ungroup()
 
 ### combine previous steps ----
-party <- 
+party <-
   pa_name %>%
   left_join(pa_info) %>%
   left_join(pa_share) %>%
@@ -142,9 +142,9 @@ party <-
 ## Final information ----
 
 # fix share issues, create party_id and alliance indicator
-clea_party <- 
-  party %>% 
-  left_join(country_info, by = c("ctr_n" = "country")) %>% 
+clea_party <-
+  party %>%
+  left_join(country_info, by = c("ctr_n" = "country")) %>%
   mutate(
     pv1_share_max = if_else(pv1_share_max < 0, pv1_share_max * -1, pv1_share_max),
     merge_id = paste(country_short, pty, sep = "-"),
@@ -153,10 +153,10 @@ clea_party <-
   )
 
 # combine party list and party information
-file_out <- 
-  clea_appendix %>% 
-  left_join(clea_party, by = c("merge_id")) %>% 
-  left_join(pf_ext, by = c("party_id" = "dataset_party_id")) %>% 
+file_out <-
+  clea_appendix %>%
+  left_join(clea_party, by = c("merge_id")) %>%
+  left_join(pf_ext, by = c("party_id" = "dataset_party_id")) %>%
   filter(pty < 4000 | pv1_share_max >= 25) %>%  # remove alliances
   filter(pv1_share_max >= 5 | ! is.na(partyfacts_id)) %>%  # temporary 5% threshold
   select(country_short = country_short.x, country, name_short, name, name_english,

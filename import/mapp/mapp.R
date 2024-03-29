@@ -15,13 +15,13 @@ raw_mapp <- readxl::read_xlsx(mapp_file)
 
 # dataset with Party Facts and ParlGov IDs
 if(FALSE) {
-  read.csv("partyfacts-external-parties.csv") %>% 
+  read.csv("partyfacts-external-parties.csv") %>%
     filter(dataset_key == "parlgov") %>%
-    select(partyfacts_id, parlgov_id = dataset_party_id) %>% 
+    select(partyfacts_id, parlgov_id = dataset_party_id) %>%
     write_csv("partyfacts-parlgov.csv")
 }
 
-raw_pfext <- read.csv("partyfacts-parlgov.csv") %>% 
+raw_pfext <- read.csv("partyfacts-parlgov.csv") %>%
   mutate(parlgov_id = as.character(parlgov_id))
 
 
@@ -47,7 +47,7 @@ mapp_temp <- raw_mapp %>%
   )
 
 # add partyfacts_id via parlgov_id's
-mapp_temp2 <- mapp_temp %>% 
+mapp_temp2 <- mapp_temp %>%
   left_join(raw_pfext, by = c("PartyID (ParlGov)" = "parlgov_id")) %>%
   select(
     country_short, `Party acronym`, name,
@@ -67,7 +67,7 @@ colnames(mapp_temp2) <- c(
 )
 
 # fix unicode issue
-mapp <- mapp_temp2 %>% 
+mapp <- mapp_temp2 %>%
   mutate(
     name = case_when(
       country == "ROU" & name_short %in% c("PPPS", "FSN") ~ NA_character_,

@@ -32,15 +32,15 @@ leader_out <-
 
 write_csv(leader_out, "source__chisols-data/chisols-leader.csv", na = "")
 
-leader_first <- 
-  leader_out %>% 
+leader_first <-
+  leader_out %>%
   mutate(
     year = year(begin),
     chisols_first = glue::glue("{year} {leader} ({party})")
-    ) %>% 
-  group_by(statename, party) %>% 
-  slice_head() %>% 
-  select(statename, party, chisols_first) %>% 
+    ) %>%
+  group_by(statename, party) %>%
+  slice_head() %>%
+  select(statename, party, chisols_first) %>%
   ungroup()
 
 write_csv(leader_first, "chisols-leader-first.csv", na = "")

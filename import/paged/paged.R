@@ -2,11 +2,11 @@ library(tidyverse)
 library(readstata13)
 library(countrycode)
 
-file_in <- 
+file_in <-
   read_csv("source__PAGED-basic-party-dataset-Dec-2023.csv", na = "")
 
-paged <- 
-  file_in |> 
+paged <-
+  file_in |>
   mutate(
     party_abbr = if_else(party_abbr == "Other minor parties and/or independents", "Others/Indep.", party_abbr),
     countrycode = countrycode(country_id_iso, "iso3n", "iso3c"),
@@ -15,12 +15,12 @@ paged <-
     year_first = min(year, na.rm = T),
     year_last = max(year, na.rm = T),
     .by = c(party_id)
-  ) |> 
-  arrange(-seat_share) |> 
-  slice(1L, .by = c(party_id)) |> 
-  filter(seat_share >= 2.5 | !is.na(partyfacts_id)) |> 
-  select(countrycode, party_abbr, party_id, year_first, year_last, seat_share, year) |> 
-  distinct() |> 
+  ) |>
+  arrange(-seat_share) |>
+  slice(1L, .by = c(party_id)) |>
+  filter(seat_share >= 2.5 | !is.na(partyfacts_id)) |>
+  select(countrycode, party_abbr, party_id, year_first, year_last, seat_share, year) |>
+  distinct() |>
   mutate(
     countrycode = case_when(
       countrycode == "THA" ~ "NLD",

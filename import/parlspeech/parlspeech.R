@@ -4,9 +4,9 @@ library(lubridate)
 ps_all <- read_csv("parlspeech-mps.csv")
 
 # clean-up ParlSpeech MP data
-ps_clean <- 
-  ps_all %>% 
-  rename(country = iso3country) %>% 
+ps_clean <-
+  ps_all %>%
+  rename(country = iso3country) %>%
   mutate(
     country = case_when(
       country == "AUS" ~ "AUT",
@@ -23,12 +23,12 @@ ps_clean <-
     )
 
 # summarize party information from ParlSpeech
-ps_party <- 
-  ps_clean %>% 
-  filter( ! is.na(party)) %>% 
-  group_by(party_id, country, party) %>% 
+ps_party <-
+  ps_clean %>%
+  filter( ! is.na(party)) %>%
+  group_by(party_id, country, party) %>%
   summarise(
-    year_first = year(date_first) %>% min(), 
+    year_first = year(date_first) %>% min(),
     year_last = year(date_last) %>% max(),
     partyfacts_id = first(party.facts.id)  # rename needed for PF linking on import
     ) %>%

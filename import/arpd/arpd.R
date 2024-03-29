@@ -1,18 +1,18 @@
 library(tidyverse)
 library(countrycode)
 
-file_in <- 
+file_in <-
   readxl::read_xlsx("source__AutocraticRulingPartiesDataset.xlsx", na = c("", "N"))
 
-cust_country <- 
+cust_country <-
   c("Czechoslovakia" = "CZE", "Germany (East)" = "DDR", "Vietnam (South)" = "VNR", "Yemen (South)" = "YMD", "Yemen (North)" = "YEM", "Yugoslavia" = "SRB")
 
-file_out <- 
-  file_in %>% 
-  mutate(index = 1:nrow(file_in)) %>% 
-  drop_na(Party) %>% 
-  mutate(country = countrycode(Country, "country.name", "iso3c", custom_match = cust_country)) %>% 
-  select(country, Party, `Year Founded`, `Last Year of Power`, `Renaming?`, index) %>% 
+file_out <-
+  file_in %>%
+  mutate(index = 1:nrow(file_in)) %>%
+  drop_na(Party) %>%
+  mutate(country = countrycode(Country, "country.name", "iso3c", custom_match = cust_country)) %>%
+  select(country, Party, `Year Founded`, `Last Year of Power`, `Renaming?`, index) %>%
   mutate(
     name_short = str_extract(Party, "(?<=\\()[[:alpha:][:space:]\\-\\']*"),
     name_short = str_extract(name_short, "[:upper:]*"),
@@ -21,7 +21,7 @@ file_out <-
     year_last = `Last Year of Power`,
     year_renamed = `Renaming?`,
     party_id = paste(country, index, sep = "-")
-  ) %>% 
+  ) %>%
   select(country, party_id, name_short, name_english, year_first, year_last,year_renamed, Party, party_id)
 
 
@@ -30,8 +30,8 @@ write_csv(file_out, "arpd.csv", na = "")
 
 # clean-up of party names
 if(F){
-file_out <- 
-  arpd %>% 
+file_out <-
+  arpd %>%
   mutate(
     name_short = case_when(
       party_id == "CRI-119" ~ "PRN",

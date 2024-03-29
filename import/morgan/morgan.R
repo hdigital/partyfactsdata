@@ -3,7 +3,7 @@ library(countrycode)
 
 pa_raw <- read_csv("source__morgan_1976_appendix.csv")
 
-pa <- 
+pa <-
   pa_raw %>%
   select(id:comment) %>%
   group_by(country, name_short) %>%

@@ -2,7 +2,7 @@ library(tidyverse)
 
 raw_mudde <- read_csv("source__mudde.csv")
 
-mudde <- raw_mudde %>% 
+mudde <- raw_mudde %>%
   mutate(
     party_id = paste(country, name_short, year_first, sep = "-")
   )

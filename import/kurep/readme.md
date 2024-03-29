@@ -6,7 +6,7 @@ https://kurep.ku.edu/
 
 ## Import
 
-party information from Codebook  
+party information from Codebook
 https://kurep.ku.edu/sites/kurep.drupal.ku.edu/files/files/Codebook2007-2008expertsurvey.docx
 
 Word file ('doc') converted into spreadsheet

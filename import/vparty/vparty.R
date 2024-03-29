@@ -27,11 +27,11 @@ vparty <-
     share,
     share_year = year,
     party_id = v2paid
-  ) %>% 
+  ) %>%
   mutate(
     country = if_else(country == "VDR", "VNR", country),
     partyfacts_id = if_else(str_detect(name_english, "alliance:"), NA_integer_, party_id)
-    ) %>% 
+    ) %>%
   ungroup()
 
 vparty$party_id %>% duplicated() %>% any()
@@ -45,11 +45,11 @@ library(sf)
 
 map <- read_rds("../worldmap.rds")  # Natural Earth based world map
 
-map_pa <- 
-  map %>% 
+map_pa <-
+  map %>%
   inner_join(vparty %>% count(country, name = "parties"))
 
-pl <- ggplot() + 
+pl <- ggplot() +
   geom_sf(data = map, lwd = 0.1, fill = "grey85") +
   geom_sf(data = map_pa, aes(fill = parties), lwd = 0.25) +
   coord_sf(crs = "+proj=robin") +  # World
@@ -66,4 +66,3 @@ pl <- ggplot() +
 
 print(pl)
 ggsave("vparty.png", pl, width = 8, height = 6)
-

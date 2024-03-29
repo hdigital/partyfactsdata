@@ -3,8 +3,8 @@ library(tidyverse)
 file_in <- read_csv("nped.csv", na = "")
 
 # add name_short & party_id
-file_out <- 
-  file_in %>% 
+file_out <-
+  file_in %>%
   mutate(
     name_short = str_remove_all(name_english, "[[:lower:]*[:space:]*[:punct:]*]"),
     party_id = paste(country, name_short, year_first, sep = "-"),

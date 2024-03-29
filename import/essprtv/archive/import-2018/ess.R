@@ -14,7 +14,7 @@ if( ! all(pa_ess$ess_key %in% pa_sheet$ess_key)) {
 }
 
 pa_years <- pa_ess %>%
-  mutate(party_id = sprintf("%s-%d-%d", cntry, essround, ess_id)) %>% 
+  mutate(party_id = sprintf("%s-%d-%d", cntry, essround, ess_id)) %>%
   mutate_at(vars(essround, ess_first, ess_last), funs(. * 2 + 2000)) %>%
   select(share_year=essround, share, ess_first, ess_last, party_id, ess_key)
 
