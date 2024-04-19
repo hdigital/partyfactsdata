@@ -1,0 +1,1679 @@
+country,countryname,party,first,last,party_id,share_max,share_year,founded,name,name_short,exec
+AFG,Afghanistan,HP,1991,1992,1,23.9,1991,,,HP,1
+AFG,Afghanistan,IAA,1993,1996,2,60.1,1993,,,IAA,1
+AFG,Afghanistan,PDPA,1981,1990,6,100,1981,,,PDPA,1
+ALB,Albania,APL,1975,1991,7,100,1975,1941,Albanian Party of Labour,APL,1
+ALB,Albania,PDS,1992,2015,16,62.3,1992,2003,Social Democracy Party of Albania,PDS,1
+ALB,Albania,PSS,1993,2015,19,52.8,1997,,,PSS,1
+ALB,Albania,SPA,1992,1992,21,56.2,1991,,,SPA,1
+DZA,Algeria,FLN,1975,2015,26,100,1977,1954,National Liberation Front,FLN,1
+AGO,Angola,MPLA,1981,2015,37,100,1980,1975,People's Movement for the Liberation of Angola,MPLA,1
+ARG,Argentina,ATJE,2000,2003,43,43.6,1999,1997,"Alliance for Work, Justice and Education",ATJE,1
+ARG,Argentina,FPV,2006,2015,47,46.3,2007,2003,Front for Victory,FPV,1
+ARG,Argentina,PJ,1986,2007,56,54.7,2003,1947,Justicialist Party,PJ,1
+ARG,Argentina,UCR,1984,2015,60,46.8,1983,1891,Radical Civic Union,UCR,1
+ARM,Armenia,HHK,2004,2015,70,52.7,2012,1990,Republican Party of Armenia,HHK,1
+ARM,Armenia,PANM,1991,1995,76,100,1990,1988,Pan-Armenian National Movement,PANM,1
+AUS,Australia,ALP,1976,2015,83,52.7,2007,1901,Australian Labor Party,ALP,1
+AUS,Australia,LPA,1976,2015,87,43.3,2010,1945,Liberal Party of Australia,LPA,1
+AUT,Austria,OVP,1976,2015,94,43.2,1983,1945,Austrian People's Party,OVP,1
+AUT,Austria,SPO,1975,2015,95,51,1979,1888,Social Democratic Party of Austria,SPO,1
+AZE,Azerbaijan,PFA,1993,2005,105,3.2,1995,1992,Popular Front of Azerbaijan,PFA,1
+AZE,Azerbaijan,YAP,1993,2015,109,70,1995,1992,New Azerbaijan Party,YAP,1
+BHS,Bahamas,FNM,1975,2015,111,57.7,1997,1972,Free National Movement,FNM,1
+BHS,Bahamas,PLP,1975,2015,113,55.2,1982,1953,Progressive Liberal Party,PLP,1
+BGD,Bangladesh,AL,1980,2015,119,77.7,2008,1948,Awami League,AL,1
+BGD,Bangladesh,Bang. Peasnt,1975,1975,121,100,1975,,Bang. Peasnt,BP,1
+BGD,Bangladesh,BNP,1980,2015,123,73.9,1979,1978,Bangladesh Jatiyabadi Dal,BNP,1
+BRB,Barbados,BLP,1975,2015,135,65,1999,1938,Barbados Labour Party,BLP,1
+BRB,Barbados,DLP,1975,2015,136,67,2008,1955,Democratic Labour Party,DLP,1
+BEL,Belgium,CD&V,2004,2015,156,13.3,2003,2001,Christen-Democratisch en Vlaams,CD&V,1
+BEL,Belgium,CSP,1975,1981,160,36.3,1978,1971,Christlich Soziale Partei,CSP,1
+BEL,Belgium,CVP,1982,2003,161,21.3,1985,1968,Christelijke Volkspartij,CVP,1
+BEL,Belgium,MR,2004,2015,169,12.5,2007,2002,Mouvement R_formateur,MR,1
+BEL,Belgium,PS,1988,2015,173,15.7,1987,1978,Parti Socialiste,PS,1
+BEL,Belgium,VLD,1996,2007,182,15.4,2003,1992,Vlaamse Liberalen en Democraten,VLD,1
+BLZ,Belize,PUP,1982,2015,184,59.3,1998,1950,People's United Party,PUP,1
+BLZ,Belize,UDP,1982,2015,185,57,2008,1974,United Democratic Party,UDP,1
+BEN,Benin,PRB,1994,1995,199,,,,,PRB,1
+BEN,Benin,PRPB,1976,1991,201,98.1,1984,1974,Parti de la R_volution Populaire du B_nin,PRPB,1
+BOL,Bolivia,ADN,1980,2002,212,35,1985,1985,Acci�n Democr�tica Nacionalista,ADN,1
+BOL,Bolivia,MAS,2003,2015,216,67.7,2009,1997,Movimiento al Socialismo-Instrumento Pol�tico por la Soberan�a de los Pueblos,MAS,1
+BOL,Bolivia,MIR,1986,2005,218,19.6,1989,1987,Movimiento de la Izquierda Revolucionaria,MIR,1
+BOL,Bolivia,MNR,1980,2009,220,35.9,1979,1942,Movimiento Nacionalista Revolucionario,MNR,1
+BOL,Bolivia,MNRH,1983,1993,221,32.4,1985,1978,Movimiento Nacionalista Revolucionario Hist�rico,MNRH,1
+BOL,Bolivia,UDP,1980,1980,231,36,1979,,Democratic and Popular Union,UDP,1
+BWA,Botswana,BDP,1975,2015,248,75.4,1979,1962,Botswana Democractic Party,BDP,1
+BRA,Brazil,ARENA,1975,1982,252,50.4,1979,1965,Alian�a Renovadora Nacional,ARENA,1
+BRA,Brazil,PDS,1983,1994,254,43.2,1982,1985,Social Democratic Party,PDS,1
+BRA,Brazil,PFL,1986,2010,256,17.7,1986,1984,Partido da Frente Liberal,PFL,1
+BRA,Brazil,PRN,1991,1994,262,8.3,1990,,Partido da Reconstru��o Nacional,PRN,1
+BRA,Brazil,PSDB,1991,2015,265,14.1,2002,1988,Partido da Social Democracia Brasileira,PSDB,1
+BRA,Brazil,PT,1984,2015,266,18.2,2002,1981,Partido dos Trabalhadores,PT,1
+BGR,Bulgaria,BSP,1991,2015,271,33.1,1991,1990,Balgarska Sotsialisticheska Partiya,BSP,1
+BGR,Bulgaria,GERB,2010,2015,277,43.1,2009,2006,Grazhdani za Evropeisko Razvitie Balgariya,GERB,1
+BGR,Bulgaria,NMSII,2002,2009,280,42.7,2001,,,NMSII,1
+BGR,Bulgaria,SDS,1991,2005,283,34.4,1991,1990,Sayuzna Demokratichni Sili,SDS,1
+BFA,Burkina Faso,CDP,1998,2014,287,69.3,2012,1996,Congr�s pour la D_mocratie et le Progr�s,CDP,1
+BDI,Burundi,CNDD-FDD,2006,2015,309,81.9,2010,1994,Conseil National pour la D_fense de D_mocratie_Forces pour la D_fense de D_mocratie,CNDD-FDD,1
+BDI,Burundi,Frodebu,1994,2010,310,72.6,1993,1992,Front pour la D_mocratie au Burundi,Frodebu,1
+BDI,Burundi,UPRONA,1983,2015,313,100,1982,1958,Union for National Progress,UPRONA,1
+CPV,C. Verde Is.,MPD,1992,2015,314,62,1991,,,MPD,1
+CPV,C. Verde Is.,PAICV,1982,2015,315,99.6,1985,,,PAICV,1
+CPV,C. Verde Is.,PAIGC,1976,1981,316,100,1976,,,PAIGC,1
+KHM,Cambodia,Comm. P. Kamp.,1978,1979,322,100,1978,,Comm. P. Kamp.,CPK,1
+KHM,Cambodia,CPP,1992,2015,323,58.1,2008,1991,Cambodian People's Party,CPP,1
+KHM,Cambodia,FUNC,1977,1977,325,100,1976,1970,National United Front of Kampuchea,FUNC,1
+KHM,Cambodia,KPRP,1982,1991,326,100,1981,1951,Kampuchean People's Revolutionary Party,KPRP,1
+CMR,Cameroon,CPDM,1986,2002,328,96.9,1988,1984,Cameroon People's Democratic Union,CPDM,1
+CMR,Cameroon,RDPC,2003,2015,332,85.9,2007,1984,Democratic Rally of the Cameroon People,RDPC,1
+CMR,Cameroon,UNC,1975,1985,335,100,1979,1966,Cameroon National Union,UNC,1
+CAN,Canada,CPC,2005,2015,340,39.6,2011,1867,Conservative Party of Canada,CPC,1
+CAN,Canada,LPC,1975,2015,342,44.3,1980,1861,Liberal Party of Canada,LPC,1
+CAN,Canada,PCP,1975,1993,344,50,1984,1942,Progressive Conservative Party,PCP,1
+CAF,Cent. Af. Rep.,MLPC,1994,2011,354,44.7,1993,,,MLPC,1
+CAF,Cent. Af. Rep.,RDC,1988,2011,358,100,1987,,,RDC,1
+TCD,Chad,MPS,1993,2011,363,72.8,2002,1990,Patriotic Salvation Union,MPS,1
+TCD,Chad,UNIR,1991,1992,369,100,1990,1984,National Union for Independence and Revolution,UNIR,1
+CHL,Chile,CC,2010,2013,375,43.4,2009,2009,Coalition for Change,CC,1
+CHL,Chile,CPD,2002,2013,377,51.8,2005,,,CPD,1
+CHL,Chile,New Majority,2014,2015,380,47.7,2013,2013,New Majority,NM,1
+CHL,Chile,PDC,1990,2001,381,31.7,1993,1957,Christian Democratic Party,PDC,1
+COL,Colombia,PCC,1999,2015,401,22.3,2010,1930,Communist Party of Colombia,PCC,1
+COL,Colombia,PL,1975,2015,403,59.2,1990,1848,Liberal Party,PL,1
+COL,Colombia,PSUN,2007,2015,406,28.3,2010,2005,Social Party of National Unity,PSUN,1
+COG,Congo,PCT,1975,2015,423,100,1979,1969,Congolese Labour Party,PCT,1
+COG,Congo,UPADS,1994,2015,428,37.6,1993,1991,Pan-African Union for Social Democracy,UPADS,1
+COD,Congo (DRC),AFDL,1998,2000,429,,,,,AFDL,1
+COD,Congo (DRC),MPR,1975,1992,432,100,1977,,,MPR,1
+CRI,Costa Rica,PAC,2003,2015,446,25.3,2006,2002,Citizen's Action Party,PAC,1
+CRI,Costa Rica,PLN,1975,2015,448,55.2,1982,1951,National Liberation Party,PLN,1
+CRI,Costa Rica,PUO,1979,1982,456,47.4,1978,,,PUO,1
+CRI,Costa Rica,PUSC,1987,2015,457,50.9,1990,1983,Social Christian Unity Party,PUSC,1
+CIV,Cote d'Ivoire,FPI,1991,2011,460,48.7,2000,1988,Ivorian Popular Front,FPI,1
+CIV,Cote d'Ivoire,PDCI,1975,1999,462,100,1975,1946,Democratic Party of Cote d'Ivoire,PDCI,1
+CIV,Cote d'Ivoire,RDR,1996,2015,465,57,2011,1994,Rally of the Republicans,RDR,1
+HRV,Croatia,HDZ,1993,2015,469,45.2,1995,1989,Croatian Democratic Union,HDZ,1
+HRV,Croatia,SDP,1996,2011,481,31.2,2007,1937,Social Democratic Party of Croatia,SDP,1
+CUB,Cuba,PCC,1975,2015,484,100,1981,1965,Communist Party of Cuba,PCC,1
+CYP,Cyprus,AKEL,1977,2015,485,34.7,2001,1941,Progressive Party of the Working People,AKEL,1
+CYP,Cyprus,DIKO,1977,2015,487,27.6,1985,1976,Democratic Party,DIKO,1
+CYP,Cyprus,DISY,1982,2015,488,35.8,1991,1976,Democratic Rally,DISY,1
+CZE,Czech Rep.,Civic F.,1991,1992,499,45.9,1990,,Civic F.,CF,1
+CZE,Czech Rep.,Communist,1975,2006,501,100,1981,,,Communist,1
+CZE,Czech Rep.,CSSD,1993,2015,502,32.3,1998,1878,Czech Social Democratic Party,CSSD,1
+CZE,Czech Rep.,ODS,2007,2015,513,35.4,2006,1991,Civic Democratic Party,ODS,1
+CZE,Czech Rep.,ODS/KDS,1993,2006,514,29.7,1992,,,ODS/KDS,1
+DNK,Denmark,KF,1978,2011,523,23.4,1984,1916,Conservative People's Party,KF,1
+DNK,Denmark,SD,1975,2015,526,38.3,1979,1871,Social Democratic Party,SD,1
+DNK,Denmark,V,1975,2015,528,31.2,2001,1870,Liberal Party (Venstre),V,1
+DJI,Djibouti,RPP,1980,2003,530,78.6,1997,1979,People's Rally for Progress (Rassemblement Populaire pour le Progr�s),RPP,1
+DJI,Djibouti,RPPI,1978,1979,531,77,1978,,,RPPI,1
+DOM,Dom. Rep.,PLD,1983,2015,537,57.4,2010,1974,Dominican Liberation Party,PLD,1
+DOM,Dom. Rep.,PR,1975,1984,538,46.2,1978,1960,Reformist Party,PR,1
+DOM,Dom. Rep.,PRD,1979,2015,539,53.8,1978,1939,Dominican Revolutionary Party,PRD,1
+DOM,Dom. Rep.,PRSC,1985,2015,540,46.7,1986,1963,Social Christian Reformist Party,PRSC,1
+ECU,Ecuador,CFP,1980,1992,542,36.7,1979,1946,Concentration of Popular Forces,CFP,1
+ECU,Ecuador,DP,1982,2002,544,14.6,1996,1977,Popular Democracy,DP,1
+ECU,Ecuador,ID,1980,2006,546,38,1988,1970,Democratic Left,ID,1
+ECU,Ecuador,PAIS,2007,2015,549,70.8,2013,2006,Country Alliance (Alianza Pais),PAIS,1
+ECU,Ecuador,PRE,1987,2002,554,23.2,1996,1982,Ecuadorian Roldosist Party,PRE,1
+ECU,Ecuador,PSC,1982,2015,556,33.8,1994,1951,Social Christian Party,PSC,1
+ECU,Ecuador,PSP,2003,2015,558,18.6,2006,2002,Patriotic Society Party (January 21 Patriotic Society Party),PSP,1
+ECU,Ecuador,PUR,1993,1996,559,15.6,1992,1992,Republican Unity Party,PUR,1
+EGY,Egypt,FJP,2012,2015,564,46.3,2011,2011,Freedom Justic Party,FJP,1
+EGY,Egypt,NDP,1979,2011,572,86.7,2000,1978,National Democratic Party,NDP,1
+SLV,El Salvador,ARENA,1983,2015,580,50.8,1988,1981,Nationalist Republican Alliance (NRA),ARENA,1
+SLV,El Salvador,FMLN,1995,2015,584,42.6,2009,1980,Farabundo Marti National Liberation Front,FMLN,1
+SLV,El Salvador,PCN,1975,2012,588,18.6,1982,2011,National Concilation Party,PCN,1
+SLV,El Salvador,PDC,1983,2012,589,54,1985,1960,Christian Democratic Party,PDC,1
+GNQ,Eq. Guinea,PDGE,1989,2015,597,99.2,1988,1987,Democratic Party of Equatorial Guinea Party,PDGE,1
+ERI,Eritrea,PFDJ,1994,2015,601,50,1994,1970,People's Front for Democracy and Justice,PFDJ,1
+EST,Estonia,ERL,2004,2011,607,13,2003,1999,People's Union of Estonia,ERL,1
+EST,Estonia,IL,1993,2007,609,16.1,1999,1995,Fatherland Union,IL,1
+EST,Estonia,SDE,2004,2015,617,17.1,2011,1990,Social Democratic Party,SDE,1
+ETH,Ethiopia,EPRDF,1992,2015,622,91.2,2010,1988,Ethopian People's Revolutionary Democratic Front,EPRDF,1
+ETH,Ethiopia,TPLF,2001,2005,629,7,2000,1975,Tigray People's Liberation Front,TPLF,1
+ETH,Ethiopia,WPE,1988,1991,632,100,1988,1984,Workers Party of Ethiopia,WPE,1
+FJI,Fiji,Alliance,1975,1987,633,69.2,1977,,,Alliance,1
+FJI,Fiji,FijiFirst,2015,2015,635,59.2,2014,2014,Fiji First Party,FijiFirst,1
+FJI,Fiji,FPP,1993,1999,638,44.3,1994,,,FPP,1
+FJI,Fiji,SDL,2002,2006,649,26.1,2001,2001,United Fiji Party,SDL,1
+FIN,Finland,KESK,1976,2015,656,35.2,1987,1906,Finnish Center,KESK,1
+FIN,Finland,KOK,1980,2015,657,35.2,1979,1918,National Coalition Party,KOK,1
+FIN,Finland,SSDP,1975,2015,664,35.2,1991,1899,Finnish Social Democratic Party,SSDP,1
+FRA,France,PS,1975,2015,680,45.3,1988,1905,Socialist Party,PS,1
+FRA,France,RPR,1979,2002,683,28.3,1993,1976,Rally for the Republic,RPR,1
+FRA,France,UDF,1979,2007,685,25.8,1993,1978,Union for French Democracy,UDF,1
+FRA,France,UDR,1975,1986,686,31.3,1975,1968,Union of Democrats for the Republic,UDR,1
+FRA,France,UMP,2003,2015,687,47.3,2002,2002,Union for a Popular Movement,UMP,1
+DEU,FRG/Germany,CDU,1981,2005,689,38.2,1983,1945,Christian Democratic Union,CDU,1
+DEU,FRG/Germany,SPD,1975,2015,696,42.9,1980,1945,Social Democratic Party of Germany,SPD,1
+GAB,Gabon,PDG,1975,2015,700,100,1980,,,PDG,1
+GMB,Gambia,APRC,1997,2015,709,79,2002,1996,Alliance for Patriotic Reorientation and Construction,APRC,1
+GMB,Gambia,PPP,1975,1994,716,69.6,1977,1959,People's Progressive Party,PPP,1
+DDR,GDR,CDU,1991,1991,719,40.8,1991,,,CDU,1
+GEO,Georgia,CU,1996,2004,729,41.8,1999,1994,Unified Communist Party of Georgia,CU,1
+GEO,Georgia,GD-DG,2013,2015,731,55,2012,2012,Georgian Dream - Democratic Georgia Coalition,GD-DG,1
+GEO,Georgia,UNM,2005,2015,742,67.8,2004,2001,United National Movement,UNM,1
+GHA,Ghana,NDC,1993,2015,747,94.5,1992,1992,National Democratic Congress,NDC,1
+GHA,Ghana,NPP,1997,2015,748,55.6,2004,1992,National Patriotic Party,NPP,1
+GHA,Ghana,PNP,1980,1981,752,36.4,1979,1979,People's National Party,PNP,1
+GRC,Greece,ND,1975,2015,763,46.4,2004,1974,New Democracy,ND,1
+GRC,Greece,PASOK,1975,2015,764,53.3,1989,1974,Panhellenic Socialist Movement,PASOK,1
+GRD,Grenada,GULP,1975,1997,771,51.8,1976,1950,Grendada United Labour Party,GULP,1
+GRD,Grenada,NDC,1991,2015,772,51.2,2008,1987,National Democratic Congress,NDC,1
+GRD,Grenada,NNP,1985,2015,773,62.2,1999,1984,New National Party,NNP,1
+GTM,Guatemala,FRG,1995,2011,780,55.8,1999,1989,Guatemalan Republican Front,FRG,1
+GTM,Guatemala,GANA,2004,2011,781,24.5,2003,2002,Grand National Alliance,GANA,1
+GTM,Guatemala,MAS,1992,1994,784,20.8,1992,1982,Solidarity Action Movement,MAS,1
+GTM,Guatemala,MLN,1975,1995,785,6.3,1985,1954,National Liberation Movement,MLN,1
+GTM,Guatemala,PAN,1992,2007,786,34.3,1995,1989,National Advancement Party,PAN,1
+GTM,Guatemala,PDCG,1986,2003,788,38.7,1985,1955,Guatemala Christian Democratic Party,PDCG,1
+GTM,Guatemala,PP,2008,2015,790,26.4,2011,2001,Patriotic Party,PP,1
+GTM,Guatemala,UNE,2004,2011,797,22.8,2007,2002,National Unity of Hope,UNE,1
+GIN,Guinea,PDG,1975,1984,800,100,1980,1947,Democratic Party of Guinea-African Democratic Rally,PDG,1
+GIN,Guinea,PUP,1996,2008,804,62.3,1995,1984,Unity and Progress Party,PUP,1
+GIN,Guinea,RPG,1996,2015,805,46.5,2013,1991,Rally of the Guinean People,RPG,1
+GNB,Guinea-Bissau,PAIGC,1975,2015,813,49.8,2008,1956,African Party for the Independence of Guinea and Cape Verde,PAIGC,1
+GNB,Guinea-Bissau,PRS,1995,2015,817,36.2,1999,1992,Party For Social Renewal,PRS,1
+GUY,Guyana,PNC,1975,2001,825,78.5,1985,1957,People's National Congress,PNC,1
+GUY,Guyana,PPP,1975,2001,828,55.3,1997,1950,People's Progressive Party,PPP,1
+HTI,Haiti,FL,2001,2006,838,88,2001,1996,The Lavalas Family,FL,1
+HTI,Haiti,FNCD,1992,2000,839,2.4,1995,1990,National Front for Change and Democracy,FNCD,1
+HTI,Haiti,Lespwa,2007,2011,842,24.2,2006,2006,Pr_val's Front for Hope,Lespwa,1
+HTI,Haiti,OPL,2007,2011,845,11.1,2006,1991,Organization of the Struggling People,OPL,1
+HTI,Haiti,PUN,1975,1985,852,100,1979,1963,National Unity Party,PUN,1
+HTI,Haiti,RP,2012,2015,854,3,2011,2010,Peasant Response,RP,1
+HND,Honduras,PL,1982,2015,861,53.7,1981,1890,Liberal Party,PL,1
+HND,Honduras,PN,1981,2015,862,55.5,2009,1923,National Party,PN,1
+HUN,Hungary,FiDeSz,1991,2002,865,29.5,1998,1988,Hungarian Civil Alliance,FiDeSz,1
+HUN,Hungary,HSWP,1975,1990,872,100,1975,,,HSWP,1
+HUN,Hungary,MDF,1991,2010,876,24.7,1990,1988,Hungarian Democratic Forum,MDF,1
+HUN,Hungary,MSzP,1991,2006,878,33,1994,1989,Hungarian Socialist Party,MSzP,1
+ISL,Iceland,IP,1975,2015,886,40.7,1999,1929,Independence Party; Sj�lfst__isflokkurinn,IP,1
+ISL,Iceland,PP,1975,2015,889,24.9,1979,1916,Progressive Party; Frams�knarflokkurinn,PP,1
+ISL,Iceland,The Alliance,2000,2015,892,31,2003,2000,The Alliance; Samfylkingarinnar,TA,1
+IND,India,BJP,1990,2015,900,33.6,1999,1980,Indian People�s Party (Bharatiya Janata�Party),BJP,1
+IND,India,Congress,1975,1980,904,34.5,1977,1885,Congress,Congress,1
+IND,India,INC,1981,2015,908,68.9,1980,1978,Indian National Congress,INC,1
+IND,India,Janata Dal,1997,1998,913,8.5,1996,1988,People's Party,JD,1
+IND,India,National Front,1990,1996,919,14,1991,1987,Rashtriya Morcha,NF,1
+IDN,Indonesia,Golkar,1975,2015,932,74.3,1997,1964,Golkar,Golkar,1
+IDN,Indonesia,PD,2005,2015,938,27,2009,2002,Democrat Party (Partai Demokrat),PD,1
+IDN,Indonesia,PDI-P,2000,2015,939,37.5,1999,1973,PDI-Struggle (Partai Demokrasi Indonesia-Perjuangan),PDI-P,1
+IDN,Indonesia,PKB,2000,2015,940,17.4,1999,1998,National Awakening Party (Partai Kebangkitan Bangsa),PKB,1
+IRN,Iran,IRP,1981,1987,947,100,1980,1979,Islamic Republican Party,IRP,1
+IRQ,Iraq,UIA,2006,2010,967,41.2,2005,2005,United Iraqi Alliance,UIA,1
+IRL,Ireland,Fianna Fail,1975,2015,969,49.8,1977,1926,"Fianna F�il, The Republican Party",FF,1
+IRL,Ireland,Fine Gael,1975,2015,970,39.2,1982,1933,Family�or�Tribe of the Irish,FG,1
+ISR,Israel,Kadima,2007,2013,989,22.5,2009,2005,"""Forward""",Kadima,1
+ISR,Israel,Labour,1985,2006,990,34.8,1984,1968,Israeli Labor Party; Mifleget HaAvoda HaYisraelit,Labour,1
+ISR,Israel,Likud,1975,2015,993,37.1,1981,1973,Unity-National Liberal Party; Liberalim Leumi,Likud,1
+ISR,Israel,One Israel,2000,2003,999,20.3,1999,1999,Yisrael Ahat,OI,1
+ITA,Italy,Casa delle Liberta,2002,2008,1010,49.7,2006,2001,House of Freedoms,CL,1
+ITA,Italy,DC,1975,1994,1013,38.7,1976,1943,Christian Democracy; Democrazia Cristiana,DC,1
+ITA,Italy,Freedom Alliance,1995,1996,1015,46.4,1994,,Freedom Alliance,FA,1
+ITA,Italy,L'Unione,2007,2008,1020,49.8,2006,2006,L'Unione,L'Unione,1
+ITA,Italy,PD,2009,2015,1026,47.1,2013,2007,Democratic Party,PD,1
+ITA,Italy,PdL,2009,2015,1027,43.8,2008,2007,People of Freedom; Il Popolo della Libert�; succeeded the House of Freedoms (Casa delle Liberta),PdL,1
+ITA,Italy,PRI,1975,1994,1031,5.1,1983,1895,Italian Republic Party; Partito Repubblicano Italiano,PRI,1
+ITA,Italy,Socialists,1977,1994,1039,14.3,1987,1892,Italian Socialist Party;  Partito Socialista Italiano,Socialists,1
+ITA,Italy,Ulivo Alliance,1997,2001,1040,42.7,1996,1995,The Olive Tree Coalition,UA,1
+JAM,Jamaica,JLP,1975,2015,1042,100,1983,1943,Jamaican Labour Party,JLP,1
+JAM,Jamaica,PNP,1975,2015,1043,70,2011,1938,Peoples National Party,PNP,1
+JPN,Japan,DPJ,2001,2015,1045,64.2,2009,1998,Democratic Party of Japan,DPJ,1
+JPN,Japan,LDP,1975,2015,1051,60.4,2014,1955,Liberal Democratic Party of Japan,LDP,1
+JPN,Japan,SDPJ,1992,2012,1060,15.4,1993,1996,Social Democrat Party Japan,SDPJ,1
+KAZ,Kazakhstan,Otan,2000,2015,1090,88.4,2007,,,Otan,1
+KEN,Kenya,Kanu,1975,2002,1102,98.1,1983,1960,Kenya African National Union,Kanu,1
+KEN,Kenya,NARC,2003,2007,1104,61,2002,2002,National Rainbow Coalition,NARC,1
+KEN,Kenya,PNU,2008,2013,1108,20.8,2007,2007,Party of National Unity,PNU,1
+KEN,Kenya,TNA,2014,2015,1109,24.8,2013,2000,The National Alliance,TNA,1
+KGZ,Kyrgyzstan,PSDK,2008,2015,1133,5.1,2007,1993,Party of Social Democractic Kyrgyzstan,PSDK,1
+KGZ,Kyrgyzstan,UDF,2001,2005,1136,18.6,2000,,Union of Democratic Forces,UDF,1
+LAO,Laos,LPRP,1976,2015,1138,100,1992,1955,Lao People's Revolutionary Party,LPRP,1
+LVA,Latvia,JL,2003,2010,1144,24,2002,2011,New Era Party,JL,1
+LVA,Latvia,LC,1994,2002,1145,32.4,1993,2007,Latvijas Cels,LC,1
+LVA,Latvia,LPP-LC,2007,2011,1148,8.6,2006,2007,Latvia's First Party/Latvian Way,LPP-LC,1
+LVA,Latvia,LTF,1992,1993,1152,65.2,1992,1988,Popular Front of Latvia,LTF,1
+LVA,Latvia,TB/LNNK,1998,2011,1160,14.6,1998,1993,For Fatherland and Freedom,TB/LNNK,1
+LVA,Latvia,TP,1998,2010,1161,21.2,1998,1998,People's Party,TP,1
+LVA,Latvia,Unity,2012,2014,1164,18.3,2011,2010,Unity,Unity,1
+LVA,Latvia,ZZS,2003,2015,1167,22,2010,2002,Union of Greens and Farmers,ZZS,1
+LBN,Lebanon,Maronite Chr.,1975,1988,1182,30.3,1985,,Maronite Chr.,MC,1
+LSO,Lesotho,ABC,2008,2015,1189,25,2012,2006,All Basotho Convention,ABC,1
+LSO,Lesotho,BCP,1975,1997,1191,74.8,1993,1952,Basutoland Congress Party,BCP,1
+LSO,Lesotho,BNP,1975,2015,1192,24.5,1998,1959,Basotho National Party,BNP,1
+LSO,Lesotho,LCD,1998,2015,1195,60.7,1998,1997,Lesotho Congress for Democracy,LCD,1
+LBR,Liberia,NDPL,1986,2011,1206,79.7,1985,1984,National Democratic Party of Liberia,NDPL,1
+LBR,Liberia,NPP,1998,2003,1207,75.3,1997,1997,National Patriotic Party,NPP,1
+LBR,Liberia,True Whig,1975,1980,1209,100,1975,1869,True Whig Party,TW,1
+LBR,Liberia,UP,1986,2015,1210,32.9,2011,1984,Unity Party,UP,1
+LTU,Lithuania,LDDP,1993,2000,1222,51.8,1992,1989,Democratic Labour Party of Lithuania,LDDP,1
+LTU,Lithuania,Lithuanian Reform Movement,1993,1993,1225,21.3,1992,,Lithuanian Reform Movement,LRM,1
+LTU,Lithuania,LLDP,2004,2004,1228,0,2004,,,LLDP,1
+LUX,Luxembourg,DP,1975,2015,1243,22,1999,1955,Democratic Party,DP,1
+LUX,Luxembourg,PCS,1975,2015,1247,38,2009,1944,Christian Social People's Party,PCS,1
+MKD,Macedonia,SDSM,1992,2015,1269,50,1994,1991,Social Democratic Union of Macedonia,SDSM,1
+MKD,Macedonia,Together for Macedonia,2003,2008,1272,40.5,2002,,Together for Macedonia,TM,1
+MKD,Macedonia,VMRO-DPMNE,1992,2015,1273,43,2014,1893,Internal Macedonian Revolutionary Organization _ Democratic Party for Macedonian National Unity,VMRO-DPMNE,1
+MDG,Madagascar,AREMA,1984,2007,1278,66.8,1989,1976,Association for the Rebirth of Madagascar,AREMA,1
+MDG,Madagascar,AVI,1999,2002,1280,9.3,1998,1998,One Should Be Judged By One's Works,AVI,1
+MDG,Madagascar,TIM,2003,2015,1297,84,2007,2002,I Love Madagascar,TIM,1
+MWI,Malawi,DPP,2010,2015,1303,60.5,2009,2005,Democratic Progressive Party,DPP,1
+MWI,Malawi,MCP,1975,2015,1305,100,1976,1959,Malawi Congress Party,MCP,1
+MWI,Malawi,PP,2015,2015,1307,13.5,2014,2011,People's Party,PP,1
+MWI,Malawi,UDF,1995,2015,1309,47.3,1999,1993,United Democratic Front,UDF,1
+MYS,Malaysia,UMNO,1987,1988,1328,57.3,1986,1946,United Malays National Organisation,UMNO,1
+MDV,Maldives,MDP,2010,2015,1335,30.8,2009,2003,Maldivian Democratic Party,MDP,1
+MDV,Maldives,PPM,2015,2015,1337,38.8,2014,2011,Progressive Party of Maldives,PPM,1
+MLI,Mali,Adema,1993,2013,1338,88.4,1997,,,Adema,1
+MLI,Mali,RPM,2003,2015,1351,44.9,2013,2001,Rally for Mali,RPM,1
+MLI,Mali,UDPM,1980,1991,1354,100,1979,1982,Malian People's Democratic Union,UDPM,1
+MLT,Malta,MLP,1975,2015,1357,54.8,2013,1920,Malta Labour Party,MLP,1
+MLT,Malta,NP,1977,2015,1358,51.8,1992,1880,Nationalist Party,NP,1
+MRT,Mauritania,PPM,1975,1978,1365,100,1975,1960,Mauritanian People's Party,PPM,1
+MRT,Mauritania,PRDS,1993,2005,1367,89.9,1996,1992,Democratic and Social Republican Party,PRDS,1
+MRT,Mauritania,UPR,2014,2015,1375,51,2013,2009,Union for the Republic,UPR,1
+MUS,Mauritius,MLP,1996,2000,1382,56.5,1995,1936,Labour Party,MLP,1
+MUS,Mauritius,MMM,1975,2000,1385,100,1982,1969,Mouvement Militant Mauricien,MMM,1
+MUS,Mauritius,MSM,1985,1995,1387,43.9,1991,1983,Mouvement Socialiste Militant,MSM,1
+MEX,Mexico,PAN,1975,2015,1398,41.2,2006,1939,National Action Party,PAN,1
+MEX,Mexico,PRI,1975,2015,1403,84.9,1976,1929,Institutional Revolutionary Party,PRI,1
+MDA,Moldova,MPF,1992,1994,1411,100,1992,1989,Popular Front of Moldova,MPF,1
+MDA,Moldova,PCRM,2002,2015,1413,50.7,2001,1993,Party of Communists of the Republic of Moldova,PCRM,1
+MDA,Moldova,PDAM,1995,1998,1414,43.2,1994,1991,Agrarian Party of Moldova,PDAM,1
+MDA,Moldova,PDM,2010,2015,1415,15.8,2014,1997,Democratic Party of Moldova,PDM,1
+MDA,Moldova,PL,2010,2015,1418,14.7,2009,1993,Liberal Party,PL,1
+MNG,Mongolia,DP,2005,2015,1425,47.4,2012,1990,Democratic Party,DP,1
+MNG,Mongolia,MPRP,1975,2012,1434,100,1981,2010,Mongolian People's Revolutionary Party,MPRP,1
+MOZ,Mozambique,Frelimo,1978,2015,1455,100,1977,1962,Frente de Liberta��o de Mo�ambique,Frelimo,1
+MMR,Myanmar,BSPP,1975,1988,1459,100,1978,1962,Burma Socialist Program Party,BSPP,1
+MMR,Myanmar,USDP,2011,2015,1462,58.9,2010,2010,Union Solidarity and Development Party,USDP,1
+NAM,Namibia,SWAPO,1991,2015,1470,80,2014,1958,South West Africa People's Organization�,SWAPO,1
+NPL,Nepal,CPN-M,2009,2015,1474,36.6,2008,2012,Communist Party of�Nepal - Marxist,CPN-M,1
+NPL,Nepal,NC,1992,2015,1477,37.7,1991,1947,Nepali Congress,NC,1
+NPL,Nepal,UML,1992,2002,1486,31.6,1999,1991,Unified Marxist-Leninist,UML,1
+NLD,Netherlands,CDA,1978,2015,1490,35.3,1989,1976,Christen-Democratish Appel,CDA,1
+NLD,Netherlands,PvdA,1975,2015,1500,33.8,1977,,,PvdA,1
+NLD,Netherlands,VVD,1975,2015,1504,26.6,2012,1948,Volkspartij voor Vrjjheid en Democratie,VVD,1
+NZL,New Zealand,Labour Party,1975,2015,1508,48,1987,,Labour Party,LP,1
+NZL,New Zealand,National Party,1975,2015,1510,47.8,1990,,National Party,NP,1
+NIC,Nicaragua,AL,1997,2001,1518,46,1996,2011,Alianza Liberal Nicraguense,AL,1
+NIC,Nicaragua,FSLN,1981,2015,1524,66.5,1984,1961,Frente Sandinista de Liberacion Nacional,FSLN,1
+NIC,Nicaragua,Liberal,1975,1979,1526,75.3,1975,,,Liberal,1
+NIC,Nicaragua,PLC,2002,2015,1531,53.2,2001,1968,Partido Liberal Constitucionalista,PLC,1
+NIC,Nicaragua,UNO,1991,1993,1536,53.9,1990,1990,Uni�n Nacional Opositora,UNO,1
+NER,Niger,CDS-R,1994,2009,1541,27.7,1993,1993,Convention Democrate et Sociale Rahama,CDS-R,1
+NER,Niger,MNSD,1990,2009,1542,45.8,1999,1987,Mouvement National de la Societ_ de D_veloppement�,MNSD,1
+NER,Niger,PNDS,1994,2015,1546,33,2011,1993,Parti Nigerian pour la Democratie et le Socialism Tarayya,PNDS,1
+NGA,Nigeria,NPN,1980,1983,1559,36.9,1979,1979,National Party of Nigeria,NPN,1
+NGA,Nigeria,PDP,2000,2015,1561,71.9,2007,1998,People's Democratic Party,PDP,1
+NOR,Norway,DNA,1975,2015,1566,42.3,1977,1887,Det Norske Arbederparti,DNA,1
+NOR,Norway,H,1975,2015,1568,31.7,1981,1884,Hoyre,H,1
+NOR,Norway,KrF,1975,2015,1569,13.7,1997,1933,Kristelig Folkeparti,KrF,1
+PNG,P. N. Guinea,NAP,1998,2012,1583,25.9,2007,1995,National Alliance Party,NAP,1
+PNG,P. N. Guinea,Pangu,1975,2002,1586,43.1,1987,1967,Papua and Niugini Union Pati,Pangu,1
+PNG,P. N. Guinea,PDM,1986,2012,1588,14.7,1987,1985,People's Democratic Movement,PDM,1
+PNG,P. N. Guinea,PNC,1998,2015,1591,25,2012,1993,People's National Congress Party,PNC,1
+PNG,P. N. Guinea,PPP,1978,2012,1594,11.8,1987,1976,People's Progress Party,PPP,1
+PAK,Pakistan,IJI,1989,1993,1600,37.4,1990,1988,Islami Jamhoori Ittehad,IJI,1
+PAK,Pakistan,PML-N,1994,2015,1612,65.7,1997,1993,PML - Nawaz,PML-N,1
+PAK,Pakistan,PPP,1975,2013,1614,37.6,1988,1967,Pakistan People's Party,PPP,1
+PAN,Panama,AC,2010,2015,1617,56,2009,2009,Alliance for Change,AC,1
+PAN,Panama,PA,1992,2009,1621,25.3,1999,1990,Arnulfist Party,PA,1
+PAN,Panama,PP,2005,2015,1628,16.9,2014,1995,Pro-Panamanian Party,PP,1
+PAN,Panama,PRD,1985,2015,1631,50.7,1984,1978,Democratic Revolutionary Party,PRD,1
+PRY,Paraguay,APC,2009,2013,1634,2.5,2008,2007,Patriotic Alliance for Change,APC,1
+PRY,Paraguay,Colorado,1975,2015,1635,72.8,1989,,,Colorado,1
+PER,Peru,AP,1981,1990,1649,38.9,1980,1956,Popular Action,AP,1
+PER,Peru,APRA,1979,2006,1650,50.1,1985,1930,American Popular Revolutionary Alliance,APRA,1
+PER,Peru,Change 90,1991,2000,1651,52.1,1995,1990,Cambio 90,C90,1
+PER,Peru,Gana Peru,2012,2015,1659,25.4,2011,2010,Peru Wins Alliance,GP,1
+PER,Peru,PAP,2007,2011,1661,20.6,2006,,,PAP,1
+PER,Peru,PP,2001,2006,1664,26.3,2001,1994,Peru Possible,PP,1
+PHL,Philippines,KBL,1979,1987,1672,79.3,1978,1978,Kilusan Bagong Lipunan,KBL,1
+PHL,Philippines,Lakas N,1993,2001,1674,50,1995,,Lakas N,LN,1
+PHL,Philippines,Lakas-CMD,2002,2013,1675,39.7,2004,,,Lakas-CMD,1
+PHL,Philippines,LaMMP,1999,2001,1676,42.4,1998,1998,Laban ng Makabayang Masang Pilipino,LaMMP,1
+PHL,Philippines,LP,1993,2015,1679,37,2013,1946,Liberal Party,LP,1
+POL,Poland,PiS,2002,2015,1700,32.1,2007,2001,Law and Justice,PiS,1
+POL,Poland,PO,2002,2015,1701,41.5,2007,2001,Civic Platform,PO,1
+POL,Poland,SLD,1994,2015,1708,27.1,1997,1991,Democratic Left Alliance,SLD,1
+PRT,Portugal,PS,1996,2015,1728,46.4,2005,1975,Socialist Party,PS,1
+PRT,Portugal,PSD,1980,2015,1729,50.6,1991,1974,Social Democratic Party,PSD,1
+PRT,Portugal,PSP,1977,1995,1730,45.5,1979,,,PSP,1
+CHN,PRC,CCP,1975,2015,1732,100,1975,1921,Communist Party of China,CCP,1
+PRK,PRK,KWP,2015,2015,1736,87.5,2015,1946,Korean Worker's Party,KWP,1
+KOR,ROK,DJP,1982,1990,1739,35.6,1981,1981,Democratic Justice Party,DJP,1
+KOR,ROK,DLP,1991,2008,1741,38.5,1992,2001,Democratic Labor Party,DLP,1
+KOR,ROK,DRP,1975,1980,1743,65.6,1975,1972,Democratic Republican Party,DRP,1
+KOR,ROK,GNP,1998,2012,1746,51.2,2008,1997,Grand National Party,GNP,1
+KOR,ROK,MDP,2000,2008,1750,36,2000,2000,Millennium Democratic Party,MDP,1
+KOR,ROK,NCNP,1997,1999,1751,25.3,1996,1995,National Congress for New Politics,NCNP,1
+KOR,ROK,NFP,2013,2015,1754,50.7,2012,1997,New Frontier Party,NFP,1
+KOR,ROK,NKP,1996,1997,1756,34.5,1996,1995,New Korea Party,NKP,1
+KOR,ROK,Uri Party,2005,2008,1765,38.3,2004,2002,Uri Party,UP,1
+ROU,Romania,CDNPP,1997,2000,1767,21.8,1996,,,CDNPP,1
+ROU,Romania,FSN,1991,1992,1771,66.3,1990,1989,Frontul Salv_rii Na_ionale,FSN,1
+ROU,Romania,PSDR,1997,2004,1785,36.6,2000,1990,Polul Democrat Social din Romania,PSDR,1
+RUS,Russia,United Russia,2004,2015,1803,64.3,2007,2002,Edinaya Rossiya,UR,1
+RWA,Rwanda,FPR,1995,2015,1809,78.8,2008,1990,Front Partriotique Rawandais,FPR,1
+RWA,Rwanda,MRND,1982,1994,1811,100,1981,1976,Mouvement Republicain National pour le Development,MRND,1
+ZAF,S. Africa,ANC,1995,2015,1814,69.7,2004,,,ANC,1
+ZAF,S. Africa,National Party,1975,1999,1825,64.8,1977,,National Party,NP,1
+WSM,Samoa,HRPP,1983,2015,1836,75.5,2011,1979,Human Rights Protection Party,HRPP,1
+SEN,Senegal,PDS,1979,2015,1853,30.2,1993,1974,Parti Democratique Senegalais,PDS,1
+SEN,Senegal,PS,1977,2007,1854,81.7,1978,1976,Parti Socialiste,PS,1
+SEN,Senegal,UPS,1975,1976,1858,100,1975,2012,United in Hope Coalition,UPS,1
+SLE,Sierra Leone,APC,1975,2015,1861,100,1982,1960,All People's Congress,APC,1
+SLE,Sierra Leone,SLPP,1978,2015,1867,69.9,2002,1978,Sierra Leone People's Party,SLPP,1
+SGP,Singapore,PAP,1975,2015,1869,93.1,2011,1954,People's Action Party,PAP,1
+SVK,Slovakia,Direction,2003,2010,1876,29.1,2006,2003,Smer,Direction,1
+SVK,Slovakia,HZDS,1993,1994,1877,49.3,1993,1991,Hnutie za Demokratick_ Slovensko,HZDS,1
+SVK,Slovakia,SDC,1999,2002,1887,26.3,1998,,,SDC,1
+SVK,Slovakia,SDKU,2003,2006,1888,15.1,2002,1998,Slovensk� Demokratick� Krest'ansk� �nia,SDKU,1
+SVK,Slovakia,Smer-SD,2011,2015,1891,44.4,2012,1990,Smer_Soci�lna Demokracia�Smer,Smer-SD,1
+SVN,Slovenia,LDS,1993,2011,1901,36.2,2000,1994,Liberalna Demokracija Slovenije,LDS,1
+SVN,Slovenia,PS,2012,2014,1905,28.5,2011,2011,Pozitivna Slovenija,PS,1
+SVN,Slovenia,SD,2009,2015,1906,30.5,2008,2005,Socialni Demokrati,SD,1
+SVN,Slovenia,SDS,1995,2015,1908,29.3,2008,2009,Slovenska Demokratska Stranka,SDS,1
+SVN,Slovenia,SKD,1992,2000,1909,14.5,1992,1989,Slovenski Kr__anski Demokrati,SKD,1
+SVN,Slovenia,SMC,2015,2015,1912,34.5,2014,2014,Stranka Mira Cerarja,SMC,1
+SLB,Solomon Is.,GNUR,1994,2001,1919,48,1997,1990,Group for National Unity and Reconciliation,GNUR,1
+SLB,Solomon Is.,PAP,1979,2015,1929,40.8,2001,1979,People's Alliance Party,PAP,1
+SLB,Solomon Is.,PPP,2002,2006,1930,6.1,2001,2001,People's Progressive Party,PPP,1
+SLB,Solomon Is.,SILP,1990,2014,1935,52,1997,1976,Solomon Islands Liberal Party,SILP,1
+SLB,Solomon Is.,SIRDP,2011,2014,1937,7,2010,2010,Solomon�Islands Reform and Democratic Party,SIRDP,1
+SLB,Solomon Is.,SIUPA,1979,1984,1940,,,2010,Solomon�Islands United Party�,SIUPA,1
+SOM,Somalia,SRSP,1981,1991,1942,99.9,1984,1976,Somali Revoutionary Socialist Party,SRSP,1
+RUS,Soviet Union,CPSU,1975,1991,1946,100,1975,,Commnist Party of Soviet Union,CPSU,1
+ESP,Spain,PP,1990,2015,1960,45.2,2000,1989,Partido Popular,PP,1
+ESP,Spain,PSOE,1978,2015,1962,48.7,1982,1879,Partido Socialista Obrero Espa�ol,PSOE,1
+ESP,Spain,UCD,1978,1986,1964,35,1979,1977,Uni�n de Centro Democr�tico,UCD,1
+LKA,Sri Lanka,PA,1995,2004,1977,46.7,1994,1994,People's Alliance�,PA,1
+LKA,Sri Lanka,SLFP,1975,1994,1979,31.8,1989,1951,Nidahas Pakshaya Sri Lanka,SLFP,1
+LKA,Sri Lanka,UNP,1975,2015,1984,92.1,1988,1946,United National Party,UNP,1
+LKA,Sri Lanka,UPFA,2005,2015,1985,60.3,2010,2004,United People's Freedom Alliance,UPFA,1
+LCA,St. Lucia,SLP,1980,2015,1987,69,1997,1946,St Lucia Labour Party,SLP,1
+LCA,St. Lucia,UWP,1980,2015,1988,64.7,2006,1964,United Workers' Party,UWP,1
+SDN,Sudan,NC,2001,2015,1991,98.6,2000,1986,National Congress,NC,1
+SDN,Sudan,NIF,1987,2000,1992,100,1996,1945,National Islamic Front,NIF,1
+SDN,Sudan,SSU,1975,1986,1998,100,1978,1973,Sudanese Socialist Union,SSU,1
+SDN,Sudan,UP,1987,1989,2000,37.5,1986,1945,Umma People's Party,UP,1
+SUR,Suriname,MC,2001,2015,2011,40.2,2010,2010,Mega Cominate,MC,1
+SUR,Suriname,NDP,1988,2010,2012,42.1,1996,,,NDP,1
+SUR,Suriname,NF,2001,2015,2013,47.3,2000,,Nieuw Front voor Democratie en Ontwikkeling),NF,1
+SUR,Suriname,NPS,1988,2000,2015,27.5,1987,1946,Nationale Partij,NPS,1
+SUR,Suriname,VHP,1976,1996,2018,43.6,1977,1991,Vooruitsurevende Hervorme Partij,VHP,1
+SWE,Sweden,CP,1975,2015,2025,24.1,1976,1913,Centerpartiet,CP,1
+SWE,Sweden,FP,1975,2014,2026,14.2,1985,,,FP,1
+SWE,Sweden,Moderate,1975,2015,2031,30.1,2010,1986,Moderate Partiet,Moderate,1
+SWE,Sweden,Social Dem,1975,2015,2035,45.6,1982,1880,Socialdemokraterma,SD,1
+TWN,Taiwan,DPP,1987,2015,2056,38,2004,1986,Min-chu Chin-u Tang,DPP,1
+TWN,Taiwan,KMT,1975,2015,2059,71.7,2008,1912,Kuomintang,KMT,1
+TJK,Tajikistan,PDPT,1994,2015,2069,85.7,2010,1993,People's Democratic Party of�Tajikistan,PDPT,1
+TJK,Tajikistan,TSP,1992,1993,2074,100,1992,1991,�Tajik Socialist Party,TSP,1
+TZA,Tanzania,CCM,1978,2015,2076,100,1980,1977,Chama Cha Mapinduzi,CCM,1
+TZA,Tanzania,TANU,1975,1977,2081,91.5,1975,1954,Tanganyika African National Union,TANU,1
+THA,Thailand,Chart Thai,1980,2014,2086,33.3,1983,1983,Chart Thai,CT,1
+THA,Thailand,DP,1980,2014,2087,34.2,2007,1946,Pak Prachatipat,DP,1
+THA,Thailand,PPP,2008,2011,2094,48.5,2007,,,PPP,1
+THA,Thailand,PPT,2012,2014,2095,53,2011,2008,Phak Puea Thai,PPT,1
+THA,Thailand,Social Action,1976,2005,2100,31.2,1983,1974,Kit Sangkhom,SA,1
+THA,Thailand,TRT,2001,2006,2101,75.4,2005,1998,Thai Rak Thai,TRT,1
+TLS,Timor-Leste,Fretilin,2003,2015,2109,100,2007,,,Fretilin,1
+TGO,Togo,RPT,1980,2013,2119,100,1985,1991,Rassemblement du Peuple Togolais,RPT,1
+TGO,Togo,UNIR,2014,2015,2124,41.3,2013,1991,Union pour la R_publique,UNIR,1
+TTO,Trinidad-Tobago,NAR,1987,2000,2127,67.3,1986,,,NAR,1
+TTO,Trinidad-Tobago,PNM,1975,2015,2128,53.8,1981,,,PNM,1
+TTO,Trinidad-Tobago,UNC,1992,2010,2132,46.6,2001,,,UNC,1
+TUN,Tunisia,Call for Tunisia,2015,2015,2135,49.4,2015,2012,Nidaa Tounes,CT,1
+TUN,Tunisia,PSD,1975,1989,2141,94.8,1981,,,PSD,1
+TUN,Tunisia,RCD,1990,2011,2143,97.7,1994,1920,Rassemblement Constitutionnel D_mocratique,RCD,1
+CYP,Turk Cyprus,CTP,1977,2015,2147,44.5,2005,1985,Cumhuriyetci Turk Partisi,CTP,1
+CYP,Turk Cyprus,UBP,1977,2015,2155,44,2009,1975,Ulusal Birlik Partisi,UBP,1
+TUR,Turkey,AKP,2003,2015,2157,49.8,2011,2001,Adalet ve Kalk�nma Partisi,AKP,1
+TUR,Turkey,DSP,1987,2002,2161,22.3,1999,,,DSP,1
+TUR,Turkey,DYP,1987,2002,2162,27,1991,1983,Do_ru Yol Partisi,DYP,1
+TUR,Turkey,Motherland,1984,2002,2167,45.2,1983,1983,Anavatan Partisi,Motherland,1
+TKM,Turkmenistan,DPT,1992,2015,2179,100,1994,1991,Democratic Party of Turkmenistan,DPT,1
+UGA,Uganda,NRM,1986,2015,2190,100,1989,1986,National Resistance Movement (Right-wing),NRM,1
+UGA,Uganda,NRM-O,2002,2006,2191,100,2001,,,NRM-O,1
+UGA,Uganda,UNLF,1980,1980,2194,100,1980,1979,Uganda National Liberation Front,UNLF,1
+UGA,Uganda,UPC,1981,2015,2195,47.2,1980,1960,Uganda People's Congress (Left-wing),UPC,1
+GBR,UK,Conservative,1975,2015,2197,43.9,1979,,,Conservative,1
+GBR,UK,Labour,1975,2015,2199,43.2,1997,,,Labour,1
+UKR,Ukraine,FUU,2003,2006,2212,12.6,2002,,,FUU,1
+UKR,Ukraine,PR,2007,2014,2226,34.4,2007,,Partiya Rehioniv,PR,1
+URY,Uruguay,Colorado,1985,2015,2233,38.9,1984,1836,Colorado Party,Colorado,1
+URY,Uruguay,EP-FA,2005,2015,2235,51.7,2004,1971,Progressive Encounter�Broad Front (Centre left),EP-FA,1
+URY,Uruguay,PN,1985,2015,2237,39.4,1989,1836,Partido Nacional,PN,1
+USA,USA,Democrats,1975,2015,2238,59.1,2008,1828,Democratic Party,Democrats,1
+USA,USA,Republicans,1975,2015,2240,56.8,2014,1854,Republican Party,Republicans,1
+UZB,Uzbekistan,LDP,2005,2015,2244,44.2,2009,2003,Liberal Democratic Party (Centre),LDP,1
+UZB,Uzbekistan,PDP,1992,2015,2246,83.1,1994,1991,People's Democratic Party (Centre right),PDP,1
+VUT,Vanuatu,MPP,1992,2004,2252,8.7,1991,,Melanesian Progressive Party (centre left),MPP,1
+VUT,Vanuatu,NUP,1992,2015,2256,21.7,1991,1991,National United Party (centre left),NUP,1
+VUT,Vanuatu,PPP,2005,2015,2259,11.5,2012,2001,People's Progess Party (centre left),PPP,1
+VUT,Vanuatu,UMP,1984,2015,2263,42,1987,1981,Union of Moderate Parties (centre right),UMP,1
+VUT,Vanuatu,VGP,2014,2014,2264,5.8,2014,,Vanuatu Green Party (centre left),VGP,1
+VUT,Vanuatu,VP,1981,2015,2265,54.7,1983,,Vanua'aku Pati,VP,1
+VEN,Venezuela,AD,1975,2005,2267,55.6,1983,1941,Acci�n Democr�tica,AD,1
+VEN,Venezuela,CN,1994,1998,2268,25.1,1993,1993,Convergencia Nacional,CN,1
+VEN,Venezuela,COPEI,1975,2005,2269,47.8,1978,1946,Social Christian Party (Centre right),COPEI,1
+VEN,Venezuela,MVR,1999,2006,2275,68.3,2005,1997,Movimiento V [Quinta] Rep�blica (Left-wing),MVR,1
+VEN,Venezuela,PSUV,2007,2015,2282,59.4,2010,2007,Partido Socialista Unido de Venezuela (Left-wing),PSUV,1
+VNM,Vietnam,CPV,1975,2015,2284,100,1976,1930,Communist Party of Vietnam (left wing),CPV,1
+YEM,Yemen (AR),GPC,1983,1989,2293,100,1982,,,GPC,1
+YMD,Yemen (PDR),NF,1975,1975,2294,100,1975,,,NF,1
+YMD,Yemen (PDR),UPO-NF,1976,1978,2295,100,1976,,,UPO-NF,1
+YMD,Yemen (PDR),YSP,1979,1989,2296,100,1978,,,YSP,1
+SRB,Yugoslavia,Communist,1975,1992,2297,100,1975,,,Communist,1
+SRB,Yugoslavia,SDAM,2001,2001,2302,2.2,2000,,,SDAM,1
+SRB,Yugoslavia,SPS,1993,2001,2305,33,2000,1990,Socialist Party of Serbia (left),SPS,1
+ZMB,Zambia,MMD,1992,2015,2311,74.8,1991,1991,Movement for Multi-party Democracy (centre left),MMD,1
+ZMB,Zambia,PF,2007,2015,2313,40,2011,2001,Patriotic Front  (left wing),PF,1
+ZMB,Zambia,UNIP,1975,2006,2316,100,1978,1959,United National Independence Party (left),UNIP,1
+ZWE,Zimbabwe,Rhodesian Front,1975,1979,2327,85.4,1975,,Rhodesian Front,RF,1
+ZWE,Zimbabwe,ZANU-PF,1981,2015,2330,97.5,1990,1987,Zimbabwe African National Union _ Patriotic Front,ZANU-PF,1
+AFG,Afghanistan,IRM,1993,1996,3,20.9,1993,,Islamic Revolutionary Movement,IRM,0
+AFG,Afghanistan,IU,1993,1996,4,19,1993,1989,Islamic United Party of Afghanistan,IU,0
+AFG,Afghanistan,NF,1989,1992,5,19.6,1989,1980,National Front,NF,0
+ALB,Albania,ASI,2010,2013,8,5.6,2009,,,ASI,0
+ALB,Albania,LSI,2006,2015,10,10.4,2013,2004,Socialist Movement for Integration,LSI,0
+ALB,Albania,National Front,1997,2001,11,5,1996,,National Front,NF,0
+ALB,Albania,PD,2002,2009,14,5.1,2001,1990,Democratic Party of Albania,PD,0
+ALB,Albania,PRS,1993,2015,17,7.9,2005,,,PRS,0
+ALB,Albania,PSDS,1993,2009,18,5,2005,,,PSDS,0
+ALB,Albania,Union of Victory,2002,2005,23,36.8,2001,,Union of Victory,UV,0
+DZA,Algeria,AAV,2013,2015,24,6.2,2012,2012,Green Algeria Alliance,AAV,0
+DZA,Algeria,MRN,2003,2007,30,9.5,2002,1999,Movement for National Reform,MRN,0
+DZA,Algeria,MSP,1998,2012,31,14.8,1997,1990,Movement for a Peaceful Society,MSP,0
+DZA,Algeria,PT,2003,2015,32,5.1,2007,1995,Workers' Party,PT,0
+DZA,Algeria,RND,1998,2015,34,33.7,1997,1997,National Democratic Rally,RND,0
+AGO,Angola,CASA-CE,2013,2015,35,6,2012,2012,Broad Convergence for the Salvation of Angola,CASA-CE,0
+AGO,Angola,UNITA,1993,2015,40,34.1,1992,1966,National Union fo rthe Total Independence of Angola,UNITA,0
+ARG,Argentina,AR,2000,2003,41,7.6,1999,,,AR,0
+ARG,Argentina,ARI,2002,2007,42,8.9,2005,2002,Argentines for a Republic of Equals,ARI,0
+ARG,Argentina,Broad Progressive Front,2014,2015,44,5.4,2013,2011,Broad Progressive Front,BPF,0
+ARG,Argentina,CC,2008,2010,45,7.4,2009,2007,Civic Coalition,CC,0
+ARG,Argentina,FJDL,1984,1985,46,37.1,1983,1972,Justice Liberation Front,FJDL,0
+ARG,Argentina,Frejuli,1990,1993,50,6.7,1989,2007,"Front for Justice, Unity and Freedom",Frejuli,0
+ARG,Argentina,Frepaso,1996,1997,52,21,1995,1994,Front for a Country in Solidarity,Frepaso,0
+ARG,Argentina,PF,2010,2013,55,11.3,2009,1972,Federal Party,PF,0
+ARG,Argentina,Renewal Front,2014,2015,59,6.2,2013,2013,Renewal Front,RF,0
+ARG,Argentina,UCR/Frepaso,1998,1999,61,36.3,1997,,,UCR/Frepaso,0
+ARG,Argentina,UdCD,1984,1995,62,9.5,1989,1982,Union of the Democratic Centre,UdCD,0
+ARM,Armenia,ACP,2000,2003,63,12,1999,1991,Armenian Communist Party,ACP,0
+ARM,Armenia,ARF,1992,2015,65,13.2,2007,1980,Armenian Revolutionary Federatioin,ARF,0
+ARM,Armenia,Armenian National Congress,2013,2015,66,5.3,2012,2008,Armenian National Congress,ANC,0
+ARM,Armenia,BH,2008,2015,67,28.2,2012,2004,Prosperous Armenia,BH,0
+ARM,Armenia,DPA,1992,1999,68,12.1,1995,1991,Democratic Party of Armenia,DPA,0
+ARM,Armenia,Heritage,2008,2012,69,6,2007,2002,Heritage,Heritage,0
+ARM,Armenia,Justice,2004,2007,71,13.7,2003,,Justice,Justice,0
+ARM,Armenia,Law and Unity Bloc,2001,2003,72,7.9,2001,,Law and Unity Bloc,LUB,0
+ARM,Armenia,LGCPA,2004,2007,73,13,2003,,Law-Governed Country Party of Armenia,LGCPA,0
+ARM,Armenia,NDU,1996,2003,74,7.5,1995,1993,National Democratic Union,NDU,0
+ARM,Armenia,NUP,2004,2007,75,8.9,2003,1966,National Democratic Party,NUP,0
+ARM,Armenia,PANM/Repub. Bloc,1996,1999,77,42.7,1995,,PANM/Repub. Bloc,PANM/RB,0
+ARM,Armenia,Repub Dep.,1992,1995,78,28.2,1992,,Repub Dep.,RD,0
+ARM,Armenia,Right Unity Bloc,2000,2000,79,7.9,1999,,Right and Unity Bloc,RUB,0
+ARM,Armenia,Shamiram Women's Party,1996,1999,80,16.9,1995,,Shamiram Women's Party,SW'P,0
+ARM,Armenia,ULP,2004,2007,81,5.7,2003,,United Labour Party,ULP,0
+ARM,Armenia,Unity,2000,2003,82,41.5,1999,1966,National Unity,Unity,0
+AUS,Australia,LNP,2014,2015,86,14,2013,2008,Liberal National Party,LNP,0
+AUS,Australia,NPA,1976,2015,88,11.5,1987,1920,National Party of Australia,NPA,0
+AUT,Austria,BZO,2006,2013,89,10.7,2008,2005,Alliance for the Future of Austria,BZO,0
+AUT,Austria,DG,1996,2015,90,12.4,2013,,The Greens,DG,0
+AUT,Austria,FPO,1976,2015,91,26.9,1999,1956,Freedom Party of Austria,FPO,0
+AUT,Austria,GAL,2000,2013,92,10.5,2006,,Green Alternative,GAL,0
+AUT,Austria,LF,1995,1999,93,6,1994,1993,Liberal Forum,LF,0
+AUT,Austria,Team Stronach,2014,2015,96,5.7,2013,2012,Team Stronach,TS,0
+AUT,Austria,VGO/ALO,1987,1995,97,7.3,1994,,,VGO/ALO,0
+AZE,Azerbaijan,Citizens,2000,2005,102,10.8,2000,,,Citizens,0
+AZE,Azerbaijan,Freedom,2006,2010,104,5.2,2005,,People's Freedom Party,Freedom,0
+BHS,Bahamas,Bahm. Dem.P.,1978,1982,110,26.9,1977,,Bahm. Dem.P.,BDP,0
+BHR,Bahrain,Al Asala,2007,2015,114,12.5,2006,2006,Al-Asala,AA,0
+BHR,Bahrain,Al Menbar,2007,2015,115,17.5,2006,2006,National Islamic Society,AM,0
+BHR,Bahrain,INAS,2007,2014,117,45,2010,,,INAS,0
+BGD,Bangladesh,Bang. Musl. Lge.,1980,1982,120,6,1979,,Bang. Musl. Lge.,BML,0
+BGD,Bangladesh,COG,1989,1991,125,6,1988,,,COG,0
+BGD,Bangladesh,Ershad,2002,2015,127,11.3,2014,1985,Ershad,Ershad,0
+BGD,Bangladesh,Jamaat-i-Islami,1987,2014,129,6.1,1991,1986,Bangladesh Islamic Assembly,Jamaat-i-Islami,0
+BGD,Bangladesh,Jatiya Dal,1987,2001,130,83.9,1988,1985,Jatiya Dal,JD,0
+BRB,Barbados,NDP,1995,1997,137,12.1,1994,,,NDP,0
+BLR,Belarus,Accord,1997,1997,138,30.7,1997,,,Accord,0
+BLR,Belarus,Agrarians,1997,1997,139,26.3,1997,,,Agrarians,0
+BLR,Belarus,APB,1995,2015,140,17.6,1995,1994,Agramaya Partya Belarusi,APB,0
+BLR,Belarus,Bel. Popular Front,1992,1994,141,12.4,1994,,Bel. Popular Front,BPF,0
+BLR,Belarus,Belarus,1994,1994,142,44.9,1994,,,Belarus,0
+BLR,Belarus,CBD,1992,1993,146,9.2,1992,,,CBD,0
+BLR,Belarus,KPB,1992,2015,147,22.5,1995,1904,Kummunisticheskaya Partya Belarusi,KPB,0
+BLR,Belarus,People's Unity,1997,1997,151,9.5,1997,,People's Unity,P'U,0
+BLR,Belarus,Social Democrats,1997,1997,154,8.4,1997,,Social Democrats,SD,0
+BEL,Belgium,CD&V/N-VA,2008,2010,157,18.5,2007,2004,Christen-Democratisch en Vlaams/Nieuw-Vlaamse Alliantie,CD&V/N-VA,0
+BEL,Belgium,CDH,2004,2015,158,5.5,2003,1968,Centre d_mocrate humaniste,CDH,0
+BEL,Belgium,ECOLO,2008,2014,162,5.1,2007,,,ECOLO,0
+BEL,Belgium,Ecologist,1988,1995,163,10,1991,1980,�cologistes Conf_d_r_s pour l'organisation de luttes originales,Ecologist,0
+BEL,Belgium,Freedom & Prog,1975,1981,165,10.3,1978,,Freedom & Prog,F&P,0
+BEL,Belgium,Liberal,1979,1985,166,8.2,1981,,,Liberal,0
+BEL,Belgium,Liberal/Rass,1975,1977,167,10.9,1975,,,Liberal/Rass,0
+BEL,Belgium,Liberals,1978,1978,168,15.6,1978,,,Liberals,0
+BEL,Belgium,N-VA,2011,2015,170,20.3,2014,,,N-VA,0
+BEL,Belgium,PRL,1986,1995,171,10.2,1985,1980,Parti R_formateur Lib_ral,PRL,0
+BEL,Belgium,PRL-FDF,1996,2003,172,10.2,1995,1993,Parti R_formateur Lib_ral/Front D_mocratique des Francophones,PRL-FDF,0
+BEL,Belgium,PSC,1982,2003,174,6.7,1981,1968,Parti Social Chr_tien,PSC,0
+BEL,Belgium,PVV,1982,1995,175,13.1,1981,1961,Partij voor Vrijheid en Vooruitgang,PVV,0
+BEL,Belgium,Socialist,1975,1987,177,28.4,1985,1978,Parti Socialiste,Socialist,0
+BEL,Belgium,SP,1988,1998,178,14.9,1987,,,SP,0
+BEL,Belgium,SPA,2015,2015,179,8.8,2014,,,SPA,0
+BEL,Belgium,SPA/VP,2008,2010,180,10.3,2007,,,SPA/VP,0
+BEL,Belgium,VB,1996,2014,181,12,2007,1979,Vlaams Belang,VB,0
+BEL,Belgium,Volksunie,1975,1987,183,9.9,1981,1954,Volksunie,Volksunie,0
+BLZ,Belize,UDP/NABR,1994,1998,186,48.7,1993,,,UDP/NABR,0
+BEN,Benin,ADD,2008,2011,187,21.5,2007,2007,Alliance pour une Dynamique D_mocratique,ADD,0
+BEN,Benin,FARD- Alafia,1996,2003,192,12.2,1995,,FARD- Alafia,FARD-A,0
+BEN,Benin,FC,2004,2011,193,6,2003,2007,Force Cl_,FC,0
+BEN,Benin,FCBE,2008,2015,194,41.4,2011,,,FCBE,0
+BEN,Benin,MADEP,2004,2007,196,10.8,2003,1999,Mouvement Africain pour la D_mocratie et le Progr�s,MADEP,0
+BEN,Benin,PRD,1996,2011,200,23.2,1995,1991,Parti du Renouveau D_mocratique,PRD,0
+BEN,Benin,PSD,1996,2003,202,9.8,1995,,,PSD,0
+BEN,Benin,RB,1996,2007,204,24.4,1995,1999,Renaissance du Previous Benin,RB,0
+BEN,Benin,UBF,2004,2007,205,37.3,2003,2002,nion pour le Previous Benin Hit du Futur,UBF,0
+BEN,Benin,UDSN,1996,1998,206,6.1,1995,1999,Union pour la D_mocratie et la Solidarit_ Nationale,UDSN,0
+BEN,Benin,UN,2012,2015,207,30.3,2011,,,UN,0
+BEN,Benin,UTDR,1992,1993,209,18.9,1991,,,UTDR,0
+BTN,Bhutan,DPT,2009,2015,210,67,2008,2007,Druk Phuensum Tshogpa,DPT,0
+BTN,Bhutan,PDP,2009,2015,211,54.9,2013,2007,People's Democratic Party,PDP,0
+BOL,Bolivia,AP,1994,1997,213,20,1993,,,AP,0
+BOL,Bolivia,Condepa,1990,2002,215,15.9,1997,1997,Conciencia de Patria,Condepa,0
+BOL,Bolivia,MBL,1994,2002,217,5.1,1993,1985,Movimiento Previous Bolivia  Libre,MBL,0
+BOL,Bolivia,MIR/MNR-I/PCB,1983,1985,219,40.1,1983,,,MIR/MNR-I/PCB,0
+BOL,Bolivia,MNRI,1986,1989,222,5.8,1985,,,MNRI,0
+BOL,Bolivia,MNRV,1986,1989,223,5.1,1985,,,MNRV,0
+BOL,Bolivia,NFR,2003,2005,224,20.9,2002,1995,Nueva Fuerza Republicana,NFR,0
+BOL,Bolivia,PDC,2015,2015,225,7.7,2014,,Partido Democrata Cristiano/ Christian Democratic Party,PDC,0
+BOL,Bolivia,PODEMOS,2006,2009,226,28.6,2005,2005,Poder Democr�tico Social,PODEMOS,0
+BOL,Bolivia,PP,2010,2015,227,28.5,2009,,Plan Progreso,PP,0
+BOL,Bolivia,Socialist,1983,1985,229,7.7,1983,1971,Falange Socialista Boliviana,Socialist,0
+BOL,Bolivia,UCS,1994,2002,230,15.9,1997,1993,Uni�n C�vica Solidaridad,UCS,0
+BOL,Bolivia,UN,2006,2014,232,7.8,2005,,,UN,0
+BOL,Bolivia,United L.,1990,1993,233,7.2,1989,,United L.,UL,0
+BIH,Bosnia-Herz,Democratic Front,2015,2015,235,9.2,2014,,Democratic Front,DF,0
+BIH,Bosnia-Herz,HDZ BiH,1995,1995,236,15,1995,1990,Hrvatska demokratska zajednica Bosne i Hercegovine,HDZBH,0
+BIH,Bosnia-Herz,SBB,2011,2014,238,9.5,2010,2009,Savez za Bolju Budu_nost BiH,SBB,0
+BIH,Bosnia-Herz,SBiH,2003,2010,239,15.5,2006,1996,Stranka za Bosnu i Hercegovinu,SBiH,0
+BIH,Bosnia-Herz,SDA,1995,2015,240,23.8,2014,1990,Stranka Demokratske Akcije,SDA,0
+BIH,Bosnia-Herz,SDP,2001,2015,241,18,2000,1999,Socijaldemokratska Partija Bosne i Hercegovine,SDP,0
+BIH,Bosnia-Herz,SDS,2003,2015,242,13.3,2002,1990,Srpska Demokratska Stranka Bosne i Hercegovine,SDS,0
+BIH,Bosnia-Herz,SDS BiH,1995,1995,243,24.3,1995,,SDS BiH,SDSBH,0
+BIH,Bosnia-Herz,SNSD,2003,2015,244,19.1,2006,1996,Savez Nezavisnih Socijaldemokrata,SNSD,0
+BWA,Botswana,BCP,2000,2015,247,20.4,2014,,,BCP,0
+BWA,Botswana,BNF,1975,2014,249,37.1,1994,1965,Botswana National Front,BNF,0
+BWA,Botswana,BPP,1975,1989,250,7.5,1979,1960,Botswana People's Party,BPP,0
+BWA,Botswana,UDC,2015,2015,251,30,2014,2012,Umbrella for Democratic Change,UDC,0
+BRA,Brazil,MDB,1975,1982,253,49.6,1979,1967,Movimento Democr�tico Brasileiro,MDB,0
+BRA,Brazil,PDT,1983,2014,255,10,1990,1979,Partido Democr�tico Trabalhista,PDT,0
+BRA,Brazil,PFL/DEM,2011,2014,257,7.6,2010,2007,Democratas 25,PFL/DEM,0
+BRA,Brazil,PMDB,1983,2015,258,48.1,1986,1979,Partido do Movimento Democr�tico Brasiliero,PMDB,0
+BRA,Brazil,PP,2003,2010,259,7.7,2002,2003,Partido Progressista,PP,0
+BRA,Brazil,PPR,1995,1998,260,9.4,1995,,,PPR,0
+BRA,Brazil,PSB,1999,2015,263,6.6,2014,,,PSB,0
+BRA,Brazil,PSD,2015,2015,264,7.2,2014,2011,Partido Social Democratico,PSD,0
+BGR,Bulgaria,ATAKA,2006,2015,270,10.1,2009,2005,Natsionalno Obedinenie Ataka,ATAKA,0
+BGR,Bulgaria,BSP/Allies,1995,2001,272,43.5,1995,,,BSP/Allies,0
+BGR,Bulgaria,CB,2002,2005,273,17.1,2001,,,CB,0
+BGR,Bulgaria,DPS,1991,2015,274,15.8,2009,1991,Dvizhenie za Prava i Svobodi,DPS,0
+BGR,Bulgaria,DSB,2006,2009,275,7.1,2005,,,DSB,0
+BGR,Bulgaria,Euro Left,1997,2001,276,5.5,1997,1997,Bulgarska Evrolevista - BEL,EL,0
+BGR,Bulgaria,KZB,2006,2014,278,34.2,2005,2001,Koalitsiya za Balgariya,KZB,0
+BGR,Bulgaria,National Fatherland Front,1975,1990,279,100,1975,1989,Otechestven Front,NFF,0
+BGR,Bulgaria,NS,1995,2001,281,7.6,1997,,,NS,0
+BGR,Bulgaria,ODS,2006,2009,282,8.3,2005,,,ODS,0
+BGR,Bulgaria,SK,2010,2013,284,7.2,2009,,,SK,0
+BFA,Burkina Faso,ADF,1993,2002,285,8.7,1992,1992,Alliance pour la D_mocratie et la F_d_ration,ADF,0
+BFA,Burkina Faso,ADF-RDA,2003,2014,286,17.8,2012,2002,Alliance pour la D_mocratie et la F_d_ration_Rassemblement D_mocratique Africain,ADF-RDA,0
+BFA,Burkina Faso,Civic Organizations,2015,2015,290,27.8,2015,,Civic Organizations,CO,0
+BFA,Burkina Faso,CNPP-PSD,1993,1997,291,12.1,1992,1991,Convention Nationale des Patriotes Progressistes / Parti Social-D_mocrate,CNPP-PSD,0
+BFA,Burkina Faso,Military Group,2015,2015,292,27.8,2015,,Military Group,MG,0
+BFA,Burkina Faso,ODP-MT,1993,1997,293,48.2,1992,1989,Congr�s Organisation pour la D_mocratie Populaire - Mouvement du Travail,ODP-MT,0
+BFA,Burkina Faso,Opposition,2015,2015,294,33.3,2015,,,Opposition,0
+BFA,Burkina Faso,PDP,1998,2002,296,10.1,1997,,,PDP,0
+BFA,Burkina Faso,PDP-PS,2003,2007,297,7.5,2002,2001,Parti pour la D_mocratie et le Progr�s / Parti Socialiste,PDP-PS,0
+BFA,Burkina Faso,PRA,1979,1980,298,9.7,1978,,,PRA,0
+BFA,Burkina Faso,RDA,1993,2002,300,11.5,1992,1957,Rassemblement D_mocratique Africain,RDA,0
+BFA,Burkina Faso,UDV,1979,1980,301,45.2,1978,1959,Union D_mocratique Volta�que,UDV,0
+BFA,Burkina Faso,UNDD,1979,1980,302,21,1978,1978,Union Nationale pour la D_mocratie et le Developpement,UNDD,0
+BFA,Burkina Faso,UPC,2013,2014,305,18.8,2012,2012,Union pour le Progr�s et le Changement,UPC,0
+BFA,Burkina Faso,UPR,2008,2014,306,5,2012,2007,Union pour la R_publique,UPR,0
+BFA,Burkina Faso,UPV,1979,1980,307,14.5,1978,,,UPV,0
+BDI,Burundi,Frodebu-Nyakuri,2011,2015,311,5.9,2010,2010,Sahwanya Frodebu Nyakuri,Frodebu-Nyakuri,0
+CPV,C. Verde Is.,PCD,1996,2001,317,6.7,1995,,,PCD,0
+KHM,Cambodia,CNRP,2014,2015,320,44.5,2013,2012,Cambodia National Rescue Party,CNRP,0
+KHM,Cambodia,FP,1994,2013,324,45.5,1993,1981,"National United Front for an Independent, Neitral, Peaceful, and Cooperative Cambodia (FUNCINPEC Party)",FP,0
+KHM,Cambodia,SRP,1999,2013,327,21.9,2003,1995,Sam Rainsy Party,SRP,0
+CMR,Cameroon,SDF,1998,2015,333,24.9,1997,1990,Social Democratic Front,SDF,0
+CMR,Cameroon,UNDP,1993,2015,336,37.8,1992,1991,National Union for Democracy and Progress,UNDP,0
+CMR,Cameroon,UPC,1993,2015,337,10,1992,1948,Cameroon People's Union,UPC,0
+CAN,Canada,BQ,1994,2015,338,13.5,1993,1991,Quebec Block,BQ,0
+CAN,Canada,Canadian Alliance,2001,2004,339,25.5,2000,2000,Canadian Alliance,CA,0
+CAN,Canada,NDP,1975,2015,343,30.6,2011,1961,New Democratic Party,NDP,0
+CAN,Canada,Reform P.,1994,2000,345,19.4,1997,1987,Reform Party,RP,0
+CAF,Cent. Af. Rep.,ADP,1994,2003,347,7.9,1993,,,ADP,0
+CAF,Cent. Af. Rep.,CFD,1994,1998,349,9.2,1993,,,CFD,0
+CAF,Cent. Af. Rep.,FPP,1999,2011,350,6.5,1998,,,FPP,0
+CAF,Cent. Af. Rep.,KNK,2006,2013,351,74.3,2005,,,KNK,0
+CAF,Cent. Af. Rep.,Majorit_ Pr_sidentielle,2012,2013,352,12.1,2011,,Majorit_ Pr_sidentielle,M_P_,0
+CAF,Cent. Af. Rep.,MDD,1999,2003,353,7.5,1998,,,MDD,0
+CAF,Cent. Af. Rep.,PLD,1994,1998,356,9.2,1993,,,PLD,0
+TCD,Chad,ART,2012,2015,360,70.2,2011,2011,Alliance for the Renaissance of Chad,ART,0
+TCD,Chad,FAR,2003,2011,361,6,2002,1997,Front of Action Forces for the Republic,FAR,0
+TCD,Chad,RDP,1993,2011,364,6.6,2002,1992,Rally for Democracy and Progress,RDP,0
+TCD,Chad,UNDR,1998,2015,368,12,1997,1992,National Union for Development and Renewal,UNDR,0
+TCD,Chad,URD,1998,2002,370,23.2,1997,1992,Union for Renewal and Democracy,URD,0
+CHL,Chile,Alianza por Chile,2002,2009,373,44.3,2001,,Alianza por Chile,AC,0
+CHL,Chile,Alliance,2014,2015,374,36.2,2013,,Alliance,Alliance,0
+CHL,Chile,CLVF,2010,2013,376,5.4,2009,,For a Clean Chile,CLVF,0
+CHL,Chile,"If You Want It, Chile Changes",2014,2015,378,5.4,2013,2013,"If You Want It, Chile Changes","IYWI,CC",0
+CHL,Chile,PPD,1990,2001,382,12.6,1997,1987,Party for Democracy,PPD,0
+CHL,Chile,PRN,1990,2001,383,24.2,1993,1987,National Renovation Party,PRN,0
+CHL,Chile,PSCH,1990,2001,384,12.5,1993,1933,Socialist Party of Chile,PSCH,0
+CHL,Chile,UDI,1990,2001,386,14.4,1997,1983,Independent Democratic Union,UDI,0
+COL,Colombia,ANAPO,1975,1978,388,9,1975,1961,National Popular Alliance,ANAPO,0
+COL,Colombia,ANAPO/UNO,1979,1982,389,12.1,1978,,,ANAPO/UNO,0
+COL,Colombia,Coalitions,2003,2006,390,8.1,2002,,,Coalitions,0
+COL,Colombia,Conserv.,1975,1990,391,40.3,1982,,,Conserv.,0
+COL,Colombia,CR,2007,2014,392,10.1,2006,1998,Radical Change,CR,0
+COL,Colombia,DC,2015,2015,393,11.4,2014,2014,Democratic Center,DC,0
+COL,Colombia,Morena,1992,1994,396,8.2,1991,2008,Moreno,Morena,0
+COL,Colombia,NDF,1992,1994,398,8.2,1991,,,NDF,0
+COL,Colombia,NIP,2011,2014,399,6.6,2010,1997,National Integration Party,NIP,0
+COL,Colombia,NL,1987,1990,400,6.6,1986,1979,New Liberalism,NL,0
+COL,Colombia,PDA,2007,2014,402,7.7,2006,2005,Alternative Democratic Pole,PDA,0
+COL,Colombia,PSC,1991,1998,405,34.8,1994,1987,Social Conservative Party,PSC,0
+COM,Comoro Is.,Allies,2010,2015,411,9.1,2009,,,Allies,0
+COM,Comoro Is.,CdIA,2005,2009,412,36.4,2004,,,CdIA,0
+COM,Comoro Is.,CRC,2005,2009,413,18.2,2004,,,CRC,0
+COM,Comoro Is.,FRN,1994,1999,414,42.9,1993,,,FRN,0
+COM,Comoro Is.,Mouvance Presidentielle,2010,2015,416,51.5,2009,,Mouvance Presidentielle,MP,0
+COM,Comoro Is.,Opposition,2010,2015,417,12.1,2009,,,Opposition,0
+COM,Comoro Is.,RDR,1994,1999,418,83.7,1996,,,RDR,0
+COM,Comoro Is.,UCP,1983,1992,419,100,1987,,,UCP,0
+COG,Congo,FDU,2003,2007,420,23.3,2002,2001,United Democratic Forces,FDU,0
+COG,Congo,MCDDI,1994,2015,422,22.4,1993,1989,Congolese Movement for Democracy and Integral Development,MCDDI,0
+COG,Congo,RDPS,1994,2015,425,8,1993,1990,Rally for Democracy and Social Progress,RDPS,0
+COD,Congo (DRC),FR,2007,2011,430,7.6,2006,,,FR,0
+COD,Congo (DRC),MLC,2007,2015,431,18.8,2006,,,MLC,0
+COD,Congo (DRC),MSR,2007,2015,433,7.9,2006,,,MSR,0
+COD,Congo (DRC),PALU,2007,2011,434,10,2006,,,PALU,0
+COD,Congo (DRC),PPPD,2012,2015,435,8.5,2011,,,PPPD,0
+COD,Congo (DRC),PPRD,2007,2015,436,32.6,2006,,,PPRD,0
+COD,Congo (DRC),UDPS,2012,2015,438,12.1,2011,,,UDPS,0
+COD,Congo (DRC),UNC,2012,2015,439,5,2011,,,UNC,0
+CRI,Costa Rica,CU,1983,1986,440,29.1,1982,1977,United Coalition,CU,0
+CRI,Costa Rica,FA,2015,2015,441,13.1,2014,2004,Broad Front,FA,0
+CRI,Costa Rica,FD,1995,2002,442,5.8,1998,1996,Democratic Force,FD,0
+CRI,Costa Rica,ML,2015,2015,444,7.9,2014,,,ML,0
+CRI,Costa Rica,PASE,2011,2014,447,9.2,2010,2005,Accessibility Without Exclusion Party,PASE,0
+CRI,Costa Rica,PML,1999,2014,449,14.5,2010,1994,Libertarian Movement Party,PML,0
+CRI,Costa Rica,PNI,1975,1978,450,10.5,1975,,,PNI,0
+CRI,Costa Rica,PU,1979,1990,453,6.4,1982,1978,United People,PU,0
+CIV,Cote d'Ivoire,PDCI-RDA,2001,2015,463,42.2,2001,1946,Democratic Party of Cote d'Ivoire - African Democratic Rally,PDCI-RDA,0
+HRV,Croatia,CPP-CPSB-APGK,2004,2007,468,8,2003,,,CPP-CPSB-APGK,0
+HRV,Croatia,HL,2012,2015,470,7.7,2011,2010,Croatian Labourists - Labour Party,HL,0
+HRV,Croatia,HNS,1993,2011,471,6.8,2007,1991,Croatian National Party - Liberal Democrats,HNS,0
+HRV,Croatia,HSLS,1993,2003,472,11.8,2000,1989,Croatian Social-Liberal Party,HSLS,0
+HRV,Croatia,HSP,2000,2003,473,5.2,2000,1990,Croatian Party of Rights,HSP,0
+HRV,Croatia,HSS,1993,2011,474,14.7,2000,1904,Croatian Peasant Party,HSS,0
+HRV,Croatia,KUKURIKU,2012,2015,477,45.7,2011,2010,Croatia is Growing,KUKURIKU,0
+HRV,Croatia,Opposition Alliance,1996,1999,478,18.3,1995,,Opposition Alliance,OA,0
+HRV,Croatia,SDP-LP-IDA,2004,2007,482,22.6,2003,,,SDP-LP-IDA,0
+HRV,Croatia,SPH-SDP,1993,1995,483,5.4,1993,,,SPH-SDP,0
+CYP,Cyprus,EDEK,1977,2015,489,11.1,1985,1976,Movement for Social Democracy,EDEK,0
+CYP,Cyprus,EVROKO,2007,2015,491,5.8,2006,2005,European Party,EVROKO,0
+CYP,Cyprus,KISOS,2002,2011,494,8.9,2006,1999,Social Democrats' Movement,KISOS,0
+CZE,Czech Rep.,ANO 2011,2014,2015,497,18.7,2013,,ANO 2011,ANO2011,0
+CZE,Czech Rep.,AR/RP,1997,1997,498,8,1996,,,AR/RP,0
+CZE,Czech Rep.,Coalition,2003,2006,500,14.3,2002,,,Coalition,0
+CZE,Czech Rep.,Freedom Union,1998,1998,503,8.6,1998,,Freedom Union,FU,0
+CZE,Czech Rep.,KDU-CSL,1993,2015,504,9,1998,1918,Christian and Democratic Union _ Czechoslovak People's Party,KDU-CSL,0
+CZE,Czech Rep.,KDU/CSL,1997,1997,505,8.1,1996,,,KDU/CSL,0
+CZE,Czech Rep.,KDU/KDH,1991,1992,506,11.3,1990,1990,Christian and Democratic Union,KDU/KDH,0
+CZE,Czech Rep.,KSC,1991,1992,507,13.7,1990,1948,Communist Party,KSC,0
+CZE,Czech Rep.,KSCM,2007,2015,508,16.5,2013,1989,Communist Party of Bohemia and Moravia,KSCM,0
+CZE,Czech Rep.,KSCM/Left Block,1993,1996,509,14.1,1992,,KSCM/Left Block,KSCM/LB,0
+CZE,Czech Rep.,LNSS,1993,1996,510,6.5,1992,1992,Liberal-Social Union,LNSS,0
+CZE,Czech Rep.,ODA,1993,1997,512,6.4,1996,1990,Civic Democratic Alliance,ODA,0
+CZE,Czech Rep.,SZ,2007,2010,515,6.3,2006,1989,Green Party,SZ,0
+CZE,Czech Rep.,TOP,2011,2013,516,16.7,2010,,,TOP,0
+CZE,Czech Rep.,TOP 09,2014,2015,517,13,2013,2009,TOP 09,TOP09,0
+CZE,Czech Rep.,VV,2011,2013,518,10.9,2010,2001,Public Affairs,VV,0
+DNK,Denmark,DF,2002,2015,520,13.2,2005,,,DF,0
+DNK,Denmark,DFP,2008,2011,521,13.9,2007,1995,Danish People's Party (Dansk Folkeparti),DFP,0
+DNK,Denmark,FP,1975,1993,522,14.6,1977,1972,Fremskridspartiet,FP,0
+DNK,Denmark,LA,2012,2015,524,5,2011,2008,Liberal Alliance,LA,0
+DNK,Denmark,RV,1975,2015,525,9.5,2011,1905,Radical Liberal Party,RV,0
+DNK,Denmark,SF,1982,2015,527,14.6,1987,1958,Socialist People's Party,SF,0
+DJI,Djibouti,UMP,2004,2015,532,94.1,2008,2003,Union for the Presidential Majority,UMP,0
+DJI,Djibouti,USN,2014,2015,533,35.7,2013,2013,Union for National Salvation,USN,0
+ECU,Ecuador,CREO,2014,2015,543,8.8,2013,2010,Creating Opportunities,CREO,0
+ECU,Ecuador,FRA,1985,1988,545,7.1,1984,1972,Radical Alfarista Front,FRA,0
+ECU,Ecuador,MNPP,1997,2009,547,9.8,1996,1996,New Country Pachakutik Movement,MNPP,0
+ECU,Ecuador,MPD,1995,2009,548,10.4,1994,1978,Democratic Popular Movement,MPD,0
+ECU,Ecuador,PC,1980,1986,550,12.7,1979,1869,Conservative Party,PC,0
+ECU,Ecuador,PCE,1993,1996,551,7.8,1992,1926,Communist Party of Ecuador,PCE,0
+ECU,Ecuador,PLR,1980,1986,552,7.6,1979,,,PLR,0
+ECU,Ecuador,PRIAN,2003,2013,555,27.8,2006,2002,Institutional Renewal Party of National Action,PRIAN,0
+ECU,Ecuador,PSE,1990,1992,557,10.8,1990,,,PSE,0
+EGY,Egypt,Al-Nour,2012,2015,561,24.2,2011,2011,Light Party,Al-Nour,0
+EGY,Egypt,Arab Socialist,1975,1978,562,69.3,1976,,Arab Socialist,AS,0
+EGY,Egypt,Egyptian Bloc,2012,2015,563,6.7,2011,2011,Egyptian Bloc,EB,0
+EGY,Egypt,Islamists,1988,1990,566,17.5,1987,,,Islamists,0
+EGY,Egypt,NWP,1985,2015,575,15.1,1984,1978,New Wafd Party,NWP,0
+EGY,Egypt,Social Labor,1980,1984,577,7.6,1979,,Social Labor,SL,0
+EGY,Egypt,Women,1980,1984,578,7.9,1979,,,Women,0
+SLV,El Salvador,AD,1986,1988,579,9,1985,,,AD,0
+SLV,El Salvador,CD,1992,2015,581,12.2,1991,1988,Democratic Change,CD,0
+SLV,El Salvador,CDU,2001,2003,582,5.4,2001,,,CDU,0
+SLV,El Salvador,CN,2013,2015,583,7.1,2012,1961,National Coalition,CN,0
+SLV,El Salvador,GANA,2013,2015,585,13.1,2012,2009,Grand Alliance for Change,GANA,0
+SLV,El Salvador,PAD,1983,1985,586,7.7,1982,,Democratic Action Party,PAD,0
+SLV,El Salvador,UNO,1998,2000,591,15.4,1997,1972,National Opposition Union,UNO,0
+GNQ,Eq. Guinea,CPDS,2000,2015,594,5.8,2004,1984,Convergence for Social Democracy,CPDS,0
+GNQ,Eq. Guinea,CSD,1994,1999,595,7.5,1993,,,CSD,0
+GNQ,Eq. Guinea,Democratic opposition,2005,2013,596,40.5,2004,,Democratic opposition,D,0
+GNQ,Eq. Guinea,UDS,1994,1999,598,6.2,1993,1992,Social Democratic Union,UDS,0
+GNQ,Eq. Guinea,UP,2000,2004,599,6.4,1999,1992,Popular Union,UP,0
+EST,Estonia,EER,2008,2011,602,7.1,2007,2006,Estonian Greens,EER,0
+EST,Estonia,EK,1996,2015,603,26.1,2007,1991,Estonian Center Party,EK,0
+EST,Estonia,EK/RU,1996,1999,604,32.2,1996,,,EK/RU,0
+EST,Estonia,EKL,1993,1994,605,6.8,1993,,Estonian Citienz,EKL,0
+EST,Estonia,ER,1993,1995,606,12.2,1993,,,ER,0
+EST,Estonia,ERSP,1993,1995,608,8.7,1993,1998,Estonian National Independence Party,ERSP,0
+EST,Estonia,IRL,2008,2015,610,20.5,2011,2006,Pro Patria and Res Publica Union,IRL,0
+EST,Estonia,KE,2002,2003,611,7.6,2002,1991,Estonian Coalition Party,KE,0
+EST,Estonia,Moderates,1993,2003,612,15.2,1999,1990,People's Party Moderates,Moderates,0
+EST,Estonia,People's Party,2000,2001,613,7.3,1999,,People's Party,P'P,0
+EST,Estonia,RE,1995,2015,614,28.6,2011,1994,Estonian Reform Party,RE,0
+EST,Estonia,RP,2004,2007,615,24.6,2003,1989,Union for the Republic,RP,0
+EST,Estonia,Safe Haven,1993,1995,616,13.6,1993,,Safe Haven,SH,0
+ETH,Ethiopia,ANDM,2001,2015,618,24.5,2000,1980,Amhara National Democratic Movement,ANDM,0
+ETH,Ethiopia,CUD,2006,2010,621,20,2005,2004,Coalition for Unity and Democracy,CUD,0
+ETH,Ethiopia,OPDO,2001,2005,625,32.6,2000,1990,Oromo People's Democratic Organization,OPDO,0
+ETH,Ethiopia,Oromo groups,1992,1995,626,44.8,1992,,Oromo groups,O,0
+ETH,Ethiopia,UEDF,2006,2010,630,9.5,2005,2003,United Ethiopian Democratic Froces,UEDF,0
+ETH,Ethiopia,WGGPDO,2001,2005,631,5.5,2000,,"Walayta, Gamo, Gofa, Dawro, and Konta People's Democratic Organization",WGGPDO,0
+FJI,Fiji,FA,1994,2000,634,14.1,1999,,,FA,0
+FJI,Fiji,FLP,1993,2006,636,52.1,1999,1985,Fiji Labour Party,FLP,0
+FJI,Fiji,FNUF,1993,1993,637,7.1,1992,1992,Fijian Nationalist United Front,FNUF,0
+FJI,Fiji,GVP,1993,1999,639,7.1,1992,1990,General Voters Party,GVP,0
+FJI,Fiji,MV,2002,2006,641,10.2,2001,2001,Conservative Alliance Party,MV,0
+FJI,Fiji,Nat. Fed. P,1978,1999,642,41.2,1982,,Nat. Fed. P,NFP,0
+FJI,Fiji,Nat. Federation F.,1978,1982,643,23.1,1977,,Nat. Federation F.,NFF,0
+FJI,Fiji,Nat. Federation P.,1975,1977,644,36.5,1975,,Nat. Federation P.,NFP,0
+FJI,Fiji,NFP,2002,2015,645,10.2,2001,1963,National Federation Party,NFP,0
+FJI,Fiji,PANU,2000,2000,648,5.6,1999,1998,Party of National Unity,PANU,0
+FJI,Fiji,SODELPA,2015,2015,650,28.2,2014,2012,Social Democratic Liberal Party,SODELPA,0
+FJI,Fiji,SVT,2000,2000,651,11.3,1999,1991,Fijian Political Party,SVT,0
+FIN,Finland,PS,2012,2015,660,19,2011,1995,Finns Party,PS,0
+FIN,Finland,SFP,1977,2007,661,5.6,1987,,Swedish People's Party,SFP,0
+FIN,Finland,SKDL,1976,1990,662,18.9,1979,1944,Finnish People's Democratic League,SKDL,0
+FIN,Finland,Vas,1991,2015,665,11.2,1995,1990,Left-Wing Alliance,Vas,0
+FIN,Finland,VL,2003,2011,666,8.5,2007,,,VL,0
+FRA,France,Communist,1975,2007,669,18.6,1978,,,Communist,0
+FRA,France,Communists,1982,2002,670,9.8,1986,,,Communists,0
+FRA,France,MR,1975,1978,673,6.1,1975,2002,Reformist Movement,MR,0
+FRA,France,Nat. Front,1987,2002,675,9.6,1986,,Nat. Front,NF,0
+FRA,France,PS/MRG,1982,1986,681,49.2,1981,,,PS/MRG,0
+FRA,France,RI,1975,1978,682,7.8,1975,1962,Independent Republicans,RI,0
+FRA,France,RPR/UDF joint,1987,1988,684,21.5,1986,,RPR/UDF joint,RPR/UDF,0
+DEU,FRG/Germany,Alliance90/Greens,1999,2015,688,10.7,2009,,,Alliance90/Greens,0
+DEU,FRG/Germany,CDU/CSU,1977,2015,690,48.6,1976,1945,Union,CDU/CSU,0
+DEU,FRG/Germany,CSU,1981,2005,691,10.6,1983,,,CSU,0
+DEU,FRG/Germany,FDP,1977,2013,692,14.6,2009,1948,Free Democratic Party,FDP,0
+DEU,FRG/Germany,Green,1984,1998,693,8.3,1987,1980,Green Party,Green,0
+DEU,FRG/Germany,Left,2006,2015,694,11.9,2009,2005,The Left,Left,0
+GAB,Gabon,Morena,1991,1996,699,18.7,1990,,,Morena,0
+GAB,Gabon,PGP,1991,2011,701,16.8,1990,1990,Gabonese Progress Party,PGP,0
+GAB,Gabon,RNB,1997,2001,703,6.1,1996,1991,National Rally of Woodcutters,RNB,0
+GAB,Gabon,RPG,2002,2015,704,6.7,2001,2000,Rally for Gabon,RPG,0
+GAB,Gabon,UPG,2007,2011,706,6.7,2006,1989,Union of Gabonese People,UPG,0
+GMB,Gambia,Gpp,1993,1994,710,5.6,1992,,,Gpp,0
+GMB,Gambia,NADD,2008,2012,712,5.3,2007,2005,National Alliance for Democracy and Development,NADD,0
+GMB,Gambia,NCP,1977,1994,713,27.6,1987,1975,National Convention Party,NCP,0
+GMB,Gambia,NRP,1997,2015,714,9.4,2012,1996,National Reconcilitation Party,NRP,0
+GMB,Gambia,PDOIS,2002,2007,715,15,2002,1986,People's Democratic Organization for Independence and Socialism,PDOIS,0
+GMB,Gambia,UDP,1997,2012,717,34,1997,1996,United Democratic Party,UDP,0
+DDR,GDR,DSU,1991,1991,721,6.2,1991,,,DSU,0
+DDR,GDR,National Front,1975,1990,723,99.9,1976,,National Front,NF,0
+DDR,GDR,PDS,1991,1991,724,16.5,1991,,,PDS,0
+DDR,GDR,SPD,1991,1991,725,22,1991,,,SPD,0
+GEO,Georgia,Abkhazian,2000,2004,726,5.1,1999,2004,United Abkhazia,Abkhazian,0
+GEO,Georgia,AGUR,1996,2004,727,25.6,1999,1992,All Georgian Union of Revival,AGUR,0
+GEO,Georgia,Christian Democrats,2009,2012,728,8.7,2008,2008,Christian Democratic Movement,CD,0
+GEO,Georgia,Greens,1993,1995,732,7.6,1993,1992,Green Party of Georgia,Greens,0
+GEO,Georgia,Industry Will Save Georgia,2000,2004,733,7.8,1999,2003,Industry Will Save Georgia,IWSG,0
+GEO,Georgia,Joint Opposition,2009,2012,734,17.7,2008,,Joint Opposition,JO,0
+GEO,Georgia,Labour,2005,2012,735,7.4,2008,1995,Georgian Labour Party (GLP),Labour,0
+GEO,Georgia,NDP,1993,1995,736,8.3,1993,,,NDP,0
+GEO,Georgia,NDPG,1996,1999,737,7.9,1995,1917,National Democratic Party of Georgia,NDPG,0
+GEO,Georgia,Oct. 11,1993,1995,738,12.5,1993,,Oct. 11,O11,0
+GEO,Georgia,Peace Bloc,1993,1995,739,20.1,1993,1992,Peace Bloc Coalition,PB,0
+GEO,Georgia,Rightist Opposition,2005,2008,740,7.7,2004,2004,Rightist Opposition,RO,0
+GEO,Georgia,Unity Bloc,1993,1995,741,9.7,1993,1992,Unity Bloc,UB,0
+GHA,Ghana,ACP,1980,1981,743,8.8,1979,1979,Action Congress Party,ACP,0
+GHA,Ghana,PFP,1980,1981,750,30.6,1979,1979,Popular Front Party,PFP,0
+GHA,Ghana,UNC,1980,1981,754,17.5,1979,1979,United National Convention,UNC,0
+GRC,Greece,ANEL,2013,2015,755,6.7,2012,,Independent Greeks,ANEL,0
+GRC,Greece,DCU,1975,1981,756,11.9,1977,1974,Democratic Centre Union,DCU,0
+GRC,Greece,Golden Dawn,2013,2015,758,6,2012,1980,Popular Association - Golden Dawn,GD,0
+GRC,Greece,KKE,1978,2012,760,10.9,1981,1918,Communist Party of Greece,KKE,0
+GRC,Greece,LAOS,2010,2012,762,5.6,2009,2000,Popular Orthodox Rally,LAOS,0
+GRC,Greece,SYN,1991,2009,766,5.1,1996,1991,Synaspismos,SYN,0
+GRC,Greece,SYRIZA,2013,2015,767,23.7,2012,2004,Coalition of Radical Left,SYRIZA,0
+GRC,Greece,United Left,1975,1977,768,9.5,1975,1951,United Democratic Left,UL,0
+GRD,Grenada,DLC,1986,1990,769,12.5,1986,1995,Democratic Labour Congress,DLC,0
+GRD,Grenada,GDLP,1986,1990,770,36.1,1986,1985,Grenada Democratic Labour Party,GDLP,0
+GRD,Grenada,NP,1991,1995,774,17.4,1990,1989,National Party,NP,0
+GRD,Grenada,People's Alliance,1977,1977,775,48.2,1976,1976,People's Alliance Coalition,P'A,0
+GRD,Grenada,United Labour,2001,2003,776,6.7,2001,2000,United Labour Congress,UL,0
+GTM,Guatemala,AN,1996,2007,777,11.2,1995,1995,National Alliance  (coalition),AN,0
+GTM,Guatemala,DCG,1975,1978,778,21.3,1975,1955,Guatemalan Christian Democracy,DCG,0
+GTM,Guatemala,FDNG,1996,1999,779,9.1,1995,1995,New Guatemala Democratic Front (coalition),FDNG,0
+GTM,Guatemala,LIDER,2012,2015,783,8.7,2011,2010,Renewed Democratic Liberty,LIDER,0
+GTM,Guatemala,PDC,1979,1982,787,11.5,1979,1960,Christian Democratic Party,PDC,0
+GTM,Guatemala,PID,1975,1978,789,23,1975,1965,Institutional Democratic Party,PID,0
+GTM,Guatemala,PR,1975,1978,791,18,1975,1957,Revolutionary Party,PR,0
+GTM,Guatemala,PR/PDCN,1986,1991,792,13.8,1985,1985,Revolutionary Party - Democratic paty of National Conciliation (Coalition),PR/PDCN,0
+GTM,Guatemala,PR/PID/CAO,1979,1982,793,55.7,1979,,,PR/PID/CAO,0
+GTM,Guatemala,PU,2004,2011,794,6.1,2007,2002,Unionist Party,PU,0
+GTM,Guatemala,UCN,1986,2015,795,20.2,1985,1983,Union of the National Center,UCN,0
+GTM,Guatemala,UNE-GANA,2012,2015,798,22.2,2011,,,UNE-GANA,0
+GTM,Guatemala,VIVA-EG,2012,2015,799,7.8,2011,2007,Vision with Values - Encounter for Guatemala,VIVA-EG,0
+GIN,Guinea,PRP,1996,2002,803,7.9,1995,1998,Party for Renewal and Progress,PRP,0
+GIN,Guinea,UFDG,2014,2015,806,32.5,2013,1991,Union of Democratic Forces of Guinea,UFDG,0
+GIN,Guinea,UFR,2014,2015,807,8.8,2013,1992,Union of Republican Forces,UFR,0
+GIN,Guinea,UNR,1996,2002,808,7.9,1995,1992,Union for New Republic,UNR,0
+GIN,Guinea,UPR,2003,2008,810,26.6,2002,1998,Union for Progress and Renewal,UPR,0
+GNB,Guinea-Bissau,PRID,2009,2012,816,7.5,2008,2008,Party for Independence for Development,PRID,0
+GNB,Guinea-Bissau,PUSD,2005,2008,818,16.1,2004,1992,United Social Democratic Party,PUSD,0
+GNB,Guinea-Bissau,RGB-MB,1995,2003,819,26.7,1999,1986,Resistance of Guinea-Bissau-Bafata Movement,RGB-MB,0
+GNB,Guinea-Bissau,UM,1995,1999,820,12.8,1994,1994,Union for Change,UM,0
+GUY,Guyana,AFC,2007,2015,821,10.3,2011,2005,Alliance for Change,AFC,0
+GUY,Guyana,PNCR-1G,2002,2011,826,41.7,2001,2006,People's National Congress Reform - One Guyana (Coalition),PNCR-1G,0
+GUY,Guyana,PNU,2012,2015,827,40.8,2011,2011,Partnership for National Unity (PNU) (Coalition),PNU,0
+GUY,Guyana,PPP/C,2002,2015,829,54.3,2006,1991,People's Progressive Party /Civic (coalition),PPP/C,0
+HTI,Haiti,Alternativ,2012,2015,834,11.1,2011,2010,Alternative for Progress and Democracy,Alternativ,0
+HTI,Haiti,ANDP,1992,1995,835,21,1992,1989,National Alliance for Democracy and Progress,ANDP,0
+HTI,Haiti,ANF,2012,2015,836,10.1,2011,2009,Together We Are Strong,ANF,0
+HTI,Haiti,INITE,2012,2015,840,32.3,2011,,,INITE,0
+HTI,Haiti,PAIN,1992,1995,846,7.4,1992,1988,National Agricultural and Industrial Party,PAIN,0
+HTI,Haiti,PDCH,1992,1995,847,8.6,1992,,Haitian National Christian Party,PDCH,0
+HTI,Haiti,PFSDH,2007,2011,848,18.2,2006,2006,Haitian Social-Democratic Fusion Party,PFSDH,0
+HTI,Haiti,PNP,1986,1986,850,100,1986,1963,National Progressive Party,PNP,0
+HTI,Haiti,PPL,1996,2000,851,81.9,1995,1995,Lavalas Political Platorm,PPL,0
+HTI,Haiti,RDNP,1992,1995,853,7.4,1992,1970,Rally of Progressive National Democrats,RDNP,0
+HTI,Haiti,UNCRH,2007,2011,855,12.1,2006,2005,National Christian Union for the Reconstruction of Haiti,UNCRH,0
+HND,Honduras,LIBRE,2014,2015,856,28.9,2013,2011,Freedom and Refoundation,LIBRE,0
+HND,Honduras,PAC,2014,2015,857,10.2,2013,2012,Anti-Corruption Party,PAC,0
+HND,Honduras,PUD,2002,2013,863,5.7,2005,1993,Democratic Unification Party,PUD,0
+HUN,Hungary,Change of Government,2015,2015,864,19.1,2014,2014,Change of Government/Electoral Alliance Unity,CG,0
+HUN,Hungary,FiDeSz-CDPP,2011,2015,866,68.1,2010,,,FiDeSz-CDPP,0
+HUN,Hungary,FiDeSz-MPSz-KDNP,2007,2010,867,42.5,2006,,,FiDeSz-MPSz-KDNP,0
+HUN,Hungary,FiDeSz-MPSz-MDF,2003,2006,868,22.5,2002,,,FiDeSz-MPSz-MDF,0
+HUN,Hungary,FKg Party,1991,2002,869,13.5,1998,,FKg Party,FKP,0
+HUN,Hungary,FKg Party-Historical Platform,1993,1994,870,11.7,1993,,FKg Party-Historical Platform,FKP-HP,0
+HUN,Hungary,HSP,2011,2014,871,15.3,2010,,,HSP,0
+HUN,Hungary,Jobbik,2011,2015,873,12.2,2010,2003,Movement for a Better Hungary,Jobbik,0
+HUN,Hungary,KDNP,1991,1994,874,6.5,1990,1989,Christian Democratic Party,KDNP,0
+HUN,Hungary,LMP,2011,2015,875,5.3,2014,2009,Politics Can Be Different,LMP,0
+HUN,Hungary,MIEP,1999,2002,877,5.5,1998,1993,Hungarian Justice and Life Party,MIEP,0
+HUN,Hungary,MSzP-SzDSz,2007,2010,879,54.4,2006,,,MSzP-SzDSz,0
+HUN,Hungary,SzDSz,1991,2006,880,21.4,1990,1988,Alliance of Free Democrats - the Hungarian Liberal Party,SzDSz,0
+HUN,Hungary,UDNP,1995,1998,881,7,1994,,,UDNP,0
+ISL,Iceland,Awakening,1996,1999,882,7.2,1995,1995,"Awakening of the Nation- People's Movement, Thj�_vaki-Hreyfing F�lksins",Awakening,0
+ISL,Iceland,Bright Future,2014,2015,883,8.2,2013,2012,Bj_rt framt�_,BF,0
+ISL,Iceland,Citizen Party,1988,1991,884,10.8,1987,1987,Citizen's Party; Borgaraflokkurinn,CP,0
+ISL,Iceland,Citizens' Movement,2010,2013,885,7.2,2009,2009,Borgarahreyfingin,C'M,0
+ISL,Iceland,Liberal,2000,2009,887,7.4,2003,1998,Liberal Party; Frj�lslyndi Flokkurinn,Liberal,0
+ISL,Iceland,People's Alliance,1975,1999,888,22.9,1978,1956,Alth__ubandalagi_,P'A,0
+ISL,Iceland,SDP,1975,1999,890,22,1978,1916,Social Democratic Party; lth__uflokkurinn,SDP,0
+ISL,Iceland,Soc. Dem Alliance,1984,1987,891,7.4,1983,2000,Social Democratic Alliance; Samfylkingin-Jafna_armannaflokkur �slands,SDA,0
+ISL,Iceland,VGF,2000,2015,894,21.7,2009,1998,Left-Green Alliance; Vinstrihreyfing-Gr�nt Frambod,VGF,0
+ISL,Iceland,Women's,1992,1995,895,8.3,1991,,Women's Alliance; Kvennalistinn,Women's,0
+IND,India,BJP/SS,1992,1996,901,24.3,1991,1989,Shiv Seva/Bharatiya Janata Party,BJP/SS,0
+IND,India,Cong. Dem.,1978,1978,903,5,1977,,Cong. Dem.,CD,0
+IND,India,CPI-M,1999,2004,905,5.9,1999,1964,Communist Party of India (Marxist),CPI-M,0
+IND,India,Fourth Front,2010,2014,907,5,2009,,Fourth Front,FF,0
+IND,India,INC/Allies,1993,1996,909,50.4,1995,,,INC/Allies,0
+IND,India,Ja Sangh,1975,1977,911,7.4,1975,,Ja Sangh,JS,0
+IND,India,Janata (S),1991,1991,912,9,1991,1999,Janata Dal- Secular,J(S),0
+IND,India,Janata Party,1978,1989,915,43.2,1977,,Janata Party,JP,0
+IND,India,Left Front,1991,2014,916,14.5,2009,1977,Left Front,LF,0
+IND,India,Lok Dal,1981,1984,917,8.1,1980,1974,Indian People's Party/Bharatiya Lok Dal,LD,0
+IND,India,M-Communist,1975,1990,918,7.2,1980,1964,Communist Party of India (Marxist),M-Communist,0
+IND,India,NDA,2005,2014,921,55.1,2004,1998,National Democratic Alliance,NDA,0
+IND,India,others,1990,1990,922,17.5,1989,,,others,0
+IND,India,Telugu Desam,2000,2015,927,5.4,1999,1982,Party of the Telugu Land,TD,0
+IND,India,UPA,2010,2014,929,48.3,2009,,United Progressive Alliance�,UPA,0
+IDN,Indonesia,Armed Forces,1975,1977,930,19,1975,,Tentara Nasional Aceh�(TNA),AF,0
+IDN,Indonesia,Gerinda,2010,2015,931,13,2014,2008,Movement Party�(Partai Gerakan),Gerinda,0
+IDN,Indonesia,NasDem,2015,2015,934,6.7,2014,2010,National Democrat,NasDem,0
+IDN,Indonesia,NU Party,1975,1977,935,18.7,1975,,Muslim Scholars Party of the NU,NUP,0
+IDN,Indonesia,PAN,2000,2004,936,7.3,1999,1998,National Mandate Party (Partai Amanat Nasional),PAN,0
+IDN,Indonesia,PKS,2005,2014,941,10.8,2009,,Prosperous Justice Party (Partai Keadilan Sejahtera),PKS,0
+IDN,Indonesia,PPP,1978,2009,942,29.3,1977,1973,United Development Party,PPP,0
+IRN,Iran,Conservatives,2005,2015,944,69,2004,1983,osool-garayan,Conservatives,0
+IRN,Iran,INRP,1976,1979,945,100,1975,,,INRP,0
+IRN,Iran,Reformists,2005,2015,949,25.9,2012,1983,eslah-talaban,Reformists,0
+IRQ,Iraq,Al-Sadr Movement,2015,2015,950,10.4,2014,2003,al-Tayy_r al-Sadri,A-SM,0
+IRQ,Iraq,Citizen Alliance,2015,2015,951,8.8,2014,2014,Al-Muwatin,CA,0
+IRQ,Iraq,DPAK,2006,2010,952,21.7,2005,2005,Kurdistan Alliance; Democratic Patriotic Alliance of Kurdistan,DPAK,0
+IRQ,Iraq,IAF,2006,2010,954,15.1,2005,,Iraqi Accord Front; abahat al-Tawafuq;,IAF,0
+IRQ,Iraq,INA,2011,2014,955,21.5,2010,2005,"National Iraqi Alliance; al-Itilaf al-Watani al-Iraqi, also known as the Watani List",INA,0
+IRQ,Iraq,INM,2011,2014,956,28,2010,2009,al-Iraqiya List; al-_araka al-Wa_aniya al-Iraqiyya,INM,0
+IRQ,Iraq,KA,2011,2014,958,13.2,2010,,,KA,0
+IRQ,Iraq,Kurdish Democratic Party,2015,2015,960,7.6,2014,,Kurdish Democratic Party,KDP,0
+IRQ,Iraq,Muttahidoon,2015,2015,962,7,2014,2012,Uniters for Reform Coalition; I'til_f Mutta_id_n lil-I_l__,Muttahidoon,0
+IRQ,Iraq,National Coalition,2015,2015,963,6.4,2014,2012,Al-Wataniya,NC,0
+IRQ,Iraq,National Progressive Front,1981,2003,964,100,1984,1974,Progressive Patriotic; National Front; al-Jabha al-Wataniyyah at-Taqaddumiyyah,NPF,0
+IRQ,Iraq,SL,2011,2015,966,28.7,2014,2009,State of Law; I'til_f Dawlat al-Q_n_n,SL,0
+IRL,Ireland,Labour,1975,2015,973,19.5,2011,1912,P�irt� an Lucht Oibre,Labour,0
+IRL,Ireland,PDP,1988,2007,975,11.9,1987,,People's Democratic Party,PDP,0
+IRL,Ireland,Sinn Fein,2008,2015,976,9.9,2011,1905,We Ourselves,SF,0
+IRL,Ireland,Worker's Party,1983,1992,978,5.6,1989,1970,P�irt� na nOibrithe,W'P,0
+ISR,Israel,Center Party,2001,2003,980,5,2001,,Center Party,CP,0
+ISR,Israel,DMC,1978,1981,983,11.6,1977,1976,Democratic Movement for Change,DMC,0
+ISR,Israel,Haichud Haleumi,2004,2006,985,5.9,2003,1999,National Union; Halchud HaLeumi,HH,0
+ISR,Israel,ILP,2007,2015,986,15.1,2006,1968,Israel Labor Party; Mifleget Ha'avoda Ha'yisra'elit,ILP,0
+ISR,Israel,Israel B'Aliyah,2001,2003,988,5.2,2001,1992,Movement for Israel and Immigration; Yisrael B'Aliya,IB'A,0
+ISR,Israel,Labour-Align,1982,1984,991,36.6,1981,1969,Labour Alignment; Ma'arakh Ha'avoda,Labour-Align,0
+ISR,Israel,Labour-M,1975,1981,992,24.6,1977,2003,Labor/Meimad Coalition,Labour-M,0
+ISR,Israel,Likud-Ahi,2010,2013,994,21.6,2009,2008,Likud/Ahi Party,Likud-Ahi,0
+ISR,Israel,Mapam,1985,1988,995,5,1984,1948,United Workers' Party; Mifleget Hapoalim Hamenchedet,Mapam,0
+ISR,Israel,Meretz,1993,2006,996,9.5,1992,1992,Power-Democratic; Yisrael Democrati,Meretz,0
+ISR,Israel,NRP,1975,2009,997,9.2,1977,1956,National Religious Party; Mifleget Datit Leumit�Mafdal,NRP,0
+ISR,Israel,Shas,1989,2015,1001,13,1999,1984,Sephardi Torah Guardians; Shomrei Torah Sephardim,Shas,0
+ISR,Israel,Shinui,2000,2006,1002,12.3,2003,1974,Change,Shinui,0
+ISR,Israel,Tzomet,1993,1996,1005,6.3,1992,1983,Crossroads,Tzomet,0
+ISR,Israel,UTJ,2014,2015,1007,5.8,2013,1992,United Torah Judaism; Yahadut HaTora HaMeuhedet,UTJ,0
+ISR,Israel,Yesh Atid,2014,2015,1008,15.8,2013,2012,There is a Future,YA,0
+ISR,Israel,Yisrael Beitenu,2007,2015,1009,11.7,2009,1999,National Union; Israel is Our Home,YB,0
+ITA,Italy,Communist,1975,1991,1012,34.4,1976,1943,Italian Communist Party; Partito Comunista Italiano,Communist,0
+ITA,Italy,L'Ulivo,2002,2006,1018,34.9,2001,,,L'Ulivo,0
+ITA,Italy,LN,1997,2015,1022,9.9,1996,1991,Northern League,LN,0
+ITA,Italy,MSI,1977,1994,1024,6.8,1983,1946,Italian Social Movement; Movimento Sociale Italiano _ Destra Nazionale,MSI,0
+ITA,Italy,Pact of Italy,1995,1996,1025,19.2,1994,1994,Pact for Italy; Patto per l'Italia,PI,0
+ITA,Italy,PDS,1992,1994,1028,16.1,1992,1991,Democratic Party of the Left; Partito Democratico della Sinistra,PDS,0
+ITA,Italy,Polo per le Liberta,1997,2001,1030,40.3,1996,1996,Pole for Freedoms,PL,0
+ITA,Italy,Progressive All.,1995,1996,1032,34.4,1994,1994,Alliance of Progressives; Alleanza dei Progressisti,PA,0
+ITA,Italy,Rifondazione Communista,2002,2006,1036,5,2001,,Communist Refoundation Party,RC,0
+ITA,Italy,SEL,2014,2015,1037,5.9,2013,2010,Left Ecology Freedom; Sinistra Ecologia Libert�,SEL,0
+JPN,Japan,Dem. Soc.,1977,1986,1044,7.3,1983,,Dem. Soc.,DS,0
+JPN,Japan,JCP,1987,2015,1048,12.6,1996,1922,Japanese Communist Party,JCP,0
+JPN,Japan,JRP,1994,2015,1049,10.1,1993,1993,Japan Renewal Party,JRP,0
+JPN,Japan,Komeito,1977,1994,1050,10.9,1976,,,Komeito,0
+JPN,Japan,Liberal Party,2001,2003,1052,9.9,2000,,Liberal Party,LP,0
+JPN,Japan,New Komeito,2001,2015,1054,13.1,2000,,New Komeito,NK,0
+JPN,Japan,NFP,1995,2000,1055,28,1996,1994,New Frontier Party,NFP,0
+JPN,Japan,Socialist,1975,1991,1061,24.4,1990,,,Socialist,0
+JOR,Jordan,Constitutional Bloc,1992,1993,1064,24.3,1992,,Constitutional Bloc,CB,0
+JOR,Jordan,IAF,1994,2009,1066,23.2,1993,1992,Islamic Action Front,IAF,0
+JOR,Jordan,INAF,1996,1997,1067,35.4,1996,,,INAF,0
+JOR,Jordan,independent Islamists,1990,2003,1068,15,1989,,independent Islamists,I,0
+JOR,Jordan,Independent Nationalists and Leftists,1998,2003,1069,12.5,1997,,Independent Nationalists and Leftists,INL,0
+JOR,Jordan,Independents,2011,2015,1070,85.8,2010,,,Independents,0
+JOR,Jordan,JNA,1994,1995,1071,5.8,1993,,,JNA,0
+JOR,Jordan,leftists and tiolists,1990,1991,1072,13.8,1989,,leftists and tiolists,"",0
+JOR,Jordan,Muslim Brotherhood,1990,1993,1073,25,1989,,Muslim Brotherhood,MB,0
+JOR,Jordan,Opposition,2011,2013,1076,14.2,2010,,,Opposition,0
+JOR,Jordan,Political parties,2014,2015,1078,18,2013,,Political parties,P,0
+JOR,Jordan,Taher al-Masri,1996,1997,1080,31.2,1996,,Taher al-Masri,T-M,0
+KAZ,Kazakhstan,AIWU,2005,2007,1081,7.1,2004,2004,Agrarian Industrial Workers Union,AIWU,0
+KAZ,Kazakhstan,Ak Zhol,2005,2007,1082,12,2004,,Ak Zhol,AZ,0
+KAZ,Kazakhstan,Asar,2005,2007,1085,11.4,2004,,,Asar,0
+KAZ,Kazakhstan,Civic,2000,2004,1086,16.9,1999,,,Civic,0
+KAZ,Kazakhstan,Confederation of Kazakh Trade Unions,1995,1995,1087,6.2,1994,,Confederation of Kazakh Trade Unions,CKTU,0
+KAZ,Kazakhstan,People's Congress Party,1995,1995,1092,5.1,1994,,People's Congress Party,P'CP,0
+KAZ,Kazakhstan,PUP,1995,1999,1093,18.8,1994,,,PUP,0
+KEN,Kenya,DP,1998,2002,1095,18.6,1997,1991,Democratic Party Kenya,DP,0
+KEN,Kenya,DPC,1993,1997,1096,12.2,1992,,,DPC,0
+KEN,Kenya,FORD-A,1993,1997,1097,16.5,1992,,,FORD-A,0
+KEN,Kenya,FORD-K,1993,2015,1099,16.5,1992,,,FORD-K,0
+KEN,Kenya,Ford-People,2003,2007,1100,6.7,2002,2002,Forum for the Restoration of Democracy_People,Ford-People,0
+KEN,Kenya,KANU,2003,2007,1103,30.5,2002,,,KANU,0
+KEN,Kenya,NDP,1998,2002,1105,10,1997,1991,National Development Party Kenya,NDP,0
+KEN,Kenya,ODM,2008,2015,1106,47.8,2007,2007,Orange Democratic Movement - Kenya,ODM,0
+KEN,Kenya,ODM-K,2008,2013,1107,7.7,2007,,,ODM-K,0
+KEN,Kenya,URP,2014,2015,1111,21.4,2013,2012,United Republican Party,URP,0
+KEN,Kenya,WDM-K,2014,2015,1112,6.6,2013,2006,Wiper Democractic Movement- Kenya,WDM-K,0
+KGZ,Kyrgyzstan,Ak Zhol,2008,2010,1125,46.9,2007,,Ak Zhol,AZ,0
+KGZ,Kyrgyzstan,Ar-Namys,2011,2015,1126,13.7,2011,,,Ar-Namys,0
+KGZ,Kyrgyzstan,CPK,2008,2010,1127,5.1,2007,1999,Communist Party of Kyrgyzstan,CPK,0
+KGZ,Kyrgyzstan,Fatherland,2011,2015,1128,15.3,2011,2004,Fatherland,Fatherland,0
+KGZ,Kyrgyzstan,MCPA,2001,2005,1130,12.9,2000,,My Country Party of Action,MCPA,0
+KGZ,Kyrgyzstan,PCK,2001,2005,1132,27.7,2000,1992,Party of Communists of Kyrgyzstan,PCK,0
+KGZ,Kyrgyzstan,Republic,2011,2015,1134,12.5,2011,2010,Republic,Republic,0
+KGZ,Kyrgyzstan,Socialist Party Fatherland,2011,2015,1135,9.9,2011,1993,Socialist Party Fatherland,SPF,0
+LVA,Latvia,Communist,1992,1993,1140,29.7,1993,,,Communist,0
+LVA,Latvia,DPS,1996,1997,1141,15.3,1995,1995,"Democratic Party ""Saimnieks""",DPS,0
+LVA,Latvia,Equality,1994,1995,1142,5.8,1993,1990,Equal Rights,Equality,0
+LVA,Latvia,LNNK,1994,2006,1146,13.4,1993,,For Fatherland and Freedom,LNNK,0
+LVA,Latvia,LPP,2005,2006,1147,9.5,2005,2002,Latvia's First Party (LPP),LPP,0
+LVA,Latvia,LRA,2015,2015,1149,6.7,2014,2014,Latvian Association of Regions,LRA,0
+LVA,Latvia,LSP,1996,2002,1150,12.8,1998,1994,Socialist Party of Latvia,LSP,0
+LVA,Latvia,LSP-NHP,2003,2006,1151,19,2002,1994,Socialist Party of Latvia,LSP-NHP,0
+LVA,Latvia,LZS,1994,1995,1153,10.6,1993,1917,Latvian Farmer's Union,LZS,0
+LVA,Latvia,NA-VL-TB/LNNK,2012,2015,1154,16.6,2014,,For Fatherland and Freedom,NA-VL-TB/LNNK,0
+LVA,Latvia,NHP,1996,1997,1155,5.6,1995,,,NHP,0
+LVA,Latvia,NSL,2015,2015,1156,6.8,2014,2014,For Latvia from the Heart,NSL,0
+LVA,Latvia,PCTVL,2007,2010,1157,6,2006,1998,Latvian Russian Union,PCTVL,0
+LVA,Latvia,PML,1996,1997,1158,15.1,1995,,,PML,0
+LVA,Latvia,SC,2007,2015,1159,29,2010,2005,Harmony Centre,SC,0
+LVA,Latvia,TSP,1994,2002,1162,14.1,1998,,,TSP,0
+LVA,Latvia,UFF,1996,1997,1163,11.6,1995,,,UFF,0
+LVA,Latvia,UNITY,2011,2015,1165,33,2010,,,UNITY,0
+LVA,Latvia,ZRP,2012,2014,1166,20.8,2011,2011,Zatlers' Reform Party,ZRP,0
+LBN,Lebanon,1,1975,1984,1168,17.9,1975,,,1,0
+LBN,Lebanon,BHC,2001,2005,1170,18,2000,,,BHC,0
+LBN,Lebanon,Christian,1991,2000,1171,26.8,1996,,,Christian,0
+LBN,Lebanon,Dignity,2001,2005,1172,36,2000,,,Dignity,0
+LBN,Lebanon,Druzes,1997,2000,1173,6.3,1996,,,Druzes,0
+LBN,Lebanon,Free Patriotic Movement,2006,2009,1174,16.4,2005,,Free Patriotic Movement,FPM,0
+LBN,Lebanon,Greek Catholic,1997,2000,1175,6.3,1996,,Greek Catholic,GC,0
+LBN,Lebanon,Greek Chr.,1975,1984,1176,5.7,1975,,Greek Chr.,GC,0
+LBN,Lebanon,Greek Orth.,1975,1984,1177,18.9,1975,,Greek Orth.,GO,0
+LBN,Lebanon,Greek Orthodox,1997,2000,1178,11,1996,,Greek Orthodox,GO,0
+LBN,Lebanon,March 14 Alliance,2010,2015,1180,55.5,2009,2005,The March 14 Alliance,M14A,0
+LBN,Lebanon,March 8 Alliance,2010,2015,1181,44.5,2009,2005,The March 8 Alliance,M8A,0
+LBN,Lebanon,Muslim,1991,1993,1183,50,1991,,,Muslim,0
+LBN,Lebanon,Rafik Hariri Martyr List,2006,2009,1184,56.2,2005,,Rafik Hariri Martyr List,RHML,0
+LBN,Lebanon,Resistance and Development,2001,2009,1185,46,2000,,Resistance and Development,RD,0
+LBN,Lebanon,Shi'a Muslims,1997,2000,1186,21.3,1996,,Shi'a Muslims,S'M,0
+LBN,Lebanon,Shi'i Muslim,1985,1988,1187,19.2,1985,,Shi'i Muslim,S'M,0
+LBN,Lebanon,Sunni Muslim,1975,2000,1188,21.3,1996,,Sunni Muslim,SM,0
+LSO,Lesotho,chiefs,1975,1984,1193,23.7,1975,,,chiefs,0
+LSO,Lesotho,DC,2013,2015,1194,40,2012,2011,Democratic Congress,DC,0
+LSO,Lesotho,LPC,2003,2007,1196,5.8,2002,2001,Lesotho People's Congress,LPC,0
+LSO,Lesotho,LWP,2008,2012,1197,8.4,2007,2001,Lesotho Worker's Party,LWP,0
+LSO,Lesotho,NIP,2003,2012,1198,17.6,2007,1993,National Independent Party,NIP,0
+LBR,Liberia,CDC,2006,2015,1200,23.4,2005,2005,Congress for Democratic Change,CDC,0
+LBR,Liberia,COTOL,2006,2011,1201,12.5,2005,2005,Coalition for the Transformation of Liberia,COTOL,0
+LBR,Liberia,LAP,1986,1990,1203,12.5,1985,1985,Liberian Action Party,LAP,0
+LBR,Liberia,LP,2006,2015,1204,14.1,2005,2005,Liberty Party,LP,0
+LBR,Liberia,NUDP,2012,2015,1208,8.2,2011,2010,National Union for Democratic Progress,NUDP,0
+LBY,Libya,Individual candidates,2015,2015,1213,100,2014,,Individual candidates,I,0
+LTU,Lithuania,BSDC,2001,2003,1214,31.1,2000,,,BSDC,0
+LTU,Lithuania,CDPL,1997,1997,1215,12.2,1996,,,CDPL,0
+LTU,Lithuania,Centre Union,1997,1997,1216,9.9,1996,1993,Centre Union of Lithuania,CU,0
+LTU,Lithuania,CPL,2001,2003,1217,8.6,2000,1918,Communist Party of Lithuania,CPL,0
+LTU,Lithuania,DK,2013,2015,1218,5,2012,2012,The Way of Courage,DK,0
+LTU,Lithuania,DP,2005,2015,1219,28.4,2004,2003,Labor Party,DP,0
+LTU,Lithuania,LCS,1998,2008,1220,9.2,2004,2003,Liberal and Centre Union,LCS,0
+LTU,Lithuania,LKDP/List,1993,2000,1226,12.8,1992,2001,Lithuanian Christian Democrats,LKDP/List,0
+LTU,Lithuania,LLU,2001,2003,1229,17.2,2000,,,LLU,0
+LTU,Lithuania,LRLS,2009,2015,1230,7.8,2008,2006,Liberal Movement,LRLS,0
+LTU,Lithuania,LSDP,1993,2015,1231,27,2012,1986,Social Democratic Party of Lithuania,LSDP,0
+LTU,Lithuania,NU-SL,2001,2003,1232,19.6,2000,1998,New Union (Social Liberals),NU-SL,0
+LTU,Lithuania,TPP,2009,2012,1233,11.3,2008,1916,Party of National Progress,TPP,0
+LTU,Lithuania,TS,1994,2008,1234,53.4,1996,,,TS,0
+LTU,Lithuania,UTT,2005,2015,1235,11.4,2004,2004,For Order and Justice,UTT,0
+LTU,Lithuania,VL,2009,2015,1236,31.9,2008,,Vardan  Lietuvos,VL,0
+LTU,Lithuania,VNDS,2005,2008,1237,6.6,2004,,,VNDS,0
+LTU,Lithuania,Working for Lithuania Coalition,2005,2008,1238,20.6,2004,,Working for Lithuania Coalition,WLC,0
+LUX,Luxembourg,ADR,2010,2015,1239,8.1,2009,1987,Alternative Democratic Reform Party,ADR,0
+LUX,Luxembourg,ADR/CADJ,2005,2009,1240,9.9,2004,,,ADR/CADJ,0
+LUX,Luxembourg,CADJ,1990,2004,1241,14,1994,1992,Action Committee for Democracy and Pensions Justice,CADJ,0
+LUX,Luxembourg,Communist,1975,1984,1242,5.8,1979,1921,Communist Party of Luxembourg,Communist,0
+LUX,Luxembourg,Ecologist,1985,1989,1244,5.1,1984,1983,The Greens,Ecologist,0
+LUX,Luxembourg,Green,1990,2015,1245,11.7,2009,1983,The Greens,Green,0
+LUX,Luxembourg,POSL,1975,2015,1248,33.6,1984,1902,Luxembourg Socialist Workers' Party,POSL,0
+LUX,Luxembourg,Social Democrat,1975,1984,1249,6,1979,,Social Democrat,SD,0
+MKD,Macedonia,DPA,2003,2015,1253,8.5,2008,1997,Democratic Party of Albanians,DPA,0
+MKD,Macedonia,DUI,2003,2015,1257,13.7,2014,2001,Democratic Union for Integration,DUI,0
+MKD,Macedonia,KzPM,2009,2011,1259,48.8,2008,2008,Coalition for a Better Macedonia,KzPM,0
+MKD,Macedonia,LDP,1999,2006,1260,7,1998,1997,Liberal Democratic Party,LDP,0
+MKD,Macedonia,PDP-DPA,1999,2002,1264,19.3,1998,,,PDP-DPA,0
+MKD,Macedonia,PDPSM,1995,1998,1265,8.6,1994,,,PDPSM,0
+MKD,Macedonia,RSM-LP,1992,1998,1267,25,1994,1990,Liberal Party of Macedonia,RSM-LP,0
+MKD,Macedonia,SDAM,2012,2014,1268,32.8,2011,,Social Democratic Alliance of Macedonia,SDAM,0
+MKD,Macedonia,Sonce,2009,2011,1270,23.6,2008,2011,Social Democratic Union of Macedonia,Sonce,0
+MKD,Macedonia,VMRO-DPMNE-LPM,2003,2006,1274,24.4,2002,,,VMRO-DPMNE-LPM,0
+MKD,Macedonia,VMRO-NP,2007,2008,1275,6.1,2006,,,VMRO-NP,0
+MDG,Madagascar,AKFM,1984,2001,1277,8.8,1983,1958,Party of the Independence Congress of Madagascar,AKFM,0
+MDG,Madagascar,AUM,1994,1996,1279,8.1,1993,,,AUM,0
+MDG,Madagascar,Cartel HVR,1994,1996,1281,34.6,1993,,Cartel HVR,CHVR,0
+MDG,Madagascar,CSCD,1994,1996,1285,5.9,1993,,Confederation of Civil Societies for Development,CSCD,0
+MDG,Madagascar,Famima,1997,1998,1286,8,1997,,,Famima,0
+MDG,Madagascar,Fihaonana,1997,1998,1287,5.8,1997,,,Fihaonana,0
+MDG,Madagascar,FNDR,1978,1983,1288,100,1977,1975,National Front for the Defense of the Malagasy Socialist Revolution,FNDR,0
+MDG,Madagascar,FP,2003,2007,1289,8.8,2002,,Patriotic Front,FP,0
+MDG,Madagascar,HVR,1997,1998,1290,33.3,1997,,,HVR,0
+MDG,Madagascar,Leader-Fanilo,1997,2013,1291,10.7,1998,1993,Leader_Fanilo,Leader-Fanilo,0
+MDG,Madagascar,MAPAR,2014,2015,1292,32.5,2013,2013,With President Andry Rajoelina,MAPAR,0
+MDG,Madagascar,MPP,1994,1996,1294,11,1993,,,MPP,0
+MDG,Madagascar,PMDM/MFM,1990,1993,1295,11,1989,,,PMDM/MFM,0
+MDG,Madagascar,RPSD,1999,2007,1296,7.3,1998,1990,Rally for Socialism and Democracy,RPSD,0
+MDG,Madagascar,Torch,1994,1996,1298,9.6,1993,,,Torch,0
+MDG,Madagascar,VONJY,1984,1993,1299,10.6,1983,,�lan populaire pour l'Unit_ Nationale,VONJY,0
+MDG,Madagascar,VPM-MMM,2014,2015,1300,8.6,2013,2013,Vondrona Politika Miara-Dia�Malagy Miara-Miainga,VPM-MMM,0
+MWI,Malawi,Aford,1995,2015,1302,18.9,1994,1993,Alliance for Democracy,Aford,0
+MWI,Malawi,RP,2005,2009,1308,8.2,2004,2004,Republican Party,RP,0
+MYS,Malaysia,Bezaya,1991,1995,1310,8.3,1990,,,Bezaya,0
+MYS,Malaysia,BN,2005,2015,1311,63.9,2004,1973,Barisan Nasional,BN,0
+MYS,Malaysia,DAP,1975,2013,1312,21.1,1986,1965,Democratic Action Party,DAP,0
+MYS,Malaysia,MCA,1987,2004,1314,14.5,1999,1949,Malaysian Chinese Association,MCA,0
+MYS,Malaysia,National Front,1975,1986,1316,85.7,1982,,National Front,NF,0
+MYS,Malaysia,PAS,2009,2013,1318,14.3,2008,1951,PAS-Malaysian Islamic Party,PAS,0
+MYS,Malaysia,PBB,2000,2004,1319,5.2,1999,1973,United Bumiputera Heritage Party,PBB,0
+MYS,Malaysia,PKR,2009,2013,1322,19.1,2008,1999,People's Justice Party,PKR,0
+MYS,Malaysia,PMIP,1979,2008,1323,24.1,2004,1951,PAN-Malaysian Islamic Party,PMIP,0
+MYS,Malaysia,PR,2014,2015,1324,50.9,2013,2008,People's Alliance,PR,0
+MYS,Malaysia,Sarawak Parties,1996,1999,1325,12.4,1995,,Sarawak Parties,SP,0
+MYS,Malaysia,UMNO-Baru,1989,2004,1329,42.1,1995,1987,New United Malays National Organisation,UMNO-Baru,0
+MDV,Maldives,DRP,2010,2014,1332,24.6,2009,2005,Maldivian People�s Party,DRP,0
+MDV,Maldives,JP,2010,2015,1333,17.6,2014,2008,Republican Party,JP,0
+MDV,Maldives,MDA,2015,2015,1334,5.9,2014,2012,Maldives Development Alliance,MDA,0
+MDV,Maldives,PA,2010,2014,1336,5,2009,2008,People's Alliance,PA,0
+MLI,Mali,ADEMA,2003,2007,1339,38.4,2002,,,ADEMA,0
+MLI,Mali,Adema/PASJ,2014,2015,1340,10.9,2013,1990,"Alliance for Democracy in Mali _ Pan-African Party for Liberty, Solidarity and Justice",Adema/PASJ,0
+MLI,Mali,CNID,1993,2007,1342,9.4,2002,1990,National Congress for Democratic Initiative,CNID,0
+MLI,Mali,MDOWA,1993,1997,1345,5.2,1992,,,MDOWA,0
+MLI,Mali,MPR,2008,2008,1346,5.4,2007,1995,Patriotic Movement for Renewal,MPR,0
+MLI,Mali,MRP,2009,2013,1347,5.4,2009,,,MRP,0
+MLI,Mali,PARENA,1998,2002,1349,5.4,1997,1995,Party for National Rebirth,PARENA,0
+MLI,Mali,URD,2008,2015,1355,23.1,2007,2003,Union for the Republic and Democracy,URD,0
+MLI,Mali,US/RDA,1993,1997,1356,6.9,1992,1945,Sudanese Union _ African Democratic Rally,US/RDA,0
+MRT,Mauritania,PEDS,2014,2015,1362,6.8,2013,2011,Party of the Democratic and Social Agreement,PEDS,0
+MRT,Mauritania,PRDR,2007,2013,1366,7.4,2006,1992,Republican Party for Democracy and Renewal,PRDR,0
+MRT,Mauritania,RFD,2007,2013,1371,15.8,2006,2002,Assembly of Democratic Forces,RFD,0
+MRT,Mauritania,RNRD,2014,2015,1372,10.9,2013,2007,National Rally for Reform and Development,RNRD,0
+MRT,Mauritania,UFP,2007,2013,1374,8.4,2006,1991,Union of the Forces of Progress,UFP,0
+MUS,Mauritius,Avenir,2011,2014,1376,64.3,2010,1983,Alliance of Future,Avenir,0
+MUS,Mauritius,Coeur,2011,2014,1378,28.6,2010,,,Coeur,0
+MUS,Mauritius,Labour,1975,1995,1380,38.6,1976,,,Labour,0
+MUS,Mauritius,MLP-MMM,2015,2015,1383,23.2,2014,,,MLP-MMM,0
+MUS,Mauritius,MLP-PMSD,2001,2005,1384,36.6,2000,,,MLP-PMSD,0
+MUS,Mauritius,MSM-MMM,2001,2010,1388,51.7,2000,,,MSM-MMM,0
+MUS,Mauritius,MSM-PMSD,2015,2015,1389,73.9,2014,,,MSM-PMSD,0
+MUS,Mauritius,MSM/Labour,1984,1987,1390,60,1987,,,MSM/Labour,0
+MUS,Mauritius,OPR,1984,2010,1392,5.7,2005,1982,Rodrigues People's Organisation,OPR,0
+MUS,Mauritius,PMSD,1975,1995,1393,11.4,1976,1955,Parti Mauricien Social D_mocrate,PMSD,0
+MUS,Mauritius,Social Alliance,2006,2010,1395,48.8,2005,,Alliance Sociale,SA,0
+MEX,Mexico,Communist,1980,1982,1396,5.3,1979,1911,Mexican Communist Party,Communist,0
+MEX,Mexico,FDN,1989,1994,1397,27.8,1988,1988,National Democratic Front,FDN,0
+MEX,Mexico,PRD,1995,2015,1402,25.8,1997,1989,Party of the Democratic Revolution,PRD,0
+MEX,Mexico,PVEM,1998,2015,1405,5.8,2012,1993,Ecological Green Party of Mexico,PVEM,0
+MDA,Moldova,BMD,2006,2009,1407,28.5,2005,2004,Democratic Moldova Electoral Bloc,BMD,0
+MDA,Moldova,Braghis Alliance,2002,2005,1408,13.4,2001,2001,Braghi_ Alliance,BA,0
+MDA,Moldova,FPCD,1995,1998,1409,7.5,1994,1992,Christian Democratic Popular Front,FPCD,0
+MDA,Moldova,MMDP,1999,2001,1410,19.2,1998,,Movement for a Democratic and Prosperous Moldova,MMDP,0
+MDA,Moldova,PCM,1999,2001,1412,30.1,1998,1940,Communist Party of Moldova,PCM,0
+MDA,Moldova,Peasants and Intellectuals bloc,1995,1998,1416,9.2,1994,1994,Bloc of Peasants and Intellectuals,PI,0
+MDA,Moldova,PFD,1999,2001,1417,8.8,1998,1993,Party of Democratic Forces,PFD,0
+MDA,Moldova,PLDM,2010,2015,1419,29.4,2010,2007,Liberal Democratic Party of Moldova,PLDM,0
+MDA,Moldova,PPCD,2002,2009,1420,9.1,2005,1989,Christian-Democratic People's Party,PPCD,0
+MDA,Moldova,PS,1995,1998,1421,22,1994,2005,Social Liberal Party,PS,0
+MDA,Moldova,PSRM,2015,2015,1422,20.5,2014,2013,Party of Socialists of the Republic of Moldova,PSRM,0
+MNG,Mongolia,Justice Coalition,2013,2015,1429,14.5,2012,2012,Justice Coalition,JC,0
+MNG,Mongolia,MDNSP,2001,2008,1430,9.2,2004,1998,Mongolian Democratic New Socialist Party,MDNSP,0
+MNG,Mongolia,MNDP,1997,2004,1432,45,1996,2005,Mongolian National Democratic Party,MNDP,0
+MNG,Mongolia,MPP,2013,2015,1433,31.6,2012,1920,Mongolian People's Party,MPP,0
+MNG,Mongolia,MSDP,1993,2000,1436,17.1,1996,1990,Mongolian Social Democratic Party,MSDP,0
+MNG,Mongolia,MUP,1993,1996,1437,5.3,1992,,Mongolian United Party,MUP,0
+MAR,Morocco,Istiqlal,1978,2015,1441,21.6,1977,1943,Parti de l�Istiqlal,Istiqlal,0
+MAR,Morocco,MDS,1998,2002,1442,9.5,1997,,,MDS,0
+MAR,Morocco,MNP,2003,2007,1443,5.5,2002,,,MNP,0
+MAR,Morocco,MP,1978,2015,1444,15.7,1993,1958,Mouvement Populaire,MP,0
+MAR,Morocco,PAM,2012,2015,1446,11.9,2011,2008,Parti Authenticit_ et Modernit_,PAM,0
+MAR,Morocco,PJD,2003,2015,1448,27.1,2011,1977,Parti de la Justice et du D_veloppement,PJD,0
+MAR,Morocco,PND,1996,1997,1449,8.8,1996,,,PND,0
+MAR,Morocco,RNI,1985,2015,1451,17.2,1984,1978,Rassemblement National des Ind_pendants,RNI,0
+MAR,Morocco,UC,1985,2011,1452,24.8,1984,1983,Union Constitutionelle,UC,0
+MAR,Morocco,USFP,1978,2015,1454,16,1993,1974,Union Socialiste des Forces Populaire,USFP,0
+MOZ,Mozambique,MDM,2015,2015,1456,8.5,2014,,,MDM,0
+MOZ,Mozambique,Renamo,1995,2015,1457,38.8,1999,1970,Resist�ncia Nacional Mo�ambicana,Renamo,0
+MOZ,Mozambique,Udemo,1995,1999,1458,5.2,1994,1992,Untao Democratlca de Mocambique,Udemo,0
+NAM,Namibia,COD,2000,2009,1465,9.9,1999,1984,Congress of Democrats,COD,0
+NAM,Namibia,DTA,1991,2015,1467,20.8,1994,1978,Democratic Turnhalle Alliance,DTA,0
+NAM,Namibia,RDP,2010,2015,1469,11.3,2009,2007,Rally for Democracy and Progress,RDP,0
+NPL,Nepal,CPN (UML),2009,2015,1473,29.1,2013,,CPN (UML),CPN(UML),0
+NPL,Nepal,MJF,2009,2013,1475,8.7,2008,1997,Madheshi Janadhikar�Forum,MJF,0
+NPL,Nepal,NDP,1996,2002,1478,10.4,1999,,,NDP,0
+NPL,Nepal,RPP,1995,2015,1483,17.9,1994,,National Democratic Party,RPP,0
+NLD,Netherlands,Anti-Rev,1975,1977,1488,8.8,1975,,,Anti-Rev,0
+NLD,Netherlands,Catholic,1975,1977,1489,17.7,1975,1945,Katholieke Volkspartij,Catholic,0
+NLD,Netherlands,D66,1978,2015,1495,15.5,1994,1966,Democraten 66,D66,0
+NLD,Netherlands,Green,1990,2003,1496,7.3,1998,1989,GreonLinks,Green,0
+NLD,Netherlands,Green Left,2011,2012,1497,6.7,2010,,Green Left,GL,0
+NLD,Netherlands,LPF,2003,2006,1498,17,2002,2002,Lijst Pim Fortuyn,LPF,0
+NLD,Netherlands,PVV,2007,2015,1501,15.4,2010,2004,Party voor de Vrijheid,PVV,0
+NLD,Netherlands,SP,1999,2015,1503,16.6,2006,1989,Socialistische Partij,SP,0
+NZL,New Zealand,ACT,1997,2015,1505,7.1,2002,1994,Association of Consumers and Taxpayers,ACT,0
+NZL,New Zealand,Alliance,1994,2002,1506,18.2,1993,1993,Alliance,Alliance,0
+NZL,New Zealand,Green,2000,2015,1507,11.1,2011,1972,Green Party of Aotearoa,Green,0
+NZL,New Zealand,NLP,1991,1993,1511,5.2,1990,,,NLP,0
+NZL,New Zealand,NZ First,1994,2015,1512,13.4,1996,1993,NZ First Party,NZF,0
+NZL,New Zealand,NZDP,1985,1990,1513,7.6,1984,1971,Democratic Party,NZDP,0
+NZL,New Zealand,Social Credit,1979,1984,1517,20.6,1981,1953,Democratic Party for Social Credit,SC,0
+NIC,Nicaragua,ALN,2007,2011,1519,26.1,2006,,,ALN,0
+NIC,Nicaragua,APO,1994,1996,1520,22.6,1995,,,APO,0
+NIC,Nicaragua,Central Sand,1981,1984,1522,6.5,1981,,Central Sand,CS,0
+NIC,Nicaragua,Conservative,1975,1979,1523,24.7,1975,1830,Partido Conservador,Conservative,0
+NIC,Nicaragua,MRS,2007,2011,1527,8.3,2006,1995,Movimiento Renovador Sandinista,MRS,0
+NIC,Nicaragua,PCD,1985,1990,1529,13.9,1984,1979,Partido Conservador Democrata,PCD,0
+NIC,Nicaragua,PLI,1985,2015,1532,31.5,2011,1944,Partido Liberal Independiente,PLI,0
+NIC,Nicaragua,PPSC,1985,1990,1533,5.7,1984,1970,Partido Popular Social Cristiano,PPSC,0
+NIC,Nicaragua,Sandinista,1981,1984,1535,19.6,1981,1961,Frente Sandinista de Liberacion Nacional,Sandinista,0
+NER,Niger,AFC,1997,1999,1538,49.5,1996,1993,Alliance Forces of Change,AFC,0
+NER,Niger,ANDP,2012,2015,1539,7.3,2011,,,ANDP,0
+NER,Niger,ANDP-Z,1994,2004,1540,13.3,1993,1992,Alliance Nigerienne pour la Democratie et le Progres Zaman Lahiya,ANDP-Z,0
+NER,Niger,MNSD-N,1994,2015,1543,36.1,1993,1991,Mouvement National pour une Societe de Developpement Nassara,MNSD-N,0
+NER,Niger,MNSD-Nassara,2010,2011,1544,67.9,2009,,,MNSD-Nassara,0
+NER,Niger,MODEN,2012,2015,1545,19.8,2011,2010,Mouvevement Democratique Nigerien pour une Federation Africaine,MODEN,0
+NER,Niger,RDP,2000,2015,1548,9.6,1999,1997,Rassemblement Democratique du Peuple,RDP,0
+NER,Niger,RSD,2005,2011,1550,13.4,2009,2004,Rassemblement pour Sociale Democrate Gaskiya,RSD,0
+NER,Niger,UNIRD,1997,1999,1552,48.6,1996,1996,National Union of Democratic Renewal,UNIRD,0
+NGA,Nigeria,AC,2008,2015,1553,18.4,2011,2005,Advanced Congress,AC,0
+NGA,Nigeria,AD,2000,2011,1554,12.4,1999,1995,Alliance for Democracy,AD,0
+NGA,Nigeria,ANPP,2004,2015,1555,27.4,2003,1998,All Nigeria People's Party,ANPP,0
+NGA,Nigeria,APP,2000,2003,1556,31.2,1999,,,APP,0
+NGA,Nigeria,CPC,2012,2015,1557,8.6,2011,2009,Congress for Progressive Change,CPC,0
+NGA,Nigeria,GNPP,1980,1983,1558,10.5,1979,1979,Great Nigeria People's Party,GNPP,0
+NGA,Nigeria,NPP,1980,1983,1560,17.4,1979,,,NPP,0
+NGA,Nigeria,PRP,1980,1983,1563,10.8,1979,,,PRP,0
+NGA,Nigeria,UPN,1980,1983,1565,24.4,1979,1978,Unity Party of Nigeria,UPN,0
+NOR,Norway,Frp,1983,2015,1567,22.9,2009,,,Frp,0
+NOR,Norway,Sp,2014,2015,1570,5.9,2014,,,Sp,0
+NOR,Norway,SP,1975,2013,1571,16.8,1993,1920,Senterparteit,SP,0
+NOR,Norway,SV,1975,2013,1572,12.4,2001,1973,Sosialistisk Venstreparti,SV,0
+PNG,P. N. Guinea,Diro independent,1983,1985,1577,6.9,1982,,Diro independent,D,0
+PNG,P. N. Guinea,Melanesian Alliance,1981,1992,1580,5.6,1989,,Melanesian Alliance,MA,0
+PNG,P. N. Guinea,NP,1983,1994,1584,10,1982,1999,Papua New Guinea National Party,NP,0
+PNG,P. N. Guinea,PAP,1993,2012,1587,12,1992,1986,People's Action Party,PAP,0
+PNG,P. N. Guinea,PNGP,2008,2015,1592,7.4,2007,2003,Papua New Guinea Party,PNGP,0
+PNG,P. N. Guinea,PP,2003,2007,1593,5.5,2002,2006,People's Party,PP,0
+PNG,P. N. Guinea,THE,2013,2015,1595,11.1,2012,2012,Triumph Heritage Empowerment Party,THE,0
+PNG,P. N. Guinea,UP,1979,1985,1596,7.2,1982,1969,United Party,UP,0
+PAK,Pakistan,MQM,1989,2015,1607,6.7,2013,1981,Muttahida Qaumi Movement,MQM,0
+PAK,Pakistan,PDA,1991,1993,1609,36.8,1990,1990,People's Democratic Alliance,PDA,0
+PAK,Pakistan,PML-Q,2003,2013,1613,25.7,2002,2004,PML - Qaid-e-Azam,PML-Q,0
+PAK,Pakistan,PPPP,2003,2015,1615,25.8,2002,2002,Pakistan Peoples Party Parliamentarians,PPPP,0
+PAK,Pakistan,PTI,2014,2015,1616,10.2,2013,1996,Pakistan Tehreek-e-Insaf,PTI,0
+PAN,Panama,Molirena,1985,2009,1620,33.3,1989,1981,Nationalist Republican Liberal Movement,Molirena,0
+PAN,Panama,Pala,1985,1999,1622,10.4,1984,,Labour Party,Pala,0
+PAN,Panama,Papa Egoro,1995,1999,1623,8.1,1994,,Papa Egoro,PE,0
+PAN,Panama,PDC,1985,2004,1625,33.3,1989,1980,Christian Democratic Party,PDC,0
+PAN,Panama,PLA,1990,1991,1626,20,1989,1987,Authentic Liberal Party,PLA,0
+PAN,Panama,PLN,1992,2009,1627,5.2,2004,1912,National Liberal Party,PLN,0
+PAN,Panama,PPA,1985,1989,1629,19.4,1984,1968,Authentic Panamanian Party,PPA,0
+PAN,Panama,PS,2000,2004,1632,5.6,1999,2004,Solidarity Party,PS,0
+PRY,Paraguay,EN,1994,2003,1636,11,1998,,,EN,0
+PRY,Paraguay,Liberal Party,1975,1989,1637,13.3,1978,1887,Liberal Party of Paraguay,LP,0
+PRY,Paraguay,Liberal Radical,1975,1989,1638,21.7,1983,,Liberal Radical,LR,0
+PRY,Paraguay,PLRA,1990,2015,1641,40.4,1993,1978,Authentic Radical Liberal Party,PLRA,0
+PRY,Paraguay,PQ,2004,2008,1643,15.3,2003,,,PQ,0
+PRY,Paraguay,UNACE,2009,2015,1645,18.8,2008,2002,National Union of Ethnic Citizens,UNACE,0
+PRY,Paraguay,UNCE,2004,2008,1646,14.7,2003,,,UNCE,0
+PER,Peru,AF,2007,2011,1647,13.1,2006,2005,Alliance for the Future,AF,0
+PER,Peru,Alianza Por El Gran Cambio,2012,2015,1648,14.4,2011,2010,Alliance for Great Change,APEGC,0
+PER,Peru,Conde,1986,1990,1653,11.1,1985,1985,Conde,Conde,0
+PER,Peru,Democratic Front,1991,1992,1654,34.4,1990,,Democratic Front,DF,0
+PER,Peru,FIM,1993,2006,1655,11,2001,2001,Independent Moralizing Front,FIM,0
+PER,Peru,FOCEP,1979,1979,1657,12,1978,1977,Worker Peasant Student and Popular Front,FOCEP,0
+PER,Peru,Fuerza 2011,2012,2015,1658,22.9,2011,2010,Popular Force,F2011,0
+PER,Peru,Peru 2000,2001,2001,1662,41.8,2000,1999,Peru 2000 Alliance,P2000,0
+PER,Peru,Peru Posible,2012,2015,1663,14.8,2011,,Peru Posible,PP,0
+PER,Peru,PPC,1979,2000,1665,25,1978,1966,Christian People's Party,PPC,0
+PER,Peru,PSR,1979,1979,1666,6,1978,1976,Socialist Revolutionary Party,PSR,0
+PER,Peru,UN,2002,2011,1667,15.3,2006,2000,National Unity (Peru),UN,0
+PER,Peru,United Left,1986,1992,1668,24.4,1985,1980,Izquierda Unida,UL,0
+PER,Peru,UPP,1996,2011,1669,21.1,2006,1994,Union for Peru,UPP,0
+PHL,Philippines,Kampi,2008,2010,1671,17.1,2007,1997,Kabalikat ng Malayang Pilipino,Kampi,0
+PHL,Philippines,LDP,1990,2007,1677,33.7,1992,1988,Democratic Filipino Struggle,LDP,0
+PHL,Philippines,LDP/Allies,1988,1989,1678,81,1987,,,LDP/Allies,0
+PHL,Philippines,NP,2008,2015,1681,9.5,2010,1907,Nacionalista Party,NP,0
+PHL,Philippines,NPC,1993,2015,1682,30.4,2001,1992,Nationalist People's Coalition,NPC,0
+PHL,Philippines,NUP,2014,2015,1683,8.2,2013,2011,National Unity Party,NUP,0
+PHL,Philippines,PBP,1979,1987,1684,6.9,1978,,,PBP,0
+PHL,Philippines,Sectoral Orgs.,1979,1987,1689,7.4,1978,,Sectoral Orgs.,SO,0
+POL,Poland,AWS,1998,2001,1691,33.8,1997,,Solidarity Electoral Action,AWS,0
+POL,Poland,Dem. Left Alliance,1992,1993,1692,12,1991,,Dem. Left Alliance,DLA,0
+POL,Poland,KPN,1992,1997,1694,7.5,1991,,,KPN,0
+POL,Poland,LiD,2008,2011,1695,13.1,2007,2006,Left and Democrats,LiD,0
+POL,Poland,LPR,2006,2007,1696,8,2005,2001,League of Polish Families,LPR,0
+POL,Poland,National Unity,1975,1982,1698,99.5,1980,,National Unity,NU,0
+POL,Poland,PC,1992,1993,1699,8.7,1991,1991,Center Alliance,PC,0
+POL,Poland,PRON,1983,1989,1702,100,1985,,Patriotic Movement for National Rebirth,PRON,0
+POL,Poland,PSL,1992,2015,1703,15.4,1993,1990,Polish People's Party,PSL,0
+POL,Poland,PZPR,1990,1991,1704,37.6,1989,1948,Polish United Worker's Party,PZPR,0
+POL,Poland,ROP,1998,2001,1705,5.6,1997,1995,Movement for Reconstruction of Poland,ROP,0
+POL,Poland,RP,2012,2015,1706,10,2011,,Palikot's Movement,RP,0
+POL,Poland,SDBRP,2002,2007,1707,11.4,2005,,,SDBRP,0
+POL,Poland,SLD-UP,2002,2005,1709,41,2001,,,SLD-UP,0
+POL,Poland,Solidarity,1990,1991,1710,35,1989,1988,Solidarity (underground political organization),Solidarity,0
+POL,Poland,UD,1992,1993,1711,12.3,1991,,Democratic Union,UD,0
+POL,Poland,UP,1994,1997,1712,7.3,1993,1991,Union of Labour,UP,0
+POL,Poland,UW,1994,2001,1713,13.4,1997,1994,Freedom Union,UW,0
+POL,Poland,ZCH-N,1992,1993,1714,8.7,1991,1989,Christian National Union,ZCH-N,0
+POL,Poland,ZSL,1990,1991,1715,16.5,1989,1949,United People's Party,ZSL,0
+PRT,Portugal,AD (PSD+CDS),1980,1983,1716,45.5,1979,,AD (PSD+CDS),AD(PSD+CDS),0
+PRT,Portugal,APU,1980,1987,1717,18.8,1979,1978,United People's Alliance,APU,0
+PRT,Portugal,BE,2003,2015,1718,10.1,2009,1999,Left Bloc,BE,0
+PRT,Portugal,CDS,1977,1985,1719,16.7,1976,,,CDS,0
+PRT,Portugal,CDS-PP,1992,2015,1720,12.2,2011,1974,People's Party,CDS-PP,0
+PRT,Portugal,CDU,1988,2009,1721,12.1,1987,1987,United Democratic Coalition,CDU,0
+PRT,Portugal,FRS,1981,1983,1722,26.6,1980,1980,Republican and Socialist Front,FRS,0
+PRT,Portugal,PCP,1977,1979,1723,15.3,1976,1921,Portugese Communist Party,PCP,0
+PRT,Portugal,PCP-PEV,2012,2015,1724,8.2,2011,,,PCP-PEV,0
+PRT,Portugal,PP,1996,2005,1725,9.1,1995,,,PP,0
+PRT,Portugal,PPD,1977,1979,1726,25.2,1976,,,PPD,0
+PRT,Portugal,PRD,1986,1991,1727,17.9,1985,1985,Democratic Renewal Party,PRD,0
+PRT,Portugal,UDP,1981,1985,1731,6.1,1983,1974,Popular Democratic Union,UDP,0
+PRK,PRK,DFRF,1975,2014,1734,100,1977,1946,Denocratic Front for the Reunification of the Fatherland,DFRF,0
+PRK,PRK,KSDP,2015,2015,1735,7.4,2015,1945,Korean Social Democratic Party,KSDP,0
+KOR,ROK,CRP,1982,1985,1738,6.7,1981,,,CRP,0
+KOR,ROK,DKP,1982,1986,1740,21.6,1981,,,DKP,0
+KOR,ROK,DP,1993,1996,1742,29.2,1992,,,DP,0
+KOR,ROK,DUP,1975,1988,1744,19.7,1987,,,DUP,0
+KOR,ROK,KNP,1982,1988,1748,13.3,1981,1949,Korea Nationalist Party,KNP,0
+KOR,ROK,LFP,2009,2012,1749,6,2008,2012,Liberty Forward Party,LFP,0
+KOR,ROK,NDP,1975,1980,1752,26.5,1975,,,NDP,0
+KOR,ROK,NDRP,1989,1992,1753,15.6,1988,,,NDRP,0
+KOR,ROK,NKDP,1986,1988,1755,29.3,1985,,,NKDP,0
+KOR,ROK,PDP,1989,1992,1758,19.3,1988,,,PDP,0
+KOR,ROK,PFRR,1979,1980,1759,33.3,1979,,,PFRR,0
+KOR,ROK,RDP,1989,1992,1761,23.8,1988,,,RDP,0
+KOR,ROK,UDP,2009,2015,1762,42.3,2012,2008,United Democratic Party,UDP,0
+KOR,ROK,ULD,1997,2004,1763,16.2,1996,1995,United Liberal Democrats,ULD,0
+KOR,ROK,UPP,1993,2015,1764,17.4,1992,2012,United Prgressive Party,UPP,0
+ROU,Romania,ADA,2005,2008,1766,31.5,2004,2003,Alianta Drepatate si Adevar,ADA,0
+ROU,Romania,DP,1997,2004,1769,13.1,1996,1993,Democratic Party,DP,0
+ROU,Romania,FSND,1993,1996,1772,27.7,1992,,,FSND,0
+ROU,Romania,GRP,2001,2004,1773,19.5,2000,,,GRP,0
+ROU,Romania,NLP,1997,2004,1774,6.9,2000,,,NLP,0
+ROU,Romania,PD-FSN,1993,1996,1776,10.2,1992,1993,Partidul Democrat-Frontul Salvaii Nationale,PD-FSN,0
+ROU,Romania,PD-L,2009,2012,1777,32.4,2008,2007,Partidul Democrat-Liberal,PD-L,0
+ROU,Romania,PLD,2013,2015,1778,15.6,2012,,,PLD,0
+ROU,Romania,PNL,1991,2015,1779,30.2,2012,1875,National Liberal Party,PNL,0
+ROU,Romania,PNTCD,1993,1996,1780,10.2,1992,1989,Partidul Na_ional __r_nesc Cre_tin Democrat,PNTCD,0
+ROU,Romania,PP-DD,2013,2015,1781,14.1,2012,2011,Partidul Poporului-Dan Diaconescu,PP-DD,0
+ROU,Romania,PRM,1993,2008,1782,13,2004,1992,Partidul Romania Mare,PRM,0
+ROU,Romania,PSD,2005,2015,1783,44.6,2012,2001,Aljanta Politica Partidul Social Democrat,PSD,0
+ROU,Romania,PSD-PC,2009,2012,1784,33.1,2008,2008,Alian_a PSD+PC,PSD-PC,0
+ROU,Romania,PUNR,1993,1996,1786,7.7,1992,1990,Partidul Unit__ii Na_ionale a Rom�nilor,PUNR,0
+ROU,Romania,PUR,2005,2005,1787,5.3,2004,1990,Partidul Umanist din Romania,PUR,0
+ROU,Romania,RMDSz,2009,2012,1789,6.2,2008,1990,Romaniai Magyar Demokrrata Szovetseg,RMDSz,0
+ROU,Romania,SDUF,1975,1990,1791,98.8,1975,,,SDUF,0
+ROU,Romania,UDMR,1991,2015,1792,7.4,1992,1996,Uniunea Democrata a Maghiarilor din Romania,UDMR,0
+RUS,Russia,APR,1994,1999,1793,7.9,1993,2007,Agrarnaya Partiya Rossii,APR,0
+RUS,Russia,DPR,1994,1994,1794,5.5,1993,,,DPR,0
+RUS,Russia,DVR,1994,1995,1795,21.7,1993,,,DVR,0
+RUS,Russia,Father,2000,2003,1796,13.3,1999,1998,Otechestvo,Father,0
+RUS,Russia,Just Russia,2008,2015,1797,13.2,2011,2006,Spravedlivaya Rossiya,JR,0
+RUS,Russia,KPRF,1994,2015,1798,24.3,1999,1992,Kommunisticheskaya Pariya Rossiiskoi Federatsii,KPRF,0
+RUS,Russia,LDPR,1994,2015,1799,22.8,1993,2012,Liberaln-demokratcheskaya Partiya Rosii,LDPR,0
+RUS,Russia,Motherland-PPU,2004,2007,1800,9,2003,,,Motherland-PPU,0
+RUS,Russia,NDR,1996,1999,1801,10.3,1996,,,NDR,0
+RUS,Russia,Unity Party,2000,2003,1804,23.3,1999,1999,Edinstvo,UP,0
+RUS,Russia,URF,2000,2003,1805,8.5,1999,1998,Soyuz Pravykh Sil,URF,0
+RUS,Russia,Yabloko,1994,1999,1806,8.9,1993,1993,Rossiskaya Demokraticheskaya Partiya Yabloko,Yabloko,0
+RUS,Russia,Zhirinovskii bloc,2000,2003,1807,6,1999,,Zhirinovskii bloc,Z,0
+RUS,Russia,ZR,1995,1995,1808,6.6,1995,,,ZR,0
+RWA,Rwanda,MDR,1995,2003,1810,18.6,1995,1996,Parti Democratique Republicain,MDR,0
+RWA,Rwanda,PL,2004,2015,1812,10.6,2003,1991,Parti Liberal,PL,0
+RWA,Rwanda,PSD,1995,2015,1813,13.1,2008,1991,Parti Social Democrate,PSD,0
+ZAF,S. Africa,Conservative Party,1988,1994,1816,31.3,1989,,Conservative Party,CP,0
+ZAF,S. Africa,COPE,2010,2014,1817,7.4,2009,,,COPE,0
+ZAF,S. Africa,DA,2005,2015,1818,22.2,2014,,,DA,0
+ZAF,S. Africa,Democratic Party,1990,2004,1819,19.9,1989,,Democratic Party,DP,0
+ZAF,S. Africa,EFF,2015,2015,1820,6.3,2014,,,EFF,0
+ZAF,S. Africa,IFP,1995,2015,1823,10.5,1994,,,IFP,0
+ZAF,S. Africa,New Republic,1978,1989,1826,11.6,1977,,New Republic,NR,0
+ZAF,S. Africa,NNP,2000,2004,1827,6.9,1999,,,NNP,0
+ZAF,S. Africa,Progressive Fed P.,1978,1989,1829,19.4,1981,,Progressive Fed P.,PFP,0
+ZAF,S. Africa,Progressive Party,1975,1977,1830,5.3,1975,,Progressive Party,PP,0
+ZAF,S. Africa,United Party,1975,1977,1833,32.7,1975,,United Party,UP,0
+WSM,Samoa,CDP,1986,1991,1835,34,1985,1996,Christian Democratic Party,CDP,0
+WSM,Samoa,SDUP,2007,2011,1838,20.4,2006,,,SDUP,0
+WSM,Samoa,SNDP,1992,2006,1839,29.8,1991,2003,Samoa Democratic United Party,SNDP,0
+WSM,Samoa,TSP,2012,2015,1841,24.5,2011,2008,Tautua Samoa Party,TSP,0
+SEN,Senegal,AFP,2002,2007,1843,16.1,2001,1999,Alliance des Forces pour le Progres,AFP,0
+SEN,Senegal,AJ-PADS,1999,2001,1844,5,1998,1991,And-J�f/Parti Africain pour la d_mocratie et le socialisme,AJ-PADS,0
+SEN,Senegal,BBY,2013,2015,1846,53.1,2012,2012,Benno Bokk Yakaar,BBY,0
+SEN,Senegal,Bes Du Niak,2013,2015,1847,5.8,2012,,Citizen Movement for Reform,BDN,0
+SEN,Senegal,Bokk Gis Gis,2013,2015,1848,7.3,2012,2012,Bokk Gis Gis,BGG,0
+SEN,Senegal,Sopi Coalition,2002,2012,1856,69.2,2007,2000,Sopi Coalition,SC,0
+SEN,Senegal,TD,2008,2012,1857,5,2007,,,TD,0
+SLE,Sierra Leone,NUP,1997,2002,1863,5.2,1996,1991,National Unity Party,NUP,0
+SLE,Sierra Leone,PDP,1997,2002,1864,15.2,1996,1991,People's Democratic Party,PDP,0
+SLE,Sierra Leone,PMDC,2008,2012,1866,8.9,2007,2006,People's Movement for Democratic Change,PMDC,0
+SLE,Sierra Leone,UNPP,1997,2002,1868,22,1996,,,UNPP,0
+SGP,Singapore,SDA,2002,2011,1870,11.8,2001,2001,Singapore Democratic Alliance,SDA,0
+SGP,Singapore,SDP,1985,2001,1871,38.7,1988,1980,Singapore Democratic Party,SDP,0
+SGP,Singapore,WP,1982,2015,1872,36.8,1997,1957,Worker's Party,WP,0
+SVK,Slovakia,CDM,2003,2006,1873,8.2,2002,,,CDM,0
+SVK,Slovakia,Coexistence-MKDH,1993,1994,1874,9.3,1993,,,Coexistence-MKDH,0
+SVK,Slovakia,CPS,2003,2006,1875,6.3,2002,,,CPS,0
+SVK,Slovakia,HZDS/RSS,1995,1998,1878,35,1994,,,HZDS/RSS,0
+SVK,Slovakia,KDH,1993,2015,1879,8.8,2012,1990,K_est'ansko-demokratick_ Hnutie,KDH,0
+SVK,Slovakia,LS-HZDS,2007,2010,1880,8.8,2006,1991,�_udov� strana _ Hnutie za demokratick_ Slovensko,LS-HZDS,0
+SVK,Slovakia,MDS,1999,2006,1881,27,1998,,,MDS,0
+SVK,Slovakia,MH,2013,2015,1882,6.9,2012,2009,Most_H�d,MH,0
+SVK,Slovakia,MK,1995,1998,1883,10.2,1994,,,MK,0
+SVK,Slovakia,OLanO,2013,2015,1884,8.6,2012,2014,Oby_ajn� _udia a Nez�visl_ Osobnosti,OLanO,0
+SVK,Slovakia,PDL,1999,2002,1885,14.7,1998,,,PDL,0
+SVK,Slovakia,SaS,2011,2012,1886,12.1,2010,2009,Sloboda a Solidarita,SaS,0
+SVK,Slovakia,SDKU-DS,2007,2012,1889,18.4,2006,2000,Slovensk� Demokratick� Krest'ansk� �nia_Demokratick� Strana,SDKU-DS,0
+SVK,Slovakia,SDL,1993,1994,1890,19.3,1993,,,SDL,0
+SVK,Slovakia,SMK,1999,2010,1892,11.7,2006,1998,Strana Mad'arskej Koal�cie,SMK,0
+SVK,Slovakia,SNP,1999,2002,1893,9.1,1998,,,SNP,0
+SVK,Slovakia,SNS,1993,2012,1894,11.7,2006,1989,Slovensk� N�rodn� Strana,SNS,0
+SVK,Slovakia,SV,1995,1998,1895,10.4,1994,,,SV,0
+SVK,Slovakia,UDH,1995,1998,1896,10.1,1994,,,UDH,0
+SVK,Slovakia,ZRS,1995,1998,1897,7.3,1994,1994,Zdru_enie Robotn�kov Slovenska,ZRS,0
+SVN,Slovenia,DeSUS,2009,2015,1898,10.2,2014,1996,Demokrati_na Stranka Upokojencev Slovenije,DeSUS,0
+SVN,Slovenia,DSS,1993,1994,1900,5.1,1992,,,DSS,0
+SVN,Slovenia,LGV,2012,2013,1902,8.4,2011,1988,Dr_avljanska lista Gregorja Viranta,LGV,0
+SVN,Slovenia,NS-CP,2001,2004,1903,8.7,2000,,,NS-CP,0
+SVN,Slovenia,NSI,2005,2015,1904,9.1,2004,2000,Nova Slovenija_Kr__anska Ljudska Stranka,NSI,0
+SVN,Slovenia,SDPS,2001,2004,1907,15.8,2000,,,SDPS,0
+SVN,Slovenia,SLS,1993,2014,1910,19.4,1996,,,SLS,0
+SVN,Slovenia,SLS-I,1995,1996,1911,8.7,1995,1988,Slovenska ljudska stranka,SLS-I,0
+SVN,Slovenia,SNS,1993,2011,1914,10.2,1992,,,SNS,0
+SVN,Slovenia,Zares,2009,2011,1915,9.4,2008,2007,Zares,Zares,0
+SVN,Slovenia,ZL,1993,2015,1916,13.6,1992,2014,Zdru_ena levica,ZL,0
+SVN,Slovenia,ZLSD,1995,2008,1917,12.1,2000,1994,Zdru_ena Lista Socialnih Demokratov,ZLSD,0
+SLB,Solomon Is.,DAP,2015,2015,1918,15.9,2014,,,DAP,0
+SLB,Solomon Is.,NAPSI,1994,1994,1923,8.5,1993,1993,National Action Party of Solomon Islands,NAPSI,0
+SLB,Solomon Is.,NCP,1995,1995,1924,50,1995,,,NCP,0
+SLB,Solomon Is.,NFP,1990,1993,1925,11.1,1989,1989,National Front for Progress,NFP,0
+SLB,Solomon Is.,NP,2007,2010,1927,9.3,2006,,,NP,0
+SLB,Solomon Is.,OUR,2011,2014,1928,7,2010,2010,"Ownership, Unity, and Responsibility�",OUR,0
+SLB,Solomon Is.,SAS,1985,1989,1932,10.8,1984,,,SAS,0
+SLB,Solomon Is.,SIAC,2002,2006,1933,24.5,2001,,,SIAC,0
+SLB,Solomon Is.,SIDP,2007,2014,1934,30.2,2010,,,SIDP,0
+SLB,Solomon Is.,SIPRA,2007,2015,1936,9.3,2006,2005,Solomon  Islands Party for Rural Advancement,SIPRA,0
+SLB,Solomon Is.,SIUDP,2015,2015,1938,11.4,2014,,,SIUDP,0
+SLB,Solomon Is.,Siupa,1985,1990,1939,35.1,1984,,,Siupa,0
+SSD,South Sudan,Former Members of Sudanese Assembly,2012,2015,1944,28.9,2012,,Former Members of Sudanese Assembly,FMSA,0
+SSD,South Sudan,South Sudan Regional Assembly Members,2012,2015,1945,51.2,2012,,South Sudan Regional Assembly Members,SSRAM,0
+ESP,Spain,AP,1978,1989,1948,26,1986,,,AP,0
+ESP,Spain,AP/PSP,1983,1986,1949,26.6,1982,,,AP/PSP,0
+ESP,Spain,CD,1980,1982,1951,6,1979,,,CD,0
+ESP,Spain,CDS,1987,1989,1952,9.2,1986,,,CDS,0
+ESP,Spain,CiU,1983,2015,1953,5,1986,1978,Converg_ncia i Uni�,CiU,0
+ESP,Spain,IU,1990,2004,1956,10.5,1996,,,IU,0
+ESP,Spain,IU-LV,2012,2015,1957,6.9,2011,,,IU-LV,0
+ESP,Spain,PCE,1980,1982,1958,10.7,1979,1920,Partido Comunista de Espa�a,PCE,0
+ESP,Spain,PSC-PSOE,1978,1979,1961,29.2,1977,,,PSC-PSOE,0
+ESP,Spain,PSOE/PSC,1987,1996,1963,44.1,1986,,,PSOE/PSC,0
+LKA,Sri Lanka,DNA,2011,2015,1968,5.5,2010,2010,Democratic National Alliance,DNA,0
+LKA,Sri Lanka,Fed P.,1975,1977,1970,5,1975,2004,lankai Tamil Arasu Kachchi,FP,0
+LKA,Sri Lanka,JHU,2005,2010,1972,6,2004,2004,Jathika Hela Urumaya,JHU,0
+LKA,Sri Lanka,JVP,1995,2004,1973,9.4,2001,1960,Janatha Vimukthi Peramuna,JVP,0
+LKA,Sri Lanka,LSSP,1975,1977,1974,8.8,1975,1935,Lanka Sama Samaja Pakshaya,LSSP,0
+LKA,Sri Lanka,TNA,2003,2010,1982,6.8,2004,2001,Tamil National Alliance,TNA,0
+LKA,Sri Lanka,TULF,1978,2002,1983,10.2,1977,1976,Tamil Vimuktasi Peramuna,TULF,0
+LCA,St. Lucia,PLP,1983,1986,1986,27.1,1982,,,PLP,0
+SDN,Sudan,DUP,1987,1989,1990,23.9,1986,1986,Democratic Unionist party,DUP,0
+SDN,Sudan,SPLM,2011,2015,1996,22,2010,,,SPLM,0
+SUR,Suriname,A1,2006,2010,2001,5.9,2005,,,A1,0
+SUR,Suriname,AC,2006,2015,2002,7.2,2005,,,AC,0
+SUR,Suriname,BVD,1997,2000,2003,13.2,1996,1996,Basispartij voor Vernieuwing en Democratie,BVD,0
+SUR,Suriname,DA '91,2001,2005,2004,6.1,2000,,DA '91,DA'91,0
+SUR,Suriname,DA91,1992,2000,2005,17.6,1991,1991,Democratisch Alternatief '91,DA91,0
+SUR,Suriname,DNP2000,2001,2005,2006,10,2000,,,DNP2000,0
+SUR,Suriname,DOE,2011,2015,2007,5.1,2010,1999,Partij Voor Democratie en Ontwikkeling Eenheid,DOE,0
+SUR,Suriname,KTPI,1988,2000,2010,19.6,1987,1947,Kerakunan Tulodo Pranatan Iggil,KTPI,0
+SUR,Suriname,NPK,1976,1980,2014,56.4,1977,,,NPK,0
+SUR,Suriname,PALU,1988,1991,2016,7.8,1987,1982,Progressive Workers� and Farm Laborers� Union,PALU,0
+SUR,Suriname,Pendawa Lima,1997,2000,2017,10.5,1996,,Pendawa Lima,PL,0
+SUR,Suriname,VVV,2006,2015,2019,13,2010,2005,Volksalliante Voor Vooruitgang,VVV,0
+SWE,Sweden,Christian Democratic,1999,2002,2022,11.8,1998,,Christian Democratic,CD,0
+SWE,Sweden,Communist,1977,1991,2023,5.8,1988,,,Communist,0
+SWE,Sweden,Communists,1975,1976,2024,5.3,1975,1967,Kommunistiska Partiet,Communists,0
+SWE,Sweden,Green,1999,2015,2027,7.3,2010,1981,Milj_partiet de Gr_na,Green,0
+SWE,Sweden,Kd,2003,2006,2028,9.1,2002,1964,Kristdemokraterna,Kd,0
+SWE,Sweden,Left,1992,2010,2029,12,1998,1917,V_nsterpartiet,Left,0
+SWE,Sweden,Liberal,2003,2006,2030,13.4,2002,1985,Folkpartiet Liberalerna,Liberal,0
+SWE,Sweden,New Democracy,1992,1994,2032,6.7,1991,,New Democracy,ND,0
+SWE,Sweden,Sd,2015,2015,2033,12.9,2014,,,Sd,0
+SWE,Sweden,SD,2011,2014,2034,5.7,2010,,,SD,0
+CHE,Switzerland,BDP/PBD,2012,2015,2036,5.4,2011,,,BDP/PBD,0
+CHE,Switzerland,Chr. Dem,1975,2003,2037,21.1,1975,,Chr. Dem,CD,0
+CHE,Switzerland,Greens,1988,2015,2040,10,2007,,,Greens,0
+CHE,Switzerland,independent Alliance,1975,1987,2042,6.1,1975,,independent Alliance,A,0
+CHE,Switzerland,Liberal Party,1985,2015,2047,5.4,2011,,Liberal Party,LP,0
+CHE,Switzerland,Radical Dem,1975,2015,2049,24,1979,1894,Freisinnig-Demokratische Partei der Schweiz,RD,0
+CHE,Switzerland,Social Dem,1975,2015,2051,24.9,1975,1888,Sozialdemokratische Partei der Schweiz,SD,0
+CHE,Switzerland,Swiss People,2004,2015,2052,31,2007,1971,Schweizerische Volkspartei,SP,0
+SYR,Syria,NPF,1975,2015,2055,100,1981,1972,National Progressive Front,NPF,0
+TWN,Taiwan,New Party,1996,2001,2060,12.6,1995,1993,Hsin Tang,NP,0
+TWN,Taiwan,PFP,2002,2015,2062,20.3,2001,2000,People First Party,PFP,0
+TWN,Taiwan,TSU,2002,2015,2063,8.5,2001,2001,Taiwan Solidarity Union,TSU,0
+TJK,Tajikistan,CPT,1996,2015,2065,88.2,1995,1995,Communist Party of�Tajikistan,CPT,0
+TJK,Tajikistan,IRP,1993,2015,2067,9.1,2005,1990,Hizb-i-Nahzati Islom,IRP,0
+TZA,Tanzania,Chadema,2001,2015,2077,13.4,2010,1992,�Party for Democracy and Progress,Chadema,0
+TZA,Tanzania,CUF,1996,2015,2078,9.9,2010,1991,Civic United Front,CUF,0
+TZA,Tanzania,NCCR-Mageuzi,1996,2000,2080,5.9,1995,1991,National Convention for Constitution and Reform_Mageuzi,NCCR-Mageuzi,0
+THA,Thailand,Chart Pattana,1997,2005,2085,13.2,1996,2007,Chart Pattana,CP,0
+THA,Thailand,NAP,1993,2005,2090,31.8,1996,1990,Pak Kwam Hwang Mai,NAP,0
+THA,Thailand,National Dev. P.,1993,1995,2091,16.7,1992,,National Dev. P.,NDP,0
+THA,Thailand,People,1989,1991,2092,5.3,1989,,,People,0
+THA,Thailand,PPD,2008,2011,2093,5,2007,,,PPD,0
+THA,Thailand,Prachakorn,1980,1991,2096,11.1,1983,1979,Prachakorn Thai,Prachakorn,0
+THA,Thailand,PTP,2012,2014,2097,6.8,2011,,,PTP,0
+THA,Thailand,Righteous F.,1993,1996,2099,16.7,1995,,Righteous F.,RF,0
+THA,Thailand,United Demo. Party,1987,1988,2103,11,1987,,United Demo. Party,UDP,0
+THA,Thailand,United Thai,1987,1991,2104,5.5,1987,,United Thai,UT,0
+TLS,Timor-Leste,AD KOTA-PPT,2008,2012,2105,9.5,2007,,AD KOTA-PPT,ADKOTA-PPT,0
+TLS,Timor-Leste,ASDT,2003,2007,2106,7.8,2003,,,ASDT,0
+TLS,Timor-Leste,ASDT-PSD,2008,2012,2107,52.4,2007,,,ASDT-PSD,0
+TLS,Timor-Leste,CNRT,2008,2015,2108,85.7,2007,,,CNRT,0
+TLS,Timor-Leste,PD,2003,2015,2110,38.1,2007,,,PD,0
+TLS,Timor-Leste,PUN,2008,2012,2111,14.3,2007,,,PUN,0
+TGO,Togo,CAEC,2014,2015,2113,11.2,2013,2013,Coalition Arc-en-Ciel,CAEC,0
+TGO,Togo,CAR,1995,2013,2114,44.4,1994,1991,Comit_ d�Action pour le Renouveau,CAR,0
+TGO,Togo,CST,2014,2015,2116,34.5,2013,2013,Collectif Sauvons le,CST,0
+TGO,Togo,UFC,2008,2015,2122,30.8,2007,1993,Union des Forces du Changement,UFC,0
+TGO,Togo,UTD,1995,1999,2125,8.6,1994,1991,Union Togolaise pour la D_mocratie,UTD,0
+TTO,Trinidad-Tobago,DAC,1977,1981,2126,8.1,1976,,,DAC,0
+TTO,Trinidad-Tobago,PP,2011,2015,2129,60,2010,,,PP,0
+TTO,Trinidad-Tobago,TTNA,1982,1986,2130,20.2,1981,,,TTNA,0
+TTO,Trinidad-Tobago,ULF,1977,1981,2131,26.9,1976,,,ULF,0
+TUN,Tunisia,al-Aridha,2012,2014,2133,12.1,2011,,,al-Aridha,0
+TUN,Tunisia,al-Nahdah,2012,2015,2134,41.6,2011,1981,Hizb al-Nahda,al-Nahdah,0
+TUN,Tunisia,CPR,2012,2014,2136,13.6,2011,2001,al-Mottamar,CPR,0
+TUN,Tunisia,Ettakatol,2012,2014,2137,9.3,2011,2002,Le Forum D_mocratique pour le Travail et les Libert_s,Ettakatol,0
+CYP,Turk Cyprus,BDH,2004,2009,2146,12,2003,,,BDH,0
+CYP,Turk Cyprus,DHP,1982,1985,2148,5,1982,,,DHP,0
+CYP,Turk Cyprus,DP,1994,2015,2149,29.2,1993,1992,Demokrat Parti,DP,0
+CYP,Turk Cyprus,HP,1977,1981,2150,5,1977,,,HP,0
+CYP,Turk Cyprus,ORP,2010,2013,2151,6.2,2009,,,ORP,0
+CYP,Turk Cyprus,TDP,2010,2015,2153,7.4,2013,,,TDP,0
+CYP,Turk Cyprus,TKP,1977,2003,2154,15.4,1998,1976,Toplumcu Kurtulus Partisi,TKP,0
+CYP,Turk Cyprus,YDP,1986,1993,2156,8,1986,1985,Yeni Dogus Partisi,YDP,0
+TUR,Turkey,CHP,1996,2015,2159,26,2011,1923,Cumhuriyet Halk Partisi,CHP,0
+TUR,Turkey,FP,2000,2002,2163,15.5,1999,,,FP,0
+TUR,Turkey,Justice P.,1975,1980,2165,36.9,1977,,Justice P.,JP,0
+TUR,Turkey,MHP,2000,2015,2166,18.1,1999,1969,Milliyet�i Hareket Partisi,MHP,0
+TUR,Turkey,National Act.,1978,1980,2168,6.4,1977,,National Act.,NA,0
+TUR,Turkey,NDP,1984,1986,2169,23.3,1983,1980,Milliyet�i Demokrasi Partisi,NDP,0
+TUR,Turkey,NSP,1975,1980,2170,8.6,1977,,,NSP,0
+TUR,Turkey,Populist,1984,1986,2171,30.5,1983,1980,Halk�� Parti,Populist,0
+TUR,Turkey,RP,1992,1999,2172,21.3,1995,1998,Refah Partisi,RP,0
+TUR,Turkey,RPP,1975,1980,2173,41.4,1977,,,RPP,0
+TUR,Turkey,RRP,1975,1977,2174,5.3,1975,,,RRP,0
+TUR,Turkey,SDH,1987,1987,2175,16,1987,,,SDH,0
+TUR,Turkey,SHP,1988,1991,2176,24.7,1987,,,SHP,0
+TUR,Turkey,SHP/IP,1992,1995,2177,20.8,1991,1991,Sosyal Demokrat Halk�� Parti,SHP/IP,0
+TKM,Turkmenistan,PIE,2014,2015,2180,11.2,2013,2012,Party of Industrilists and Entrepreneurs,PIE,0
+TKM,Turkmenistan,Trade Unions,2014,2015,2181,26.4,2013,,Trade Unions,TU,0
+TKM,Turkmenistan,Women's Union,2014,2015,2182,12.8,2013,,Women's Union,W'U,0
+UGA,Uganda,Dem. Party,1981,1985,2187,47,1980,,Dem. Party,DP,0
+UGA,Uganda,DP,2007,2015,2188,21.6,2006,1954,Democratic Party  (Liberal conservatism/Centre-right),DP,0
+UGA,Uganda,FDC,2007,2015,2189,46.4,2006,2004,Forum for Democratic Change (Centre-right),FDC,0
+UGA,Uganda,Other parties,1997,2001,2192,21,1996,,Other parties,O,0
+UGA,Uganda,PP,1995,1996,2193,16.4,1995,,,PP,0
+GBR,UK,LDP,1998,2015,2200,23,2010,,,LDP,0
+GBR,UK,Liberal,1975,1983,2201,13.8,1979,,,Liberal,0
+GBR,UK,SDP/LP,1984,1997,2203,25.4,1983,,,SDP/LP,0
+UKR,Ukraine,BPP,2015,2015,2207,29.3,2014,2014,Blok Petra Poroshenka,BPP,0
+UKR,Ukraine,BYT,2007,2014,2208,30.7,2007,2001,Blok Yuliyi Tymoshenko (Cemtre-right),BYT,0
+UKR,Ukraine,CPU,1992,2006,2209,26,1998,1993,Communist Party of Ukraine (Communism/Left-wing),CPU,0
+UKR,Ukraine,Democratic Bloc,1992,1994,2210,24.1,1992,,Democratic Bloc,DB,0
+UKR,Ukraine,KPU,2008,2014,2216,5.4,2007,1993,Komunistychna Partiya Ukrayiny (Communism/Left-wing),KPU,0
+UKR,Ukraine,NSNU,2007,2007,2218,13.9,2006,2005,Narodni Soyus �Nasha Ukraina� (Centre-right),NSNU,0
+UKR,Ukraine,NU-NS,2008,2014,2219,14.2,2007,2001,Nasha Ukraina_Narodna Samooborona,NU-NS,0
+UKR,Ukraine,Opposition bloc,2015,2015,2220,6.4,2014,2014,Opposition bloc,O,0
+UKR,Ukraine,OU,2003,2006,2222,25.1,2002,2005,Our Ukraine (Centre-right),OU,0
+UKR,Ukraine,PF,2015,2015,2223,18.2,2014,2014,People's Front (Right-wing),PF,0
+UKR,Ukraine,PMU,1995,2002,2224,9.5,1998,,People's Movement of Ukraine,PMU,0
+UKR,Ukraine,PPU,1995,2002,2225,6.3,1998,1992,Partiya Pratsi Ukrainy,PPU,0
+UKR,Ukraine,Samopomich,2015,2015,2227,7.3,2014,2012,Self Reliance (Centre-right),Samopomich,0
+UKR,Ukraine,SDPU,2003,2006,2228,7.3,2002,1990,Sotsial-Demokratychna Partiya Ukrainy [Obyednana],SDPU,0
+UKR,Ukraine,SPU,1995,2007,2229,6.3,1998,1991,Sotsialtstychna Partiya Ukrainy (Social democracy),SPU,0
+URY,Uruguay,Broad Front,1985,1994,2231,21.2,1989,,Broad Front,BF,0
+URY,Uruguay,EP,1995,2004,2234,40.1,1999,,,EP,0
+URY,Uruguay,New Space,1990,1999,2236,9.1,1989,1994,New Space Party (Centre),NS,0
+UZB,Uzbekistan,ADOLAT,1996,1999,2241,36.2,1995,1995,Adolat Sotsialdemokratik Partiyasi,ADOLAT,0
+UZB,Uzbekistan,Fidokorlar,2000,2009,2243,24.5,1999,,Self-Sacrifice National Democratic Party,Fidokorlar,0
+UZB,Uzbekistan,MTDP,2010,2015,2245,25.8,2009,1995,Milliy Tiklanish Demokratik Partiyasi (Centre right),MTDP,0
+UZB,Uzbekistan,WT,1995,2004,2247,16.9,1994,,,WT,0
+VUT,Vanuatu,GJP,2013,2013,2249,7.7,2012,2010,Graon mo Jastis Pati (right wing),GJP,0
+VUT,Vanuatu,GP,2003,2008,2250,5.8,2004,,,GP,0
+VUT,Vanuatu,Na-Griamel,2014,2015,2253,5.8,2014,1960,Nagriamel (right wing),Na-Griamel,0
+VUT,Vanuatu,PDP,1995,1995,2258,8.7,1995,2011,People's Democratic Party,PDP,0
+VUT,Vanuatu,RMC,2013,2015,2260,5.8,2012,,Reunification Movement for Change,RMC,0
+VUT,Vanuatu,Tan Union,1989,1991,2261,12.5,1989,,Tan Union,TU,0
+VUT,Vanuatu,UF,1996,1996,2262,43.5,1995,,Unity Front,UF,0
+VUT,Vanuatu,VRP,2005,2012,2266,13.5,2008,1990,Vanuatu Republican Party,VRP,0
+VEN,Venezuela,CR,1994,1998,2270,20.1,1993,,,CR,0
+VEN,Venezuela,MAS,1975,2005,2271,10.2,1988,1971,Movimiento al Socialismo (center left),MAS,0
+VEN,Venezuela,MEP,1975,2006,2272,6.6,2005,1967,Movimiento Electoral del Pueblo (left wing),MEP,0
+VEN,Venezuela,MUD,2011,2015,2274,39.4,2010,2008,Mesa de la Unidad Democratica,MUD,0
+VEN,Venezuela,PODEMOS,2006,2010,2279,9,2005,2002,Por la Democracia Social (centre left),PODEMOS,0
+VEN,Venezuela,PRVZL,1999,2005,2281,12.3,1998,1998,Proyecto Venezuela (Centre right),PRVZL,0
+YEM,Yemen,GPC,1990,2015,2286,62.1,1997,1982,General People's Congress (Centre),GPC,0
+YEM,Yemen,YIP,1994,2015,2290,22.5,2003,1990,Yemeni Islah Party,YIP,0
+YEM,Yemen,YSP,1994,2015,2291,18.6,1993,1978,Yemeni Socialist Party (left)),YSP,0
+SRB,Yugoslavia,Depos,1993,2000,2298,17.2,1993,1992,Democratic Movement of Serbia (centre right),Depos,0
+SRB,Yugoslavia,DS,1993,2000,2300,5.9,1993,1990,Democratic Party,DS,0
+SRB,Yugoslavia,SRS,1993,2000,2307,22.4,1993,1991,Serbian Radical Party (far right),SRS,0
+ZMB,Zambia,FDD,2002,2006,2310,15.6,2001,2001,Forum for Democracy and Development,FDD,0
+ZMB,Zambia,NP,1995,2001,2312,7.2,1996,1993,National Party,NP,0
+ZMB,Zambia,UDA,2007,2011,2314,17.3,2006,2006,United Democratic Alliance,UDA,0
+ZMB,Zambia,UPND,2002,2015,2317,23.9,2001,1998,United Party for National Development (centre),UPND,0
+ZMB,Zambia,ZADECO,1997,2001,2318,14.1,1996,1995,Zambia Democratic Congress,ZADECO,0
+ZWE,Zimbabwe,ANC,1975,1979,2319,12.1,1975,1912,African National Congress (South Africa),ANC,0
+ZWE,Zimbabwe,CAZ,1986,1990,2320,15,1985,1984,Conservative Alliance of Zimbabwe (right),CAZ,0
+ZWE,Zimbabwe,MDC,2001,2008,2323,47,2000,,,MDC,0
+ZWE,Zimbabwe,MDC-Mutambara,2009,2013,2324,8.4,2008,,,MDC-Mutambara,0
+ZWE,Zimbabwe,MDC-Tsvangirai,2009,2015,2325,43,2008,,,MDC-Tsvangirai,0
+ZWE,Zimbabwe,Patriotic Front,1981,1985,2326,23.6,1980,,Patriotic Front,PF,0
+ZWE,Zimbabwe,UANC,1981,1985,2328,8.1,1980,,United National Independence Party (left) (Zambia not Zimbabwe),UANC,0
+ZWE,Zimbabwe,ZANU-N,1991,2000,2329,6,1995,,Zimbabwe African National Union _ Ndonga,ZANU-N,0
+ZWE,Zimbabwe,ZAPU,1986,1990,2331,17.9,1985,1961,Zimbabwe African People's Union,ZAPU,0
