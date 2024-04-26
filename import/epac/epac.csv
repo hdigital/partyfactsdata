@@ -1,294 +1,275 @@
-"round","country_name","party_id","party_accr","party_name","party_name_en","natstrength","seat","pec","elecyear","country"
-2016,"Finland",1401,"Kok","Kansallinen Kokoomus r.p.","National Coalition Party",18.2,19,0,2015,"FIN"
-2016,"Finland",1402,"PS","Perussuomalaiset","True Finns",21.1,25,0,2015,"FIN"
-2016,"Finland",1403,"Kesk","Suomen Keskusta","Center Party of Finland",15.8,17.5,0,2015,"FIN"
-2016,"Finland",1404,"SDP","Suomen Sosialidemokraattinen Puolue","Social Democratic Party of Finland",16.51,84,0,2015,"FIN"
-2016,"Finland",1405,"Vas","Vasemmistoliitto","Left Alliance",7.13,12,0,2015,"FIN"
-2016,"Finland",1406,"Vihr","Vihreä liitto","Green League",8.53,15,0,2015,"FIN"
-2016,"Finland",1407,"SFP","Svenska folkpartiet i Finland / Suomen ruotsalainen kansanpuolue","Swedish People's Party in Finland",4.9,15,0,2015,"FIN"
-2016,"Finland",1408,"AF","Ålands Framtid","Future of Aland",,0,0,2015,"FIN"
-2016,"Finland",1409,"AD","Åländsk Demokrati","Alandic Democracy",,0,0,2015,"FIN"
-2016,"Belgium",2101,"N-VA","Nieuw-Vlaams Alliantie","New Flemish Alliance",20.26,22,0,2014,"BEL"
-2016,"Belgium",2102,"VB","Vlaams Belang","Flemish Interest",3.67,2,0,2014,"BEL"
-2016,"Belgium",2103,"CD&V","Christen-Democratisch en Vlaams","Christian,Democratic and Flemish Party",11.61,12,0,2014,"BEL"
-2016,"Belgium",2104,"VLD","Open Vlaamse Liberalen en Democraten","Open Flemish Liberals and Democrats",9.78,9,0,2014,"BEL"
-2016,"Belgium",2105,"PS","Parti Socialiste","Socialist Party",11.67,15,0,2014,"BEL"
-2016,"Belgium",2106,"MR","Mouvement Réformateur","Reformist Movement",9.64,13,0,2014,"BEL"
-2016,"Belgium",2107,"SP.A","Socialistische Partij Anders","Socialist Party Different",8.83,7,0,2014,"BEL"
-2011,"Belgium",2108,"UF","Union des Francophones","Union of Francophones",,,,,"BEL"
-2016,"Belgium",2109,"ProDG","Pro Deutschsprachige Gemeinschaft","Pro German-speaking Community",,0,0,2014,"BEL"
-2016,"Belgium",2110,"DéFI","Démocrate Fédéraliste Indépendant","Francophone Democratic Federalists",,0,0,2014,"BEL"
-2016,"Belgium",2111,"Ecolo","Écologistes Confédérés pour l'organisation de luttes originales","Confederated ecologists for the organisation of original struggle",3.3,4,0,2014,"BEL"
-2016,"Belgium",2112,"Groen","Groen","Green",5.32,4,0,2014,"BEL"
-2016,"Belgium",2113,"PP","Parti populaire","Peoples Party",1.52,0.7,0,2014,"BEL"
-2016,"France",3101,"UMP","Union pour un mouvement populaire","Union for a Popular Movement",27.12,33.6,0,2012,"FRA"
-2016,"France",3102,"PS","Parti socialiste","Socialist Party",29.35,48.5,0,2012,"FRA"
-2016,"France",3103,"FN","Front national","National Front",13.6,0.4,0,2012,"FRA"
-2016,"France",3104,"PNC","Partitu di a Nazione Corsa / Parti de la nation corse","Party of the corse nation",,0,0,2012,"FRA"
-2016,"France",3105,"CL","Corsica Libera","Free Corsica",,0,0,2012,"FRA"
-2011,"France",3106,"Unser","Unser Land - Le Parti Alsacien","Our Land - the Alsatian party",,,,,"FRA"
-2011,"France",3107,"UDB","Union Démocratique Bretonne/Unvaniezh Demokratel Breizh","Breton Democratic Union",,,,,"FRA"
-2011,"France",3108,"PÒc","Parti Occitan","Occitan Party",,,,,"FRA"
-2016,"France",3109,"Inseme","Inseme per a Corsica / Ensemble pour la Corse","Together for Corsica",,0,0,2012,"FRA"
-2016,"France",3110,"Chjama","A Chjama Naziunale","The national call",,0,0,2012,"FRA"
-2016,"France",3111,"EELV","Europe Écologie – Les Verts","Europe Ecology - The Greens",5.46,3,0,2012,"FRA"
-2016,"France",3112,"FDG","Front de Gauche","Left Front",6.91,1.7,0,2012,"FRA"
-2016,"Italy",3201,"PdL","Popolo della libertà","The People of freedom",21.6,15.7,0,2013,"ITA"
-2016,"Italy",3202,"PD","Partito Democratico","Democratic Party",25.43,47.3,0,2013,"ITA"
-2016,"Italy",3203,"LN","Lega Nord","Northern League",4.09,2.9,0,2013,"ITA"
-2011,"Italy",3204,"PNE","Progetto NordEst","North-East Project",,,,,"ITA"
-2011,"Italy",3205,"MPA","Movimento per le Autonomie","Movement for Autonomy",1.1,,,,"ITA"
-2011,"Italy",3206,"NS","Noi Sud – Libertà e Autonomia","We the South – Freedom and Autonomy",,,,,"ITA"
-2016,"Italy",3207,"SVP/PPS","Südtiroler Volkspartei / Partito Popolare Sudtirolese","South Tyrolean People's Party",0.43,0.8,0,2013,"ITA"
-2011,"Italy",3208,"UpT","Unione per il Trentino","Union for Trentino",,,,,"ITA"
-2011,"Italy",3209,"PATT","Partito Autonomista Trentino Tirolese","Trentino Tyrolean Autonomist Party",,,,,"ITA"
-2016,"Italy",3210,"STF/LST","Süd-Tiroler Freiheit / Libertà Sud-Tirolese","South Tyrolean Freedom",,0,0,2013,"ITA"
-2016,"Italy",3211,"BU/UpS","BürgerUnion / Unione per il Sudtirolo","Union for South Tyrol",,0,0,2013,"ITA"
-2016,"Italy",3212,"UV","Union Valdôtaine","Valdotanian Union",,0,0,2013,"ITA"
-2011,"Italy",3213,"ALPE","Autonomie Liberté Participation Écologie","Autonomy, Liberty, Participation, Ecology",,,,,"ITA"
-2016,"Italy",3214,"PSd'Az","Partitu Sardu / Partito Sardo d'Azione","Sardinian Action Party",0.05,0,0,2013,"ITA"
-2016,"Italy",3215,"UDS","Unione Democratica Sarda – Progetto Nazionalitario","Sardinian Democratic Union",,0,0,2013,"ITA"
-2016,"Italy",3216,"M5S","Movimento 5 Stelle","Five Star Movement",25.56,17.5,0,2013,"ITA"
-2016,"Italy",3217,"RS","Riformatori Sardi","Sardinian Reformers",,0,0,2013,"ITA"
-2016,"Italy",3218,"SC","Scelta Civica","Civic Choice",8.3,6,0,2013,"ITA"
-2016,"Italy",3219,"UVP","L'Union Valdôtaine Progressiste","Progressive Valdotanian Union",,0,0,2013,"ITA"
-2016,"Spain",3301,"PSOE","Partido Socialista Obrero Español","The Socialist Party",22.01,25.7,0,2015,"ESP"
-2011,"Spain",3302,"PSOE(CA)","Partido Socialista Obrero Español al nível de las comunidades autónomas","The Socialist Party at the level of the autonomous communities",,,,,"ESP"
-2016,"Spain",3303,"PP","Partido Popular","The People’s Party",28.72,35.1,0,2015,"ESP"
-2011,"Spain",3304,"PP(CA)","Partido Popular al nível de las comunidades autónomas","The People’s Party at the level of the autonomous communities",,,,,"ESP"
-2011,"Spain",3305,"UPyD","Unión Progreso y Democracia","Union Progress and Democracy",1.2,,,,"ESP"
-2011,"Spain",3306,"CiU","Convergencia i Unió","Convergence and Union",3,,,,"ESP"
-2016,"Spain",3307,"SI","Solidaritat Catalana per la Independencia","Catalan Solidarity for Independence",,0,0,2015,"ESP"
-2016,"Spain",3308,"ERC","Esquerra Republicana de Catalunya","Republican Left of Catalonia",2.4,2.3,0,2015,"ESP"
-2016,"Spain",3309,"BNG","Bloque Nacionalista Galego","Galician Nationalist Block",,0,0,2015,"ESP"
-2011,"Spain",3310,"PNV","Partido Nacionalista Vasco/Euzko Alderdi Jeltzalea","Basque Nationalist Party",1.2,,,,"ESP"
-2011,"Spain",3311,"Aralar","Aralar","Aralar",,,,,"ESP"
-2011,"Spain",3312,"EA","Eusko Alkartasuna","Basque Solidarity",,,,,"ESP"
-2011,"Spain",3313,"Bildu","La coalición Bildu","Bildu coalition",,,,,"ESP"
-2011,"Spain",3314,"NA-BAI","Nafarroa Bai","Navarra Yes",0.2,,,,"ESP"
-2011,"Spain",3315,"UPN","Unión del pueblo Navarra","Navarrese People's Union",,,,,"ESP"
-2016,"Spain",3316,"AGE","Alternativa Galega de Esquerda","Galician Alternative of the Left",,0,0,2015,"ESP"
-2016,"Spain",3317,"Pod","Podemos","Podemos/We can",20.66,19.7,0,2015,"ESP"
-2016,"Spain",3318,"CDC","Convergència Democràtica de Catalunya","Democratic Convergence of Catalonia",2.25,2.3,0,2015,"ESP"
-2016,"Spain",3319,"Cs","Ciudadanos","Citizens Party",13.93,11.4,0,2015,"ESP"
-2016,"Spain",3320,"CUP","Candidatura d'Unitat Popular","Popular Unity Candidacy",,0,0,2015,"ESP"
-2016,"Spain",3321,"EAJ / PNV","Euzko Alderdi Jeltzalea / Partido Nacionalista Vasco","Basque Nationalist Party",1.19,1.7,0,2015,"ESP"
-2016,"Spain",3322,"EH Bildu","Euskal Herria Bildu / Reunir Euskal Herria","Basque Country Unite",0.87,0.6,0,2015,"ESP"
-2016,"United Kingdom",5101,"Con","The Conservative Party","The Conservative Party",36.8,50.8,0,2015,"GBR"
-2011,"United Kingdom",5102,"Con(region)","The Conservative Party, regional position","The Conservative Party, regional position",,,,,"GBR"
-2016,"United Kingdom",5103,"Lab","The Labour Party","The Labour Party",30.4,35.7,0,2015,"GBR"
-2011,"United Kingdom",5104,"Lab(region)","The Labour Party, regional position","The Labour Party, regional position",,,,,"GBR"
-2016,"United Kingdom",5105,"LD","Liberal Democrats","Liberal Democrats",7.9,1.2,0,2015,"GBR"
-2016,"United Kingdom",5106,"SNP","Scottish National Party","Scottish National Party",4.7,8.6,0,2015,"GBR"
-2011,"United Kingdom",5107,"SGP","Scots Green Pairty","Scottish Green Party",,,,,"GBR"
-2016,"United Kingdom",5108,"PC","Plaid Cymru","The Party of Wales",0.6,0.5,0,2015,"GBR"
-2016,"United Kingdom",5109,"SF","Sinn Fein","Sinn Fein",0.6,0.6,0,2015,"GBR"
-2016,"United Kingdom",5110,"SDLP","Social Democratic & Labour Party","Social Democratic & Labour Party",0.3,0.5,0,2015,"GBR"
-2016,"United Kingdom",5111,"DUP","Democratic Unionist Party","Democratic Unionist Party",0.6,1.2,0,2015,"GBR"
-2016,"United Kingdom",5112,"UUP","Ulster Unionist Party","Ulster Unionist Party",0.4,0.3,0,2015,"GBR"
-2016,"United Kingdom",5113,"Alliance","Alliance Party of Northern Ireland","Alliance Party of Northern Ireland",,0,0,2015,"GBR"
-2016,"United Kingdom",5114,"TUV","Traditional Unionist Voice","Traditional Unionist Voice",,0,0,2015,"GBR"
-2016,"United Kingdom",5115,"UKIP","United Kingdom Independence Party","United Kingdom Independence Party",12.6,0.2,0,2015,"GBR"
-2016,"Turkey",7401,"AKP","Adalet ve Kalkinma Partisi","Justice and Developement Party",49.5,57.6,0,2015,"TUR"
-2016,"Turkey",7402,"CHP","Cumhuriyet Halk Partisi","Republican People's Party",25.32,24.4,0,2015,"TUR"
-2016,"Turkey",7403,"MHP","Milliyetçi Hareket Partisi","National Movement Party",11.9,7.3,0,2015,"TUR"
-2011,"Turkey",7404,"BDP","Barış ve Demokrasi Partisi","Peace and Democracy Party",,,,,"TUR"
-2016,"Turkey",7405,"HDP","Halkların Demokratik Partisi","People's Democratic Party",10.76,10.7,0,2015,"TUR"
-2016,"Bosnia and Herzegovina",7901,"SDP","Socijaldemokratska Partija Bosne i Hercegovine","Social Democratic Party of BiH",9.45,7.1,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7902,"SDA","Stranka demokratske akcije","Party for Democratic Action",27.87,21.4,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7903,"SBB","Savez za bolju budućnost","Union for a Better Future",14.44,9.5,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7904,"SBIH","Stranka za Bosnu i Hercegovinu","Party for Bosnia and Herzegovina",2.61,0,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7905,"DNZ BiH","Demokratska narodna zajednica","Democratic People's Union of BiH",1.31,0,1,2014,"BIH"
-2016,"Bosnia and Herzegovina",7906,"A-SDA","Stranka demokratske aktivnosti","Party of Democratic Activity",2.25,2.4,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7907,"HDZ BiH","Hrvatska demokratska zajednica BiH","Croatian Democratic Union of BiH",12.15,9.5,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7908,"HDZ 1990","Hrvatska demokratska zajednica 1990","Croatian Democratic Union 1990",4.08,2.4,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7909,"HSP BiH","Hrvatska stranka prava Bosne i Hercegovine","Croatian Party of Rights of Bosnia and Herzegovina",0.56,0,1,2014,"BIH"
-2016,"Bosnia and Herzegovina",7910,"NSRZB","Narodna stranka radom za boljitak","People's Party Work for Betterment",1.31,0,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7911,"SNSD","Savez nezavisnih socijaldemokrata","Alliance of Independent Social Democrats",38.48,14.3,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7912,"SDS","Srpska demokratska stranka","Serbian Democratic Party",32.67,11.9,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7913,"PDP","Partija demokratskog progresa","Party of Democratic Progress",0.02,0,1,2014,"BIH"
-2016,"Bosnia and Herzegovina",7914,"DNS","Demokratski narodni savez","Democratic People's Alliance",5.72,2.4,1,2014,"BIH"
-2011,"Bosnia and Herzegovina",7915,"DP","Demokratska Partija Dragan Čavić","Democratic Party Dragan Čavić",,,,,"BIH"
-2016,"Bosnia and Herzegovina",7916,"SRS RS","Srpska radikalna stranka RS","Serb Radical Party of RS",5.72,0,1,2014,"BIH"
-2016,"Bosnia and Herzegovina",7917,"BPS","Bosanskohercegovačka patriotska stranka","Bosnian-Herzegovinian Patriotic Party",3.65,2.4,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7918,"SPS","Socijalistička partija","Socialist Party",2.89,0,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7919,"DF","Demokratska fronta","Democratic front",15.33,11.9,0,2014,"BIH"
-2016,"Bosnia and Herzegovina",7920,"NDP","Narodni demokratski pokret","National Democratic Movement",7.77,2.4,1,2014,"BIH"
-2016,"Bulgaria",8001,"GERB","Graždani za Evropejsko Razvitie na Bălgariya","Citizens for European Development of Bulgaria",32.7,35,0,2014,"BGR"
-2011,"Bulgaria",8002,"BSP","Balgarska socialisticheska partia","Bulgarian Socialist Party",17.7,,,,"BGR"
-2011,"Bulgaria",8003,"SDS","Sayuz na demokratichnite sili","Union of Democratic Forces",6.8,,,,"BGR"
-2011,"Bulgaria",8004,"DSB","Demokrati za silna Balgaria","Democrats for a Strong Bulgaria",6.8,,,,"BGR"
-2016,"Bulgaria",8005,"Ataka","Partiya Ataka","Party Attack",4.5,4.6,0,2014,"BGR"
-2016,"Bulgaria",8006,"DPS","Dviženie za Prava i Svobodi","Movement for Rights and Freedoms",14.8,15.8,0,2014,"BGR"
-2016,"Bulgaria",8007,"KzB","Koaliciya za Bălgariya","Coalition for Bulgaria",15.4,16.2,0,2014,"BGR"
-2016,"Bulgaria",8008,"RB","Reformatorski Blok","Reformist Block",8.9,14.3,0,2014,"BGR"
-2016,"Bulgaria",8009,"PF","Patriotichen front","Patriotic Front",7.3,7.9,0,2014,"BGR"
-2016,"Bulgaria",8010,"BBT","Bălgariya  bez tsenzura","Bulgaria without Censorship",5.7,6.2,0,2014,"BGR"
-2016,"Croatia",8101,"HDZ","Hrvatska demokratska zajednica","Croatian Democratic Union",33.46,39.1,0,2015,"HRV"
-2016,"Croatia",8102,"SDP","Socijaldemokratska partija Hrvatske","Social Democratic Party of Croatia",32.31,37.1,0,2015,"HRV"
-2011,"Croatia",8103,"HNS","Hrvatska narodna stranka - liberalni demokrati","Croatian People's Party - Liberal Democrats",7.1,,,,"HRV"
-2011,"Croatia",8104,"HSS","Hrvatska seljačka stranka","Croatian Peasant Party",6.8,,,,"HRV"
-2011,"Croatia",8105,"HSP","Hrvatska stranka prava","Croatian Party of Rights",3.5,,,,"HRV"
-2016,"Croatia",8106,"SDSS","Samostalna demokratska srpska stranka","Independent Democratic Serbian Party",2,2,0,2015,"HRV"
-2016,"Croatia",8107,"DPS","Demokratska partija Srba","Democratic Party of Serbs",2.61,0,1,2015,"HRV"
-2011,"Croatia",8108,"NSS","Nova srpska stranka","New Serbian party",,,,,"HRV"
-2016,"Croatia",8109,"SDAH","Stranka demokratske akcije Hrvatske","Party of Democratic Action of Croatia",,0,0,2015,"HRV"
-2016,"Croatia",8110,"HDSSB","Hrvatski demokratski sabor Slavonije i Baranje","Croatian Democratic Assembly of Slavonia and Baranja",1.4,1.3,0,2015,"HRV"
-2016,"Croatia",8111,"IDS","Istarski demokratski sabor","Istrian Democratic Assembly",1.83,2,0,2015,"HRV"
-2011,"Croatia",8112,"PGS","Primorsko-goranski savez","Alliance of Primorje-Gorski Kotar",6.8,,,,"HRV"
-2011,"Croatia",8113,"ARS","Autonomna regionalna stranka Hrvatskog primorja, Gorskog kotara, otoka i Rijeke","Autonomous Regional Party of the Croatian Primorje, Gorski kotar (Mountain district) and the island of Rijeka.",,,,,"HRV"
-2011,"Croatia",8114,"MDS","Međimurski demokratski savez","Medjimur Democratic Union",,,,,"HRV"
-2016,"Croatia",8115,"MOST","Most nezavisnih lista","Bridge of independent lists",13.17,12.6,0,2015,"HRV"
-2016,"Croatia",8116,"SNS","Srspka narodna stranka","Serb People's Party",,0,0,2015,"HRV"
-2016,"Estonia",8301,"IRL","Isamaa ja Res Publica Liit","Pro Patria and Res Publica Union",13.7,13.9,0,2015,"EST"
-2016,"Estonia",8302,"EK","Eesti Keskerakond","Estonian Center Party",24.8,26.7,0,2015,"EST"
-2016,"Estonia",8303,"RE","Eesti Reformierakond","Estonian Reform Party",27.7,29.7,0,2015,"EST"
-2016,"Estonia",8304,"SDE","Sotsiaaldemokraatlik Erakond","Social Democratic Party",15.2,14.9,0,2015,"EST"
-2016,"Estonia",8305,"VEE","Vene Erakond Eestis","Russian Party in Estonia",,0,0,2015,"EST"
-2016,"Estonia",8306,"EKRE","Eesti Konservatiivne Rahvaerakond","Conservative Peoples of Estonia",8.1,6.9,0,2015,"EST"
-2016,"Estonia",8307,"EVA","Eesti Vabaerakond","Estonian Free Party",8.7,7.9,0,2015,"EST"
-2011,"Latvia",8701,"PS","Pilsoniskā Savienība","Civic Union",31.2,,,,"LVA"
-2011,"Latvia",8702,"JL","Jaunais Laikas","New Era Party",31.2,,,,"LVA"
-2011,"Latvia",8703,"SCP","Sabiedrība Citai Politikai","Society for Other Politics",31.2,,,,"LVA"
-2016,"Latvia",8704,"SDPS","Sociāldemokrātiska Partija 'Saskaņa'","Social Democratic Party 'Harmony'",23,24,0,2014,"LVA"
-2011,"Latvia",8705,"LSP","Latvijas Sociālistiskā Partija","Latvian Socialist Party",26,,,,"LVA"
-2016,"Latvia",8706,"LZS","Latvijas Zemnieku Savienība","Latvian Peasants' Union",19.53,9,1,2014,"LVA"
-2016,"Latvia",8707,"LZP","Latvijas Zaļā Partija","Latvian Green Party",19.53,6,1,2014,"LVA"
-2011,"Latvia",8708,"VL","Visu Latvijai","All For Latvia",7.7,,,,"LVA"
-2011,"Latvia",8709,"TB-LNNK","Tēvzemei un Brīvībai/LNNK","Fatherland and Freedom",7.7,,,,"LVA"
-2011,"Latvia",8710,"TP","Tautas Partija","People's Party",7.7,,,,"LVA"
-2011,"Latvia",8711,"LPP-LC","Latvijas Pirmā Partija - Latvijas Ceļš","Latvia's First Party - Latvia's Way",7.7,,,,"LVA"
-2011,"Latvia",8712,"PCTVL","Par Cilvēka Tiesībām Vienotā Latvija","For Human Rights in United Latvia",1.4,,,,"LVA"
-2016,"Latvia",8713,"LKS/RSL","Latvijas Krievu savienība / Русский союз Латвии","Latvian Russian Union",1.58,0,0,2014,"LVA"
-2016,"Latvia",8714,"LRA","Latvijas Reģionu apvienība","Latvian Association of Regions",6.66,8,0,2014,"LVA"
-2016,"Latvia",8715,"NSL","No sirds Latvijai","For Latvia from the heart",6.85,7,0,2014,"LVA"
-2016,"Latvia",8716,"V","Partija 'Vienotība'","Unity' Party",21.87,23,0,2014,"LVA"
-2016,"Latvia",8717,"NA","Nacionālā Apvienība","National Alliance",16.61,17,0,2014,"LVA"
-2016,"Lithuania",8801,"TS-LKD","Tėvynės Sąjunga - Lietuvos Krikščionys Demokratai","Homeland Union - Christian Democrats of Lithuania",15.08,18.6,0,2012,"LTU"
-2011,"Lithuania",8802,"TPP","Tautos Prisikėlimo Partija","National Revival Party",15.1,,,,"LTU"
-2016,"Lithuania",8803,"TT","Tvarka ir teisingumas","Order and Justice",7.31,8.6,0,2012,"LTU"
-2016,"Lithuania",8804,"LSDP","Lietuvos socialdemokratu partija","Social Democratic Party of Lithuania",18.37,21.4,0,2012,"LTU"
-2016,"Lithuania",8805,"DP","Darbo partija","Labour Party",19.82,24.3,0,2012,"LTU"
-2016,"Lithuania",8806,"LLRA","Lietuvos lenku rinkimu akcija/Akcja Wyborcza Polaków na Litwie","Election Action of Lithuania's Poles",5.83,7.1,0,2012,"LTU"
-2016,"Lithuania",8807,"LRS","Lietuvos rusų sąjunga/Союз русских Литвы","Russian Union",,0,0,2012,"LTU"
-2016,"Lithuania",8808,"DK","„Drąsos kelias“ politinė partija","Courage Way Party",7.99,10,0,2012,"LTU"
-2016,"Lithuania",8809,"LRLS","Lietuvos Respublikos Liberalų Sąjūdis","Liberals' Movement of the Republic of Lithuania",8.57,10,0,2012,"LTU"
-2016,"Lithuania",8810,"RA","Rusų aljansas/Русский альянс","Russian Allliance",,0,0,2012,"LTU"
-2016,"Macedonia",8901,"VMRO-DPMNE","Внатрешна македонска револуционерна организација - Демократска партија за македонско национално единство","Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity",42.97,41.5,1,2014,"MKD"
-2016,"Macedonia",8902,"SDSM","Социјалдемократски сојуз на Македонија","Social Democratic Union of Macedonia",25.34,19.5,1,2014,"MKD"
-2011,"Macedonia",8903,"DUI","Demokratska unija za integracija","Democratic Union for Integration",10.2,,,,"MKD"
-2011,"Macedonia",8904,"DPA","Demokratska unija na Albancite","Democratic Party of Albanians",5.9,,,,"MKD"
-2011,"Macedonia",8905,"NDP","Nacionalna demokratska prerodba","National Democratic Revival",2.7,,,,"MKD"
-2011,"Macedonia",8906,"DPT","Demokratska Partija na Turcite na Makedonija","Democratic Party of Turks",39,,,,"MKD"
-2016,"Macedonia",8907,"DPSM","Демократска Партија на Србите во Македонија / Демократска Партија Срба у Македонији","Democratic Party of Serbs in Macedonia",42.97,0.8,1,2014,"MKD"
-2016,"Macedonia",8908,"DPA/PDSH","Демократската партија на Албанците / Partia Demokratike Shqiptare","Democratic Party of the Albanians",5.92,5.7,0,2014,"MKD"
-2016,"Macedonia",8909,"DPTM/TDP","Демократска Партија на Турците на Македонија / Türk Demokratik Partisi Makedonya","Democratic Party of Turks in Macedonia",42.97,0.8,1,2014,"MKD"
-2016,"Macedonia",8910,"DUI/BDI","Демократската унија за интеграција / Bashkimi Demokratik për Integrim","Democratic Union for Integration",13.71,15.4,0,2014,"MKD"
-2016,"Macedonia",8911,"NDP/RDK","Национална Демократска Преродба / Rilindja Demokratike Kombëtare","National Democratic Revival",1.59,0.8,0,2014,"MKD"
-2016,"Macedonia",8912,"PDTM/THP","Партија за движење на Турците во Македонија / Türk Hareket Partisi Makedonya","Party for the movement of Turks in Macedonia",25.34,0.8,1,2014,"MKD"
-2016,"Macedonia",8913,"SDAM","Странка на Демократска Акција на Македонија","Party for Democratic Action of Macedonia",42.97,0.8,1,2014,"MKD"
-2016,"Moldova",9001,"PCRM","Partidul Comuniştilor din Republica Moldova","Communists' Party of the Republic of Moldova",17.48,20.8,0,2014,"MDA"
-2016,"Moldova",9002,"PLDM","Partidul Liberal Democrat din Moldova","Liberal Democratic Party of Moldova",20.16,22.8,0,2014,"MDA"
-2016,"Moldova",9003,"PDM","Partidul Democrat din Moldova","Democratic Party of Moldova",15.8,18.8,0,2014,"MDA"
-2016,"Moldova",9004,"PL","Partidul Liberal","Liberal Party",9.67,12.9,0,2014,"MDA"
-2016,"Moldova",9005,"MSR","Mișcarea social-politică “Ravnopravie”","Social movement “Equal rights”",,0,0,2014,"MDA"
-2016,"Moldova",9006,"PSRM","Partidul Socialiştilor din Republica Moldova","Party of Socialists of the Republic of Moldova",20.51,24.8,0,2014,"MDA"
-2011,"Montenegro",9101,"DPS CG","Demokratska partija socijalista Crne Gore","Democratic Party of Socialists of Montenegro",51.9,,,,"MNE"
-2011,"Montenegro",9102,"SNP CG","Socijalistička narodna partija Crne Gore","Socialist People's Party of Montenegro",16.8,,,,"MNE"
-2016,"Montenegro",9103,"NOVA","Nova srpska demokratija","New Serb Democracy",23.19,9.9,1,2012,"MNE"
-2016,"Montenegro",9104,"DUA","Demokratska Unija Albanaca / Unioni Demokratik i Shqiptarëve","Democratic Union of Albanians",0.8,0,0,2012,"MNE"
-2016,"Montenegro",9105,"FORCA","Forca za jedinstvo / Forca per bashkim","Forca for Unity",1.47,1.2,0,2012,"MNE"
-2016,"Montenegro",9106,"DSCG","Demokratski Savez u Crnoj Gori / Lidhja Demokratike në Mal të Zi","Democratic League in Montenegro",1.07,0,1,2012,"MNE"
-2011,"Montenegro",9107,"KS-P","Albanska koalicija perspektiva","Albanian Coalition Perspective",0.8,,,,"MNE"
-2016,"Montenegro",9108,"HGI","Hrvatska Građanska Inicijativa","Croatian Civic Initiative",0.41,1.2,0,2012,"MNE"
-2016,"Montenegro",9109,"BS","Bošnjačka Stranka","Bosniak Party",4.24,3.7,0,2012,"MNE"
-2016,"Montenegro",9110,"SDP","Socijaldemokratska Partija Crne Gore","Social Democratic Party of Montenegro",46.33,11.1,1,2012,"MNE"
-2016,"Montenegro",9111,"DPS","Demokratska Partija Socijalista","Democratic Party of Socialists",46.33,35.8,1,2012,"MNE"
-2016,"Montenegro",9112,"PCG","Pozitivna Crna Gora","Positive Montenegro",8.37,8.6,0,2012,"MNE"
-2016,"Montenegro",9113,"PzP","Pokret za promjene","Movement for Changes",23.19,6.2,1,2012,"MNE"
-2016,"Montenegro",9114,"AA","Albanska alternativa / Alternativa Shqiptare","Albanian Alternative",1.07,1.2,1,2012,"MNE"
-2016,"Montenegro",9115,"SNP","Socijalistička Narodna Partija Crne Gore","Socialist People's Party of Montenegro",11.24,11.1,0,2012,"MNE"
-2016,"Poland",9201,"PO","Platforma Obywatelska","Civic Platform",24.09,30,0,2015,"POL"
-2016,"Poland",9202,"PiS","Prawo i Sprawiedliwość","Law and Justice",37.58,51.1,0,2015,"POL"
-2016,"Poland",9203,"SLD","Sojusz Lewicy Demokratycznej","Democratic Left Alliance",7.55,0,1,2015,"POL"
-2016,"Poland",9204,"PSL","Polskie Stronnictwo Ludowe","Polish People's Party",5.13,3.5,0,2015,"POL"
-2016,"Poland",9205,"MN","Mniejszość Niemiecka/Deutsche Minderheit","German Minority Electoral Committee",0.18,0.2,0,2015,"POL"
-2011,"Poland",9206,"RAS","Ruch Autonomii Śląska","Silesian Autonomy Movement",,,,,"POL"
-2016,"Poland",9207,".N","Nowoczesna","Modern Political Party",7.6,6.1,0,2015,"POL"
-2016,"Poland",9208,"Kukiz","Kukiz'15","Kukiz'15",8.81,9.1,0,2015,"POL"
-2016,"Romania",9301,"PSD","Partidul Social Democrat","Social Democratic Party",58.6,36.4,1,2012,"ROU"
-2011,"Romania",9302,"PD-L","Partidul Democrat-Liberal","Democratic Liberal Party",32.4,,,,"ROU"
-2016,"Romania",9303,"PNL","Partidul Naţional Liberal","National Liberal Party",58.6,24.3,1,2012,"ROU"
-2011,"Romania",9304,"PRM","Partidul România Mare","Greater Romania Party",3.2,,,,"ROU"
-2016,"Romania",9305,"UDMR-RMDSZ","Uniunea Democrată Maghiară din România","Democratic Union of Hungarians in Romania",5.15,4.4,0,2012,"ROU"
-2016,"Romania",9306,"PCM-MPP","Partidul Civic Maghiar - Magyar Polgári Párt","Hungarian Civic Party",,0,0,2012,"ROU"
-2016,"Romania",9307,"FDGR","Forumul Democrat al Germanilor din România","Democratic Forum of Germans in Romania",0.53,0,0,2012,"ROU"
-2016,"Romania",9308,"ALDE","Alianța Liberalilor și Democraților","Alliance of Liberals and Democrats",,0,0,2012,"ROU"
-2016,"Romania",9309,"PMP","Partidul Mișcarea Populară","People's Movement Party",,0,0,2012,"ROU"
-2016,"Romania",9310,"PPMT-EMNP","Erdélyi Magyar Néppárt/Partidul Popular Maghiar din Transilvania","Hungarian People's Party of Transylvania",0.64,0,0,2012,"ROU"
-2016,"Serbia",9501,"DS","Demokratska stranka","Democratic Party",6.02,6,1,2016,"SRB"
-2016,"Serbia",9502,"SNS","Srpska napredna stranka","Serbian Progressive Party",48.25,40.8,1,2016,"SRB"
-2016,"Serbia",9503,"SRS","Srpska radikalna stranka","Serbian Radical Party",8.1,8.8,0,2016,"SRB"
-2016,"Serbia",9504,"DSS","Demokratska Stranka Srbije","Democratic Party of Serbia",5.04,2.4,1,2016,"SRB"
-2016,"Serbia",9505,"SPS","Socijalistička partija Srbije","Socialist Party of Serbia",10.95,9.2,1,2016,"SRB"
-2011,"Serbia",9506,"LDP","Liberalno-demokratska partija","Liberal Democratic Party",5.2,,,,"SRB"
-2016,"Serbia",9507,"SVM","Savez vojvođanskih Mađara / Vajdasági Magyar Szövetség","Alliance of Vojvodina Hungarians",1.5,1.6,0,2016,"SRB"
-2016,"Serbia",9508,"DSVM","Demokratska Stranka Vojvođanskih Mađara / Vajdasági Magyar Demokrata Párt","Democratic Party of Vojvodina Hungarians",,0,0,2016,"SRB"
-2011,"Serbia",9509,"SDP","Sandžacka demokratska partija","Sandzak Democratic Party",38.4,,,,"SRB"
-2016,"Serbia",9510,"SDA","Stranka Demokratske Akcije Sandžaka","Party of Democratic Action of Sandžak",0.8,0.8,0,2016,"SRB"
-2016,"Serbia",9511,"BDZ","Bošnjačka demokratska zajednica Sandžaka","Bosniak Democratic Union of Sandžak",0.86,0.8,0,2016,"SRB"
-2011,"Serbia",9512,"PDD","Partija za demokratsko delovanje","Party for Democratic Action",0.4,,,,"SRB"
-2016,"Serbia",9513,"DPA","Demokratska Partija Albanaca / Partia Demokratike Shqiptare","Democratic Party of Albanians",,0,0,2016,"SRB"
-2016,"Serbia",9514,"DSHV","Demokratski Savez Hrvata u Vojvodini","Democratic Alliance of Croats in Vojvodina",6.02,0.4,1,2016,"SRB"
-2016,"Serbia",9515,"DJB","Dosta je bilo","It's enough",6.02,6.4,0,2016,"SRB"
-2016,"Serbia",9517,"Dveri","Dveri","Doors",5.04,2.8,1,2016,"SRB"
-2016,"Serbia",9518,"LSV","Liga socijaldemokrata Vojvodine","League of Vojvodina Social Democrats",5.02,1.6,1,2016,"SRB"
-2016,"Serbia",9519,"SDPS","Socijaldemokratska partija Srbije","Social Democratic Party of Serbia",48.25,4,1,2016,"SRB"
-2016,"Serbia",9521,"ZES","Zelena stranka","Green party",0.63,0.4,0,2016,"SRB"
-2016,"Serbia",9522,"PZDD","Partija za demokratsko delovanje / Partia për vertim demokratik","Party for democratic action",0.43,0.4,0,2016,"SRB"
-2016,"Slovakia",9601,"SMER-SD","Smer – sociálna demokracia","Direction – Social Democracy",28.3,32.7,0,2016,"SVK"
-2011,"Slovakia",9602,"SDKÚ-DS","Slovenská demokratická a kresťanská únia – Demokratická strana","Slovak Democratic and Christian Union – Democratic Party",15.4,,,,"SVK"
-2011,"Slovakia",9603,"KDH","Kresťanskodemokratické hnutie","Christian Democratic Movement",8.5,,,,"SVK"
-2016,"Slovakia",9604,"SAS","Sloboda a Solidarita","Freedom and Solidarity",12.1,14,0,2016,"SVK"
-2016,"Slovakia",9605,"SNS","Slovenská národná strana","Slovak National Party",8.6,10,0,2016,"SVK"
-2016,"Slovakia",9606,"Most-Hid","Most–Híd","Bridge (Most–Híd)",6.5,7.3,0,2016,"SVK"
-2016,"Slovakia",9607,"SMK-MKP","Strana maďarskej koalície – Magyar Koalíció Pártja","Party of the Hungarian Coalition",,0,0,2016,"SVK"
-2016,"Slovakia",9608,"L'SNS","Ľudová strana – Naše Slovensko","People's Party - our Slovakia",8,9.3,0,2016,"SVK"
-2016,"Slovakia",9609,"OL'aNO-NOVA","Obyčajní Ľudia a nezávislé osobnosti","Ordinary People and Independent Personalities",11,12.7,0,2016,"SVK"
-2016,"Slovakia",9610,"SIET","SIET","Network",5.6,6.7,0,2016,"SVK"
-2011,"Ukraine",9801,"PR","Partia rehioniv","Party of Regions",34.4,,,,"UKR"
-2016,"Ukraine",9802,"БЮТ","Блок Юлії Тимошенко","Bloc Yulia Tymoshenko",5.68,4.5,0,2014,"UKR"
-2011,"Ukraine",9803,"NUNS","Blok Nasha Ukraina - Narodna samooborona","Bloc Our Ukraine - People's Self-Defense",14.1,,,,"UKR"
-2011,"Ukraine",9804,"KPU","Komunistychna partia Ukrainy","Communist Party of Ukraine",5.4,,,,"UKR"
-2011,"Ukraine",9805,"Rukh","Narodnyi rukh Ukrainy","People's Movement of Ukraine",,,,,"UKR"
-2011,"Ukraine",9806,"Soiuz","Soiuz","Union",,,,,"UKR"
-2011,"Ukraine",9807,"Russkoe edinstvo","Russkoe edinstvo","Russian Unity",,,,,"UKR"
-2011,"Ukraine",9808,"Sylna Ukraina","Sylna Ukraina","Strong Ukraine",,,,,"UKR"
-2016,"Ukraine",9809,"Нф","Народний фронт","People's Front",22.14,19.4,0,2014,"UKR"
-2016,"Ukraine",9810,"ОБ","Опозиційний блок","Opposition Bloc",9.43,6.9,0,2014,"UKR"
-2016,"Ukraine",9811,"РП","Радикальна Партія","Radical Party of Oleh Lyashko",7.44,5.2,0,2014,"UKR"
-2016,"Ukraine",9812,"Самопоміч","Об'єднання «Самопоміч»","Self Reliance Party",10.97,7.8,0,2014,"UKR"
-2016,"Ukraine",9813,"Свобода","Всеукраїнське об’єднання «Свобода»","All-Ukrainian Union Svoboda ""Freedom""",4.71,1.4,0,2014,"UKR"
-2016,"Ukraine",9814,"Солідарність","Блок Петра Порошенка «Солідарність»","Petro Poroshenko Bloc ""Solidarity""",21.82,31.2,0,2014,"UKR"
-2016,"Kosovo",9901,"PDK","Partia Demokratike e Kosovës","Democratic Party of Kosovo",30.38,30.8,0,2014,"XKX"
-2016,"Kosovo",9902,"LDK","Lidhja Demokratike e Kosovës","Democratic League of Kosovo",25.24,25,0,2014,"XKX"
-2016,"Kosovo",9903,"VV","Lëvizja Vetëvendosje!","Self-Determination Movement",13.59,13.3,0,2014,"XKX"
-2016,"Kosovo",9904,"AAK","Aleanca për Ardhmërinë e Kosovës","Alliance for the Future of Kosovo",9.54,9.2,0,2014,"XKX"
-2011,"Kosovo",9905,"KKR","Koalicioni për Kosovë të","New Kosovo Coalition",7.3,,,,"XKX"
-2016,"Kosovo",9906,"SLS","Samostalna liberalna stranka","Independent Liberal Party",5.22,3.3,1,2014,"XKX"
-2011,"Kosovo",9907,"JSL","Jedinstvena srpska lista","Unique Serbian List",0.9,,,,"XKX"
-2011,"Kosovo",9908,"SDSKIM","Srpska demokratska stranka Kosova i Metohije","Serb Democratic Party of Kosovo and Metohija",0.1,,,,"XKX"
-2016,"Kosovo",9909,"NDS","Nova demokratska stranka","New Democratic Party",0.39,0.8,0,2014,"XKX"
-2016,"Kosovo",9910,"BSDAK","Bošnjačka stranka demokratske akcije Kosova","Bosniak Party of Democratic Action of Kosovo",0.1,0,0,2014,"XKX"
-2016,"Kosovo",9911,"KV","Koalicija Vakat","Vakat Coalition",0.89,1.7,0,2014,"XKX"
-2016,"Kosovo",9912,"KDTP","Kosova Demokratik Türk Partisi","Kosovo Turkish Democratic Party",1.02,1.7,0,2014,"XKX"
-2016,"Kosovo",9913,"GIG","Građanska inicijativa Gore","Civic Initiative of Gora",0.16,0,1,2014,"XKX"
-2016,"Kosovo",9914,"JGP","Jedinstvena goranska partija","Unique Goranian Party",0.16,0.8,1,2014,"XKX"
-2016,"Kosovo",9915,"KNRP","Kosovaki nevi romani partia","Kosovar New Romani Party",0.09,0.8,0,2014,"XKX"
-2016,"Kosovo",9916,"NISMA","Nisma për Kosovën","Initiative for Kosovo",5.15,5,0,2014,"XKX"
-2016,"Kosovo",9917,"PAI","Partia e Ashkalinjëve për Integrim","Ashkali Party for Integration",0.22,0.8,0,2014,"XKX"
-2016,"Kosovo",9918,"PDS","Progresivna demokratska stranka","Progressive Democratic Party",0.82,0.8,0,2014,"XKX"
-2016,"Kosovo",9919,"PLE","Partia Liberale Egjiptiane","Egyptian Liberal Party",0.27,0.8,0,2014,"XKX"
-2016,"Kosovo",9920,"PDAK","Partia Demokratike e Ashkanlive të Kosovës","Democratic Ashkali Party of Kosovo",0.46,0.8,0,2014,"XKX"
-2016,"Kosovo",9921,"Srpska","Srpska lista","Serb List",5.22,7.5,1,2014,"XKX"
-2016,"Kosovo",9922,"SD","Socijaldemokratija","Social Democracy",5.22,0,1,2014,"XKX"
+countrycode,party_id,name_short,name,name_english,year_first,year_last,share_year,share,regonly
+BEL,2101,N-VA,Nieuw-Vlaams Alliantie,New Flemish Alliance,2010,2014,2014,20.26,0
+BEL,2102,VB,Vlaams Belang,Flemish Interest,2010,2014,2010,7.76,0
+BEL,2103,CD&V,Christen-Democratisch en Vlaams,"Christian, Democratic and Flemish Party",2010,2014,2014,11.61,0
+BEL,2104,VLD,Open Vlaamse Liberalen en Democraten,Open Flemish Liberals and Democrats,2010,2014,2014,9.78,0
+BEL,2105,PS,Parti Socialiste,Socialist Party,2010,2014,2010,13.7,0
+BEL,2106,MR,Mouvement Réformateur,Reformist Movement,2010,2014,2014,9.64,0
+BEL,2107,SP.A,Socialistische Partij Anders,Socialist Party Different,2010,2014,2010,9.24,0
+BEL,2108,UF,Union des Francophones,Union of Francophones,2010,2010,,,1
+BEL,2109,ProDG,Pro Deutschsprachige Gemeinschaft,Pro German-speaking Community,2010,2014,,,1
+BEL,2110,DéFI,Démocrate Fédéraliste Indépendant,Francophone Democratic Federalists,2014,2014,,,1
+BEL,2111,Ecolo,Écologistes Confédérés pour l'organisation de luttes originales,Confederated ecologists for the organisation of original struggle,2014,2014,2014,3.3,0
+BEL,2112,Groen,Groen,Green,2014,2014,2014,5.32,0
+BEL,2113,PP,Parti populaire,Peoples Party,2014,2014,2014,1.52,0
+BGR,8001,GERB,Grazhdani za Evropejsko Razvitie na Balgaria,Citizens for European Development of Bulgaria,2009,2014,2009,39.72,0
+BGR,8002,BSP,Balgarska Socialisticheska Partiya,Bulgarian Socialist Party,2009,2014,2009,17.7,0
+BGR,8003,SDS,Sayuz na Demokratichnite Sili,Union of Democratic Forces,2009,2009,2009,6.76,0
+BGR,8004,DSB,Demokrati za Silna Bulgaria,Democrats for a Strong Bulgaria,2009,2009,2009,6.76,0
+BGR,8005,Ataka,Partija Ataka,Party Attack,2009,2014,2009,9.36,0
+BGR,8006,DPS,Dviženie za Prava i Svobodi,Movement for Rights and Freedoms,2009,2014,2014,14.8,0
+BGR,8008,RB,Reformatorski Blok,Reformist Block,2014,2014,2014,8.9,0
+BGR,8009,PF,Patriotichen front,Patriotic Front,2014,2014,2014,7.3,0
+BGR,8010,BBT,Bălgariya  bez tsenzura,Bulgaria without Censorship,2014,2014,2014,5.7,0
+BIH,7901,SDP,Socijaldemokratska Partija Bosne i Hercegovine,Social Democratic Party of BiH,2010,2014,2010,26.07,0
+BIH,7902,SDA,Stranka demokratske akcije,Party for Democratic Action,2010,2014,2014,27.87,0
+BIH,7903,SBB,Savez za bolju budućnost,Union for a Better Future,2010,2014,2014,14.44,0
+BIH,7904,SBiH,Stranka za Bosnu i Hercegovinu,Party for Bosnia and Herzegovina,2010,2014,2010,7.25,0
+BIH,7905,DNZ BIH,Demokratska Narodna Zajednica,Democratic People's Union of BiH,2010,2014,2010,1.45,0
+BIH,7906,A-SDA,Stranka demokratske aktivnosti,Party of Democratic Activity,2010,2014,2014,2.25,0
+BIH,7907,HDZ BiH,Hrvatska demokratska zajednica BiH,Croatian Democratic Union of BiH,2010,2014,2014,12.15,0
+BIH,7908,HDZ1990-,Hrvatska demokratska zajednica 1990,Croatian Democratic Union 1990,2010,2014,2010,4.86,0
+BIH,7909,HSP- BiH,Hrvatska Stranka Prava,Croatian Party of Right,2010,2014,2010,4.86,0
+BIH,7910,NSRZB,Narodna Stranka Radom za Boljitak,People's Party Work for Betterment,2010,2014,2010,4.81,0
+BIH,7911,SNSD,Savez Nezavisnih Socijaldemokrata,Alliance of Independent Social Democrats,2010,2014,2010,43.3,0
+BIH,7912,SDS,Srpska demokratska stranka,Serbian Democratic Party,2010,2014,2014,32.67,0
+BIH,7913,PDP,Partija Demokratskog Progresa,Party of Democratic Progress,2010,2014,2010,6.45,0
+BIH,7914,DNS,Demokratski narodni savez,Democratic People's Alliance,2010,2014,2014,5.72,0
+BIH,7915,NDP,Narodni demokratski pokret,National Democratic Movement,2010,2014,2014,7.77,0
+BIH,7916,SRS RS,Srpska radikalna stranka RS,Serb Radical Party of RS,2010,2014,2014,5.72,0
+BIH,7917,BPS,Bosanskohercegovačka patriotska stranka,Bosnian-Herzegovinian Patriotic Party,2014,2014,2014,3.65,0
+BIH,7918,SPS,Socijalistička partija,Socialist Party,2014,2014,2014,2.89,0
+BIH,7919,DF,Demokratska fronta,Democratic front,2014,2014,2014,15.33,0
+ESP,3301,PSOE,Partido Socialista Obrero Español,The Socialist Party,2008,2015,2008,43.9,0
+ESP,3302,PSOE(CA),Partido Socialista Obrero Español al nível de las comunidades autónomas*,The Socialist Party at the level of the autonomous communities*,2008,2008,,,1
+ESP,3303,PP,Partido Popular,The People's Party,2008,2015,2008,39.9,0
+ESP,3304,PP(CA),Partido Popular al nível de las comunidades autónomas*,The People's Party at the level of the autonomous communities*,2008,2008,,,1
+ESP,3305,UPyD,Unión Progreso y Democracia,Union Progress and Democracy,2008,2008,2008,1.2,0
+ESP,3306,CiU,Convergencia i Unió,Convergence and Union,2008,2015,2008,3,0
+ESP,3307,SI,Solidaritat Catalana per la Independencia,Catalan Solidarity for Independence,2008,2015,2015,0,0
+ESP,3308,ERC,Esquerra Republicana de Catalunya,Republican Left of Catalonia,2008,2015,2015,2.4,0
+ESP,3309,BNG,Bloque Nacionalista Galego,Galician Nationalist Block,2008,2015,2008,0.8,0
+ESP,3310,PNV,Partido Nacionalista Vasco/Euzko Alderdi Jeltzalea,Basque Nationalist Party,2008,2015,2008,1.2,0
+ESP,3311,Aralar,Aralar,Aralar,2008,2008,,,1
+ESP,3312,EA,Eusko Alkartasuna,Basque Solidarity,2008,2008,,,1
+ESP,3313,EH Bildu,Euskal Herria Bildu / Reunir Euskal Herria,Basque Country Unite,2008,2015,2015,0.87,0
+ESP,3314,NA-BAI,Nafarroa Bai,Navarra Yes,2008,2008,2008,0.2,0
+ESP,3315,UPN,Unión del pueblo Navarra,Navarrese People's Union,2008,2008,,,1
+ESP,3316,AGE,Alternativa Galega de Esquerda,Galician Alternative of the Left,2015,2015,,,1
+ESP,3317,Pod,Podemos,Podemos/We can,2015,2015,2015,20.66,0
+ESP,3319,Cs,Ciudadanos,Citizens Party,2015,2015,2015,13.93,0
+ESP,3320,CUP,Candidatura d'Unitat Popular,Popular Unity Candidacy,2015,2015,,,1
+EST,8301,IRL,Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,2011,2015,2011,20.5,0
+EST,8302,EK,Eesti Keskerakond,Estonian Center Party,2011,2015,2015,24.8,0
+EST,8303,RE,Eesti Reformierakond,Estonian Reform Party,2011,2015,2011,28.6,0
+EST,8304,SDE,Sotsiaaldemokraatlik Erakond,Social Democratic Party,2011,2015,2011,17.1,0
+EST,8305,VEE,Vene Erakond Eestis,Russian Party in Estonia,2011,2015,2011,0.9,0
+EST,8306,EKRE,Eesti Konservatiivne Rahvaerakond,Conservative Peoples of Estonia,2015,2015,2015,8.1,0
+EST,8307,EVA,Eesti Vabaerakond,Estonian Free Party,2015,2015,2015,8.7,0
+FIN,1401,Kok,Kansallinen Kokoomus r.p.,National Coalition Party,2011,2015,2011,20.4,0
+FIN,1402,PS,Perussuomalaiset,True Finns,2011,2015,2015,21.1,0
+FIN,1403,Kesk,Suomen Keskusta,Center Party of Finland,2011,2015,2015,15.8,0
+FIN,1404,SDP,Suomen Sosialidemokraattinen Puolue,Social Democratic Party of Finland,2011,2015,2011,19.1,0
+FIN,1405,Vas,Vasemmistoliitto,Left Alliance,2011,2015,2011,8.1,0
+FIN,1406,Vihr,Vihreä liitto,Green League,2011,2015,2015,8.53,0
+FIN,1407,SFP,Svenska folkpartiet i Finland / Suomen ruotsalainen kansanpuolue,Swedish People's Party in Finland,2011,2015,2015,4.9,0
+FIN,1408,AF,Ålands Framtid,Future of Aland,2011,2015,,,1
+FIN,1409,AD,Åländsk Demokrati,Alandic Democracy,2015,2015,,,1
+FRA,3101,UMP,Union pour un mouvement populaire,Union for a Popular Movement,2007,2012,2007,39.54,0
+FRA,3102,PS,Parti socialiste,Socialist Party,2007,2012,2012,29.35,0
+FRA,3103,FN,Front national,National Front,2007,2012,2012,13.6,0
+FRA,3104,PNC,Partitu di a Nazione Corsa / Parti de la nation corse,Party of the corse nation,2007,2012,,,1
+FRA,3105,CL,Corsica Libera,Free Corsica,2007,2012,,,1
+FRA,3106,Unser,Unser Land - Le Parti Alsacien,Our Land - the Alsatian party,2007,2007,,,1
+FRA,3107,UDB,Union Démocratique Bretonne/Unvaniezh Demokratel Breizh,Breton Democratic Union,2007,2007,,,1
+FRA,3108,P�c,Parti Occitan,Occitan Party,2007,2007,,,1
+FRA,3109,Inseme,Inseme per a Corsica / Ensemble pour la Corse,Together for Corsica,2012,2012,,,1
+FRA,3110,Chjama,A Chjama Naziunale,The national call,2012,2012,,,1
+FRA,3111,EELV,Europe Écologie – Les Verts,Europe Ecology - The Greens,2012,2012,2012,5.46,0
+FRA,3112,FDG,Front de Gauche,Left Front,2012,2012,2012,6.91,0
+GBR,5101,Con,The Conservative Party,The Conservative Party,2010,2015,2015,36.8,0
+GBR,5102,Con(reg),"The Conservative Party, regional position","The Conservative Party, regional position",2010,2010,,,1
+GBR,5103,Lab,The Labour Party,The Labour Party,2010,2015,2015,30.4,0
+GBR,5104,Lab(reg),"The Labour Party, regional position*","The Labour Party, regional position*",2010,2010,,,1
+GBR,5105,LD,Liberal Democrats,Liberal Democrats,2010,2015,2010,23,0
+GBR,5106,SNP,Scottish National Party,Scottish National Party,2010,2015,2015,4.7,0
+GBR,5107,SGP,Scots Green Pairty,Scottish Green Party,2010,2010,,,1
+GBR,5108,PC,Plaid Cymru,The Party of Wales,2010,2015,2015,0.6,0
+GBR,5109,SF,Sinn Fein,Sinn Fein,2010,2015,2015,0.6,0
+GBR,5110,SDLP,Social Democratic & Labour Party,Social Democratic & Labour Party,2010,2015,2010,0.4,0
+GBR,5111,DUP,Democratic Unionist Party,Democratic Unionist Party,2010,2015,2015,0.6,0
+GBR,5112,UUP,Ulster Unionist Party,Ulster Unionist Party,2010,2015,2015,0.4,0
+GBR,5113,Alliance,Alliance Party of Northern Ireland,Alliance Party of Northern Ireland,2010,2015,2010,0.1,0
+GBR,5114,TUV,Traditional Unionist Voice,Traditional Unionist Voice,2010,2015,,,1
+GBR,5115,UKIP,United Kingdom Independence Party,United Kingdom Independence Party,2015,2015,2015,12.6,0
+HRV,8101,HDZ,Hrvatska demokratska zajednica,Croatian Democratic Union,2007,2015,2007,34.91,0
+HRV,8102,SDP,Socijaldemokratska partija Hrvatske,Social Democratic Party of Croatia,2007,2015,2007,32.5,0
+HRV,8103,HNS,Hrvatska narodna stranka - liberalni demokrati,Croatian People's Party - Liberal Democrats,2007,2007,2007,7.05,0
+HRV,8104,HSS,Hrvatska selja?ka stranka,Croatian Peasant Party,2007,2007,2007,6.77,0
+HRV,8105,HSP,Hrvatska stranka prava,Croatian Party of Rights,2007,2007,2007,3.47,0
+HRV,8106,SDSS,Samostalna demokratska srpska stranka,Independent Democratic Serbian Party,2007,2015,2015,2,0
+HRV,8107,DPS,Demokratska partija Srba,Democratic Party of Serbs,2007,2015,2015,2.61,0
+HRV,8108,NSS,Nova srpska stranka,New Serbian party,2007,2007,,,1
+HRV,8109,SDAH,Stranka demokratske akcije Hrvatske,Party of Democratic Action of Croatia,2007,2015,2007,0.65,0
+HRV,8110,HDSSB,Hrvatski demokratski sabor Slavonije i Baranje,Croatian Democratic Assembly of Slavonia and Baranja,2007,2015,2007,1.86,0
+HRV,8111,IDS,Istarski demokratski sabor,Istrian Democratic Assembly,2007,2015,2015,1.83,0
+HRV,8112,PGS,Primorsko-goranski savez,Alliance of Primorje-Gorski Kotar,2007,2007,2007,6.77,0
+HRV,8113,ARS,"Autonomna regionalna stranka Hrvatskog primorja, Gorskog kotara, otoka i Rijeke","Autonomous Regional Party of the Croatian Primorje, Gorski kotar (Mountain district) and the island of Rijeka.",2007,2007,,,1
+HRV,8114,MDS,Medjimurski demokratski savez,Medjimur Democratic Union,2007,2007,,,1
+HRV,8115,MOST,Most nezavisnih lista,Bridge of independent lists,2015,2015,2015,13.17,0
+HRV,8116,SNS,Srspka narodna stranka,Serb People's Party,2015,2015,,,1
+ITA,3201,PdL,Popolo della liberta,The People of freedom,2008,2013,2008,37.38,0
+ITA,3202,PD,Partito Democratico,Democratic Party,2008,2013,2008,33.18,0
+ITA,3203,LN,Lega Nord,Northern League,2008,2013,2008,8.3,0
+ITA,3204,PNE,Progetto NordEst,North-East Project,2008,2008,,,1
+ITA,3205,MPA,Movimento per le Autonomie,Movement for Autonomy,2008,2008,2008,1.13,0
+ITA,3206,NS,Noi Sud - Liberta e Autonomia,We the South - Freedom and Autonomy,2008,2008,,,1
+ITA,3207,SVP/PPS,Südtiroler Volkspartei / Partito Popolare Sudtirolese,South Tyrolean People's Party,2008,2013,2013,0.43,0
+ITA,3208,UpT,Unione per il Trentino,Union for Trentino,2008,2008,,,1
+ITA,3209,PATT,Partito Autonomista Trentino Tirolese,Trentino Tyrolean Autonomist Party,2008,2008,,,1
+ITA,3210,STF/LST,Süd-Tiroler Freiheit / Libertà Sud-Tirolese,South Tyrolean Freedom,2008,2013,,,1
+ITA,3211,BU,BürgerUnion / Unione per il Sudtirolo,Union for South Tyrol,2008,2013,2008,0.04,0
+ITA,3212,UV,Union Valdôtaine,Valdotanian Union,2008,2013,,,1
+ITA,3213,ALPE,Autonomie Liberta Participation �cologie,"Autonomy, Liberty, Participation, Ecology",2008,2008,,,1
+ITA,3214,PSd'Az,Partitu Sardu / Partito Sardo d'Azione,Sardinian Action Party,2008,2013,2013,0.05,0
+ITA,3215,UDS,Unione Democratica Sarda – Progetto Nazionalitario,Sardinian Democratic Union,2008,2013,,,1
+ITA,3216,M5S,Movimento 5 Stelle,Five Star Movement,2013,2013,2013,25.56,0
+ITA,3217,RS,Riformatori Sardi,Sardinian Reformers,2013,2013,,,1
+ITA,3218,SC,Scelta Civica,Civic Choice,2013,2013,2013,8.3,0
+ITA,3219,UVP,L'Union Valdôtaine Progressiste,Progressive Valdotanian Union,2013,2013,,,1
+LTU,8801,TS-LKD,Tevynes Sajunga - Lietuvos Krikscionys Demokratai,Homeland Union - Christian Democrats of Lithuania,2008,2012,2008,19.72,0
+LTU,8802,TPP,Tautos Prisikelimo Partija,National Revival Party,2008,2008,2008,15.09,0
+LTU,8803,TT,Tvarka ir teisingumas,Order and Justice,2008,2012,2008,12.68,0
+LTU,8804,LSDP,Lietuvos socialdemokratu partija,Social Democratic Party of Lithuania,2008,2012,2012,18.37,0
+LTU,8805,DP,Darbo partija,Labour Party,2008,2012,2012,19.82,0
+LTU,8806,LLRA,Lietuvos lenku rinkimu akcija/Akcja Wyborcza Polaków na Litwie,Election Action of Lithuania's Poles,2008,2012,2012,5.83,0
+LTU,8807,LRS,Lietuvos rusų sąjunga,Lithuanian Russian Union,2008,2012,2008,0.92,0
+LTU,8808,DK,„Drąsos kelias“ politinė partija,Courage Way Party,2012,2012,2012,7.99,0
+LTU,8809,LRLS,Lietuvos Respublikos Liberalų Sąjūdis,Liberals' Movement of the Republic of Lithuania,2012,2012,2012,8.57,0
+LVA,8701,PS,Pilsoniska Savieniba,Civic Union,2010,2014,2010,31.2,0
+LVA,8702,JL,Jaunais Laikas,New Era Party,2010,2010,2010,31.2,0
+LVA,8703,SCP,Sabiedriba Citai Politikal,Society for Other Politics,2010,2010,2010,31.2,0
+LVA,8704,SDPS,Socialdemokratiska Partija 'Saskana',Social Democratic Party 'Harmony',2010,2014,2010,26,0
+LVA,8705,LSP,Latvijas Socialistiska Partija,Latvian Socialist Party,2010,2010,2010,26,0
+LVA,8706,LZS,Centriska Partija - Latvijas Zemnieku Savieniba,Centre Party - Latvian Peasants' Union,2010,2014,2010,19.7,0
+LVA,8707,LZP,Latvijas Zala Partija,Latvian Green Party,2010,2014,2010,19.7,0
+LVA,8708,VL,Visu Latvijai,All For Latvia,2010,2010,2010,7.7,0
+LVA,8709,NA,Nacionālā Apvienība,National Alliance,2010,2014,2014,16.61,0
+LVA,8710,TP,Tautas Partija,People's Party,2010,2010,2010,7.7,0
+LVA,8711,LPP-LC,Latvijas Pirm? Partija - Latvijas Ce?�,Latvia's First Party - Latvia's Way,2010,2010,2010,7.7,0
+LVA,8712,LKS/RSL,Latvijas Krievu savienība / Русский союз Латвии,Latvian Russian Union,2010,2014,2014,1.58,0
+LVA,8714,LRA,Latvijas Reģionu apvienība,Latvian Association of Regions,2014,2014,2014,6.66,0
+LVA,8715,NSL,No sirds Latvijai,For Latvia from the heart,2014,2014,2014,6.85,0
+MDA,9001,PCRM,Partidul Comuniştilor din Republica Moldova,Party of Communists of the Republic of Moldova,2010,2014,2010,39.32,0
+MDA,9002,PLDM,Partidul Liberal Democrat din Moldova,Liberal Democratic Party of Moldova,2010,2014,2010,29.42,0
+MDA,9003,PDM,Partidul Democrat din Moldova,Democratic Party of Moldova,2010,2014,2014,15.8,0
+MDA,9004,PL,Partidul Liberal,Liberal Party,2010,2014,2010,9.96,0
+MDA,9005,MSR,Mişcarea social-politica Ravnopravie,Social-political Movement Ravnopravie (Equality),2010,2014,2010,0.1,0
+MDA,9006,PSRM,Partidul Socialiştilor din Republica Moldova,Party of Socialists of the Republic of Moldova,2014,2014,2014,20.51,0
+MKD,8901,VMRO-DPMNE,Внатрешна македонска револуционерна организација - Демократска партија за македонско национално единство,Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity,2011,2014,2014,42.97,0
+MKD,8902,SDSM,Socijaldemokratski sojuz na Makedonija,Social Democratic Union of Macedonia,2011,2014,2011,32.78,0
+MKD,8903,DUI/BDI,Демократската унија за интеграција / Bashkimi Demokratik për Integrim,Democratic Union for Integration,2011,2014,2014,13.71,0
+MKD,8904,DPA/PDSH,Демократската партија на Албанците / Partia Demokratike Shqiptare,Democratic Party of the Albanians,2011,2014,2014,5.92,0
+MKD,8905,NDP,Nacionalna demokratska prerodba,National Democratic Revival,2011,2014,2011,2.67,0
+MKD,8906,DPTM/TDP,Демократска Партија на Турците на Македонија / Türk Demokratik Partisi Makedonya,Democratic Party of Turks in Macedonia,2011,2014,2014,42.97,0
+MKD,8907,DPSM,Демократска Партија на Србите во Македонија / Демократска Партија Срба у Македонији,Democratic Party of Serbs in Macedonia,2011,2014,2014,42.97,0
+MKD,8912,PDTM/THP,Партија за движење на Турците во Македонија / Türk Hareket Partisi Makedonya,Party for the movement of Turks in Macedonia,2014,2014,2014,25.34,0
+MKD,8913,SDAM,Странка на Демократска Акција на Македонија,Party for Democratic Action of Macedonia,2014,2014,2014,42.97,0
+MNE,9101,DPS CG,Demokratska Partija Socijalista Crne Gore,Democratic Party of Socialists of Montenegro,2009,2012,2009,51.94,0
+MNE,9102,SNP CG,Socijalistička Narodna Partija Crne Gore,Socialist People's Party of Montenegro,2009,2012,2009,16.83,0
+MNE,9103,NOVA,Nova srpska demokratija,New Serb Democracy,2009,2012,2012,23.19,0
+MNE,9104,DUA,Demokratska Unija Albanaca,Democratic Union of Albanians,2009,2012,2009,1.46,0
+MNE,9105,FORCA,Nova Demokratska Snaga - FORCA,New Democratic Power � FORCA,2009,2012,2009,1.91,0
+MNE,9106,DSCG,Demokratski Savez u Crnoj Gori / Lidhja Demokratike në Mal të Zi,Democratic League in Montenegro,2009,2012,2012,1.07,0
+MNE,9107,KS-P,Albanska koalicija Perspektiva,Albanian Coalition - Perspective,2009,2009,2009,0.81,0
+MNE,9108,HGI,Hrvatska Građanska Inicijativa,Croatian Civic Initiative,2009,2012,2009,51.94,0
+MNE,9109,BS,Bošnjačka Stranka,Bosniak Party,2009,2012,2009,51.94,0
+MNE,9110,SDP CG,Socijaldemokratska Partija Crne Gore,Social Democratic Party of Montenegro,2009,2012,2009,51.94,0
+MNE,9112,PCG,Pozitivna Crna Gora,Positive Montenegro,2012,2012,2012,8.37,0
+MNE,9113,PzP,Pokret za promjene,Movement for Changes,2012,2012,2012,23.19,0
+MNE,9114,AA,Albanska alternativa / Alternativa Shqiptare,Albanian Alternative,2012,2012,2012,1.07,0
+POL,9201,PO,Platforma Obywatelska,Civic Platform,2007,2015,2007,41.51,0
+POL,9202,PiS,Prawo i Sprawiedliwość,Law and Justice,2007,2015,2015,37.58,0
+POL,9203,SLD,Sojusz Lewicy Demokratycznej,Democratic Left Alliance,2007,2015,2007,13.15,0
+POL,9204,PSL,Polskie Stronnictwo Ludowe,Polish People's Party,2007,2015,2007,8.91,0
+POL,9205,MN,Komitet Wyborczy Mniejszość Niemiecka,German Minority Electoral Committee,2007,2015,2007,0.2,0
+POL,9206,RAS,Ruch Autonomii Śląska,Silesian Autonomy Movement,2007,2007,,,1
+POL,9207,.N,Nowoczesna,Modern Political Party,2015,2015,2015,7.6,0
+POL,9208,Kukiz,Kukiz'15,Kukiz'15,2015,2015,2015,8.81,0
+ROU,9301,PSD,Partidul Social Democrat,Social Democratic Party,2008,2012,2012,58.6,0
+ROU,9302,PD-L,Partidul Democrat-Liberal,Democratic Liberal Party,2008,2008,2008,32.36,0
+ROU,9303,PNL,Partidul Naţional Liberal,National Liberal Party,2008,2012,2012,58.6,0
+ROU,9304,PRM,Partidul România Mare,Greater Romania Party,2008,2008,2008,3.15,0
+ROU,9305,UDMR,Uniunea Democrată Maghiară din România,Democratic Union of Hungarians in Romania,2008,2012,2008,6.17,0
+ROU,9306,PCM/MPP,Partidul Civic Maghiar / Magyar Polgári Párt,Hungarian Civic Party,2008,2012,2012,0,0
+ROU,9307,FDGR,Forumul Democrat al Germanilor din România,Democratic Forum of Germans in Romania,2008,2012,2012,0.53,0
+ROU,9308,ALDE,Alianța Liberalilor și Democraților,Alliance of Liberals and Democrats,2012,2012,2012,0,0
+ROU,9309,PMP,Partidul Mișcarea Populară,People's Movement Party,2012,2012,2012,0,0
+ROU,9310,PPMT/EMNP,Erdélyi Magyar Néppárt/Partidul Popular Maghiar din Transilvania,Hungarian People's Party of Transylvania,2012,2012,2012,0.64,0
+SRB,9501,DS,Demokratska Stranka,Democratic Party,2008,2016,2008,38.41,0
+SRB,9502,SNS,Srpska napredna stranka,Serbian Progressive Party,2008,2016,2016,48.25,0
+SRB,9503,SRS,Srpska Radikalna Stranka,Serbian Radical Party,2008,2016,2008,29.45,0
+SRB,9504,DSS,Demokratska Stranka Srbije,Democratic Party of Serbia,2008,2016,2008,11.61,0
+SRB,9505,SPS,Socijalistička partija Srbije,Socialist Party of Serbia,2008,2016,2016,10.95,0
+SRB,9506,LDP,Liberalno-Demokratska Partija,Liberal Democratic Party,2008,2008,2008,5.23,0
+SRB,9507,SVM,Savez Vojvođanskih Mađara,Alliance of Vojvodina Hungarians,2008,2016,2008,1.8,0
+SRB,9508,DSVM,Demokratska Stranka Vojvođanskih Mađara,Democratic Party of Vojvodina Hungarians,2008,2016,2008,1.8,0
+SRB,9509,SDPS,Socijaldemokratska partija Srbije,Social Democratic Party of Serbia,2008,2016,2016,48.25,0
+SRB,9510,SDA,Stranka Demokratske Akcije Sandzaka,Party of Democratic Action of Sandzak,2008,2016,2008,0.92,0
+SRB,9511,BDZ,Bošnjačka demokratska zajednica Sandžaka,Bosniak Democratic Union of Sandžak,2008,2016,2016,0.86,0
+SRB,9512,PZDD,Partija za demokratsko delovanje / Partia për vertim demokratik,Party for democratic action,2008,2016,2016,0.43,0
+SRB,9513,DPA,Demokratska Partija Albanaca / Partia Demokratike Shqiptare,Democratic Party of Albanians,2008,2016,2016,0,0
+SRB,9514,DSHV,Demokratski Savez Hrvata u Vojvodini,Democratic Alliance of Croats in Vojvodina,2008,2016,2008,38.41,0
+SRB,9515,DJB,Dosta je bilo,It's enough,2016,2016,2016,6.02,0
+SRB,9517,Dveri,Dveri,Doors,2016,2016,2016,5.04,0
+SRB,9518,LSV,Liga socijaldemokrata Vojvodine,League of Vojvodina Social Democrats,2016,2016,2016,5.02,0
+SRB,9521,ZES,Zelena stranka,Green party,2016,2016,2016,0.63,0
+SVK,9601,SMER-SD,Smer-sociálna demokracia,Social Democratic Party,2010,2016,2010,34.79,0
+SVK,9602,SDKU-DS,Slovenská demokratická a kresťanská únia – Demokratická strana,Slovak Democratic and Christian Union � Democratic Party,2010,2010,2010,15.42,0
+SVK,9603,KDH,Kresťanskodemokratické hnutie,Christian Democratic Movement,2010,2010,2010,8.52,0
+SVK,9604,SaS,Sloboda a Solidarita,Freedom and Solidarity,2010,2016,2010,12.14,0
+SVK,9605,SNS,Slovenská národná strana,Slovak National Party,2010,2016,2016,8.6,0
+SVK,9606,Most-Híd,Most-Híd,Bridge,2010,2016,2010,8.12,0
+SVK,9607,SMK-MKP,Strana maďarskej koalície – Magyar Koalíció Pártja,Party of the Hungarian Coalition,2010,2016,2010,4.33,0
+SVK,9608,L'SNS,Ľudová strana – Naše Slovensko,People's Party - our Slovakia,2016,2016,2016,8,0
+SVK,9609,OL'aNO-NOVA,Obyčajní Ľudia a nezávislé osobnosti,Ordinary People and Independent Personalities,2016,2016,2016,11,0
+SVK,9610,SIET,SIET,Network,2016,2016,2016,5.6,0
+TUR,7401,AKP,Adalet ve Kalkinma Partisi,Justice and Development Party,2011,2015,2011,49.83,0
+TUR,7402,CHP,Cumhuriyet Halk Partisi,Republican People's Party,2011,2015,2011,25.98,0
+TUR,7403,MHP,Milliyetci Hareket Partisi,National Movement Party,2011,2015,2011,13.01,0
+TUR,7404,HDP,Halkların Demokratik Partisi,People's Democratic Party,2011,2015,2015,10.76,0
+UKR,9801,PR,Partia rehioniv,Party of Regions,2007,2007,2007,34.37,0
+UKR,9802,BJUT,Blok Julii Tymoshenko,Bloc Yulia Tymoshenko,2007,2014,2007,30.71,0
+UKR,9803,NUNS,Blok Nasha Ukraina - Narodna Samooborona,Bloc Our Ukraine - People's Self-Defense,2007,2007,2007,14.15,0
+UKR,9804,KPU,Komunistychna partia Ukrainy,Communist Party of Ukraine,2007,2007,2007,5.39,0
+UKR,9805,Rukh,Narodnyi rukh Ukrainy,People's Movement of Ukraine,2007,2007,,,1
+UKR,9806,Soiuz,Soiuz,Union,2007,2007,,,1
+UKR,9807,Russkoe edinstvo,Russkoe edinstvo,Russian Unity,2007,2007,,,1
+UKR,9808,Sylna Ukraina,Sylna Ukraina,Strong Ukraine,2007,2007,,,1
+UKR,9809,NF,Народний фронт,People's Front,2014,2014,2014,22.14,0
+UKR,9810,OB,Опозиційний блок,Opposition Bloc,2014,2014,2014,9.43,0
+UKR,9811,RP,Радикальна Партія,Radical Party of Oleh Lyashko,2014,2014,2014,7.44,0
+UKR,9812,Samomich,Об'єднання «Самопоміч»,Self Reliance Party,2014,2014,2014,10.97,0
+UKR,9813,Svoboda,Всеукраїнське об’єднання «Свобода»,"All-Ukrainian Union Svoboda ""Freedom""",2014,2014,2014,4.71,0
+UKR,9814,Solidarnist,Блок Петра Порошенка «Солідарність»,"Petro Poroshenko Bloc ""Solidarity""",2014,2014,2014,21.82,0
+XKX,9901,PDK,Partia Demokratike e Kosovës,Democratic Party of Kosovo,2010,2014,2010,32.1,0
+XKX,9902,LDK,Lidhja Demokratike e Kosovës,Democratic League of Kosovo,2010,2014,2014,25.24,0
+XKX,9903,VV,Lëvizja Vetëvendosje!,Self-Determination Movement,2010,2014,2014,13.59,0
+XKX,9904,AAK,Aleanca për Ardhmërinë e Kosovës,Alliance for the Future of Kosovo,2010,2014,2010,11,0
+XKX,9905,KKR,Koalicioni për Kosovë të,New Kosovo Coalition,2010,2010,2010,7.3,0
+XKX,9906,SLS,Samostalna liberalna stranka,Independent Liberal Party,2010,2014,2014,5.22,0
+XKX,9907,JSL,Jedinstvena Srpska Lista,Unique Serbian List,2010,2010,2010,0.9,0
+XKX,9908,SD,Socijaldemokratija,Social Democracy,2010,2014,2014,5.22,0
+XKX,9909,NDS,Nova Demokratska Stranka,New Democratic Party,2010,2014,2010,0.4,0
+XKX,9910,BSDAK,Bošnjačka Stranka Demokratske Akcije Kosova,Bosniak Party of Democratic Action of Kosovo,2010,2014,2010,0.3,0
+XKX,9911,KV,Koalicija Vakat,Vakat Coalition,2010,2014,2014,0.89,0
+XKX,9912,KDTP,Kosova Demokratik Türk Partisi,Kosovo Turkish Democratic Party,2010,2014,2010,1.2,0
+XKX,9913,GIG,Građanska inicijativa Gore,Civic Initiative of Gora,2010,2014,2014,0.16,0
+XKX,9914,JGP,Jedinstvena goranska partija,Unique Goranian Party,2014,2014,2014,0.16,0
+XKX,9915,KNRP,Kosovaki nevi romani partia,Kosovar New Romani Party,2014,2014,2014,0.09,0
+XKX,9916,NISMA,Nisma për Kosovën,Initiative for Kosovo,2014,2014,2014,5.15,0
+XKX,9917,PAI,Partia e Ashkalinjëve për Integrim,Ashkali Party for Integration,2014,2014,2014,0.22,0
+XKX,9918,PDS,Progresivna demokratska stranka,Progressive Democratic Party,2014,2014,2014,0.82,0
+XKX,9919,PLE,Partia Liberale Egjiptiane,Egyptian Liberal Party,2014,2014,2014,0.27,0
+XKX,9920,PDAK,Partia Demokratike e Ashkanlive të Kosovës,Democratic Ashkali Party of Kosovo,2014,2014,2014,0.46,0
+XKX,9921,Srpska,Srpska lista,Serb List,2014,2014,2014,5.22,0
