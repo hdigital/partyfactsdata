@@ -1,3 +1,3 @@
 # Party Facts codebook
 
-+ see [codebook](codebook.md)
+- see [codebook](codebook.md)

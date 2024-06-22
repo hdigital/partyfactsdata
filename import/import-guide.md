@@ -1,6 +1,4 @@
-Step-by-step import guide -- contribute a dataset
-=================================================
-
+# Step-by-step import guide -- contribute a dataset
 
 Initial version of the codebook was created by Phillip Hocks and Jan
 Fischer (University of Bremen) in 2015.
@@ -9,9 +7,7 @@ This work was funded by a small research grant of the University of Bremen (M8 P
 More information: [partyfacts.org](http://www.partyfacts.org) --
 [github.com/hdigital/partyfactsdata](https://github.com/hdigital/partyfactsdata)
 
-
-Introduction
-============
+# Introduction
 
 We encourage you to participate and contribute to the Party Facts
 project by adding party information from your dataset. Through adding
@@ -43,20 +39,16 @@ Before uploading or submitting your dataset, please make sure that the
 party list is formatted correctly and follows the points we present
 below.
 
+# Your Dataset
 
-Your Dataset
-============
-
-Inclusion criteria
-------------------
+## Inclusion criteria
 
 Every political science dataset dealing with parties and elections may
 be added to the Party Facts project.
 
 Smaller parties are removed during the import process (5% or 1% threshold).
 
-Format
-------
+## Format
 
 **Dataset file format**
 
@@ -69,8 +61,7 @@ Please make sure your file is utf-8 encoded. Every csv file can be
 encoded in utf-8 (save option) and it guarantees an error free display
 of string-variables.
 
-Variables
----------
+## Variables
 
 If your dataset contains additional information (eg. party positions,
 party leaders etc.) only the respective variables of the Party Facts
@@ -79,20 +70,19 @@ variables in the uploaded file.
 
 Your dataset should include the following information:
 
--   **Country name short** -- Country’s ISO-code, three digit abbreviation of country name.
--   **Name short** -- Common abbreviation of the party name in language of origin.
--   **Name** -- Name in language of origin
--   **Name English** -- Translation of the party name into English
--   **Name other** -- Party name in languages with non-latin letters
--   **Year first** -- Foundation of the party. If no information is available, the first election occurrence may be entered
--   **Year last** -- Dissolution of the party. If no information is available, the last election occurrence may be entered. Leave empty if the party exists as of today.
--   **Share** -- Vote share won in a national general election used to identify the party. Use maximum vote share if information is available. The decimal place is indicated by a dot and not a comma
--   **Share year** -- Year of vote share inserted at “share”
+- **Country name short** -- Country’s ISO-code, three digit abbreviation of country name.
+- **Name short** -- Common abbreviation of the party name in language of origin.
+- **Name** -- Name in language of origin
+- **Name English** -- Translation of the party name into English
+- **Name other** -- Party name in languages with non-latin letters
+- **Year first** -- Foundation of the party. If no information is available, the first election occurrence may be entered
+- **Year last** -- Dissolution of the party. If no information is available, the last election occurrence may be entered. Leave empty if the party exists as of today.
+- **Share** -- Vote share won in a national general election used to identify the party. Use maximum vote share if information is available. The decimal place is indicated by a dot and not a comma
+- **Share year** -- Year of vote share inserted at “share”
 
-Strictly required are *country* and *party name* information.
+Strictly required are _country_ and _party name_ information.
 
-Your Script
------------
+## Your Script
 
 In Party Facts, we import a list of parties extracted from a dataset.
 Ideally, you provide a script in which the party list is extracted from
@@ -103,11 +93,10 @@ We prefer R scripts but Stata or other scripts may work as well.
 The script helps to understand the origin of the party list and allows
 us to solve potential problems.
 
-Readme file
------------
+## Readme file
 
 To provide information about the dataset it is important to submit a
-*readme* file together with your dataset. This readme file will be used
+_readme_ file together with your dataset. This readme file will be used
 as an information source on Github and the information displayed on the
 Party Facts website.
 
@@ -150,8 +139,7 @@ Please provide the Readme file in the following style.
 
 ```
 
-Upload
-======
+# Upload
 
 To import your party list, you need to create a folder with the
 respective files. The folder has to be named with a single word
@@ -159,24 +147,22 @@ identifying your data or project.
 
 The folder needs to contain:
 
--   Data file -- named with the same word as the folder .csv
--   Readme file -- *readme.md*
--   Script file -- extracting party information for Party Facts import
+- Data file -- named with the same word as the folder .csv
+- Readme file -- _readme.md_
+- Script file -- extracting party information for Party Facts import
 
 The folder may contain your original dataset. The dataset can be ignored
 in Github if it includes information required to run the script but
 should not be published on the Party Facts Github page. In this case,
 please provide the dataset with the name *source\_\_*filename (two
-underscores). Files and folders starting with *‘source\_\_’* will be
+underscores). Files and folders starting with _‘source\_\_’_ will be
 ignored in Github and thus not be available publicly.
 
 You can either upload the file directly on the public Github repository
 yourself or send it to one of the project maintainers -- Holger Döring
 or Sven Regel.
 
-
-Import to partyfacts.org
-============================
+# Import to partyfacts.org
 
 The import into the Party Facts website is done by the Party Facts Team.
 Afterwards you are ready to link your dataset to the existing core
