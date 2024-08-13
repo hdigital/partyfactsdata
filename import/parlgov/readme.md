@@ -1,6 +1,11 @@
 ## Source
 
-Döring, Holger, Alexandra Quaas, Maike Hesse, and Philip Manow. 2023. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies. Development version. – [parlgov.org](http://www.parlgov.org/)
+Döring, Holger, and Philip Manow. 2024. Parliaments and governments database
+(ParlGov): Information on parties, elections and cabinets in established
+democracies. – [parlgov.org](https://parlgov.org/)
+
+Döring, Holger, and Philip Manow. 2024. “ParlGov 2024 Release.”
+[doi:10.7910/DVN/2VZ5ZC](https://doi.org/10.7910/DVN/2VZ5ZC).
 
 ## Import
 

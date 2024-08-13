@@ -4,7 +4,7 @@ library(dbplyr)
 
 # Get/read data ----
 
-db_file <- "source__parlgov.db"
+db_file <- "source__parlgov-stable.db"
 if (!file.exists(db_file)) {
   url <- "https://www.parlgov.org/data/parlgov-development.db"
   download.file(url, db_file, mode = "wb")
@@ -63,7 +63,7 @@ cab_n <-
 # party information
 `%notin%` <- Negate(`%in%`)
 
-parlgov_url <- "https://parlgov.fly.dev/data/party/%s/%d"
+parlgov_url <- "https://parlgov.fly.dev/data/parties/%s/%d"
 party_info <-
   party_pg |>
   select(party_id, country_name_short:family_name, -country_name, -party_name_ascii, -family_name) |>
