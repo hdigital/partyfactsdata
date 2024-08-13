@@ -175,7 +175,7 @@ Country definitions follow **V-Dem Country Coding Units**. V-Dem does not cover 
 + Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, and Lisa Gastaldi. 2021. ”V-Dem Country Coding Units v11” Varieties of Democracy (V-Dem) Project.
 + ISO 3166-1 Codes for the Representation of Names of Countries and their Subdivisions – Part 1: Country Codes
 
-For some datasets we harmonize the **sub-national** or **autonomous regions** data. This may require updating the country data in the import script. See for example the [ParlGov import](https://github.com/hdigital/partyfactsdata/blob/master/import/parlgov/parlgov.R) for Greenland and Faroe Islands.
+For some datasets we harmonize the **sub-national** or **autonomous regions** data. This may require updating the country data in the import script. See for example the [ParlGov import](https://github.com/hdigital/partyfactsdata/blob/main/import/parlgov/parlgov.R) for Greenland and Faroe Islands.
 
 + Northern Ireland (NIR) recoded into United Kingdom (GBR)
 + Greenland (GRL) and Faroe Islands (FRO) coded independently from Denmark (DNK)

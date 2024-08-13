@@ -18,7 +18,7 @@ Link datasets for ESS and PF ids
 Additional party names are based on PF data. For the [PF-Web](https://partyfacts.herokuapp.com/data/essprtv/) import,
 `name_english` is based on `first_ess_name` to include one ESS party name.
 
-_Note_ — run all scripts in [PF-Data](https://github.com/hdigital/partyfactsdata/tree/master/import/essprtv) with — `purrr::map(fs::dir_ls(".", glob = "*R"), callr::rscript)`
+_Note_ — run all scripts in [PF-Data](https://github.com/hdigital/partyfactsdata/tree/main/import/essprtv) with — `purrr::map(fs::dir_ls(".", glob = "*R"), callr::rscript)`
 
 ## Article
 
