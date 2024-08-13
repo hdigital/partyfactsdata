@@ -12,7 +12,7 @@ body {
 - Paul Bederke (University of Konstanz) – since 2019
 - Holger Döring (GESIS – Leibniz Institute for the Social Sciences) –
   since 2012
-- Sven Regel (WZB Berlin Social Science Center) – since 2012 </br>
+- Sven Regel (WZB Berlin Social Science Center) – 2012–2023 </br>
 
 **Contact**
 
@@ -155,7 +155,7 @@ definitions.
 For some datasets we harmonize the **sub-national** or **autonomous
 regions** data. This may require updating the country data in the import
 script. See for example the [ParlGov
-import](https://github.com/hdigital/partyfactsdata/blob/master/import/parlgov/parlgov.R)
+import](https://github.com/hdigital/partyfactsdata/blob/main/import/parlgov/parlgov.R)
 for Greenland and Faroe Islands.
 
 - Northern Ireland (NIR) recoded into United Kingdom (GBR)
