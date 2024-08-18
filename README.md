@@ -5,7 +5,7 @@
 ## Authors
 
 - Paul Bederke — University of Konstanz — since 2019
-- Holger Döring — GESIS – Leibniz Institute for the Social Sciences — since 2012
+- Holger Döring — since 2012
 - Sven Regel — WZB Berlin Social Science Center — 2012–2023
 - [ _contact information_ — paul.bederke uni-konstanz de ]
 
