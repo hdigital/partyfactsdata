@@ -1,0 +1,997 @@
+﻿countrycode,countryshort,countryname,party_id,party_short,party_name,party_name_english,file
+1,BEL,Belgium,102,PS,Parti Socialiste,Socialist Party,1999-2019_CHES_codebook
+1,BEL,Belgium,103,SP; SPA,Socialistische Partij; Socialistische Partij  Anders,Socialist Party; Socialist Party Differently,1999-2019_CHES_codebook
+1,BEL,Belgium,104,ECOLO,Ecolo,Ecolo,1999-2019_CHES_codebook
+1,BEL,Belgium,105,AGALEV; Groen,Agalev; Groen!,Agalev; Green!,1999-2019_CHES_codebook
+1,BEL,Belgium,106,PRL; MR,Parti Reformateur Liberal; Mouvement Reformateur,Liberal Reformist Party; Reformist Movement,1999-2019_CHES_codebook
+1,BEL,Belgium,107,VLD,Open Vlaamse Liberalen en Democraten,Open Flemish Liberals and Democrats,1999-2019_CHES_codebook
+1,BEL,Belgium,108,PSC; CDH,Parti Social Chretien; Centre Democrate Humaniste,Christian Social Party; Humanist Democratic Centre,1999-2019_CHES_codebook
+1,BEL,Belgium,109,CVP; CD&V,Christelijke  Volkspartij; Christen-Democratisch en Vlaams,Christian People's Party; Christian Democratic & Flemish,1999-2019_CHES_codebook
+1,BEL,Belgium,110,VU; NVA,Volksunie; Nieuw-Vlaamse Alliantie,People's Union; New Flemish Alliance,1999-2019_CHES_codebook
+1,BEL,Belgium,111,FDF,Front Democratique des Francophones,Francophone Democratic Front,1999-2019_CHES_codebook
+1,BEL,Belgium,112,VB,Vlaams Blok; Vlaams Belang,Flemish Bloc; Flemish Interest,1999-2019_CHES_codebook
+1,BEL,Belgium,113,MCC,Mouvement des Citoyens pour le Changement,Citizens' Movement for Change,1999-2019_CHES_codebook
+1,BEL,Belgium,114,ID21,ID21,ID21,1999-2019_CHES_codebook
+1,BEL,Belgium,115,FN,Front National,National  Front,1999-2019_CHES_codebook
+1,BEL,Belgium,117,LDD,Lijst Dedecker,List Dedecker,1999-2019_CHES_codebook
+1,BEL,Belgium,118,SLP; Spirit,Sociaal-Liberale Partij; Spirit,Social-Liberal Party; Spirit,1999-2019_CHES_codebook
+1,BEL,Belgium,119,PVDA;PVDA-PTB,Partij van de Arbeid van Belgie; Parti du Travail de Belgique,Workers' Party of Belgiwn,1999-2019_CHES_codebook
+1,BEL,Belgium,120,PP,Parti Populaire,People's Party,1999-2019_CHES_codebook
+2,DNK,Denmark,201,SD,Socialdemokraterne,Social Democrats,1999-2019_CHES_codebook
+2,DNK,Denmark,202,RV,Det Radikale Venstre,Radical Left-Social Liberal Party,1999-2019_CHES_codebook
+2,DNK,Denmark,203,KF,Det Konservative Folksparti,Conservative People's Party,1999-2019_CHES_codebook
+2,DNK,Denmark,204,CD,Centrum-Demokraterne,Centre Democrats,1999-2019_CHES_codebook
+2,DNK,Denmark,206,SF,Socialistisk Folkeparti,Socialist People's Party,1999-2019_CHES_codebook
+2,DNK,Denmark,210,KRF,Kristeligt Folkeparti,Christian People's Party,1999-2019_CHES_codebook
+2,DNK,Denmark,211,V,"Venstre, Danmarks Liberale Parti","Venstre, Liberal Party of Denmark",1999-2019_CHES_codebook
+2,DNK,Denmark,212,FP,Fremskridtspartiet,Progress Party,1999-2019_CHES_codebook
+2,DNK,Denmark,213,EL,Enhedslisten-De R¢d-Gr¢nne,Unity List-Red/Green Alliance,1999-2019_CHES_codebook
+2,DNK,Denmark,215,DF,Dansk Folkeparti,Danish People's Party,1999-2019_CHES_codebook
+2,DNK,Denmark,216,JuniB,JuniBevregelsen,June Movement,1999-2019_CHES_codebook
+2,DNK,Denmark,217,FolkB,Folkebevregelsen mod EU,People's Movement Against the EU,1999-2019_CHES_codebook
+2,DNK,Denmark,218,LA,Liberal Alliance,Liberal Alliance,1999-2019_CHES_codebook
+2,DNK,Denmark,219,A,Alternativet,The Alternative,1999-2019_CHES_codebook
+2,DNK,Denmark,220,NB,Nye Borgerlige,The New Right,1999-2019_CHES_codebook
+3,DEU,Germany,301,CDU,Christlich Demokratische Union Deutschlands,Christian Democratic Union of Germany,1999-2019_CHES_codebook
+3,DEU,Germany,302,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1999-2019_CHES_codebook
+3,DEU,Germany,303,FDP,Freie Demokratische Partei,Free Democratic Party,1999-2019_CHES_codebook
+3,DEU,Germany,304,Grunen,Bündnis '90; Die Grünen,Alliance 90; The Greens,1999-2019_CHES_codebook
+3,DEU,Germany,305,REP,Republikaner,Republikaner,1999-2019_CHES_codebook
+3,DEU,Germany,"306
+","PDS; Linkspartei; Linke
+","Partei des Demokratischen Sozialismus; Die Linkspartei; Die Linke
+","Party of Democratic Socialism; Left  Party; The Left
+",1999-2019_CHES_codebook
+3,DEU,Germany,308,CSU,Christlich Soziale Union in Bayern,Christian Social Union in Bavaria,1999-2019_CHES_codebook
+3,DEU,Germany,"309
+","DVU; NPD
+",Deutsche Volksunion; Nationaldemokratische Partei Deutschlands ,German People's Union; National  Democratic Party of Germany ,1999-2019_CHES_codebook
+3,DEU,Germany,310,AfD,Alternative für Deutschland,Alternative for Germany,1999-2019_CHES_codebook
+3,DEU,Germany,311,Piraten,Piratenpartei Deutschland,Pirate Party of Germany,1999-2019_CHES_codebook
+3,DEU,Germany,312,DieTier,Mensch Umwelt Tierschutz,Human Environment  Animal Protection,1999-2019_CHES_codebook
+4,GRC,Greece,401,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,1999-2019_CHES_codebook
+4,GRC,Greece,402,ND,Néa Dimokratia,New Democracy,1999-2019_CHES_codebook
+4,GRC,Greece,403,SYN; SYRIZA,Synaspismós tïs Aristerás kai tïs Proódou; Synaspismó’s Rizospastikís Aristerás,Coalition of the Left and Progress; Coalition of the Radical Left ,1999-2019_CHES_codebook
+4,GRC,Greece,404,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,1999-2019_CHES_codebook
+4,GRC,Greece,408,POLA,Politiki Anixi,Political Spring,1999-2019_CHES_codebook
+4,GRC,Greece,409,DIKKI,Dimokratiko Kinoniko Kinima,Democratic Social Movement,1999-2019_CHES_codebook
+4,GRC,Greece,410,LAOS,Laïkós Orthódoxos Synagermós,Popular Orthodox Rally,1999-2019_CHES_codebook
+4,GRC,Greece,411,OP,Oikologoi Prasinoi,Ecologist Greens,1999-2019_CHES_codebook
+4,GRC,Greece,412,ANEL,Anexartitoi Ellines,Independent  Greeks,1999-2019_CHES_codebook
+4,GRC,Greece,413,Potami,To Potami,The River,1999-2019_CHES_codebook
+4,GRC,Greece,414,DIIVIAR,Dimokratiki Aristera,Democratic Left,1999-2019_CHES_codebook
+4,GRC,Greece,415,XA,Laïkós Sýndesmos—Chrysí Avgí,Popular Association-Golden Dawn,1999-2019_CHES_codebook
+4,GRC,Greece,416,EL,Elliniki Lisi,Greek Solution,1999-2019_CHES_codebook
+4,GRC,Greece,417,MR25,Metopo Evropaikis Realistikis Anypakois,European Realistic Disobedience Front  [MeRa25],1999-2019_CHES_codebook
+4,GRC,Greece,418,KIDISO,Kinima Dimokraton Sosialiston,Movement of Democratic Socialists,1999-2019_CHES_codebook
+5,ESP,Spain,501,PSOE,Partido Socialista Obrero Espanol,Spanish Socialist Workers' Party,1999-2019_CHES_codebook
+5,ESP,Spain,502,PP,Partido Popular,People's Party,1999-2019_CHES_codebook
+5,ESP,Spain,504,IU,Izquierda Unida,United Left,1999-2019_CHES_codebook
+5,ESP,Spain,505,CiU,Convergencia i Unió,Convergence and Unity,1999-2019_CHES_codebook
+5,ESP,Spain,506,PNV,Euzko Alderdi  Jeltzalea/Partido Nacionalista Vasco,Basque Nationalist Party,1999-2019_CHES_codebook
+5,ESP,Spain,507,EA,Eusko Alkartasuna,Basque Solidarity,1999-2019_CHES_codebook
+5,ESP,Spain,508,EH,Euskal Herritarrok,We Basque Citizens,1999-2019_CHES_codebook
+5,ESP,Spain,510,PAR,Partido Aragones,Aragonese Party,1999-2019_CHES_codebook
+5,ESP,Spain,511,ERC,Esquerra Republicana de Catalunya,Republican Left of Catalonia,1999-2019_CHES_codebook
+5,ESP,Spain,512,UV,Union Valenciana,Valencian Union,1999-2019_CHES_codebook
+5,ESP,Spain,513,BNG,Bloque Nacionalista Galego,Galician Nationalist Bloc,1999-2019_CHES_codebook
+5,ESP,Spain,514,VERDE,Los Verdes,The Greens,1999-2019_CHES_codebook
+5,ESP,Spain,516,PA,Partido Andalucia,Andalusian Party,1999-2019_CHES_codebook
+5,ESP,Spain,517,cc,Coalicion Canaria,Coalicion Canaria,1999-2019_CHES_codebook
+5,ESP,Spain,518,IC,Iniciativa per Catalunya,Initiative for Catalonia,1999-2019_CHES_codebook
+5,ESP,Spain,519,PSC,Partit dels Socialistes de Catalunya,Catalan Socialist Party,1999-2019_CHES_codebook
+5,ESP,Spain,520,CHA,Chunta Aragonesista,Aragonese Council,1999-2019_CHES_codebook
+5,ESP,Spain,521,CpE,Coalicion por Europa,Coalition for Europe,1999-2019_CHES_codebook
+5,ESP,Spain,522,EdP-V,Europa de los Pueblos-Los Verdes,Europe of the Peoples-Greens,1999-2019_CHES_codebook
+5,ESP,Spain,523,UPyD,Union Progreso y Democracia,"Union, Progress, and Democracy",1999-2019_CHES_codebook
+5,ESP,Spain,524,Amaiw·,Amaiur,Amaiur,1999-2019_CHES_codebook
+5,ESP,Spain,525,Podemos,Podemos; Unidas Podemos,We Can,1999-2019_CHES_codebook
+5,ESP,Spain,526,Cs,Ciudadanos-Partido de la Ciudadanfa,Citizens-Party  of the Citizenry,1999-2019_CHES_codebook
+5,ESP,Spain,527,Vox,Vox,Voice (Latin),1999-2019_CHES_codebook
+5,ESP,Spain,528,Pais,Mas Pais,More Country,1999-2019_CHES_codebook
+5,ESP,Spain,550,PdeCat,Partit Democrata Europeu Catala (Junts per Cataluyna),Catalan European Democratic Party (Together for Catalonia partner),1999-2019_CHES_codebook
+6,FRA,France,601,PCF,Parti Communiste Frarn;ais,French Communist Party,1999-2019_CHES_codebook
+6,FRA,France,602,PS,Parti Socialiste,Socialist Party,1999-2019_CHES_codebook
+6,FRA,France,603,PRG,Parti Radical de Gauche,Left Radical Party,1999-2019_CHES_codebook
+6,FRA,France,605,VERTS; EELV,Les Verts; Europe Ecologie Les Verts,Green Party; Europe Ecology-The Greens,1999-2019_CHES_codebook
+6,FRA,France,609,RPR; Ul\IIP; LR,Rassemblement pour la Republique; Union pour un Mouvement Populaire; Les Republicains,Rally for the Republic; Union for Popular Movement; The Republicans,1999-2019_CHES_codebook
+6,FRA,France,610,FN;RN,Front National; Rassemblement national,National  Front; National Rally,1999-2019_CHES_codebook
+6,FRA,France,612,RPF/MPF; MPF,Rassemblement pour la France/Mouvement Pour la France; Mouvement Pour la France,Rally for France/Movement for France; Movement for France,1999-2019_CHES_codebook
+6,FRA,France,613,UDF; MoDem ,Union pour la Démocratie Française; Mouvement Democrate,Union for French Democracy Democratic Movement,1999-2019_CHES_codebook
+6,FRA,France,614,LO-LCR,Lutte Ouvriére/Ligue communiste révolutionnaire,Workers' Struggle/Revolutionary Communist League,1999-2019_CHES_codebook
+6,FRA,France,615,DL,Democratie Libérale,Liberal Democracy,1999-2019_CHES_codebook
+6,FRA,France,617,MEI,Mouvement Ecologiste Indépendant,Independent Ecological Movement,1999-2019_CHES_codebook
+6,FRA,France,618,D,La Droite,The Right,1999-2019_CHES_codebook
+6,FRA,France,619,CPNT,"Chasse, Pêche, Nature, Traditions","Hunting, Fishing, Nature, Tradition Party",1999-2019_CHES_codebook
+6,FRA,France,620,MN,Mouvement National  Republicain,National  Republican Movement,1999-2019_CHES_codebook
+6,FRA,France,621,NC,Nouveau Centre,New Center,1999-2019_CHES_codebook
+6,FRA,France,622,PRV,Parti radical,Radical Party,1999-2019_CHES_codebook
+6,FRA,France,623,AC,Alliance centriste,Centrist Alliance,1999-2019_CHES_codebook
+6,FRA,France,624,PG,Parti de Gauche,Left Party,1999-2019_CHES_codebook
+6,FRA,France,625,Ens,Ensemble,Together,1999-2019_CHES_codebook
+6,FRA,France,626,LREM,La République En Marche,The Republic Forward,1999-2019_CHES_codebook
+6,FRA,France,627,FI,La France Insourmise,Unbowed France,1999-2019_CHES_codebook
+6,FRA,France,628,DLF,Debout la France,France Arise,1999-2019_CHES_codebook
+7,IRL,Ireland,701,FF,Fianna Fáil,Soldiers of Destiny,1999-2019_CHES_codebook
+7,IRL,Ireland,702,FG,Fine Gael,Family of the Irish,1999-2019_CHES_codebook
+7,IRL,Ireland,703,Lab,Páirti Lucht Oibre,Labour,1999-2019_CHES_codebook
+7,IRL,Ireland,705,GP,Comhaontas Glas,Green Party,1999-2019_CHES_codebook
+7,IRL,Ireland,707,SF,Sinn Féin,\i\Te Ourselves,1999-2019_CHES_codebook
+7,IRL,Ireland,708,SP,Páirtí Sóisialach,Socialist Party,1999-2019_CHES_codebook
+7,IRL,Ireland,709,PBPA; S-PBP,People Before Profit Alliance; Dlúthphairtíocht–Pobal Roimh Bhrabús,People Before Profit Alliance; Solidarity-People Before Profit,1999-2019_CHES_codebook
+7,IRL,Ireland,710,DS,Daonlathaigh Shóisialta,Social Democrats,1999-2019_CHES_codebook
+7,IRL,Ireland,711,I4C,Independents for Change,Independents for Change,1999-2019_CHES_codebook
+7,IRL,Ireland,712,RI,Renua Ireland,Renua Ireland,1999-2019_CHES_codebook
+8,ITA,Italy,802,PDS; DS,Partito Democratico della Sinistra; Democratici  di Sinistra,Democratic Party of the Left; Democrats of the Left,1999-2019_CHES_codebook
+8,ITA,Italy,803,RC,Partito della Rifondazione Comunista,Communist Refoundation PaJ ty,1999-2019_CHES_codebook
+8,ITA,Italy,805,AN,Alleanza Nazionale,National Alliance,1999-2019_CHES_codebook
+8,ITA,Italy,806,PRI,Partito Repubblicano Italiano,Italian Republican Party,1999-2019_CHES_codebook
+8,ITA,Italy,807,PSDI; SDI,Partito Socialista Democratico Italiano; Socialisti Democratici  Italiani,Italian Democratic Socialist Party; Italian Democratic Socialists,1999-2019_CHES_codebook
+8,ITA,Italy,808,FdV;Verdi,Federazione dei Verdi,Federation of Greens,1999-2019_CHES_codebook
+8,ITA,Italy,811,LN,Lega Nord,Northern  League,1999-2019_CHES_codebook
+8,ITA,Italy,813,RAD,Radicali Italiani,Italian Radicals,1999-2019_CHES_codebook
+8,ITA,Italy,814,CCD; UDC,Centro Cristiano Democratico; Unione dei Democratici Cristiani e die Democratici di Centro; Unione di Centro,Christian Democratic Center; Union of Christian and Center Democrats; Union of the Centre,1999-2019_CHES_codebook
+8,ITA,Italy,815,FI,Forza Italia,Forward Italy,1999-2019_CHES_codebook
+8,ITA,Italy,817,CU/UD,Unione  Democratica,Democratic Union,1999-2019_CHES_codebook
+8,ITA,Italy,818,CDU,CristiaJ1i Democratici Uniti,United Christian Democrats,1999-2019_CHES_codebook
+8,ITA,Italy,819,DEM; DL,I Democratici; Democrazia e Liberta­; La Margherita,The Democrats; Democracy is Freedom­; The Daisy,1999-2019_CHES_codebook
+8,ITA,Italy,820,LB,Lista Bonino,Bonino List,1999-2019_CHES_codebook
+8,ITA,Italy,821,MS,Movimento Sociale Fiamma Tricolore,Tricolor Flame Social Movement,1999-2019_CHES_codebook
+8,ITA,Italy,822,PdUP,Partito di Unita Proletaria,Party of Proletarian Unity for Communism,1999-2019_CHES_codebook
+8,ITA,Italy,823,PPI,Partito PopolaJ·e Italiano,Italian Popular Party,1999-2019_CHES_codebook
+8,ITA,Italy,824,PsDA,Partito Sardo d'Azione,Sardinian Action Party,1999-2019_CHES_codebook
+8,ITA,Italy,825,RI,Rinnovamento Italiano,Italian Renewal-Dini List,1999-2019_CHES_codebook
+8,ITA,Italy,826,SEG,Patto Segni,Segni Pact,1999-2019_CHES_codebook
+8,ITA,Italy,827,SVP,Südtiroler Volkspartei,South Tyrolean People's Party,1999-2019_CHES_codebook
+8,ITA,Italy,828,IdV,Di Pietro-Italia dei Valori,Italy of Values,1999-2019_CHES_codebook
+8,ITA,Italy,829,UDEUR,Popolari-UDEUR,Popular-UDEUR,1999-2019_CHES_codebook
+8,ITA,Italy,830,pp,Partito dei Pensionati,Pensioners' Party,1999-2019_CHES_codebook
+8,ITA,Italy,832,MRE,Movimento Repubblicani Europei,EuropeaJ1Republican Movement,1999-2019_CHES_codebook
+8,ITA,Italy,835,NPSI,Nuovo Partito Socialista Italiano ,New Italian Socialist Party,1999-2019_CHES_codebook
+8,ITA,Italy,836,PdCI,Partito dei Comunisti Italiani,Party of Italian Communists,1999-2019_CHES_codebook
+8,ITA,Italy,837,PD,Partido Democratico,Democratic Party,1999-2019_CHES_codebook
+8,ITA,Italy,838,SL; SEL,Sinistra e Liberta; Sinistra Ecologia Liberta Sinistra Italiana,Left and Freedom; Left Ecology Freedom Stalian Left-Left Ecology Freedom,1999-2019_CHES_codebook
+8,ITA,Italy,839,PSI,Partito Socialista Italiano,Italian Socialist Party,1999-2019_CHES_codebook
+8,ITA,Italy,840,MpA,Movimento per le Autonomie,Movement for Autonomies,1999-2019_CHES_codebook
+8,ITA,Italy,842,SD,Sinistra Democratica,Democratic Left,1999-2019_CHES_codebook
+8,ITA,Italy,843,CD;,Centro Democratico-Diritti e Liberta,Democratic Centre,1999-2019_CHES_codebook
+8,ITA,Italy,845,M5S,MoVimento Cinque Stelle,Five Star Movement,1999-2019_CHES_codebook
+8,ITA,Italy,846,SC,Scelta Civica,Civic Choice,1999-2019_CHES_codebook
+8,ITA,Italy,847,VdA,Vallee d'Aoste,Aosta Valley,1999-2019_CHES_codebook
+8,ITA,Italy,848,NCD,Nuovo Centrodestra,New Centre-Right,1999-2019_CHES_codebook
+10,NLD,Netherlands,1001,CDA,Christen-Democratisch  Appel,Christian  Democratic Appeal,1999-2019_CHES_codebook
+10,NLD,Netherlands,1002,PvdA,Partij van de Arbeid,Labour Party,1999-2019_CHES_codebook
+10,NLD,Netherlands,1003,VVD,Volkspartij voor Vrijheid en Democratie,People's Party for Freedom and Democracy,1999-2019_CHES_codebook
+10,NLD,Netherlands,1004,D66,Democraten 66,Democrats 66,1999-2019_CHES_codebook
+10,NLD,Netherlands,1005,GL,GroenLinks,GreenLeft,1999-2019_CHES_codebook
+10,NLD,Netherlands,1006,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,1999-2019_CHES_codebook
+10,NLD,Netherlands,1007,GPV,Gereformeerd Politiek Verbond,Reformed Political League,1999-2019_CHES_codebook
+10,NLD,Netherlands,1008,RPF,Reformatorische Politieke Federatie,Reformational Political Federation,1999-2019_CHES_codebook
+10,NLD,Netherlands,1009,CD,Centrum Democraten,Center Democrats,1999-2019_CHES_codebook
+10,NLD,Netherlands,1014,SP,Socialistische Partij,Socialist Party,1999-2019_CHES_codebook
+10,NLD,Netherlands,1015,LPF,Lijst Pim Fortuyn,Lijst Pim Fortuyn,1999-2019_CHES_codebook
+10,NLD,Netherlands,1016,CU,ChristenUnie,ChristianUnion,1999-2019_CHES_codebook
+10,NLD,Netherlands,1017,PVV,Partij voor de Vrijheid,Party for Freedom,1999-2019_CHES_codebook
+10,NLD,Netherlands,1018,PvdD,Partij voor de Dieren,Party for the Animals,1999-2019_CHES_codebook
+10,NLD,Netherlands,1020,50PLUS,50PLUS,50PLUS,1999-2019_CHES_codebook
+10,NLD,Netherlands,1050,DENK,Beweging DENK,Think,1999-2019_CHES_codebook
+10,NLD,Netherlands,1051,FvD,Forum voor Democratie,Formn for Democracy,1999-2019_CHES_codebook
+11,GBR,United Kingdom,1101,Cons,Conservative Party,Conservative Party,1999-2019_CHES_codebook
+11,GBR,United Kingdom,1102,Lab,Labour Party,Labour Party,1999-2019_CHES_codebook
+11,GBR,United Kingdom,1104,LibDem,Liberal Democratic Party,Liberal Democratic Party,1999-2019_CHES_codebook
+11,GBR,United Kingdom,1105,SNP,Scottish National Party,Scottish National Party,1999-2019_CHES_codebook
+11,GBR,United Kingdom,1106,Plaid,Plaid Cymru,Party of Wales,1999-2019_CHES_codebook
+11,GBR,United Kingdom,1107,Green,Green Party,Green Party,1999-2019_CHES_codebook
+11,GBR,United Kingdom,1108,UKIP,United Kingdom Independence Party,United Kingdom  Independence Party,1999-2019_CHES_codebook
+11,GBR,United Kingdom,1109,BNP,British National Party,British National Party,1999-2019_CHES_codebook
+11,GBR,United Kingdom,1110,Brexit,Brexit Party,Brexit Party,1999-2019_CHES_codebook
+12,PRT,Portugal,1201,CDU,Coligação Democrática Unitária,Democratic Unitarian Coalition,1999-2019_CHES_codebook
+12,PRT,Portugal,1202,CDS; PP; CDS-PP,Centro Democratico e Social; Partido Popular; Centro Democratico e Social   Partido Popular,Democratic and Social Center; People's Party; CDS-People's Party,1999-2019_CHES_codebook
+12,PRT,Portugal,1205,PS,Partido Socialista,Socialist Party,1999-2019_CHES_codebook
+12,PRT,Portugal,1206,PPD; PSD,Partido Popular Democratico; Partido Social Democrata,Democratic People's Party; Social Democratic Party,1999-2019_CHES_codebook
+12,PRT,Portugal,1208,BE,Bloco de Esquerda,Left Bloc,1999-2019_CHES_codebook
+12,PRT,Portugal,1209,MPT,Partido da Terra,Earth Party,1999-2019_CHES_codebook
+12,PRT,Portugal,1210,PCP,Partido Comunista Portugues,Portuguese Communist Party,1999-2019_CHES_codebook
+12,PRT,Portugal,1211,PEV,"Partido Ecologista ""Os Verdes""","Ecologist Party ""The Greens""",1999-2019_CHES_codebook
+12,PRT,Portugal,1250,PAN,Pessosas-Animais-Natureza,People-Animals-Nature,1999-2019_CHES_codebook
+13,AUT,Austria,1301,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,1999-2019_CHES_codebook
+13,AUT,Austria,1302,OVP,Österreichische Volkspartei,Austrian People's Party,1999-2019_CHES_codebook
+13,AUT,Austria,1303,FPO,Freiheitliche Partei Österreichs,Freedom Party of Austria,1999-2019_CHES_codebook
+13,AUT,Austria,1304,Grüne,Die Grünen,The Austrian Green Party,1999-2019_CHES_codebook
+13,AUT,Austria,1306,LIF; NEOS,Liberates Forum; NEOS-Das Neue Österreich und Liberates Forum,Liberal Forum; NEOS-The New Austria and Liberal Forum,1999-2019_CHES_codebook
+13,AUT,Austria,1307,BZO,Bündnis Zukunft Österreich,Alliance for the Future of Austria,1999-2019_CHES_codebook
+13,AUT,Austria,1308,MARTIN,Liste Dr. Hans-Peter Martin,Hans-Peter Martin's List,1999-2019_CHES_codebook
+13,AUT,Austria,1310,TeamStronach,Team Stronach für Österreich,Team Stronach for Austria,1999-2019_CHES_codebook
+14,FIN,Finland,1401,SOP,Suomen Sosialidemokraattinen Puolue,Social Democratic Party of Finland,1999-2019_CHES_codebook
+14,FIN,Finland,1402,KOK,Kansallinen Kokoomus,National Coalition Party,1999-2019_CHES_codebook
+14,FIN,Finland,1403,KESK,Suomen Keskusta,Finnish Center Party,1999-2019_CHES_codebook
+14,FIN,Finland,1404,VAS,Vasemmistoliitto,Left Alliance,1999-2019_CHES_codebook
+14,FIN,Finland,1405,PS,Perussuomalaiset,True Finns; The Finns party,1999-2019_CHES_codebook
+14,FIN,Finland,1406,RKP/SFP,Ruotsalainen  kansanpuolue/Svenska folkpartiet; Suomen ruotsalainen kansanpuolue/Svenska folkpartiet i Finland,Swedish People's Party; The Swedish People's Party of Finland,1999-2019_CHES_codebook
+14,FIN,Finland,1408,VIHR,Vihrea Liitto,Green League,1999-2019_CHES_codebook
+14,FIN,Finland,1409,SKL; KO,Suomen Kristillinen Liitto; Kristillisdemokraatit,Finnish Christian League; Christian Democrats,1999-2019_CHES_codebook
+14,FIN,Finland,1411,EKA,Elakelaiset Kansan Asialla,Pensioners for the People,1999-2019_CHES_codebook
+14,FIN,Finland,1412,REM,Remonttiryhma,Reform Group,1999-2019_CHES_codebook
+14,FIN,Finland,1413,KIPU,"Kirjava ""puolue"" - Elonkehan puolesta",Ecological Party,1999-2019_CHES_codebook
+16,SWE,Sweden,1601,V,Vänsterpartiet,Left Party,1999-2019_CHES_codebook
+16,SWE,Sweden,1602,SAP,Arbetarpartiet- Socialdemokraterna,Worker's Party-Social  Democrats,1999-2019_CHES_codebook
+16,SWE,Sweden,1603,C,Sveriges Socialdemokratiska Arbetareparti Centerpartiet,Swedish Social Democratic Party Center Party,1999-2019_CHES_codebook
+16,SWE,Sweden,1604,FP;L,Folkpartiet liberalerna; Liberalerna,Liberal People's Party,1999-2019_CHES_codebook
+16,SWE,Sweden,1605,M,Moderaterna; Moderata Samlingspartiet,Moderate Party,1999-2019_CHES_codebook
+16,SWE,Sweden,1606,KD,Kristdemokraterna,Christian-Democrats,1999-2019_CHES_codebook
+16,SWE,Sweden,1607,MP,Miljöepartiet de Grona,Environment Party-The Greens,1999-2019_CHES_codebook
+16,SWE,Sweden,1608,NyD,Ny  Demokrati,New  Democracy,1999-2019_CHES_codebook
+16,SWE,Sweden,1609,JL,Junilistan,June List,1999-2019_CHES_codebook
+16,SWE,Sweden,1610,SD,Sverigedemokraterna,Sweden Democrats,1999-2019_CHES_codebook
+16,SWE,Sweden,1611,PIRAT,Piratpartiet,Pirate Party,1999-2019_CHES_codebook
+16,SWE,Sweden,1612,FI,Feministiskt initiativ,Feminist Initative,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2001,NDSV,Nacionalno Dvizenie Simeon Vtori,National Movement Simeon II,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2002,ODS; SDS,Obedineni Demokraticni Sili; Sayuz na demokratichnite sili,United Democratic Forces; Union of Democratic Forces,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2003,KzB; BSP,Koalicija za Balgarija; BSP-Lyava Bulgaria; Balgarska sotsialisticheska partiya,Coalition for Bulgaria; BSP-Left Bulgaria; Bulgarian Socialist Party,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2004,DPS,Dvizenie za Prava i Svobodi,Movement for Rights and Freedoms,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2005,G-VMRO;VMRO-BND,Dvizenie Gergiovden;VMRO-Bulgarsko Natsionalno Dvizhenie,Gergiovden-VMRO; VMRO-Bulgarian National Movement,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2006,KSII,Koalicija Simeon II,Coalition Simeon II,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2007,NOA; Ataka,Nacionalno Obedinenie Ataka; Ataka,National  Union Attack; Attack,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2008,DSB,Demokrati za Silna Balgarija,Democrats for a Strong Bulgaria,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2009,BNS,Balgarski Naroden Sajuz,Bulgarian People's Union,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2010,GERE,Grazhdani za evropeysko razvitie na Balgariya,Citizens for European Development  of Bulgaria,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2011,L,Lider,Lider,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2012,RZS,"Red, zakonnost  i spravedlivost","Order, Lawfullness, Justice",1999-2019_CHES_codebook
+20,BGR,Bulgaria,2013,DBG,Dvizhenie Bulgaria na grazhdanite,Bulgaria for Citizens l\llovement,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2014,NFSB,Natsionalen Front za Spasenie na Bulgaria,National Front for the Salvation of Bulgaria,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2015,BBT,Bulgaria bez Tsenzura,Bulgaria without Censorship,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2016,ABV,Alternativa za Balgarsko Vazrazhdane,Alternative for Bulgarian Revival,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2017,Volya,Volya,Will,1999-2019_CHES_codebook
+20,BGR,Bulgaria,2018,DB,Da Bulgaria,"Yes, Bulgaria!",1999-2019_CHES_codebook
+20,BGR,Bulgaria,2019,Slavi Trifonov,Slavi Trifonov,Party of Slavi Trifonov,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2101,CSSD,Ceska strana socialne demokraticka,Czech Social Democratic Party,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2102,ODS,Obcanska Demokraticka Strana,Civic Democratic Party,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2103,KSCM,Komunisticka strana Cech a Moravy,Communist Party of Bohemia and Moravia,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2104,KDU-CSL,Kresfanska demokraticka unie-Ceskoslovenska strana lidova,Christian Democratic Union-­Czechoslovak People's Party,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2105,US-DEU,Unie Svobody-Demokraticka unie,Freedom Union-Democratic Union,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2106,SNK-ED,Sdrufoni nezavislych kandidatu-,Union of Independents-European Democrats,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2107,SZ,Evropsti demokrate Strana zelenych,Green Party,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2108,Nezavisli,Nezavisli,Independents,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2109,TOP09,Top09 ; Tradice Odpovednost Prosperita 09,Top09; Tradit ion Responsibility Prosperity 09,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2110,VV,Veci Vel'ejne,Public Affairs,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2111,AN02011,"ANO 2011, Akce nespokojenych obeanil","ANO 2011, Action of Dissatisfied Citizens",1999-2019_CHES_codebook
+21,CZE,Czech Republic,2112,USVIT,"Usvit pi""ime demokracie",Dawn of Direct Democracy,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2113,SVOBODNI,Strana svobodnych obcanil,Party of Free Citizens,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2114,Pirates,Ceska piratska strana,Czech Pirate Party,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2115,SPD,Svoboda a pl'ima demokracie Tomio Okamura,Freedom and Direct Democracy Tomio Okamura,1999-2019_CHES_codebook
+21,CZE,Czech Republic,2116,STAN,Starostove a nezavisli,Mayors and Independents,1999-2019_CHES_codebook
+22,EST,Estonia,2201,IRL,Erakond lsamaa ja Res Publica Liit,Pro Patria and Res Publica Union,1999-2019_CHES_codebook
+22,EST,Estonia,2202,EK,Eesti Keskerakond,Estonian Center Party,1999-2019_CHES_codebook
+22,EST,Estonia,2203,ER,Eesti Reformierakond,Estonian Reform Party,1999-2019_CHES_codebook
+22,EST,Estonia,2204,SDE,Sotsiaaldemokraatlik  Erakond,Social Democratic Party,1999-2019_CHES_codebook
+22,EST,Estonia,2205,KP,Eestimaa iihendatud Rahvapartei,Constitution Party,1999-2019_CHES_codebook
+22,EST,Estonia,2206,ERL,Eestimaa Rahvaliit,Estonian People's Union,1999-2019_CHES_codebook
+22,EST,Estonia,2207,EER,Erakond  Eestimaa Rohelised,Estonian Greens,1999-2019_CHES_codebook
+22,EST,Estonia,2208,EVE,Eesti  Vabaerakond,Estonian Free Party,1999-2019_CHES_codebook
+22,EST,Estonia,2209,EKRE,Eesti Konservatiivne Rahvaerakond,Conservative People's Party,1999-2019_CHES_codebook
+22,EST,Estonia,2210,E200,Erakond Eesti 200,Estonia 200,1999-2019_CHES_codebook
+23,HUN,Hungary,2301,MSzP,Magyar Szocialista Partja,Hungarian Socialist Party,1999-2019_CHES_codebook
+23,HUN,Hungary,2302,Fidesz-M; Fidesz-KDNP ,Fidesz-Magyar Polgari Szovetseg; Fidesz-Keresztenydemokrata Neppart ,Fidesz-Hungarian Civic Union; Fidesz-Christian Democratic People's Party ,1999-2019_CHES_codebook
+23,HUN,Hungary,2303,MDF,Magyar Demokrata Forum,Hungarian Democratic Forum,1999-2019_CHES_codebook
+23,HUN,Hungary,2304,SzDSz,Szabad Demokratak  Szovetsege,Alliance of Free Democrats,1999-2019_CHES_codebook
+23,HUN,Hungary,2305,MIEP,Magyar lgazsag es elet Partja,Hungarian Justice and Life Party,1999-2019_CHES_codebook
+23,HUN,Hungary,2306,CP,Centrumpartji,Centre Party,1999-2019_CHES_codebook
+23,HUN,Hungary,2307,KDNP,Keresztenydemokrata  Neppart,Christian Democratic People's Party,1999-2019_CHES_codebook
+23,HUN,Hungary,2308,JOBBIK,Jobbik Magyarorszagert Mozgalom,Jobbik-Movement for a Better Hungary,1999-2019_CHES_codebook
+23,HUN,Hungary,2309,LMP,Lehet Mas a Politika,Politics Can Be Different,1999-2019_CHES_codebook
+23,HUN,Hungary,2310,E14,Együtt 2014; Együtt 2019,Together 2014; Together 2019,1999-2019_CHES_codebook
+23,HUN,Hungary,2311,DK,Demokratikus Koalíció,Democratic Coalition,1999-2019_CHES_codebook
+23,HUN,Hungary,2314,MM,Momentum Mozgalom,Momentum  Movement,1999-2019_CHES_codebook
+24,LVA,Latvia,2401,JL,Jaunais Laikas,New Era Party,1999-2019_CHES_codebook
+24,LVA,Latvia,2402,PCTVL; LKS,Par Cilveka Tiesibam Vienota Latvija; Latvijas Krievu savienlba,For Human Rights in United Latvia; Latvian Russian Union,1999-2019_CHES_codebook
+24,LVA,Latvia,2403,TP,Tautas Partija,People's Party,1999-2019_CHES_codebook
+24,LVA,Latvia,2404,LPP,Latvijas Pirma Partija,Lativa's First Party,1999-2019_CHES_codebook
+24,LVA,Latvia,2405,zzs, Zalo un Zemnieku Savieniba ,Union of Greens and Farmers,1999-2019_CHES_codebook
+24,LVA,Latvia,2406,TB-LNNK; NA, Nacionala apvieniba “Visu Latvijai!”—Tevzemei un Brivibai/LNNK,"National Alliance ""All For Latvia!""­ For Fatherland and Freedom/LNNK",1999-2019_CHES_codebook
+24,LVA,Latvia,2407,LC ,Latvijas Celš,Latvia's Way,1999-2019_CHES_codebook
+24,LVA,Latvia,2408,LSDSP,Latvijas Socialdemokratiska Stradnieku Partija,Latvian Social Democratic Labour Party,1999-2019_CHES_codebook
+24,LVA,Latvia,2410,SC; SDPS,"Saskanas Centrs; Socialdemokratiska Partija “Saskana""","Harmony Centre; Social Democratic Party ""Harmony""",1999-2019_CHES_codebook
+24,LVA,Latvia,2411,ZRP,Zatlera Reform Partija, Zatler's Reform Party,1999-2019_CHES_codebook
+24,LVA,Latvia,2412,V,Vienotiba,Unity,1999-2019_CHES_codebook
+24,LVA,Latvia,2413,NSL,No sirds Latvijai,For Latvia from the Heart,1999-2019_CHES_codebook
+24,LVA,Latvia,2414,LRA ,Latvijas Regionu apvieniba,Latvian Association of Regions,1999-2019_CHES_codebook
+24,LVA,Latvia,2415,KPV LV,Kam pieder valsts?,Who owns the state? ,1999-2019_CHES_codebook
+24,LVA,Latvia,2416,JKP,Jauna konservativa partija,New Conservative Party,1999-2019_CHES_codebook
+24,LVA,Latvia,2417,AP!,Attistibai/Par!,Development/For!,1999-2019_CHES_codebook
+25,LTU,Lithuania,2501,LSDP,Lietuvos socialdemokratq paitija,Social Democratic Party of Lithuania,1999-2019_CHES_codebook
+25,LTU,Lithuania,2502,NDP,Naujosios demokratijos partija,New Democratic Party,1999-2019_CHES_codebook
+25,LTU,Lithuania,2503,LRS,Lietuvos rusq sajunga,Lithuanian Russian Union,1999-2019_CHES_codebook
+25,LTU,Lithuania,2504,NS,Naujoji sajunga (socialliberalai),New Union (Social LiberaIs),1999-2019_CHES_codebook
+25,LTU,Lithuania,2505,LLS; LiCS,Lietuvos liberalq sajunga; Liberalu ir centro sajunga,Liberal Union of Lithuanian; Liberal and Centre Union,1999-2019_CHES_codebook
+25,LTU,Lithuania,2506,TS-LKD; TS-LKD,Tevynes sajunga-Lietuvos krikScionys demokratai; Tevynes sajunga,Homeland Union-Lithuanian Christian Democrats; Homeland  Union,1999-2019_CHES_codebook
+25,LTU,Lithuania,2507,LVP; LVLS; LVZS,Lietuvos valstieciq partija; Valstieciu ir Naujosios demokratijos partiju sajungos; Lietuvos valstiečiu¸ ir Žaliu˛ju˛ sąjunga; Lietuvos valstiečiu¸ sąjunga,Lithuanian Peasant Party; Lithuanian Peasant Popular Union; Lithuanian Peasant and Greens Union; Lithuanian Peasant Union,1999-2019_CHES_codebook
+25,LTU,Lithuania,2508,LKDP,Lietuvos krikscionys demokrataj,Lithuanian Christian Democrats,1999-2019_CHES_codebook
+25,LTU,Lithuania,2509,LCS,Lietuvos centro sajunga,Center Union of Lithuania,1999-2019_CHES_codebook
+25,LTU,Lithuania,2510,NKS,Nuosaikiuju konservatoriu  sajunga,Moderate Conservative Union,1999-2019_CHES_codebook
+25,LTU,Lithuania,2511,LLRA,Lietuvos lenkq rinkimq akcija,Electoral Action of Lithuania's Poles,1999-2019_CHES_codebook
+25,LTU,Lithuania,2512,LLS,Lietuvos laisves sajunga,Lithuanian Liberty Union,1999-2019_CHES_codebook
+25,LTU,Lithuania,2513,JL-PKS,"Lietuviu Nacionaline Partija   ""Jaunoji Lietuva""",Young Lithuania-New  Nationalists and Political Prisoner's Union,1999-2019_CHES_codebook
+25,LTU,Lithuania,2514,MKDS,Moderniujui krikščioniu demokratu sąjunga,Modern Christian-Democratic  Union,1999-2019_CHES_codebook
+25,LTU,Lithuania,2515,TT,Tvarka ir teisingumas,Order and Justice,1999-2019_CHES_codebook
+25,LTU,Lithuania,2516,DP,Darbo partija,Labour Party,1999-2019_CHES_codebook
+25,LTU,Lithuania,2517,TPP,Tautos prisikelimo partija,National Resurrection Party,1999-2019_CHES_codebook
+25,LTU,Lithuania,2518,LRLS,Lietuvos Respublikos Liberalu Sajiidis; Liberalu Sajudis; Lietuvos Respublikos Liberalu Sąjudis,Liberals' Movement of the Republic of Lithuania; Liberal Movement,1999-2019_CHES_codebook
+25,LTU,Lithuania,2519,FRONT,Fronto Partija,Liberal Movement of the Republic of Lithuania Front  Party,1999-2019_CHES_codebook
+25,LTU,Lithuania,2520,DK,Drasos Kelias,The Way of Courage,1999-2019_CHES_codebook
+25,LTU,Lithuania,2521,LCP,Lietuvos Centro Partija ,Lithuanian Centre Party,1999-2019_CHES_codebook
+25,LTU,Lithuania,2522,LZP,Lietuvos falioji partija,Lithuanian Green Party ,1999-2019_CHES_codebook
+25,LTU,Lithuania,2523,VKM-AMT,"Visuomeninis rinkimu komitetas ""Ausros Maldeikienes traukinys""","Public election committee ""Ausra Maldeikiene's Train""",1999-2019_CHES_codebook
+26,POL,Poland,2601,SLD,Sojusz Lewicy Demokratycznej,Alliance of Democratic Left; Democratic Left Alliance,1999-2019_CHES_codebook
+26,POL,Poland,2602,UP,Unia Pracy,Union of Labour,1999-2019_CHES_codebook
+26,POL,Poland,2603,PO,Platforma Obywatelska,Civic Platform,1999-2019_CHES_codebook
+26,POL,Poland,2604,S,Samoobrona RP,Self Defense of the Polish Republic,1999-2019_CHES_codebook
+26,POL,Poland,2605,PiS,Prawo i Sprawiedliwosc,Law and Justice Party,1999-2019_CHES_codebook
+26,POL,Poland,2606,PSL,Polskie Stronnictwo Ludowe,Polish People's Party,1999-2019_CHES_codebook
+26,POL,Poland,2607,LPR,Liga Polskich Rodzin,League of Polish Families,1999-2019_CHES_codebook
+26,POL,Poland,2608,AWSP,Koalicja Akcja Wyborcza Solidarność Prawicy,Coalition Electoral Action Solidarity of the Right,1999-2019_CHES_codebook
+26,POL,Poland,2609,UW; PD,Unia Wolnosci; Partia Demokratyczna,Freedom Union; Democratic Party,1999-2019_CHES_codebook
+26,POL,Poland,2611,SDPL,Socjaldemokracja Polska,Social Democracy of Poland,1999-2019_CHES_codebook
+26,POL,Poland,2612,SD,Stronnictwo Demokratyczne,Democratic Party,1999-2019_CHES_codebook
+26,POL,Poland,2613,RP,Twój Ruch (Ruch Palikota) ,Your Movement (Palikot's Movement),1999-2019_CHES_codebook
+26,POL,Poland,2614,KNP,Kongres Nowej Prawicy,Congress of the New Right,1999-2019_CHES_codebook
+26,POL,Poland,2615,PR,Polska Razem,Poland Together,1999-2019_CHES_codebook
+26,POL,Poland,2616,SP,Solidarna Polska,United Poland,1999-2019_CHES_codebook
+26,POL,Poland,2617,Kukiz,Kukiz '15,Kukiz '15,1999-2019_CHES_codebook
+26,POL,Poland,2618,Nowo,Nowoczesna,Modern,1999-2019_CHES_codebook
+26,POL,Poland,2619,Konfederacia,Konfederacja Wolnosc i Niepodleglo8c,Confederation Liberty and Independence,1999-2019_CHES_codebook
+26,POL,Poland,2620,Lewica Razem,Lewica Razem,Left Together,1999-2019_CHES_codebook
+26,POL,Poland,2621,Wiosna,Wiosna,Spring,1999-2019_CHES_codebook
+27,ROU,Romania,2701,PSD,Partidul SociaI Democrat,Social Democratic Party,1999-2019_CHES_codebook
+27,ROU,Romania,2702,PUR; PC,Partidul Umanist  din Romania; Partidul Conservator,Romanian Humanist Party; Conservative Party,1999-2019_CHES_codebook
+27,ROU,Romania,2703,PRM,Partidul Romania Mare,Party of Great Romania,1999-2019_CHES_codebook
+27,ROU,Romania,2704,PDL,Partidul Democrat,Democratic Party,1999-2019_CHES_codebook
+27,ROU,Romania,2705,PNL,Partidul National Liberal,National Liberal Party,1999-2019_CHES_codebook
+27,ROU,Romania,2706,UDMR,Uniunea Democrata  Maghiara din Romania,Hungarian Democratic Union of Romania,1999-2019_CHES_codebook
+27,ROU,Romania,2707,CDR 2000,Conventia Democrata Romana,Romanian Democratic Convention 2000,1999-2019_CHES_codebook
+27,ROU,Romania,2708,FDGR,Forumul Democrat  al Germanilor din Romania,Democratic Forum of Germans of Romania,1999-2019_CHES_codebook
+27,ROU,Romania,2709,UNPR,Uniunea Nationala pentru Progresul Romaniei,National  Union for the Progress of Romania,1999-2019_CHES_codebook
+27,ROU,Romania,2710,PP-DD,Partidul Poporului    Dan Diaconescu,People's Party-Dan Diaconescu,1999-2019_CHES_codebook
+27,ROU,Romania,2711,PMP,Partidul Micarea Populara,People's Movement Party,1999-2019_CHES_codebook
+27,ROU,Romania,2712,PLR; ALOE ,Partidul  Liberal  Reformator; Alianta Liberalilor §i Democratilor,LiberaI Reformist Party; Alliance of Liberals and Democrats ,1999-2019_CHES_codebook
+27,ROU,Romania,2713,USR,Uniunea  Salvati  Romania,Save Romania Union,1999-2019_CHES_codebook
+27,ROU,Romania,2714,PRO,PRO Romania,PRO Romania,1999-2019_CHES_codebook
+28,SVK,Slovakia,2801,LS-HZDS,Ludova strana-Hnutie za demokraticke Slovensko,People's Party-Movement for a Democratic Slovakia,1999-2019_CHES_codebook
+28,SVK,Slovakia,2802,SDKU; SDKU-DS,Slovenská demokratická a krestanská únia; Slovenská demokratická a krestanská unia—Demokratická strana,Slovak Democratic and Christian Union; Slovak Democratic and Christian  Union-Democratic  Party,1999-2019_CHES_codebook
+28,SVK,Slovakia,2803,Smer; Smer-SD,Strana Smer-Tretia Cesta; Smer-socialna demokracia, Direction-Third Way; Direction-Social Democracy,1999-2019_CHES_codebook
+28,SVK,Slovakia,2804,SMK; SMK-MKP,Strana madarskej koalicie--Magyar; Koalíció Pártja,Party of the Hungarian Coalition; Hungarian Coalition,1999-2019_CHES_codebook
+28,SVK,Slovakia,2805,KDH,Kresťanskodemokratické hnutie,Christian Democratic Movement,1999-2019_CHES_codebook
+28,SVK,Slovakia,2806,ANO,Aliancia Noveho Obcana,Alliance for a New Citizen,1999-2019_CHES_codebook
+28,SVK,Slovakia,2807,KSS,Komunisticka strana Slovenska,Communist Party of Slovakia,1999-2019_CHES_codebook
+28,SVK,Slovakia,2808,PSNS,Prava Slovenska narodna strana,Right Slovak National Party,1999-2019_CHES_codebook
+28,SVK,Slovakia,2809,SNS,Slovenska narodna strana,Slovak National Party,1999-2019_CHES_codebook
+28,SVK,Slovakia,2810,HZD,Hnutie za demokraciu,Movement for Democracy,1999-2019_CHES_codebook
+28,SVK,Slovakia,2811,SF,Slobodne forum,Free Forum,1999-2019_CHES_codebook
+28,SVK,Slovakia,2812,SaS,Sloboda a Solidarita,Freedom and Solidarity,1999-2019_CHES_codebook
+28,SVK,Slovakia,2813,Most,Most-Hid,Bridge,1999-2019_CHES_codebook
+28,SVK,Slovakia,2814,OLaNO,Obyeajnf Ludia a nezavisle osobnosti,Ordinary People and Independent Personalities,1999-2019_CHES_codebook
+28,SVK,Slovakia,2815,NOVA,Nova Vacsina,New Majority,1999-2019_CHES_codebook
+28,SVK,Slovakia,2816,Siet,Siee,Net / Network,1999-2019_CHES_codebook
+28,SVK,Slovakia,2817,LSNS,Ĺudová strana Naše Slovensko (Marian Kotleba),People's Party-Our Slovakia,1999-2019_CHES_codebook
+28,SVK,Slovakia,2818,Sme Rodina,Sme Rodina-Boris Kollar,We are family-Boris Kollar,1999-2019_CHES_codebook
+28,SVK,Slovakia,2819,PS,Progresf vne Slovensko,Progressive Slovakia,1999-2019_CHES_codebook
+28,SVK,Slovakia,2820,SPOLU,SPOLU-obcianska  demokracia,TOGETHER-Civic Democracy,1999-2019_CHES_codebook
+28,SVK,Slovakia,2821,Za Ludi,Za Ludi (Andrej Kiska),For the People,1999-2019_CHES_codebook
+29,SVN,Slovenia,2901,LDS,Liberalna demoracija Slovenije,Liberal Democracy of Slovenia,1999-2019_CHES_codebook
+29,SVN,Slovenia,"2902
+","SDS
+",Socialdemokratska stranka Slovenije; Slovenska demokratska  stranka,Social Democratic Party of Slovenia; Slovenian Democratic Party,1999-2019_CHES_codebook
+29,SVN,Slovenia,2903, ZLSD; SD, Zdruzena lista socialnih  demokratov; Socialni Demokrati,United List of Social Democrats; Social Democrats,1999-2019_CHES_codebook
+29,SVN,Slovenia,2904,SLS-SKD; SLS ,Slovenska ljudska stranka,Slovenian People's Party-Slovenian Christian Democrats; Slovenian People's Party ,1999-2019_CHES_codebook
+29,SVN,Slovenia,2905,NSI,Nova Slovenija—Kršcanska ljudska strank,New Slovenia-Christian People's Party,1999-2019_CHES_codebook
+29,SVN,Slovenia,2906,DeSUS,Demokraticna stranka upokojencev Slovenije,Democratic Party of Pensioners of Slovenia,1999-2019_CHES_codebook
+29,SVN,Slovenia,2907,SNS,Slovenska nacionalna stranka,Slovenian National Party,1999-2019_CHES_codebook
+29,SVN,Slovenia,2908,SMS,Stranka Mladih Slovenije,Party of the Slovenia Youth,1999-2019_CHES_codebook
+29,SVN,Slovenia,2909,AS,Aktivna  Slovenija,Active Slovenia,1999-2019_CHES_codebook
+29,SVN,Slovenia,2910,Zares,Zares,Zares-For Real,1999-2019_CHES_codebook
+29,SVN,Slovenia,2911,SMC,Stranka Mira Cerarja,Party of Miro Cerar,1999-2019_CHES_codebook
+29,SVN,Slovenia,2912,ZL;Levica,Zdrufona Levica; Levica,United Left; The Left,1999-2019_CHES_codebook
+29,SVN,Slovenia,2913,ZaAB; AB,Zaveznistvo Alenke Bratusek; Stranka Alenke Bratusek,Alliance of Alenka Bratusek; Party of Alenka Bratusek,1999-2019_CHES_codebook
+29,SVN,Slovenia,2914,PS,Pozitivna Slovenija,Positive Slovenia,1999-2019_CHES_codebook
+29,SVN,Slovenia,2915,LMS,Lista  Vlaijana  Sarca,List of Marjan Saree,1999-2019_CHES_codebook
+31,HRV,Croatia,3101,HDZ,Hrvatska Demokratska Zajednica,Croatian Democratic Union,1999-2019_CHES_codebook
+31,HRV,Croatia,3102,SDP,Socialdemokratska Partija Hrvatske,Social Democratic Party of Croatia,1999-2019_CHES_codebook
+31,HRV,Croatia,3103,HSS,Hrvatska Seljaeka Stranka,Croatian Peasant Party,1999-2019_CHES_codebook
+31,HRV,Croatia,3104,HSLS,Hrvatska Socijalno Liberalna Stranka,Croatian Social Liberal Party,1999-2019_CHES_codebook
+31,HRV,Croatia,3105,HNS,Hrvatska Narodna  Stranka-Liberalni Demokrati,Croatian People's Party-Liberal Democrats,1999-2019_CHES_codebook
+31,HRV,Croatia,3106,IDS,Istarski Demokratski Sabor,Istrian Democratic Assembly,1999-2019_CHES_codebook
+31,HRV,Croatia,3107,HDSSB,Hrvatski Demokrtski Sabor Slavonije i Baranje,Croatian Democratic Assembly of Slavonija and Baranja,1999-2019_CHES_codebook
+31,HRV,Croatia,3108,HSU,Hrvatska stranka umirovljenika,Croatian Pru·ty of Pensioners,1999-2019_CHES_codebook
+31,HRV,Croatia,3109,HSP,Hrvatska Stranka Prava,Croatian Party of Rights,1999-2019_CHES_codebook
+31,HRV,Croatia,3110,SDSS,Samostalna demokratska srpska stranka,Independent Democratic Serb Party,1999-2019_CHES_codebook
+31,HRV,Croatia,3112,HL-SR,Hrvatski Laburisti-Stranka Rada,Croatian Labourists-Labour Party,1999-2019_CHES_codebook
+31,HRV,Croatia,3113,HSP-AS,Hrvatska stranka prava dr. Ante Starcevic,Croatian Party of Rights dr. Ante Stru·cevic,1999-2019_CHES_codebook
+31,HRV,Croatia,3114,ORaH,Odrzivi Razvoj Hrvatske,Croatian  Sustainable  Development,1999-2019_CHES_codebook
+31,HRV,Croatia,3115,Most,Most nezavisnih lista,Bridge of Independent  Lists,1999-2019_CHES_codebook
+31,HRV,Croatia,3116,ZZ,Zivi zid,Human Shield,1999-2019_CHES_codebook
+31,HRV,Croatia,3117,MB 365,Milan Bandic 365-Stranka rada i solidarnosti,Milan Bandic 365-The Party of Labour and Solidarity,1999-2019_CHES_codebook
+31,HRV,Croatia,3118,NS-R,Narodna stranka-Reformisti,People's Party-Reformists,1999-2019_CHES_codebook
+31,HRV,Croatia,3119,HKS,Hrvatska konzervativna stranka,Croatian Conservative Party,1999-2019_CHES_codebook
+37,MLT,Malta,3701,PL,Partit Laburista,Labour Party,1999-2019_CHES_codebook
+37,MLT,Malta,3702,PN,Partit Nazzjonalista,Nationalist Party,1999-2019_CHES_codebook
+38,LUX,Luxembourg,3801,CSV,Chreschtlech Sozial Vollekspartei,Christian Social People's Party,1999-2019_CHES_codebook
+38,LUX,Luxembourg,3802,Greng,Dei Greng,The Greens,1999-2019_CHES_codebook
+38,LUX,Luxembourg,3803,DP,Demokratesch Partei,Democratic Party,1999-2019_CHES_codebook
+38,LUX,Luxembourg,3804,LSAP,Letzebuerger Sozialistesch Aarbechterpartei,Luxembourg Socialist Workers' Party,1999-2019_CHES_codebook
+38,LUX,Luxembourg,3805,ADR,Alternativ Demokratesch Reformpartei,Alternative Democratic Reform Party,1999-2019_CHES_codebook
+38,LUX,Luxembourg,3806,DL,Dei Lenk,The Left,1999-2019_CHES_codebook
+38,LUX,Luxembourg,3807,PPLU,Piratepartei Letzebuerg,Pirate Party Luxembourg,1999-2019_CHES_codebook
+40,CYP,Cyprus,4001,DISY,Dimokratikós Sinagermós,Democratic Rally,1999-2019_CHES_codebook
+40,CYP,Cyprus,4002,Evroko,Evropaiko Komma,European Party,1999-2019_CHES_codebook
+40,CYP,Cyprus,4003,AKEL,Anorthotikó Kómma Ergazómenou Laoú,Progressive Party of Working People,1999-2019_CHES_codebook
+40,CYP,Cyprus,4004,DIKO,Dimokratikó Kómma ,Democratic Party,1999-2019_CHES_codebook
+40,CYP,Cyprus,4005,EDEK,Kinima Sosialdimokraton EDEK,Movement for Social Democracy EDEK,1999-2019_CHES_codebook
+40,CYP,Cyprus,4006,KOP,Kinima Oikologon  Perivallontiston,Ecological and Environmental Movement,1999-2019_CHES_codebook
+40,CYP,Cyprus,4007,SYM,Symmachía Politón,Citizens' Alliance,1999-2019_CHES_codebook
+40,CYP,Cyprus,4008,Kinhma,Kinima Allilengyu,Solidarity Movement,1999-2019_CHES_codebook
+40,CYP,Cyprus,4009,ELAivl,Ethniko Laiko Metopo,National Popular Front,1999-2019_CHES_codebook
+30,BIH,Bosnia & Herzegovina,3001,SDA,Stranka Demokratske Akcije,Party of Democratic Action,2007_CHES-candidates_codebook
+30,BIH,Bosnia & Herzegovina,3002,SBiH,Stranka za Bosnu i Hercegovinu,Party for Bosnia and Herzegovina,2007_CHES-candidates_codebook
+30,BIH,Bosnia & Herzegovina,3003,SDP,Socijaldemokratska Partija BiH,Social Democratic Party of BiH,2007_CHES-candidates_codebook
+30,BIH,Bosnia & Herzegovina,3004,HDZ BiH,Hrvatska demokratska zajednica Bosne i Hercegovine,Croatian Democratic Union of Bosnia and Herzegovina,2007_CHES-candidates_codebook
+30,BIH,Bosnia & Herzegovina,3005,HDZ 1990,Hrvatska demokratska zajednica 1990,Croatian Democratic Union 1990 (Croats Together alliance),2007_CHES-candidates_codebook
+30,BIH,Bosnia & Herzegovina,3006,SNSD,Savez nezavisnih socijaldemokrata,Alliance of Independent Social Democrats,2007_CHES-candidates_codebook
+30,BIH,Bosnia & Herzegovina,3007,SDS,Srpska Demokratska Stranka,Serbian Democratic Party,2007_CHES-candidates_codebook
+31,HRV,Croatia,3101,HZD,Hrvatska demokratska zajednica,Croatian Democratic Union,2007_CHES-candidates_codebook
+31,HRV,Croatia,3102,SDP,Socijaldemokratska partija Hrvatske,Social Democratic Party of Croatia,2007_CHES-candidates_codebook
+31,HRV,Croatia,3103,HSS,Hrvatska seljacka stranka,Croatian Peasant Party,2007_CHES-candidates_codebook
+31,HRV,Croatia,3104,HSLS,Hrvatska socijalno liberalna stranka,Croatian Social Liberal Party,2007_CHES-candidates_codebook
+31,HRV,Croatia,3105,HNS,Hrvatska narodna stranka,Croatian People's Party,2007_CHES-candidates_codebook
+31,HRV,Croatia,3106,IDS,lstarski demokratski sabor,lstrian Democratic Assembly,2007_CHES-candidates_codebook
+31,HRV,Croatia,3107,HDSSB,Hrvatski demokratski sabor Slavonije i Baranje,Croatian Democratic Assembly of Slavonia and Baranja,2007_CHES-candidates_codebook
+31,HRV,Croatia,3108,HSU,Hrvatska stranka umirovljenika,Croatian Party of Pensioners,2007_CHES-candidates_codebook
+31,HRV,Croatia,3109,HSP,Hrvatska stranka prava,Croatian Party of Rights,2007_CHES-candidates_codebook
+31,HRV,Croatia,3110,SDSS,Samostalna demokratska srpska stranka,Independent Democratic Serbian Party,2007_CHES-candidates_codebook
+31,HRV,Croatia,3111,SDAH,Stranka Demokratske Akcije Hrvatske,Party of Democratic Action of Croatia,2007_CHES-candidates_codebook
+32,MKD,North Macedonia,3201,VMRO-DPME,Vnatresna makedonska revolucionerna organizacija-Demokratska partija za makedonsko nacionalno edinstvo,Internal Macedonian Revolutionary Organization-Democratic Party for Macedonian National Unity,2007_CHES-candidates_codebook
+32,MKD,North Macedonia,3202,SDSM,Socijaldemokrat ski sojuz na Makedonija,Social Democratic Union of Macedonia,2007_CHES-candidates_codebook
+32,MKD,North Macedonia,3203,LOP,Liberalno-demokratska  partija,Liberal Democratic Party,2007_CHES-candidates_codebook
+32,MKD,North Macedonia,3204,DUI,Demokratska unija za integracija,Democratic Union for Integration,2007_CHES-candidates_codebook
+32,MKD,North Macedonia,3205,DPA,Partia Demokratike Shqiptare/Demokratska Partija na Albancite,Democratic Party of Albanians,2007_CHES-candidates_codebook
+32,MKD,North Macedonia,3206,VMRO-NP,Vnatresna Makedonska Revolucionerna  Organizacija-Narodna Partija,Interna l Macedonian Revolutionary Organization-People's  Party,2007_CHES-candidates_codebook
+32,MKD,North Macedonia,3207,NSDP,Nova socijaldemokratska partija,New Social Democratic Party,2007_CHES-candidates_codebook
+33,SRB,Serbia,3301,SRS,Srpska radikalna stranka,Serbian Radical Party,2007_CHES-candidates_codebook
+33,SRB,Serbia,3302,DS,Demokratska stranka,Democratic Party,2007_CHES-candidates_codebook
+33,SRB,Serbia,3303,DSS,Demokratska stranka Srbije,Democratic Party of Serbia,2007_CHES-candidates_codebook
+33,SRB,Serbia,3304,NS,Nova Srbija,New Serbia,2007_CHES-candidates_codebook
+33,SRB,Serbia,3305,JS,Jedinstvena Srbija,United Serbia,2007_CHES-candidates_codebook
+33,SRB,Serbia,3306,G17+,G17 Plus,G17 Plus,2007_CHES-candidates_codebook
+33,SRB,Serbia,3307,SPS,Socijalistic(ka partija Srbije,Socialist Party of Serbia,2007_CHES-candidates_codebook
+33,SRB,Serbia,3308,LOP,Liberalno-Demokratska Partija,Liberal Democratic Party,2007_CHES-candidates_codebook
+33,SRB,Serbia,3309,SPO,Srpski pokret obnove,Serbian Renewal Movement,2007_CHES-candidates_codebook
+34,TUR,Turkey,3401,AKP,Adalet ve Kalk?nma Partisi,Justice and Development Party,2007_CHES-candidates_codebook
+34,TUR,Turkey,3402,CHP,Cumhuriyet Halk Partisi,Republican People's Party,2007_CHES-candidates_codebook
+34,TUR,Turkey,3403,MHP,MilliyetiHareket Partisi,Nationalist Movement Party,2007_CHES-candidates_codebook
+34,TUR,Turkey,3404,DYP,Dogru Yol Partisi,True Path Party,2007_CHES-candidates_codebook
+34,TUR,Turkey,3405,GP,Gen Parti,Young Party,2007_CHES-candidates_codebook
+30,BIH,Bosnia & Herzegovina,3001,SDA,Stranka Demokratske Akcije,Party of Democratic Action,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3003,SDP,Socijaldemokratska Partija Bosne i Hercegovine,Social Democratic Party of Bosnia and Herzegovina,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3004,HDZ BiH,Hrvatska Demokratska Zajednica Bosne i Hercegovine,Croatian Democratic Union of BiH,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3005,HDZ 1990,Hrvatska Demokratska Zajednica 1990,Croatian Democratic Union  1990,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3006,SNSD,Savez nezavisnih socijaldemokrata,Alliance of Independent Social Democrats,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3007,SDS,Srpska Demokratska Stranka,Serb Democratic Party,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3008,DF,Demokratska Franta,Democratic Front,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3009,SBB BiH,Savez za bolju buduenost BiH,Union for a Better Future of BiH,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3010,BPS,Bosanskohercegovacka Patriotska Stranka,Bosnian-Herzegovian Patriotic Party,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3011,PDP,Partija Demokratskog progresa,Party of Democratic Progress,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3012,NDP,Narodn i Demokratski Pokret,People's Democratic Movement,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3013,DNS,Demokratski Narodn i Savez,Democratic People's Alliance,2014_CHES_Candidate_codebook
+32,MKD,North Macedonia,3201,VMRO-DPMNE,"VMRO-DPMNE-koalicija ""Za podobra Makedonija"" ","VMRO-DPMNE-led coalition ""For a Better Macedonia""",2014_CHES_Candidate_codebook
+32,MKD,North Macedonia,3202,SDSM,SDSM-koalicija, SDSM-led coalition,2014_CHES_Candidate_codebook
+32,MKD,North Macedonia,3204,DUI,Bashkimi Demokratik per Integrim/ Demokratska Unija za Integracija Partia ,Democratic Union for Integration,2014_CHES_Candidate_codebook
+32,MKD,North Macedonia,3205,DPA,Demokratike Shqiptare/Demokratska Partija na Albancite ,Democratic Party of Albanians,2014_CHES_Candidate_codebook
+32,MKD,North Macedonia,3208,GROM,Gragjanska opcija za Makedonija-koalicija,Citizen Option for Macedonia-led coalition,2014_CHES_Candidate_codebook
+33,SRB,Serbia,3209,NDP,Rilindja Demokratike Kombetare/ Nacionalna Demokratska Prerociba,National Democratic Revival,2014_CHES_Candidate_codebook
+33,SRB,Serbia,3302,DS,Demokratska  Stranka,Democratic Party,2014_CHES_Candidate_codebook
+33,SRB,Serbia,3303,DSS,Demokratska Stranka Srbije,Democratic Party of Serbia,2014_CHES_Candidate_codebook
+33,SRB,Serbia,3307,SPS,Socijalisticka Partija Srbije,Socialist Party of Serbia,2014_CHES_Candidate_codebook
+33,SRB,Serbia,3308,LDP,Liberalno-demokratska Partija,Liberal Democratic Party,2014_CHES_Candidate_codebook
+33,SRB,Serbia,3310,SNS,Srpska Napredna Stranka,Serbian progressive party,2014_CHES_Candidate_codebook
+33,SRB,Serbia,3311,SDP,Socijaldemokratska partija Srbije,Social Democratic Party of Serbia,2014_CHES_Candidate_codebook
+33,SRB,Serbia,3312,PUPS,Partija Ujedinjenih Penzionera  Srbije,Party of United  Pensioners of Serbia,2014_CHES_Candidate_codebook
+33,SRB,Serbia,3313,SDS,Socilajdemokratska  Stranka,Socialdemocratic Party,2014_CHES_Candidate_codebook
+33,SRB,Serbia,3314,LSV,Liga socijaldemokrata  Vojvodine,League of Social Democrats of Vojvodina,2014_CHES_Candidate_codebook
+33,SRB,Serbia,3315,Dveri,Dveri,Dveri,2014_CHES_Candidate_codebook
+41,ALB,Albania,4101,PS,Partia Socialiste e Shqiperise,Socialist Party of Albania,2014_CHES_Candidate_codebook
+41,ALB,Albania,4102,LSI,Levizja Socialiste per lntegrim,Socialist Movement for Integration,2014_CHES_Candidate_codebook
+41,ALB,Albania,4103,PBDNJ,Partia Bashkimi per te Drejtat e Njeriut,Unity for Human Rights Party,2014_CHES_Candidate_codebook
+41,ALB,Albania,4104,PKDSH,Partia Kristian Demokrate e Shqiperise,Christian Democratic Party of Albania,2014_CHES_Candidate_codebook
+41,ALB,Albania,4105,PD,Partia Demokratike e Shqiperise,Democratic Party of Albania,2014_CHES_Candidate_codebook
+41,ALB,Albania,4106,PR,Partia Republikane Shqiptare,Albanian Republican PartyE,2014_CHES_Candidate_codebook
+41,ALB,Albania,4107,PDIU,"Partia Drejtesi, lntegrim dhe Unitet","Justice, Integration and Unity Party",2014_CHES_Candidate_codebook
+42,XKX,Kosovo,4201,PDK,Partia Demokratike e Kosoves,Democratic Party of Kosovo,2014_CHES_Candidate_codebook
+42,XKX,Kosovo,4202,LDK,Lidhja Demokratike e Kosoves,Democratic League of Kosovo,2014_CHES_Candidate_codebook
+42,XKX,Kosovo,4203,LV,Levizja Vetevendosje!,Self-Determination  Movement!,2014_CHES_Candidate_codebook
+42,XKX,Kosovo,4204,AAK,Aleanca per Ardhmer ine e Kosoves,Alliance for the Future of Kosovo,2014_CHES_Candidate_codebook
+42,XKX,Kosovo,4205,SL,Srpska Lista,Serb List,2014_CHES_Candidate_codebook
+42,XKX,Kosovo,4206,NPK,Nisrna per Kosoven,Initiative for Kosovo,2014_CHES_Candidate_codebook
+42,XKX,Kosovo,4207,AKR,AleaJ1ca Kosova e Re,New Kosovo Alliance,2014_CHES_Candidate_codebook
+43,MNE,Montenegro,4301,DPS,Demokratska Partija Socijalista Crne Gore,Democratic Party of Socialists of Montenegro,2014_CHES_Candidate_codebook
+43,MNE,Montenegro,4302,SDP,Socijaldemokratska  Partija Crne Gore,Social Democratic Party of Montenegro,2014_CHES_Candidate_codebook
+43,MNE,Montenegro,4303,LPCG,Liberalna Partija Crne Gore,Liberal Party of Montenegro,2014_CHES_Candidate_codebook
+43,MNE,Montenegro,4304,NOVA,Nova srpska demokratija,New Serb Democracy,2014_CHES_Candidate_codebook
+43,MNE,Montenegro,4305,PzP,Pokret za Promjene,Movement for Changes,2014_CHES_Candidate_codebook
+43,MNE,Montenegro,4306,SNP,Socijalisticka narodna partija Crne Gore,Socialist People's Party of Montenegro,2014_CHES_Candidate_codebook
+43,MNE,Montenegro,4307,PCG,Pozitivna Crna Gora,Positive Montenegro,2014_CHES_Candidate_codebook
+43,MNE,Montenegro,4308,BS,Bosnjaeka Stranka,Bosniak Party,2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4401,NF,Narndnyy Front,Popular Front,2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4402,BPP,Blok Petra Poroshenka,Petro Poroshenko Bloc,2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4403,Samopomich,Samopomich,Self Reliance Party,2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4404,OB,Opozytsiynyy Blok,Opposition Bloc,2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4405,RP,Radikalna Partiya Oleha Lyashka,Radical Party of Oleh Lyashko,2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4406,BATKIVSHCHYNA,Batkivshchyna,"All-Ukrainian Union ""Fatherland """,2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4407,SVOBODA,Svoboda,Freedom,2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4408,KPU,Komunistychna Partiya Ukrayiny,Communist Party of Ukraine,2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4409,SU,Sylna Ukraina,Strong Ukraine,2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4410,GP,Hromadianska pozytsiia (Anatolii Grytsenko),Civic Position (Anatolii Grytsenko),2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4411,ZASTUP,"Vseukrayins'ke ahrarne ob'yednannya ""ZASTUP""",Zastup,2014_CHES_Candidate_codebook
+44,UKR,Ukraine,4412,PS,Pravyy sektor,Right Sector,2014_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3001,SDA,Stranka Demokratske Akcije,Party of Democratic Action,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3003,SDP,Socijaldemokratska Partija Bosne i Hercegovine,SociaI Democratic Party of Bosnia and Herzegovina,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3004,HDZ BiH,Hrvatska Demokratska Zajednica Bosne i Hercegovine,Croatian Democratic Union of Bosnia and Herzegovina,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3006,SNSD,Savez nezavisnih socijaldemokrata,Alliance of Independent Social Democrats,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3007,SDS,Srpska Demokratska Stranka,Serbian Democratic Party,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3008,DF,Demokratska Fronta,Democratic Front,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3009,SBB BiH,Savez za bolju buducnost BiH,Union for a Better Futme,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3011,PDP,Partija Demokratskog progresa,Party of Democratic Progress,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3013,DNS,Demokratski Narodni Savez,Democratic People's Alliance,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3014,NS,Nasa stranka,Om Party,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3015,PDA,Pokret demokratske  akcije,Movement  of Democratic  Action,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3016,SP,Socijalisticka Partija,Socialist Party,2019_CHES_Candidate_codebook
+30,BIH,Bosnia & Herzegovina,3017,ASDA,Stranka demokratske aktivnosti,Party of Democratic Activity,2019_CHES_Candidate_codebook
+32,MKD,North Macedonia,3201,VlvIRO-DPMNE,Vnatresna Makedonska Revolucionerna Organizacija-Demokratska Partija za Makeclonsko Nacionalno Edinstvo,Internal Macedonian Revolutionary Organization-Democratic Party for Ivlacedonian National Unity,2019_CHES_Candidate_codebook
+32,MKD,North Macedonia,3202,SDSM,Socijaldemokratski Sojuz na Makedonija,SociaI Democratic Union of Macedonia,2019_CHES_Candidate_codebook
+32,MKD,North Macedonia,3204,DUI,Demokratska Unija za Integracija Bashkimi Demokratik per Integrim,Democratic Union for Integration,2019_CHES_Candidate_codebook
+32,MKD,North Macedonia,3205,DPA,Demokratska Partija na Albancite Partia Demokratike Shqiptare,Democratic Party of Albanians,2019_CHES_Candidate_codebook
+32,MKD,North Macedonia,3210,BESA,Dvizenje Besa; Levizja Besa,Besa Movement,2019_CHES_Candidate_codebook
+32,MKD,North Macedonia,3211,AA,Alijansa za Albancite Aleanca per Shqiptaret,Alliance for Albanians,2019_CHES_Candidate_codebook
+32,MKD,North Macedonia,3212,Levica,Leviea,The Left,2019_CHES_Candidate_codebook
+33,SRB,Serbia,3301,SRS,Srpska Radikalna Stranka,Serbian Radical Party,2019_CHES_Candidate_codebook
+33,SRB,Serbia,3302,DS,Demokratska Stranka,Democratic Party,2019_CHES_Candidate_codebook
+33,SRB,Serbia,3307,SPS,Socijalisticka  Partij a Srbije,Socialist Party of Serbia,2019_CHES_Candidate_codebook
+33,SRB,Serbia,3310,SNS,Srpska Napredna Stranka,Serbian Progressive Party,2019_CHES_Candidate_codebook
+33,SRB,Serbia,3315,Dveri,Srpski Pokret Dveri,Serbian Movement Dveri,2019_CHES_Candidate_codebook
+33,SRB,Serbia,3316,SPAS,Srpski patriotski savez,Serbian Patriotic Alliance,2019_CHES_Candidate_codebook
+33,SRB,Serbia,3317,NS,Narodna stranka,People's Party,2019_CHES_Candidate_codebook
+33,SRB,Serbia,3318,SSP,Stranka slobode i pravde,Party of Freedom and Justice,2019_CHES_Candidate_codebook
+33,SRB,Serbia,3319,PSG,Pokret slobodnih gradana,Movement of Free Citizens,2019_CHES_Candidate_codebook
+41,ALB,Albania,4101,PS,Partia Socialiste e Shqiperise,Socialist Party of Albania,2019_CHES_Candidate_codebook
+41,ALB,Albania,4102,LSI,Levizja Socialiste per Integrim,Socialist Movement for Integration,2019_CHES_Candidate_codebook
+41,ALB,Albania,4105,PD,Partia Demokratike e Shqiperise,Democratic Party of Albania,2019_CHES_Candidate_codebook
+41,ALB,Albania,4107,PDIU,"Partia Drejtesi, Integrim dhe Unitet","The Party for Justice, Integration and Unity",2019_CHES_Candidate_codebook
+41,ALB,Albania,4108,PSD,Partia Socialdemokrate e Shqiperise,Social Democratic Party of Albania,2019_CHES_Candidate_codebook
+41,ALB,Albania,4109,Grupi Demokrat,Grupi Demokrat,Democratic Group,2019_CHES_Candidate_codebook
+41,ALB,Albania,4110,Grupi partite e djathta,Grupi partite e djathta,Democracy and Justice Group,2019_CHES_Candidate_codebook
+41,ALB,Albania,4111,Te Parvur,Te Pavarur,Independent Group,2019_CHES_Candidate_codebook
+42,XKX,Kosovo,4201,PDK,Partia Demokratike e Kosoves,Democratic Party of Kosovo,2019_CHES_Candidate_codebook
+42,XKX,Kosovo,4202,LDK,Lidhj a Demokratike e Kosoves,Democratic League of Kosovo,2019_CHES_Candidate_codebook
+42,XKX,Kosovo,4203,LY,Vetevenclosje,Self-determination,2019_CHES_Candidate_codebook
+42,XKX,Kosovo,4205,SL,Srpska Lista,Serb List,2019_CHES_Candidate_codebook
+42,XKX,Kosovo,4207,AKR,Aleanca Kosova e Re,New Kosovo Alliance,2019_CHES_Candidate_codebook
+42,XKX,Kosovo,4208,NISMA,Nisma Socialclemokrate,Socialdemocratic Initiative,2019_CHES_Candidate_codebook
+42,XKX,Kosovo,4209,Vakat,Koalicija Vakat,Coalition Vakat,2019_CHES_Candidate_codebook
+42,XKX,Kosovo,4210,KDTP,Kosova Demokratik Turk Partisi,The Turkish Democratic Party of Kosovo,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4301,DPS,Demokratska Partija Socijalista,Democratic Party of Socialists,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4302,SOP,Socijalclemokratska Partija Crne Gore,Social Democratic Party of Montenegro,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4304,NOVA,Nova srpska clemokratija,New Serb Democracy,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4305,PzP,Pokret za promjene,Movement for Changes,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4306,SNP,Socijalisticka Narodna Partija Crne Gore,Socialist People's Party of Montenegro,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4308,BS,Bosnjacka Stranka,Bosniak Party,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4309,DEMOS,Demokratski Savez,Democratic Alliance,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4310,URA,Ujedinjena Reformska Akcija,United Reform Action,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4311,DCG,Demokratska Crna Gora,Democratic Montenegro,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4312,SD,Socijaldemokrate Crne Gore,Social Democrats of Montenegro,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4313,FORCA,Nova Demokratska Snaga,New Democratic Force,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4314,HGI,Hrvatska Gradzanska Inicijativa,Croatian Civic Initiative,2019_CHES_Candidate_codebook
+43,MNE,Montenegro,4315,DNP,Demokratska narodna partija,Democratic People's Party,2019_CHES_Candidate_codebook
+3,DEU,Germany,301,CDU,Christlieb Democratische Union Deutschlands,Christian Democratic Union of Germany,CHES+2017+Codebook
+3,DEU,Germany,302,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,CHES+2017+Codebook
+3,DEU,Germany,303,FDP,Freie Demokratische Partei,Free Democratic Party,CHES+2017+Codebook
+3,DEU,Germany,304,Grunen,Bündnis '90; Die Grünen,Alliance 90; The Greens,CHES+2017+Codebook
+3,DEU,Germany,306,Linke,Die Linke,The Left,CHES+2017+Codebook
+3,DEU,Germany,308,CSU,Christlieb Soziale Union in Bayern,Christian Social Union in Bavaria,CHES+2017+Codebook
+3,DEU,Germany,310,AID,Alternative für Deutschland,Alternative for Germany,CHES+2017+Codebook
+3,DEU,Germany,350,LKR,Liberal-Konservative Reformer,Liberal Conservative Party,CHES+2017+Codebook
+3,DEU,Germany,351,BLAU,Die Blane Partei,The Blue Party,CHES+2017+Codebook
+4,GRC,Greece,401,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,CHES+2017+Codebook
+4,GRC,Greece,402,ND,Nea Dimokratia,New Democracy,CHES+2017+Codebook
+4,GRC,Greece,403,SYRIZA,Synaspismo's Rizospastikis Aristeras,Coalition of the Radical Left,CHES+2017+Codebook
+4,GRC,Greece,404,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,CHES+2017+Codebook
+4,GRC,Greece,412,ANEL,Anexartitoi Ellines,Independent Greeks,CHES+2017+Codebook
+4,GRC,Greece,413,Potami,To Potami,The River,CHES+2017+Codebook
+4,GRC,Greece,414,DIMAR,Dimokratiki Aristera,Democratic Left,CHES+2017+Codebook
+4,GRC,Greece,415,XA,Lai:k6s S)rndesmos-Chrysi Avgi,Popular Association- Golden Dawn,CHES+2017+Codebook
+4,GRC,Greece,450,EK,Enosi Kentroon,Union of Centrists,CHES+2017+Codebook
+5,ESP,Spain,501,PSOE,Partido Socialista Obrero Espanol,Spanish Socialist Workers'  Party,CHES+2017+Codebook
+5,ESP,Spain,502,PP,Partido Popular,People's Party,CHES+2017+Codebook
+5,ESP,Spain,504,IU,Izquierda Unida,United Left,CHES+2017+Codebook
+5,ESP,Spain,506,EAJ/PNV,Euzko Alderdi Jeltzalea/ Partido Nacionalista Vasco,Basque Nationalist Party,CHES+2017+Codebook
+5,ESP,Spain,507,EA/EH BILDU,Eusko Alkartasuna/ Euskal Henia Bildu,Basque Solidarity/ Basque Country Unite,CHES+2017+Codebook
+5,ESP,Spain,511,ERC-CatSI,Esquena Republicana de Catalunya,Republican Left of Catalonia,CHES+2017+Codebook
+5,ESP,Spain,517,CC,Coalición Canaria ,Coalición Canaria ,CHES+2017+Codebook
+5,ESP,Spain,525,Podemos,Podemos,We Can,CHES+2017+Codebook
+5,ESP,Spain,526,C's,Ciudadanos- Partido de la Ciudadania,Citizens- Party of the Citizemy,CHES+2017+Codebook
+5,ESP,Spain,550,CDC/PDeCAT,Convergencia Democratica de Catalunya/ Partit Democrata Europeu Catala,Democratic Convergence of Catalonia/ Catalan European Democratic Party,CHES+2017+Codebook
+6,FRA,France,601,PCF,Parti Communiste Franc;:ais,French Communist Party,CHES+2017+Codebook
+6,FRA,France,602,PS,Parti Socialiste,Socialist Party,CHES+2017+Codebook
+6,FRA,France,605,EELV,Europe Ecologie Les Verts,Europe  Ecology-The Greens,CHES+2017+Codebook
+6,FRA,France,609,LR,Les Republicains,The Republicans,CHES+2017+Codebook
+6,FRA,France,610,FN,Front National,National Front,CHES+2017+Codebook
+6,FRA,France,613,MODEM,Mouvement Democrate,Democratic Movement,CHES+2017+Codebook
+6,FRA,France,621,NC,Nouveau Centre,New Center,CHES+2017+Codebook
+6,FRA,France,626,LREM,La Republique en Marche,The Republic on the Move,CHES+2017+Codebook
+6,FRA,France,627,Insoumis,La France Insoumise,France Unbowed,CHES+2017+Codebook
+6,FRA,France,628,DLF,Debout la France,France Arise,CHES+2017+Codebook
+8,ITA,Italy,811,LN,Lega Nord,Northern League,CHES+2017+Codebook
+8,ITA,Italy,814,UDC,Unione de Centro,Union of the Centre,CHES+2017+Codebook
+8,ITA,Italy,815,FI,Forza Italia,Forward Italy,CHES+2017+Codebook
+8,ITA,Italy,827,SVP,Siidtiroler Volkspartei,South Tyrolean People's Party,CHES+2017+Codebook
+8,ITA,Italy,837,PD,Partido Democratico,Democratic Party,CHES+2017+Codebook
+8,ITA,Italy,843,CD,Centro Democratico-Diritti e Liberta,Democratic Centre,CHES+2017+Codebook
+8,ITA,Italy,844,FdI,Fratelli d'Italia,Brothers ofltaly,CHES+2017+Codebook
+8,ITA,Italy,845,M5S,Movimento Cinque Stelle,Five Star Movement,CHES+2017+Codebook
+8,ITA,Italy,847,VdA,Vallee d'Aoste,Aosta Valley,CHES+2017+Codebook
+8,ITA,Italy,850,SI,Sinistra Italiana,Italian Left,CHES+2017+Codebook
+8,ITA,Italy,851,MDP,Progressista,Democratic and Progressive Movement,CHES+2017+Codebook
+8,ITA,Italy,852,AP,Alternative Popolare,Popular Alternative,CHES+2017+Codebook
+10,NLD,Netherlands,1001,CDA,Christen-Democratisch Appel,Christian Democratic Appeal,CHES+2017+Codebook
+10,NLD,Netherlands,1002,PvdA,Partij van de Arbeid,Labour Party,CHES+2017+Codebook
+10,NLD,Netherlands,1003,VVD,Volkspa1tij voor Vrijheid en Demokratie,People' s Party for Freedom and Democracy,CHES+2017+Codebook
+10,NLD,Netherlands,1004,D66,Democraten 66,Democrats 66,CHES+2017+Codebook
+10,NLD,Netherlands,1005,GL,GroenLinks,GreenLeft,CHES+2017+Codebook
+10,NLD,Netherlands,1006,SGP,Staatkundig Gereformeerde Partij,Political Refonned Party,CHES+2017+Codebook
+10,NLD,Netherlands,1014,SP,Socialistische Partij,Socialist Party,CHES+2017+Codebook
+10,NLD,Netherlands,1016,CU,ChristenUnie,Christian Union,CHES+2017+Codebook
+10,NLD,Netherlands,1017,PVV,Paitij voor de Vrijheid,Party for Freedom,CHES+2017+Codebook
+10,NLD,Netherlands,1018,PvdD,Partij voor de Dieren,Party for the Animals,CHES+2017+Codebook
+10,NLD,Netherlands,1020,50PLUS,50PLUS,50PLUS,CHES+2017+Codebook
+10,NLD,Netherlands,1050,Denk,Denk,Think/Equality,CHES+2017+Codebook
+10,NLD,Netherlands,1051,FvD,Fonnn voor Democratie,Farum for Democracy,CHES+2017+Codebook
+11,GBR,United Kingdom,1101,Cons,Conservative Party,Conservative Party,CHES+2017+Codebook
+11,GBR,United Kingdom,1102,Lab,Labour Paitv,Labour Pa1tv,CHES+2017+Codebook
+11,GBR,United Kingdom,1104,LibDem,Liberal Democratic Party,Liberal Democratic Party,CHES+2017+Codebook
+11,GBR,United Kingdom,1105,SNP,Scottish National Party,Scottish National Party,CHES+2017+Codebook
+11,GBR,United Kingdom,1106,Plaid,Plaid Cvmru,Paitv of Wales,CHES+2017+Codebook
+11,GBR,United Kingdom,1107,Greens,Green Paitv,Green Party,CHES+2017+Codebook
+11,GBR,United Kingdom,1108,UKIP,UK Independence Party,UK Independence Party,CHES+2017+Codebook
+11,GBR,United Kingdom,1150,SF,Sinn Fein,Ourselves,CHES+2017+Codebook
+11,GBR,United Kingdom,1151,DUP,Democratic Unionist Party,Democratic Unionist Party,CHES+2017+Codebook
+12,PRT,Portugal,1201,CDU/PCP- PEV,Coligação Democrática Unitária ,Democratic Unitarian Coalition,CHES+2017+Codebook
+12,PRT,Portugal,1202,CDS-PP,Partido Popular,People's Party,CHES+2017+Codebook
+12,PRT,Portugal,1205,PS,Partido Socialista,Socialist Party,CHES+2017+Codebook
+12,PRT,Portugal,1206,PSD,Paitido Social Democrata,Social Democratic Party,CHES+2017+Codebook
+12,PRT,Portugal,1208,BE/O Bloco,Bloco de Esquerda,Left Bloc,CHES+2017+Codebook
+12,PRT,Portugal,1209,MPT,Partido da Tena,Earth Party,CHES+2017+Codebook
+12,PRT,Portugal,1250,PAN,Pessoas-Animais-Natureza,People-Animals-Nature,CHES+2017+Codebook
+12,PRT,Portugal,1251,PDR,Partido  Democratico Republicano,Democratic Republican Party,CHES+2017+Codebook
+16,SWE,Sweden,1601,v,Vänsterpartiet,Left Party,CHES+2017+Codebook
+16,SWE,Sweden,1602,SAP,Sveriges Socialdemokratiska Arbetareparti,Swedish Social Democratic Party,CHES+2017+Codebook
+16,SWE,Sweden,1603,c,Centerpartiet,Center Party,CHES+2017+Codebook
+16,SWE,Sweden,1604,FP,Folkpartiet Liberalna,Liberal People's Party,CHES+2017+Codebook
+16,SWE,Sweden,1605,M,Moderata Samlingspartiet,Moderate Party,CHES+2017+Codebook
+16,SWE,Sweden,1606,KD,Kristdemokraternah,Christian Democrats,CHES+2017+Codebook
+16,SWE,Sweden,1607,MP,Miljöepartiet de Gröna,Environment Party- The Greens,CHES+2017+Codebook
+16,SWE,Sweden,1610,SD,Sverigedemokratema,Sweden Democrats,CHES+2017+Codebook
+16,SWE,Sweden,1611,PIRAT,Piratpartiet,Pirate Party,CHES+2017+Codebook
+16,SWE,Sweden,1612,FI,Feministiskt Initiativ,Feminist Initiative,CHES+2017+Codebook
+21,CZE,Czech Republic,2101,CSSD,Ceska strana socialne demokraticka,Czech Social Democratic Party,CHES+2017+Codebook
+21,CZE,Czech Republic,2102,ODS,Obcanská Demokratická Strana,Civic Democratic Party,CHES+2017+Codebook
+21,CZE,Czech Republic,2103,KSCM,Komunisticka strana Cech a Moravy,Communist Party of Bohemia and Moravia,CHES+2017+Codebook
+21,CZE,Czech Republic,2104,KDU-CSL,Krest'anska demokraticka unie - Ceskoslovenska strnna lidova,Christian Democratic Union-Czechoslovak People's Party,CHES+2017+Codebook
+21,CZE,Czech Republic,2109,TOP09,TOP09,TOP09,CHES+2017+Codebook
+21,CZE,Czech Republic,2111,AN02011,"ANO2011, Akce nespokojených občanů ","AN02011, Action  of Dissatisfied Citizens",CHES+2017+Codebook
+21,CZE,Czech Republic,2114,Pirates,Pirátská strana ,Pirate Party,CHES+2017+Codebook
+21,CZE,Czech Republic,2115,SPD,Svoboda a přímá demokracie,Freedom and Direct Democracy,CHES+2017+Codebook
+21,CZE,Czech Republic,2116,STAN,Starostové a nezávislí,Mayors and Independents,CHES+2017+Codebook
+22,EST,Estonia,2201,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,CHES+2017+Codebook
+22,EST,Estonia,2202,EK,Eesti Keskerakond,Estonian Center Party,CHES+2017+Codebook
+22,EST,Estonia,2203,ER,Eesti Reformierakond,Estonian Reform Party,CHES+2017+Codebook
+22,EST,Estonia,2204,SDE,Sotsiaaldemokraatlik Erakond,Social Democratic Party,CHES+2017+Codebook
+22,EST,Estonia,2208,EVE,Eesti Vabaerakond,Estonian Free Party,CHES+2017+Codebook
+22,EST,Estonia,2209,EKRE,Eesti Konservatiivne Rahvaerakond,Conservative People's Party of Estonia,CHES+2017+Codebook
+23,HUN,Hungary,2301,MSzP,Magyar Szocialista Part,Hungarian Socialist Party,CHES+2017+Codebook
+23,HUN,Hungary,2302,Fidesz, Fidesz – Magyar Polgári Szövetség,Fidesz - Hungarian Civic Union,CHES+2017+Codebook
+23,HUN,Hungary,2308,JOBBIK,Jobbik Magyarországért Mozgalom,Jobbik - Movement for a Better Hungary,CHES+2017+Codebook
+23,HUN,Hungary,2309,LMP,Lehet Más a Politika,Politics Can Be Different,CHES+2017+Codebook
+23,HUN,Hungary,2310,El4,Együtt – A Korszakváltók Pártja,Together-Party for a New Era,CHES+2017+Codebook
+23,HUN,Hungary,2311,DK,Demokratikus Koalíció ,Democratic Coalition,CHES+2017+Codebook
+23,HUN,Hungary,2312,PM,Párbeszéd Magyarországért,Dialogue for Hungary,CHES+2017+Codebook
+23,HUN,Hungary,2313,MLP,Magyar Liberális Párt (Liberálisok),Hungarian Liberal Party,CHES+2017+Codebook
+26,POL,Poland,2601,SLD,Sojusz Lewicy Demokratycznej,Democratic Left Alliance,CHES+2017+Codebook
+26,POL,Poland,2603,PO,Platforma Obywatelska,Civic Platform,CHES+2017+Codebook
+26,POL,Poland,2605,PiS,Prawo i Sprawiedliwosc,Law and Justice Party,CHES+2017+Codebook
+26,POL,Poland,2606,PSL,Polskie Stronnictwo Ludowe,Polish People's Party,CHES+2017+Codebook
+26,POL,Poland,2613,TR,Twoj Ruch (Ruch Palikota),Your Movement (Palikot's Movement),CHES+2017+Codebook
+26,POL,Poland,2617,Kukiz,Kukiz'l5,Kukiz'l5,CHES+2017+Codebook
+26,POL,Poland,2618,Novo,Nowoczesna,Modem,CHES+2017+Codebook
+26,POL,Poland,2619,K01win,Wolnosc (Korwin-Mikke),Liberty (Korwin- Mikke),CHES+2017+Codebook
+26,POL,Poland,2620,Razem,Partia Razem,Together Party,CHES+2017+Codebook
+28,SVK,Slovakia,2803,Smer,Smer-socialna demokracia,Direction-Social Democracy,CHES+2017+Codebook
+28,SVK,Slovakia,2804,SMK-MDP,Strana mad'arskej komunity,Party of the Hungarian Community,CHES+2017+Codebook
+28,SVK,Slovakia,2805,KDH,Krest'anskodemokraticke hnutie,Christian Democratic Movement,CHES+2017+Codebook
+28,SVK,Slovakia,2809,SNS,Slovenska narodna strana,Slovak National Party,CHES+2017+Codebook
+28,SVK,Slovakia,2812,Sas,Sloboda a Solidar·ita,Freedom and Solidarity,CHES+2017+Codebook
+28,SVK,Slovakia,2813,Most-Hid,Most-Hid,Bridge,CHES+2017+Codebook
+28,SVK,Slovakia,2814,OlaNO- NOVA,Obyčajní Ľudia a nezávislé osobnosti-NOVA,Ordinary People and Independent Personalities-NOVA,CHES+2017+Codebook
+28,SVK,Slovakia,2816,Siet,Siet',Network,CHES+2017+Codebook
+28,SVK,Slovakia,2817,Kotleba LSNS,Ľudová strana – Naše Slovensko (Marian Kotleba) ,People' s Party- Our Slovakia,CHES+2017+Codebook
+28,SVK,Slovakia,2818,Sme Rodina,Sme Rodina,We Are Family,CHES+2017+Codebook
+1,BEL,Belgium,103,PS, Parti Socialiste,Socialist Party,CHES+Ukraine+Codebook
+1,BEL,Belgium,103,SP SPA,Socialistische Partij; Socialistische Partij Anders,Socialist Party; Socialist Party Different,CHES+Ukraine+Codebook
+1,BEL,Belgium,104,ECOLO,Écologistes Confédérés pour l'organisation de luttes originales,Confederated ecologists for the organisation of original struggles,CHES+Ukraine+Codebook
+1,BEL,Belgium,105,AGALEV; Groen,Agalev; Groen!,Agalev; Green!,CHES+Ukraine+Codebook
+1,BEL,Belgium,106,PRL; MR,Parti Réformateur Libéral; Mouvement Réformateur,Liberal Reformist Party; Reformist Movement,CHES+Ukraine+Codebook
+1,BEL,Belgium,107,VLD; PVV,Vlaamse Liberalen en Democraten; Partij voor Vrijheid en Vooruitgang,Flemish Liberals and Democrats; Party of Liberty and Progress,CHES+Ukraine+Codebook
+1,BEL,Belgium,108,PSC; CDH,Parti Social Chrétien; Centre Démocrate Humaniste,Christian Social Party; Humanist Democratic Centre,CHES+Ukraine+Codebook
+1,BEL,Belgium,109,CVP; CD&V,Christelijke Volkspartij; Christen-Democratisch & Vlaams,Christian People's Party; Christian Democratic & Flemish,CHES+Ukraine+Codebook
+1,BEL,Belgium,110,VU; NVA,Volksunie; Nieuw-Vlaamse Alliantie,People's Union; New Flemish Alliance,CHES+Ukraine+Codebook
+1,BEL,Belgium,112,VB,Vlaams Blok; Vlaams Belang,Flemish Bloc; Flemish Interest,CHES+Ukraine+Codebook
+1,BEL,Belgium,119,PVDA-PTB,Partij van de Arbeid van België/Parti du travail de Belgique,Workers' Party of Belgium,CHES+Ukraine+Codebook
+2,DNK,Denmark,201,SD,Socialdemokratiet,Social Democrats,CHES+Ukraine+Codebook
+2,DNK,Denmark,202,RV,Det Radikale Venstre,Radical Left-Social Liberal Party,CHES+Ukraine+Codebook
+2,DNK,Denmark,203,KF,Konservative,Conservatives,CHES+Ukraine+Codebook
+2,DNK,Denmark,206,SF,Socialistisk Folkeparti,Socialist People's Party; Green Left,CHES+Ukraine+Codebook
+2,DNK,Denmark,211,V,Venstre; Danmarks Liberale Parti,Liberal Party of Denmark,CHES+Ukraine+Codebook
+2,DNK,Denmark,213,EL; ENO,Enhedslisten -- De Rød-Grønne,Unity List-Red/Green Alliance,CHES+Ukraine+Codebook
+2,DNK,Denmark,215,DF,Dansk Folkeparti,Danish People's Party,CHES+Ukraine+Codebook
+2,DNK,Denmark,218,NLA,Ny-Liberal Alliance; Liberal Alliance (LA),New Liberal Alliance; Liberal Alliance,CHES+Ukraine+Codebook
+2,DNK,Denmark,219,A,Alternativet,The Alternative,CHES+Ukraine+Codebook
+2,DNK,Denmark,220,NB,Nye Borgerlige,The New Right,CHES+Ukraine+Codebook
+2,DNK,Denmark,221,M,Moderaterne,Moderates,CHES+Ukraine+Codebook
+2,DNK,Denmark,222,DD,Danmarksdemokraterne,The Danish Democrats,CHES+Ukraine+Codebook
+3,DEU,Germany,301,CDU,Christlich Demokratische Union Deutschlands ,Christian Democratic Union of Germany,CHES+Ukraine+Codebook
+3,DEU,Germany,302,SPD,Sozialdemokratische Partei Deutschlands ,Social Democratic Party of Germany,CHES+Ukraine+Codebook
+3,DEU,Germany,303,FDP ,Freie Demokratische Partei ,Free Democratic Party,CHES+Ukraine+Codebook
+3,DEU,Germany,304,Grunen, Bündnis '90; Die Grünen ,Alliance 90; The Greens ,CHES+Ukraine+Codebook
+3,DEU,Germany,306,PDS; Linkspartei; Linke ,Partei des Demokratischen Sozialismus; Die Linkspartei; Die Linke ,Party of Democratic Socialism; Left Party; The Left,CHES+Ukraine+Codebook
+3,DEU,Germany,308,CSU ,Christlich Soziale Union in Bayern ,Christian Social Union in Bavaria ,CHES+Ukraine+Codebook
+3,DEU,Germany,310,AfD ,Alternative für Deutschland ,Alternative for Germany,CHES+Ukraine+Codebook
+4,GRC,Greece,401,PASOK ,Panellinio Sosialistikó Kínima -Kinima Allagís ,Panhellenic Socialist Movement ,CHES+Ukraine+Codebook
+4,GRC,Greece,402, ND ,Néa Dimokratía ,New Democracy ,CHES+Ukraine+Codebook
+4,GRC,Greece,403,SYN; SYRIZA ,Synaspismós tïs Aristerás kai tïs Proódou; Synaspismó's Rizospastikís Aristerás ,Coalition of the Left and Progress; Coalition of the Radical Left ,CHES+Ukraine+Codebook
+4,GRC,Greece,404,KKE ,Kommounistikó Kómma Elládas ,Communist Party of Greece ,CHES+Ukraine+Codebook
+4,GRC,Greece,415,XA ,Laïkós Sýndesmos --Chrysí Avgí ,People's Association--Golden Dawn ,CHES+Ukraine+Codebook
+4,GRC,Greece,416,EL ,Elliniki Lysi ,Greek Solution ,CHES+Ukraine+Codebook
+4,GRC,Greece,417,MR25 ,Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής [ΜέΡΑ25] ,European Realistic Disobedience Front [MeRa25] ,CHES+Ukraine+Codebook
+4,GRC,Greece,418,DIKKI; KIDISO ,Dimokratiko Kinoniko Kinima; Kinima Dimokraton Sosialiston  ,Democratic Social Movement; Movement of Democratic Socialists,CHES+Ukraine+Codebook
+5,ESP,Spain,501,PSOE,Partido Socialista Obrero Español ,Spanish Socialist Workers' Party ,CHES+Ukraine+Codebook
+5,ESP,Spain,502,PP ,Partido Popular; Alianza-Partido Popular ,People's Party; People's Alliance Party ,CHES+Ukraine+Codebook
+5,ESP,Spain,504,IU ,Izquierda Unida; Partido Comunista ,United Left; Communist Party ,CHES+Ukraine+Codebook
+5,ESP,Spain,506,PNV ,Euzko Alderdi Jeltzalea/Partido Nacionalista Vasco ,Basque Nationalist Party ,CHES+Ukraine+Codebook
+5,ESP,Spain,511,ERC ,Esquerra Republicana de Catalunya ,Republican Left of Catalonia ,CHES+Ukraine+Codebook
+5,ESP,Spain,513,BNG ,Bloque Nacionalista Galego ,Galacian Nationalist Bloc ,CHES+Ukraine+Codebook
+5,ESP,Spain,517,CC ,Coalición Canaria ,Canarian Coalition ,CHES+Ukraine+Codebook
+5,ESP,Spain,524,EHB ,Amaiur; Euskal Herria Bildu ,Amaiur; Basque Country Unite/Gather ,CHES+Ukraine+Codebook
+5,ESP,Spain,525,Podemos ,Podemos; Unidas ,Podemos; We Can ,CHES+Ukraine+Codebook
+5,ESP,Spain,526,Cs ,Ciudadanos--Partido de la Ciudadanía ,Citizens--Party of the Citizenry ,CHES+Ukraine+Codebook
+5,ESP,Spain,527,Vox ,Vox ,Voice (Latin) ,CHES+Ukraine+Codebook
+5,ESP,Spain,528,Pais ,Más País ,More Country ,CHES+Ukraine+Codebook
+5,ESP,Spain,550,PdCAT ,Partit Demòcrata Europeu Català (Junts per Cataluyna partner)  ,Catalan European Democratic Party (Together for Catalonia Partner) ,CHES+Ukraine+Codebook
+6,FRA,France,601,PCF ,Parti Communiste Français,French Communist Party ,CHES+Ukraine+Codebook
+6,FRA,France,602,PS,Parti Socialiste ,Socialist Party ,CHES+Ukraine+Codebook
+6,FRA,France,603,PRG ,Parti Radical de Gauche ,Left Radical Party ,CHES+Ukraine+Codebook
+6,FRA,France,605,EELV ,Les Verts ,Green Party ,CHES+Ukraine+Codebook
+6,FRA,France,609,LR ,Les Républicains ,The Republicans ,CHES+Ukraine+Codebook
+6,FRA,France,610,RN ,Le Rassemblement ,National National Rally ,CHES+Ukraine+Codebook
+6,FRA,France,613,MoDem ,Union pour la Démocratie Française/ Mouvement pour la démocratie ,Union for French Democracy; French Democratic Movement ,CHES+Ukraine+Codebook
+6,FRA,France,626,REM; RE ,La République en Marche!; Rennaissance ,The Republic Onwards!; Renaissance ,CHES+Ukraine+Codebook
+6,FRA,France,627,FI ,La France insoumise ,Unbowed France ,CHES+Ukraine+Codebook
+6,FRA,France,628,DLF,Debout la France,France Arise ,CHES+Ukraine+Codebook
+6,FRA,France,629,UDI ,Union des démocrates et des indépendents ,Union of Democrats and Independents ,CHES+Ukraine+Codebook
+7,IRL,Ireland,701,FF ,Fianna Fáil ,Soldiers of Destiny ,CHES+Ukraine+Codebook
+7,IRL,Ireland,702,FG ,Fine Gael ,Family of the Irish ,CHES+Ukraine+Codebook
+7,IRL,Ireland,703,Lab ,Páirti Lucht ,Oibre Labour ,CHES+Ukraine+Codebook
+7,IRL,Ireland,705,GP ,Comhaontas Glas ,Green Party ,CHES+Ukraine+Codebook
+7,IRL,Ireland,707,SF ,Sinn Féin ,We Ourselves ,CHES+Ukraine+Codebook
+7,IRL,Ireland,708,SPD ,Páirtí Sóisialach ,Socialist Party ,CHES+Ukraine+Codebook
+7,IRL,Ireland,709,PBPA ,People Before Profit Alliance ,People Before Profit Alliance ,CHES+Ukraine+Codebook
+7,IRL,Ireland,710,DS ,Daonlathaigh Shóisialta ,Social Democrats ,CHES+Ukraine+Codebook
+7,IRL,Ireland,711,I4C ,Independents for Change ,Independents for Change,CHES+Ukraine+Codebook
+8,ITA,Italy,811,LN ,LN,Lega Nord; Lega ,CHES+Ukraine+Codebook
+8,ITA,Italy,815,FI-PdL ,Forza Italia-Il Popolo della Libertà ,Forward Italy-The People of Freedom ,CHES+Ukraine+Codebook
+8,ITA,Italy,837,PD ,Partito Democratico ,Democratic Party ,CHES+Ukraine+Codebook
+8,ITA,Italy,838,SI-EV ,Sinistra Italia-Europa Verde ,Italian Left-Green Europe ,CHES+Ukraine+Codebook
+8,ITA,Italy,844,FDI ,Fratelli d'Italia ,Brothers of Italy ,CHES+Ukraine+Codebook
+8,ITA,Italy,845,M5S ,Movimento Cinque ,Stelle Five Star Movement ,CHES+Ukraine+Codebook
+8,ITA,Italy,832,PlusEuropa ,PlusEuropa (previously Radicali Italiani) ,PlusEurope (previously Italian Radicals),CHES+Ukraine+Codebook
+8,ITA,Italy,849,A-IV ,Azione-Italia Viva ,Action-Italy Alive ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1001,CDA ,Christen-Democratisch Appèl ,Christian Democratic Appeal ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1002,PvdA ,Partij van de Arbeid ,Labour Party ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1003,VVD ,Volkspartij voor Vrijheid en Democratie ,People's Party for Freedom and Democracy ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1004,D66 ,Democraten 66 ,Democrats 66 ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1005,GL ,GroenLinks ,GreenLeft ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1006,SGP ,Staatkundig Gereformeerde Partij ,Politcal Reformed Party ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1014,SP ,Socialistische Partij ,Socialist Party ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1016,CU ,ChristenUnie ,ChristianUnion ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1017,PVV ,Partij voor de Vrijheid ,Party for Freedom ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1018,PVdD  ,Partij voor de Dieren ,Party for the Animals,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1020,50PLUS ,50PLUS ,50PLUS ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1050,DENK ,Beweging DENK ,Think ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1051,FvD ,Forum voor Vrijheid en Democratie ,Forum for Freedom in Democracy ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1052,Volt ,Volt Nederland ,Volt Netherlands ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1053,JA21 ,Juiste Antwoord 2021 ,Correct Answer 2021/Right Answer 2021 ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1054,BBB ,BoerBurgerBeweging ,Farmer-Citizen Movement ,CHES+Ukraine+Codebook
+10,NLD,Netherlands,1055,BIJ1 ,BIJ1  ,Together,CHES+Ukraine+Codebook
+11,GBR,United Kingdom,1101,Cons ,Conservative Party ,Conservative Party ,CHES+Ukraine+Codebook
+11,GBR,United Kingdom,1102,Lab ,Labour Party,Labour Party ,CHES+Ukraine+Codebook
+11,GBR,United Kingdom,1104,LibDem ,Liberal Democratic Party ,Liberal Democratic Party ,CHES+Ukraine+Codebook
+11,GBR,United Kingdom,1105,SNP ,Scottish National Party ,Scottish National Party ,CHES+Ukraine+Codebook
+11,GBR,United Kingdom,1106,Plaid ,Plaid Cymru,Plaid Cymru ,CHES+Ukraine+Codebook
+11,GBR,United Kingdom,1107,Green ,Green Party ,Green Party ,CHES+Ukraine+Codebook
+11,GBR,United Kingdom,1110,Reform UK ,Reform UK (previously Brexit Party) ,Reform UK ,CHES+Ukraine+Codebook
+11,GBR,United Kingdom,1112,APNI ,Alliance Party of Northern Ireland ,Alliance Party of Northern Ireland ,CHES+Ukraine+Codebook
+11,GBR,United Kingdom,1113,SF ,Sinn Féin ,Sinn Fein ,CHES+Ukraine+Codebook
+11,GBR,United Kingdom,1114,SDLP ,Páirtí Sóisialta Daonlathach an Lucht Oibre ,Social Democratic and Labour Party ,CHES+Ukraine+Codebook
+11,GBR,United Kingdom,1115,DUP ,Democratic Unionist ,Party Democratic Unionist Party,CHES+Ukraine+Codebook
+12,PRT,Portugal,1201,CDU ,Coligação Democrática Unitária ,Democratic Unitarian Coalition ,CHES+Ukraine+Codebook
+12,PRT,Portugal,1202,CDS; PP ,Centro Democrático e Social; Partido Poplar ,Democratic and Social Center; People's Party,CHES+Ukraine+Codebook
+12,PRT,Portugal,1205,PS ,Partido Socialista ,Socialist Party ,CHES+Ukraine+Codebook
+12,PRT,Portugal,1206,PPD; PSD ,Partido Popular Democrático; Partido Social ,Democrata Democratic People's Party; Social Democratic Party ,CHES+Ukraine+Codebook
+12,PRT,Portugal,1208,BE ,Bloco de Esquerda ,Left Bloc ,CHES+Ukraine+Codebook
+12,PRT,Portugal,1210,PCP ,Partido Comunista Português ,Portuguese Communist Party ,CHES+Ukraine+Codebook
+12,PRT,Portugal,1211,PEV ,Partido Ecologista os Verdes ,Ecologist Party (The Greens) ,CHES+Ukraine+Codebook
+12,PRT,Portugal,1250,PAN ,Pessosas - Animais - Natureza ,People - Animals - Nature ,CHES+Ukraine+Codebook
+12,PRT,Portugal,1251,L ,Livre ,Free ,CHES+Ukraine+Codebook
+12,PRT,Portugal,1252,IL ,Iniciativa Liberal ,Liberal Initiative ,CHES+Ukraine+Codebook
+12,PRT,Portugal,1253,CHEGA ,Chega ,Enough,CHES+Ukraine+Codebook
+13,AUT,Austria,1301,SPÖ ,Sozialdemokratische Partei Österreichs ,Sozialdemokratische Partei Österreichs ,CHES+Ukraine+Codebook
+13,AUT,Austria,1302,ÖVP ,Österreichische Volkspartei ,Österreichische Volkspartei,CHES+Ukraine+Codebook
+13,AUT,Austria,1303,FPÖ ,Freiheitliche Partei Österreichs ,Freedom Party of Austria ,CHES+Ukraine+Codebook
+13,AUT,Austria,1304,Grüne ,Die Grünen ,The Austrian Green Party ,CHES+Ukraine+Codebook
+13,AUT,Austria,1306, LIF; NEOS ,Liberales Forum; NEOS--Das Neue Österreich und Liberales Forum ,Liberal Forum; NEOS--The New Austria and Liberal Forum ,CHES+Ukraine+Codebook
+14,FIN,Finland,1401,SDP;SSDP ,Suomen Sosialidemokraattinen; Suomen Sosialidemokraattinen Puolue – Finlands ,Socialdemokratiska Parti Social Democratic Party of Finland ,CHES+Ukraine+Codebook
+14,FIN,Finland,1402,KOK ,Kansallinen Kokoomus ,National Coalition Party ,CHES+Ukraine+Codebook
+14,FIN,Finland,1403,KESK ,Suomen Keskusta ,Finnish Center Party ,CHES+Ukraine+Codebook
+14,FIN,Finland,1404,VAS; DL ,Vasemmistoliitto; Demokraattinen Liitto – Demokratiska Förbundet,Left Alliance; Democratic Union ,CHES+Ukraine+Codebook
+14,FIN,Finland,1405,SP; P; PS ,Suomen Puolue; Persussuomalaiset; Perussuomalaiset – Sannfinländarna ,Finnish Party; True Finns; Finns Party ,CHES+Ukraine+Codebook
+14,FIN,Finland,1406,RKP/SFP ,Ruotsalainen kansanpuolu/Svenska folkpartiet ,Swedish People’s Party ,CHES+Ukraine+Codebook
+14,FIN,Finland,1408,VIHR ,Vihreä Liitto ,Green League ,CHES+Ukraine+Codebook
+14,FIN,Finland,1409, SKL;KD ,Suomen Kristillinen Liitto; Kristillisdemokraatit; Kristillisdemokraatit – Kristdemokraterna ,Finnish Christian League; Christian Democrats ,CHES+Ukraine+Codebook
+14,FIN,Finland,1410,LN ,Liike Nyt ,Movement Now ,CHES+Ukraine+Codebook
+16,SWE,Sweden,1601,V ,Vänsterpartiet ,Left Party ,CHES+Ukraine+Codebook
+16,SWE,Sweden,1602,SAP ,Sveriges Socialdemokratiska Arbetarpartiet ,Swedish Social Democratic Party ,CHES+Ukraine+Codebook
+16,SWE,Sweden,1603,C ,Centerpartiet ,Center Party ,CHES+Ukraine+Codebook
+16,SWE,Sweden,1604,L ,Liberalerna ,Liberals ,CHES+Ukraine+Codebook
+16,SWE,Sweden,1605,M ,Moderaterna ,Moderate Party ,CHES+Ukraine+Codebook
+16,SWE,Sweden,1606,KD ,Kristdemokraterna ,Christian Democrats ,CHES+Ukraine+Codebook
+16,SWE,Sweden,1607,MP ,Miljöpartiet de Gröna ,Environment Party - The Greens ,CHES+Ukraine+Codebook
+16,SWE,Sweden,1610,SD ,Sverigedemokraterna ,Sweden Democrats,CHES+Ukraine+Codebook
+20,BGR,Bulgaria,2003,BSP ,Balgarska sotsialisticheska partiya (Българска социалистическа партия) ,Bulgarian Socialist Party ,CHES+Ukraine+Codebook
+20,BGR,Bulgaria,2004,DPS ,Dvizhenie za prava i svobodi (Движение за права и свободи) ,Movement for Rights and Freedoms ,CHES+Ukraine+Codebook
+20,BGR,Bulgaria,2008,DSB ,Demokrati za silna Balgariya (Демократи за силна България) ,Democrats for a Strong Bulgaria ,CHES+Ukraine+Codebook
+20,BGR,Bulgaria,2010,GERB ,Grazhdani za evropeysko razvitie na Balgariya (Граждани за европейско развитие на България) ,Citizens for European Development ,CHES+Ukraine+Codebook
+20,BGR,Bulgaria,2018,DB ,"Da Bulgaria (Да, България!) ","Yes, Bulgaria! ",CHES+Ukraine+Codebook
+20,BGR,Bulgaria,2019,ITN ,Ima takav narod (Има такъв народ) (*Renamed from Slavi Trifonov ) ,There is Such a People (*Renamed from Party of Slavi Trifonov) ,CHES+Ukraine+Codebook
+20,BGR,Bulgaria,2020,Vazrazhdane ,Vazrazhdane (Възраждане) ,Revival ,CHES+Ukraine+Codebook
+20,BGR,Bulgaria,2022,PP ,Prodalzhavame promyanata (Продължаваме промяната) ,We Continue the Change,CHES+Ukraine+Codebook
+21,CZE,Czech Republic,2101,CSSD ,Ceská strana sociáln˘e demokratická ,Czech Social Democratic Party ,CHES+Ukraine+Codebook
+21,CZE,Czech Republic,2102,ODS ,Ob˘canská demokratická strana ,Civic Democratic Party ,CHES+Ukraine+Codebook
+21,CZE,Czech Republic,2103,KSCM ,Komunistická strana C˘ ech a Moravy ,Communist Party of Bohemia and Moravia ,CHES+Ukraine+Codebook
+21,CZE,Czech Republic,2104,KDU-CSL ,K˘resťanská demokratická unie - C˘ eskoslovenská strana lidová ,Christian Democratic Union-Czechoslovak People’s Party ,CHES+Ukraine+Codebook
+21,CZE,Czech Republic,2109,TOP09 ,Tradice Odpov˘ednost Prosperita 09 ,Tradition Responsibility Prosperity 09 ,CHES+Ukraine+Codebook
+21,CZE,Czech Republic,2111,ANO  ,Akce nespokojených ob˘canů ,Action of Dissatisfied Citizens,CHES+Ukraine+Codebook
+21,CZE,Czech Republic,2114,Pirates ,Ceska piratska strana ,Czech Pirate Party ,CHES+Ukraine+Codebook
+21,CZE,Czech Republic,2115,SPD ,Svoboda a p˘rímá demokracie Tomio Okamura ,Freedom and Direct Democracy Tomio Okamura ,CHES+Ukraine+Codebook
+21,CZE,Czech Republic,2116,STAN ,Starostové a nezávislí ,Mayors and Independents ,CHES+Ukraine+Codebook
+21,CZE,Czech Republic,2117,Prisaha ,Prisaha ,Oath,CHES+Ukraine+Codebook
+22,EST,Estonia,2201,Isamaa ,Isamaa ,Fatherland,CHES+Ukraine+Codebook
+22,EST,Estonia,2202,EK ,Eesti Keskerakond ,Estonian Centre Party ,CHES+Ukraine+Codebook
+22,EST,Estonia,2203,ER ,Eesti Reformierakond ,Estonian Reform Party ,CHES+Ukraine+Codebook
+22,EST,Estonia,2204,SDE ,Sotsiaaldemokraatlik Erakond ,Social Democratic Party ,CHES+Ukraine+Codebook
+22,EST,Estonia,2209,EKRE ,Eesti Konservatiivne Rahvaerakond ,Conservative People's Party ,CHES+Ukraine+Codebook
+22,EST,Estonia,2210,E200 ,Erakond Eesti 200 ,Estonia 200,CHES+Ukraine+Codebook
+23,HUN,Hungary,2301,MSZP  ,Magyar Szocialista Párt ,Hungarian Socialist Party,CHES+Ukraine+Codebook
+23,HUN,Hungary,2302,Fidesz ,Fidesz – Magyar Polgári Szövetség / Kereszténydemokrata Néppárt ,Fidesz--Hungarian Civic Alliance - Christian Democratic People's Party ,CHES+Ukraine+Codebook
+23,HUN,Hungary,2308,JOBBIK ,Jobbik Magyarországért Mozgalom ,Jobbik Movement for a Better Hungary ,CHES+Ukraine+Codebook
+23,HUN,Hungary,2309,LMP-MZP ,Lehet Más a Politika-Magyarország Zöld Pártja ,Politics can be Different-Hungary's Green Party ,CHES+Ukraine+Codebook
+23,HUN,Hungary,2311,DK ,Demokratikus Koalíció ,Democratic Coalition ,CHES+Ukraine+Codebook
+23,HUN,Hungary,2314,MM ,Momentum Mozgalom ,Momentum Movement ,CHES+Ukraine+Codebook
+23,HUN,Hungary,2315,MKKP ,Magyar Kétfarkú Kutya Párt ,Hungarian Two Tailed Dog Party ,CHES+Ukraine+Codebook
+23,HUN,Hungary,2316,MHM ,Mi Hazánk Mozgalom ,Our Homeland Movement ,CHES+Ukraine+Codebook
+23,HUN,Hungary,2317,MMM ,Mindenki Magyarországa Mozgalom ,Everybody's Hungary Movement ,CHES+Ukraine+Codebook
+24,LVA,Latvia,2402,LKS ,Latvijas Krievu savienība ,Latvian Russian Union ,CHES+Ukraine+Codebook
+24,LVA,Latvia,2405,ZZS ,Zaļo un Zemnieku savienība ,Green and Farmers' Union ,CHES+Ukraine+Codebook
+24,LVA,Latvia,2406,NA ,Nacionālā apvienība / Tēvzemei un Brīvībai / LNNK ,National Alliance/For Fatherland and Freedom/ LNNK ,CHES+Ukraine+Codebook
+24,LVA,Latvia,2410,Saskaņa ,"Sociāldemokrātiskā Partija ""Saskaņa"" ","Social Democratic Party ""Harmony"" ",CHES+Ukraine+Codebook
+24,LVA,Latvia,2412,Jaunā Vienotiba ,Jaunā Vienotība ,New Unity ,CHES+Ukraine+Codebook
+24,LVA,Latvia,2414,LRA ,Latvijas Reģionu apvienība ,Latvian Association of Regions ,CHES+Ukraine+Codebook
+24,LVA,Latvia,2417,AP! ,Attīstībai/Par! ,Development/For ,CHES+Ukraine+Codebook
+24,LVA,Latvia,2418,S! ,Stabilitātei! ,For Stability! ,CHES+Ukraine+Codebook
+24,LVA,Latvia,2419,LPV ,Latvija pirmajā vietā ,Latvia First ,CHES+Ukraine+Codebook
+24,LVA,Latvia,2420,PRO ,Progresīvie ,The Progressives ,CHES+Ukraine+Codebook
+24,LVA,Latvia,2421,Platforma 21 ,Platforma 21 ,Platform 21,CHES+Ukraine+Codebook
+25,LTU,Lithuania,2501,LSDP ,Lietuvos socialdemokratų partija ,Lithuanian Social Democratic Party ,CHES+Ukraine+Codebook
+25,LTU,Lithuania,2506,TS-LKD ,Tėvynės Sąjunga ,Homeland Union ,CHES+Ukraine+Codebook
+25,LTU,Lithuania,2507,LVZS,Lietuvos valstiečių sąjunga ,Lithuanian Peasant Union ,CHES+Ukraine+Codebook
+25,LTU,Lithuania,2511,LLRA ,Lietuvos lenkų rinkimų akcija ,Election Action of Lithuania's Poles ,CHES+Ukraine+Codebook
+25,LTU,Lithuania,2515,TT ,Tvarka ir teisingumas ,Order and Justice,CHES+Ukraine+Codebook
+25,LTU,Lithuania,2516,DP ,Darbo Partija ,Labour Party ,CHES+Ukraine+Codebook
+25,LTU,Lithuania,2518,LRLS ,Lietuvos Respublikos Liberalų sąjūdis ,Liberal Movement of the Republic of Lithuania ,CHES+Ukraine+Codebook
+25,LTU,Lithuania,2521,LCP ,Lietuvos Centro Partija ,Lithuanian Centre Party ,CHES+Ukraine+Codebook
+25,LTU,Lithuania,2522,LZP ,Lietuvos žalioji partija ,Lithuanian Green Party ,CHES+Ukraine+Codebook
+25,LTU,Lithuania,2523,VKM-AMT ,Visuomeninis rinkimų komitetas „Aušros Maldeikienės traukinys“ ,"Public election committee ""Aušra Maldeikienė's Train""  ",CHES+Ukraine+Codebook
+25,LTU,Lithuania,2524,LP ,Laisvės partija ,Freedom Party ,CHES+Ukraine+Codebook
+26,POL,Poland,2601,Nowa ,Lewica Nowa Lewica ,New Left (continuation of SLD) ,CHES+Ukraine+Codebook
+26,POL,Poland,2603,PO ,Platforma Obywatelska ,Civic Platform ,CHES+Ukraine+Codebook
+26,POL,Poland,2605,PiS ,Prawo i Sprawiedliwość ,Law and Justice ,CHES+Ukraine+Codebook
+26,POL,Poland,2606,PSL ,Polskie Stronnictwo Ludowe ,Polish People's Party ,CHES+Ukraine+Codebook
+26,POL,Poland,2618,Nowo   ,Nowoczesna,Modern,CHES+Ukraine+Codebook
+26,POL,Poland,2619,Konfederacja ,Konfederacja Wolność i Niepodległość  ,Confederation Liberty and Independence,CHES+Ukraine+Codebook
+26,POL,Poland,2620,Razem ,Razem  ,Together,CHES+Ukraine+Codebook
+26,POL,Poland,2623,P2050 ,Polska 2050 Szymona Hołowni Szymon Hołownia's ,Poland 2050,CHES+Ukraine+Codebook
+27,ROU,Romania,2701,PSD ,Partidul Social Democrat,Social Democratic Party ,CHES+Ukraine+Codebook
+27,ROU,Romania,2705,PNL ,Partidul Naţional Liberal ,National Liberal Party ,CHES+Ukraine+Codebook
+27,ROU,Romania,2706,UDMR ,Uniunea Democrată Maghiară din România ,Democratic Union of Hungarians in Romania ,CHES+Ukraine+Codebook
+27,ROU,Romania,2711,PMP ,Partidul Mișcarea Populară ,People's Movement Party ,CHES+Ukraine+Codebook
+27,ROU,Romania,2713,USR ,Uniunea Salvați România ,Save Romania Union ,CHES+Ukraine+Codebook
+27,ROU,Romania,2714,PRO ,PRO România ,PRO Romania ,CHES+Ukraine+Codebook
+27,ROU,Romania,2715,AUR ,Alianța pentru Unirea Românilor ,Alliance for the Union of Romanians,CHES+Ukraine+Codebook
+28,SVK,Slovakia,2803,Smer-SD ,Smer – sociálna demokracia ,Direction--Social Democracy ,CHES+Ukraine+Codebook
+28,SVK,Slovakia,2805,KDH ,Kresťanskodemokratické hnutie ,Christian Democratic Movement ,CHES+Ukraine+Codebook
+28,SVK,Slovakia,2809,SNS ,Slovenská národná strana ,Slovak National Party ,CHES+Ukraine+Codebook
+28,SVK,Slovakia,2812,SaS ,Sloboda a solidarita ,Freedom and Solidarity ,CHES+Ukraine+Codebook
+28,SVK,Slovakia,2814,OlaNO ,Obyčajní ľudia a nezávislé osobnosti ,Ordinary People and Independent ,CHES+Ukraine+Codebook
+28,SVK,Slovakia,2817,LSNS ,Ľudová strana Naše Slovensko (Marian Kotleba) ,People's Party Our Slovakia ,CHES+Ukraine+Codebook
+28,SVK,Slovakia,2818,Sme Rodina ,Sme Rodina – Boris Kollár ,We are family--Boris Kollar ,CHES+Ukraine+Codebook
+28,SVK,Slovakia,2819,PS ,Progresívne Slovensko ,Progressive Slovakia ,CHES+Ukraine+Codebook
+28,SVK,Slovakia,2820,SPOLU ,SPOLU – občianska demokracia ,TOGETHER--Civic Democracy,CHES+Ukraine+Codebook
+28,SVK,Slovakia,2821,Za L'udi ,Za Ľudí (Andrej Kiska) ,For the People ,CHES+Ukraine+Codebook
+28,SVK,Slovakia,2822,Aliancia ,Aliancia – Szövetség ,Alliance,CHES+Ukraine+Codebook
+29,SVN,Slovenia,2902,SDS ,Slovenska demokratska stranka ,Slovenian Democratic Party ,CHES+Ukraine+Codebook
+29,SVN,Slovenia,2903,SD ,Socialni demokrati ,Social Democrats ,CHES+Ukraine+Codebook
+29,SVN,Slovenia,2905,NSI ,Nova Slovenija – Krščanski demokrati ,New Slovenia--Christian Democrats ,CHES+Ukraine+Codebook
+29,SVN,Slovenia,2912,Levica,Levica ,The Left ,CHES+Ukraine+Codebook
+29,SVN,Slovenia,2916,GS ,Gibanje Svoboda ,Freedom Movement,CHES+Ukraine+Codebook
+31,HRV,Croatia,3101,HDZ ,Hrvatska demokratska zajednica ,Croatian Democratic Union ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3102,SDP ,Socijaldemokratska partija Hrvatske ,Social Democratic Party of Croatia ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3103,HSS ,Hrvatska seljačka stranka ,Croatian Peasant Party ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3104,HSLS ,Hrvatska socijalno-liberalna stranka ,Croatian Social Liberal Party ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3105,HNS ,Hrvatska narodna stranka – Liberalni demokrati ,Croatian People's Party – Liberal Democrats ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3106,IDS ,Istarski demokratski sabor ,Istrian Democratic Assembly ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3107,HDSSB ,Hrvatski demokratski savez Slavonije i Baranje  ,Croatian Democratic Alliance of Slavonia and Baranja,CHES+Ukraine+Codebook
+31,HRV,Croatia,3108,HSU ,Hrvatska stranka umirovljenika ,Croatian Party of Pensioners ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3110,SDSS ,Samostalna demokratska srpska stranka ,Independent Democratic Serb Party ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3115,Most ,Most nezavisnih lista,Bridge of Independent Lists ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3116,ZZ ,Živi zid ,Human Shield ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3118,NS-R ,Narodna stranka–Reformisti ,People's Party–Reformists ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3120,M! ,Možemo! ,We Can! ,CHES+Ukraine+Codebook
+31,HRV,Croatia,3121,Centre ,Centar  ,Centre,CHES+Ukraine+Codebook
+31,HRV,Croatia,3122,DPS ,Domovinski pokret ,Homeland Movement,CHES+Ukraine+Codebook
+34,TUR,Turkey,3401,AKP ,Adalet ve Kalkinma Partisi ,Justice and Development Party ,CHES+Ukraine+Codebook
+34,TUR,Turkey,3402,CHP ,Cumhuriyet Halk Partisi ,Republican People's Party ,CHES+Ukraine+Codebook
+34,TUR,Turkey,3403,MHP ,Milliyetci Hareket Partisi ,Nationalist Movement Party ,CHES+Ukraine+Codebook
+34,TUR,Turkey,3407,HDP ,Halklarin Demokratik Partisi ,Peoples' Democratic Party ,CHES+Ukraine+Codebook
+34,TUR,Turkey,3408,IYI ,Iyi Parti ,Good Party,CHES+Ukraine+Codebook
+35,NOR,Norway,3501,Ap ,Arbeiderpartiet ,Labour Party ,CHES+Ukraine+Codebook
+35,NOR,Norway,3502,FrP ,Fremskrittspartiet ,Progress Party ,CHES+Ukraine+Codebook
+35,NOR,Norway,3503,H ,Høyre ,Conservative Party ,CHES+Ukraine+Codebook
+35,NOR,Norway,3504,SV ,Sosialistisk Venstreparti ,Socialist Left Party,CHES+Ukraine+Codebook
+35,NOR,Norway,3505,Sp ,Senterpartiet ,Centre Party ,CHES+Ukraine+Codebook
+35,NOR,Norway,3506,KrF ,Kristelig Folkeparti ,Christian Democratic Party ,CHES+Ukraine+Codebook
+35,NOR,Norway,3507,V ,Venstre ,Liberal Party ,CHES+Ukraine+Codebook
+35,NOR,Norway,3508,MDG ,Miljøpartiet De Grønne ,Green Party ,CHES+Ukraine+Codebook
+35,NOR,Norway,3509,RV ,Rød Valgallianse ,Red Electoral Alliance ,CHES+Ukraine+Codebook
+35,NOR,Norway,3510,PF ,Pasientfokus Patient ,Focus,CHES+Ukraine+Codebook
+36,CHE,Switzerland,3601,SVP/UDC ,Schweizerische Volkspartei – Union Démocratique du Centre ,Swiss People's Party ,CHES+Ukraine+Codebook
+36,CHE,Switzerland,3602,SP/PS ,Sozialdemokratische Partei der Schweiz – Parti Socialiste Suisse ,Social Democratic Party of Switzerland ,CHES+Ukraine+Codebook
+36,CHE,Switzerland,3603,FDP/PLR; FDP ,Freisinnig-Demokratische Partei der Schweiz – Parti Radical-Democratique Suisse ,The Liberals ,CHES+Ukraine+Codebook
+36,CHE,Switzerland,3604,KK; CVP; PVC ,Katholische Konservative / Christlichdemokratische Volkspartei – Conservateurs catholiques  /  Parti démocrate-chrétien ,Catholic Conservative / Christian Democratic People’s Party ,CHES+Ukraine+Codebook
+36,CHE,Switzerland,3605,GPS; PES; Grue ,Grüne – Écologiste ,Green Party ,CHES+Ukraine+Codebook
+36,CHE,Switzerland,3606,GPL/PVL ,Grünliberale Partei der Schweiz – Parti Vert-Libéral ,Green Liberal Party ,CHES+Ukraine+Codebook
+36,CHE,Switzerland,3607,EVP/PEV ,Evangelische Volkspartei der Schweiz – Parti Populaire Evangelique Suisse ,Evangelical People's Party,CHES+Ukraine+Codebook
+37,MLT,Malta,3701,PL ,Partit Laburista ,Labour Party ,CHES+Ukraine+Codebook
+37,MLT,Malta,3702,PN ,Partit Nazzjonalista ,Nationalist Party ,CHES+Ukraine+Codebook
+45,ISL,Iceland,4501,Sj ,Sjálfstæðisflokkurinn ,Independence Party ,CHES+Ukraine+Codebook
+45,ISL,Iceland,4502,Graen ,Vinstrihreyfingin – grænt framboð ,Left-Green Movement ,CHES+Ukraine+Codebook
+45,ISL,Iceland,4503,F ,Framsóknarflokkurinn ,Progressive Party ,CHES+Ukraine+Codebook
+45,ISL,Iceland,4504,M ,Miðflokkurinn,Centre Party ,CHES+Ukraine+Codebook
+45,ISL,Iceland,4505,Sam ,Samfylkingin ,Social Democratic Alliance ,CHES+Ukraine+Codebook
+45,ISL,Iceland,4506,Pi ,Pírata ,Pirate Party ,CHES+Ukraine+Codebook
+45,ISL,Iceland,4507,V ,Viðreisn ,Revival / Liberal Reform Party ,CHES+Ukraine+Codebook
+45,ISL,Iceland,4508,FIF ,Flokkur fólksins ,People's Party ,CHES+Ukraine+Codebook
+45,ISL,Iceland,4509,SFI ,Sósíalistaflokkur Íslands ,Icelandic Socialist Party ,CHES+Ukraine+Codebook
+36,CHE,Switzerland,3612,BDP/PBD ,,Conservative Democratic Part,2019_CHES_codebook
