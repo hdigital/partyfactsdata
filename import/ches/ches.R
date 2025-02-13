@@ -14,7 +14,8 @@ ches_flash_2017 <- read_csv("source__data/CHES_means_2017.csv", na = "") |> sele
 ches_covid_2020 <- read_csv("source__data/CHES_COVID.csv", na = "") |> select(countrycode = country, party_id) |> mutate(year = 2020)
 ches_ukraine_2023 <- read_csv("source__data/CHES_Ukraine_March_2024.csv", na = "") |> select(countryname = country, party_id) |> mutate(year = 2023)
 
-ches_latin_2020 <- read_csv("source__data/ches_la_2020_aggregate_level_v01.csv", na = "")  |> mutate(countryshort = countrycode(country_en, "country.name", "iso3c")) |> select(countryshort, party_id, party_short = party_abb, party_name = party, party_name_english = party_en) |> mutate(year = 2020)
+#ches_latin_2020 <- read_csv("source__data/ches_la_2020_aggregate_level_v01.csv", na = "")  |> mutate(countryshort = countrycode(country_en, "country.name", "iso3c")) |> select(countryshort, party_id, party_short = party_abb, party_name = party, party_name_english = party_en) |> mutate(year = 2020)
+ches_latin_2020 <- read_rds("source__data/ches_la_2020_aggregate_level_v01.rds") |> mutate(countryshort = countrycode(country_en, "country.name", "iso3c")) |> select(countryshort, party_id, party_short = party_abb, party_name = party, party_name_english = party_en) |> mutate(year = 2020)
 
 ches_israel_2021 <- read_csv("source__data/CHES_ISRAEL_means_2021_2022.csv", na = "") |> mutate(countryshort = "ISR", year = 2021,party_short = party_name, party_name = NA, party_name_english = NA) |> select(countryshort, year, party_id, party_short, party_name, party_name_english)
 
@@ -43,9 +44,9 @@ ches_europe <-
 # Bind non-European data
 ches_all <- 
     bind_rows(
-        ches_europe,
-        ches_latin_2020,
-        ches_israel_2021
+        ches_europe |> mutate(party_id = as.numeric(party_id)),
+        ches_latin_2020 |> mutate(party_id = as.numeric(party_id)),
+        ches_israel_2021 |> mutate(party_id = as.numeric(party_id))
     )
 
 # Extract party appearances
