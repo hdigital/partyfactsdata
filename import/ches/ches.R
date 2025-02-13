@@ -107,8 +107,13 @@ ches_partyfacts <-
 ches_partyfacts <- ches_partyfacts %>%
     mutate(across(where(is.character), ~ stri_replace_all_regex(., "[^\\w\\s]", "")))
 
-# Save the data with UTF-8 encoding
+# Convert all character columns explicitly to UTF-8
 ches_partyfacts <- ches_partyfacts %>%
     mutate(across(where(is.character), ~ stri_encode(., from = "", to = "UTF-8")))
 
-fwrite(ches_partyfacts, "ches.csv", na = "", quote = TRUE, bom = TRUE)
+sapply(ches_partyfacts, function(x) if (is.character(x)) unique(Encoding(x)) else NA)
+
+ches_partyfacts <- ches_partyfacts %>%
+    mutate(across(where(is.character), ~ iconv(., from = "latin1", to = "UTF-8")))
+
+write.csv(ches_partyfacts, "ches_clean.csv", row.names = FALSE, fileEncoding = "UTF-8")
