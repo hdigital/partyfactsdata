@@ -2505,7 +2505,8 @@ FI,10,prtclffi,The Centre Party,3,FI-10-3-c,FI-1-4-c,FIN
 FI,10,prtclffi,True Finns,5,FI-10-5-c,FI-1-5-c,FIN
 FI,10,prtclffi,Christian Democrats,7,FI-10-7-c,FI-1-6-c,FIN
 FI,10,prtclffi,Movement Now,8,FI-10-8-c,FI-10-8-c,FIN
-FI,10,prtclffi,The Liberal Party - Freedom to Choose,12,FI-10-12-c,FI-9-8-c,FIN
+FI,10,prtclffi,"The Liberal Party - Freedom to
+Choose",12,FI-10-12-c,FI-9-8-c,FIN
 FI,10,prtclffi,Feminist Party,13,FI-10-13-c,FI-9-13-c,FIN
 FI,10,prtclffi,Green League,16,FI-10-16-c,FI-1-8-c,FIN
 FI,10,prtclffi,Social Democratic Party,17,FI-10-17-c,FI-1-9-c,FIN
@@ -2521,7 +2522,8 @@ FI,11,prtvtffi,Christian Democrats,5,FI-11-5-v,FI-1-6-v,FIN
 FI,11,prtvtffi,Green League,6,FI-11-6-v,FI-1-8-v,FIN
 FI,11,prtvtffi,Left Alliance,7,FI-11-7-v,FI-1-10-v,FIN
 FI,11,prtvtffi,True Finns,8,FI-11-8-v,FI-1-5-v,FIN
-FI,11,prtvtffi,The Liberal Party - Freedom to Choose,9,FI-11-9-v,FI-11-9-v,FIN
+FI,11,prtvtffi,"The Liberal Party - Freedom to
+Choose",9,FI-11-9-v,FI-11-9-v,FIN
 FI,11,prtvtffi,Pirate Party,10,FI-11-10-v,FI-6-8-v,FIN
 FI,11,prtvtffi,Animal Justice Party,11,FI-11-11-v,FI-11-11-v,FIN
 FI,11,prtvtffi,Movement Now,16,FI-11-16-v,FI-11-16-v,FIN
@@ -2537,7 +2539,8 @@ FI,11,prtclgfi,Christian Democrats,5,FI-11-5-c,FI-1-6-c,FIN
 FI,11,prtclgfi,Green League,6,FI-11-6-c,FI-1-8-c,FIN
 FI,11,prtclgfi,Left Alliance,7,FI-11-7-c,FI-1-10-c,FIN
 FI,11,prtclgfi,True Finns,8,FI-11-8-c,FI-1-5-c,FIN
-FI,11,prtclgfi,The Liberal Party - Freedom to Choose,9,FI-11-9-c,FI-9-8-c,FIN
+FI,11,prtclgfi,"The Liberal Party - Freedom to
+Choose",9,FI-11-9-c,FI-9-8-c,FIN
 FI,11,prtclgfi,Pirate Party,10,FI-11-10-c,FI-6-8-c,FIN
 FI,11,prtclgfi,Animal Justice Party,11,FI-11-11-c,FI-11-11-c,FIN
 FI,11,prtclgfi,Open Party,17,FI-11-17-c,FI-11-17-c,FIN
@@ -6216,7 +6219,7 @@ RS,11,prtclbrs,Jedinstvena Srbija,4,RS-11-4-c,RS-9-7-c,SRB
 RS,11,prtclbrs,Liga socijaldemokrata Vojvodine,6,RS-11-6-c,RS-9-10-c,SRB
 RS,11,prtclbrs,Narodna stranka,8,RS-11-8-c,RS-10-7-c,SRB
 RS,11,prtclbrs,Narodni pokret Srbije,9,RS-11-9-c,RS-11-9-c,SRB
-RS,11,prtclbrs,Nova Demokratska stranka Srbije,10,RS-11-10-c,RS-9-3-c ,SRB
+RS,11,prtclbrs,Nova Demokratska stranka Srbije,10,RS-11-10-c,RS-9-3-c,SRB
 RS,11,prtclbrs,"Partija ujedinjenih penzionera, poljoprivrednika i proletera Srbije",11,RS-11-11-c,RS-9-13-c,SRB
 RS,11,prtclbrs,Pokret obnove kraljevine Srbije,12,RS-11-12-c,RS-10-18-c,SRB
 RS,11,prtclbrs,Pokret slobodnih građana,13,RS-11-13-c,RS-9-16-c,SRB
