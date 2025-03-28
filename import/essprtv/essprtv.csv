@@ -504,7 +504,7 @@ R8 --- prtvtfch --- Pirate Party Switzerland",2939,CHE,1-perc,1 percent,1 percen
 CH-8-55-v,No party,2016,2016,CH-8-55-v,R8 --- prtvtfch --- No party,3086,CHE,tech,technical,technical,12
 CH-10-12-v,"Small leftist parties (Solidarity, Together on the Left, Alternative Left)",2020,2022,CH-10-12-v CH-11-12-v,"R10 --- prtvthch --- Small leftist parties (Solidarity, Together on the Left, Alternative Left)
 R11 --- prtvthch --- Small leftist parties (Solidarity, Together on the Left, Alternative Left)",1964,CHE,etc,other,other,7
-CH-11-14-v,Liberal-Democratic Party (Basel),2022,2022,CH-11-14-v,R11 --- prtvthch --- Liberal-Democratic Party (Basel),,CHE,,,,
+CH-11-14-v,Liberal-Democratic Party (Basel),2022,2022,CH-11-14-v,R11 --- prtvthch --- Liberal-Democratic Party (Basel),2939,CHE,1-perc,1 percent,1 percent,11
 CY-3-1-v,Progressive Party of Working People (AKEL),2006,2022,CY-3-1-v CY-4-1-v CY-5-1-v CY-6-1-v CY-9-1-v CY-10-4-v CY-11-4-v,"R3 --- prtvtcy --- Progressive Party of Working People (AKEL)
 R4 --- prtvtcy --- Progressive Party of Working People (AKEL)
 R5 --- prtvtcy --- Progressive Party of Working People (AKEL)
@@ -561,19 +561,19 @@ CY-9-5-v,Solidarity Movement (KINIMA ALLILEGII),2018,2020,CY-9-5-v CY-10-2-v,"R9
 R10 --- prtvtccy --- Solidarity Movement (KINIMA ALLILEGII)",4883,CYP,KINHMA,Kinima Allileggiis,Solidarity Movement,
 CY-9-7-v,Citizens' Alliance (SYMMACHIA POLITON),2018,2018,CY-9-7-v,R9 --- prtvtbcy --- Citizens' Alliance (SYMMACHIA POLITON),3117,CYP,SYM,Symmaxia,Citizen's Alliance,
 CY-10-1-v,Generation Change,2020,2022,CY-10-1-v CY-11-1-v,"R10 --- prtvtccy --- Generation Change
-R11 --- prtvtccy --- Generation Change",,CYP,,,,
+R11 --- prtvtccy --- Generation Change",9075,CYP,AG,Allagi Genias,Generation Change,
 CY-10-3-v,Famagusta for Cyprus,2020,2022,CY-10-3-v CY-11-3-v,"R10 --- prtvtccy --- Famagusta for Cyprus
-R11 --- prtvtccy --- Famagusta for Cyprus",,CYP,,,,
+R11 --- prtvtccy --- Famagusta for Cyprus",8997,CYP,AK,Ammókhostos yia tin Kípro,Famagusta for Cyprus,
 CY-10-5-v,Awakening 2020,2020,2022,CY-10-5-v CY-11-5-v,"R10 --- prtvtccy --- Awakening 2020
-R11 --- prtvtccy --- Awakening 2020",,CYP,,,,
+R11 --- prtvtccy --- Awakening 2020",8996,CYP,AM,Afypnisis 2020,Awakening 2020,
 CY-10-6-v,Democratic Front (DIPA),2020,2022,CY-10-6-v CY-11-6-v,"R10 --- prtvtccy --- Democratic Front (DIPA)
-R11 --- prtvtccy --- Democratic Front (DIPA)",,CYP,,,,
+R11 --- prtvtccy --- Democratic Front (DIPA)",9074,CYP,DiPa,Dimokratiki Parataxi,Democratic Alignment,
 CY-10-10-v,Active Citizens – United Cypriot Hunters Movement,2020,2022,CY-10-10-v CY-11-10-v,"R10 --- prtvtccy --- Active Citizens – United Cypriot Hunters Movement
-R11 --- prtvtccy --- Active Citizens – United Cypriot Hunters Movement",,CYP,,,,
+R11 --- prtvtccy --- Active Citizens – United Cypriot Hunters Movement",9315,CYP,AC-MCUH,Active Citizens – Movement of Cypriot United Hunters,Active Citizens – Movement of Cypriot United Hunters,
 CY-10-13-v,Animal Party Cyprus,2020,2022,CY-10-13-v CY-11-13-v,"R10 --- prtvtccy --- Animal Party Cyprus
-R11 --- prtvtccy --- Animal Party Cyprus",,CYP,,,,
-CY-10-14-v,Patriotic Coalition,2020,2020,CY-10-14-v,R10 --- prtvtccy --- Patriotic Coalition,,CYP,,,,
-CY-10-15-v,People's Breath,2020,2020,CY-10-15-v,R10 --- prtvtccy --- People's Breath,,CYP,,,,
+R11 --- prtvtccy --- Animal Party Cyprus",4884,CYP,KGTZTK,Kinima gia ta zoa tis Kiprou,Animal Party Cyprus,
+CY-10-14-v,Patriotic Coalition,2020,2020,CY-10-14-v,R10 --- prtvtccy --- Patriotic Coalition,2654,CYP,1-perc,1 percent,1 percent,11
+CY-10-15-v,People's Breath,2020,2020,CY-10-15-v,R10 --- prtvtccy --- People's Breath,8998,CYP,PL,Pní Laoú,People's Breath,
 CZ-1-1-v,ČSSD,2002,2020,CZ-1-1-v CZ-2-1-v CZ-4-2-v CZ-5-2-v CZ-6-2-v CZ-7-2-v CZ-8-2-v CZ-9-2-v CZ-10-2-v,"R1 --- prtvtcz --- ČSSD
 R2 --- prtvtcz --- ČSSD
 R4 --- prtvtacz --- ČSSD
@@ -836,12 +836,12 @@ R8 --- prtvede1 --- Alternative for Germany (AFD)
 R9 --- prtvede1 --- Alternative for Germany (AFD)
 R10 --- prtvfde1 --- Alternative for Germany (AFD)
 R11 --- prtvgde1 --- Alternative for Germany (AFD)",1976,DEU,AfD,Alternative für Deutschland,Alternative for Germany,
-DE-11-7-v-de2,Free Voters (Freie Wähler),2022,2022,DE-11-7-v-de2,R11 --- prtvgde2 --- Free Voters (Freie Wähler),,DEU,,,,
-DE-11-8-v-de2,Grassroots Democratic Party of Germany (dieBasis),2022,2022,DE-11-8-v-de2,R11 --- prtvgde2 --- Grassroots Democratic Party of Germany (dieBasis),,DEU,,,,
-DE-11-9-v-de2,"Party for Labour, Rule of Law, Animal Protection, Promotion of Elites and Grassr",2022,2022,DE-11-9-v-de2,"R11 --- prtvgde2 --- Party for Labour, Rule of Law, Animal Protection, Promotion of Elites and Grassr",,DEU,,,,
-DE-11-7-v-de1,Free Voters (Freie Wähler),2022,2022,DE-11-7-v-de1,R11 --- prtvgde1 --- Free Voters (Freie Wähler),,DEU,,,,
-DE-11-8-v-de1,Grassroots Democratic Party of Germany (dieBasis),2022,2022,DE-11-8-v-de1,R11 --- prtvgde1 --- Grassroots Democratic Party of Germany (dieBasis),,DEU,,,,
-DE-11-9-v-de1,"Party for Labour, Rule of Law, Animal Protection, Promotion of Elites and Grassr",2022,2022,DE-11-9-v-de1,"R11 --- prtvgde1 --- Party for Labour, Rule of Law, Animal Protection, Promotion of Elites and Grassr",,DEU,,,,
+DE-11-7-v-de2,Free Voters (Freie Wähler),2022,2022,DE-11-7-v-de2,R11 --- prtvgde2 --- Free Voters (Freie Wähler),1090,DEU,FW,Freie Wähler,Free Voters,
+DE-11-8-v-de2,Grassroots Democratic Party of Germany (dieBasis),2022,2022,DE-11-8-v-de2,R11 --- prtvgde2 --- Grassroots Democratic Party of Germany (dieBasis),8993,DEU,dieBasis,Basisdemokratische Partei Deutschland,Grassroots Democratic Party of Germany,
+DE-11-9-v-de2,"Party for Labour, Rule of Law, Animal Protection, Promotion of Elites and Grassr",2022,2022,DE-11-9-v-de2,"R11 --- prtvgde2 --- Party for Labour, Rule of Law, Animal Protection, Promotion of Elites and Grassr",6126,DEU,PARTEI,Die PARTEI,THE PARTY,
+DE-11-7-v-de1,Free Voters (Freie Wähler),2022,2022,DE-11-7-v-de1,R11 --- prtvgde1 --- Free Voters (Freie Wähler),1090,DEU,FW,Freie Wähler,Free Voters,
+DE-11-8-v-de1,Grassroots Democratic Party of Germany (dieBasis),2022,2022,DE-11-8-v-de1,R11 --- prtvgde1 --- Grassroots Democratic Party of Germany (dieBasis),8993,DEU,dieBasis,Basisdemokratische Partei Deutschland,Grassroots Democratic Party of Germany,
+DE-11-9-v-de1,"Party for Labour, Rule of Law, Animal Protection, Promotion of Elites and Grassr",2022,2022,DE-11-9-v-de1,"R11 --- prtvgde1 --- Party for Labour, Rule of Law, Animal Protection, Promotion of Elites and Grassr",6126,DEU,PARTEI,Die PARTEI,THE PARTY,
 DK-1-1-v,Socialdemokratiet,2002,2018,DK-1-1-v DK-2-1-v DK-3-1-v DK-4-1-v DK-5-1-v DK-6-1-v DK-7-1-v DK-9-1-v,"R1 --- prtvtdk --- Socialdemokratiet
 R2 --- prtvtdk --- Socialdemokratiet
 R3 --- prtvtadk --- Socialdemokratiet
@@ -1188,8 +1188,8 @@ R10 --- prtvtfes --- PRC",2538,ESP,1-perc,1 percent,1 percent,11
 ES-10-13-v,CC-PNC-NC,2020,2020,ES-10-13-v,R10 --- prtvtfes --- CC-PNC-NC,8262,ESP,AUN,Acuerdo de Unidad Nacionalista,Agreement of Nationalist Unity,
 ES-10-15-v,Més Compromis,2020,2020,ES-10-15-v,R10 --- prtvtfes --- Més Compromis,4019,ESP,ally,alliance,alliance,15
 ES-10-18-v,Teruel Existe,2020,2020,ES-10-18-v,R10 --- prtvtfes --- Teruel Existe,2538,ESP,1-perc,1 percent,1 percent,11
-ES-11-4-v,SUMAR,2022,2022,ES-11-4-v,R11 --- prtvtges --- SUMAR,,ESP,,,,
-ES-11-11-v,UPN,2022,2022,ES-11-11-v,R11 --- prtvtges --- UPN,,ESP,,,,
+ES-11-4-v,SUMAR,2022,2022,ES-11-4-v,R11 --- prtvtges --- SUMAR,4019,ESP,ally,alliance,alliance,15
+ES-11-11-v,UPN,2022,2022,ES-11-11-v,R11 --- prtvtges --- UPN,722,ESP,UPN,Union del Pueblo Navarro,Navarrese Peoples Union,
 FI-1-1-v,The National Coalition Party,2002,2022,FI-1-1-v FI-2-1-v FI-3-1-v FI-4-1-v FI-5-1-v FI-6-1-v FI-7-1-v FI-8-1-v FI-9-1-v FI-10-1-v FI-11-3-v,"R1 --- prtvtfi --- The National Coalition Party
 R2 --- prtvtfi --- The National Coalition Party
 R3 --- prtvtfi --- The National Coalition Party
@@ -1331,12 +1331,12 @@ FI-7-7-v,Change 2011,2014,2014,FI-7-7-v,R7 --- prtvtcfi --- Change 2011,2687,FIN
 FI-7-16-v,The Communist Workers' Party,2014,2014,FI-7-16-v,R7 --- prtvtcfi --- The Communist Workers' Party,2687,FIN,1-perc,1 percent,1 percent,11
 FI-9-15-v,Workers' Party,2018,2018,FI-9-15-v,R9 --- prtvtdfi --- Workers' Party,2687,FIN,1-perc,1 percent,1 percent,11
 FI-10-8-v,Movement Now,2020,2020,FI-10-8-v,R10 --- prtvtefi --- Movement Now,8639,FIN,LN,Liike Nyt,Movement Now,
-FI-11-9-v,The Liberal Party - Freedom to Choose,2022,2022,FI-11-9-v,R11 --- prtvtffi --- The Liberal Party - Freedom to Choose,,FIN,,,,
-FI-11-11-v,Animal Justice Party,2022,2022,FI-11-11-v,R11 --- prtvtffi --- Animal Justice Party,,FIN,,,,
-FI-11-16-v,Movement Now,2022,2022,FI-11-16-v,R11 --- prtvtffi --- Movement Now,,FIN,,,,
-FI-11-20-v,Power Belongs to the People,2022,2022,FI-11-20-v,R11 --- prtvtffi --- Power Belongs to the People,,FIN,,,,
-FI-11-21-v,Freedom Alliance,2022,2022,FI-11-21-v,R11 --- prtvtffi --- Freedom Alliance,,FIN,,,,
-FI-11-23-v,För Åland,2022,2022,FI-11-23-v,R11 --- prtvtffi --- För Åland,,FIN,,,,
+FI-11-9-v,The Liberal Party - Freedom to Choose,2022,2022,FI-11-9-v,R11 --- prtvtffi --- The Liberal Party - Freedom to Choose,2687,FIN,1-perc,1 percent,1 percent,11
+FI-11-11-v,Animal Justice Party,2022,2022,FI-11-11-v,R11 --- prtvtffi --- Animal Justice Party,2687,FIN,1-perc,1 percent,1 percent,11
+FI-11-16-v,Movement Now,2022,2022,FI-11-16-v,R11 --- prtvtffi --- Movement Now,8639,FIN,LN,Liike Nyt,Movement Now,
+FI-11-20-v,Power Belongs to the People,2022,2022,FI-11-20-v,R11 --- prtvtffi --- Power Belongs to the People,2687,FIN,1-perc,1 percent,1 percent,11
+FI-11-21-v,Freedom Alliance,2022,2022,FI-11-21-v,R11 --- prtvtffi --- Freedom Alliance,2687,FIN,1-perc,1 percent,1 percent,11
+FI-11-23-v,För Åland,2022,2022,FI-11-23-v,R11 --- prtvtffi --- För Åland,2687,FIN,1-perc,1 percent,1 percent,11
 FR-1-1-v,"CPNT (Chasse, Pêche, Nature et Traditions)",2002,2010,FR-1-1-v FR-2-1-v FR-3-1-v FR-4-1-v FR-5-1-v,"R1 --- prtvtfr --- CPNT (Chasse, Pêche, Nature et Traditions)
 R2 --- prtvtfr --- CPNT (Chasse, Pêche, Nature et Traditions)
 R3 --- prtvtafr --- CPNT (Chasse, pêche, nature et traditions)
@@ -1504,10 +1504,10 @@ R10 --- prtvtefr --- LR (Les Républicains)
 R11 --- prtvtffr --- Les Républicains et l’UDI",8168,FRA,LR,Les Républicains,The Republicans,
 FR-9-10-v,Debout la France,2018,2020,FR-9-10-v FR-10-10-v,"R9 --- prtvtdfr --- Debout la France
 R10 --- prtvtefr --- Debout la France",3207,FRA,DLF,Debout la France,France Arise,
-FR-11-3-v,"NUPES (Nouvelle Union Populaire Ecologique et Sociale: FI, EELV, PCF, PS)",2022,2022,FR-11-3-v,"R11 --- prtvtffr --- NUPES (Nouvelle Union Populaire Ecologique et Sociale: FI, EELV, PCF, PS)",,FRA,,,,
-FR-11-5-v,"Ensemble ! (LREM, MODEM et Horizons)",2022,2022,FR-11-5-v,"R11 --- prtvtffr --- Ensemble ! (LREM, MODEM et Horizons)",,FRA,,,,
-FR-11-7-v,"l’Union pour la France (Debout la France, Les Patriotes et Génération Frexit",2022,2022,FR-11-7-v,"R11 --- prtvtffr --- l’Union pour la France (Debout la France, Les Patriotes et Génération Frexit",,FRA,,,,
-FR-11-9-v,Reconquête !,2022,2022,FR-11-9-v,R11 --- prtvtffr --- Reconquête !,,FRA,,,,
+FR-11-3-v,"NUPES (Nouvelle Union Populaire Ecologique et Sociale: FI, EELV, PCF, PS)",2022,2022,FR-11-3-v,"R11 --- prtvtffr --- NUPES (Nouvelle Union Populaire Ecologique et Sociale: FI, EELV, PCF, PS)",3933,FRA,ally,alliance,alliance,15
+FR-11-5-v,"Ensemble ! (LREM, MODEM et Horizons)",2022,2022,FR-11-5-v,"R11 --- prtvtffr --- Ensemble ! (LREM, MODEM et Horizons)",3933,FRA,ally,alliance,alliance,15
+FR-11-7-v,"l’Union pour la France (Debout la France, Les Patriotes et Génération Frexit",2022,2022,FR-11-7-v,"R11 --- prtvtffr --- l’Union pour la France (Debout la France, Les Patriotes et Génération Frexit",3933,FRA,ally,alliance,alliance,15
+FR-11-9-v,Reconquête !,2022,2022,FR-11-9-v,R11 --- prtvtffr --- Reconquête !,9064,FRA,R!,Reconquête,Reconquest,
 GB-1-1-v,Conservative,2002,2022,GB-1-1-v GB-2-1-v GB-3-1-v GB-4-1-v GB-5-1-v GB-6-1-v GB-7-1-v GB-8-1-v GB-9-1-v GB-10-1-v GB-11-1-v,"R1 --- prtvtgb --- Conservative
 R2 --- prtvtgb --- Conservative
 R3 --- prtvtagb --- Conservative
@@ -1716,10 +1716,10 @@ GR-10-8-v,Πλεύση Ελευθερίας,2020,2022,GR-10-8-v GR-11-8-v,"R10 -
 R11 --- prtvtegr --- Πλεύση Ελευθερίας",9088,GRC,PE,Plefsi Eleftherias,Course of Freedom,
 GR-10-9-v,Ένωση Κεντρώων,2020,2022,GR-10-9-v GR-11-15-v,"R10 --- prtvtdgr --- Ένωση Κεντρώων
 R11 --- prtvtegr --- Ένωση Κεντρώων",2510,GRC,EK,Enosi Kentroon,Union of Centrists,
-GR-11-6-v,Σπαρτιάτες,2022,2022,GR-11-6-v,R11 --- prtvtegr --- Σπαρτιάτες,,GRC,,,,
-GR-11-7-v,Νίκη,2022,2022,GR-11-7-v,R11 --- prtvtegr --- Νίκη,,GRC,,,,
-GR-11-14-v,Δημιουργία Ξανά,2022,2022,GR-11-14-v,R11 --- prtvtegr --- Δημιουργία Ξανά,,GRC,,,,
-GR-11-33-v,Blank,2022,2022,GR-11-33-v,R11 --- prtvtegr --- Blank,,GRC,,,,
+GR-11-6-v,Σπαρτιάτες,2022,2022,GR-11-6-v,R11 --- prtvtegr --- Σπαρτιάτες,9129,GRC,Sp,Spartiátes,Spartans,
+GR-11-7-v,Νίκη,2022,2022,GR-11-7-v,R11 --- prtvtegr --- Νίκη,9126,GRC,Niki,Dimokratikó Patriotikó Kínima 'Níki',Democratic Patriotic Movement 'Victory',
+GR-11-14-v,Δημιουργία Ξανά,2022,2022,GR-11-14-v,R11 --- prtvtegr --- Δημιουργία Ξανά,471,GRC,DX,Dimiourgia Xana,Recreate Greece,
+GR-11-33-v,Blank,2022,2022,GR-11-33-v,R11 --- prtvtegr --- Blank,3029,GRC,tech,technical,technical,12
 HR-4-1-v,Hrvatska demokratska zajednica (HDZ),2008,2018,HR-4-1-v HR-5-1-v HR-9-1-v,"R4 --- prtvthr --- Hrvatska demokratska zajednica (HDZ)
 R5 --- prtvthr --- Hrvatska demokratska zajednica (HDZ)
 R9 --- prtvtahr --- Hrvatska demokratska zajednica (HDZ)",1431,HRV,HDZ,Hrvatska demokratska zajednica,Croatian Democratic Union,
@@ -1769,9 +1769,9 @@ R11 --- prtvtchr --- Možemo! - politička platforma, Zageb je naš, NL, RF, ORA
 HR-10-6-v,"SiP, Pametno, Fokus",2020,2022,HR-10-6-v HR-11-6-v,"R10 --- prtvtbhr --- SiP, Pametno, Fokus
 R11 --- prtvtchr --- SiP, Pametno, Fokus",3918,HRV,ally,alliance,alliance,15
 HR-10-7-v,Reformisti,2020,2020,HR-10-7-v,R10 --- prtvtbhr --- Reformisti,4866,HRV,NS — R,Narodna stranka — Reformisti,People's Party — Reformists,
-HR-11-2-v,"Restart koalicija – SDP, HSS, HSU, SNAGA, GLAS, IDS, PGS",2022,2022,HR-11-2-v,"R11 --- prtvtchr --- Restart koalicija – SDP, HSS, HSU, SNAGA, GLAS, IDS, PGS",,HRV,,,,
-HR-11-3-v,"DP Miroslava Škore, Hrvatski suverenisti, Blok za Hrvatsku, HKS, Hrast, SU, Zel",2022,2022,HR-11-3-v,"R11 --- prtvtchr --- DP Miroslava Škore, Hrvatski suverenisti, Blok za Hrvatsku, HKS, Hrast, SU, Zel",,HRV,,,,
-HR-11-7-v,"Narodna stranka - Reformisti -  Hrvatska seljačka stranka braće Radić, Strank",2022,2022,HR-11-7-v,"R11 --- prtvtchr --- Narodna stranka - Reformisti -  Hrvatska seljačka stranka braće Radić, Strank",,HRV,,,,
+HR-11-2-v,"Restart koalicija – SDP, HSS, HSU, SNAGA, GLAS, IDS, PGS",2022,2022,HR-11-2-v,"R11 --- prtvtchr --- Restart koalicija – SDP, HSS, HSU, SNAGA, GLAS, IDS, PGS",3918,HRV,ally,alliance,alliance,15
+HR-11-3-v,"DP Miroslava Škore, Hrvatski suverenisti, Blok za Hrvatsku, HKS, Hrast, SU, Zel",2022,2022,HR-11-3-v,"R11 --- prtvtchr --- DP Miroslava Škore, Hrvatski suverenisti, Blok za Hrvatsku, HKS, Hrast, SU, Zel",3918,HRV,ally,alliance,alliance,15
+HR-11-7-v,"Narodna stranka - Reformisti -  Hrvatska seljačka stranka braće Radić, Strank",2022,2022,HR-11-7-v,"R11 --- prtvtchr --- Narodna stranka - Reformisti -  Hrvatska seljačka stranka braće Radić, Strank",3918,HRV,ally,alliance,alliance,15
 HU-1-1-v,Center Party,2002,2012,HU-1-1-v HU-2-1-v HU-3-7-v HU-4-7-v HU-5-7-v HU-6-1-v,"R1 --- prtvthu --- Center Party
 R2 --- prtvthu --- Center Party
 R3 --- prtvtahu --- Centrumpárt
@@ -1866,9 +1866,9 @@ HU-9-10-v,Párbeszéd (Párbeszéd Magyarországért Párt),2018,2018,HU-9-10-v,
 HU-9-11-v,MKKP (Magyar Kétfarkú Kutya Párt),2018,2022,HU-9-11-v HU-10-10-v HU-11-3-v,"R9 --- prtvtfhu --- MKKP (Magyar Kétfarkú Kutya Párt)
 R10 --- prtvtghu --- MKKP (Magyar Kétfarkú Kutya Párt)
 R11 --- prtvthhu --- MKKP (Magyar Kétfarkú Kutya Párt)",6129,HUN,MKKP,Magyar Kétfarkú Kutya Párt,Hungarian Two-tailed Dog Party,
-HU-11-1-v,Ellenzéki Összefogás (DK-JOBBIK-LMP-MOMENTUM-MSZP-LMP-PÁRBESZÉD),2022,2022,HU-11-1-v,R11 --- prtvthhu --- Ellenzéki Összefogás (DK-JOBBIK-LMP-MOMENTUM-MSZP-LMP-PÁRBESZÉD),,HUN,,,,
-HU-11-2-v,NÉP (Normális Élet Pártja),2022,2022,HU-11-2-v,R11 --- prtvthhu --- NÉP (Normális Élet Pártja),,HUN,,,,
-HU-11-5-v,Mi Hazánk,2022,2022,HU-11-5-v,R11 --- prtvthhu --- Mi Hazánk,,HUN,,,,
+HU-11-1-v,Ellenzéki Összefogás (DK-JOBBIK-LMP-MOMENTUM-MSZP-LMP-PÁRBESZÉD),2022,2022,HU-11-1-v,R11 --- prtvthhu --- Ellenzéki Összefogás (DK-JOBBIK-LMP-MOMENTUM-MSZP-LMP-PÁRBESZÉD),3948,HUN,ally,alliance,alliance,15
+HU-11-2-v,NÉP (Normális Élet Pártja),2022,2022,HU-11-2-v,R11 --- prtvthhu --- NÉP (Normális Élet Pártja),2721,HUN,1-perc,1 percent,1 percent,11
+HU-11-5-v,Mi Hazánk,2022,2022,HU-11-5-v,R11 --- prtvthhu --- Mi Hazánk,7349,HUN,MHM,Mi Hazánk Mozgalom,Our Homeland Movement,
 IE-1-1-v,Fianna Fáil,2002,2022,IE-1-1-v IE-2-1-v IE-3-1-v IE-4-1-v IE-5-1-v IE-6-1-v IE-7-1-v IE-8-2-v IE-9-2-v IE-10-1-v IE-11-1-v,"R1 --- prtvtie --- Fianna Fáil
 R2 --- prtvtie --- Fianna Fáil
 R3 --- prtvtie --- Fianna Fáil
@@ -2233,11 +2233,11 @@ IT-9-13-v,Casapound Italia,2018,2020,IT-9-13-v IT-10-10-v,"R9 --- prtvtcit --- C
 R10 --- prtvtdit --- Casapound Italia",8244,ITA,CPI,CasaPound Italia,CasaPound Italy,
 IT-10-12-v,Il popolo della famiglia,2020,2020,IT-10-12-v,R10 --- prtvtdit --- Il popolo della famiglia,2415,ITA,1-perc,1 percent,1 percent,11
 IT-10-32-v,Blank vote,2020,2020,IT-10-32-v,R10 --- prtvtdit --- Blank vote,3038,ITA,tech,technical,technical,12
-IT-11-6-v,Terzo Polo (Azione-Italia Viva),2022,2022,IT-11-6-v,R11 --- prtvteit --- Terzo Polo (Azione-Italia Viva),,ITA,,,,
-IT-11-7-v,Alleanza Verdi e Sinistra,2022,2022,IT-11-7-v,R11 --- prtvteit --- Alleanza Verdi e Sinistra,,ITA,,,,
-IT-11-9-v,Italexit,2022,2022,IT-11-9-v,R11 --- prtvteit --- Italexit,,ITA,,,,
-IT-11-10-v,Unione Popolare,2022,2022,IT-11-10-v,R11 --- prtvteit --- Unione Popolare,,ITA,,,,
-IT-11-11-v,Italia Sovrana e Popolare,2022,2022,IT-11-11-v,R11 --- prtvteit --- Italia Sovrana e Popolare,,ITA,,,,
+IT-11-6-v,Terzo Polo (Azione-Italia Viva),2022,2022,IT-11-6-v,R11 --- prtvteit --- Terzo Polo (Azione-Italia Viva),3956,ITA,ally,alliance,alliance,15
+IT-11-7-v,Alleanza Verdi e Sinistra,2022,2022,IT-11-7-v,R11 --- prtvteit --- Alleanza Verdi e Sinistra,3956,ITA,ally,alliance,alliance,15
+IT-11-9-v,Italexit,2022,2022,IT-11-9-v,R11 --- prtvteit --- Italexit,9081,ITA,Italexit,Italexit for Italy,Italexit per l'Italia,
+IT-11-10-v,Unione Popolare,2022,2022,IT-11-10-v,R11 --- prtvteit --- Unione Popolare,3956,ITA,ally,alliance,alliance,15
+IT-11-11-v,Italia Sovrana e Popolare,2022,2022,IT-11-11-v,R11 --- prtvteit --- Italia Sovrana e Popolare,9127,ITA,ISP,Italia Sovrana e Popolare,Sovereign and Popular Italy,
 LT-4-1-v-lt3,Lithuanian Social Democratic Party (LSDP),2008,2022,LT-4-1-v-lt3 LT-5-1-v-lt3 LT-6-8-v-lt3 LT-7-8-v-lt3 LT-8-1-v-lt3 LT-9-1-v-lt3 LT-10-17-v-lt3 LT-11-17-v-lt3,"R4 --- prtvlt3 --- Lithuanian Social Democratic Party (LSDP)
 R5 --- prtvlt3 --- Lithuanian Social Democratic Party (LSDP)
 R6 --- prtvalt3 --- Lithuanian Social Democratic Party (LSDP)
@@ -2245,15 +2245,15 @@ R7 --- prtvalt3 --- Lithuanian Social Democratic Party (LSDP)
 R8 --- prtvblt3 --- Lithuanian Social Democratic Party (LSDP)
 R9 --- prtvblt3 --- Lithuanian Social Democratic Party (LSDP)
 R10 --- prtvclt3 --- Lithuanian Social Democratic Party (LSDP)
-R11 --- prtvclt3 --- Lithuanian Social Democratic Party (LSDP)",,LTU,,,,
+R11 --- prtvclt3 --- Lithuanian Social Democratic Party (LSDP)",64,LTU,LSDP,Lietuvos socialdemokratų partija,Lithuanian Social Democratic Party,
 LT-4-2-v-lt3,Union of Russians of Lithuania (LRS),2008,2010,LT-4-2-v-lt3 LT-5-2-v-lt3,"R4 --- prtvlt3 --- Union of Russians of Lithuania (LRS)
-R5 --- prtvlt3 --- Union of Russians of Lithuania (LRS)",,LTU,,,,
-LT-4-3-v-lt3,Party 'Front' (Frontas),2008,2008,LT-4-3-v-lt3,R4 --- prtvlt3 --- Party 'Front' (Frontas),,LTU,,,,
+R5 --- prtvlt3 --- Union of Russians of Lithuania (LRS)",168,LTU,LRS,Lietuvos rusų sąjunga,Lithuanian Russian Union,
+LT-4-3-v-lt3,Party 'Front' (Frontas),2008,2008,LT-4-3-v-lt3,R4 --- prtvlt3 --- Party 'Front' (Frontas),1250,LTU,F/SLF,Fronto partija / Socialistinis liaudies frontas,Front Party / Socialist People's Front,
 LT-4-4-v-lt3,Lithuanian Centre Party (LCP),2008,2018,LT-4-4-v-lt3 LT-5-4-v-lt3 LT-7-10-v-lt3 LT-8-15-v-lt3 LT-9-15-v-lt3,"R4 --- prtvlt3 --- Lithuanian Centre Party (LCP)
 R5 --- prtvlt3 --- Lithuanian Centre Party (LCP)
 R7 --- prtvalt3 --- Lithuanian Centre Party (LCP)
 R8 --- prtvblt3 --- Lithuanian Centre Party (LCP)
-R9 --- prtvblt3 --- Lithuanian Centre Party (LCP)",,LTU,,,,
+R9 --- prtvblt3 --- Lithuanian Centre Party (LCP)",5455,LTU,LCP,Lietuvos Centro Partija,Lithuanian Centre Party,
 LT-4-5-v-lt3,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2008,2022,LT-4-5-v-lt3 LT-5-5-v-lt3 LT-6-5-v-lt3 LT-7-5-v-lt3 LT-8-2-v-lt3 LT-9-2-v-lt3 LT-10-5-v-lt3 LT-11-5-v-lt3,"R4 --- prtvlt3 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R5 --- prtvlt3 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R6 --- prtvalt3 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
@@ -2261,34 +2261,34 @@ R7 --- prtvalt3 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R8 --- prtvblt3 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R9 --- prtvblt3 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R10 --- prtvclt3 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
-R11 --- prtvclt3 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)",,LTU,,,,
+R11 --- prtvclt3 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)",193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,
 LT-4-6-v-lt3,New Union (Social Liberals) (NS),2008,2010,LT-4-6-v-lt3 LT-5-6-v-lt3,"R4 --- prtvlt3 --- New Union (Social Liberals) (NS)
-R5 --- prtvlt3 --- New Union (Social Liberals) (NS)",,LTU,,,,
+R5 --- prtvlt3 --- New Union (Social Liberals) (NS)",1800,LTU,NS,Naujoji sąjunga (socialliberalai),New Union (Social Liberals),
 LT-4-7-v-lt3,Party of Civic Democracy (PDP),2008,2010,LT-4-7-v-lt3 LT-5-7-v-lt3,"R4 --- prtvlt3 --- Party of Civic Democracy (PDP)
-R5 --- prtvlt3 --- Party of Civic Democracy (PDP)",,LTU,,,,
+R5 --- prtvlt3 --- Party of Civic Democracy (PDP)",105,LTU,PDP,Pilietinės demokratijos partija,Civic Democratic Party,
 LT-4-8-v-lt3,Electoral Action of Poles in Lithuania (LLRA),2008,2022,LT-4-8-v-lt3 LT-5-8-v-lt3 LT-6-7-v-lt3 LT-7-7-v-lt3 LT-8-12-v-lt3 LT-9-12-v-lt3 LT-11-8-v-lt3,"R4 --- prtvlt3 --- Electoral Action of Poles in Lithuania (LLRA)
 R5 --- prtvlt3 --- Electoral Action of Poles in Lithuania (LLRA)
 R6 --- prtvalt3 --- Electoral Action of Poles in Lithuania (LLRA)
 R7 --- prtvalt3 --- Electoral Action of Poles in Lithuania (LLRA)
 R8 --- prtvblt3 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)
 R9 --- prtvblt3 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)
-R11 --- prtvclt3 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)",,LTU,,,,
+R11 --- prtvclt3 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)",556,LTU,LLRA,Lietuvos lenkų rinkimų akcija,Election Action of Lithuania's Poles,
 LT-4-9-v-lt3,National Resurrection Party (TPP),2008,2010,LT-4-9-v-lt3 LT-5-9-v-lt3,"R4 --- prtvlt3 --- National Resurrection Party (TPP)
-R5 --- prtvlt3 --- National Resurrection Party (TPP)",,LTU,,,,
+R5 --- prtvlt3 --- National Resurrection Party (TPP)",347,LTU,TPP,Tautos prisikėlimo partija,National Resurrection Party,
 LT-4-10-v-lt3,Labour Party (DP),2008,2018,LT-4-10-v-lt3 LT-5-10-v-lt3 LT-6-3-v-lt3 LT-7-3-v-lt3 LT-8-9-v-lt3 LT-9-9-v-lt3,"R4 --- prtvlt3 --- Labour Party (DP)
 R5 --- prtvlt3 --- Labour Party (DP)
 R6 --- prtvalt3 --- Labour Party (DP)
 R7 --- prtvalt3 --- Labour Party (DP)
 R8 --- prtvblt3 --- Labour Party (DP)
-R9 --- prtvblt3 --- Labour Party (DP)",,LTU,,,,
-LT-4-11-v-lt3,Labourist Party (LP),2008,2008,LT-4-11-v-lt3,R4 --- prtvlt3 --- Labourist Party (LP),,LTU,,,,
+R9 --- prtvblt3 --- Labour Party (DP)",102,LTU,DP,Darbo Partija,Labour Party,
+LT-4-11-v-lt3,Labourist Party (LP),2008,2008,LT-4-11-v-lt3,R4 --- prtvlt3 --- Labourist Party (LP),2501,LTU,1-perc,1 percent,1 percent,11
 LT-4-12-v-lt3,Liberals' Movement of the Republic of Lithuania (LRLS),2008,2020,LT-4-12-v-lt3 LT-5-12-v-lt3 LT-6-1-v-lt3 LT-7-1-v-lt3 LT-8-8-v-lt3 LT-9-8-v-lt3 LT-10-12-v-lt3,"R4 --- prtvlt3 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R5 --- prtvlt3 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R6 --- prtvalt3 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R7 --- prtvalt3 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R8 --- prtvblt3 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R9 --- prtvblt3 --- Liberals' Movement of the Republic of Lithuania (LRLS)
-R10 --- prtvclt3 --- Liberals' Movement of the Republic of Lithuania (LRLS)",,LTU,,,,
+R10 --- prtvclt3 --- Liberals' Movement of the Republic of Lithuania (LRLS)",1744,LTU,LRLS,Lietuvos Respublikos Liberalų sąjūdis,Liberals' Movement of the Republic of Lithuania,
 LT-4-13-v-lt3,Lithuanian Peasant Popular Union (LVLS),2008,2022,LT-4-13-v-lt3 LT-5-13-v-lt3 LT-6-17-v-lt3 LT-7-17-v-lt3 LT-8-7-v-lt3 LT-9-7-v-lt3 LT-10-13-v-lt3 LT-11-13-v-lt3,"R4 --- prtvlt3 --- Lithuanian Peasant Popular Union (LVLS)
 R5 --- prtvlt3 --- Lithuanian Peasant Popular Union (LVLS)
 R6 --- prtvalt3 --- Lithuanian Peasant and Greens Union (LVZS)
@@ -2296,40 +2296,40 @@ R7 --- prtvalt3 --- Lithuanian Peasant and Greens Union (LVZS)
 R8 --- prtvblt3 --- Lithuanian Peasant and Greens Union (LVZS)
 R9 --- prtvblt3 --- Lithuanian Peasant and Greens Union (LVZS)
 R10 --- prtvclt3 --- Lithuanian Peasant and Greens Union (LVZS)
-R11 --- prtvclt3 --- Lithuanian Peasant and Greens Union (LVZS)",,LTU,,,,
+R11 --- prtvclt3 --- Lithuanian Peasant and Greens Union (LVZS)",1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
 LT-4-14-v-lt3,Party Order and Justice (TT),2008,2018,LT-4-14-v-lt3 LT-5-14-v-lt3 LT-6-9-v-lt3 LT-7-9-v-lt3 LT-8-6-v-lt3 LT-9-6-v-lt3,"R4 --- prtvlt3 --- Party Order and Justice (TT)
 R5 --- prtvlt3 --- Party Order and Justice (TT)
 R6 --- prtvalt3 --- Party Order and Justice (TT)
 R7 --- prtvalt3 --- Party Order and Justice (TT)
 R8 --- prtvblt3 --- Party Order and Justice (TT)
-R9 --- prtvblt3 --- Party Order and Justice (TT)",,LTU,,,,
+R9 --- prtvblt3 --- Party Order and Justice (TT)",237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT-4-15-v-lt3,Liberal and Centre Union (LiCS),2008,2014,LT-4-15-v-lt3 LT-5-15-v-lt3 LT-6-19-v-lt3 LT-7-19-v-lt3,"R4 --- prtvlt3 --- Liberal and Centre Union (LiCS)
 R5 --- prtvlt3 --- Liberal and Centre Union (LiCS)
 R6 --- prtvalt3 --- Liberal and Centre Union (LiCS)
-R7 --- prtvalt3 --- Liberal and Centre Union (LiCS)",,LTU,,,,
+R7 --- prtvalt3 --- Liberal and Centre Union (LiCS)",1193,LTU,LiCS,Liberalų ir centro sąjunga,Liberal and Centre Union,
 LT-4-16-v-lt3,Party 'Young Lithuania' (JL),2008,2018,LT-4-16-v-lt3 LT-5-16-v-lt3 LT-6-18-v-lt3 LT-8-4-v-lt3 LT-9-4-v-lt3,"R4 --- prtvlt3 --- Party 'Young Lithuania' (JL)
 R5 --- prtvlt3 --- Party 'Young Lithuania' (JL)
 R6 --- prtvalt3 --- Party 'Young Lithuania' (JL)
 R8 --- prtvblt3 --- Party 'Young Lithuania' (JL)
-R9 --- prtvblt3 --- Party 'Young Lithuania' (JL)",,LTU,,,,
+R9 --- prtvblt3 --- Party 'Young Lithuania' (JL)",1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT-4-20-v-lt3,Independent/Self-Nominated,2008,2018,LT-4-20-v-lt3 LT-5-20-v-lt3 LT-6-28-v-lt3 LT-7-28-v-lt3 LT-8-17-v-lt3 LT-9-17-v-lt3,"R4 --- prtvlt3 --- Independent/Self-Nominated
 R5 --- prtvlt3 --- Independent/Self-Nominated
 R6 --- prtvalt3 --- Independent/Self-Nominated
 R7 --- prtvalt3 --- Independent/Self-Nominated
 R8 --- prtvblt3 --- Independent/Self-Nominated
-R9 --- prtvblt3 --- Independent/Self-Nominated",,LTU,,,,
+R9 --- prtvblt3 --- Independent/Self-Nominated",2778,LTU,indep,independent,independent,8
 LT-4-44-v-lt3,Did not vote for a candidate in the 2nd round,2008,2018,LT-4-44-v-lt3 LT-5-44-v-lt3 LT-6-44-v-lt3 LT-7-44-v-lt3 LT-8-61-v-lt3 LT-9-61-v-lt3,"R4 --- prtvlt3 --- Did not vote for a candidate in the 2nd round
 R5 --- prtvlt3 --- Did not vote for a single-member constituency candidate list, 2nd round
 R6 --- prtvalt3 --- Did not vote for a single-member constituency candidate list, 2nd round
 R7 --- prtvalt3 --- Did not vote for a single-member constituency candidate list, 2nd round
 R8 --- prtvblt3 --- Did not vote for a single-member constituency candidate list, 2nd round
-R9 --- prtvblt3 --- Did not vote for a single-member constituency candidate list, 2nd round",,LTU,,,,
+R9 --- prtvblt3 --- Did not vote for a single-member constituency candidate list, 2nd round",3047,LTU,tech,technical,technical,12
 LT-4-55-v-lt3,Does not know if voted for a candidate in the 2nd round,2008,2018,LT-4-55-v-lt3 LT-5-55-v-lt3 LT-6-55-v-lt3 LT-7-55-v-lt3 LT-8-63-v-lt3 LT-9-63-v-lt3,"R4 --- prtvlt3 --- Does not know if voted for a candidate in the 2nd round
 R5 --- prtvlt3 --- Don't know if voted for a single-member constituency candidate list, 2nd round
 R6 --- prtvalt3 --- Don't know if voted for a single-member constituency candidate list, 2nd round
 R7 --- prtvalt3 --- Don't know if voted for a single-member constituency candidate list, 2nd round
 R8 --- prtvblt3 --- Don't know if voted for a single-member constituency candidate list, 2nd round
-R9 --- prtvblt3 --- Don't know if voted for a single-member constituency candidate list, 2nd round",,LTU,,,,
+R9 --- prtvblt3 --- Don't know if voted for a single-member constituency candidate list, 2nd round",3047,LTU,tech,technical,technical,12
 LT-4-1-v-lt2,Lithuanian Social Democratic Party (LSDP),2008,2022,LT-4-1-v-lt2 LT-5-1-v-lt2 LT-6-8-v-lt2 LT-7-8-v-lt2 LT-8-1-v-lt2 LT-9-1-v-lt2 LT-10-17-v-lt2 LT-11-17-v-lt2,"R4 --- prtvlt2 --- Lithuanian Social Democratic Party (LSDP)
 R5 --- prtvlt2 --- Lithuanian Social Democratic Party (LSDP)
 R6 --- prtvalt2 --- Lithuanian Social Democratic Party (LSDP)
@@ -2337,16 +2337,16 @@ R7 --- prtvalt2 --- Lithuanian Social Democratic Party (LSDP)
 R8 --- prtvblt2 --- Lithuanian Social Democratic Party (LSDP)
 R9 --- prtvblt2 --- Lithuanian Social Democratic Party (LSDP)
 R10 --- prtvclt2 --- Lithuanian Social Democratic Party (LSDP)
-R11 --- prtvclt2 --- Lithuanian Social Democratic Party (LSDP)",,LTU,,,,
+R11 --- prtvclt2 --- Lithuanian Social Democratic Party (LSDP)",64,LTU,LSDP,Lietuvos socialdemokratų partija,Lithuanian Social Democratic Party,
 LT-4-2-v-lt2,Union of Russians of Lithuania (LRS),2008,2010,LT-4-2-v-lt2 LT-5-2-v-lt2,"R4 --- prtvlt2 --- Union of Russians of Lithuania (LRS)
-R5 --- prtvlt2 --- Union of Russians of Lithuania (LRS)",,LTU,,,,
+R5 --- prtvlt2 --- Union of Russians of Lithuania (LRS)",168,LTU,LRS,Lietuvos rusų sąjunga,Lithuanian Russian Union,
 LT-4-3-v-lt2,Party 'Front' (Frontas),2008,2010,LT-4-3-v-lt2 LT-5-3-v-lt2,"R4 --- prtvlt2 --- Party 'Front' (Frontas)
-R5 --- prtvlt2 --- Party 'Front' (Frontas)",,LTU,,,,
+R5 --- prtvlt2 --- Party 'Front' (Frontas)",1250,LTU,F/SLF,Fronto partija / Socialistinis liaudies frontas,Front Party / Socialist People's Front,
 LT-4-4-v-lt2,Lithuanian Centre Party (LCP),2008,2018,LT-4-4-v-lt2 LT-5-4-v-lt2 LT-7-10-v-lt2 LT-8-15-v-lt2 LT-9-15-v-lt2,"R4 --- prtvlt2 --- Lithuanian Centre Party (LCP)
 R5 --- prtvlt2 --- Lithuanian Centre Party (LCP)
 R7 --- prtvalt2 --- Lithuanian Centre Party (LCP)
 R8 --- prtvblt2 --- Lithuanian Centre Party (LCP)
-R9 --- prtvblt2 --- Lithuanian Centre Party (LCP)",,LTU,,,,
+R9 --- prtvblt2 --- Lithuanian Centre Party (LCP)",5455,LTU,LCP,Lietuvos Centro Partija,Lithuanian Centre Party,
 LT-4-5-v-lt2,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2008,2022,LT-4-5-v-lt2 LT-5-5-v-lt2 LT-6-5-v-lt2 LT-7-5-v-lt2 LT-8-2-v-lt2 LT-9-2-v-lt2 LT-10-5-v-lt2 LT-11-5-v-lt2,"R4 --- prtvlt2 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R5 --- prtvlt2 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R6 --- prtvalt2 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
@@ -2354,19 +2354,19 @@ R7 --- prtvalt2 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R8 --- prtvblt2 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R9 --- prtvblt2 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R10 --- prtvclt2 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
-R11 --- prtvclt2 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)",,LTU,,,,
+R11 --- prtvclt2 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)",193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,
 LT-4-6-v-lt2,New Union (Social Liberals) (NS),2008,2010,LT-4-6-v-lt2 LT-5-6-v-lt2,"R4 --- prtvlt2 --- New Union (Social Liberals) (NS)
-R5 --- prtvlt2 --- New Union (Social Liberals) (NS)",,LTU,,,,
+R5 --- prtvlt2 --- New Union (Social Liberals) (NS)",1800,LTU,NS,Naujoji sąjunga (socialliberalai),New Union (Social Liberals),
 LT-4-7-v-lt2,Party of Civic Democracy (PDP),2008,2010,LT-4-7-v-lt2 LT-5-7-v-lt2,"R4 --- prtvlt2 --- Party of Civic Democracy (PDP)
-R5 --- prtvlt2 --- Party of Civic Democracy (PDP)",,LTU,,,,
+R5 --- prtvlt2 --- Party of Civic Democracy (PDP)",105,LTU,PDP,Pilietinės demokratijos partija,Civic Democratic Party,
 LT-4-8-v-lt2,Electoral Action of Poles in Lithuania (LLRA),2008,2018,LT-4-8-v-lt2 LT-5-8-v-lt2 LT-6-7-v-lt2 LT-7-7-v-lt2 LT-8-12-v-lt2 LT-9-12-v-lt2,"R4 --- prtvlt2 --- Electoral Action of Poles in Lithuania (LLRA)
 R5 --- prtvlt2 --- Electoral Action of Poles in Lithuania (LLRA)
 R6 --- prtvalt2 --- Electoral Action of Poles in Lithuania (LLRA)
 R7 --- prtvalt2 --- Electoral Action of Poles in Lithuania (LLRA)
 R8 --- prtvblt2 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)
-R9 --- prtvblt2 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)",,LTU,,,,
+R9 --- prtvblt2 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)",556,LTU,LLRA,Lietuvos lenkų rinkimų akcija,Election Action of Lithuania's Poles,
 LT-4-9-v-lt2,National Resurrection Party (TPP),2008,2010,LT-4-9-v-lt2 LT-5-9-v-lt2,"R4 --- prtvlt2 --- National Resurrection Party (TPP)
-R5 --- prtvlt2 --- National Resurrection Party (TPP)",,LTU,,,,
+R5 --- prtvlt2 --- National Resurrection Party (TPP)",347,LTU,TPP,Tautos prisikėlimo partija,National Resurrection Party,
 LT-4-10-v-lt2,Labour Party (DP),2008,2022,LT-4-10-v-lt2 LT-5-10-v-lt2 LT-6-3-v-lt2 LT-7-3-v-lt2 LT-8-9-v-lt2 LT-9-9-v-lt2 LT-10-16-v-lt2 LT-11-16-v-lt2,"R4 --- prtvlt2 --- Labour Party (DP)
 R5 --- prtvlt2 --- Labour Party (DP)
 R6 --- prtvalt2 --- Labour Party (DP)
@@ -2374,16 +2374,16 @@ R7 --- prtvalt2 --- Labour Party (DP)
 R8 --- prtvblt2 --- Labour Party (DP)
 R9 --- prtvblt2 --- Labour Party (DP)
 R10 --- prtvclt2 --- Labour Party (DP)
-R11 --- prtvclt2 --- Labour Party (DP)",,LTU,,,,
+R11 --- prtvclt2 --- Labour Party (DP)",102,LTU,DP,Darbo Partija,Labour Party,
 LT-4-11-v-lt2,Labourist Party (LP),2008,2010,LT-4-11-v-lt2 LT-5-11-v-lt2,"R4 --- prtvlt2 --- Labourist Party (LP)
-R5 --- prtvlt2 --- Labourist Party (LP)",,LTU,,,,
+R5 --- prtvlt2 --- Labourist Party (LP)",2501,LTU,1-perc,1 percent,1 percent,11
 LT-4-12-v-lt2,Liberals' Movement of the Republic of Lithuania (LRLS),2008,2022,LT-4-12-v-lt2 LT-5-12-v-lt2 LT-6-1-v-lt2 LT-7-1-v-lt2 LT-8-8-v-lt2 LT-9-8-v-lt2 LT-11-12-v-lt2,"R4 --- prtvlt2 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R5 --- prtvlt2 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R6 --- prtvalt2 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R7 --- prtvalt2 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R8 --- prtvblt2 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R9 --- prtvblt2 --- Liberals' Movement of the Republic of Lithuania (LRLS)
-R11 --- prtvclt2 --- Liberals' Movement of the Republic of Lithuania (LRLS)",,LTU,,,,
+R11 --- prtvclt2 --- Liberals' Movement of the Republic of Lithuania (LRLS)",1744,LTU,LRLS,Lietuvos Respublikos Liberalų sąjūdis,Liberals' Movement of the Republic of Lithuania,
 LT-4-13-v-lt2,Lithuanian Peasant Popular Union (LVLS),2008,2022,LT-4-13-v-lt2 LT-5-13-v-lt2 LT-6-17-v-lt2 LT-7-17-v-lt2 LT-8-7-v-lt2 LT-9-7-v-lt2 LT-10-13-v-lt2 LT-11-13-v-lt2,"R4 --- prtvlt2 --- Lithuanian Peasant Popular Union (LVLS)
 R5 --- prtvlt2 --- Lithuanian Peasant Popular Union (LVLS)
 R6 --- prtvalt2 --- Lithuanian Peasant and Greens Union (LVZS)
@@ -2391,46 +2391,46 @@ R7 --- prtvalt2 --- Lithuanian Peasant and Greens Union (LVZS)
 R8 --- prtvblt2 --- Lithuanian Peasant and Greens Union (LVZS)
 R9 --- prtvblt2 --- Lithuanian Peasant and Greens Union (LVZS)
 R10 --- prtvclt2 --- Lithuanian Peasant and Greens Union (LVZS)
-R11 --- prtvclt2 --- Lithuanian Peasant and Greens Union (LVZS)",,LTU,,,,
+R11 --- prtvclt2 --- Lithuanian Peasant and Greens Union (LVZS)",1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
 LT-4-14-v-lt2,Party Order and Justice (TT),2008,2018,LT-4-14-v-lt2 LT-5-14-v-lt2 LT-6-9-v-lt2 LT-7-9-v-lt2 LT-8-6-v-lt2 LT-9-6-v-lt2,"R4 --- prtvlt2 --- Party Order and Justice (TT)
 R5 --- prtvlt2 --- Party Order and Justice (TT)
 R6 --- prtvalt2 --- Party Order and Justice (TT)
 R7 --- prtvalt2 --- Party Order and Justice (TT)
 R8 --- prtvblt2 --- Party Order and Justice (TT)
-R9 --- prtvblt2 --- Party Order and Justice (TT)",,LTU,,,,
+R9 --- prtvblt2 --- Party Order and Justice (TT)",237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT-4-15-v-lt2,Liberal and Centre Union (LiCS),2008,2014,LT-4-15-v-lt2 LT-5-15-v-lt2 LT-6-19-v-lt2 LT-7-19-v-lt2,"R4 --- prtvlt2 --- Liberal and Centre Union (LiCS)
 R5 --- prtvlt2 --- Liberal and Centre Union (LiCS)
 R6 --- prtvalt2 --- Liberal and Centre Union (LiCS)
-R7 --- prtvalt2 --- Liberal and Centre Union (LiCS)",,LTU,,,,
+R7 --- prtvalt2 --- Liberal and Centre Union (LiCS)",1193,LTU,LiCS,Liberalų ir centro sąjunga,Liberal and Centre Union,
 LT-4-16-v-lt2,Party 'Young Lithuania' (JL),2008,2018,LT-4-16-v-lt2 LT-5-16-v-lt2 LT-6-18-v-lt2 LT-7-18-v-lt2 LT-8-4-v-lt2 LT-9-4-v-lt2,"R4 --- prtvlt2 --- Party 'Young Lithuania' (JL)
 R5 --- prtvlt2 --- Party 'Young Lithuania' (JL)
 R6 --- prtvalt2 --- Party 'Young Lithuania' (JL)
 R7 --- prtvalt2 --- Party 'Young Lithuania' (JL)
 R8 --- prtvblt2 --- Party 'Young Lithuania' (JL)
-R9 --- prtvblt2 --- Party 'Young Lithuania' (JL)",,LTU,,,,
+R9 --- prtvblt2 --- Party 'Young Lithuania' (JL)",1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT-4-17-v-lt2,Lithuanian Social Democratic Union (LSDS),2008,2014,LT-4-17-v-lt2 LT-5-17-v-lt2 LT-6-11-v-lt2 LT-7-11-v-lt2,"R4 --- prtvlt2 --- Lithuanian Social Democratic Union (LSDS)
 R5 --- prtvlt2 --- Lithuanian Social Democratic Union (LSDS)
 R6 --- prtvalt2 --- Lithuanian Social Democratic Union (LSDS)
-R7 --- prtvalt2 --- Lithuanian Social Democratic Union (LSDS)",,LTU,,,,
-LT-4-19-v-lt2,Lithuanian People's Union 'For the Fair Lithuania' (UTL),2008,2008,LT-4-19-v-lt2,R4 --- prtvlt2 --- Lithuanian People's Union 'For the Fair Lithuania' (UTL),,LTU,,,,
+R7 --- prtvalt2 --- Lithuanian Social Democratic Union (LSDS)",8258,LTU,LSDS,Lietuvos socialdemokratų sąjunga,Lithuanian Social Democratic Union,
+LT-4-19-v-lt2,Lithuanian People's Union 'For the Fair Lithuania' (UTL),2008,2008,LT-4-19-v-lt2,R4 --- prtvlt2 --- Lithuanian People's Union 'For the Fair Lithuania' (UTL),1409,LTU,UTL,"Liaudies sąjunga ""Uz teisingą Lietuvą""","People’s Union ""For Just Lithuania""",
 LT-4-20-v-lt2,Independent/Self-Nominated,2008,2018,LT-4-20-v-lt2 LT-5-20-v-lt2 LT-6-28-v-lt2 LT-7-28-v-lt2 LT-8-17-v-lt2 LT-9-17-v-lt2,"R4 --- prtvlt2 --- Independent/Self-Nominated
 R5 --- prtvlt2 --- Independent/Self-Nominated
 R6 --- prtvalt2 --- Independent/Self-Nominated
 R7 --- prtvalt2 --- Independent/Self-Nominated
 R8 --- prtvblt2 --- Independent/Self-Nominated
-R9 --- prtvblt2 --- Independent/Self-Nominated",,LTU,,,,
+R9 --- prtvblt2 --- Independent/Self-Nominated",2778,LTU,indep,independent,independent,8
 LT-4-44-v-lt2,Did not vote for a candidate in the 1st round,2008,2018,LT-4-44-v-lt2 LT-5-44-v-lt2 LT-6-44-v-lt2 LT-7-44-v-lt2 LT-8-61-v-lt2 LT-9-61-v-lt2,"R4 --- prtvlt2 --- Did not vote for a candidate in the 1st round
 R5 --- prtvlt2 --- Did not vote for a single-member constituency candidate list
 R6 --- prtvalt2 --- Did not vote for a single-member constituency candidate list
 R7 --- prtvalt2 --- Did not vote for a single-member constituency candidate list
 R8 --- prtvblt2 --- Did not vote for a single-member constituency candidate list
-R9 --- prtvblt2 --- Did not vote for a single-member constituency candidate list",,LTU,,,,
+R9 --- prtvblt2 --- Did not vote for a single-member constituency candidate list",3047,LTU,tech,technical,technical,12
 LT-4-55-v-lt2,Does not know if voted for a candidate in the 1st round,2008,2018,LT-4-55-v-lt2 LT-5-55-v-lt2 LT-6-55-v-lt2 LT-7-55-v-lt2 LT-8-63-v-lt2 LT-9-63-v-lt2,"R4 --- prtvlt2 --- Does not know if voted for a candidate in the 1st round
 R5 --- prtvlt2 --- Don't know if voted for a single-member constituency candidate list
 R6 --- prtvalt2 --- Don't know if voted for a single-member constituency candidate list
 R7 --- prtvalt2 --- Don't know if voted for a single-member constituency candidate list
 R8 --- prtvblt2 --- Don't know if voted for a single-member constituency candidate list
-R9 --- prtvblt2 --- Don't know if voted for a single-member constituency candidate list",,LTU,,,,
+R9 --- prtvblt2 --- Don't know if voted for a single-member constituency candidate list",3047,LTU,tech,technical,technical,12
 LT-4-1-v-lt1,Lithuanian Social Democratic Party (LSDP),2008,2022,LT-4-1-v-lt1 LT-5-1-v-lt1 LT-6-8-v-lt1 LT-7-8-v-lt1 LT-8-1-v-lt1 LT-9-1-v-lt1 LT-10-17-v-lt1 LT-11-17-v-lt1,"R4 --- prtvlt1 --- Lithuanian Social Democratic Party (LSDP)
 R5 --- prtvlt1 --- Lithuanian Social Democratic Party (LSDP)
 R6 --- prtvalt1 --- Lithuanian Social Democratic Party (LSDP)
@@ -2438,13 +2438,13 @@ R7 --- prtvalt1 --- Lithuanian Social Democratic Party (LSDP)
 R8 --- prtvblt1 --- Lithuanian Social Democratic Party (LSDP)
 R9 --- prtvblt1 --- Lithuanian Social Democratic Party (LSDP)
 R10 --- prtvclt1 --- Lithuanian Social Democratic Party (LSDP)
-R11 --- prtvclt1 --- Lithuanian Social Democratic Party (LSDP)",,LTU,,,,
+R11 --- prtvclt1 --- Lithuanian Social Democratic Party (LSDP)",64,LTU,LSDP,Lietuvos socialdemokratų partija,Lithuanian Social Democratic Party,
 LT-4-2-v-lt1,Union of Russians of Lithuania (LRS),2008,2010,LT-4-2-v-lt1 LT-5-2-v-lt1,"R4 --- prtvlt1 --- Union of Russians of Lithuania (LRS)
-R5 --- prtvlt1 --- Union of Russians of Lithuania (LRS)",,LTU,,,,
+R5 --- prtvlt1 --- Union of Russians of Lithuania (LRS)",168,LTU,LRS,Lietuvos rusų sąjunga,Lithuanian Russian Union,
 LT-4-3-v-lt1,Party 'Front' (Frontas),2008,2010,LT-4-3-v-lt1 LT-5-3-v-lt1,"R4 --- prtvlt1 --- Party 'Front' (Frontas)
-R5 --- prtvlt1 --- Party 'Front' (Frontas)",,LTU,,,,
+R5 --- prtvlt1 --- Party 'Front' (Frontas)",1250,LTU,F/SLF,Fronto partija / Socialistinis liaudies frontas,Front Party / Socialist People's Front,
 LT-4-4-v-lt1,Lithuanian Centre Party (LCP),2008,2010,LT-4-4-v-lt1 LT-5-4-v-lt1,"R4 --- prtvlt1 --- Lithuanian Centre Party (LCP)
-R5 --- prtvlt1 --- Lithuanian Centre Party (LCP)",,LTU,,,,
+R5 --- prtvlt1 --- Lithuanian Centre Party (LCP)",5455,LTU,LCP,Lietuvos Centro Partija,Lithuanian Centre Party,
 LT-4-5-v-lt1,Homeland Union - Lithuanian Christian Democrats (TS-LKD),2008,2022,LT-4-5-v-lt1 LT-5-5-v-lt1 LT-6-5-v-lt1 LT-7-5-v-lt1 LT-8-2-v-lt1 LT-9-2-v-lt1 LT-10-5-v-lt1 LT-11-5-v-lt1,"R4 --- prtvlt1 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R5 --- prtvlt1 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R6 --- prtvalt1 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
@@ -2452,11 +2452,11 @@ R7 --- prtvalt1 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R8 --- prtvblt1 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R9 --- prtvblt1 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
 R10 --- prtvclt1 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)
-R11 --- prtvclt1 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)",,LTU,,,,
+R11 --- prtvclt1 --- Homeland Union - Lithuanian Christian Democrats (TS-LKD)",193,LTU,TS — LKD,Tėvynės sąjunga — Lietuvos krikščionys demokratai,Homeland Union — Lithuanian Christian Democrats,
 LT-4-6-v-lt1,New Union (Social Liberals) (NS),2008,2010,LT-4-6-v-lt1 LT-5-6-v-lt1,"R4 --- prtvlt1 --- New Union (Social Liberals) (NS)
-R5 --- prtvlt1 --- New Union (Social Liberals) (NS)",,LTU,,,,
+R5 --- prtvlt1 --- New Union (Social Liberals) (NS)",1800,LTU,NS,Naujoji sąjunga (socialliberalai),New Union (Social Liberals),
 LT-4-7-v-lt1,Party of Civic Democracy (PDP),2008,2010,LT-4-7-v-lt1 LT-5-7-v-lt1,"R4 --- prtvlt1 --- Party of Civic Democracy (PDP)
-R5 --- prtvlt1 --- Party of Civic Democracy (PDP)",,LTU,,,,
+R5 --- prtvlt1 --- Party of Civic Democracy (PDP)",105,LTU,PDP,Pilietinės demokratijos partija,Civic Democratic Party,
 LT-4-8-v-lt1,Electoral Action of Poles in Lithuania (LLRA),2008,2022,LT-4-8-v-lt1 LT-5-8-v-lt1 LT-6-7-v-lt1 LT-7-7-v-lt1 LT-8-11-v-lt1 LT-9-11-v-lt1 LT-10-8-v-lt1 LT-11-8-v-lt1,"R4 --- prtvlt1 --- Electoral Action of Poles in Lithuania (LLRA)
 R5 --- prtvlt1 --- Electoral Action of Poles in Lithuania (LLRA)
 R6 --- prtvalt1 --- Electoral Action of Poles in Lithuania (LLRA)
@@ -2464,11 +2464,11 @@ R7 --- prtvalt1 --- Electoral Action of Poles in Lithuania (LLRA)
 R8 --- prtvblt1 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)
 R9 --- prtvblt1 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)
 R10 --- prtvclt1 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)
-R11 --- prtvclt1 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)",,LTU,,,,
+R11 --- prtvclt1 --- Electoral Action of Poles in Lithuania-Christian Families Alliance (LLRA-KSS)",556,LTU,LLRA,Lietuvos lenkų rinkimų akcija,Election Action of Lithuania's Poles,
 LT-4-9-v-lt1,National Resurrection Party (TPP),2008,2010,LT-4-9-v-lt1 LT-5-9-v-lt1,"R4 --- prtvlt1 --- National Resurrection Party (TPP)
-R5 --- prtvlt1 --- National Resurrection Party (TPP)",,LTU,,,,
+R5 --- prtvlt1 --- National Resurrection Party (TPP)",347,LTU,TPP,Tautos prisikėlimo partija,National Resurrection Party,
 LT-4-10-v-lt1,The Coalition Labour Party + Youth,2008,2010,LT-4-10-v-lt1 LT-5-10-v-lt1,"R4 --- prtvlt1 --- The Coalition Labour Party + Youth
-R5 --- prtvlt1 --- The Coalition Labour Party + Youth",,LTU,,,,
+R5 --- prtvlt1 --- The Coalition Labour Party + Youth",8279,LTU,KDJ,Koalicija Darbo partija + Jaunimas,Coalition Labour Party and Youth,
 LT-4-11-v-lt1,Liberals' Movement of the Republic of Lithuania (LRLS),2008,2022,LT-4-11-v-lt1 LT-5-11-v-lt1 LT-6-1-v-lt1 LT-7-1-v-lt1 LT-8-7-v-lt1 LT-9-7-v-lt1 LT-10-12-v-lt1 LT-11-12-v-lt1,"R4 --- prtvlt1 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R5 --- prtvlt1 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R6 --- prtvalt1 --- Liberals' Movement of the Republic of Lithuania (LRLS)
@@ -2476,7 +2476,7 @@ R7 --- prtvalt1 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R8 --- prtvblt1 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R9 --- prtvblt1 --- Liberals' Movement of the Republic of Lithuania (LRLS)
 R10 --- prtvclt1 --- Liberals' Movement of the Republic of Lithuania (LRLS)
-R11 --- prtvclt1 --- Liberals' Movement of the Republic of Lithuania (LRLS)",,LTU,,,,
+R11 --- prtvclt1 --- Liberals' Movement of the Republic of Lithuania (LRLS)",1744,LTU,LRLS,Lietuvos Respublikos Liberalų sąjūdis,Liberals' Movement of the Republic of Lithuania,
 LT-4-12-v-lt1,Lithuanian Peasant Popular Union (LVLS),2008,2022,LT-4-12-v-lt1 LT-5-12-v-lt1 LT-6-14-v-lt1 LT-7-14-v-lt1 LT-8-6-v-lt1 LT-9-6-v-lt1 LT-10-13-v-lt1 LT-11-13-v-lt1,"R4 --- prtvlt1 --- Lithuanian Peasant Popular Union (LVLS)
 R5 --- prtvlt1 --- Lithuanian Peasant Popular Union (LVLS)
 R6 --- prtvalt1 --- Lithuanian Peasant and Greens Union (LVZS)
@@ -2484,35 +2484,35 @@ R7 --- prtvalt1 --- Lithuanian Peasant and Greens Union (LVZS)
 R8 --- prtvblt1 --- Lithuanian Peasant and Greens Union (LVZS)
 R9 --- prtvblt1 --- Lithuanian Peasant and Greens Union (LVZS)
 R10 --- prtvclt1 --- Lithuanian Peasant and Greens Union (LVZS)
-R11 --- prtvclt1 --- Lithuanian Peasant and Greens Union (LVZS)",,LTU,,,,
+R11 --- prtvclt1 --- Lithuanian Peasant and Greens Union (LVZS)",1490,LTU,LVŽS / LVLS,Lietuvos valstiečių ir žaliųjų sąjunga / Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Farmers and Greens Union / Lithuanian Peasant Popular Union,
 LT-4-13-v-lt1,Party Order and Justice (TT),2008,2018,LT-4-13-v-lt1 LT-5-13-v-lt1 LT-6-9-v-lt1 LT-7-9-v-lt1 LT-8-5-v-lt1 LT-9-5-v-lt1,"R4 --- prtvlt1 --- Party Order and Justice (TT)
 R5 --- prtvlt1 --- Party Order and Justice (TT)
 R6 --- prtvalt1 --- Party Order and Justice (TT)
 R7 --- prtvalt1 --- Party Order and Justice (TT)
 R8 --- prtvblt1 --- Party Order and Justice (TT)
-R9 --- prtvblt1 --- Party Order and Justice (TT)",,LTU,,,,
+R9 --- prtvblt1 --- Party Order and Justice (TT)",237,LTU,TT — LDP,Tvarka ir teisingumas — Liberalų Demokratų Partija,Order and Justice — Liberal Democratic Party,
 LT-4-14-v-lt1,Liberal and Centre Union (LiCS),2008,2014,LT-4-14-v-lt1 LT-5-14-v-lt1 LT-6-16-v-lt1 LT-7-16-v-lt1,"R4 --- prtvlt1 --- Liberal and Centre Union (LiCS)
 R5 --- prtvlt1 --- Liberal and Centre Union (LiCS)
 R6 --- prtvalt1 --- Liberal and Centre Union (LiCS)
-R7 --- prtvalt1 --- Liberal and Centre Union (LiCS)",,LTU,,,,
+R7 --- prtvalt1 --- Liberal and Centre Union (LiCS)",1193,LTU,LiCS,Liberalų ir centro sąjunga,Liberal and Centre Union,
 LT-4-15-v-lt1,Party 'Young Lithuania' (JL),2008,2014,LT-4-15-v-lt1 LT-5-15-v-lt1 LT-6-15-v-lt1 LT-7-15-v-lt1,"R4 --- prtvlt1 --- Party 'Young Lithuania' (JL)
 R5 --- prtvlt1 --- Party 'Young Lithuania' (JL)
 R6 --- prtvalt1 --- Party 'Young Lithuania' (JL)
-R7 --- prtvalt1 --- Party 'Young Lithuania' (JL)",,LTU,,,,
+R7 --- prtvalt1 --- Party 'Young Lithuania' (JL)",1026,LTU,JL,Jaunoji Lietuva,Young Lithuania,
 LT-4-16-v-lt1,Lithuanian Social Democratic Union (LSDS),2008,2010,LT-4-16-v-lt1 LT-5-16-v-lt1,"R4 --- prtvlt1 --- Lithuanian Social Democratic Union (LSDS)
-R5 --- prtvlt1 --- Lithuanian Social Democratic Union (LSDS)",,LTU,,,,
+R5 --- prtvlt1 --- Lithuanian Social Democratic Union (LSDS)",8258,LTU,LSDS,Lietuvos socialdemokratų sąjunga,Lithuanian Social Democratic Union,
 LT-4-44-v-lt1,Did not vote for a candidate list,2008,2018,LT-4-44-v-lt1 LT-5-44-v-lt1 LT-6-44-v-lt1 LT-7-44-v-lt1 LT-8-61-v-lt1 LT-9-61-v-lt1,"R4 --- prtvlt1 --- Did not vote for a candidate list
 R5 --- prtvlt1 --- Did not vote for a multi-member nationwide candidate list
 R6 --- prtvalt1 --- Did not vote for a multi-member nationwide candidate list
 R7 --- prtvalt1 --- Did not vote for a multi-member nationwide candidate list
 R8 --- prtvblt1 --- Did not vote for a multi-member nationwide candidate list
-R9 --- prtvblt1 --- Did not vote for a multi-member nationwide candidate list",,LTU,,,,
+R9 --- prtvblt1 --- Did not vote for a multi-member nationwide candidate list",3047,LTU,tech,technical,technical,12
 LT-4-55-v-lt1,Does not know if voted for a candidate list,2008,2018,LT-4-55-v-lt1 LT-5-55-v-lt1 LT-6-55-v-lt1 LT-7-55-v-lt1 LT-8-63-v-lt1 LT-9-63-v-lt1,"R4 --- prtvlt1 --- Does not know if voted for a candidate list
 R5 --- prtvlt1 --- Don't know if voted for a multi-member nationwide candidate list
 R6 --- prtvalt1 --- Don't know if voted for a multi-member nationwide candidate list
 R7 --- prtvalt1 --- Don't know if voted for a multi-member nationwide candidate list
 R8 --- prtvblt1 --- Don't know if voted for a multi-member nationwide candidate list
-R9 --- prtvblt1 --- Don't know if voted for a multi-member nationwide candidate list",,LTU,,,,
+R9 --- prtvblt1 --- Don't know if voted for a multi-member nationwide candidate list",3047,LTU,tech,technical,technical,12
 LT-5-17-v-lt3,Lithuanian Social Democratic Union (LSDS),2010,2014,LT-5-17-v-lt3 LT-6-11-v-lt3 LT-7-11-v-lt3,"R5 --- prtvlt3 --- Lithuanian Social Democratic Union (LSDS)
 R6 --- prtvalt3 --- Lithuanian Social Democratic Union (LSDS)
 R7 --- prtvalt3 --- Lithuanian Social Democratic Union (LSDS)",8258,LTU,LSDS,Lietuvos socialdemokratų sąjunga,Lithuanian Social Democratic Union,
@@ -2638,9 +2638,9 @@ LT-10-11-v-lt1,Party 'Lithuania - For everyone' (LV),2020,2022,LT-10-11-v-lt1 LT
 R11 --- prtvclt1 --- Party 'Lithuania - For everyone' (LV)",2501,LTU,1-perc,1 percent,1 percent,11
 LT-10-15-v-lt1,Christian Union (KS),2020,2022,LT-10-15-v-lt1 LT-11-15-v-lt1,"R10 --- prtvclt1 --- Christian Union (KS)
 R11 --- prtvclt1 --- Christian Union (KS)",2501,LTU,1-perc,1 percent,1 percent,11
-LT-11-3-v-lt3,Freedom Party (LP),2022,2022,LT-11-3-v-lt3,R11 --- prtvclt3 --- Freedom Party (LP),,LTU,,,,
-LT-11-2-v-lt2,Party 'Freedom and Justice' (LT),2022,2022,LT-11-2-v-lt2,R11 --- prtvclt2 --- Party 'Freedom and Justice' (LT),,LTU,,,,
-LT-11-11-v-lt2,Party 'Lithuania - For everyone' (LV),2022,2022,LT-11-11-v-lt2,R11 --- prtvclt2 --- Party 'Lithuania - For everyone' (LV),,LTU,,,,
+LT-11-3-v-lt3,Freedom Party (LP),2022,2022,LT-11-3-v-lt3,R11 --- prtvclt3 --- Freedom Party (LP),8982,LTU,LP,Laisvės partija,Freedom Party,
+LT-11-2-v-lt2,Party 'Freedom and Justice' (LT),2022,2022,LT-11-2-v-lt2,R11 --- prtvclt2 --- Party 'Freedom and Justice' (LT),5456,LTU,LLSL,Lietuvos Laisvės Sąjunga (Liberalai),Lithuanian Freedom Union (Liberals),
+LT-11-11-v-lt2,Party 'Lithuania - For everyone' (LV),2022,2022,LT-11-11-v-lt2,R11 --- prtvclt2 --- Party 'Lithuania - For everyone' (LV),2501,LTU,1-perc,1 percent,1 percent,11
 LU-1-1-v,Parti Chrétien Social (PCS),2002,2004,LU-1-1-v LU-2-1-v,"R1 --- prtvtlu --- Parti Chrétien Social (PCS)
 R2 --- prtvtlu --- Parti Chrétien Social (PCS)",539,LUX,CSV,Chrëschtlech Sozial Vollekspartei,Christian Social People's Party,
 LU-1-2-v,Parti Socialiste Ouvrier Luxembourgeois (PSOL),2002,2004,LU-1-2-v LU-2-2-v,"R1 --- prtvtlu --- Parti Socialiste Ouvrier Luxembourgeois (PSOL)
@@ -2656,24 +2656,24 @@ R2 --- prtvtlu --- Comité d'action pour la Démocratie et la Justice sociale",1
 LU-1-7-v,Autres,2002,2004,LU-1-7-v LU-2-7-v,"R1 --- prtvtlu --- Autres
 R2 --- prtvtlu --- Autres",1847,LUX,etc,other,other,7
 LV-3-1-v,The People's Party,2006,2008,LV-3-1-v LV-4-1-v,"R3 --- prtvtlv --- The People's Party
-R4 --- prtvtlv --- The People's Party",,LVA,,,,
+R4 --- prtvtlv --- The People's Party",1755,LVA,TP,Tautas Partija,People's Party,
 LV-3-2-v,Greens and Farmers Union,2006,2020,LV-3-2-v LV-4-2-v LV-9-16-v LV-10-16-v,"R3 --- prtvtlv --- Greens and Farmers Union
 R4 --- prtvtlv --- Greens and Farmers Union
 R9 --- prtvtalv --- Zaļo un Zemnieku savienība
-R10 --- prtvtalv --- Zaļo un Zemnieku savienība",,LVA,,,,
+R10 --- prtvtalv --- Zaļo un Zemnieku savienība",701,LVA,ZZS,Zaļo un Zemnieku savienība,Green and Farmers' Union,
 LV-3-3-v,New Era,2006,2008,LV-3-3-v LV-4-3-v,"R3 --- prtvtlv --- New Era
-R4 --- prtvtlv --- New Era",,LVA,,,,
+R4 --- prtvtlv --- New Era",1531,LVA,JL,Jaunais Laiks,New Era,
 LV-3-4-v,Concord Centre,2006,2008,LV-3-4-v LV-4-4-v,"R3 --- prtvtlv --- Concord Centre
-R4 --- prtvtlv --- Concord Centre",,LVA,,,,
+R4 --- prtvtlv --- Concord Centre",1056,LVA,SC,Saskaņas Centrs,Harmony Centre,
 LV-3-5-v,Latvia's First party/Latvia's Way,2006,2008,LV-3-5-v LV-4-5-v,"R3 --- prtvtlv --- Latvia's First party/Latvia's Way
-R4 --- prtvtlv --- Latvia's First party/Latvia's Way",,LVA,,,,
+R4 --- prtvtlv --- Latvia's First party/Latvia's Way",461,LVA,LPP/LC,Latvijas Pirmā partija / Latvijas Ceļš,Latvian First Party / Latvian Way Party,
 LV-3-6-v,For Fatherland and Freedom/ LNNK,2006,2008,LV-3-6-v LV-4-6-v,"R3 --- prtvtlv --- For Fatherland and Freedom/ LNNK
-R4 --- prtvtlv --- For Fatherland and Freedom/ LNNK",,LVA,,,,
+R4 --- prtvtlv --- For Fatherland and Freedom/ LNNK",1704,LVA,TB/LNNK,Tēvzemei un Brīvībai / LNNK,For Fatherland and Freedom / LNNK,
 LV-3-7-v,For Human Rights in a United Latvia,2006,2008,LV-3-7-v LV-4-7-v,"R3 --- prtvtlv --- For Human Rights in a United Latvia
-R4 --- prtvtlv --- For Human Rights in a United Latvia",,LVA,,,,
+R4 --- prtvtlv --- For Human Rights in a United Latvia",176,LVA,PCTVL,Par cilvēka tiesībām vienotā Latvijā,For Human Rights in a United Latvia,
 LV-3-8-v,Other,2006,2020,LV-3-8-v LV-4-8-v LV-10-17-v,"R3 --- prtvtlv --- Other
 R4 --- prtvtlv --- Other
-R10 --- prtvtalv --- Other",,LVA,,,,
+R10 --- prtvtalv --- Other",1848,LVA,etc,other,other,7
 LV-9-1-v,Latvijas Krievu savienība,2018,2020,LV-9-1-v LV-10-1-v,"R9 --- prtvtalv --- Latvijas Krievu savienība
 R10 --- prtvtalv --- Latvijas Krievu savienība",5657,LVA,LKS/RSL,Latvijas Krievu savienība / Русский союз Латвии,Latvian Russian Union,
 LV-9-2-v,Jaunā konservatīvā partija,2018,2020,LV-9-2-v LV-10-2-v,"R9 --- prtvtalv --- Jaunā konservatīvā partija
@@ -3101,8 +3101,8 @@ PL-9-8-v,Zjednoczona Lewica,2018,2018,PL-9-8-v,R9 --- prtvtdpl --- Zjednoczona L
 PL-10-1-v,Koalicja Bezpartyjni i Samorządowcy,2020,2020,PL-10-1-v,R10 --- prtvtepl --- Koalicja Bezpartyjni i Samorządowcy,2890,POL,1-perc,1 percent,1 percent,11
 PL-10-3-v,Konfederacja Wolność i Niepodległość,2020,2022,PL-10-3-v PL-11-5-v,"R10 --- prtvtepl --- Konfederacja Wolność i Niepodległość
 R11 --- prtvtfpl --- Konfederacja Wolność i Niepodległość",9026,POL,Konf,Konfederacja Wolność i Niepodległość,Confederation Freedom and Independence,
-PL-11-3-v,Trzecia Droga,2022,2022,PL-11-3-v,R11 --- prtvtfpl --- Trzecia Droga,,POL,,,,
-PL-11-4-v,Nowa Lewica,2022,2022,PL-11-4-v,R11 --- prtvtfpl --- Nowa Lewica,,POL,,,,
+PL-11-3-v,Trzecia Droga,2022,2022,PL-11-3-v,R11 --- prtvtfpl --- Trzecia Droga,3999,POL,ally,alliance,alliance,15
+PL-11-4-v,Nowa Lewica,2022,2022,PL-11-4-v,R11 --- prtvtfpl --- Nowa Lewica,9349,POL,NL,Nowa Lewica,New Left,
 PT-1-1-v,B.E. -  Bloco de Esquerda,2002,2022,PT-1-1-v PT-2-1-v PT-3-1-v PT-4-1-v PT-5-1-v PT-6-1-v PT-7-1-v PT-8-2-v PT-9-2-v PT-10-2-v PT-11-3-v,"R1 --- prtvtpt --- B.E. -  Bloco de Esquerda
 R2 --- prtvtpt --- B.E. -  Bloco de Esquerda
 R3 --- prtvtapt --- BE - Bloco de Esquerda
@@ -3226,14 +3226,14 @@ PT-10-5-v,IL - Iniciativa Liberal,2020,2022,PT-10-5-v PT-11-7-v,"R10 --- prtvtdp
 R11 --- prtvtept --- IL - Iniciativa Liberal",8640,PRT,IL,Iniciativa Liberal,Liberal Initiative,
 PT-10-6-v,JPP - Juntos pelo Povo,2020,2020,PT-10-6-v,R10 --- prtvtdpt --- JPP - Juntos pelo Povo,2893,PRT,1-perc,1 percent,1 percent,11
 PT-10-21-v,R.I.R. - Reagir Incluir Reciclar,2020,2020,PT-10-21-v,R10 --- prtvtdpt --- R.I.R. - Reagir Incluir Reciclar,2893,PRT,1-perc,1 percent,1 percent,11
-PT-11-10-v,MAS - Movimento Alternativa Socialista,2022,2022,PT-11-10-v,R11 --- prtvtept --- MAS - Movimento Alternativa Socialista,,PRT,,,,
-PT-11-12-v,"NC - Nós, Cidadãos!",2022,2022,PT-11-12-v,"R11 --- prtvtept --- NC - Nós, Cidadãos!",,PRT,,,,
-PT-11-21-v,VP – Volt Portugal,2022,2022,PT-11-21-v,R11 --- prtvtept --- VP – Volt Portugal,,PRT,,,,
-RO-3-1-v,Alliance National Liberal Party and Democratic Party (DA),2006,2006,RO-3-1-v,R3 --- prtvtro --- Alliance National Liberal Party and Democratic Party (DA),,ROU,,,,
-RO-3-2-v,Alliance Social Democratic Party and Humanistic Party,2006,2006,RO-3-2-v,R3 --- prtvtro --- Alliance Social Democratic Party and Humanistic Party,,ROU,,,,
-RO-3-3-v,Greater Romania Party,2006,2006,RO-3-3-v,R3 --- prtvtro --- Greater Romania Party,,ROU,,,,
-RO-3-4-v,Democratic Union of Ethnic Hungarians,2006,2006,RO-3-4-v,R3 --- prtvtro --- Democratic Union of Ethnic Hungarians,,ROU,,,,
-RO-3-5-v,Other party,2006,2006,RO-3-5-v,R3 --- prtvtro --- Other party,,ROU,,,,
+PT-11-10-v,MAS - Movimento Alternativa Socialista,2022,2022,PT-11-10-v,R11 --- prtvtept --- MAS - Movimento Alternativa Socialista,2893,PRT,1-perc,1 percent,1 percent,11
+PT-11-12-v,"NC - Nós, Cidadãos!",2022,2022,PT-11-12-v,"R11 --- prtvtept --- NC - Nós, Cidadãos!",7358,PRT,NC,"Nós, Cidadãos!","We, the Citizens!",
+PT-11-21-v,VP – Volt Portugal,2022,2022,PT-11-21-v,R11 --- prtvtept --- VP – Volt Portugal,2893,PRT,1-perc,1 percent,1 percent,11
+RO-3-1-v,Alliance National Liberal Party and Democratic Party (DA),2006,2006,RO-3-1-v,R3 --- prtvtro --- Alliance National Liberal Party and Democratic Party (DA),4002,ROU,ally,alliance,alliance,15
+RO-3-2-v,Alliance Social Democratic Party and Humanistic Party,2006,2006,RO-3-2-v,R3 --- prtvtro --- Alliance Social Democratic Party and Humanistic Party,4002,ROU,ally,alliance,alliance,15
+RO-3-3-v,Greater Romania Party,2006,2006,RO-3-3-v,R3 --- prtvtro --- Greater Romania Party,1305,ROU,PRM,Partidul România Mare,Greater Romania Party,
+RO-3-4-v,Democratic Union of Ethnic Hungarians,2006,2006,RO-3-4-v,R3 --- prtvtro --- Democratic Union of Ethnic Hungarians,1105,ROU,UDMR/RMDS,Uniunea Democrată Maghiară din România / Romániai Magyar Demokrata Szövetség,Democratic Union of Hungarians in Romania / Democratic Alliance of Hungarians in Romania,
+RO-3-5-v,Other party,2006,2006,RO-3-5-v,R3 --- prtvtro --- Other party,1854,ROU,etc,other,other,7
 RO-4-1-v,PD-L,2008,2008,RO-4-1-v,R4 --- prtvtaro --- PD-L,660,ROU,PDL,Partidul Democrat-Liberal,Democratic Liberal Party,
 RO-4-2-v,Alianta PSD-PC,2008,2008,RO-4-2-v,R4 --- prtvtaro --- Alianta PSD-PC,6153,ROU,PSD-PC,Alianța PSD+PC,Alliance PSD+PC,
 RO-4-3-v,PNL,2008,2008,RO-4-3-v,R4 --- prtvtaro --- PNL,481,ROU,PNL,Partidul Naţional Liberal,National Liberal Party,
@@ -3284,31 +3284,31 @@ RS-10-19-v,RUSKA STRANKA - SLOBODAN NIKOLIĆ,2020,2022,RS-10-19-v RS-11-46-v,"R1
 R11 --- prtvtbrs --- RUSKA STRANKA - SLOBODAN NIKOLIĆ",2915,SRB,1-perc,1 percent,1 percent,11
 RS-10-20-v,Čedomir Jovanović - KOALICIJA ZA MIR,2020,2020,RS-10-20-v,R10 --- prtvtars --- Čedomir Jovanović - KOALICIJA ZA MIR,4011,SRB,ally,alliance,alliance,15
 RS-10-21-v,POKRET LEVIJATAN - ŽIVIM ZA SRBIJU,2020,2020,RS-10-21-v,R10 --- prtvtars --- POKRET LEVIJATAN - ŽIVIM ZA SRBIJU,4011,SRB,ally,alliance,alliance,15
-RS-11-1-v,Aleksandar Vučić — Zajedno možemo sve,2022,2022,RS-11-1-v,R11 --- prtvtbrs --- Aleksandar Vučić — Zajedno možemo sve,,SRB,,,,
-RS-11-2-v,Ivica Dačić — Premijer Srbije_(2),2022,2022,RS-11-2-v,R11 --- prtvtbrs --- Ivica Dačić — Premijer Srbije_(2),,SRB,,,,
-RS-11-5-v,Marinika Tepić — Ujedinjeni za pobedu Srbije,2022,2022,RS-11-5-v,R11 --- prtvtbrs --- Marinika Tepić — Ujedinjeni za pobedu Srbije,,SRB,,,,
-RS-11-6-v,Dr Miloš Jovanović – Nada za Srbiju – Srpska koalicija Nada – Nacionalno,2022,2022,RS-11-6-v,R11 --- prtvtbrs --- Dr Miloš Jovanović – Nada za Srbiju – Srpska koalicija Nada – Nacionalno,,SRB,,,,
-RS-11-9-v,Moramo — Akcija — Ekološki ustanak — Ćuta — Ne davimo Beograd — Nebo,2022,2022,RS-11-9-v,R11 --- prtvtbrs --- Moramo — Akcija — Ekološki ustanak — Ćuta — Ne davimo Beograd — Nebo,,SRB,,,,
-RS-11-10-v,Suverenisti — Saša Radulović — Milan Stamatović — dr Jovana Stojković,2022,2022,RS-11-10-v,R11 --- prtvtbrs --- Suverenisti — Saša Radulović — Milan Stamatović — dr Jovana Stojković,,SRB,,,,
-RS-11-17-v,Otete bebe — Ana Pejić,2022,2022,RS-11-17-v,R11 --- prtvtbrs --- Otete bebe — Ana Pejić,,SRB,,,,
-RS-11-18-v,Romska partija — Srđan Šajn,2022,2022,RS-11-18-v,R11 --- prtvtbrs --- Romska partija — Srđan Šajn,,SRB,,,,
+RS-11-1-v,Aleksandar Vučić — Zajedno možemo sve,2022,2022,RS-11-1-v,R11 --- prtvtbrs --- Aleksandar Vučić — Zajedno možemo sve,8999,SRB,ZMS,Zajedno možemo sve,Together We Can Do Everything,
+RS-11-2-v,Ivica Dačić — Premijer Srbije_(2),2022,2022,RS-11-2-v,R11 --- prtvtbrs --- Ivica Dačić — Premijer Srbije_(2),9001,SRB,SPS/PUPS/JS,Ivica Dačić — Premijer Srbije,Ivica Dačić — Prime Minister of Serbia,
+RS-11-5-v,Marinika Tepić — Ujedinjeni za pobedu Srbije,2022,2022,RS-11-5-v,R11 --- prtvtbrs --- Marinika Tepić — Ujedinjeni za pobedu Srbije,4011,SRB,ally,alliance,alliance,15
+RS-11-6-v,Dr Miloš Jovanović – Nada za Srbiju – Srpska koalicija Nada – Nacionalno,2022,2022,RS-11-6-v,R11 --- prtvtbrs --- Dr Miloš Jovanović – Nada za Srbiju – Srpska koalicija Nada – Nacionalno,4011,SRB,ally,alliance,alliance,15
+RS-11-9-v,Moramo — Akcija — Ekološki ustanak — Ćuta — Ne davimo Beograd — Nebo,2022,2022,RS-11-9-v,R11 --- prtvtbrs --- Moramo — Akcija — Ekološki ustanak — Ćuta — Ne davimo Beograd — Nebo,4011,SRB,ally,alliance,alliance,15
+RS-11-10-v,Suverenisti — Saša Radulović — Milan Stamatović — dr Jovana Stojković,2022,2022,RS-11-10-v,R11 --- prtvtbrs --- Suverenisti — Saša Radulović — Milan Stamatović — dr Jovana Stojković,4011,SRB,ally,alliance,alliance,15
+RS-11-17-v,Otete bebe — Ana Pejić,2022,2022,RS-11-17-v,R11 --- prtvtbrs --- Otete bebe — Ana Pejić,2915,SRB,1-perc,1 percent,1 percent,11
+RS-11-18-v,Romska partija — Srđan Šajn,2022,2022,RS-11-18-v,R11 --- prtvtbrs --- Romska partija — Srđan Šajn,2915,SRB,1-perc,1 percent,1 percent,11
 RS-11-21-v,Invalid ballot_(21),2022,2022,RS-11-21-v SE-11-9-v,"R11 --- prtvtbrs --- Invalid ballot_(21)
-R11 --- prtvtdse --- Annat parti",,SRB,,,,
-RS-11-31-v,Aleksandar Vučić — Srbija ne sme da stane,2022,2022,RS-11-31-v,R11 --- prtvtbrs --- Aleksandar Vučić — Srbija ne sme da stane,,SRB,,,,
-RS-11-32-v,Ivica Dačić — Premijer Srbije_(32),2022,2022,RS-11-32-v,R11 --- prtvtbrs --- Ivica Dačić — Premijer Srbije_(32),,SRB,,,,
-RS-11-34-v,Milica Đurđević Stamenkovski — Boško Obradović — Nacionalno okupljanje,2022,2022,RS-11-34-v,R11 --- prtvtbrs --- Milica Đurđević Stamenkovski — Boško Obradović — Nacionalno okupljanje,,SRB,,,,
-RS-11-35-v,dr Miloš Jovanović — NADA za Srbiju — Srpska koalicija NADA — Nacionalno,2022,2022,RS-11-35-v,R11 --- prtvtbrs --- dr Miloš Jovanović — NADA za Srbiju — Srpska koalicija NADA — Nacionalno,,SRB,,,,
-RS-11-36-v,"Savez vojvođanskih Mađara — Za našeg predsednika, za našu zajednicu, za bu",2022,2022,RS-11-36-v,"R11 --- prtvtbrs --- Savez vojvođanskih Mađara — Za našeg predsednika, za našu zajednicu, za bu",,SRB,,,,
-RS-11-37-v,Srbija protiv nasilja — Miroslav Miki Aleksić — Marinika Tepić,2022,2022,RS-11-37-v,R11 --- prtvtbrs --- Srbija protiv nasilja — Miroslav Miki Aleksić — Marinika Tepić,,SRB,,,,
-RS-11-38-v,Usame Zukorlić — Ujedinjeni za pravdu — Stranka pravde i pomirenja — Boš,2022,2022,RS-11-38-v,R11 --- prtvtbrs --- Usame Zukorlić — Ujedinjeni za pravdu — Stranka pravde i pomirenja — Boš,,SRB,,,,
-RS-11-40-v,Zajedno za budućnost i razvoj — Koalicija za mir i toleranciju,2022,2022,RS-11-40-v,R11 --- prtvtbrs --- Zajedno za budućnost i razvoj — Koalicija za mir i toleranciju,,SRB,,,,
-RS-11-41-v,"Narodna stranka — Siguran izbor. Ozbiljni ljudi — Vuk Jeremić, dr Sanda Ra",2022,2022,RS-11-41-v,"R11 --- prtvtbrs --- Narodna stranka — Siguran izbor. Ozbiljni ljudi — Vuk Jeremić, dr Sanda Ra",,SRB,,,,
-RS-11-42-v,"Saša Radulović (Dosta je bilo — DJB) — Duško Vujošević, Boris Tadić (S",2022,2022,RS-11-42-v,"R11 --- prtvtbrs --- Saša Radulović (Dosta je bilo — DJB) — Duško Vujošević, Boris Tadić (S",,SRB,,,,
-RS-11-43-v,Politička borba Albanaca se nastavlja — Šaip Kamberi,2022,2022,RS-11-43-v,R11 --- prtvtbrs --- Politička borba Albanaca se nastavlja — Šaip Kamberi,,SRB,,,,
-RS-11-44-v,"Mi — Glas iz naroda, prof. dr. Branimir Nestorović",2022,2022,RS-11-44-v,"R11 --- prtvtbrs --- Mi — Glas iz naroda, prof. dr. Branimir Nestorović",,SRB,,,,
-RS-11-47-v,Čedomir Jovanović — Mora drugačije,2022,2022,RS-11-47-v,R11 --- prtvtbrs --- Čedomir Jovanović — Mora drugačije,,SRB,,,,
-RS-11-48-v,Albanska demokratska alternativa — Ujedinjena dolina,2022,2022,RS-11-48-v,R11 --- prtvtbrs --- Albanska demokratska alternativa — Ujedinjena dolina,,SRB,,,,
-RS-11-51-v,Invalid ballot_(51),2022,2022,RS-11-51-v,R11 --- prtvtbrs --- Invalid ballot_(51),,SRB,,,,
+R11 --- prtvtdse --- Annat parti",3079,SRB,tech,technical,technical,12
+RS-11-31-v,Aleksandar Vučić — Srbija ne sme da stane,2022,2022,RS-11-31-v,R11 --- prtvtbrs --- Aleksandar Vučić — Srbija ne sme da stane,9013,SRB,AV-ZMS,Aleksandar Vučić – Zajedno možemo sve,Let's Get Serbia Moving,
+RS-11-32-v,Ivica Dačić — Premijer Srbije_(32),2022,2022,RS-11-32-v,R11 --- prtvtbrs --- Ivica Dačić — Premijer Srbije_(32),9001,SRB,SPS/PUPS/JS,Ivica Dačić — Premijer Srbije,Ivica Dačić — Prime Minister of Serbia,
+RS-11-34-v,Milica Đurđević Stamenkovski — Boško Obradović — Nacionalno okupljanje,2022,2022,RS-11-34-v,R11 --- prtvtbrs --- Milica Đurđević Stamenkovski — Boško Obradović — Nacionalno okupljanje,4011,SRB,ally,alliance,alliance,15
+RS-11-35-v,dr Miloš Jovanović — NADA za Srbiju — Srpska koalicija NADA — Nacionalno,2022,2022,RS-11-35-v,R11 --- prtvtbrs --- dr Miloš Jovanović — NADA za Srbiju — Srpska koalicija NADA — Nacionalno,9121,SRB,NADA,Nacionalno demokratska alternativa,National Democratic Alternative,
+RS-11-36-v,"Savez vojvođanskih Mađara — Za našeg predsednika, za našu zajednicu, za bu",2022,2022,RS-11-36-v,"R11 --- prtvtbrs --- Savez vojvođanskih Mađara — Za našeg predsednika, za našu zajednicu, za bu",2203,SRB,SVM,Vajdasági Magyar Szövetség,Alliance of Vojvodina Hungarians,
+RS-11-37-v,Srbija protiv nasilja — Miroslav Miki Aleksić — Marinika Tepić,2022,2022,RS-11-37-v,R11 --- prtvtbrs --- Srbija protiv nasilja — Miroslav Miki Aleksić — Marinika Tepić,4011,SRB,ally,alliance,alliance,15
+RS-11-38-v,Usame Zukorlić — Ujedinjeni za pravdu — Stranka pravde i pomirenja — Boš,2022,2022,RS-11-38-v,R11 --- prtvtbrs --- Usame Zukorlić — Ujedinjeni za pravdu — Stranka pravde i pomirenja — Boš,3173,SRB,BDZS / SPP,Bošnjačka demokratska zajednica Sandžaka / Stranka pravde i pomirenja,Bosniak Democratic Union of Sandžak / Justice and Reconciliation Party,
+RS-11-40-v,Zajedno za budućnost i razvoj — Koalicija za mir i toleranciju,2022,2022,RS-11-40-v,R11 --- prtvtbrs --- Zajedno za budućnost i razvoj — Koalicija za mir i toleranciju,4011,SRB,ally,alliance,alliance,15
+RS-11-41-v,"Narodna stranka — Siguran izbor. Ozbiljni ljudi — Vuk Jeremić, dr Sanda Ra",2022,2022,RS-11-41-v,"R11 --- prtvtbrs --- Narodna stranka — Siguran izbor. Ozbiljni ljudi — Vuk Jeremić, dr Sanda Ra",4011,SRB,ally,alliance,alliance,15
+RS-11-42-v,"Saša Radulović (Dosta je bilo — DJB) — Duško Vujošević, Boris Tadić (S",2022,2022,RS-11-42-v,"R11 --- prtvtbrs --- Saša Radulović (Dosta je bilo — DJB) — Duško Vujošević, Boris Tadić (S",4011,SRB,ally,alliance,alliance,15
+RS-11-43-v,Politička borba Albanaca se nastavlja — Šaip Kamberi,2022,2022,RS-11-43-v,R11 --- prtvtbrs --- Politička borba Albanaca se nastavlja — Šaip Kamberi,2915,SRB,1-perc,1 percent,1 percent,11
+RS-11-44-v,"Mi — Glas iz naroda, prof. dr. Branimir Nestorović",2022,2022,RS-11-44-v,"R11 --- prtvtbrs --- Mi — Glas iz naroda, prof. dr. Branimir Nestorović",9447,SRB,MI–GIN,Mi — Glas iz naroda,We – Voice from the People,
+RS-11-47-v,Čedomir Jovanović — Mora drugačije,2022,2022,RS-11-47-v,R11 --- prtvtbrs --- Čedomir Jovanović — Mora drugačije,4011,SRB,ally,alliance,alliance,15
+RS-11-48-v,Albanska demokratska alternativa — Ujedinjena dolina,2022,2022,RS-11-48-v,R11 --- prtvtbrs --- Albanska demokratska alternativa — Ujedinjena dolina,2915,SRB,1-perc,1 percent,1 percent,11
+RS-11-51-v,Invalid ballot_(51),2022,2022,RS-11-51-v,R11 --- prtvtbrs --- Invalid ballot_(51),3079,SRB,tech,technical,technical,12
 RU-3-1-v,United Russia (ER),2006,2016,RU-3-1-v RU-4-1-v RU-5-1-v RU-6-1-v RU-8-1-v,"R3 --- prtvtru --- United Russia (ER)
 R4 --- prtvtaru --- United Russia (ER)
 R5 --- prtvtbru --- United Russia (ER)
@@ -3572,9 +3572,9 @@ R11 --- prtvtgsi --- L - Levica",6131,SVN,L,Levica,The Left,
 SI-9-3-v,LMŠ - Lista Marjana Šarca,2018,2022,SI-9-3-v SI-10-3-v SI-11-5-v,"R9 --- prtvtfsi --- LMŠ - Lista Marjana Šarca
 R10 --- prtvtfsi --- LMŠ - Lista Marjana Šarca
 R11 --- prtvtgsi --- LMŠ - Lista Marjana Šarca",6132,SVN,LMS,Lista Marjana Šarca,List of Marjan Sarec,
-SI-11-2-v,Državljansko gibanje Resni.ca,2022,2022,SI-11-2-v,R11 --- prtvtgsi --- Državljansko gibanje Resni.ca,,SVN,,,,
-SI-11-3-v,Gibanje svoboda,2022,2022,SI-11-3-v,R11 --- prtvtgsi --- Gibanje svoboda,,SVN,,,,
-SI-11-7-v,"Povežimo Slovenijo (Konkretno, Zeleni Slovenije, SLS, NLS, NS)",2022,2022,SI-11-7-v,"R11 --- prtvtgsi --- Povežimo Slovenijo (Konkretno, Zeleni Slovenije, SLS, NLS, NS)",,SVN,,,,
+SI-11-2-v,Državljansko gibanje Resni.ca,2022,2022,SI-11-2-v,R11 --- prtvtgsi --- Državljansko gibanje Resni.ca,9069,SVN,Res,Resni.ca,Resni.ca,
+SI-11-3-v,Gibanje svoboda,2022,2022,SI-11-3-v,R11 --- prtvtgsi --- Gibanje svoboda,9067,SVN,GS,Gibanje Svoboda,Freedom Movement,
+SI-11-7-v,"Povežimo Slovenijo (Konkretno, Zeleni Slovenije, SLS, NLS, NS)",2022,2022,SI-11-7-v,"R11 --- prtvtgsi --- Povežimo Slovenijo (Konkretno, Zeleni Slovenije, SLS, NLS, NS)",7363,SVN,Pose,Povežimo se,Connect,
 SK-2-1-v,HZDS Movement for a Democratic Slovakia,2004,2008,SK-2-1-v SK-3-1-v SK-4-1-v,"R2 --- prtvtsk --- HZDS Movement for a Democratic Slovakia
 R3 --- prtvtask --- Movement for a Democratic Slovakia (HZDS)
 R4 --- prtvtask --- Movement for a Democratic Slovakia (HZDS)",560,SVK,LS — HZDS,Ľudová strana — Hnutie za demokratické Slovensko,People's Party — Movement for a Democratic Slovakia,
