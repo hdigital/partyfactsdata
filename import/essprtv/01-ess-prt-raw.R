@@ -13,17 +13,23 @@ ess_dta_path <- "source__ESS/" # path of ESS rounds Stata data
 # data file information for ESS Rounds
 ess_dta_files <-
   c(
-    "ESS1e06_6.dta",
+    "ESS1e06_7.dta",
     "ESS2e03_6.dta",
     "ESS3e03_7.dta",
-    "ESS4e04_5.dta",
-    "ESS5e03_4.dta",
-    "ESS6e02_5.dta",
-    "ESS7e02_2.dta",
-    "ESS8e02_2.dta",
-    "ESS9e03_1.dta",
+    "ESS3LV.dta",
+    "ESS3RO.dta",
+    "ESS4e04_6.dta",
+    "ESS4AT.dta",
+    "ESS4LT.dta",
+    "ESS5e03_5.dta",
+    "ESS5ATe1_1.dta",
+    "ESS6e02_6.dta",
+    "ESS7e02_3.dta",
+    "ESS8e02_3.dta",
+    "ESS9e03_2.dta",
     "ESS10.dta",
-    "ESS10SC.dta"
+    "ESS10SC.dta",
+    "ESS11.dta"
   )
 
 # function to get party name and party ID
