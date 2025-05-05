@@ -6,7 +6,7 @@ raw_poppa <-
 
 poppa <- 
   raw_poppa |> 
-  select(wave, country_short, party_short, party_name_english, party_name_original, poppa_id, partyfacts_id) |> 
+  select(wave, country_short, party_short, party_name_english, party_name_original, poppa_id) |> 
   mutate(
     year = as.numeric(str_extract(wave, "[:digit:]{4}$")),
     year_first = min(year, na.rm = T),
