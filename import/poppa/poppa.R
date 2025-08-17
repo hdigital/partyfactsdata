@@ -1,37 +1,31 @@
 library(tidyverse)
 library(countrycode)
 
-## Create ParlGov-PF-ID link file ----
-
-if (FALSE) {
-  # run only manually -- updated PF-IDs not needed after POPPA import into PF
-
-  url <- "https://partyfacts.herokuapp.com/download/external-parties-csv/"
-
-  pf_external <-
-    read_csv(url, na = "", guess_max = 30000) %>%
-    filter(dataset_key == "parlgov") %>%
-    mutate(parlgov_id = as.integer(dataset_party_id)) %>%
-    select(parlgov_id, partyfacts_id)
-
-  write_csv(pf_external, "partyfacts-external_parlgov.csv")
-}
-
-# Create POPPA PF import ----
-
-raw_poppa_pa <- read_csv("poppa-parties-codebook.csv", na = "")
-raw_poppa_dt <- read_csv("source__party_means.csv", na = "")
-pf_parlgov_link <- read_csv("partyfacts-external_parlgov.csv")
-
-poppa_link <-
-  raw_poppa_dt %>%
-  select(party_id, parlgov_id) %>%
-  left_join(pf_parlgov_link) %>%
-  select(-parlgov_id)
+raw_poppa <-
+  read_csv("source__poppa_integrated.csv", na = "NA")
 
 poppa <-
-  raw_poppa_pa %>%
-  mutate(country_short = countrycode(country, "country.name", "iso3c")) %>%
-  left_join(poppa_link)
+  raw_poppa |>
+  select(
+    wave,
+    country_short,
+    party_short,
+    party_name_english,
+    party_name_original,
+    poppa_id
+  ) |>
+  mutate(
+    year = as.numeric(str_extract(wave, "[:digit:]{4}$")),
+    year_first = min(year, na.rm = TRUE),
+    year_last = max(year, na.rm = TRUE),
+    .by = c("poppa_id")
+  ) |>
+  select(-wave, -year) |>
+  distinct()
+
+poppa |>
+  select(poppa_id) |>
+  duplicated() |>
+  any()
 
 write_csv(poppa, "poppa.csv", na = "")
