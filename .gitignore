@@ -1,15 +1,36 @@
-*~
-.*
+source__*
+z-tmp__*
 
-*.pyc
+.vscode/
 
-*.RData
-*.Rhistory
+# OS files
+.DS_Store
 
-*.Rproj
+
+## R --------------------------------------------------------------------------
+## see also https://github.com/github/gitignore/blob/main/R.gitignore
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session data files
+.RData
+.RDataTmp
+
+# RStudio files
 .Rproj.user/
 
-source__*
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
 
-!.gitignore
-!.pre-commit-config.yaml
+# Temporary files created by R Markdown
+*.utf8.md
+*.knit.md
+
+# R Environment Variables
+.Renviron
+
+
+## ----------------------------------------------------------------------------
