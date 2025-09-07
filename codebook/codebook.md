@@ -9,29 +9,28 @@ body {
 
 **Project leaders**
 
-- Paul Bederke (University of Konstanz) – since 2019
-- Holger Döring – since 2012
-- Sven Regel (WZB Berlin Social Science Center) – 2012–2023 </br>
+- Paul Bederke — GESIS Leibniz Institute for the Social Sciences — since
+  2019
+- Holger Döring — SOCIUM Research Center — since 2012
+- Sven Regel — WZB Berlin Social Science Center — 2012–2023 </br>
 
 **Contact**
 
-- Paul Bederke – <paul.bederke@uni-konstanz.de> </br>
+- Paul Bederke – paul.bederke gesis org </br>
 
 **References**
 
 - Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of
   Political Parties Worldwide.” Party Politics 25(2): 97–109. doi:
   [10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671)
-- Bederke, Paul, Holger Döring, and Sven Regel. 2023. “Party Facts
+- Bederke, Paul, Holger Döring, and Sven Regel. 2019. “Party Facts
   Dataverse.”
   [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
 
 # Overview
 
-**PF-Web** page
-[partyfacts.herokuapp.com](https://partyfacts.herokuapp.com) //
-**PF-Data** [Github
-repository](https://github.com/hdigital/partyfactsdata) //
+**PF-Web** page [partyfacts.org](https://partyfacts.org) // **PF-Data**
+[Github repository](https://github.com/hdigital/partyfactsdata) //
 **PF-Dataverse**
 [archive](https://dataverse.harvard.edu/dataverse/partyfacts)
 
@@ -116,7 +115,7 @@ remove these smaller parties during the import.
 
 Examples for additional, optional inclusion criteria of parties:
 
-- electoral alliances with _at least two elections_ (see section
+- electoral alliances with *at least two elections* (see section
   “[Electoral alliances](#electoral-alliances)”).
 - senior minister, multiple ministers
 - below 1% vote share over a long period
@@ -146,8 +145,8 @@ not cover several smaller countries where we use ISO 3166-1 country code
 definitions.
 
 - Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I.
-  Lindberg, Jan Teorell, and Lisa Gastaldi. 2021. ”V-Dem Country
-  Coding Units v11” Varieties of Democracy (V-Dem) Project.
+  Lindberg, Jan Teorell, and Lisa Gastaldi. 2021. ”V-Dem Country Coding
+  Units v11” Varieties of Democracy (V-Dem) Project.
 - ISO 3166-1 Codes for the Representation of Names of Countries and
   their Subdivisions – Part 1: Country Codes
 
@@ -187,12 +186,12 @@ There are other technical options for linking parties:
 
 - **technical** – e.g. invalid votes, blank votes, no vote, mixed vote
   etc.
-- **alliance** – electoral alliance which took part in only one
-  election (see section “[Electoral alliances](#electoral-alliances)”)
+- **alliance** – electoral alliance which took part in only one election
+  (see section “[Electoral alliances](#electoral-alliances)”)
 - **unknown** – parties that could not be identified (should include a
   short discussion comment)
 - **independent** – non-partisan, independent
-- **other** – category _other_ in external dataset
+- **other** – category *other* in external dataset
 - **1perc** – a party winning less than 1.0% vote share in national
   elections
 
@@ -232,7 +231,8 @@ For smaller parties, we may apply a staggered approach. All parties
 Facts. A section “Linking status” in the “readme” of the dataset
 documents the status.
 
-**Note** – Staggered inclusion for parties \<5% introduced in March 2021. Previously, all public and archived datasets were completely
+**Note** – Staggered inclusion for parties \<5% introduced in March
+2021. Previously, all public and archived datasets were completely
 linked.
 
 # Adding parties
@@ -257,54 +257,53 @@ Gandhi (1969-1977)” ).
 - **Identical names** used by different parties include the **first
   year** in the English name ([Civic Union
   (1912)](https://partyfacts.herokuapp.com/data/partycodes/4507/))
-- Optional or **temporal parts** of a party name are put in
-  **brackets** (e.g. [\[United\] Democratic
+- Optional or **temporal parts** of a party name are put in **brackets**
+  (e.g. [\[United\] Democratic
   Party](https://partyfacts.herokuapp.com/data/partycodes/2305/))
 
 ## Variables
 
-- **Name short** – Common abbreviation of the party name in the
-  language of origin. If no common abbreviation is identifiable, a new
-  short version is added.
+- **Name short** – Common abbreviation of the party name in the language
+  of origin. If no common abbreviation is identifiable, a new short
+  version is added.
 - **Name** – Name in language of origin.
   - Different language versions in “Name” are divided by “//”.
-  - _see also_ “Name other” below for non-latin and minority
-    language names (e.g. [Christian Social People’s
+  - *see also* “Name other” below for non-latin and minority language
+    names (e.g. [Christian Social People’s
     Party](https://partyfacts.herokuapp.com/data/partycodes/539/))
 - **Name english** – Translation of the party name into English.
 - **Name other** – Party name in languages with non-latin letters and
   for minority language names.
-  - _Required_: Indicate the name of the language followed by a
-    colon
+  - *Required*: Indicate the name of the language followed by a colon
   - Several names are divided by a semicolon.
   - e.g. [Malayalam: ഇന്ത്യൻ യൂണിയൻ മുസ്ലിം ലീഗ്; Urdu: انڈین یونین مسلم
     لیگ](https://partyfacts.herokuapp.com/data/partycodes/1455/)
-  - e.g. [French: Parti populaire chrétien-social; German:
-    Christlich Soziale
+  - e.g. [French: Parti populaire chrétien-social; German: Christlich
+    Soziale
     Volkspartei](https://partyfacts.herokuapp.com/data/partycodes/539/)
-- **Wikipedia** – A link to the party website on the English
-  Wikipedia. We use this link to download the Wikipedia data (Infobox
-  and Wikidata).
-- **Year first** – Foundation of the party (usually automatically
-  filled out based on source). If no information is available, the
-  first election occurrence may be entered or the first year the party
-  appears in an external dataset.
+- **Wikipedia** – A link to the party website on the English Wikipedia.
+  We use this link to download the Wikipedia data (Infobox and
+  Wikidata).
+- **Year first** – Foundation of the party (usually automatically filled
+  out based on source). If no information is available, the first
+  election occurrence may be entered or the first year the party appears
+  in an external dataset.
 - **Year last** – Dissolution of the party. If no information is
-  available, the last election occurrence may be entered. Leave empty
-  if the party exists as of today.
+  available, the last election occurrence may be entered. Leave empty if
+  the party exists as of today.
 - **Share** – Vote (or seats) share won in a national general election
   used to identify the party. Use maximum vote share if information is
   available.
 - **Share year** – Year of vote (or seats) share included in “share”.
 - **New** – Genuinely new party, not formed through party change.
-- **Description** – Further information about the party
-  (e.g. evolution, name changes etc.).
-- **Comment** – Comments about the coding to the party. May also
-  include party relations such as predecessor, successor, name
-  changes, mergers and alliances.
+- **Description** – Further information about the party (e.g. evolution,
+  name changes etc.).
+- **Comment** – Comments about the coding to the party. May also include
+  party relations such as predecessor, successor, name changes, mergers
+  and alliances.
 - **Data** – Additional data in
-  [JSON](https://en.wikipedia.org/wiki/JSON) as a collection
-  name–value pairs in an object. (e.g. ‘{“inclusion”: “leader”}’)
+  [JSON](https://en.wikipedia.org/wiki/JSON) as a collection name–value
+  pairs in an object. (e.g. ‘{“inclusion”: “leader”}’)
 
 ## Deleting parties
 
@@ -338,7 +337,7 @@ be recorded in the following format
 
 ## Party changes
 
-_Note — Coding of party changes and party names incomplete._
+*Note — Coding of party changes and party names incomplete.*
 
 Relations between parties are shown on the core party’s page, containing
 **successor and predecessor** parties.
@@ -347,8 +346,7 @@ Renamings of parties are recorded in the description:
 
 - `<year>` `<name_english>` (`<name [optional]>`, `<name_short>`)
 - e.g. [Left Party / Communist
-  Party](http://partyfacts.herokuapp.com/data/partycodes/830/) ·
-  Sweden
+  Party](http://partyfacts.herokuapp.com/data/partycodes/830/) · Sweden
 
 Additionally the new (or respective old) name of the party may be added
 to the party name by using a slash to divide the names. Please see
@@ -393,12 +391,12 @@ Datasets are grouped into different categories depending on their
 connection to the Party Facts project, the number of parties they cover
 and their relevance for social science research.
 
-_Core members_ are datasets, which formed the foundation of the project.
-_Partner projects_ include those datasets with whom the project has
-cooperated. _Main datasets_ contain datasets with a wide scientific
+*Core members* are datasets, which formed the foundation of the project.
+*Partner projects* include those datasets with whom the project has
+cooperated. *Main datasets* contain datasets with a wide scientific
 reach. Datasets which were recently included or with remaining technical
-problems are grouped under _experimental_. Any user can import a
-(scientific) dataset as a _user dataset_.
+problems are grouped under *experimental*. Any user can import a
+(scientific) dataset as a *user dataset*.
 
 Currently we include the following categories for
 [datasets](https://partyfacts.herokuapp.com/documentation/datasets/):
@@ -424,19 +422,18 @@ For each dataset in Party Facts we document the following information
 and variable names.
 
 - **key** – A unique key (letters and numbers only) identifying the
-  dataset. This key is the same as the folder name of the dataset in
-  the PF-Data Github repository.
+  dataset. This key is the same as the folder name of the dataset in the
+  PF-Data Github repository.
 - **type** – The type of the dataset and its connection to the Party
   Facts project – **see above**.
 - **name** – Name of the dataset as it appears on the website.
-- **reference** – A reference for the dataset to be used for citing
-  the source ([APSA style
+- **reference** – A reference for the dataset to be used for citing the
+  source ([APSA style
   guide](https://connect.apsanet.org/stylemanual/references/)).
 - **url** – Dataset webpage (if available).
 - **description** – A short summary of the party level information
   included in the dataset.
-- **comment** – Additional information about the dataset (not
-  required).
+- **comment** – Additional information about the dataset (not required).
 - **Year first** – First observation year of the dataset.
 - **Year last** – Last observation year of the dataset.
 
@@ -533,10 +530,10 @@ sure that the dataset fits the following criteria:
   - Max share
   - Share year
   - Country name short
-- We import the dataset in csv format **(utf-8)**. If your dataset has
-  a different format, you may convert it into csv **(utf-8)**. Hence
-  the import is done via an R scripts and the final data must be in
-  csv format.
+- We import the dataset in csv format **(utf-8)**. If your dataset has a
+  different format, you may convert it into csv **(utf-8)**. Hence the
+  import is done via an R scripts and the final data must be in csv
+  format.
 
 Ideally, a dataset is prepared by a user for an import into Party Facts.
 A step-by-step guide on how to import a dataset into the Party Facts
@@ -568,7 +565,7 @@ below each party (core and external). To address single users
 (e.g. concerns regarding a particular linking), @<Partyfactsusername>
 can be used.
 
-In the _activity section_ an overview of the
+In the *activity section* an overview of the
 [comments](https://partyfacts.herokuapp.com/activity/comment/) is
 displayed. Please mark a comment as solved if it does not need a review
 by another user.
@@ -583,6 +580,18 @@ addressed.
 # Changes
 
 ### Codebook
+
+2025-09-07
+
+- update affiliations
+
+2024-08-18
+
+- update affiliations
+
+2024-06-22
+
+- format Markdown files with ‘prettier’
 
 2023-12-15
 
@@ -610,7 +619,7 @@ addressed.
 - add region information and examples (NIR, GRL, FRO)
 - round number of core parties
 - APSA style guide reference
-- add example for _name other_
+- add example for *name other*
 - minor revisions
 
 2020-07-17
@@ -721,10 +730,10 @@ robot).
 
 - updated core parties share information using linked external parties
   share (esp. V-Party)
-- removed “ParIS” entry from _description_ and _comment_ field in core
+- removed “ParIS” entry from *description* and *comment* field in core
   parties (around 1000)
-- renamed “Prime Minister” into PM in core party _description_ field
-- replaced “–” with “—” in _name_ and _name_english_ field in core
+- renamed “Prime Minister” into PM in core party *description* field
+- replaced “–” with “—” in *name* and *name_english* field in core
   parties (around 50)
 - updated “year_last” with “dissolved” from Wikipedia element
 

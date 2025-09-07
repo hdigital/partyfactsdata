@@ -29,20 +29,20 @@ body {
 
 **Project leaders**
 
-+ Paul Bederke (University of Konstanz) -- since 2019
-+ Holger Döring -- since 2012
-+ Sven Regel (WZB Berlin Social Science Center) -- 2012–2023
++ Paul Bederke — GESIS Leibniz Institute for the Social Sciences — since 2019
++ Holger Döring — SOCIUM Research Center — since 2012
++ Sven Regel — WZB Berlin Social Science Center — 2012–2023
 </br>
 
 **Contact**
 
-+ Paul Bederke -- <paul.bederke@uni-konstanz.de>
++ Paul Bederke – paul.bederke gesis org
 </br>
 
 **References**
 
 + Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of Political Parties Worldwide.” Party Politics 25(2): 97–109. doi: [10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671)
-+ Bederke, Paul, Holger Döring, and Sven Regel. 2023. “Party Facts Dataverse.” [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
++ Bederke, Paul, Holger Döring, and Sven Regel. 2019. “Party Facts Dataverse.” [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
 
 
 
@@ -70,7 +70,7 @@ pf_external <-
 
 # Overview
 
-**PF-Web** page [partyfacts.herokuapp.com](https://partyfacts.herokuapp.com)
+**PF-Web** page [partyfacts.org](https://partyfacts.org)
 // **PF-Data** [Github repository](https://github.com/hdigital/partyfactsdata)
 // **PF-Dataverse** [archive](https://dataverse.harvard.edu/dataverse/partyfacts)
 
@@ -462,8 +462,19 @@ We review all comments and mark them as solved once the issue has been addressed
 
 # Changes
 
-
 ### Codebook
+
+2025-09-07
+
+- update affiliations
+
+2024-08-18
+
+- update affiliations
+
+2024-06-22
+
+- format Markdown files with 'prettier'
 
 2023-12-15
 
