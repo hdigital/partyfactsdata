@@ -1,0 +1,78 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "type": "SoftwareSourceCode",
+  "name": "Party Facts data import",
+  "description": "Data import scripts and infrastructure for the Party Facts project, a gateway to empirical data about political parties worldwide.",
+  "applicationCategory": "political science",
+  "keywords": [
+    "political science",
+    "comparative politics",
+    "political parties",
+    "data linking",
+    "data harmonization",
+    "research software"
+  ],
+  "author": [
+    {
+      "type": "Person",
+      "id": "https://orcid.org/0000-0001-7555-8656",
+      "givenName": "Paul",
+      "familyName": "Bederke",
+      "affiliation": {
+        "type": "Organization",
+        "name": "GESIS Leibniz Institute for the Social Sciences, Germany"
+      }
+    },
+    {
+      "type": "Role",
+      "schema:author": "https://orcid.org/0000-0001-7555-8656",
+      "startDate": "2019-11-28"
+    },
+    {
+      "type": "Person",
+      "id": "https://orcid.org/0000-0002-6616-8805",
+      "givenName": "Holger",
+      "familyName": "Döring",
+      "affiliation": {
+        "type": "Organization",
+        "name": "SOCIUM Research Center, University of Bremen, Germany"
+      }
+    },
+    {
+      "type": "Role",
+      "schema:author": "https://orcid.org/0000-0002-6616-8805",
+      "startDate": "2012-10-26"
+    },
+    {
+      "type": "Person",
+      "id": "_:author_3",
+      "givenName": "Sven",
+      "familyName": "Regel",
+      "affiliation": {
+        "type": "Organization",
+        "name": "WZB Berlin Social Science Center, Germany"
+      }
+    },
+    {
+      "type": "Role",
+      "schema:author": "_:author_3",
+      "startDate": "2012-10-26",
+      "endDate": "2023-12-31"
+    }
+  ],
+  "copyrightHolder": {
+    "type": "Organization",
+    "name": "Party Facts authors"
+  },
+  "license": "https://spdx.org/licenses/MIT",
+  "referencePublication": [
+    "https://doi.org/10.1177/1354068818820671",
+    "https://dataverse.harvard.edu/dataverse/partyfacts"
+  ],
+  "isPartOf": "https://partyfacts.org",
+  "codeRepository": "https://github.com/hdigital/partyfactsdata",
+  "programmingLanguage": "R",
+  "dateCreated": "2015-11-09",
+  "version": "0",
+  "developmentStatus": "active"
+}
