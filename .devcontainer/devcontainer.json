@@ -1,0 +1,41 @@
+{
+  "name": "Rocker codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  // Install Dev Container Features. More info: https://containers.dev/features
+  "features": {
+    "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
+      "packages": "python-is-python3"
+    },
+    "ghcr.io/rocker-org/devcontainer-features/quarto-cli:1": {
+      "installTinyTex": false
+    }
+  },
+  // Run commands after the container is started.
+  "postCreateCommand": "install2.r countrycode pak",
+  "postAttachCommand": "sudo rstudio-server start",
+  // Forward ports for RStudio
+  "forwardPorts": [
+    8787
+  ],
+  "portsAttributes": {
+    "8787": {
+      "label": "Rstudio",
+      "requireLocalPort": true,
+      "onAutoForward": "ignore"
+    }
+  },
+  // Add VS Code extensions used in codespace
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "github.codespaces",
+        "mechatroner.rainbow-csv",
+        "quarto.quarto",
+        "reditorsupport.r",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  }
+}
