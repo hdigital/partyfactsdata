@@ -2,8 +2,7 @@
 h1, h2, h3 {
   color: #2c3e50;
 }
-
-body {
+&#10;body {
   text-align: justify}
 </style>
 
@@ -72,7 +71,7 @@ Facts derived from these two projects. In the Party Facts project we
 link main datasets of political science and provide a platform for other
 scientists to add party information and additional datasets.
 
-![](codebook_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](codebook_files/figure-gfm/worldmap-1.png)<!-- -->
 
 ## Working platform
 
@@ -276,8 +275,6 @@ Gandhi (1969-1977)” ).
   for minority language names.
   - *Required*: Indicate the name of the language followed by a colon
   - Several names are divided by a semicolon.
-  - e.g. [Malayalam: ഇന്ത്യൻ യൂണിയൻ മുസ്ലിം ലീഗ്; Urdu: انڈین یونین مسلم
-    لیگ](https://partyfacts.herokuapp.com/data/partycodes/1455/)
   - e.g. [French: Parti populaire chrétien-social; German: Christlich
     Soziale
     Volkspartei](https://partyfacts.herokuapp.com/data/partycodes/539/)
@@ -709,6 +706,10 @@ addressed.
 - initial version by Phillip Hocks and Jan Schwalbach
 
 ### Data (revisions)
+
+2025-11-08
+
+- fixed ‘external-parties-csv’ columns export
 
 2021-07-15
 

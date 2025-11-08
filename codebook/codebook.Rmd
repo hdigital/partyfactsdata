@@ -1,5 +1,5 @@
 ---
-title: <img src="partyfacts-logo.png" alt="logo" width="200"/>
+title: "Party Facts Codebook"
 subtitle: '*Codebook version: `r Sys.Date()`*'
 output:
   html_document:
@@ -10,11 +10,11 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
+  md_document:
+    variant: gfm
   pdf_document:
     toc: yes
     toc_depth: '3'
-  md_document:
-    variant: markdown_github
 ---
 
 <style type="text/css">
@@ -89,7 +89,7 @@ Political scientists have accumulated a large amount of data on political partie
 
 With Party Facts we want to establish an infrastructure that supports political scientists in linking parties across datasets. Our work is based on the experience we gained in recording and linking party information in the [Manifesto Project](https://manifesto-project.wzb.eu/) and the [ParlGov](http://www.parlgov.org/) project with initial data for Party Facts derived from these two projects. In the Party Facts project we link main datasets of political science and provide a platform for other scientists to add party information and additional datasets.
 
-```{r echo=FALSE, message=FALSE, warning=FALSE}
+```{r worldmap, echo=FALSE, message=FALSE, warning=FALSE}
 ## worldmap
 pf_core_map <- read_csv("https://partyfacts.herokuapp.com/download/core-parties-csv/", na = "")
 
@@ -250,7 +250,6 @@ If no common abbreviation is identifiable, a new short version is added.
 - **Name other** -- Party name in languages with non-latin letters and for minority language names.
   - _Required_: Indicate the name of the language followed by a colon
   - Several names are divided by a semicolon.
-  - e.g. [Malayalam: ഇന്ത്യൻ യൂണിയൻ മുസ്ലിം ലീഗ്; Urdu: انڈین یونین مسلم لیگ](https://partyfacts.herokuapp.com/data/partycodes/1455/)
   - e.g. [French: Parti populaire chrétien-social; German: Christlich Soziale Volkspartei](https://partyfacts.herokuapp.com/data/partycodes/539/)
 - **Wikipedia** -- A link to the party website on the English Wikipedia. We use this link to download the Wikipedia data (Infobox and Wikidata).
 - **Year first** -- Foundation of the party (usually automatically filled out based on source).
@@ -593,6 +592,10 @@ We review all comments and mark them as solved once the issue has been addressed
 
 
 ### Data (revisions)
+
+2025-11-08
+
+- fixed 'external-parties-csv' columns export
 
 2021-07-15
 
