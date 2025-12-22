@@ -23,7 +23,7 @@ cses_cb <- read_csv("cses-codebook.csv") %>%
 
 ## parties which are named in variable IMD3002_LH_PL
 
-# add codebook party informations
+# add codebook party information
 # generate share for each year
 cses_share_temp <- cses_imd %>%
   select(IMD1006_NAM, IMD1008_YEAR, IMD3002_LH_PL, IMD3002_LH_DC, IMD3002_PR_1) %>%
@@ -42,7 +42,7 @@ cses_share_temp <- cses_imd %>%
 
 
 # keep only relevant variables & one observation for each party
-# get max share and year informations
+# get max share and year information
 cses_share <- cses_share_temp %>%
   mutate(party_id = IMD3002_LH_PL) %>%
   select(

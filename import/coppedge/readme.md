@@ -1,7 +1,7 @@
 ## Source
 
 Coppedge, Michael (1997): A Classification of Latin America Political Parties.
-Working paper no 244. Notre Dame: The Helen Kellogg Institue for International Studies.
+Working paper no 244. Notre Dame: The Helen Kellogg Institute for International Studies.
 
 http://kellogg.nd.edu/publications/workingpapers/WPS/244.pdf
 

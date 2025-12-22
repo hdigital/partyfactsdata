@@ -7,7 +7,7 @@
 
 ## Import
 
-+ party name informations from "clea_appendix_II.xlsx"
++ party name information from "clea_appendix_II.xlsx"
 + \>=25% threshold for alliances (`pty >= 4000`)
 + see `archive-folder` for previous imports (2014, 2018)
 

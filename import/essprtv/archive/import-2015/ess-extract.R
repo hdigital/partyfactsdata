@@ -58,9 +58,9 @@ PartiesInRounds <- function (round) {
   party <- FindParties(round)
   observations <- sum(sapply(party, length))
 
-  # Appropiate name for Russia
+  # Appropriate name for Russia
   round$cntry <- sub("Russian Federation", "Russia", round$cntry)
-  # Find countrys
+  # Find countries
   countryname <- distinct(select(round, cntry), cntry)
   # Find countrycodes
   countrycode <- filter(country_list, name %in% round$cntry)
