@@ -20,7 +20,7 @@
 
 ## Linking
 
-* For linking the CCS data, please use `ccs-partyfacts.csv` in our GitHub Repository. There are all `party_id` for all waves and years with a `partyfacts_id`. Imported were only the first occured `party_id` of a party.
+* For linking the CCS data, please use `ccs-partyfacts.csv` in our GitHub Repository. There are all `party_id` for all waves and years with a `partyfacts_id`. Imported were only the first occurred `party_id` of a party.
 
 ## Note
 

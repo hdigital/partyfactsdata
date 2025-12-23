@@ -101,7 +101,7 @@ write_csv(ess_prt_out, "01-ess-prt-raw.csv", na = "")
 
 ## Data issues ESS ----
 
-print("ESS variables with multipe 'prtv*' variables per country -- duplicate 'ess_id'")
+print("ESS variables with multiple 'prtv*' variables per country -- duplicate 'ess_id'")
 
 ess_prt_out |>
   filter(str_detect(variable, "prtv.+\\d")) |>

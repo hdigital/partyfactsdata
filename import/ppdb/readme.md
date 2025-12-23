@@ -14,4 +14,4 @@ Poguntke, Thomas et al. 2016. “Party Rules, Party Resources and the Politics o
 
 ## Comments
 
- * recoding party names with unicode issus -- see `ppdb.R`
+ * recoding party names with unicode issues -- see `ppdb.R`
