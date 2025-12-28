@@ -50,7 +50,8 @@ get_elec_share <- function(elec_type = "parliament") {
 }
 
 elec_share_parl <- get_elec_share("parliament")
-elec_share_ep <- get_elec_share("ep") |> filter(!party_id %in% elec_share_parl$party_id)
+elec_share_ep <- get_elec_share("ep") |>
+  filter(!party_id %in% elec_share_parl$party_id)
 elec_share <- elec_share_parl |> bind_rows(elec_share_ep)
 
 # number of cabinet memberships
@@ -66,7 +67,13 @@ cab_n <-
 parlgov_url <- "https://parlgov.fly.dev/data/parties/%s/%d"
 party_info <-
   party_pg |>
-  select(party_id, country_name_short:family_name, -country_name, -party_name_ascii, -family_name) |>
+  select(
+    party_id,
+    country_name_short:family_name,
+    -country_name,
+    -party_name_ascii,
+    -family_name
+  ) |>
   filter(party_name_short %notin% c("none", "no-seat", "one-seat", "etc")) |>
   mutate(url = sprintf(parlgov_url, tolower(country_name_short), party_id)) |>
   rename(country = country_name_short, family = family_name_short)
@@ -120,7 +127,8 @@ pl <- ggplot() +
   # coord_sf(crs = "+proj=robin") +  # World
   coord_sf(
     crs = "+proj=lcc +lat_1=43 +lat_2=62 +lat_0=30 +lon_0=10", # LCC Europe parameters
-    xlim = c(-1700000, 1750000), ylim = c(750000, 4000000)
+    xlim = c(-1700000, 1750000),
+    ylim = c(750000, 4000000)
   ) + # set map limits
   scale_fill_gradient2() +
   theme_bw()
