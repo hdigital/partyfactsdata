@@ -1,0 +1,31 @@
+# Configure 'typos' spell checker
+# https://github.com/crate-ci/typos/blob/master/docs/reference.md
+
+[files]
+extend-exclude = ["*.csv", "*.html"]
+
+[default]
+extend-ignore-re = ['read_sav\b']
+
+[default.extend-words]
+# Country codes
+SER = "SER" # Serbia
+SOM = "SOM" # Somalia
+THA = "THA" # Thailand
+
+# Dataset names
+clea = "clea" # Constituency-Level Elections Archive
+CLEA = "CLEA"
+mapp = "mapp" # Members and Activists of Political Parties
+MAPP = "MAPP"
+NED = "NED"   # European NUTS-Level Election Dataset
+
+# File formats
+sav = "sav" # SPSS data file extension
+
+# Foreign words
+nationella = "nationella" # Swedish: "national"
+
+# Other
+accronym = "accronym" # EPAC dataset column name (misspelled in original data)
+NAM = "NAM"           # CSES field name component (IMD1006_NAM)
