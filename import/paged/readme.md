@@ -6,4 +6,4 @@ Hellström, Johan, Torbjörn Bergman, Jonas Lindahl, and Maciej Sychowiec (2023)
 
 ## Import
 
-+ seat_share >= 5% threshold
+- seat_share >= 5% threshold

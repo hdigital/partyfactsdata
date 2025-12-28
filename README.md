@@ -7,7 +7,7 @@
 - Paul Bederke — GESIS Leibniz Institute for the Social Sciences — since 2019
 - Holger Döring — SOCIUM Research Center — since 2012
 - Sven Regel — WZB Berlin Social Science Center — 2012–2023
-- [ _contact information_ — paul.bederke gesis org ]
+- \[ _contact information_ — paul.bederke gesis org \]
 
 see full credits at [Party Facts “about section”](https://partyfacts.herokuapp.com/documentation/about/)
 
@@ -29,6 +29,6 @@ You may submit your own dataset there.
 
 ![Party Facts world map](codebook/figure_worldmap.png)
 
----
+______________________________________________________________________
 
 ![Party Facts linking activity](codebook/figure_linking-activity.png)

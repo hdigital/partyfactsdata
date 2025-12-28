@@ -58,7 +58,7 @@ and website at [hdigital.github.io/ess-linking](https://hdigital.github.io/ess-l
 - ESS Round 10 (SC): European Social Survey European Research Infrastructure (ESS ERIC) (2023) ESS10 Self-completion - integrated file, edition 3.1 [Data set]. Sikt - Norwegian Agency for Shared Services in Education and Research. https://doi.org/10.21338/ess10sce03_1.
 - ESS Round 11: European Social Survey European Research Infrastructure (ESS ERIC) (2024) ESS11 - integrated file, edition 2.0 [Data set]. Sikt - Norwegian Agency for Shared Services in Education and Research. https://doi.org/10.21338/ess11e02_0.
 
----
+______________________________________________________________________
 
 ## Import details
 
@@ -94,8 +94,7 @@ with `first_ess_id` and `country`
       variable `prtvlfi`
 - `ess_id` and `first_ess_id`
   - consist of `cntry-essround-ess_party_id-prt_v/c`
-    - R tidyverse code — `mutate(ess_id = paste(cntry, essround, ess_party_id,
-substr(variable, 4, 4), sep = "-"))`
+    - R tidyverse code — `mutate(ess_id = paste(cntry, essround, ess_party_id, substr(variable, 4, 4), sep = "-"))`
     - e.g. FR-1-1-v
   - in case of DEU and LTU the voting tier is added as additional identification
     - R tidyverse code — `mutate(ess_id = paste(cntry, essround, party_id, substr(variable, 4, 4), str_sub(variable, -3, -1), sep = "-"))`
@@ -104,7 +103,7 @@ substr(variable, 4, 4), sep = "-"))`
   - used as a **unique identifier** (harmonized) of a party within ESS ids
   - parties are imported into
     [PF-Web](https://partyfacts.herokuapp.com/data/essprtv/) with this first
-    prtv*/prtc* ESS id
+    prtv\*/prtc\* ESS id
   - _see Step-2 above_
 - `ess_id`
   - not unique for some `prtv*` variables

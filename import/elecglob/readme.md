@@ -6,4 +6,4 @@ Döring, Holger and Nils Düpont. 2020. "Elections Global: Election results in 2
 
 ## Import
 
-+ see `elecglob.R`
+- see `elecglob.R`

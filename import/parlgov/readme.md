@@ -9,13 +9,13 @@ Döring, Holger, and Philip Manow. 2024. “ParlGov 2024 Release.”
 
 ## Import
 
-+ excluding smaller parties
-  + < 1% share in national election
-  + < 3 election results
-  + not in cabinet
-+ see `parlgov.R`
+- excluding smaller parties
+  - < 1% share in national election
+  - < 3 election results
+  - not in cabinet
+- see `parlgov.R`
 
----
+______________________________________________________________________
 
 ![](parlgov-map.png)
 
