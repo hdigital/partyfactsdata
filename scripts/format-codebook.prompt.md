@@ -1,0 +1,1 @@
+../.github/prompts/format-codebook.prompt.md
