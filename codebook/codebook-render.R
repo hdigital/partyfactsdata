@@ -38,7 +38,8 @@ tryCatch(
   {
     rmarkdown::render(
       input = input_file,
-      output_format = "pdf_document"
+      output_format = "pdf_document",
+      output_file = "codebook.pdf"
     )
     cat("PDF rendered successfully.\n")
   },
