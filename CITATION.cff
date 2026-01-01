@@ -1,0 +1,65 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Party Facts data import"
+version: "0"  # no "date-released" for development version
+url: "http://partyfacts.org"
+repository-code: "https://github.com/hdigital/partyfactsdata"
+license: MIT
+keywords:
+  - political science
+  - comparative politics
+  - political parties
+  - data linking
+  - data harmonization
+  - research software
+abstract: "Data import scripts and infrastructure for the Party Facts project, a gateway to empirical data about political parties worldwide."
+authors:
+  - given-names: Paul
+    family-names: Bederke
+    affiliation: "GESIS Leibniz Institute for the Social Sciences, Germany"
+    orcid: "https://orcid.org/0000-0001-7555-8656"
+  - given-names: Holger
+    family-names: Döring
+    affiliation: "SOCIUM Research Center, University of Bremen, Germany"
+    orcid: "https://orcid.org/0000-0002-6616-8805"
+  - given-names: Sven
+    family-names: Regel
+    affiliation: "WZB Berlin Social Science Center, Germany"
+references:
+  - type: article
+    authors:
+      - family-names: Döring
+        given-names: Holger
+      - family-names: Regel
+        given-names: Sven
+    title: "Party Facts: A Database of Political Parties Worldwide"
+    year: 2019
+    journal: "Party Politics"
+    volume: 25
+    issue: 2
+    start: 97
+    end: 109
+    doi: "10.1177/1354068818820671"
+  - type: database
+    authors:
+      - family-names: Bederke
+        given-names: Paul
+      - family-names: Döring
+        given-names: Holger
+      - family-names: Regel
+        given-names: Sven
+    title: "Party Facts Dataverse"
+    year: 2018
+    url: "https://dataverse.harvard.edu/dataverse/partyfacts"
+  - type: software
+    authors:
+      - family-names: Bederke
+        given-names: Paul
+      - family-names: Döring
+        given-names: Holger
+      - family-names: Regel
+        given-names: Sven
+    title: "Party Facts data import"
+    year: 2026  # current year for development version
+    url: "https://github.com/hdigital/partyfactsdata"
