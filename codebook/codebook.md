@@ -7,7 +7,8 @@
 
 - Paul Bederke — GESIS Leibniz Institute for the Social Sciences — since
   2019
-- Holger Döring — SOCIUM Research Center — since 2012
+- Holger Döring — SOCIUM Research Center, University of Bremen — since
+  2012
 - Sven Regel — WZB Berlin Social Science Center — 2012–2023 </br>
 
 **Contact**
