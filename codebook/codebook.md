@@ -217,18 +217,18 @@ comment for this party is created for any change in the primary link.
 ## Incomplete links
 
 For public datasets we complete the linking of all parties that meet the
-Party Facts population criteria (\>5%, see above). Public datasets are
+Party Facts population criteria (>5%, see above). Public datasets are
 visible on PF-Web without login and are archived regularly in the
 PF-Dataverse.
 
 For smaller parties, we may apply a staggered approach. All parties
-\>5%, are linked during the initial import. Parties **\<5% and \>1%**
+\>5%, are linked during the initial import. Parties **\<5% and >1%**
 (or 2%) are imported but **may not be linked completely** in Party
 Facts. A section “Linking status” in the “readme” of the dataset
 documents the status.
 
 **Note** – Staggered inclusion for parties \<5% introduced in March
-2021. Previously, all public and archived datasets were completely
+2021\. Previously, all public and archived datasets were completely
 linked.
 
 # Adding parties
@@ -254,7 +254,7 @@ Gandhi (1969-1977)” ).
   year** in the English name ([Civic Union
   (1912)](https://partyfacts.herokuapp.com/data/partycodes/4507/))
 - Optional or **temporal parts** of a party name are put in
-  **brackets**  
+  **brackets**\
   (e.g. [(United) Democratic
   Party](https://partyfacts.herokuapp.com/data/partycodes/2305/))
 
