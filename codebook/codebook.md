@@ -1,9 +1,6 @@
 <style type="text/css">
-h1, h2, h3 {
-  color: #2c3e50;
-}
-&#10;body {
-  text-align: justify}
+  h1, h2, h3 { color: #2c3e50; }
+  body { text-align: justify; }
 </style>
 
 **Project leaders**
@@ -144,7 +141,7 @@ not cover several smaller countries where we use ISO 3166-1 country code
 definitions.
 
 - Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I.
-  Lindberg, Jan Teorell, and Lisa Gastaldi. 2021. ”V-Dem Country Coding
+  Lindberg, Jan Teorell, and Lisa Gastaldi. 2021. “V-Dem Country Coding
   Units v11” Varieties of Democracy (V-Dem) Project.
 - ISO 3166-1 Codes for the Representation of Names of Countries and
   their Subdivisions – Part 1: Country Codes
@@ -220,18 +217,18 @@ comment for this party is created for any change in the primary link.
 ## Incomplete links
 
 For public datasets we complete the linking of all parties that meet the
-Party Facts population criteria (\>5%, see above). Public datasets are
+Party Facts population criteria (>5%, see above). Public datasets are
 visible on PF-Web without login and are archived regularly in the
 PF-Dataverse.
 
 For smaller parties, we may apply a staggered approach. All parties
-\>5%, are linked during the initial import. Parties **\<5% and \>1%**
+\>5%, are linked during the initial import. Parties **\<5% and >1%**
 (or 2%) are imported but **may not be linked completely** in Party
 Facts. A section “Linking status” in the “readme” of the dataset
 documents the status.
 
 **Note** – Staggered inclusion for parties \<5% introduced in March
-2021. Previously, all public and archived datasets were completely
+2021\. Previously, all public and archived datasets were completely
 linked.
 
 # Adding parties
@@ -252,12 +249,13 @@ Gandhi (1969-1977)” ).
   spelling, characters etc.
 - **Alternative names** are divided by a **slash** (e.g. [All-German
   Bloc / League of Expellees and Deprived of
-  Rights](https://partyfacts.herokuapp.com/data/partycodes/1010/)).
+  Rights](https://partyfacts.herokuapp.com/data/partycodes/1010/))
 - **Identical names** used by different parties include the **first
   year** in the English name ([Civic Union
   (1912)](https://partyfacts.herokuapp.com/data/partycodes/4507/))
-- Optional or **temporal parts** of a party name are put in **brackets**
-  (e.g. [\[United\] Democratic
+- Optional or **temporal parts** of a party name are put in
+  **brackets**\
+  (e.g. [(United) Democratic
   Party](https://partyfacts.herokuapp.com/data/partycodes/2305/))
 
 ## Variables
@@ -451,8 +449,8 @@ Facts.
 
 ## Information on datasets
 
-For further information about the content of different datasets
-(e.g. number of parties, countries, time span etc.) and the respective
+For further information about the content of different datasets (e.g.
+number of parties, countries, time span etc.) and the respective
 projects, see [datasets
 overview](https://partyfacts.herokuapp.com/documentation/datasets/).
 
@@ -558,9 +556,9 @@ login required).
 
 To address open issues and questions with respect to the linking of
 parties or information about parties, please use the discussion section
-below each party (core and external). To address single users
-(e.g. concerns regarding a particular linking), @<Partyfactsusername>
-can be used.
+below each party (core and external). To address single users (e.g.
+concerns regarding a particular linking), @<Partyfactsusername> can be
+used.
 
 In the *activity section* an overview of the
 [comments](https://partyfacts.herokuapp.com/activity/comment/) is
