@@ -4,6 +4,8 @@ description: 'Synchronize codebook.Rmd and codebook.md with consistent formattin
 ---
 
 1. Render the RMarkdown file: `Rscript -e "rmarkdown::render('codebook.Rmd', output_format = 'md_document')"`
+1. Render the RMarkdown file: `Rscript -e "rmarkdown::render('codebook.Rmd', output_format = 'md_document')"`
+1. Render the RMarkdown file: `Rscript -e "rmarkdown::render('codebook.Rmd', output_format = 'md_document')"`
 2. Format the generated Markdown: `uvx mdformat codebook.md`
 3. Check changes with `git diff codebook.md` and apply formatting changes back to codebook.Rmd (except title):
    - **Title format**: Keep title in YAML front matter (ignore mdformat's addition of `# Title` heading)
