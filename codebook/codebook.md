@@ -7,7 +7,8 @@
 
 - Paul Bederke — GESIS Leibniz Institute for the Social Sciences — since
   2019
-- Holger Döring — SOCIUM Research Center — since 2012
+- Holger Döring — SOCIUM Research Center, University of Bremen — since
+  2012
 - Sven Regel — WZB Berlin Social Science Center — 2012–2023 </br>
 
 **Contact**
@@ -19,7 +20,7 @@
 - Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of
   Political Parties Worldwide.” Party Politics 25(2): 97–109. doi:
   [10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671)
-- Bederke, Paul, Holger Döring, and Sven Regel. 2019. “Party Facts
+- Bederke, Paul, Holger Döring, and Sven Regel. 2018. “Party Facts
   Dataverse.”
   [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
 
