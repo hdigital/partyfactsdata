@@ -26,7 +26,7 @@
 
 # Overview
 
-**PF-Web** page [partyfacts.org](https://partyfacts.org) // **PF-Data**
+**PF-Web** page [partyfacts.org](http://partyfacts.org) // **PF-Data**
 [Github repository](https://github.com/hdigital/partyfactsdata) //
 **PF-Dataverse**
 [archive](https://dataverse.harvard.edu/dataverse/partyfacts)

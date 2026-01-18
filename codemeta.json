@@ -69,7 +69,7 @@
     "https://doi.org/10.1177/1354068818820671",
     "https://dataverse.harvard.edu/dataverse/partyfacts"
   ],
-  "isPartOf": "https://partyfacts.org",
+  "isPartOf": "http://partyfacts.org",
   "codeRepository": "https://github.com/hdigital/partyfactsdata",
   "programmingLanguage": "R",
   "dateCreated": "2015-11-09",
