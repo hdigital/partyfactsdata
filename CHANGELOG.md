@@ -28,6 +28,8 @@
   ([d108017](https://github.com/hdigital/partyfactsdata/commit/d108017))
 - Add a script to render codebook
   ([#83](https://github.com/hdigital/partyfactsdata/pull/83))
+- Add script to format files (changed since 2024)
+  ([#86](https://github.com/hdigital/partyfactsdata/pull/86))
 
 ## v2023 (2023-12-15)
 
