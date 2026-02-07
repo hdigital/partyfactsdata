@@ -10,8 +10,9 @@
 
 - Add a changelog
   ([#85](https://github.com/hdigital/partyfactsdata/pull/85))
-- Add CodeMeta software metadata
-  ([#78](https://github.com/hdigital/partyfactsdata/pull/78))
+- Add and harmonize metadata
+  ([#78](https://github.com/hdigital/partyfactsdata/pull/78),
+  [#87](https://github.com/hdigital/partyfactsdata/pull/87))
 - Add Codespaces configuration
   ([#77](https://github.com/hdigital/partyfactsdata/pull/77),
   [#82](https://github.com/hdigital/partyfactsdata/pull/82))
