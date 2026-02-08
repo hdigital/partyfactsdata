@@ -5,11 +5,11 @@
 
 **Project leaders**
 
-- Paul Bederke — GESIS Leibniz Institute for the Social Sciences — since
+- Paul Bederke — GESIS Leibniz Institute for the Social Sciences, Germany — since
   2019
-- Holger Döring — SOCIUM Research Center, University of Bremen — since
+- Holger Döring — SOCIUM Research Center, University of Bremen, Germany — since
   2012
-- Sven Regel — WZB Berlin Social Science Center — 2012–2023 </br>
+- Sven Regel — WZB Berlin Social Science Center, Germany — 2012–2023 </br>
 
 **Contact**
 
