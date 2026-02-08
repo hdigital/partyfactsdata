@@ -1,15 +1,15 @@
 ---
 agent: 'agent'
-description: 'Check metadata coherence across project files'
+description: 'Check metadata consistency.'
 ---
 
 # Metadata Coherence Check Prompt
 
-Check metadata consistency across Party Facts project files: codemeta.json, CITATION.cff, README.md, LICENSE.md, CHANGELOG.md, and codebook/codebook.Rmd.
+Check metadata consistency across Party Facts project files. `codemeta.json` is the **single source of truth** — all other files must be consistent with it.
 
 ## Files to Analyze
 
-1. `codemeta.json` (CodeMeta 3.0)
+1. `codemeta.json` (CodeMeta 3.0) — **authoritative source**
 2. `CITATION.cff` (CFF 1.2.0)
 3. `README.md`
 4. `LICENSE.md`
@@ -18,55 +18,19 @@ Check metadata consistency across Party Facts project files: codemeta.json, CITA
 
 ## Metadata Fields to Check
 
-### 1. Title/Name
-- **Expected:** "Party Facts data import"
-- **Exception:** codebook.Rmd uses "Party Facts Codebook" (intentional)
+For each field in `codemeta.json`, extract the authoritative value and verify consistency in the other files: title/name, description, authors, keywords, license, URLs, version, dates, references, contact.
 
-### 2. Description/Abstract
-- **Expected:** "Data import scripts and infrastructure for the Party Facts project, a gateway to empirical data about political parties worldwide."
+### Field-Specific Notes
 
-### 3. Authors
-**Expected order:**
-1. Paul Bederke - GESIS Leibniz Institute for the Social Sciences, Germany - ORCID: 0000-0001-7555-8656 - since 2019
-2. Holger Döring - SOCIUM Research Center, University of Bremen, Germany - ORCID: 0000-0002-6616-8805 - since 2012
-3. Sven Regel - WZB Berlin Social Science Center, Germany - NO ORCID - 2012-2023
-
-**CRITICAL:** Döring's affiliation must include "University of Bremen" not just "SOCIUM Research Center"
-
-### 4. Keywords
-**Expected (codemeta.json & CITATION.cff):** political science, comparative politics, political parties, data linking, data harmonization, research software
-
-### 5. License
-- **Expected:** MIT license
-- codemeta.json: `https://spdx.org/licenses/MIT`
-- CITATION.cff: `MIT`
-- LICENSE.md: Full MIT text with "Copyright (c) 2022 Party Facts authors"
-- **Note:** Copyright year 2022 is intentional (do not update)
-
-### 6. URLs
-- **Repository:** `https://github.com/hdigital/partyfactsdata`
-- **Primary project:** `http://partyfacts.org` (redirects 301 to herokuapp.com)
-- **Secondary:** `https://partyfacts.herokuapp.com`
-- **RSS Feed:** `https://partyfacts.herokuapp.com/documentation/news/feed/`
-- **DOI:** `https://doi.org/10.1177/1354068818820671`
-- **Dataverse:** `https://dataverse.harvard.edu/dataverse/partyfacts`
-- **ORCIDs:** `https://orcid.org/0000-0001-7555-8656` (Bederke), `https://orcid.org/0000-0002-6616-8805` (Döring)
-
-### 7. Version
-- **Expected:** "0" (development version, intentional despite tagged releases)
-
-### 8. Dates
-- codemeta.json: `"dateCreated": "2015-11-09"`
-- **Note:** ISO dates (YYYY-MM-DD) in metadata, years only in docs (intentional)
-
-### 9. References
-1. **Journal:** Döring & Regel. 2019. Party Politics 25(2): 97–109. DOI: 10.1177/1354068818820671
-2. **Dataverse:** Bederke, Döring & Regel. 2018. Harvard Dataverse
-3. **Self-reference** (CITATION.cff): Year should match date-released for development versions
-
-### 10. Contact
-- Present in README.md and codebook.Rmd (paul.bederke gesis org)
-- NOT in CITATION.cff (per project guidance)
+These are intentional and should NOT be flagged as issues:
+- **Title:** codebook.Rmd uses "Party Facts Codebook" (intentional, distinct document)
+- **Authors:** Sven Regel has no ORCID (not available)
+- **License:** Copyright year 2022 in LICENSE.md is intentional (do not update)
+- **URLs:** Both partyfacts.org and herokuapp.com are valid; http:// for partyfacts.org is correct (redirects to HTTPS)
+- **Version:** Development version "0", intentional despite tagged releases
+- **Dates:** ISO dates (YYYY-MM-DD) in metadata, years only in docs (intentional)
+- **References:** Self-reference year in CITATION.cff should be current year (no date-released for development version)
+- **Contact:** Present in README.md and codebook.Rmd — NOT in CITATION.cff
 
 ## URL and API Verification
 
@@ -96,19 +60,7 @@ curl -I https://w3id.org/codemeta/3.0  # Expect: 303 (redirect)
 
 **Status codes:** 200=OK, 202=Accepted, 301/302=Redirect, 303=See Other, 403=Forbidden (bot blocking, not an error), 404=Not Found (ERROR)
 
-**Troubleshooting:** partyfacts.org has bot protection that returns 403 for browser-like User-Agents and IPv6 requests; use `curl -4` (IPv4, curl default UA) to get the actual 301 redirect. Use `-L` to follow redirects, test 403s manually in browser
-
-## Intentional Design Choices
-
-These should NOT be flagged as issues:
-1. Version "0" - Marks development version despite tagged releases
-2. Copyright year 2022 - License assignment date, not to be updated
-3. Dual URLs - Both partyfacts.org and herokuapp.com are valid
-4. Sven Regel without ORCID - Not available
-5. Date precision differences - ISO in metadata, years in docs
-6. Codebook title - "Party Facts Codebook" is correct for distinct document
-7. http:// for partyfacts.org - Redirects to HTTPS; HTTP protocol is correct
-8. Self-reference year matches date-released - Acceptable for development versions
+**Troubleshooting:** partyfacts.org bot protection may return 403 even with `curl -4`; report as "unable to verify redirect from CLI" — do not assume browser access works. Use `-L` to follow redirects where possible
 
 ## Severity Levels
 
@@ -118,12 +70,12 @@ These should NOT be flagged as issues:
 
 ## Execution Steps
 
-1. **Extract Metadata:** Read all 6 files and extract metadata fields (1-10 above)
-2. **Compare Fields:** For each field, compare values across files, note differences, check if intentional
+1. **Read codemeta.json:** Extract all metadata fields as authoritative values
+2. **Compare Fields:** For each field, compare values in other files against codemeta.json, note differences, check if intentional
 3. **Identify Issues:** Document affected files, exact values, line numbers, severity, impact, recommendations
 4. **Verify URLs/APIs:** Test all URLs and API endpoints for accessibility and correct responses
 5. **Validate:** Run `uvx cffconvert --validate` on CITATION.cff
-6. **Generate Report:** Include executive summary, detailed findings by severity, metadata coverage table, compliance checks, URL verification results, recommended actions
+6. **Generate Report:** Include executive summary, detailed findings by severity (with line numbers), metadata coverage table, compliance checks, URL verification results, recommended actions
 
 ## Expected Output Format
 
@@ -166,37 +118,6 @@ Issues: X CRITICAL, Y WARNING, Z INFO
 ### Low Priority
 ```
 
-## Common Issues
-
-**High Priority:**
-- Incomplete affiliations (especially Döring missing "University of Bremen")
-- Date inconsistencies in CITATION.cff
-- License mismatches
-
-**Medium Priority:**
-- Contact format variations
-- URL protocol issues (http vs https)
-- API endpoint accessibility
-- CFF validation failures
-
-**Low Priority:**
-- Historical contributors not in metadata
-- Date precision documentation
-- Development status clarity
-
-## Validation Checklist
-
-- [ ] All 6 files analyzed
-- [ ] All 10 metadata fields checked
-- [ ] All URLs and API endpoints tested
-- [ ] Redirect behavior documented (partyfacts.org)
-- [ ] Intentional design choices excluded
-- [ ] Severity levels appropriate
-- [ ] Line numbers provided
-- [ ] Recommendations actionable
-- [ ] CITATION.cff validates: `uvx cffconvert --validate`
-- [ ] API endpoints return valid CSV data
-
 ## Update Strategy
 
 When project metadata changes:
@@ -205,8 +126,3 @@ When project metadata changes:
 3. Update human-readable docs (README, codebook)
 4. Run this coherence check
 5. Update CHANGELOG.md
-
----
-
-**Last Updated:** 2026-02-07
-**Related Files:** codemeta.json, CITATION.cff, README.md, LICENSE.md, CHANGELOG.md, codebook/codebook.Rmd
