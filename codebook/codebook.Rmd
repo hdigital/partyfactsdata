@@ -24,10 +24,10 @@ output:
 
 **Project leaders**
 
-- Paul Bederke — GESIS Leibniz Institute for the Social Sciences — since
+- Paul Bederke — GESIS Leibniz Institute for the Social Sciences, Germany — since
   2019
-- Holger Döring — SOCIUM Research Center — since 2012
-- Sven Regel — WZB Berlin Social Science Center — 2012–2023 </br>
+- Holger Döring — SOCIUM Research Center, University of Bremen, Germany — since 2012
+- Sven Regel — WZB Berlin Social Science Center, Germany — 2012–2023 </br>
 
 **Contact**
 
@@ -38,7 +38,7 @@ output:
 - Döring, Holger, and Sven Regel. 2019. "Party Facts: A Database of
   Political Parties Worldwide." Party Politics 25(2): 97–109. doi:
   [10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671)
-- Bederke, Paul, Holger Döring, and Sven Regel. 2019. "Party Facts
+- Bederke, Paul, Holger Döring, and Sven Regel. 2018. "Party Facts
   Dataverse."
   [dataverse.harvard.edu/dataverse/partyfacts](https://dataverse.harvard.edu/dataverse/partyfacts)
 
@@ -68,7 +68,7 @@ pf_external <-
 
 # Overview
 
-**PF-Web** page [partyfacts.org](https://partyfacts.org) // **PF-Data**
+**PF-Web** page [partyfacts.org](http://partyfacts.org) // **PF-Data**
 [Github repository](https://github.com/hdigital/partyfactsdata) //
 **PF-Dataverse**
 [archive](https://dataverse.harvard.edu/dataverse/partyfacts)
