@@ -1,24 +1,8 @@
 library(tidyverse)
-
-
-raw_whogov <- read_csv("source__whogov/whogov.zip", na = "NA")
-
-
-## PF-Data linked ----
-
-# keep data below inclusion threshold but linked by automatic import previously
-
-if(FALSE) {
-  read_csv("source__whogov/partyfacts-external-parties.csv",
-           na = "",
-           guess_max = 50000) %>%
-    filter(dataset_key == "whogov") %>%
-    select(dataset_party_id, partyfacts_id) %>%
-    write_csv("partyfacts-whogov.csv", na = "")
-}
-
+library(readxl)
+  
+raw_whogov <- read_xlsx("source__WhoGov_within_V3.1.xlsx", na = "NA")
 pf_ext <- read_csv("partyfacts-whogov.csv", na = "")
-
 
 ## Select variables ----
 
@@ -40,10 +24,14 @@ whogov <-
     party_english = case_when(
       party_id == "AFG-nca" ~ "National Coalition of Afghanistan",
       party_id == "BGD-jeb" ~ "Bangladesh Jamaat-e-Islami",
+      str_detect(party_english, "�") ~ NA_character_,
       T ~ party_english
     ),
     party_otherlanguage = case_when(
-      str_detect(party_otherlanguage, "<U+") ~ NA_character_,
+      party_id == "IRQ-bo" ~ "Munazzama Badr",
+      str_detect(party_otherlanguage, "U+") ~ NA_character_,
+      str_detect(party_otherlanguage, "�") ~ NA_character_,
+      str_detect(party_otherlanguage, "-") ~ NA_character_,
       T ~ party_otherlanguage
     )
   ) %>%
@@ -55,9 +43,7 @@ whogov <-
   ) %>%
   select(-year)
 
-
 duplicated(whogov$party_id) %>% any()
-
 
 ## First minister ----
 
@@ -67,9 +53,8 @@ wg_first <-
   mutate(
     minister_first = glue::glue("{year} {name} ({position})"),
     minister_first = str_replace(minister_first, fixed("Min. Of "), "Minister of ")
-    ) %>%
+  ) %>%
   select(country_isocode, party, minister_first)
-
 
 # Final data ----
 
@@ -91,7 +76,12 @@ file_out <-
   ) %>%
   relocate(name_short, .before = name_english) %>%
   filter( ! party %in% c("unknown")) %>%
-  filter(n > 5 | ! is.na(partyfacts_id))
+  filter(n > 3 | ! is.na(partyfacts_id)) |> 
+  select(
+    country_short, name_short, name_english, name,
+    year_first, year_last, n, minister_first,
+    party, party_id, partyfacts_id
+  )
 
 
 duplicated(file_out$party_id) %>% any()
