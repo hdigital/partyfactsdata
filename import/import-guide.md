@@ -154,7 +154,7 @@ The folder needs to contain:
 The folder may contain your original dataset. The dataset can be ignored
 in Github if it includes information required to run the script but
 should not be published on the Party Facts Github page. In this case,
-please provide the dataset with the name *source\_\_*filename (two
+please provide the dataset with the name \*source\_\_\*filename (two
 underscores). Files and folders starting with _‘source\_\_’_ will be
 ignored in Github and thus not be available publicly.
 

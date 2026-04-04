@@ -1,6 +1,6 @@
 ---
-agent: 'agent'
-description: 'Synchronize codebook.Rmd and codebook.md with consistent formatting.'
+agent: "agent"
+description: "Synchronize codebook.Rmd and codebook.md with consistent formatting."
 ---
 
 1. Render the RMarkdown file: `Rscript -e "rmarkdown::render('codebook.Rmd', output_format = 'md_document')"`

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
 title: "Party Facts data import"
-version: "0"  # no "date-released" for development version
+version: "0" # no "date-released" for development version
 url: "http://partyfacts.org"
 repository-code: "https://github.com/hdigital/partyfactsdata"
 license: MIT
@@ -61,5 +61,5 @@ references:
       - family-names: Regel
         given-names: Sven
     title: "Party Facts data import"
-    year: 2026  # current year for development version
+    year: 2026 # current year for development version
     url: "https://github.com/hdigital/partyfactsdata"

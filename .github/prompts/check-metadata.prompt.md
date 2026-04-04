@@ -1,6 +1,6 @@
 ---
-agent: 'agent'
-description: 'Check metadata consistency.'
+agent: "agent"
+description: "Check metadata consistency."
 ---
 
 # Metadata Coherence Check Prompt
@@ -23,6 +23,7 @@ For each field in `codemeta.json`, extract the authoritative value and verify co
 ### Field-Specific Notes
 
 These are intentional and should NOT be flagged as issues:
+
 - **Title:** codebook.Rmd uses "Party Facts Codebook" (intentional, distinct document)
 - **Authors:** Sven Regel has no ORCID (not available)
 - **License:** Copyright year 2022 in LICENSE.md is intentional (do not update)
@@ -35,6 +36,7 @@ These are intentional and should NOT be flagged as issues:
 ## URL and API Verification
 
 ### URLs to Verify
+
 ```bash
 # Project URLs
 curl -4 -I http://partyfacts.org  # Expect: 301 → https://partyfacts.herokuapp.com (use -4 for IPv4; bot protection may return 403 instead — verify 301 with -4 flag)
@@ -81,14 +83,18 @@ curl -I https://w3id.org/codemeta/3.0  # Expect: 303 (redirect)
 
 ```markdown
 # Party Facts Data Project - Metadata Coherence Report
+
 Generated: YYYY-MM-DD
 
 ## Executive Summary
+
 ✅ CITATION.cff validation: [PASS/FAIL]
 Issues: X CRITICAL, Y WARNING, Z INFO
 
 ## Critical Issues
+
 ### [Issue Name]
+
 **Files:** [list]
 **Issue:** [description]
 **Impact:** [statement]
@@ -96,31 +102,39 @@ Issues: X CRITICAL, Y WARNING, Z INFO
 **Lines:** [references]
 
 ## Warning Issues
+
 [same structure]
 
 ## Metadata Coverage Summary
+
 | Field | codemeta | CFF | README | LICENSE | CHANGELOG | codebook | Status |
 [...table...]
 
 ## Compliance with Standards
+
 - CodeMeta 3.0: [✅/❌]
 - CFF 1.2.0: [✅/❌]
 - SPDX: [✅/❌]
 - ORCID: [✅/❌]
 
 ## URL and API Verification
+
 | Category | URL | Status | Notes |
 [...table...]
 
 ## Recommended Actions
+
 ### High Priority
+
 ### Medium Priority
+
 ### Low Priority
 ```
 
 ## Update Strategy
 
 When project metadata changes:
+
 1. Update codemeta.json first (authoritative)
 2. Update CITATION.cff to match
 3. Update human-readable docs (README, codebook)

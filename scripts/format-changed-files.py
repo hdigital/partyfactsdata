@@ -43,7 +43,13 @@ def main():
 
     # Filter by extension, excluding codebook.md
     r_files = [f for f in files if f.endswith(".R")]
-    md_files = [f for f in files if f.endswith(".md") and f != "codebook/codebook.md"]
+    md_files = [
+        f
+        for f in files
+        if f.endswith(".md")
+        and not f.endswith(".prompt.md")
+        and f != "codebook/codebook.md"
+    ]
 
     # Format R files
     if r_files:
