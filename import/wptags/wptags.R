@@ -11,20 +11,28 @@ if (FALSE) {
 
 wp_raw <- read_csv(source_file)
 
-wp <- wp_raw %>%
-  filter(!is.na(position)) %>%
+wp <- wp_raw |>
+  filter(!is.na(position)) |>
   mutate(
     left_right = round(position, 2),
+    # source stamps a stale placeholder year_last for still-active parties
+    year_last = if_else(year_first > year_last, NA_real_, year_last),
     tags = glue::glue(
       "tags position: {tags_position}\n",
       "tags ideology: {tags_ideology}\n",
       "tags used: {tags_used}",
       .na = ""
-    ),
-  ) %>%
+    ) |>
+      str_replace_all(" +\n", "\n") |>
+      str_trim("right"),
+  ) |>
   select(
-    country, partyfacts_id, starts_with("name"),
-    left_right, year_first:share_year, tags
+    country,
+    partyfacts_id,
+    starts_with("name"),
+    left_right,
+    year_first:share_year,
+    tags
   )
 
 write_csv(wp, "wptags.csv", na = "")
@@ -34,16 +42,16 @@ write_csv(wp, "wptags.csv", na = "")
 
 library(sf)
 
-map <- read_rds("../worldmap.rds")  # Natural Earth based world map
+map <- read_rds("../worldmap.rds") # Natural Earth based world map
 
 map_pa <-
-  map %>%
-  inner_join(wp %>% count(country, name = "parties"))
+  map |>
+  inner_join(wp |> count(country, name = "parties"))
 
 pl <- ggplot() +
   geom_sf(data = map, lwd = 0.1, fill = "grey85") +
   geom_sf(data = map_pa, aes(fill = parties), lwd = 0.25) +
-  coord_sf(crs = "+proj=robin") +  # World
+  coord_sf(crs = "+proj=robin") + # World
   scale_fill_continuous(
     trans = "log",
     breaks = c(3, 6, 12, 25, 50, 100),
